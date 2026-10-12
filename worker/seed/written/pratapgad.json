@@ -1,0 +1,77 @@
+{
+ "query": "Pratapgad",
+ "region": "maharashtra",
+ "name": "Pratapgad",
+ "draft": {
+  "briefing": "Hey, you're at Pratapgad! This hilltop fort, about 1,080 m up, is where Chhatrapati Shivaji Maharaj faced the Bijapur Sultanate general Afzal Khan in the Battle of Pratapgad on 10 November 1659. Walk up from the lower fort's main gate to the upper fort for the temples, the Shivaji Maharaj statue and huge views over the hills.",
+  "hungryLine": "There's no proper eating scene up at the fort, so save your appetite for Mahabaleshwar, 24 km away, famous for strawberries, roasted or boiled local corn and a good vada pav.",
+  "moodReplies": {
+   "show-me-around": "Start at the main entrance in the lower fort, then climb to the upper fort for the temples, the statue of Shivaji Maharaj and the old watch towers and bastions.",
+   "somewhere-to-chill": "Find a quiet spot along the high walls of the upper fort and just take in the view over the surrounding hills and valleys.",
+   "surprise-me": "The Krishna river, which flows all the way across Maharashtra, Karnataka, Telangana and Andhra Pradesh to the Bay of Bengal, starts up the road in Mahabaleshwar, along with several of its tributaries."
+  },
+  "seeFirst": {
+   "caption": "At the fort and up the road",
+   "spots": [
+    {
+     "name": "Pratapgad",
+     "detail": "1 min walk · Upper fort with temples, the Shivaji Maharaj statue and old bastions",
+     "status": {
+      "text": "Wear good shoes for the climb",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mahabaleshwar",
+     "detail": "24 km away · The old British summer hill station, with viewpoints and the source of the Krishna",
+     "status": {
+      "text": "Busy on weekends",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time it for sunrise or sunset.",
+    "body": "Pair the fort with Wilson Point or Kate's Point in Mahabaleshwar for sunrise, or Bombay Point or Elphinstone Point for sunset."
+   },
+   {
+    "icon": "tag",
+    "title": "Plan your restroom stops.",
+    "body": "Public viewpoints around Mahabaleshwar hardly have restrooms, so use a proper stop like Mapro Garden on the way."
+   }
+  ],
+  "story": [
+   {
+    "era": "1659",
+    "title": "The Battle of Pratapgad",
+    "body": "On 10 November 1659, Chhatrapati Shivaji Maharaj met the Bijapur Sultanate general Afzal Khan here. That battle is what made this fort famous.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Maratha era",
+    "title": "Built to defend",
+    "body": "The fort was split into a lower and an upper fort, with two main entrances guarded by high walls. Watch towers and bastions gave its defenders a real strategic edge.",
+    "illustration": "palace"
+   },
+   {
+    "era": "British era",
+    "title": "A summer capital next door",
+    "body": "The British developed nearby Mahabaleshwar as a hill station. It became the summer capital of the Bombay Presidency.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A fort for visitors",
+    "body": "Pratapgad is now a tourist destination. The upper fort holds temples, a modern statue of Shivaji Maharaj and several buildings.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

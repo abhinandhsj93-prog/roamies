@@ -1,0 +1,134 @@
+{
+ "query": "Satara",
+ "region": "maharashtra",
+ "name": "Satara",
+ "draft": {
+  "briefing": "Hey, you're in Satara! The city takes its name from the seven forts (Sat-Tara) on the hills around it, and it was once the seat of the Maratha Chhatrapati Shahu I. Locals also call it a Soldier's city and a Pensioner's city.",
+  "hungryLine": "You can't leave without trying Satari kandi pedhe and a plate of Satari special missal.",
+  "moodReplies": {
+   "show-me-around": "Climb up to Ajinkyatara, the fort on one of the seven hills around the city, then head to the Char Bhinti memorial for views of both the city and the fort.",
+   "somewhere-to-chill": "Drive about 20 km out to Thoseghar Waterfalls, where there's a picnic area and a platform to watch the falls.",
+   "surprise-me": "Satara's Natraj Mandir is a replica of the original Nataraja temple in Tamil Nadu, built in the 1980s with several towers and four gateways."
+  },
+  "seeFirst": {
+   "caption": "In and around the city",
+   "spots": [
+    {
+     "name": "Ajinkyatara",
+     "detail": "On a hill above the city · 'The Impregnable Star', one of Satara's seven forts",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sajjangad",
+     "detail": "18 km away · Fort, pilgrimage site and final resting place of Sant Ramdas",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Thoseghar Waterfalls",
+     "detail": "About 20 km away · Picnic area and a viewing platform for the falls",
+     "status": {
+      "text": "Check conditions locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Satara",
+    "title": "The city of seven forts",
+    "body": "Ask anyone where the name comes from and they'll point to the hills. Satara means Sat-Tara, after the seven forts that ring the city."
+   },
+   {
+    "where": "Pateshwar",
+    "title": "A hill of pindis",
+    "body": "In Degav village, about 10 km from Satara, Pateshwar is the place of God Mahadev. It is surrounded by around 300,000 pindis, sacred stones."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Cool off the local way.",
+    "body": "Grab a sugarcane juice, mango juice or buttermilk between sights, they're the go-to drinks here."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress respectfully at Sajjangad.",
+    "body": "It's the final resting place of Sant Ramdas and a pilgrimage site, not just a fort."
+   }
+  ],
+  "story": [
+   {
+    "era": "1500s",
+    "title": "A city by the rivers",
+    "body": "Satara was established in the 16th century near where the Venna meets the Krishna. Seven forts watched over it from the surrounding hills.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Maratha era",
+    "title": "Seat of the Chhatrapati",
+    "body": "Satara became the seat of the Chhatrapati of the Maratha Empire, Shahu I. It was the last seat of the empire, and many of its monuments and forts still stand.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1961",
+    "title": "India's first Sainik School",
+    "body": "On 23 June 1961 the Government of India set up Sainik School Satara, the first of the Sainik Schools. It prepares students for the National Defence Academy at Khadakwasla.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1980s",
+    "title": "A Tamil temple in Satara",
+    "body": "The Natraj Mandir was built as a replica of the original Nataraja temple in Tamil Nadu. It has several towers, four gateways and shrines within the complex.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Soldiers, pensioners and wildflowers",
+    "body": "Satara had about 1.8 lakh people in 2011 and is known as a Soldier's city and a Pensioner's city. Nearby Kaas Plateau is a UNESCO World Heritage site famous for wildflowers.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Kanase Dhabha",
+    "detail": "Go for the special non-veg",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Maratha Khanawal",
+    "detail": "Known for its special non-veg",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Gokul Dhaba",
+    "detail": "At Paathkhal Matha, order the special chicken handi",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}
