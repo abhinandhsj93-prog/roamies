@@ -1,0 +1,59 @@
+{
+ "query": "Chettinad",
+ "found": "Chettinad, Chetinad Railway Feeder Road, Kanadukathan, Karaikkudi, Sivagangai, Tamil Nadu, 623103, India",
+ "lat": 10.159908,
+ "lon": 78.7764148,
+ "fetchedAt": "2026-10-12T19:23:15.177Z",
+ "locality": {
+  "id": "kanadukathan-sivagangai-tamil-nadu",
+  "name": "Kanadukathan",
+  "area": "Karaikkudi, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Kanadukathan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Kanadukathan_Town_Panchayat.jpg/1280px-Kanadukathan_Town_Panchayat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kanadukathan",
+   "credit": "Photo: Thamizhpparithi Maari, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanadukathan_Town_Panchayat.jpg"
+  },
+  "Chettinad": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg/1280px-The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chettinad",
+   "credit": "Photo: User:Karthick jack, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Chettinad",
+   "text": "Chettinad  (also known as Chettinadu) is a region in Tamil Nadu comprising 56 villages in Sivaganga district and 20 villages in Pudukottai district, which was historically ruled by the Ramnad kingdom of Pandya Nadu. It has a small portion extending into the Pudukottai District in Tamil Nadu; Karaikudi is the major city of this area and is considered the urban centre for the Chettinadu villages.\n\n\n== Etymology ==\nThe name chettinad(u) comes from 2 Tamil words Chettiar and Nadu. Chettiar refers to a specific community of traders, Landlords people and Nadu means land. Collectively called as \"land of the Chettiars\".\n\n\n== Demography ==\nIn the 19th and early 20th centuries, many residents of Chettinad were trading in South and Southeast Asia, particularly Burma, Ceylon, Vietnam and Malaysia. By 2010, only 74 villages remained of the original 96, organised in clusters spread over a territory of 1,550 square kilometres (600 square miles) in the districts of Sivagangai and Pudukottai in the State of Tamil Nadu. It finds itself in the UNESCO nomination for palatial house sites of historic and cultural value. It is located on National Highway 536 between Trichy and Karaikudi which is approximately...",
+   "url": "https://en.wikipedia.org/wiki/Chettinad"
+  },
+  {
+   "title": "Kanadukathan",
+   "text": "Kanadukathan is a Town Panchayat in the Karaikudi taluk of the Indian state of Tamil Nadu. \n\n\n== Demographics ==\nIn 2001, Kanadukathan had a population of 4,795 people. Of these, 10% were under 6 years of age. The town is evenly split between males and females. Kanadukathan has a literacy rate of 74%, higher than the national average of 63.4%. According to the Indian census, the male literacy rate is 80% and the female literacy rate is 67%.\n\n\n== Specialities ==\nKanadukathan is most famous for its Chettinad cuisine and for the architecture of its houses, whose main entrances are shaped to resemble those of temples.\n\n\n== Events ==\nFestival of the Goddess of Beauty (Tamil: பொன்னழகி அம்மன் திருவிழா) is a 10-day festival held in May every year.\nHari Poojai is held in May every year.\nSivarathiri is held in March. During Shivaratri, people take kavadi from Pazhaiyur (old Kanadukathan) to the Solai Andavar Temple (approximately 4 km).\nfestival of the nagamuthu mariamman temple chiththira full moon day function is a 10 days\nfestival held in April–May every year\n\n\n== Schools / Colleges ==\nM.ct.M.Chidambaram Chettiyar Higher Secondary School [ISO 9001 Certified]\nM.ct.M.Chidambaram Chettiyar Elementary...",
+   "url": "https://en.wikipedia.org/wiki/Kanadukathan"
+  },
+  {
+   "title": "Chettinad railway station",
+   "text": "Chettinad railway station (station code:CTND) is an NGS 6 category Indian railway station in Madurai railway division of Southern Railway zone. It serves Chettinad and Kanadukathan, located in northern suburb of Karaikudi Municipal Corporation in Sivaganga district of the Indian state of Tamil Nadu.",
+   "url": "https://en.wikipedia.org/wiki/Chettinad_railway_station"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Chettinad railway station",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 10.16061111111111,
+   "lon": 78.77591944444444
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

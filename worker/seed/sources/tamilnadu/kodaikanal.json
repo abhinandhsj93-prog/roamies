@@ -1,0 +1,143 @@
+{
+ "query": "Kodaikanal",
+ "found": "Kodaikanal, Dindigul, Tamil Nadu, India",
+ "lat": 10.233712,
+ "lon": 77.4919719,
+ "fetchedAt": "2026-10-12T19:28:30.711Z",
+ "locality": {
+  "id": "naidupuram-dindigul-tamil-nadu",
+  "name": "Naidupuram",
+  "area": "Kodaikanal, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Kodaikanal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Boating_in_Kodaikanal_Lake_with_Mist.jpg/1280px-Boating_in_Kodaikanal_Lake_with_Mist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kodaikanal",
+   "credit": "Photo: KARTY JazZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boating_in_Kodaikanal_Lake_with_Mist.jpg"
+  },
+  "Kodaikanal International School": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kodaikanal_International_School-Margret_Eddy_Memorial_Church-WUS05109.jpg/1280px-Kodaikanal_International_School-Margret_Eddy_Memorial_Church-WUS05109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kodaikanal International School",
+   "credit": "Photo: Rainer Halama, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kodaikanal_International_School-Margret_Eddy_Memorial_Church-WUS05109.jpg"
+  },
+  "Kodaikanal Lake": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kodaikanal_lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kodaikanal Lake",
+   "credit": "Photo: Unknown, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kodaikanal_lake.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kodaikanal",
+   "text": "Kodaikanal (ko-DYE-KAH-null, Tamil pronunciation: [ko'ɖaɪ'kaːnəl]) is a town and hill station in Dindigul district in the state of Tamil Nadu, India. It is situated at an altitude of 2,225 m (7,300 ft) in the Palani Hills of the Western Ghats. Kodaikanal was established in 1845 to serve as a refuge from the high temperatures and tropical diseases during the summer in the plains. It is a popular tourist destination and is referred to as the \"Princess of Hill stations\" with much of the local economy is based on the hospitality industry serving tourism. As per the 2011 census, the town had a population of 36,501.",
+   "url": "https://en.wikipedia.org/wiki/Kodaikanal"
+  },
+  {
+   "title": "Kodaikanal International School",
+   "text": "Kodaikanal International School (KIS) is a co-educational independent residential school offering education for grades P-12. It is located on 43 acres (0.17 km2) in Kodaikanal, Dindigul, Tamil Nadu, India. Kodaikanal is a hill station at 2,133 m (6,998 ft) in the Palani Hills, 121 kilometres (75 mi) northwest of Madurai.\nEarly alumni of KIS include US Ambassador to India Robert F. Goheen (1936) and US Senator Chris Van Hollen (1977).\nIn 1975, KIS became the first school in India to offer the International Baccalaureate Diploma Program (IB) and the IB Middle Years Program (MYP). It also awards its own certificate, the KIS Diploma, to all graduates. It is accredited by the Middle States Association of Colleges and Schools (US) and recognized by the Association of Indian Universities.\nThe current principal is Bradford (Dr. Brad) Barnhardt.",
+   "url": "https://en.wikipedia.org/wiki/Kodaikanal_International_School"
+  },
+  {
+   "title": "Kodaikanal Lake",
+   "text": "Kodaikanal Lake, also known as Kodai Lake, is a manmade lake located in the Kodaikanal city in Dindigul district in Tamil Nadu, India. Sir Vere Henry Levinge, the then Collector of Madurai,  was instrumental in creating the lake in 1863, amidst the Kodaikanal town which was developed by the British and early missionaries from USA. The lake is said to be Kodaikanal's most popular geographic landmark and tourist attraction.\n\nOver the years a boat club, boathouse and boat service (with rowing boats and pedalling boats and a public ferry) for the public and tourists has become fully functional and is of aesthetic significance for tourism. Boat Pageant and Flower Shows are a regular feature in the summer season which attracts tourists. Bryant Park is situated adjacent to the lake.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Kodaikanal_Lake"
+  },
+  {
+   "title": "Kodaikanal taluk",
+   "text": "Kodaikanal taluk is a taluk of Dindigul district of the Indian state of Tamil Nadu. The headquarters of the taluk is the town of Kodaikanal.",
+   "url": "https://en.wikipedia.org/wiki/Kodaikanal_taluk"
+  },
+  {
+   "title": "Kodaikanal block",
+   "text": "Kodaikanal block is a revenue block in the Dindigul district of Tamil Nadu, India. It has a total of 15 panchayat villages.",
+   "url": "https://en.wikipedia.org/wiki/Kodaikanal_block"
+  },
+  {
+   "title": "Kodaikanal division",
+   "text": "Kodaikanal division is a revenue division in the Dindigul district of Tamil Nadu, India.",
+   "url": "https://en.wikipedia.org/wiki/Kodaikanal_division"
+  },
+  {
+   "title": "Kodaikanal Assembly constituency",
+   "text": "Kodaikanal is a former state assembly constituency in Dindigul district in Tamil Nadu, India.",
+   "url": "https://en.wikipedia.org/wiki/Kodaikanal_Assembly_constituency"
+  },
+  {
+   "title": "Shembaganur Museum of Natural History",
+   "text": "Shembaganur Museum of Natural History is a natural history museum located in the Kodaikanal region of Dindigul district, Tamil Nadu, South India. Established in 1895, the museum houses an extensive collection of exhibits across the fields of anthropology, botany, zoology, and handicrafts.",
+   "url": "https://en.wikipedia.org/wiki/Shembaganur_Museum_of_Natural_History"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kodaikanal",
+  "text": "Kodaikanal  is a hill station in the Palani Hill Range. It offers beautiful surrounding nature and considerably lower temperatures than other places in Tamil Nadu. It lies 7,200 ft (2,200 m) above sea level in the Dindigul District amongst the Western Ghats of India.\n\n\n== See ==\n\n\n=== Lakes ===\n1 Kodai Lake (Kodaikanal Lake). If you are going in winter, go boating in the evening, as it's an amazing experience to boat through fog settling on the lake. The lake is very near the bus stand. This is a star-shaped lake and walking around it during the night is one of the best walking experiences you can have in your life. Be cautious, there are lot of dogs around this lake and some places are extremely dark. Walk between 6 and 7PM, then head back to your room. \n2 Berijam Lake. Perhaps the most pristine of the three lakes in Kodai. This is a plastic free zone and it is beautiful and serene. The lake lies within a reserved forest region. You must get permission to visit this lake. Permissions need to be obtained on the morning of the intended day of visit from the forest office. Usually the person who arranges the vehicle will arrange the permit. Moreover, in peak season, a limited number of vehicles are allowed in per day. \n\n\n=== Water Falls ===\n3 Bear Shola falls. This is a really beautiful water falls. But during some seasons there may not be any water there. But climbing up the falls is a good trek. [Not open to public as on 13.01.2025] \n4 Silver Cascade. It's a nice waterfall on the road side from Kodai Road, just before 4-5 km from Kodaikanal. The cold water flows and it's really super to bathe in the cold water and travel in between the eucalyptus trees. If you are going to Kodaikanal by private vehicle on the way, you can visit the place. Buy fresh carrots and some exotic veggies around here. \n5 Vattakanal Water Falls.  (updated Sep 2021)\n6 Fairy Falls.  (updated Sep 2021)\n\n\n=== Caves ===\n Devil's Kitchen. A cave known more to the locals, First being \"Green Valley View\" and \"Pillar Rocks\" and then finally \"Guna Cave\". Watch out for th\n== Do ==\nBoating at the Kodai lake - paddle and row boats are available at the lake. Entrance is via the Kodaikanal Boat Club.\nCycle around the lake - and watch the clouds while they slowly descend onto the water; cycles are available for hire at the lake on an hourly basis. It is possible to cycle to other places although cycling one way will be difficult due to the hilly terrain. Do check the cycles before setting out.\n Fun park, near fairy falls (via peter school through fairy falls road), ☏ +91 94871447131.  \n games, near fairy falls (via peter school), ☏ +91 94871447131.  \nHorse riding - Right near the front of the entrance to the boat club, you can rent a horse (with the trainer) to take you around the lake.\nTrekking - Kodai offers several scenic trekking spots, including one which is to walk along the stream which goes to Dolphin's Nose. Kodai tourist office has a trekking guide which is available for free there, which lists all the possible trekking routes and difficulty levels. The tourist office advises people to take guides and offers to provide them, although this is not necessary. An easy trek is to Perumalmalai, the tallest mountain in the area.\nWander About - Kodai has numerous waterfalls and beautiful views not mentioned in the tourist guides, so wandering about can bring you to some spectacular place.\nWatch a Tamil movie - go down the PT road, continue to S-road. Then turn left, after the petroleum station. Just ask which way is to cinema, almost every local knows it. Vellaiyappan cinema theatre is an old building with relatively big screen and cheap tickets - great experience.\n Bodhi zendo, Perumalmalai / Kodaikanal (up a hill from Perumalmalai), ☏ +91 90 475 46 879, mail@bodhizendo.org. Bodhi Zendo is a zen retreat centre open to spiritual seekers fro\n== Eat ==\nAstoria Veg Reasturant - a vegetarian restaurant in Kodai.\n Chocolate factory (near Petrol Station). A good collection of home made chocolate. They also have a good varieties of fruit syrup filled chocolate. Try the hot chocolate, ₹60 per cup. \n Cloud Street, PT Road. 8:30-8:30. Serves pasta, sizzlers, Continental food and other international cuisine. Barbeque chicken sizzlers, pastas, lemon cake and chocolate biscuits. \nEden Paradise Restaurant, Paradise Compound, Laws Ghat Road. Serves tasty ethnic Keralite cuisine.\nPastry Corner - Cakes, pastry, coffee and tea are excellent in this place. People here are well educated and kind. Located near bus stand and Astoria Veg Restaurant. Never miss this small but a good place.\nPine & Petals, JC Residency, Convent Road, Naidupuram. Multi-cuisine restaurant.\n PotLuck, PT Road (Opposite the milk union). 10:30AM-7PM. A cute little European style cafe with outdoor seating on the verandah (balcony); PotLuck serves fresh food and off-the-shelf delicacies carefully cooked in Kodai kitchens. The fresh food consists of an international menu including pastas, quesadillas, sandwiches, Spanish omelettes and waffles/pancakes. You can take away off-the-shelf items like coffee-bean chocolates, lemon curd, Mexican salsas, burgers, fresh thin crust pizzas, garlic pickles and marmelades. All profits go towards providing scholarships for needy children. ₹40-110. \nRasoi, 106 Maratha Shopping Complex, Annasalai. Serves excellent Gujarati and veg. Punjabi thali. The Chola batora and alu paratha are their specialities.\nThe Royal Tibet -PT Road. In this restaurant you will get best momos specially potato cheese momo for vegetarian, for non-veg you can choose beef, chicken and mutton. Noodles are freshly made everyday and you get fantastic so\n== Drink ==\nIn the town and district you can barely buy bottled mineral water under 5 litres. Your accommodation may provide drinking water. But while walking through the streets and while visiting the natural beauties, you may not find bottled water in a handy size. Throughout the town are a few \"water ATMs\" which are made for bringing your own bottle, not for drinking directly from them.\nThere is a shop near the bus stand, where you can get some standard Indian whisky, beer, vodka, etc.\n\n\n=== Bars & lounges ===\n Carlton Hotel, Carlton Lake Rd, ☏ +91 4542-241231.  \n End of the Road, The Carlton Hotel, Lake Road, ☏ +91 4542-240056.  \n Oasis Bar, No 17/328 Kodai International Hotel (near Zion School), ☏ +91 4542-245190.  \n Sterling Resorts, Pallangi Road, Vilpatti, ☏ +91 4542-242437.  \n\n",
+  "url": "https://en.wikivoyage.org/wiki/Kodaikanal"
+ },
+ "sights": [
+  {
+   "name": "Kodaikanal International School",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 10.235277777777776,
+   "lon": 77.48916666666666
+  },
+  {
+   "name": "Kodaikanal Lake",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 10.2344,
+   "lon": 77.4863
+  },
+  {
+   "name": "Kodaikanal Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 10.24,
+   "lon": 77.49
+  },
+  {
+   "name": "Shembaganur Museum of Natural History",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 10.23,
+   "lon": 77.5
+  },
+  {
+   "name": "Kodaikanal block",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 10.23,
+   "lon": 77.48
+  },
+  {
+   "name": "Kodaikanal division",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 10.23,
+   "lon": 77.48
+  },
+  {
+   "name": "Kodaikanal taluk",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 10.23,
+   "lon": 77.48
+  },
+  {
+   "name": "Kodaikanal",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 10.23,
+   "lon": 77.48
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "query": "T. Nagar, Chennai",
+ "found": "Thiyagaraya Nagar, Zone 10 Kodambakkam, Chennai, Chennai Metropolitan Area, Chennai District, Tamil Nadu, 600017, India",
+ "lat": 13.0378289,
+ "lon": 80.231836,
+ "fetchedAt": "2026-10-12T19:15:02.342Z",
+ "locality": {
+  "id": "zone-10-kodambakkam-chennai-district-tamil-nadu",
+  "name": "Zone 10 Kodambakkam",
+  "area": "Chennai, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "T. Nagar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Chennai_Shopping.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "T. Nagar",
+   "credit": "Photo: Remi Boissonnas, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chennai_Shopping.jpg"
+  },
+  "Ranganathan Street": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/TNagar_Ranganathan_Street.JPG/1280px-TNagar_Ranganathan_Street.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ranganathan Street",
+   "credit": "Photo: Yoga Balaji, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TNagar_Ranganathan_Street.JPG"
+  },
+  "Pondy Bazaar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Soundarapandian_Nadar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Pondy Bazaar",
+   "credit": "Photo: Ravichandar84, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soundarapandian_Nadar.jpg"
+  },
+  "Chennai Central Lok Sabha constituency": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Dayanidhi_Maran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Chennai Central Lok Sabha constituency",
+   "credit": "Photo: Ministry of Communications, GODL-India, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dayanidhi_Maran.jpg"
+  },
+  "Panagal Park": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Panagal_Park.jpg/1280px-Panagal_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Panagal Park",
+   "credit": "Photo: Balajijagadesh, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panagal_Park.jpg"
+  },
+  "Exnora International": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/ExnoraY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Exnora International",
+   "credit": "Photo: SMRahavan, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ExnoraY.jpg"
+  },
+  "Sri Venkateswara Swamy Temple, T. Nagar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rama_with_Kodhanda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Sri Venkateswara Swamy Temple, T. Nagar",
+   "credit": "Photo: Rasnaboy, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rama_with_Kodhanda.jpg"
+  },
+  "Natesan Park": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Dr_Natesan.jpg/1280px-Dr_Natesan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Natesan Park",
+   "credit": "Photo: User:Commons_sibi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr_Natesan.jpg"
+  },
+  "Mambalam railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mambalam_railway_station_%28June_2025%29.jpg/1280px-Mambalam_railway_station_%28June_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mambalam railway station",
+   "credit": "Photo: Sameer2905, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mambalam_railway_station_(June_2025).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "T. Nagar",
+   "text": "Theagaraya Nagar, popularly known by its abbreviated form T. Nagar, and historically as East Mambalam, is a busy shopping district of Chennai, Tamil Nadu, India. It is situated at a minimum distance of about 8 kilometres (5.0 miles) from kilometre zero of Chennai city and forms part of the Mambalam taluk of Chennai district. Largely comprising retail chains selling jewellery, readymade clothes, undergarments, footwear, utensils, toys and stationery on Ranganathan Street, Usman Road and Pondy Bazaar with Panagal Park at its centre, it is one of the busiest of its kind in Asia. \nOriginally covered by the Long Tank, a vast reservoir to the west of Madras city and part of the zamindari of Mambalam, T. Nagar had its origins in the Mambalam Town Planning Scheme conceived by the Madras Presidency government of the Raja of Panagal (1921-1925) for the draining out of the Long Tank and creation of a planned residential neighbourhood in the eastern part of the zamindari. Some of the iconic landmarks of T. Nagar including Panagal Park and the radial streets that were named after prominent city officials and politicians were laid out during this period. Named Theagaraya Nagar after Justice Party...",
+   "url": "https://en.wikipedia.org/wiki/T._Nagar"
+  },
+  {
+   "title": "Ranganathan Street",
+   "text": "Ranganathan Street is a major commercial street in the neighborhood of T. Nagar, located in Chennai, India. It is one of the most crowded streets in Chennai. The street houses several commercial establishments, primarily those involved in the clothing and jewelry industry. It has often been referred to as the most crowded street in Chennai.",
+   "url": "https://en.wikipedia.org/wiki/Ranganathan_Street"
+  },
+  {
+   "title": "Pondy Bazaar",
+   "text": "Pondy Bazaar, officially called Soundarapandianar Angadi, is a market situated on Sir Theagaraya Road in T. Nagar, Chennai. Along with Ranganathan Street and Panagal Park, it makes up one of the principal shopping districts of Chennai.",
+   "url": "https://en.wikipedia.org/wiki/Pondy_Bazaar"
+  },
+  {
+   "title": "West Mambalam",
+   "text": "West Mambalam is a residential and commercial area in Chennai, India. It is known for its shops, bazaars and Hindu temples. It is bounded by Kodambakkam to the north and Saidapet to the south. T. Nagar and Nandanam stretch along its entire eastern frontier while Ashok Nagar lies to its west. The Ayodhya Mandapam is an important landmark.",
+   "url": "https://en.wikipedia.org/wiki/West_Mambalam"
+  },
+  {
+   "title": "Chennai Central Lok Sabha constituency",
+   "text": "The Lok Sabha constituency Chennai Central is one of three constituencies in Chennai, Tamil Nadu. Its Tamil Nadu Parliamentary Constituency number is 4 of 39. Formerly it was known as Madras Central.It is also one of the smallest constituencies in India. The Voter-verified paper audit trail (VVPAT) system with EVMs was used for the first time in this Lok Sabha constituency in 2014 elections.",
+   "url": "https://en.wikipedia.org/wiki/Chennai_Central_Lok_Sabha_constituency"
+  },
+  {
+   "title": "Panagal Park",
+   "text": "Panagal Park is a public park in Thyagaraya Nagar, Chennai named after Sir Panaganti Ramarayaningar, the Raja of Panagal. Situated at the heart of the busy shopping district of T. Nagar, it also gives its name to the surrounding locality.",
+   "url": "https://en.wikipedia.org/wiki/Panagal_Park"
+  },
+  {
+   "title": "Exnora International",
+   "text": "Exnora International is a non-governmental environmental service organization started in 1989 in Chennai, Tamil Nadu, India, by M. B. Nirmal, a social activist. It focuses on preserving nature and preventing environmental degradation.\nThe name Exnora is derived from excellent, novel and radical ideas in solving environmental problems by involving those who caused the problem.",
+   "url": "https://en.wikipedia.org/wiki/Exnora_International"
+  },
+  {
+   "title": "Sri Venkateswara Swamy Temple, T. Nagar",
+   "text": "Sri Venkateswara Swamy Temple (Tamil: ஸ்ரீ வெங்கடேசுவர சுவாமி கோயில்) is a Hindu temple located inside the premises of TTD Information Center, Venkatanarayana Road, T. Nagar, Chennai, Tamil Nadu, India. Venkateswara and Alamelu Manga are worshipped in this temple, which also has images of Hayagriva, Varaha, Sri Rama, Sri Krishna, Andal, Charkratalwar, Ranganatha, Lakshmi, Sridevi and Bhumidevi, Brahma and Ramanujarcharya. Near to this temple is located a Lakshmi temple viz., Padmavathi Temple.",
+   "url": "https://en.wikipedia.org/wiki/Sri_Venkateswara_Swamy_Temple,_T._Nagar"
+  },
+  {
+   "title": "Kannammapet",
+   "text": "Kannammapet is an area in the city of Chennai, India. It forms a part of the neighbourhood of T. Nagar. It houses one of the city's principal crematoriums. In 2003, an eco-friendly electric furnace was installed at the crematorium.",
+   "url": "https://en.wikipedia.org/wiki/Kannammapet"
+  },
+  {
+   "title": "Kasi Viswanatha Temple, West Mambalam",
+   "text": "Kasi Viswanatha Temple is a Hindu temple located in the neighbourhood of West Mambalam in Chennai, India. Dedicated to Siva, the temple is named after the Vishwanatha Temple at Varanasi. Constructed in the 17th century, the temple is also known as \"Mahabilva Kshetra\".",
+   "url": "https://en.wikipedia.org/wiki/Kasi_Viswanatha_Temple,_West_Mambalam"
+  },
+  {
+   "title": "Holy Angels Anglo Indian Higher Secondary School",
+   "text": "Holy Angels Anglo Indian Higher Secondary School or Holy Angels' AI Hr. Sec School is an all-girls Roman Catholic, private, convent school located in Chennai, India, which offers education from nursery level to higher secondary (XII) level. The school is run by the Franciscan Missionaries of Mary. The school's motto is \"Towards Charity By Truth\". The school celebrated its platinum jubilee in the academic year 2009/10 with a 75th-year annual day celebration. A. P. J. Abdul Kalam attended. The school has 3000+ students belonging to many religions.",
+   "url": "https://en.wikipedia.org/wiki/Holy_Angels_Anglo_Indian_Higher_Secondary_School"
+  },
+  {
+   "title": "Natesan Park",
+   "text": "Natesan Park is a park in T.Nagar, Chennai, India. It is located on Venkatanarayana Road. The park covers an area of 4 acres (1.6 hectares) and was opened to the public on 13 September 1950 by the then Minister of Agriculture, A. B. Shetty. It is the only park maintained by the Chennai Corporation that has a separate tennis court for coaching children.\nThere is also a plant propagation centre and play zone for children. It is a popular spot for morning walks for the local residents. Plant varieties found in the park include Croton, Aralia, Bougainvillea, Acalypha, Caesalpinia pulcherrima, mahogany, neem, gulmohar, Cassia fistula and foliage trees like pungam, palms, Ficus religiosa and Thespesia.",
+   "url": "https://en.wikipedia.org/wiki/Natesan_Park"
+  },
+  {
+   "title": "Mambalam railway station",
+   "text": "Mambalam Railway Station (station code: MBM) is an NSG–3 category Indian railway station in Chennai railway division of Southern Railway zone. It is one of the railway stations in Chennai, India, on the Chennai Beach–Chengelpet section of the Chennai Suburban Railway Network. It is situated in the neighbourhoods of West Mambalam and T. Nagar, about 11 km (6.8 mi) from Chennai Beach, and has an elevation of 13 m (43 ft) above sea level.\nWith a patronage of 200,000 passengers a day, Mambalam railway station is one of the busiest stations in the city.\nThe Mambalam railway line divides the Mambalam area into West Mambalam and East Mambalam, the latter now being renamed as Tyagaraya Nagar.",
+   "url": "https://en.wikipedia.org/wiki/Mambalam_railway_station"
+  },
+  {
+   "title": "Akshar Árbol International School",
+   "text": "Akshar Árbol International School is a Pre-K to 12th grade International School in Chennai. R Subramanian, a chartered accountant in Chennai, is the founder of the school and Priya Dixit, is currently its head.",
+   "url": "https://en.wikipedia.org/wiki/Akshar_%C3%81rbol_International_School"
+  },
+  {
+   "title": "Panagal Park metro station",
+   "text": "Panagal Park is an upcoming underground metro station on the East-West Corridor of the Yellow Line of Chennai Metro in Chennai, India. This metro station will be among the 30 stations of Corridor IV and 12 underground stations along Corridor IV of the Chennai Metro, Poonamallee Bypass–Lighthouse stretch. This metro station is slated to be commercialized on June 2028.",
+   "url": "https://en.wikipedia.org/wiki/Panagal_Park_metro_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Chennai",
+  "text": "Chennai (Tamil: சென்னை), formerly Madras (மெட்ராஸ் Meḍrās), is the largest coastal city in southern India and the capital of the state of Tamil Nadu. It is on the east coast of peninsular India. Though Chennai traces its history to Fort St George and the adjoining village of Madrasapattinam founded by the British East India Company in 1640, some residential districts of the city are older. With a metropolitan population of over 11 million (2025), Chennai is the fifth-largest city in India, and the second-largest in southern India after Bengaluru.\nChennai is well-connected by road, rail and air and is a staging point for tours to the 7th century Pallava temple of Mamallapuram, a  UNESCO World Heritage Site, the Hindu temples of Kanchipuram, Sriperumbudur and Tirupati, the bird sanctuary of Vedanthangal and the Pondicherry ashram.\nChennai has an extremely hot and humid climate, especially in the month of May, and has heavy rains during monsoons (July to November). The worst of the heat can be avoided by visiting from November to February.\n\n\n== See ==\nIndividual listings can be found in Chennai's district articlesChennai is a diverse mix of cultures, with over 15,000 temples and a couple of mosques and churches.\n\n\n== Do ==\nChennai has several well-known beaches. The Marina Beach in Central Chennai is the second-longest beach in the world after Cox's Bazar in Bangladesh. Chennai is home to Guindy National Park, the smallest national park in India.\n\n\n=== Others ===\nDuring summers it becomes too hot and humid to venture out during the day. So go out for a stroll during the night (7-9PM) on the Marina beach and Elliots Beach (Besant Nagar). It's a nice idea to pack dinner and have a picnic on the beach as most locals do. If you happen to drive a car you can also consider taking along a few foldable chairs. Beyond 10PM, no one is permitted to be on the beach. There are policemen on the beach to ensure people follow this rule, and on some occasions they tend to shoo people out by 9PM. However, if you are an early riser, you might consider visiting the beaches early morning around 6 to 8AM The sunrise is wonderful and there is a slight breeze as well. However, be warned that there are dogs lying all over the place and you have a high chance of getting hit by a cricket ball if you aren't looking.\nStroll along the over crowded Pondy Bazaar and Ranganathan Street and try your skills in bargaining for knick-knacks. Be warned that it is an intensely crowded place, where you have to elbow your way through.\nTake a bus or an auto to Mylapore Tank and take a walk around Mylapore especially in and around the Kapaleeshwarar Temple. The crowds, sounds, fragrances of temple incense and flowers and the tiny shops are to be definitely experienced though keep away on Fridays. It gets too hectic even for experienced Mylaporeans.\n\n\n=== Music and dance ===\nChennai is a major centre of Bharatanatyam with over 1,000 dance performances a year. More dance forms are now encouraged and taught like Kuchipudi (Tr\n== Eat ==\nChennai has numerous restaurants, offering an assortment of cuisine. The beach restaurants are well-maintained and serve great food during the evenings. The eat-outs in Chennai range from budget, midrange and to up-market. There are swanky star-quality restaurants, plain open traditional vegetarian or non-vegetarian restaurants- where you share a table with strangers, street stalls, tea kadais, Indian fast food centres, western fast food centres, food courts, coffee shops, bakeries to exclusive specialty establishments. Vegetarian restaurants serve tiffin and vegetarian meals. There are also a number of restaurants that serve a variety of Tamil, Andhra and Kerala vegetarian and non-vegetarian fare. Many of these restaurants have nowadays diversified and offer other Indian and Indianized Chinese dishes as well. Usually, the check includes a service charge, written next to 'S.C.' If no service charge is added, it is customary to leave a moderate tip.\nThe East Coast Road abounds with restaurants and eating spots, which offer a wide range of cuisines and a tasteful ambience. And you can plan your dinner or lunch in one of these hotels.\n\n\n== Drink ==\nChennai is a difficult place to drink. Government rule states that only establishments with a minimum of 21 rooms can obtain a bar or liquor license. All the bars that are around are (at least on paper) part of some hotel or the other and in general overpriced.\nGovernment-run liquor stores called TASMAC are all over the place but in general not at all a pleasant experience. They usually have unpleasant staff and environment and usually will have local brands. Also, they always tend to mark up each bottle by ₹5-10 over the listed price. Go for it if you want a one-time war-like experience in order to obtain some booze!\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Chennai"
+ },
+ "sights": [
+  {
+   "name": "Ranganathan Street",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 13.0371,
+   "lon": 80.22931
+  },
+  {
+   "name": "Panagal Park metro station",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 13.04076,
+   "lon": 80.23336
+  },
+  {
+   "name": "Panagal Park",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 13.0413,
+   "lon": 80.2331
+  },
+  {
+   "name": "Exnora International",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 13.03416111111111,
+   "lon": 80.23006111111111
+  },
+  {
+   "name": "Natesan Park",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 13.0375,
+   "lon": 80.23611111111111
+  },
+  {
+   "name": "Mambalam railway station",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 13.037222222222223,
+   "lon": 80.2275
+  },
+  {
+   "name": "T. Nagar",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 13.0418,
+   "lon": 80.2341
+  },
+  {
+   "name": "Sri Venkateswara Swamy Temple, T. Nagar",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 13.0357,
+   "lon": 80.2364
+  },
+  {
+   "name": "Kasi Viswanatha Temple, West Mambalam",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 13.03588888888889,
+   "lon": 80.22519444444444
+  },
+  {
+   "name": "Kannammapet",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 13.031569,
+   "lon": 80.228863
+  },
+  {
+   "name": "Chennai Central Lok Sabha constituency",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 13.036,
+   "lon": 80.239
+  },
+  {
+   "name": "Pondy Bazaar",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 13.04043,
+   "lon": 80.23997
+  },
+  {
+   "name": "West Mambalam",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 13.038055555555555,
+   "lon": 80.22222222222223
+  },
+  {
+   "name": "Akshar Árbol International School",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 13.044,
+   "lon": 80.224
+  },
+  {
+   "name": "Holy Angels Anglo Indian Higher Secondary School",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 13.04119,
+   "lon": 80.241668
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

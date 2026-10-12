@@ -1,0 +1,79 @@
+{
+ "query": "Velankanni",
+ "found": "Velankanni, Velanganni Church Road, Pilgrim quarters, Periyanayaki, Velankanni Special Grade Town Panchayath, Kilvelur, Nagapattinam, Tamil Nadu, 611111, India",
+ "lat": 10.6868771,
+ "lon": 79.8461807,
+ "fetchedAt": "2026-10-12T19:22:02.733Z",
+ "locality": {
+  "id": "pilgrim-quarters-nagapattinam-district-tamil-nadu",
+  "name": "Pilgrim quarters",
+  "area": "Velankanni Special Grade Town Panchayath, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Velankanni": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Velankanni_Church_2026.jpg/1280px-Velankanni_Church_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Velankanni",
+   "credit": "Photo: Rejoy2003, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velankanni_Church_2026.jpg"
+  },
+  "Basilica of Our Lady of Good Health, Velankanni": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Velankanni_Church_2026.jpg/1280px-Velankanni_Church_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Basilica of Our Lady of Good Health, Velankanni",
+   "credit": "Photo: Rejoy2003, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velankanni_Church_2026.jpg"
+  },
+  "Velankanni railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Velankanni_Railway_Station_main_entrance_2.JPG/1280px-Velankanni_Railway_Station_main_entrance_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Velankanni railway station",
+   "credit": "Photo: Jpullokaran, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velankanni_Railway_Station_main_entrance_2.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Velankanni",
+   "text": "Velankanni (Vēḷāṅkaṇṇi) is a special grade town panchayat in Nagapattinam district in the Indian state of Tamil Nadu. It lies on the Coromandel Coast of the Bay of Bengal, 350 km south of Chennai (Madras), 12 km south of Nagapattinam, and 33 km southeast of Thiruvarur.\nA canal built to link this town with Vedaranyam still lies to the west. The Vellayar, a minor branch of the Cauvery River, runs south of the town and discharges into the sea. The town was among the worst hit by the tsunami caused by the 2004 Indian Ocean earthquake.\nThe town is home to one of the most visited Latin Catholic shrines called the Basilica of Our Lady of Good Health.\nVelankanni has been chosen as one of the heritage cities for the Heritage City Development and Augmentation Yojana (HRIDAY) scheme of the Government of India.",
+   "url": "https://en.wikipedia.org/wiki/Velankanni"
+  },
+  {
+   "title": "Basilica of Our Lady of Good Health, Velankanni",
+   "text": "The Basilica of Our Lady of Good Health, also known as Sanctuary of Our Lady of Velankanni, is a Christian shrine located at the town of Velankanni, Tamil Nadu, India. The shrine is dedicated to the Blessed Virgin Mary.\nThe devotion has existed since the mid-sixteenth century, it is attributed to three separate events which occurred at the site: The apparition of the Madonna and Child to a slumbering shepherd boy, the miraculous healing of a handicapped buttermilk vendor and the rescue of Portuguese sailors from a deadly sea storm.\nInitially, a modest chapel was built by the Portuguese from Goa and Bombay, soon after they washed ashore safely in spite of a severe tempest. An annual novena is celebrated and draws nearly 5 million pilgrims each year.\nPope John XXIII raised the Marian shrine to the status of a minor basilica via the pontifical decree Salutem Supplicibus Dilargiens, signed & notarised on 3 November 1962. He called the shrine \"the Lourdes of the East\" due to the massive influx of pilgrims.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Good_Health,_Velankanni"
+  },
+  {
+   "title": "Velankanni railway station",
+   "text": "Velankanni railway station (station code: VLNK) is an NSG–5 category Indian railway station in Tiruchirappalli railway division of Southern Railway zone. It is a terminal station in Velankanni town in the Indian state of Tamil Nadu.",
+   "url": "https://en.wikipedia.org/wiki/Velankanni_railway_station"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Velankanni railway station",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 10.6869,
+   "lon": 79.844
+  },
+  {
+   "name": "Velankanni",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 10.6819,
+   "lon": 79.8437
+  },
+  {
+   "name": "Basilica of Our Lady of Good Health, Velankanni",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 10.68,
+   "lon": 79.84972222222221
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

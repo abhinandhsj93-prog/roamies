@@ -1,0 +1,268 @@
+{
+ "query": "Besant Nagar, Chennai",
+ "found": "Besant Nagar, Zone 13 Adyar, Chennai, Chennai Metropolitan Area, Chennai District, Tamil Nadu, 600090, India",
+ "lat": 12.9996907,
+ "lon": 80.2682259,
+ "fetchedAt": "2026-10-12T19:15:09.808Z",
+ "locality": {
+  "id": "zone-13-adyar-chennai-district-tamil-nadu",
+  "name": "Zone 13 Adyar",
+  "area": "Chennai, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Theosophical Society Adyar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Adyar_TG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Theosophical Society Adyar",
+   "credit": "Photo: unklar, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adyar_TG.jpg"
+  },
+  "Adyar, Chennai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Map_Adyar.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Adyar, Chennai",
+   "credit": "Photo: OpenStreetMap contributors, CC BY 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_Adyar.png"
+  },
+  "Ashtalakshmi Temple, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ashtalakshmi_temple_2.jpg/1280px-Ashtalakshmi_temple_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ashtalakshmi Temple, Chennai",
+   "credit": "Photo: User:Sudharsun.j, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ashtalakshmi_temple_2.jpg"
+  },
+  "Besant Nagar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Besant_Nagar_Skyline.jpg/1280px-Besant_Nagar_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Besant Nagar",
+   "credit": "Photo: Sankar Pandian, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Besant_Nagar_Skyline.jpg"
+  },
+  "Varasiddhi Vinayaka Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Vara_Siddhi_Vinayaka_Temple.jpg/1280px-Vara_Siddhi_Vinayaka_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Varasiddhi Vinayaka Temple",
+   "credit": "Photo: Dareavii, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vara_Siddhi_Vinayaka_Temple.jpg"
+  },
+  "Thiruvanmiyur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Thiruvanmiyur_Station.JPG/1280px-Thiruvanmiyur_Station.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thiruvanmiyur",
+   "credit": "Photo: Bharathmeister, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thiruvanmiyur_Station.JPG"
+  },
+  "Broken Bridge, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Adyar_Broken_Bridge.jpg/1280px-Adyar_Broken_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Broken Bridge, Chennai",
+   "credit": "Photo: Kartnutmegs, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adyar_Broken_Bridge.jpg"
+  },
+  "Edward Elliot's Beach": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Elliots_Beach_at_Besant_Nagar%2C_Chennai.JPG/1280px-Elliots_Beach_at_Besant_Nagar%2C_Chennai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Edward Elliot's Beach",
+   "credit": "Photo: KARTY JazZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elliots_Beach_at_Besant_Nagar,_Chennai.JPG"
+  },
+  "Radhakrishnan Nagar Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Constitution-Radhakrishnan_Nagar.svg/1280px-Constitution-Radhakrishnan_Nagar.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Radhakrishnan Nagar Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constitution-Radhakrishnan_Nagar.svg"
+  },
+  "Kaj Schmidt Memorial": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Carl-Schmidt-Monument-Besant-Nagar-beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kaj Schmidt Memorial",
+   "credit": "Photo: Destination8infinity, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl-Schmidt-Monument-Besant-Nagar-beach.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kalakshetra Foundation",
+   "text": "Kalakshetra Foundation, formerly simply Kalakshetra, is an arts and cultural academy dedicated to the preservation of traditional values in Indian art and crafts, especially in the field of Bharatanatyam dance and Gandharvaveda music. Based in Chennai, India, the academy was founded in January 1936 by Rukmini Devi Arundale and her husband George Arundale. Under Arundale's guidance, the institution achieved national and international recognition for its unique style and perfectionism. In 1962, Kalakshetra moved to a new 40-hectare campus in Besant Nagar, Chennai.\nIn January 1994, an Act of the Parliament of India recognised the Kalakshetra Foundation as an \"Institute of National Importance.\" The current Chairman of Kalakshetra is S. Ramadorai and the current director is Revathi Ramachandran.",
+   "url": "https://en.wikipedia.org/wiki/Kalakshetra_Foundation"
+  },
+  {
+   "title": "Theosophical Society Adyar",
+   "text": "The Theosophical Society was founded by Helena Petrovna Blavatsky and others in 1875. The designation 'Adyar' is sometimes added to the name to make it clear that this is the Theosophical Society headquartered there, after the American section and some other lodges separated from it in 1895, under William Quan Judge. In 1882, its headquarters moved with Blavatsky and president Henry Steel Olcott from New York to Adyar, an area of Chennai, India.\nThe US National Section of this organization is called the Theosophical Society in America, located in Wheaton, Illinois.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Theosophical_Society_Adyar"
+  },
+  {
+   "title": "Adyar, Chennai",
+   "text": "Adyar is a large neighbourhood in south Chennai, Tamil Nadu, India. It is among the most upscale neighborhoods of the city.\nIt is located on the southern banks of the Adyar River. It is surrounded by the Tharamani to the West, Thiruvanmiyur to the South, Besant Nagar to the East, Kotturpuram to the North-West and Raja Annamalai puram to the North across the Adyar River. Property values in Adyar are four times that of similar sized properties in the northern part of Chennai. The Gandhi Nagar region of Adyar is one of the poshest localities in Chennai.",
+   "url": "https://en.wikipedia.org/wiki/Adyar,_Chennai"
+  },
+  {
+   "title": "Ashtalakshmi Temple, Chennai",
+   "text": "The Ashtalakshmi Kovil is a Hindu temple, which lies on the shorelines near the Elliot's beach, in Chennai, India. The temple is dedicated to the goddess Lakshmi, and  her eight primary forms – the Ashtalakshmi – the giver of all eight forms of wealth, namely, offspring, success, prosperity, wealth, courage, bravery, food, and knowledge. The sanctorums are depicted on a multi-tier complex in such a way that visitors could visit all the shrines without stepping over any of the sanctorums.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Ashtalakshmi_Temple,_Chennai"
+  },
+  {
+   "title": "Besant Nagar",
+   "text": "Besant Nagar is an upscale, exclusive residential neighbourhood in South Chennai, India. It is located along the coast of the Bay of Bengal.\nThe neighbourhood is inhabited by an affluent population and has many upmarket restaurants, cafes and boutiques. The main attraction is Elliot's Beach, named after Edward Elliot, the former Governor of Madras. It forms the end-point of the Marina Beach shore. The beach is a spot for youngsters and elders.",
+   "url": "https://en.wikipedia.org/wiki/Besant_Nagar"
+  },
+  {
+   "title": "Varasiddhi Vinayaka Temple",
+   "text": "The Varasiddhi Vinayakar Temple in Besant Nagar, Chennai, India is a Hindu temple, located near the beach in Besant Nagar. It is dedicated to the Hindu god Vinayaka or Ganesha. The temple participates in activities such as feeding the poor and holds poojas frequently.\nThe first Kumbabhishekam (consecration) of the temple after extension activity was held in April, 1979 before which the idol was being worshiped at a site opposite the present site of the temple, within the CPWD Quarters compound. In fact, in the sanctum sanctorum, we see the idol of Valampuri Varasiddhi Vinayakar with Consort Siddhi held at His left. Over this idol, we see a small Ganesh Idol. This was the original idol that was being worshipped at the original site. \nSubsequent developments took place rapidly, like, construction of an auditorium behind the praharam on the eastern side and Goshala. The Temple conducts music programme during Vinayakar Chathurthi time in this auditorium.",
+   "url": "https://en.wikipedia.org/wiki/Varasiddhi_Vinayaka_Temple"
+  },
+  {
+   "title": "Thiruvanmiyur",
+   "text": "Thiruvanmiyur is a largely residential neighborhood located in the south of Chennai, Tamil Nadu, India. Thiruvanmiyur witnessed a spike in its economy with the construction of Chennai's first dedicated technology office space, the Tidel Information Technology Park in neighboring Taramani. The subsequent rise of several information technology businesses, research centres and offices around Tidel park proved fortuitous for Thiruvanmiyur, as many of the workers at these offices often made Thiruvanmiyur their home. The Marundeeswarar Temple, dedicated to Shiva previously defined the area, leading it to be mentioned in Sangam Tamil epics. It is also commonly referred to as the MICO layout of Chennai city. Other Famous Temples are Ashtalakshmi Temple and Aarupadai Murugan Temple.",
+   "url": "https://en.wikipedia.org/wiki/Thiruvanmiyur"
+  },
+  {
+   "title": "Olcott Memorial High School",
+   "text": "Olcott Memorial High School is a secondary school located in Chennai, Tamil Nadu, India. It is a free school providing free education, school uniforms, educational materials and nutritious meals to about 500 underprivileged boys and girls.",
+   "url": "https://en.wikipedia.org/wiki/Olcott_Memorial_High_School"
+  },
+  {
+   "title": "Adyar Library",
+   "text": "The Adyar Library and Research Centre was founded in 1886 by Theosophist Henry Steel Olcott. The library is at the Theosophical Society Adyar in Adyar, near Chennai, India.",
+   "url": "https://en.wikipedia.org/wiki/Adyar_Library"
+  },
+  {
+   "title": "Broken Bridge, Chennai",
+   "text": "Broken Bridge is a bridge to nowhere, located in Chennai. The single lane bridge spanning the Adyar estuary, was built in 1967, to facilitate the movement of people from Pattinapakkam to Besant Nagar's Elliot's Beach. In 1977, the bridge partly collapsed due to strong currents of the river and has never been repaired. The bridge is a popular spot for film shootings and has featured in films like Rickshawkaran, Vaalee, and Aaytha Ezhuthu.",
+   "url": "https://en.wikipedia.org/wiki/Broken_Bridge,_Chennai"
+  },
+  {
+   "title": "Edward Elliot's Beach",
+   "text": "Edward Elliot's Beach, simply called as Elliot's Beach and popularly known as Besant Nagar Beach or the Bessie, is a natural urban beach located in the Besant Nagar neighbourhood of Chennai, Tamil Nadu, India. It is located next to the southern tip of the Marina Beach, and was named after Edward Elliot, a chief magistrate and superintendent of police of the Madras Presidency in colonial India. It has the Shrine of Our Lady of Good Health—also known as Annai Vailankanni Church—on its shore, and the Ashtalakshmi Temple nearby.\nDuring the colonial era, Elliot's beach was fairly exclusive to white people only. Today, the beach and its Kaj Schmidt Memorial are cultural landmarks of Chennai, visited by thousands daily. Safety on and around the beach is ensured by a police outpost and all-terrain vehicles (ATVs).\n\n",
+   "url": "https://en.wikipedia.org/wiki/Edward_Elliot%27s_Beach"
+  },
+  {
+   "title": "Radhakrishnan Nagar Assembly constituency",
+   "text": "Radhakrishnan Nagar (Dr. Radhakrishnan Nagar) or R. K. Nagar, is a legislative assembly constituency in the Indian state of Tamil Nadu. Its State Assembly Constituency number is 11. It is part of Chennai North Lok Sabha constituency. It is one of the 234 State Legislative Assembly Constituencies in Tamil Nadu, in India.",
+   "url": "https://en.wikipedia.org/wiki/Radhakrishnan_Nagar_Assembly_constituency"
+  },
+  {
+   "title": "Kaj Schmidt Memorial",
+   "text": "The Kaj Schmidt Memorial is an architectural landmark commemorating a Danish sailor who drowned in 1930 trying to save the life of a woman. It is located at Elliot's Beach in Chennai, Tamil Nadu, India. The monument had been in a derelict state, but was restored starting in 2013.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Kaj_Schmidt_Memorial"
+  },
+  {
+   "title": "Adyar Ananda Bhavan",
+   "text": "Adyar Ananda Bhavan (also known as AAB or A2B) is an Indian chain of vegetarian restaurants and confectioners founded in Rajapalayam and headquartered in Adyar, Chennai. It has 145+ outlets across India.",
+   "url": "https://en.wikipedia.org/wiki/Adyar_Ananda_Bhavan"
+  },
+  {
+   "title": "Sishya School",
+   "text": "Sishya is an Indian Certificate of Secondary Education (ICSE) syllabus Indian school, based in Chennai, Tamil Nadu. Founded in 1972 by Mr K.I. Thomas, it has grown from just 28 students to over a thousand students, and 2 branches. It is affiliated to and shares its premises with École Franco-Indienne Sishya.",
+   "url": "https://en.wikipedia.org/wiki/Sishya_School"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Chennai",
+  "text": "Chennai (Tamil: சென்னை), formerly Madras (மெட்ராஸ் Meḍrās), is the largest coastal city in southern India and the capital of the state of Tamil Nadu. It is on the east coast of peninsular India. Though Chennai traces its history to Fort St George and the adjoining village of Madrasapattinam founded by the British East India Company in 1640, some residential districts of the city are older. With a metropolitan population of over 11 million (2025), Chennai is the fifth-largest city in India, and the second-largest in southern India after Bengaluru.\nChennai is well-connected by road, rail and air and is a staging point for tours to the 7th century Pallava temple of Mamallapuram, a  UNESCO World Heritage Site, the Hindu temples of Kanchipuram, Sriperumbudur and Tirupati, the bird sanctuary of Vedanthangal and the Pondicherry ashram.\nChennai has an extremely hot and humid climate, especially in the month of May, and has heavy rains during monsoons (July to November). The worst of the heat can be avoided by visiting from November to February.\n\n\n== See ==\nIndividual listings can be found in Chennai's district articlesChennai is a diverse mix of cultures, with over 15,000 temples and a couple of mosques and churches.\n\n\n== Do ==\nChennai has several well-known beaches. The Marina Beach in Central Chennai is the second-longest beach in the world after Cox's Bazar in Bangladesh. Chennai is home to Guindy National Park, the smallest national park in India.\n\n\n=== Others ===\nDuring summers it becomes too hot and humid to venture out during the day. So go out for a stroll during the night (7-9PM) on the Marina beach and Elliots Beach (Besant Nagar). It's a nice idea to pack dinner and have a picnic on the beach as most locals do. If you happen to drive a car you can also consider taking along a few foldable chairs. Beyond 10PM, no one is permitted to be on the beach. There are policemen on the beach to ensure people follow this rule, and on some occasions they tend to shoo people out by 9PM. However, if you are an early riser, you might consider visiting the beaches early morning around 6 to 8AM The sunrise is wonderful and there is a slight breeze as well. However, be warned that there are dogs lying all over the place and you have a high chance of getting hit by a cricket ball if you aren't looking.\nStroll along the over crowded Pondy Bazaar and Ranganathan Street and try your skills in bargaining for knick-knacks. Be warned that it is an intensely crowded place, where you have to elbow your way through.\nTake a bus or an auto to Mylapore Tank and take a walk around Mylapore especially in and around the Kapaleeshwarar Temple. The crowds, sounds, fragrances of temple incense and flowers and the tiny shops are to be definitely experienced though keep away on Fridays. It gets too hectic even for experienced Mylaporeans.\n\n\n=== Music and dance ===\nChennai is a major centre of Bharatanatyam with over 1,000 dance performances a year. More dance forms are now encouraged and taught like Kuchipudi (Tr\n== Eat ==\nChennai has numerous restaurants, offering an assortment of cuisine. The beach restaurants are well-maintained and serve great food during the evenings. The eat-outs in Chennai range from budget, midrange and to up-market. There are swanky star-quality restaurants, plain open traditional vegetarian or non-vegetarian restaurants- where you share a table with strangers, street stalls, tea kadais, Indian fast food centres, western fast food centres, food courts, coffee shops, bakeries to exclusive specialty establishments. Vegetarian restaurants serve tiffin and vegetarian meals. There are also a number of restaurants that serve a variety of Tamil, Andhra and Kerala vegetarian and non-vegetarian fare. Many of these restaurants have nowadays diversified and offer other Indian and Indianized Chinese dishes as well. Usually, the check includes a service charge, written next to 'S.C.' If no service charge is added, it is customary to leave a moderate tip.\nThe East Coast Road abounds with restaurants and eating spots, which offer a wide range of cuisines and a tasteful ambience. And you can plan your dinner or lunch in one of these hotels.\n\n\n== Drink ==\nChennai is a difficult place to drink. Government rule states that only establishments with a minimum of 21 rooms can obtain a bar or liquor license. All the bars that are around are (at least on paper) part of some hotel or the other and in general overpriced.\nGovernment-run liquor stores called TASMAC are all over the place but in general not at all a pleasant experience. They usually have unpleasant staff and environment and usually will have local brands. Also, they always tend to mark up each bottle by ₹5-10 over the listed price. Go for it if you want a one-time war-like experience in order to obtain some booze!\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Chennai"
+ },
+ "sights": [
+  {
+   "name": "Varasiddhi Vinayakar Koil",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 13.0004947,
+   "lon": 80.2673166
+  },
+  {
+   "name": "Ratnagirishwarar Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 12.996661,
+   "lon": 80.2672031
+  },
+  {
+   "name": "Kaj Schmidt Memorial",
+   "kind": "monument",
+   "walkMinutes": 7,
+   "lat": 12.9994247,
+   "lon": 80.272115
+  },
+  {
+   "name": "Annai Velankanni Shrine",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 12.9951776,
+   "lon": 80.2700337
+  },
+  {
+   "name": "Annai Velankanni Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 12.9950833,
+   "lon": 80.2708246
+  },
+  {
+   "name": "Elai Amman Kovil",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 13.0033324,
+   "lon": 80.2727101
+  },
+  {
+   "name": "Gangai Amman Koil",
+   "kind": "place_of_worship",
+   "openingHours": "05:00-20:30",
+   "walkMinutes": 11,
+   "lat": 12.9960248,
+   "lon": 80.2630851
+  },
+  {
+   "name": "Masjid Allah",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 13.0037431,
+   "lon": 80.2727477
+  },
+  {
+   "name": "Ashtalakshmi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 12.9925312,
+   "lon": 80.2703577
+  },
+  {
+   "name": "Shiva Vishnu Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 13.0011706,
+   "lon": 80.2596654
+  },
+  {
+   "name": "Church of St. Michael and All Angels",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 13.0085963,
+   "lon": 80.2681099
+  },
+  {
+   "name": "CSI Yesu Anbar Alayam",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 13.0083456,
+   "lon": 80.2647402
+  },
+  {
+   "name": "Miracle AG Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 12.9947791,
+   "lon": 80.2594062
+  },
+  {
+   "name": "Arupadai Veedu Temple Complex",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 12.989065,
+   "lon": 80.2686022
+  },
+  {
+   "name": "Pamban Sitthar Samadhi",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 12.9901319,
+   "lon": 80.2633143
+  }
+ ],
+ "food": [],
+ "errors": []
+}

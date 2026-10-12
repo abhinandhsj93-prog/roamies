@@ -1,0 +1,65 @@
+{
+ "query": "Hogenakkal",
+ "found": "Hogenakkal, Pennagaram, Dharmapuri, Tamil Nadu, India",
+ "lat": 12.1214298,
+ "lon": 77.7776786,
+ "fetchedAt": "2026-10-12T19:31:14.213Z",
+ "locality": {
+  "id": "hogenakkal-dharmapuri-tamil-nadu",
+  "name": "Hogenakkal",
+  "area": "Pennagaram, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Hogenakkal Falls": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hogenakkal_Falls_Close.jpg/1280px-Hogenakkal_Falls_Close.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Hogenakkal Falls",
+   "credit": "Photo: Mithun Kundu, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hogenakkal_Falls_Close.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Hogenakkal",
+   "text": "Hogenakkal may refer to:\n\nHogenakkal (village), a village in Tamil Nadu\nHogenakkal Falls, a waterfall on the Cauvery river in Tamil Nadu.\nHogenakkal Integrated Drinking Water Project\nHogenakkal Falls water dispute",
+   "url": "https://en.wikipedia.org/wiki/Hogenakkal"
+  },
+  {
+   "title": "Hogenakkal Falls",
+   "text": "Hogenakkal Falls is a waterfall in South India on the Kaveri river on the border between Dharmapuri district of Tamil Nadu and Chamrajnagar district of Karnataka. It is located 46 km (29 mi) from Dharmapuri and 199 km (124 mi) from Chamrajnagar. The Government of Tamil Nadu made a proposal to convert the falls into providing drinking water for the state.",
+   "url": "https://en.wikipedia.org/wiki/Hogenakkal_Falls"
+  },
+  {
+   "title": "Hogenakkal, Dharmapuri",
+   "text": "Hogenakkal is a hamlet in the Pennagaram taluk of Dharmapuri district, tamil name is Thalaineer aruvi(தலைநீர் அருவி).      Ugunir Kal/Marikottayam in the Indian state of Tamil Nadu.",
+   "url": "https://en.wikipedia.org/wiki/Hogenakkal,_Dharmapuri"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Hogenakkal",
+  "text": "Hogenakkal is a city in Tamil Nadu.\n\n\n== See ==\nYou can go boating along the water stream if we hire a boat (aka coracle or parisal in Tamil). For an additional cost one can hire these boats for a round trip, in which case the boatman will stay with the party all along. One can enjoy the view of numerous waterfalls along the way. The boat is round in shape and at a time five persons excluding the boatman is permitted.\n\n\n== Do ==\nMassage oils, Massage service, and fish-fry.\n\n\n== Eat ==\nYou may try freshly served river fish, these fish are very tasty and affordable. Many places serve fried fish and curry fish but not all of them are clean, so be sure to pick a hygiene place.  Then and there rice is cooked and given along with 'Rasam' [made with plenty of garlic].\n\n\n== Drink ==\nThere is a TASMAC (Tamil Nadu State Marketing Corporation) liquor outlet near the bus terminus.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Hogenakkal"
+ },
+ "sights": [
+  {
+   "name": "Hogenakkal, Dharmapuri",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 12.120833333333334,
+   "lon": 77.77777777777777
+  },
+  {
+   "name": "Hogenakkal Falls",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 12.1182,
+   "lon": 77.77385
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

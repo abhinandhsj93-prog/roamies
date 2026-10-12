@@ -1,0 +1,27 @@
+{
+ "query": "Salem",
+ "found": "Salem, Tamil Nadu, India",
+ "lat": 11.6469616,
+ "lon": 78.2106958,
+ "fetchedAt": "2026-10-12T19:30:53.816Z",
+ "locality": {
+  "id": "kombai-kadu-salem-tamil-nadu",
+  "name": "Kombai Kadu",
+  "area": "Salem, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "wikivoyage": {
+  "title": "Salem (disambiguation)",
+  "text": "There's more than one place called Salem:\n\n\n=== Germany ===\nSalem (Germany)\n\n\n=== India ===\nSalem (India)\n\n\n=== Montserrat ===\nSalem (Montserrat)\n\n\n=== Sweden ===\nSalem (Sweden)\n\n\n=== United States of America ===\nNew Salem - in North Dakota\nNorth Salem (Indiana)\nNorth Salem (Missouri)\nNorth Salem (New York)\nSalem (Connecticut)\nSalem (Indiana)\nSalem (Massachusetts)\nSalem (Missouri)\nSalem (New Hampshire)\nSalem (New Jersey)\nSalem (Ohio)\nSalem (Oregon)\nSalem (South Carolina)\nSalem (South Dakota)\nSalem (Virginia)\nSalem (West Virginia)\nSalem County - in New Jersey\nSouth Salem (Kansas)\nSouth Salem (Ohio)\nWinston-Salem - in North Carolina",
+  "url": "https://en.wikivoyage.org/wiki/Salem_(disambiguation)"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "query": "Madurai",
+ "found": "Madurai, Madurai South, Madurai, Tamil Nadu, India",
+ "lat": 9.9261153,
+ "lon": 78.1140983,
+ "fetchedAt": "2026-10-12T19:23:56.087Z",
+ "locality": {
+  "id": "sellur-madurai-tamil-nadu",
+  "name": "Sellur",
+  "area": "Madurai, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Madurai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Meenakshi_Amman_West_Tower.jpg/1280px-Meenakshi_Amman_West_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Madurai",
+   "credit": "Photo: KennyOMG, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meenakshi_Amman_West_Tower.jpg"
+  },
+  "Meenakshi Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg/1280px-An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Meenakshi Temple",
+   "credit": "Photo: எஸ்ஸார், CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg"
+  },
+  "Koodal Azhagar Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Koodalazhagar_%2813%29.jpg/1280px-Koodalazhagar_%2813%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Koodal Azhagar Temple",
+   "credit": "Photo: Ssriram mt, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koodalazhagar_(13).jpg"
+  },
+  "Thiru Aappanoor": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Appudayar1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Thiru Aappanoor",
+   "credit": "Photo: Mohan Krishnan (talk), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Appudayar1.jpg"
+  },
+  "Madurai Central Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Constitution-Madurai_Central.svg/1280px-Constitution-Madurai_Central.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Madurai Central Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constitution-Madurai_Central.svg"
+  },
+  "Kazimar Street": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kazimarbigmosque.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kazimar Street",
+   "credit": "Photo: Wasifwasif (talk), Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kazimarbigmosque.JPG"
+  },
+  "Madurai Junction railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%9F%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81_%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%AE%E0%AF%8D_2022_%E0%AE%86%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81_13.jpg/1280px-%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%9F%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81_%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%AE%E0%AF%8D_2022_%E0%AE%86%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Madurai Junction railway station",
+   "credit": "Photo: Info-farmer, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%9F%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81_%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%AE%E0%AF%8D_2022_%E0%AE%86%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81_13.jpg"
+  },
+  "Periyar Bus Stand": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Periyar_Bus_Stand_Frontside.jpg/1280px-Periyar_Bus_Stand_Frontside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Periyar Bus Stand",
+   "credit": "Photo: TNSE Mahalingam VNR, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Periyar_Bus_Stand_Frontside.jpg"
+  },
+  "Simmakkal, Madurai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%E0%AE%9A%E0%AE%BF%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AF%8D.jpg/1280px-%E0%AE%9A%E0%AE%BF%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AF%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Simmakkal, Madurai",
+   "credit": "Photo: சித்திரவீதிக்காரன், CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%AE%9A%E0%AE%BF%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AF%8D.jpg"
+  },
+  "Yanaikkal, Madurai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Yanaikal.jpg/1280px-Yanaikal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Yanaikkal, Madurai",
+   "credit": "Photo: சித்திரவீதிக்காரன், CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yanaikal.jpg"
+  },
+  "Albert Victor Overbridge": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Albert_Victor_Bridge.jpg/1280px-Albert_Victor_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Albert Victor Overbridge",
+   "credit": "Photo: எஸ். பி. கிருஷ்ணமூர்த்தி, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albert_Victor_Bridge.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Sellur",
+   "text": "Sellur is a revenue village in the Thirunallar taluk of Karaikal District. It is situated to the west of Thirunallar.\n\n\n== References ==\n\"Karaikal District - Revenue Administration\". Karaikal District. Archived from the original on 8 March 2012.",
+   "url": "https://en.wikipedia.org/wiki/Sellur"
+  },
+  {
+   "title": "Madurai",
+   "text": "Madurai is a major city in the Indian state of Tamil Nadu. It is the cultural capital of Tamil Nadu and the administrative headquarters of Madurai district, which is governed by the Madurai Municipal Corporation established on 1 November 1866. As of the 2011 census, it is the third largest metropolis in Tamil Nadu after Chennai and Coimbatore in terms of population and 27th largest urban agglomeration in India. Located on the banks of Vaigai River, Madurai has been a major settlement for two millennia and has a documented history of more than 2500 years. It is often referred to as \"Thoongaa Nagaram\", meaning \"the city that never sleeps\".\nMadurai is one of the oldest cities in India and South Asia. The third Tamil Sangam, a major congregation of Tamil scholars under the Pandyan dynasty, is said to have been held in the city. The recorded history of the city goes back to the 3rd century BCE, being mentioned by Megasthenes, the Greek ambassador to the Mauryan Empire, and Kautilya, a minister of the Mauryan emperor Chandragupta Maurya. Signs of human settlements and Roman trade links dating back to 300 BCE are evident from excavations by the Archeological Survey of India in Keezhadi, Manalur...",
+   "url": "https://en.wikipedia.org/wiki/Madurai"
+  },
+  {
+   "title": "Tamil Nadu Theological Seminary",
+   "text": "Tamil Nadu Theological Seminary (TTS) is an ecumenical seminary in Madurai, South India. TTS is affiliated with the Senate of Serampore College and Madurai Kamaraj University. The Principal is Rev. Dr. Margaret Kalaiselvi. The seminary celebrated its 50th Seminary Day on 28 October 2018.",
+   "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Theological_Seminary"
+  },
+  {
+   "title": "Meenakshi Temple",
+   "text": "Meenakshi Temple, also known as Meenakshi Sundareswarar Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in Madurai, Tamil Nadu, India. It is dedicated to Meenakshi, a form of Parvati, and her consort Sundareswarar (Shiva). The temple is theologically significant as it represents a confluence of various denominations of Hinduism such as Shaivism, Shaktism, and Vaishnavism.\nWhile the Sangam literature mentions the temple city of Madurai, the existence of a temple is first referenced in the Tamil texts from 6th century. It is one of the Paadal Petra Sthalams, Shiva temples that are revered in the Tevaram verses composed by the Nayanars between the 6th and 11th century. The early structures of the temple were built during the reign of the Pandyas in the 12th to 13th centuries. It was later rebuilt by the Vijayanagara Empire in the 14th century, after its destruction by the armies of the Delhi Sultanate. The temple complex was later expanded extensively by the Madurai Nayaks in the 16th and 17th centuries. While a few structural improvements were made during the 18th and 19th centuries, the temple condition degraded due to negligence during the British...",
+   "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple"
+  },
+  {
+   "title": "Koodal Azhagar Temple",
+   "text": "Koodal Aḻagar Temple or \"Koodal Azhagar Temple\" in Madurai, a city in the South Indian state of Tamil Nadu, is a temple dedicated to the Hindu god Vishnu. Constructed in the Dravidian style of architecture, the temple is glorified in the Naalayira Divya Prabandham, the early medieval Tamil canon of the Alvar saints from the 6th–9th centuries CE. It is one among the 108 Divya Desams dedicated to Vishnu, who is worshipped as Viyooga Sundarrajan, and his consort Lakshmi as Mathuravalli.\nA granite wall surrounds the temple, enclosing all its shrines. The temple has a five-tiered rajagopuram, the gateway tower. The temple is originally believed to be built by the Pandyas, with later additions by the Vijayanagara Empire and Madurai Nayaks kings who commissioned pillared halls and major shrines of the temple during the 16th century.\nKoodal Aḻagar is believed to have appeared to slay the demon Somuka who abducted the four Vedas. The temple follows the Tenkalai tradition of worship. Four daily rituals and three yearly festivals are held at the temple, of which the fourteen-day annual Brahmotsavam during the Tamil month of Vaikasi (May - June) being the most prominent. The temple is maintained...",
+   "url": "https://en.wikipedia.org/wiki/Koodal_Azhagar_Temple"
+  },
+  {
+   "title": "Thiru Aappanoor",
+   "text": "Thiru Aappanoor is a Hindu temple of the god Shiva in Sellur, Madurai, India. The Pandya Kings and the Royal Sethupathi kings made many contributions to this temple. It is one of the shrines of the 275 Paadal Petra Sthalams.",
+   "url": "https://en.wikipedia.org/wiki/Thiru_Aappanoor"
+  },
+  {
+   "title": "Madurai Central Prison",
+   "text": "Madurai Central Prison is located in Madurai, India. The prison complex occupies 31 acres (130,000 m2). It is authorised to accommodate 1,252 prisoners.",
+   "url": "https://en.wikipedia.org/wiki/Madurai_Central_Prison"
+  },
+  {
+   "title": "Madurai Central Assembly constituency",
+   "text": "Madurai Central is a legislative assembly constituency in the Indian state of Tamil Nadu. It is one of the 234 State Legislative Assembly Constituencies in Tamil Nadu, in India. Elections and winners from this constituency are listed below.",
+   "url": "https://en.wikipedia.org/wiki/Madurai_Central_Assembly_constituency"
+  },
+  {
+   "title": "Kazimar Street",
+   "text": "Kazimar Street is an ancient street in Madurai, India, dating from the 13th century. Kazi Syed Tajuddin is the one who settled here after preaching Islam in South India. 99.2% population of this street are Muslims and 0.8% Hindus. The famous Kazimar periya pallivasal, which is the first Muslims' place of worship in madurai, Madurai Maqbara the dargah of famous Madurai Hazrats are located in this street.",
+   "url": "https://en.wikipedia.org/wiki/Kazimar_Street"
+  },
+  {
+   "title": "Madurai Junction railway station",
+   "text": "Madurai Junction railway station (station code: MDU) is an NSG-2 category Indian railway station in Madurai railway division of Southern Railway zone. It serves the city of Madurai, located in Madurai district of the Indian state of Tamil Nadu.\nIt connects with Manamadurai Junction in South-East, Virudhunagar Junction in South, Bodinayakanur (Theni) in West and Dindigul Junction in North-West.",
+   "url": "https://en.wikipedia.org/wiki/Madurai_Junction_railway_station"
+  },
+  {
+   "title": "Periyar Bus Stand",
+   "text": "Periyar Bus Stand is a central bus terminus for local city buses in Madurai in Tamil Nadu, India. The bus stand is one of the key bus terminus in Madurai. It is centrally located in the Madurai city.",
+   "url": "https://en.wikipedia.org/wiki/Periyar_Bus_Stand"
+  },
+  {
+   "title": "Simmakkal, Madurai",
+   "text": "Simmakkal is a neighbourhood in Madurai district in the state of Tamil Nadu in India. Simmakkal as meant in the language of Tamil, 'Stone statue of Lion', has a statue at the heart of the neighbourhood. During the British period, out of the four giant walls on East Veli Street, West Street, North Veli Street and South Veli Street already existed, three of them except on West Veli Street were demolished by 'Marret', the then Collector of Madurai. The landmark at the entrance gate of North Veli Street was simply replaced by a 'Stone statue of Lion' found near Thirumalai Naicker Mahal. It is that area surrounding the statue is called as 'Simmakkal'.",
+   "url": "https://en.wikipedia.org/wiki/Simmakkal,_Madurai"
+  },
+  {
+   "title": "Yanaikkal, Madurai",
+   "text": "Yanaikkal is a neighbourhood in Madurai district in the state of Tamil Nadu in India. Yanaikkal as the name in Tamil language implies that it is a 'Stone Statue of Elephant'. The area was said to be 'Allankadi' in Tamil language (அல்லங்காடி), which was busy with selling products during night times, several hundred years ago.",
+   "url": "https://en.wikipedia.org/wiki/Yanaikkal,_Madurai"
+  },
+  {
+   "title": "Nelpettai",
+   "text": "Nelpettai is a neighbourhood in Madurai district of Tamil Nadu state in the peninsular India. Muslims live in large clusters in Nelpettai. Albert Victor Bridge which is more than 133 years old, that connects Nelpettai and Goripalayam, is constructed over river Vaigai. Nelpettai has a non-vegetarian market that sells fish, meat such as mutton, chicken, etc. On East Veli street, a famous non-vegetarian restaurant namely Amsavalli bhavan biryani restaurant that functions beyond decades, is located. A bridge 3.2 km long and 12 m wide, is planned to be constructed to reduce traffic congestion, in between Madurai Corporation Ecopark just opposite of Madurai Corporation building and Nelpettai Anna statue junction, at a project cost of about ₹175.80 crore.",
+   "url": "https://en.wikipedia.org/wiki/Nelpettai"
+  },
+  {
+   "title": "Ponnagaram, Madurai",
+   "text": "Ponnagaram is a neighbourhood in Madurai district of Tamil Nadu state in the peninsular India. Former CPM MLA late N. Nanmaran was born in Ponnagaram. Vikaasa group of schools has a branch viz., Vikaasa School at Ponnagaram.\nPonnagaram is located at an altitude of about 161 m above the mean sea level with the geographical coordinates of 9.929800°N 78.110100°E﻿ / 9.929800; 78.110100 (i.e., 9°55'47.3\"N, 78°06'36.4\"E).\nPonnagaram area falls under the Madurai Central Assembly constituency. The winner of the election held in the year 2021 as the member of its assembly constituency is P. T. R. Palanivel Thiagarajan. Also, this area belongs to Madurai Lok Sabha constituency. The winner of the election held in the year 2019, as the member of its Lok Sabha constituency is S. Venkatesan.",
+   "url": "https://en.wikipedia.org/wiki/Ponnagaram,_Madurai"
+  },
+  {
+   "title": "Albert Victor Overbridge",
+   "text": "Albert Victor Overbridge or AV bridge is the first bridge that connects the South and North banks of Vaigai river, in Madurai city of Tamil Nadu in India.",
+   "url": "https://en.wikipedia.org/wiki/Albert_Victor_Overbridge"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Madurai",
+  "text": "Madurai (Tamil: மதுரை), formerly Madura, is the third-largest city in the Indian state of Tamil Nadu. It is on the banks of the river Vaigai and has been a major settlement for two millennia. It is one of the oldest continuously inhabited cities in the world. The city was the capital of the Pandyan kingdom at Korkai, around 600 BCE, and was moved to Koodal (present-day Madurai) during the reign of Nedunj Cheliyan I.\n\nMadurai is famous for its temples built by Pandyan and Madurai Nayak kings in the ancient traditional Tamilian style of architecture. It is also one of India's major  Hindu pilgrimage centres. Madurai is also called as City of Junction (Koodal nagaram), City of Jasmine (Malligai maanagar), Temple city (Koil maanagar), City that never sleeps (Thoonga nagaram) and City of four junctions (Naanmada koodal).\n\n\n== See and do ==\n\n1 Gandhi Memorial Museum (North side of the river in the palace of Rani Mangammal). 10AM-1PM and 2PM-6PM. This museum houses Gandhi's bloodstained dhoti and little else by way of artifacts. Those interested in the freedom struggle, though, will be interested in the extensive library housed here. The portrayal of freedom struggle is very inspiring and Indian tourists particularly students should consider visiting this place. Tamil speakers and long-term visitors may be interested in the classes and workshops offered in subjects as diverse as t'ai chi and local herbs. There is also a khadi bhavan (store selling village and handloom products) and bookstore, with (mostly Tamil) books on spiritual and natural health topics. Also located on the campus of the museum is a government museum (across from the library). Free. (updated May 2023)\n Melamadai Vandiyur Lake. Boating, swimming, and Fishing in Melamadai Vandiyur Lake provides some more ever green memories. These are only allowed if the Madurai Corporation authority provides permission. Migratory Birds are observed at the Melamadai Vandiyur Lake. (updated May 2023)\n2 Samanar Hills. These rocky hills are home to various Jain and Hindu monuments dating between the 2nd-century BCE and the 12th-century CE. Situated 10 kms west of the Madurai city proper, it is declared as a protected monument by the Archaeological Survey of India. Rock-cut stairs lead to the monuments from the base of the hills, with a maximum elevation of around 150 metres. Jain reliefs of Mahavira, and the Tirthankaras are found, along with several inscriptions. (updated May 2023)\n3 Thirumalai Nayakkar Mahal (Thirumalai Nayak Palace), East Market St (less than 2 km south east of the Sri Meenakshi Temple). The remains of the palace of the 17th-century ruler Thirumalai Nayak who contributed extensively to the Meenakshi Temple. Only a small portion of the original structure which was four times as larger remains. There were originally two parts – Swargavilasa heavenly pavilion, meant for the King's harem and housing the darbar court, and the ranka vilasa, which was for the servants. Entrance to the roof is prohibited until the renovation work being carried out by the Archaeological De\n== Eat ==\n\nThe cuisine of Madurai inherits the true taste of Tamils. If you are a lover of non-vegetarian food, restaurants like Kumar Mess and Amma Mess are a must try. A handful of dished are exclusive to Madurai, such as Paruthi Paal, Jigarthanda, Panangkarkandu Paal and chettinadu varieties like Appam (goes well with Mutton Paya), and Kuzhi Paniyaram.\nThere are a lot of restaurants but any guy from college knows how to have the best dinner at one of the \"evening mutton stalls\" for a pittance. The strong aroma of eye watering dishes is not for the faint-hearted. The next morning you will be reminded of your spicy escapades into culinary discovery. If spicy hot is not your cup of tea, your starting point should be with \"Kotthu Parotta\" without the gravy, chilies, or chili powder or pepper mixed in it. The music of the Kotthu ladles drumming on the flat hot plate of a charcoal-fired barbeque is nirvana to a hungry man's ears. Google maps contains information about popular times and wait time for most of the well-established hotels so be sure to check before you plan your visit. You can't go wrong with the top 3.\n\nKumar Mess, branches in Tallakulam, Townhall road (best ambience), Bypass Rd and near Mattuthavani (opposite flower market). Well known in the city with authentic chettinad cuisine. Might be crowded at times, but the food is well worth it. Try their Mutton Briyani, Kola Urundai (Mutton meatballs) and Mutton Chukka. Their Parotta (flatbread) is super soft and goes well with Nattukozhi kolumbu (you typically get chalna as the side, but do ask for Nattukozhi kolumbu). They serve an Indianised version of Chilli chicken (super spicy and hot even by Indian standards) which is unlike the ones served elsewhere. If you are on the adventurous side, try Brain roast (roasted lamb's brain - Madurai special), Kadai (Quail - a small bird) Chops, Crab (ask for the meat only version).\nMurugan Idly Shop, branches in West Masi Street and Thalavoy Street. Known all over the state of Tamil Nadu, their super soft Idlis (rice cakes) are not to be missed. Served with an array of sides, these Idlis are heavenly. They are so in demand that Murugan Idly shop has opened branches in the UK and Singapore.\nHotel Sree Sabarees, Town\n== Drink ==\nTry the tender coconut drink. The tender coconut drink is sold by roadside sellers on their tricycles parked under the shade of a tree. Tea shops are always around the corner. Madurai is famous for its unique drink \"Jigarthanda\". Try having Jigarthanda from the \"Famous Jigarthanda\" store in the Vilakkuthoon ( This shop is on the way from Meenakshi Temple to Thirumalai Nayak Palace, (to be precise, famous jigarthanda, No.94, East Marret Street).\nAlcohol is served in up-market hotels and it is advised to avoid other places for a drink.\n\n Saraswathi Mess, Town hall Rd (near peruma Teppakulam).  \n Jigarthanda, Corner near Vilakkuthoon, No 94, E Mart St, Kamarajar Salai, Industrial Estate, ☏ +91 90479 88767.  (updated Oct 2022)\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Madurai"
+ },
+ "sights": [
+  {
+   "name": "Ponnagaram, Madurai",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 9.9298,
+   "lon": 78.1101
+  },
+  {
+   "name": "Madurai",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 9.9252,
+   "lon": 78.1198
+  },
+  {
+   "name": "Madurai Central Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 9.923,
+   "lon": 78.12
+  },
+  {
+   "name": "Madurai Junction railway station",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 9.92,
+   "lon": 78.11027777777777
+  },
+  {
+   "name": "Simmakkal, Madurai",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 9.92611111111111,
+   "lon": 78.1215
+  },
+  {
+   "name": "Meenakshi Temple",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 9.9197,
+   "lon": 78.1194
+  },
+  {
+   "name": "Yanaikkal, Madurai",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 9.923583333333333,
+   "lon": 78.12352777777777
+  },
+  {
+   "name": "Thiru Aappanoor",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 9.9305,
+   "lon": 78.1228
+  },
+  {
+   "name": "Periyar Bus Stand",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 9.915873,
+   "lon": 78.11172
+  },
+  {
+   "name": "Albert Victor Overbridge",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 9.926238,
+   "lon": 78.125624
+  },
+  {
+   "name": "Nelpettai",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 9.9231,
+   "lon": 78.1254
+  },
+  {
+   "name": "Koodal Azhagar Temple",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 9.914397222222222,
+   "lon": 78.11410833333333
+  },
+  {
+   "name": "Tamil Nadu Theological Seminary",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 9.925144444444443,
+   "lon": 78.1016611111111
+  },
+  {
+   "name": "Madurai Central Prison",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 9.929101,
+   "lon": 78.101903
+  },
+  {
+   "name": "Kazimar Street",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 9.913333333333334,
+   "lon": 78.11416666666666
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

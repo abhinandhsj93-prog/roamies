@@ -1,0 +1,282 @@
+{
+ "query": "Ooty",
+ "found": "Udhagamandalam, Nilgiris, Tamil Nadu, 643001, India",
+ "lat": 11.4126769,
+ "lon": 76.7030504,
+ "fetchedAt": "2026-10-12T19:27:19.887Z",
+ "locality": {
+  "id": "udhagamandalam-nilgiris-tamil-nadu",
+  "name": "Udhagamandalam",
+  "area": "Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Udhagamandalam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ooty_lake.jpg/1280px-Ooty_lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ooty",
+   "credit": "Photo: Vinayaraj, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ooty_lake.jpg"
+  },
+  "Ooty": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ooty_lake.jpg/1280px-Ooty_lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ooty",
+   "credit": "Photo: Vinayaraj, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ooty_lake.jpg"
+  },
+  "Diocese of Ootacamund": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Front_Pole_Sacred_Heart_Cathedral_Ooty_Mar25_A7CR_05524-5_Pano_Edit.jpg/1280px-Front_Pole_Sacred_Heart_Cathedral_Ooty_Mar25_A7CR_05524-5_Pano_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Diocese of Ootacamund",
+   "credit": "Photo: Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Pole_Sacred_Heart_Cathedral_Ooty_Mar25_A7CR_05524-5_Pano_Edit.jpg"
+  },
+  "Holy Trinity Church, Ooty": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Holy_Trinity_Church%2C_Ooty_01.jpg/1280px-Holy_Trinity_Church%2C_Ooty_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Holy Trinity Church, Ooty",
+   "credit": "Photo: Pinakpani, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Church,_Ooty_01.jpg"
+  },
+  "Udagamandalam Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Constitution-Udhagamandalam.svg/1280px-Constitution-Udhagamandalam.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Udagamandalam Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constitution-Udhagamandalam.svg"
+  },
+  "Green fields, Ooty": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Green_Fields%2C_Ooty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Green fields, Ooty",
+   "credit": "Photo: Surajt88, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Fields,_Ooty.jpg"
+  },
+  "Government Rose Garden": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Government_Rose_Garden%2C_Ooty%2C_Tamil_Nadu%2C_India.jpg/1280px-Government_Rose_Garden%2C_Ooty%2C_Tamil_Nadu%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Government Rose Garden",
+   "credit": "Photo: N. Vivekananthamoorthy, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Government_Rose_Garden,_Ooty,_Tamil_Nadu,_India.jpg"
+  },
+  "St. Stephen's Church, Udhagamandalam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Main_Gate_Stephens_Church_Ooty_Jun22_A7C_02040.jpg/1280px-Main_Gate_Stephens_Church_Ooty_Jun22_A7C_02040.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Stephen's Church, Udhagamandalam",
+   "credit": "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Gate_Stephens_Church_Ooty_Jun22_A7C_02040.jpg"
+  },
+  "Mariamman temple, Ooty": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mari_amman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mariamman temple, Ooty",
+   "credit": "Photo: Singapore_-_Sri_Mariamman_Temple.jpg: Eric Lefevre derivative work: Redtigerxyz (talk), CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mari_amman.jpg"
+  },
+  "Adam's fountain": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Adam%27s_Fountain.jpg/1280px-Adam%27s_Fountain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Adam's fountain",
+   "credit": "Photo: Sistak from Toyama-ken, Japan, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adam%27s_Fountain.jpg"
+  },
+  "Ooty Municipal Market": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Veg_Flower_Stalls_Ooty_Market_Nilgiris_Aug25_A7CR_07099.jpg/1280px-Veg_Flower_Stalls_Ooty_Market_Nilgiris_Aug25_A7CR_07099.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ooty Municipal Market",
+   "credit": "Photo: Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veg_Flower_Stalls_Ooty_Market_Nilgiris_Aug25_A7CR_07099.jpg"
+  },
+  "Sacred Heart Cathedral, Ooty": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Entrance_Steps_Sacred_Heart_Ooty_Mar25_A7CR_05508.jpg/1280px-Entrance_Steps_Sacred_Heart_Ooty_Mar25_A7CR_05508.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sacred Heart Cathedral, Ooty",
+   "credit": "Photo: Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_Steps_Sacred_Heart_Ooty_Mar25_A7CR_05508.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Ooty",
+   "text": "Ooty is a town and seat of the Nilgiris district in the Indian state of Tamil Nadu. It is located at an altitude of 2,240 m (7,350 ft), in the Nilgiri Mountains, which forms part of the Western Ghats, and is known by the epithet \"Queen of hill stations\".\nThe earliest reference to the Nilgiri Mountains is found in the Tamil Sangam literature. The region was originally occupied by several hill tribes such as Badagas, Todas, Kotas, Irulas and Kurumbas. Over the centuries, it was part of the various kingdoms that ruled over South India. It came under the rule of the East India Company in the 18th century. In the early 19th century, Ooty was developed as a sanatorium around an artificial lake. It was made a municipality in 1866, and later served as the summer capital of the Madras Presidency.\nPost Indian independence, the town developed into a popular hill station and recreational area. The economy of the town is majorly based on tourism and agriculture. The town is connected to the plains by the Nilgiri ghat roads and the Nilgiri Mountain Railway. It also hosts the Ooty Radio Telescope at Muthorai, and the Defence Services Staff College of the Indian Army at nearby fisbWellingon.\nOoty forms...",
+   "url": "https://en.wikipedia.org/wiki/Ooty"
+  },
+  {
+   "title": "Breeks Memorial School",
+   "text": "Breeks Memorial Anglo-Indian Higher Secondary School is a Christian co-educational school established in 1874. It was named after James Wilkinson Breeks, the first Commissioner (District Collector) of the Nilgiris. It was erected for the children of Europeans and Eurasians by public subscription shortly after his death, as a memorial to his services to the Nilgiris community. The first non Christian principal and correspondent was N Raman. He headed the school for a very long time. The school is 1.5 km from the Government Botanical Gardens, Ooty.",
+   "url": "https://en.wikipedia.org/wiki/Breeks_Memorial_School"
+  },
+  {
+   "title": "Diocese of Ootacamund",
+   "text": "The Roman Catholic Diocese of Ootacamund (Latin: Ootacamunden(sis)) is a diocese located in the city of Ootacamund (Ooty) in the ecclesiastical province of Madras and Mylapore in India.",
+   "url": "https://en.wikipedia.org/wiki/Diocese_of_Ootacamund"
+  },
+  {
+   "title": "Holy Trinity Church, Ooty",
+   "text": "Holy Trinity Church is a historic Church of South India church in Ooty (Ootacamund), Tamil Nadu, India. Its origins are connected with the Ootacamund Tamil Mission and a small chapel established for the town's Indian Christian congregation during the 19th century. The building was used for worship on Sundays and as a school during the week before being formally dedicated as Holy Trinity Church in 1858.\nThe church is associated with the missionary work of Bernhard Schmid and the Tamil scholar George Uglow Pope. During the 19th century it developed from a chapel serving Tamil Christians into an established congregation, later passing into the administration of the Church Mission Society before becoming part of the Church of South India in 1947.",
+   "url": "https://en.wikipedia.org/wiki/Holy_Trinity_Church,_Ooty"
+  },
+  {
+   "title": "Udagamandalam Assembly constituency",
+   "text": "Udagamandalam Assembly constituency  is a state assembly constituency in Tamil Nadu. Its State Assembly Constituency number is 108. It comes under Nilgiris Lok Sabha constituency. The constituency has been in existence since the 1957 election. It is one of the 234 State Legislative Assembly Constituencies in Tamil Nadu, in India. Elections and winners in the constituency are listed below.",
+   "url": "https://en.wikipedia.org/wiki/Udagamandalam_Assembly_constituency"
+  },
+  {
+   "title": "Udagamandalam taluk",
+   "text": "Udagamandalam taluk is a taluk of Nilgiris district of the Indian state of Tamil Nadu. The headquarters of the taluk is the town named Udagamandalam",
+   "url": "https://en.wikipedia.org/wiki/Udagamandalam_taluk"
+  },
+  {
+   "title": "Green fields, Ooty",
+   "text": "Green fields is a suburb in Ooty town in the Tamil Nadu state of India. It constitutes ward no. 9 of the Ooty constituency of Tamil Nadu.",
+   "url": "https://en.wikipedia.org/wiki/Green_fields,_Ooty"
+  },
+  {
+   "title": "Government Rose Garden",
+   "text": "The Government Rose Garden (formerly known as the Jayalalithaa Rose Garden, Centenary Rose Park and Nootrandu Roja Poonga) is situated on the slopes of Elk Hill in Vijayanagaram of Ooty town in Tamil Nadu, India at an altitude of 2200 meters.",
+   "url": "https://en.wikipedia.org/wiki/Government_Rose_Garden"
+  },
+  {
+   "title": "St. Stephen's Church, Udhagamandalam",
+   "text": "St. Stephen's Church is a historic Church of South India church in Ooty, Tamil Nadu, India. Established during the early development of Ootacamund as a British hill station, it is one of the oldest surviving churches in the Nilgiris and an important example of the town's early colonial-era ecclesiastical architecture. The church and its adjoining historic cemetery preserve a substantial record of 19th-century Ootacamund and the military, administrative and civilian community associated with the hill station.",
+   "url": "https://en.wikipedia.org/wiki/St._Stephen%27s_Church,_Udhagamandalam"
+  },
+  {
+   "title": "Mariamman temple, Ooty",
+   "text": "The Mariamman temple (Tamil: மாரியம்மன் கோவில்) is located near the market in Ooty, in the state of Tamil Nadu, India. Mariamman is the local deity of the region. It is dedicated to Mariamman, the Hindu Goddess of rain.",
+   "url": "https://en.wikipedia.org/wiki/Mariamman_temple,_Ooty"
+  },
+  {
+   "title": "Udagamandalam block",
+   "text": "The Udagamandalam block is a revenue block in the Nilgiris District of Tamil Nadu, India. It has a total of 13 panchayat villages.",
+   "url": "https://en.wikipedia.org/wiki/Udagamandalam_block"
+  },
+  {
+   "title": "Adam's fountain",
+   "text": "Adam's fountain is a public display fountain in Charring cross, Ooty. It was built in 1886 as a memorial to a Governor of Ooty, who was very famous in the region during his tenure. The total cost of finishing the fountain was between Rs. 13,000 to Rs. 14000, which was funded through public funding.",
+   "url": "https://en.wikipedia.org/wiki/Adam%27s_fountain"
+  },
+  {
+   "title": "Ooty Municipal Market",
+   "text": "The Ooty Municipal Market is located in the Nilgiris district in Tamil Nadu. Built in 1848, it was previously considered to be a model market in India.  It is one of the largest retail markets in India. This market is the most important shopping centre in Ooty and utilized by the people for shopping  vegetables, fruits and groceries. In 2023, funds were sanctioned to modernise the market and the work is in progress.",
+   "url": "https://en.wikipedia.org/wiki/Ooty_Municipal_Market"
+  },
+  {
+   "title": "Government Arts College, Ooty",
+   "text": "Government Arts College is an arts and science college located in Ooty in the Nilgiris district, Tamil Nadu, India. The college is located in a locale called Stone house hill named after the landmark building Stone House.",
+   "url": "https://en.wikipedia.org/wiki/Government_Arts_College,_Ooty"
+  },
+  {
+   "title": "Sacred Heart Cathedral, Ooty",
+   "text": "Sacred Heart Cathedral is a Roman Catholic church located near the Botanical Gardens in Ooty (Udhagamandalam) in the Nilgiris district, in Tamil Nadu in south India.  Built in 1897, it is the second oldest Roman Catholic church in Ooty, the oldest being St. Mary's Church.  It was designated a cathedral in 1955 when the Diocese of Ootacamund was created.",
+   "url": "https://en.wikipedia.org/wiki/Sacred_Heart_Cathedral,_Ooty"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Ooty",
+  "text": "Ooty, short for Ootacamund and officially Udhagamandalam (Tamil: உதகமண்டலம் Udagamaṇḍalam), is a popular hill resort in the state of Tamil Nadu in Southern India. The name Udhagamandalam is derived from the Toda word \"othakal-mund\" which means \"house in mountains\". Ooty stands at 2,240 m (7,347 feet) above sea level in the Nilgiri Mountains. Here you can escape the heat of the region around: The weather is quite pleasant at a mean of 20-25°C during the day around the year. Ooty is one of the first places in India to get rid of plastic carry bags, so if you are heading there, remember to carry your own reusable bags, not plastic.\n\n\n== See ==\n\n Annamalai Temple (about 20 km from Ooty). This place has grown as a famous temple of Lord Muruga, and is known as 7th Hill house of the lord. The view from the temple is great. There is an observatory at the top of hill for the public to enjoy the magnificent panoramic view. (updated Oct 2015)\n1 Doddabetta Peak. (Timings: 8am - 5pm). The peak of Dodabetta (literally meaning the big mountain) stands at an altitude of 2,623 m. It is the highest peak in Nilgiri and the second highest peak of South India. About 8 km from Ooty the peak provides panoramic view of the surrounding area. On a clear day the views can extend to the plains of Coimbatore and the flat highlands of Mysore. There are boards highlighting the area viewed. The peak houses a tower-like structure known as the telescope house. This elevated circular structure provides a great view of the surroundings. The place houses several eateries and makeshift shops. The area is a wildlife zone and the peak can only be reached by car and auto, as trekking is prohibited. Tickets: ₹6 (children below 5 years are free). Still camera: ₹10; Video camera: ₹50. \n Echo Rock. Some call it the \"Lamb's Rock\", as it naturally took the shape of a lamb. Go through a very small forest and then you can see the rock. \n2 Fern Hills Palace. Be sure to visit this palace-turned-hotel of the Mysore Maharaja. Extremely beautiful place and quite affordable tea-snacks and slightly expensive buffet dinner. The palace and its estate are beautiful and are open to guests. The locals often will call it Mysore Palace to avoid confusion with the Fern Hill Hotel. \n Hidden Valley.  \n3 Ooty Botanical Gardens. (Timing: 7:00 am - 6:30 pm all days). If you are on a sightseeing tour to Ooty, you might want to visit the Government Botanical gardens\n== Do ==\nMost travel agents and hotels conduct guided tour packages that will bundle you into a bus, and tick off the most important and hence crowded \"tourist\" spots in the area. Some hotels also arrange for private cars like Indica, TATA Sumo.\n\n1 Boat House. Paddle and speed boat rides in the lake. There are various rides like pirate ship, flying saucer, toy train, etc. There are other activities like haunted houses. Number of eateries serving a wide range of food. A place to hang out with family and kids. Tickets: ₹20 entry free. Rides and other activities have different tickets. (updated Apr 2025)\nTravel on the railway. The charming Nilgiri Mountain Railway (NMR), blue and cream with wooden coaches and large windows, is widely regarded as a marvel of engineering.\nGo for long walks and hikes.\nVisit a tea plantation and if possible a tea factory.\nTravel the countryside in a 4x4.\nCatch a round of golf at the Gymkhana Golf course (membership or introduction required)\nVisit the local Army cantonment - the Madras Regimental Center and the DSSC (Defense Services Staff College).\nVisit terrace farmed cabbage fields around Ooty.\nVisit the Mudumalai forest sanctuary (1-2 days minimum).\nVisit the Needle industries which is around 6km from maintown Ooty in Ketti.\nVisit 9th mile and also the 6th mile where lot of movies are shot.\nVisit the Municipal Market and shop for fresh local fruits.\n Horse back riding. It's popular here. In one hour you can go around the lake or longer rides you can visit countryside around Ooty. Some knowledge of horses would be good as the guides are local men who don't speak too much English, teaching is minimal. On top of the price you have to pay for guide. US$4/hour. \nExplore the nearby Avalanche and Emerald Lakes, for day picnics, treks, and walkthro\n== Eat ==\n\nThere are various restaurants in Ooty, mostly offering South Indian food, but some offer North Indian food.\n\n1 Hotel Sri Velmurugan, Walsham Road, Green fields (On the road connecting Alankar Theatre (in Ettines road) and the Commercial Road), ☏ +91 9944817139, +91 423-2444968, hotelsrivelmurugan@gmail.com. 6AM to 11PM. Traditional South Indian restaurant. (updated Jun 2019)\n Earl's Secret, Kings Cliff.  \n Bismillah Hotel, Near Juma Masjidh, Upper Bazar. Delicious meat and fish dishes of Calicut taste. (updated Mar 2017)\n Navodaya Chaater Cafe (C-Store), Willow bund road, ☏ +91 9840249656. 3pm onwards. Serves vegetarian delicacies, including maggi. (updated Nov 2019)\n\n\n== Drink ==\nThe Nilgiris are famous for tea.\n\n Hotel Blue hills, Commercial Road. Best non-veg hotel in Ooty. Serving biriyani and other dishes for more than a decade. \n Krishan Prabhas. lower bazaar, near bus stand, ooty \n\n",
+  "url": "https://en.wikivoyage.org/wiki/Ooty"
+ },
+ "sights": [
+  {
+   "name": "Holy Trinity Church, Ooty",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 11.413444,
+   "lon": 76.702056
+  },
+  {
+   "name": "St. Stephen's Church, Udhagamandalam",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 11.414687,
+   "lon": 76.702056
+  },
+  {
+   "name": "Udagamandalam block",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 11.41,
+   "lon": 76.7
+  },
+  {
+   "name": "Udagamandalam taluk",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 11.41,
+   "lon": 76.7
+  },
+  {
+   "name": "Udagamandalam Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 11.41,
+   "lon": 76.7
+  },
+  {
+   "name": "Ooty",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 11.41,
+   "lon": 76.7
+  },
+  {
+   "name": "Breeks Memorial School",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 11.4127,
+   "lon": 76.7075
+  },
+  {
+   "name": "Adam's fountain",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 11.412621,
+   "lon": 76.708213
+  },
+  {
+   "name": "Green fields, Ooty",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 11.408808,
+   "lon": 76.706961
+  },
+  {
+   "name": "Ooty Municipal Market",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 11.406776,
+   "lon": 76.702836
+  },
+  {
+   "name": "Sacred Heart Cathedral, Ooty",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 11.416944444444443,
+   "lon": 76.70833333333334
+  },
+  {
+   "name": "Diocese of Ootacamund",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 11.4167,
+   "lon": 76.7086
+  },
+  {
+   "name": "Government Arts College, Ooty",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 11.4138,
+   "lon": 76.7115
+  },
+  {
+   "name": "Government Rose Garden",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 11.40611111111111,
+   "lon": 76.70861111111111
+  },
+  {
+   "name": "Mariamman temple, Ooty",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 11.412142,
+   "lon": 76.712728
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: The operation was aborted due to timeout",
+  "overpass food: overpass-api.de 504"
+ ]
+}
