@@ -1,0 +1,33 @@
+{
+ "query": "Chikhaldara",
+ "found": "Chikhaldara, Amravati, Maharashtra, India",
+ "lat": 21.4763983,
+ "lon": 77.2757788,
+ "fetchedAt": "2026-10-12T19:05:26.784Z",
+ "locality": {
+  "id": "pili-amravati-maharashtra",
+  "name": "Pili",
+  "area": "Chikhaldara, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [
+  {
+   "title": "Pili",
+   "text": "Pili may refer to:\n\n\n== Common names of plants ==\nCanarium ovatum, a Philippine tree that is a source of the pili nut\nHeteropogon contortus, a Hawaiian grass used to thatch structures\n\n\n== Places ==\nPili, Camarines Sur, is a municipality in the Philippines\nPili, barangay in Danao, Cebu\nPili, (or Cerro Pili, 'Pili Hill'), another name for Acamarachi, a volcano in Chile\nPili Nadi, a stream or small river that flows through Jaunpur, Uttar Pradesh; tributary of the Gomti River\n\n\n== Other uses ==\nPili, another name for jianzi, a traditional Chinese sport\nPili (film), nominated for the BAFTA Award for Outstanding Debut by a British Writer, Director or Producer in 2018\nPili line, a Hawaiian royal house\nPili, short form of Pilikaʻaiea, ruler or aliʻi nui of Hawaii, founder of the Pili line\nPili, plural of Pilus, a cellular organelle\nPili (TV series), a puppet television show from Taiwan\nPerak, a state of Malaysia, written as 霹雳 or 霹靂 for Chinese\nPili or Omega Piscium, a star",
+   "url": "https://en.wikipedia.org/wiki/Pili"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Pili",
+  "text": "Pili is the provincial capital of Camarines Sur, and is located to the south of Naga City.\n\n\n== See ==\n\n\n=== Heritage Sites ===\n1 Saint Raphael Archangel Parish Church (Pili Church). A Catholic church dating to 1819. (updated Oct 2020)\n2 Filipino - Japanese Friendship Landmark, Sitio Bongcao, Curry. A marker erected in 1985 to commemorate the end of Japanese occupation of Bicol and the start of stronger Filipino-Japanese relations. (updated Oct 2020)\n3 Our Lady of Remedies Parish Church (Curry Church), Curry. A Catholic church located at the foot of Mt. Isarog. (updated Oct 2020)\n\n\n=== Natural Attractions ===\n\n4 Mount Isarog. A dormant volcano and a national park open for trekking and mountain biking. (updated Oct 2017)\n\n Balang Falls (Shower Falls), Sitio Bongcao, Curry. A waterfall at the foot of Mt. Isarog and is the last falls of the \"eight falls in one river\". It can be accessible through hiking from the Bongcao trail at Barangay Curry. (updated Oct 2020)\n\n\n== Do ==\n1 Camarines Sur Watersports Complex (CamSur Watersports Complex, or CWC).  (updated Apr 2020)\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Pili"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

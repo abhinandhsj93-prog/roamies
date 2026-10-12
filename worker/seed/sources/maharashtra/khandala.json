@@ -1,0 +1,55 @@
+{
+ "query": "Khandala",
+ "found": "Khandala, A.A.Road, Summer Hill, Khandala, Mawal Subdistrict, Pune, Maharashtra, 410400, India",
+ "lat": 18.7548469,
+ "lon": 73.3767092,
+ "fetchedAt": "2026-10-12T18:55:45.184Z",
+ "locality": {
+  "id": "pune-district-maharashtra",
+  "name": "खंडाला",
+  "area": "Mawal Subdistrict, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Khandala railway station": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Khandala_railway_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Khandala railway station",
+   "credit": "Photo: Lakun.patra, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khandala_railway_Station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kune Falls",
+   "text": "The Kune Falls is a waterfall at Khandala in Pune district in the Indian state of Maharashtra. It is the 14th highest waterfall in India.",
+   "url": "https://en.wikipedia.org/wiki/Kune_Falls"
+  },
+  {
+   "title": "Khandala railway station",
+   "text": "Khandala railway station is a local station for Khandala town, a twin hill stations of Lonavala – Khandala, in Pune district in Maharashtra, India. The Station code is KAD. It has three platforms,\nIt is the very next station (towards Pune) to Lonavala from where Pune Suburban Service starts. Khandala Ghat starts after this station towards Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Khandala_railway_station"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Khandala railway station",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 18.7548,
+   "lon": 73.3769
+  },
+  {
+   "name": "Kune Falls",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 18.7625,
+   "lon": 73.38138888888888
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

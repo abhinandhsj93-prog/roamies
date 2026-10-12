@@ -1,0 +1,78 @@
+{
+ "query": "Diveagar",
+ "found": "Diveagar, Shrivardhan Taluka, Raigad, Maharashtra, 402403, India",
+ "lat": 18.1689943,
+ "lon": 72.9901817,
+ "fetchedAt": "2026-10-12T18:52:35.217Z",
+ "locality": {
+  "id": "diveagar-raigad-maharashtra",
+  "name": "Diveagar",
+  "area": "Shrivardhan Taluka, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Diveagar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Diveagar_beach_another_view.jpg/1280px-Diveagar_beach_another_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Diveagar",
+   "credit": "Photo: Pankaj Dhande, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diveagar_beach_another_view.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Diveagar",
+   "text": "Diveagar (Dive Agar) is a village located in the Shrivardhan Taluka, Raigad district in the Indian state of Maharashtra, approximately 170 kilometers south of Mumbai. The region includes a fishing settlement, a beach, a temple, local businesses engaged in coconut and beetle nut tree farming, and some tourism businesses such as restaurants, cottage rentals and hotels, and six villages (from north to south): Velas, Musalmāndi, Agar Panchaitan, Diveagar, Borli Panchatan, and Karle. A Suvarna Ganesh Mandir with a lord Ganesh idol of gold is famous in Diveagar for tourists, the Ganesh idol was stolen on 24.3.2012 by some miscreants. The beach, facing the Arabian Sea, is approximately four kilometres long and undeveloped. At the north end of the beach, where a small stream enters the ocean there is the fishing settlement, Velas Agar, and some paddy farming, while at the south end there is a sanctuary for migratory seabirds. Nearby, there is a small fishing village, where vendors sell fresh fish, which goes by name of Bharadkhol. The beach is accessible from the Mumbai-Goa highway via Kolad or Karnala.\nThe beach contains a number of suru trees (Casuarina), which are common to coastal Maharashtra...",
+   "url": "https://en.wikipedia.org/wiki/Diveagar"
+  },
+  {
+   "title": "Agar Panchaitan",
+   "text": "Agar Panchaitan is a town located in the state of Maharashtra, on the west coast of India. It is located approximately 60 miles south of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Agar_Panchaitan"
+  },
+  {
+   "title": "Bharadkhol",
+   "text": "Bharadkhol is a coastal village in the Shrivardhan Taluk in Raigad District in Maharashtra State, India. It is close to popular beach town of Diveagar known for its pristine beach.",
+   "url": "https://en.wikipedia.org/wiki/Bharadkhol"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Shri Siddhivinayak And Suvarna Ganesh Mandir Diveagar",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 18.1692243,
+   "lon": 72.9920073
+  },
+  {
+   "name": "Shri Kedarnath Mandir Diveagar",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 18.1692778,
+   "lon": 72.9923147
+  },
+  {
+   "name": "Shri Siddhanath Bhairav Mandir Diveagar",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 18.1724348,
+   "lon": 72.99159
+  },
+  {
+   "name": "Shri Rupnarayan Mandir Diveagar",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 18.1724679,
+   "lon": 72.9876302
+  },
+  {
+   "name": "Shri Sundarnarayan Mandir Diveagar",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 18.1723489,
+   "lon": 72.9875412
+  }
+ ],
+ "food": [],
+ "errors": []
+}

@@ -1,0 +1,21 @@
+{
+ "query": "Nanded",
+ "found": "Nanded, Maharashtra, India",
+ "lat": 19.0942729,
+ "lon": 77.4832628,
+ "fetchedAt": "2026-10-12T19:04:25.361Z",
+ "locality": {
+  "id": "chikhla-tanda-nanded-district-maharashtra",
+  "name": "Chikhla Tanda",
+  "area": "Mudkhed, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

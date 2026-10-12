@@ -1,0 +1,241 @@
+{
+ "query": "Kala Ghoda, Mumbai",
+ "found": "Kala Ghoda, Dr Baba Saheb Ambedkar Marg (Victoria Garden Road), Byculla East, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400027, India",
+ "lat": 18.9787476,
+ "lon": 72.8352916,
+ "fetchedAt": "2026-10-12T18:47:39.875Z",
+ "locality": {
+  "id": "byculla-east-mumbai-city-district-maharashtra",
+  "name": "Byculla East",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Jijamata Udyaan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Raje_Shivaji_with_mother_Jijamata.jpg/1280px-Raje_Shivaji_with_mother_Jijamata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jijamata Udyaan",
+   "credit": "Photo: Mayurhulsar, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raje_Shivaji_with_mother_Jijamata.jpg"
+  },
+  "Chinchpokli": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Chinchpokli_stationboard.jpg/1280px-Chinchpokli_stationboard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chinchpokli",
+   "credit": "Photo: Superfast1111, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinchpokli_stationboard.jpg"
+  },
+  "Reay Road railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Reay_Road.jpg/1280px-Reay_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Reay Road railway station",
+   "credit": "Photo: Superfast1111, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reay_Road.jpg"
+  },
+  "Byculla Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/184-Byculla.svg/1280px-184-Byculla.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Byculla Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:184-Byculla.svg"
+  },
+  "Aga Khan's Maqbara": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hasanabad%2C_Mazagaon.jpg/1280px-Hasanabad%2C_Mazagaon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aga Khan's Maqbara",
+   "credit": "Photo: Priya 2887, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hasanabad,_Mazagaon.jpg"
+  },
+  "Khada Parsi": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Standing_Parsi_Statue_or_the_Khada_Parsi_and_the_Byculla_Hotel_-_Bombay%2C_Circa_1850-1870_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Khada Parsi",
+   "credit": "Photo: Francis Frith, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Standing_Parsi_Statue_or_the_Khada_Parsi_and_the_Byculla_Hotel_-_Bombay,_Circa_1850-1870_(cropped).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Jijamata Udyaan",
+   "text": "Jijamata Udyaan, also known as Victoria Gardens and the Byculla Zoo, is a zoo and garden covering 50 acres located at Byculla, in the heart of Mumbai, India. It is the oldest public garden in Mumbai. After Indian independence, it was officially renamed after Jijamata, the mother of Shivaji, the first Maratha emperor; the original name remains popular. \nIn 1835, the British administration granted a large plot of land in Sewri to the Agro Horticultural Society of Western India for a botanical garden known as Victoria Gardens, after Queen-Empress Victoria. That land was later acquired for a European burial ground. In 1861, construction of a new garden was commenced on 33 acres in the Mount Estate, Mazgaon (now included in Byculla). The flora from Sewri garden was transferred to this new garden named Jijamata Udyaan, which was formally opened to the public by Lady Frere on 19 November 1862. Agro Horticultural Society of Western India continued to maintain Victoria Gardens until 1873 when the society's end led to the municipal corporation taking over the garden's upkeep. In 1890 the garden was extended by 15 acres especially for the zoo.\nThe garden is the only green space in Mumbai that...",
+   "url": "https://en.wikipedia.org/wiki/Jijamata_Udyaan"
+  },
+  {
+   "title": "Byculla",
+   "text": "Byculla (ISO: Bhāykhaḷā; pronunciation: [bʱaːjkʰəɭaː]) is an area of South Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Byculla"
+  },
+  {
+   "title": "Mumbai Central Jail",
+   "text": "The Mumbai Central Jail, also referred to as Arthur Road Jail, was built in 1926, and is Mumbai's largest and oldest prison. It houses most of the city's prisoners. It was declared a Central Jail in 1972. Although its name was changed to Mumbai Central Prison, it is still often referred to as Arthur Road Jail. The jail occupies 2 acres (0.81 ha) of land.",
+   "url": "https://en.wikipedia.org/wiki/Mumbai_Central_Jail"
+  },
+  {
+   "title": "Chinchpokli",
+   "text": "Chinchpokli (Marathi: चिंचपोकळी) is a neighbourhood in South Mumbai. It is also the name of a railway station on the Central line of the Mumbai suburban railway. Historical British era spellings include Chinchpugli and Chinchpooghly. The neighbourhood is named after the Marathi words for tamarind (chinch) and betel nut (pofali).\n\n",
+   "url": "https://en.wikipedia.org/wiki/Chinchpokli"
+  },
+  {
+   "title": "Reay Road railway station",
+   "text": "Reay Road (station code: RRD) is a railway station on the Harbour Line of the Mumbai Suburban Railway. \nThe station was named after Lord Reay, Governor of Bombay between 1885 and 1890. It was opened in 1910 and was originally used as a terminus for the Kurla - Reay Road harbour line on the Great Indian Peninsular Railway, the first railway line in India.\nThe station's single storey colonial building has an exposed stone masonry facade, hooded segmental arches along the front, rectangular pilasters and a lean-to roof.\nThe station is a Grade-I heritage structure. The other 4 railway stations on Mumbai's heritage list include Chhatrapati Shivaji Maharaj Terminus, Western Railways Headquarters Building (Churchgate), Bandra railway station and Byculla railway station.  \n\nThe letters GIPR can be seen on either side of the station. GIPR is the abbreviation for Great Indian Peninsula Railway, the first rail line in India.\nThe tracks have been extended for 12 car local trains. The track passes under a road connecting both sides of the station platform.\nBritannia, a famous brand of baked goods has a bakery in this area. A forging mill is present next to the railway station. The station gives...",
+   "url": "https://en.wikipedia.org/wiki/Reay_Road_railway_station"
+  },
+  {
+   "title": "Dagdi Chawl",
+   "text": "Dagdi Chawl is a neighbourhood in Byculla, Mumbai, used to house mill workers from the nearby industries. Now it is known for the fortified home of mafia don turned politician Arun Gawli.",
+   "url": "https://en.wikipedia.org/wiki/Dagdi_Chawl"
+  },
+  {
+   "title": "Ghodapdeo",
+   "text": "Ghodapdeo is a neighborhood in Byculla, Mumbai.\nGhodapdeo lies between Cotton Green, Reay Road, Raani Baug, Mustafa Bazaar and Kaala Chowki. It consists mainly of the labour class population. The main language spoken is Marathi. A wide range of industrial units and individual factories are scattered all over the neighborhood.\nA small temple of god named 'Ghodapdeo' is built here and thus the name given is Ghodapdeo Road. Historically this area was for cloth mills but after liberalisation (post 1990) all the mills were shut down and only 1 mill was operating till 2011. From 2006 full round of redevelopment started in Ghodapdeo and now there are handful of iconic chawls. Though majority of population in Ghodapdeo is Maharashtrian, Rajasthani and Gujarati population is also substantial.",
+   "url": "https://en.wikipedia.org/wiki/Ghodapdeo"
+  },
+  {
+   "title": "Agripada",
+   "text": "Agripada is an area in South Mumbai. It is located between Byculla (West) and Mumbai Central (East). This area is connected with the Central Railway as well as the Western Railway. Agripada is also notable for its YMCA which has a swimming pool and various indoor and outdoor sports facilities. A large number of schools, including municipal schools, convents, Marathi, Hindi and English medium schools are located in this area.\nMaratha Mandir is the nearest cinema hall. The other surrounding areas are Mumbai Central, Byculla, Nagpada, Madanpura and Mahalaxmi. Agripada also has a large number of mosques, of which Arab Masjid Al-Madina Masjid and Jamai Ahl-e Hadees Masjid are the most famous.",
+   "url": "https://en.wikipedia.org/wiki/Agripada"
+  },
+  {
+   "title": "Byculla Assembly constituency",
+   "text": "Byculla Assembly constituency is one of the 288 Vidhan Sabha (legislative assembly) constituencies of Maharashtra state in western India.",
+   "url": "https://en.wikipedia.org/wiki/Byculla_Assembly_constituency"
+  },
+  {
+   "title": "Sant Gadge Maharaj Chowk monorail station",
+   "text": "Sant Gadge Maharaj Chowk is a monorail station and the southernmost terminus of the Mumbai Monorail, serving the area of Mahalaxmi and Byculla in South Mumbai. It was inaugurated on 3 March 2019 by Piyush Goyal, the then Railway Minister and Devendra Fadnavis, the then Chief Minister of Maharashtra. It serves as an interchange to Mumbai Metro Aqua Line's HDFC Life Mahalaxmi metro station at a 300metre distance which is also being connected with a travelator to Mahalaxmi railway station and the monorail station.\nThe station is located in the Vicinity of Arthur Road Jail, it is in close proximity to Mahalaxmi railway station, Chinchpokli railway station and Byculla railway station, Mahalaxmi Racecourse. The Dagdi Chawl can be accessed through this station. St. Ignatius High School is the only school located in its vicinity along with Kasturbha Gandhi Hospital. It also gives connectivity to Haji Ali Dargah and Worli, Lala Lajpat Rai College, Hira Panna, NH.SRCC Hospital.",
+   "url": "https://en.wikipedia.org/wiki/Sant_Gadge_Maharaj_Chowk_monorail_station"
+  },
+  {
+   "title": "Chinchpokli Assembly constituency",
+   "text": "Chinchpokli Assembly constituency was one of the 288 assembly constituencies of  Maharashtra a western state of India. Chinchpokli was also part of Mumbai South Lok Sabha constituency. Chinchpokli existed till 2004 elections until Byculla Assembly constituency was formed in 2008.",
+   "url": "https://en.wikipedia.org/wiki/Chinchpokli_Assembly_constituency"
+  },
+  {
+   "title": "Aga Khan's Maqbara",
+   "text": "The Aga Khan's Maqbara or Aga Khan's Dargah is the mausoleum of Aga Khan I, located in Mazgaon, Mumbai, India. It is also known as the Hasanabad Monument since the personal name of Aga Khan I was Hasan.\nAga Khan I first visited the site in 1840. He was given a patch of land by Mukhi Ladakbhai Haji and stated his desire to be buried there when he died.\nThe construction of the mausoleum began in 1881 soon after the funeral of Aga Khan I; it was completed in 1884. The mausoleum is maintained by the jamaatkhana of the Khoja Muslims. It seems to have been inspired by the Taj Mahal.  There are three blue domes and two 90-foot high minarets.\nThe mausoleum was the temporary resting place of the mortal remains of Aga Khan II until they were moved to Najaf, Iraq. It was also the temporary resting place of the mortal remains of Pir Abu'l-Hasan Shah until they were moved to Karbala, Iraq.\nIn the crypt of the mausoleum are buried two faithful servants of the Nizari imams:\n\nWasir Rahim Basaria (January 1885 - February 15, 1927)\nCaptain Aga Majid Khan (died October 7, 1956)",
+   "url": "https://en.wikipedia.org/wiki/Aga_Khan%27s_Maqbara"
+  },
+  {
+   "title": "Kasturba Hospital (Mumbai)",
+   "text": "Kasturba Hospital is a government hospital situated at Chinchpokli in Mumbai. It is funded by the Municipal corporation of Greater Mumbai and is one of the centres for coronavirus testing in Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Kasturba_Hospital_(Mumbai)"
+  },
+  {
+   "title": "Jewish Cemetery, Chinchpokli",
+   "text": "Jewish Cemetery, Chinchpokli, is a cemetery in Chinchpokli, Bombay, laid out near the Chinchpokli railway station by Elias David Sassoon in 1878. Covering two acres, the burial ground now contains more than a thousand graves, and new burials continue to take place.",
+   "url": "https://en.wikipedia.org/wiki/Jewish_Cemetery,_Chinchpokli"
+  },
+  {
+   "title": "Khada Parsi",
+   "text": "Khada Parsi, Ubha Parsi (transl. Standing Parsi) or Cursetjee Fountain is a Grade 1 heritage monument located in Byculla, Mumbai, India. Installed in 1867, the monument features a life-sized cast iron statue of Cursetjee Manockjee (19 August 1763 — 7 May 1845), a prominent Parsi businessman and philanthropist, atop a pillar and surrounded by mermaid fountains. It is considered one of the oldest Parsi statues in Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Khada_Parsi"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Byculla",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 18.98,
+   "lon": 72.835
+  },
+  {
+   "name": "Jijamata Udyaan",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.9781154,
+   "lon": 72.8367457
+  },
+  {
+   "name": "Jewish Cemetery, Chinchpokli",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 18.9753241,
+   "lon": 72.8380539
+  },
+  {
+   "name": "Chinchpokli",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 18.983333333333334,
+   "lon": 72.83333333333333
+  },
+  {
+   "name": "Byculla Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 18.98,
+   "lon": 72.83
+  },
+  {
+   "name": "Chinchpokli Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 18.984,
+   "lon": 72.834
+  },
+  {
+   "name": "Dagdi Chawl",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 18.9771,
+   "lon": 72.8291
+  },
+  {
+   "name": "Aga Khan's Maqbara",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 18.97338,
+   "lon": 72.83938
+  },
+  {
+   "name": "Kasturba Hospital",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.984099,
+   "lon": 72.829783
+  },
+  {
+   "name": "Agripada",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.9777,
+   "lon": 72.8273
+  },
+  {
+   "name": "Khada Parsi",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.9715541,
+   "lon": 72.8324427
+  },
+  {
+   "name": "Sant Gadge Maharaj Chowk monorail station",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.98309,
+   "lon": 72.82858
+  },
+  {
+   "name": "Ghodapdeo",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.985555555555557,
+   "lon": 72.83916666666666
+  },
+  {
+   "name": "Mumbai Central Jail",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 18.985194444444446,
+   "lon": 72.82976111111111
+  },
+  {
+   "name": "Reay Road railway station",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 18.977443,
+   "lon": 72.84421
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

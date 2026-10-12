@@ -1,0 +1,54 @@
+{
+ "query": "Murud-Janjira",
+ "found": "Janjira Fort, Rajapuri, Murud Taluka, Raigad, Maharashtra, India",
+ "lat": 18.2999468,
+ "lon": 72.9643996,
+ "fetchedAt": "2026-10-12T18:51:58.253Z",
+ "locality": {
+  "id": "rajapuri-raigad-maharashtra",
+  "name": "Rajapuri",
+  "area": "Murud Taluka, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Siege of Janjira": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Murud_Janjira_Fort.JPG/1280px-Murud_Janjira_Fort.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Siege of Janjira",
+   "credit": "Photo: Chirag Upadhyay, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murud_Janjira_Fort.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Murud-Janjira",
+   "text": "Murud-Janjira () is the local name of a fort and tourist attraction situated on an island just off the coastal town of Murud, in the Raigad district of Maharashtra, India. Malik Ambar is credited with the construction of Janjira Fort in the Murud area of present-day Maharashtra India. After its construction in 1567 AD, the fort was key to the Sidis withstanding various invasion attempts by the Marathas, Mughals, and Portuguese to capture Janjira.",
+   "url": "https://en.wikipedia.org/wiki/Murud-Janjira"
+  },
+  {
+   "title": "Siege of Janjira",
+   "text": "The siege of Janjira was a military campaign undertaken by the Maratha Confederacy, commanded by Sambhaji, the second Maratha ruler, against the Siddis of Janjira in January 1682. The Maratha forces, led by Sambhaji, withdrew from Janjira to the Konkan region in response to Mughal attacks, leaving a contingent behind under the command of Dadaji Raghunath Deshpande. Despite their efforts, the Marathas were unable to capture the fort, and the Siddis pursued the retreating forces, plundering Maratha territories.\nThe Siddis of Janjira, who allied with the Mughal Empire following the fall of the Ahmadnagar Sultanate, posed a significant threat to the Marathas of Konkan. During Shivaji's reign, several unsuccessful attempts were made to capture Janjira, the Siddi's capital. After Shivaji's death, his son Sambhaji, along with Prince Akbar, the rebellious son of Mughal Emperor Aurangzeb, and the Rajputs of Marwar, sought to besiege the Janjira fort. Initially, Sambhaji dispatched his commander Dadaji Raghunath Deshpande, later joining the siege himself. However, continuous Mughal attacks on the Konkan region forced Sambhaji to withdraw at an interval. Following Sambhaji's departure, the remaining...",
+   "url": "https://en.wikipedia.org/wiki/Siege_of_Janjira"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Murud-Janjira",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 18.299589,
+   "lon": 72.964425
+  },
+  {
+   "name": "Siege of Janjira",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 18.299589,
+   "lon": 72.964425
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

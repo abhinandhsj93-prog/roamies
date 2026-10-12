@@ -1,0 +1,262 @@
+{
+ "query": "Shaniwar Wada, Pune",
+ "found": "Shaniwar Wada, Shivaji Road, Kasba Peth, Pune, Pune City Subdistrict, Pune, Maharashtra, 411001, India",
+ "lat": 18.5193826,
+ "lon": 73.8553566,
+ "fetchedAt": "2026-10-12T18:59:12.048Z",
+ "locality": {
+  "id": "kasba-peth-pune-district-maharashtra",
+  "name": "Kasba Peth",
+  "area": "Pune, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Pune": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pune_West_skyline_-_March_2017.jpg/1280px-Pune_West_skyline_-_March_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Pune",
+   "credit": "Photo: Ujjawal.Gayakwad, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pune_West_skyline_-_March_2017.jpg"
+  },
+  "Shaniwar Wada": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Front_view_of_Shaniwar_Wada_illuminated.jpg/1280px-Front_view_of_Shaniwar_Wada_illuminated.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shaniwar Wada",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_Shaniwar_Wada_illuminated.jpg"
+  },
+  "Kasba Ganapati": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/KasbaganpatiMandir.JPG/1280px-KasbaganpatiMandir.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kasba Ganapati",
+   "credit": "Photo: Khanruhi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KasbaganpatiMandir.JPG"
+  },
+  "Dagadusheth Halwai Ganapati Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_%281%29.JPG/1280px-Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dagadusheth Halwai Ganapati Temple",
+   "credit": "Photo: Universalashic, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_(1).JPG"
+  },
+  "Wagholi, Pune": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Wagholi.jpg/1280px-Wagholi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Wagholi, Pune",
+   "credit": "Photo: Akshit 77, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wagholi.jpg"
+  },
+  "Shaniwar Peth, Pune": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Gate_of_shaniwar_wada.jpg/1280px-Gate_of_shaniwar_wada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shaniwar Peth, Pune",
+   "credit": "Photo: Anujmgupta02, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gate_of_shaniwar_wada.jpg"
+  },
+  "Vishrambaug Wada": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Vishram_Baug_Wada.jpg/1280px-Vishram_Baug_Wada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vishrambaug Wada",
+   "credit": "Photo: Niraj.12, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vishram_Baug_Wada.jpg"
+  },
+  "PMC Bhavan metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Facade_of_PMC_Bhavan_metro_station_as_seen_from_Tilak_Bridge_located_on_Mutha_River%2C_Pune.jpg/1280px-Facade_of_PMC_Bhavan_metro_station_as_seen_from_Tilak_Bridge_located_on_Mutha_River%2C_Pune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "PMC Bhavan metro station",
+   "credit": "Photo: DesiBoy101, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facade_of_PMC_Bhavan_metro_station_as_seen_from_Tilak_Bridge_located_on_Mutha_River,_Pune.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kasba Peth",
+   "text": "Kasba Peth in the Marathi language, is mostly used in Maharashtra. Its general key term is for \"locality\" in English. This term is currently used in Indian cities, for example cities like Pune, Solapur, Madhavnagar, Karad, Ahmednagar, etc.",
+   "url": "https://en.wikipedia.org/wiki/Kasba_Peth"
+  },
+  {
+   "title": "Pune",
+   "text": "Pune (Marathi: Puṇē, pronounced [ˈpuɳeː] ), previously spelled in English as Poona (the official name until 1978), is a city in the state of Maharashtra in the Deccan Plateau in Western India. It is the administrative headquarters of the Pune district, and of Pune division. In terms of the total amount of land under its jurisdiction, Pune is the largest city in Maharashtra by area, with a geographical area of 516.18km2, though by population it comes in a distant second to Mumbai. The city of Pune is part of Pune Metropolitan Region, which according to the 2011 Census of India, has 7.2 million residents, making it the seventh-most populous metropolitan area in India.  Pune is one of the largest IT hubs in India. It is also one of the most important automobile and manufacturing hubs of India. Pune is often referred to as the \"Oxford of the East\" because of its educational institutions. It has been ranked \"the most liveable city in India\" several times.\nPune at different points in time has been ruled by the Rashtrakuta dynasty, Ahmadnagar Sultanate, the Mughals, and the Adil Shahi dynasty. In the 18th century, the city was part of the Maratha Empire, and the seat of the Peshwas, the prime...",
+   "url": "https://en.wikipedia.org/wiki/Pune"
+  },
+  {
+   "title": "Shaniwar Wada",
+   "text": "Shaniwar Wada is a historical fortification in the city of Pune, India. Built in 1732, it was the seat of the Peshwas of the Maratha Confederacy until 1818. The fort itself was largely destroyed in 1828 by an unexplained fire, but the surviving structures are now maintained as a tourist site.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Shaniwar_Wada"
+  },
+  {
+   "title": "Kasba Ganapati",
+   "text": "The Kasba Ganapati refers to both a particular murti of the god Ganapati in Pune, India, as well as to the temple built around the murti. The Kasba Ganapati is the presiding deity (gramadevata) of Pune.\nKasba Ganpati is considered the first Manacha Ganpati, or most revered Ganpati, in Pune, Maharashtra. The idol was established in 1893 and is located in the Kasba Peth area of Pune, an ancient part of the city. It is patronized by Ganapati Bapurao Bebhan Durbar and is considered the presiding deity of Pune. The idol is said to be self-made and was originally the size of a grain of rice, but is now larger due to a layer of red sandalwood.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Kasba_Ganapati"
+  },
+  {
+   "title": "Budhwar Peth, Pune",
+   "text": "Budhwar Peth is one of many commercial localities in the old city of Pune, India.  The area is located in the heart of the city has a high number of electronics shops, and is known for its red-light district. Three out of the five important Ganesh Mandals (Mana che Ganpati) i.e. Jogeshwari Ganpati, Guruji Talim Mandal, Tulshibaug Ganpati are located here, as is Appa Balwant Chowk, known as ABC.",
+   "url": "https://en.wikipedia.org/wiki/Budhwar_Peth,_Pune"
+  },
+  {
+   "title": "Dagadusheth Halwai Ganapati Temple",
+   "text": "The Dagadusheth Halwai Ganapati Temple is a Hindu temple dedicated to the Hindu god Ganesha (Ganapati) in the city of Pune, India. The temple is visited by over one hundred thousand devotees every year. A large number of devotees visit the temple during the annual ten-day public Ganeshotsav festival. The main Ganesha idol is insured for a sum of ₹10 million (US$100,000). It celebrated 134 years of its Ganeshotsav festival in 2026.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Dagadusheth_Halwai_Ganapati_Temple"
+  },
+  {
+   "title": "Wagholi, Pune",
+   "text": "Wagholi is situated within the Pune Metropolitan in the Indian state of Maharashtra. Wagholi is historically kenned as the habitation of Maratha Warrior Sardar Pilajirao Changojirao Jadhavrao. Wagholi was added to the area under Pune Municipal Corporation in 2021. Wagheshwar temple is popular temple at Wagholi. The name Wagholi was derived from the local Marathi word \"Wagh\" meaning \"tiger\", and is connected to the temple of Wagheshwar which is located at the entrance to the mining complex 20 km north of Pune.",
+   "url": "https://en.wikipedia.org/wiki/Wagholi,_Pune"
+  },
+  {
+   "title": "Shaniwar Peth, Pune",
+   "text": "Shaniwar Peth is a historic ward  in the centre of the Indian city of Pune. Shaniwar means Saturday in Marathi and other Indian languages. \nUnder the Muslim rule this place was known as Murujabad/Murtuzabad.",
+   "url": "https://en.wikipedia.org/wiki/Shaniwar_Peth,_Pune"
+  },
+  {
+   "title": "Vishrambaug Wada",
+   "text": "Vishrambaag Wada, a mansion situated at central Pune's Thorale Bajirao Road, was the residence of Peshwa Baji Rao II, the last Peshwa of Maratha confederacy, in early 19th century. The 20,000 sq.ft. wada presently houses a post office on its ground floor, a few other offices of the municipal corporation and a small museum of Maratha artifacts put together by noted Maratha historian, Babasaheb Purandare. This structure is famous for its fine entrance and the balcony with carved woodwork.",
+   "url": "https://en.wikipedia.org/wiki/Vishrambaug_Wada"
+  },
+  {
+   "title": "Brahmanoli",
+   "text": "Brahmanoli is a village in India, situated in Mawal taluka of Pune district in the state of Maharashtra. It encompasses an area of 177 ha (437 acres).",
+   "url": "https://en.wikipedia.org/wiki/Brahmanoli"
+  },
+  {
+   "title": "Budhavadi",
+   "text": "Budhavadi is a village in India, situated in Mawal taluka of Pune district in the state of Maharashtra. It encompasses an area of 139 ha (343 acres).",
+   "url": "https://en.wikipedia.org/wiki/Budhavadi"
+  },
+  {
+   "title": "Khand, Mawal",
+   "text": "Khand is a village and gram panchayat in India, situated in Mawal taluka of Pune district in the state of Maharashtra. It encompasses an area of 1,287 ha (3,180 acres).",
+   "url": "https://en.wikipedia.org/wiki/Khand,_Mawal"
+  },
+  {
+   "title": "Morave, Mawal",
+   "text": "Morave is a village and gram panchayat in India, situated in Mawal taluka of Pune district in the state of Maharashtra. It encompasses an area of 937 ha (2,315 acres).",
+   "url": "https://en.wikipedia.org/wiki/Morave,_Mawal"
+  },
+  {
+   "title": "Prabhachiwadi",
+   "text": "Prabhachiwadi is a village in India, situated in the Mawal taluka of Pune district in the state of Maharashtra. It encompasses an area of 141.05 ha (349 acres).",
+   "url": "https://en.wikipedia.org/wiki/Prabhachiwadi"
+  },
+  {
+   "title": "Appa Balwant Chowk",
+   "text": "Appa Balwant Chowk (also known as A.B.C.) is a popular crossroads in the Shaniwar Peth neighborhood of Pune, India that is particularly noted for the concentration of bookshops in the area. It is also the site of the 15th century Tambdi Jogeshwari temple.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Appa_Balwant_Chowk"
+  },
+  {
+   "title": "PMC Bhavan metro station",
+   "text": "PMC Bhavan is an elevated metro station on the East-West corridor of the Aqua Line of Pune Metro in Pune, India. The station was opened on 1 August 2023 as an extension of Pune Metro Phase I. Aqua Line operates between Vanaz and Ruby Hall Clinic.\nThe station is located in front of the Pune Municipal Corporation (PMC) building. Its design is inspired by wadas (house with courtyards) found in peth areas of the city. In September 2023, Maharashtra Metro Rail Corporation Limited (Maha Metro) has proposed to construct a footbridge which will directly connect the PMC building to the station for easy commute of the employees as well as visitors to the former.",
+   "url": "https://en.wikipedia.org/wiki/PMC_Bhavan_metro_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Pune",
+  "text": "Pune (Marathi: पुणे Puṇe), formerly Poona, is the second-largest city in the Indian state of Maharashtra. Often considered as the cultural capital of Maharashtra, Pune is known for its educational tourism and has a blend of cultural, business, health, and cuisine tourism background. The city also houses fantastic restaurants, good museums, and hill forts which offer panoramic views.\nWith an estimated population of 6.8 million (2025), Pune's large young cohort makes for a lively nightlife and vibrant atmosphere, and the city competes with Bengaluru and Hyderabad for the crown of India's IT capital.\n\n\n== See ==\nIndividual listings can be found in Pune's district articles\nPune is the cultural capital of Maharashtra. The Marathi film industry is also based here.\n\n\n== Do ==\nIndividual listings can be found in Pune's district articles\nBird Watching: Enjoy boating and bird viewing in some of the city parks of Pune. Migratory parks can be viewed throughout the year in Pune. At the right time, you can see many migrated birds in the parks.\n\n\n=== Festivals ===\n\nPune has a full calendar of events, ranging from classical music to rock concerts. However, Pune's most famous festival is the Pune Festival, which is held during the Ganeshotsav (Annual Ganpati Festival)\n\nThe Chatushrungi Fair is an annual event. It is held overnight on Navratri at Senapati Bapat Road. Giant-wheels are the main attractions but the food sold at the stalls is delicious too.\nThe Ganesh Utsav or Ganeshotsav, initiated by Lokmanya Bal Gangadhar Tilak, today is celebrated with great enthusiasm, as city interiors almost remain blocked for ten days. This is usually around the month of September and dates vary based on Hindu calendar. Pune has more than 2,000 mandals (committees) with Dagdusheth Halwai being the biggest and most famous one.\nThe Osho Festival is another international crowd puller in Pune. Held in the Osho Aashram in Koregaon Park, disciples and followers of Bhagwaan Rajneesh make it a point to attend this festival.\nThe Pune International Film Festival - takes place annually and attracts some splendid films from around the world. This festival which generally takes place in January, lasts for a week and is a treat for film lovers in the city. Passes for single day or for entire duration are available at any of the multiplexes hosting the festival at reasonable rates.\nSawai Gandharva classical music festival, which started back in the 1960s, has had every Indian and international artist perform and has given rise to a number of budding ones too. It is held in the months of December from dawn to dusk over three days.\nA number of college festivals have become very commercialised, but still attract big crowds and a very high degree of competition from colleges all over Pune. Verve organised by Express Youth Forum is the biggest inter-collegiate cultural festival in India while Concepts organized by the Pune Institute of Computer Technology (PICT) is a very popular engineering (technical) event. The College of Engineering, Pune also organizes a technical festival which attracts participants from all over India.\nSo all year round, there is enough excitement to keep the Punekars and tourists on their toes!\n\n\n== Eat ==\nIndividual listings can be found in Pune's district articles\n\nPune is undoubtedly a great place to eat. Fergusson College Road and JM Road which runs parallel, are full of budget eateries serving delicious hot food at nominal charges. Almost all restaurants open and close at similar hours. 10AM - 11PM is usual. Of course, restaurant bars stay open till at least midnight. Misals are a Pune favourite, if you can stomach the spice in them. They are a tasty meal and a visit to Bedekar Misal or Shree Uphar Gruha is a must. They are in the Peth areas and are famous. Shree Uphar Gruha is at Tulsi Baug. It is a small joint but dishes out tasty Misal and fritters.\nFor more exotic variety, head out to Koregaon Park. North Main Road is a lane with more than 50 restaurants. It offers a choice of cuisine including Italian, French, Mexican, Thai, Japanese and a variety of local Indian food; there is a restaurant to fit every taste and mood. ABC Farms in Koregaon Park has many restaurants in one place - ideal when you cannot decide before leaving for dinner. Koregaon Park is known as the Restaurant Suburb, and holds a similar status to Pune that Bandra holds to Mumbai.\n\n\n== Drink ==\nIndividual listings can be found in Pune's district articles\nHindavi Swarajya Fruits & Juices, JM Road, Opposite to JM mandir.\nRefreshing Indian drinks such as Jal Jeera (a cumin seed drink) and Nimbu Pani (lemon water/soda) are sold on the sidewalk for around ₹5 per glass. Alcohol is easily available all over town, though most of the bars are in Koregaon Park and upmarket areas. Most bars open in the afternoon and close an hour or two after midnight. Also check out the major hotel bars such as at the Sheraton Grand, Sagar Plaza, JW Marriott, Deccan Rendezvous and The Westin.\n\n\n=== Tea and coffee ===\nThere is no lack of coffee shops in the city. Some of the restaurants listed above serve good coffee or head to a branch of the Barista or Cafe Coffee Day chains, both of which have numerous locations around town. The FC Road and MG Road branches of Barista are Wi-Fi hotspots.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Pune"
+ },
+ "sights": [
+  {
+   "name": "Shaniwar Wada",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 18.519074999999997,
+   "lon": 73.85544999999999
+  },
+  {
+   "name": "Wagholi, Pune",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.52027777777778,
+   "lon": 73.85666666666665
+  },
+  {
+   "name": "Vishrambaug Wada",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.52027777777778,
+   "lon": 73.85666666666665
+  },
+  {
+   "name": "Kasba Ganapati",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.51888888888889,
+   "lon": 73.85694444444444
+  },
+  {
+   "name": "Brahmanoli",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.5204303,
+   "lon": 73.8567437
+  },
+  {
+   "name": "Prabhachiwadi",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.5204303,
+   "lon": 73.8567437
+  },
+  {
+   "name": "Budhavadi",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.5204303,
+   "lon": 73.8567437
+  },
+  {
+   "name": "Morave, Mawal",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.5204303,
+   "lon": 73.8567437
+  },
+  {
+   "name": "Khand, Mawal",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.5204303,
+   "lon": 73.8567437
+  },
+  {
+   "name": "Pune",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.52111111111111,
+   "lon": 73.85527777777777
+  },
+  {
+   "name": "Appa Balwant Chowk",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 18.5172026,
+   "lon": 73.8535344
+  },
+  {
+   "name": "Dagadusheth Halwai Ganapati Temple",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 18.51638888888889,
+   "lon": 73.8561111111111
+  },
+  {
+   "name": "Budhwar Peth, Pune",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 18.517,
+   "lon": 73.858
+  },
+  {
+   "name": "PMC Bhavan metro station",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 18.52274,
+   "lon": 73.85353
+  },
+  {
+   "name": "Shaniwar Peth, Pune",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 18.520875,
+   "lon": 73.85150833333333
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

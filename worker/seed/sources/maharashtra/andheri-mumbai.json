@@ -1,0 +1,218 @@
+{
+ "query": "Andheri, Mumbai",
+ "found": "Andheri, Masjid Galli, Gaondevi Dongri, Andheri West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India",
+ "lat": 19.1196976,
+ "lon": 72.8464205,
+ "fetchedAt": "2026-10-12T18:50:14.471Z",
+ "locality": {
+  "id": "andheri-west-mumbai-suburban-district-maharashtra",
+  "name": "Andheri West",
+  "area": "Mumbai, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Jogeshwari": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Jogeshwari_Caves_entrance.jpg/1280px-Jogeshwari_Caves_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jogeshwari",
+   "credit": "Photo: Himanshu Sarpotdar, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogeshwari_Caves_entrance.jpg"
+  },
+  "Gilbert Hill": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gilbert_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Gilbert Hill",
+   "credit": "Photo: Oknitop at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gilbert_Hill.jpg"
+  },
+  "Andheri railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Andheri_East.jpg/1280px-Andheri_East.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Andheri railway station",
+   "credit": "Photo: Superfast1111, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andheri_East.jpg"
+  },
+  "Andheri metro station": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Andheri_metro_station_in_December_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Andheri metro station",
+   "credit": "Photo: Mumbai Metro One, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andheri_metro_station_in_December_2025.jpg"
+  },
+  "Azad Nagar metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Azad_Nagar_metro_station_in_2024.jpg/1280px-Azad_Nagar_metro_station_in_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Azad Nagar metro station",
+   "credit": "Photo: Just a dude from earth, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azad_Nagar_metro_station_in_2024.jpg"
+  },
+  "Western Express Highway metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/WEH_metro_station.jpg/1280px-WEH_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Western Express Highway metro station",
+   "credit": "Photo: Rupturestriker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:WEH_metro_station.jpg"
+  },
+  "Andheri West Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/165-Andheri_West.svg/1280px-165-Andheri_West.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Andheri West Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:165-Andheri_West.svg"
+  },
+  "Gurdwara Guru Nanak Punjabi Sabha Chakala": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/GuruNanakPunjabiSabha.jpg/1280px-GuruNanakPunjabiSabha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gurdwara Guru Nanak Punjabi Sabha Chakala",
+   "credit": "Photo: TheBiographersScribe, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GuruNanakPunjabiSabha.jpg"
+  },
+  "Mogra metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mogra_metro_station_%28Jan_%2723%29.jpg/1280px-Mogra_metro_station_%28Jan_%2723%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mogra metro station",
+   "credit": "Photo: Raghav Sethupathy (brother), CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mogra_metro_station_(Jan_%2723).jpg"
+  },
+  "Gundavali metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Gundavali_metro_station_entrance_B.jpg/1280px-Gundavali_metro_station_entrance_B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gundavali metro station",
+   "credit": "Photo: Rupturestriker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gundavali_metro_station_entrance_B.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Andheri",
+   "text": "Andheri ([ən̪d̪ʱeɾiː]) is a suburb situated in Western Mumbai, Maharashtra, India.\n\n\n== History ==\nThe Prakritized form of the Sanskrit name \"Andhaka-giri\" is mentioned as a name of Andheri in the 15th-17th century Marathi-language text Mahikavatichi Bakhar.\n\n\n== Government and politics ==\nAdministratively, Andheri is a village in the Andheri taluka of the Mumbai Suburban district. It is bifurcated into Andheri (west) and Andheri (east). Andheri (west) comes under K/W ward of the Brihanmumbai Municipal Corporation (BMC), while Andheri (east) comes under the K/E ward of BMC.\n\n\n== Economy ==\nAndheri east and west are key areas in Mumbai, where several film studios and TV news channels are located.\nAndheri West has the head office of PVR INOX.\nAndheri was the founding point of the local ice cream brand Pastonji.\n\n\n== Transportation ==\nPublic transportation within Andheri is typically handled by BEST buses, metro and auto-rickshaws.\nThe Andheri railway station is among the busiest railway stations in the city. The expansion of the Mumbai Metro in the Versova-Andheri-Ghatkopar corridor is part of the government's master transportation plan.\n\n\n=== Mumbai Metro ===\nBlue Line 1 of the Mumbai Metro spans...",
+   "url": "https://en.wikipedia.org/wiki/Andheri"
+  },
+  {
+   "title": "Jogeshwari",
+   "text": "Jogeshwari (Pronunciation: [d͡ʒoɡeːʃʋəɾiː]) is a suburb located in the western part of Mumbai, Maharashtra, India. It is notable for Jogeshwari Caves - one of the oldest and biggest Hindu cave temples, built in approximately 5th century - particularly one containing a shrine of the Hinduism deities Jogeshwari, Shiva and Hanuman. It belongs to the K/E Ward of Mumbai.\nJogeshwari railway station and Jogeshwari East metro station serve Jogeshwari. Majas Bus Depot is also situated in Jogeshwari. \nThe Jogeshwari–Vikhroli Link Road connects Jogeshwari, a western suburb of Mumbai, with Vikhroli, an eastern suburb. This road typically experiences traffic jams during peak hours but has improved access and connectivity between the city's suburbs.\nFor healthcare a public governed HBT trauma hospital is located near the Western express highway.",
+   "url": "https://en.wikipedia.org/wiki/Jogeshwari"
+  },
+  {
+   "title": "Gilbert Hill",
+   "text": "Gilbert Hill is a 200 ft (61 m) monolith column of black basalt rock at Andheri, in Mumbai, India. The rock has a sheer vertical face and was formed when molten lava was squeezed out of the Earth's clefts during the Mesozoic Era about 66 million years ago. During that era, molten lava had spread around most of the Indian states of Maharashtra, Gujarat and Madhya Pradesh, covering an area of 50,000 square kilometres (19,000 sq mi). The volcanic eruptions were also responsible for the destruction of plant and animal life during that era.\nAccording to experts, this rare geological phenomenon was the remnant of a ridge and had clusters of vertical columns in nearby Jogeshwari which were quarried off two decades ago. These vertical columns are similar to the Devils Tower National Monument in Wyoming, and the Devils Postpile National Monument in eastern California, USA. Gilbert Hill was declared a National Park in 1952 by the Central Government under the Forest Act. In 2007, after years of lobbying by geologists, the hill was declared a Grade II heritage structure by the Municipal Corporation of Greater Mumbai (MCGM), and all quarrying and other activities around the monument were prohibited...",
+   "url": "https://en.wikipedia.org/wiki/Gilbert_Hill"
+  },
+  {
+   "title": "S. P. Jain Institute of Management and Research",
+   "text": "The Shreyans Prasad Jain Institute of Management & Research (SPJIMR) is a private business school in Mumbai, Maharashtra, India. It is a constituent institution of the Bharatiya Vidya Bhavan and became an autonomous institute in 1992 after separating from the University of Mumbai. Founded in 1981, the institute is named after industrialist Shreyans Prasad Jain and offers postgraduate, family business and entrepreneurship, executive, social sector development and doctoral programmes in management. Its main campus is in Andheri, Mumbai, and it has a Centre in New Delhi for executive education.\nThe institute was established as the Bharatiya Vidya Bhavan's Institute of Management Studies and was inaugurated in 1981 by British Prime Minister Margaret Thatcher. Dr. Manesh L. Shrikant became its honorary dean in the mid-1980s and headed the institute after its separation from the University of Mumbai in 1992. The curriculum during this period included social-sector work as part of management education. The institute later introduced the Development of Corporate Citizenship (DoCC) and Abhyudaya initiatives, and in 1997, it started a postgraduate programme for members of family-managed businesses...",
+   "url": "https://en.wikipedia.org/wiki/S._P._Jain_Institute_of_Management_and_Research"
+  },
+  {
+   "title": "Amboli, Mumbai",
+   "text": "Amboli is in Andheri (West), Mumbai, Maharashtra. Earlier known as Ambolim, it is situated very close to Andheri railway station and Jogeshwari railway station. At its heart, it also has a playground known as Joe and Helen Ground.",
+   "url": "https://en.wikipedia.org/wiki/Amboli,_Mumbai"
+  },
+  {
+   "title": "Andheri railway station",
+   "text": "Andheri (station code: A (Western)/AD (Harbour)/ADH (Indian Railways)) is a passenger rail station located in the Andheri suburb of Mumbai, India. It serves the Western line, and Harbour lines of the Mumbai Suburban Railway. It is also a stop for some express trains, and the August Kranti Rajdhani Express. The station also inter-connects with Line 1 of the Andheri metro station. Andheri station first gained prominence after the development of the Salsette–Trombay Railway services in 1928.\nWith a pre-eminent number of passengers boarding daily, it has been termed \"one of the busiest stations\" in Mumbai surpassing Ghatkopar station on the Central line. In 2014, the station, along with Jogeshwari and Goregaon stations, was re-developed and expanded with the expenditure of ₹103 crore (US$11 million). In addition, the station has two bus stations operating more than 30 bus routes.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Andheri_railway_station"
+  },
+  {
+   "title": "Andheri metro station",
+   "text": "Andheri (also called Mutual Funds Sahi hai Andheri for sponsorship reasons) is an elevated metro station on the East-West Corridor of the Blue Line 1 of Mumbai Metro serving the Andheri suburb of Mumbai, India. It was opened to the public on 8 June 2014. After Ghatkopar, Andheri is the busiest station on Line 1, with a daily passenger traffic of 72,125 in February 2017.\nThe Andheri station is connected with the Andheri railway station's foot-over bridge through a skywalk. MMOPL later built a shorter connector that reduced the time taken by commuters to switch systems.\n\nLike other Line 1 stations, the interior walls of Andheri station are embellished with murals. The designs at Andheri were styled by three third-year architecture students: Shamika Desai, Misri Patel, and  Shriya Sanil.",
+   "url": "https://en.wikipedia.org/wiki/Andheri_metro_station"
+  },
+  {
+   "title": "Azad Nagar metro station",
+   "text": "Azad Nagar is an elevated metro station on the East-West Corridor of the Blue Line 1 of Mumbai Metro serving the Azad Nagar neighbourhood of Andheri in Mumbai, India. It opened to the public on 8 June 2014.",
+   "url": "https://en.wikipedia.org/wiki/Azad_Nagar_metro_station"
+  },
+  {
+   "title": "Western Express Highway metro station",
+   "text": "Western Express Highway (WEH) is an elevated metro station on the Blue Line 1 of Mumbai Metro serving the Andheri suburb of Mumbai, India. It is the flagship station of the line and was opened to the public on 8 June 2014.",
+   "url": "https://en.wikipedia.org/wiki/Western_Express_Highway_metro_station"
+  },
+  {
+   "title": "Andheri West Assembly constituency",
+   "text": "Andheri West Assembly constituency is one of the 26 Vidhan Sabha constituencies located in the Mumbai Suburban district.",
+   "url": "https://en.wikipedia.org/wiki/Andheri_West_Assembly_constituency"
+  },
+  {
+   "title": "Mogra Village",
+   "text": "Mogra Village (also known as Mogre Pada) is a small area in Mumbai, Maharashtra, India; which lies in the suburb of Mumbai near Andheri railway station.",
+   "url": "https://en.wikipedia.org/wiki/Mogra_Village"
+  },
+  {
+   "title": "Andheri Assembly constituency",
+   "text": "Andheri Vidhan Sabha seat was one of the constituencies of Maharashtra Legislative Assembly, in India. Andheri seat existed until the 2004 elections after which it became defunct when the map of constituencies in India was redrawn. In 2008, two new Vidhan Sabha seats (Andheri East and Andheri West) were created covering this area.",
+   "url": "https://en.wikipedia.org/wiki/Andheri_Assembly_constituency"
+  },
+  {
+   "title": "Gurdwara Guru Nanak Punjabi Sabha Chakala",
+   "text": "Gurdwara Guru Nanak Punjabi Sabha Chakala is a Sikh Gurdwara in Chakala in Mumbai. The Guru Nanak Punjabi Sabha was founded by Shamsher Singh Jolly (1922–1992)  to establish the Gurdwara, the Charitable Dispensary and the Guru Nanak Mission High School.  The Gurdwara and Charitable Dispensary is located on Andheri Kurla Road, Amrit Nagar, Andheri East, Mumbai - 400093, Opposite Holy Family Church, Chakala.  The Guru Nanak Mission High School is located at 5/B, Mahakali Caves Road, Chakala, Gundavali, Near Sai Palace Hotel, Andheri East, Mumbai - 400093.",
+   "url": "https://en.wikipedia.org/wiki/Gurdwara_Guru_Nanak_Punjabi_Sabha_Chakala"
+  },
+  {
+   "title": "Mogra metro station",
+   "text": "Mogra is an elevated metro station on the North-South corridor of the Red Line 7 of Mumbai Metro in Mumbai, India. This metro station was inaugurated on 20 January 2023 by Prime Minister Narendra Modi.",
+   "url": "https://en.wikipedia.org/wiki/Mogra_metro_station"
+  },
+  {
+   "title": "Gundavali metro station",
+   "text": "Gundavali is the elevated southern terminal metro station on the North-South corridor of the Red Line 7 of Mumbai Metro in Mumbai, India. This metro station was inaugurated on 20 January 2023 by Prime Minister Narendra Modi.\nGundavali is connected to the Western Express Highway station on Line 1 through a 58 metre long foot overbridge.",
+   "url": "https://en.wikipedia.org/wiki/Gundavali_metro_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Mumbai",
+  "text": "Mumbai (Marathi and Hindi: मुंबई Mumbaī), formerly known as Bombay, is the largest city in western India and the capital of the state of Maharashtra. A cosmopolitan metropolis, Mumbai was built on seven islands on the Konkan coastline which over time were joined to form the island city of Bombay. The island was in turn joined with the neighbouring island of Salsette to form \"Greater Bombay\". The city has a metropolitan population of over 20 million (2025).\n\nOften called the \"New York of India\", Mumbai is undoubtedly the country's commercial capital and one of the predominant port cities. Mumbai's nature as the most eclectic and cosmopolitan Indian city is symbolised in the presence of Bollywood within the city, the centre of the globally-influential Hindi film and TV industries. It is also home to India's largest slum population, as well as the iconic Gateway of India built on the waterfront of Mumbai Harbour during the British Raj.\nThe name Bombay comes from Bom Bahia (\"the good bay\" in Portuguese), a name given by explorer Francis Almeida. Mumbai is named after the goddess Mumbadevi of the Koli fishing community.\n\n\n== See ==\nIndividual listings can be found in Mumbai's district articles\n\nThere is a lot to see in Mumbai, but the typical \"tourist\" sights are concentrated in South Mumbai.\nBy Indian standards, Mumbai is a young city and much of the land comprising the city did not exist until it was claimed from the sea over three centuries ago. It is therefore a pleasant surprise to find rock cut caves such as the Elephanta, Kanheri, and Mahakali within city limits.\n\n\n=== Colonial buildings ===\n\nThe British built a magnificent city within the walls of Fort St. George, which lies at the southern extremity of the city. Some fine examples of the Gothic revival, Neo-classical style and Indo-Saracenic style are seen within this area. To get the best experience of the city centre, stroll around the wide streets of the area right from Churchgate to Colaba. These areas are all beautifully planned and have wide and clean pavements, unlike the rest of the city. Famous monuments to be seen in this area are the Gateway of India, the Chhatrapati Shivaji Maharaj Terminus (CSMT, previously Victoria Terminus), the Municipal Corporation and Police Headquarters and the Chhatrapati Shivaji Vastu Sanghralaya (formerly, the Prince Of Wales Museum). The famous Taj Mahal Palace Hotel is opposite the Gateway of India. The Mumbai University buildings and the High Court are also excellent examples of colonial architecture in the city.\nThere are a lot of other modern structures to look at in this area. The area known as Marine Drive (right from Girgaon Chowpatty to NCPA) is home to a large number of buildings built in the Art Deco style. Mumbai is second only to Miami in the number of Art Deco buildings. some famous buildings in this style are the Eros and Regal cinemas. The Art Deco and Gothic buildings were added to the UNESCO World Heritage List in 2018.\n\n\n=== Museums and galleries ===\n\nSome of the India's most famous museums and art galleries are found here. The Kala Ghoda area in South Mumbai teems with them, particularly the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (Prince of Wales Museum), and the National Gallery of Modern Art. Once again, most of them are concentrated in South Mumbai. Also worth planning a visit is Jehangir Art Gallery, also at Kala Ghoda, displays changing exhibits by notable artists. The plaza next to the gallery also regularly displays exhibits of various artists.\nIn Nehru Complex in Worli is Nehru Centre Art Gallery at Worli is a gallery dedicated to young and promising talent along with established artists. Also within the complex is a permanent exposition, Discovery of India, which attempts to cover every aspect of artistic, intellectual and philosophical attainment of India through ages. The exposition spreads across 14 galleries and reflects true identity of the country. On the other end of the complex, Nehru Science Centre - which has a separate entrance from Mahalaxmi race course road, has a permanent exhibition on 'interactive and exciting' science related exhibits highlighting science principles in fun yet educational way.\n\n\n=== Beaches ===\n\nMumbai isn't known for beaches because they have immensely filthy water! Mumbai has a few beaches, including one in the southern districts. But they aren't that great and the water off Mumbai's coast is extraordinarily dirty. The relatively better ones are in North Mumbai. However, they are a great place to see how the locals spend their Sunday evenings, with various food and game stalls.\nThere are other beaches to be found such as the Girgaon Chowpatty (the cleanest one) in South Mumbai, Juhu Beach in the Western Suburbs and Aksa Beach in North Mumbai. The currents don't seem strong, but particularly in the rains, lots of people die from drowning, so avoid getting in the water (especially at Aksa Beach). A word of advice to women: Mumbai beaches are not the kind you can wear swimsuits to, particularly two-pieces.\n\n\n=== Zoos, parks and gardens ===\n\nMumbai has a justified reputation as a concrete jungle, but there are some nice pockets of greenery within the city. It is also one of the rare megacities to have an entire national park within its borders (Sanjay Gandhi National Park). You may not visit Mumbai for them, but if you are already here, they make a nice escape from the din and bustle. It also houses the ancient Kanheri Caves crafted out of rocky cliffs, which dates back 2,400 years.\nThe city zoo (Jijamata Udyan) in Byculla is a colonial relic and it is surprisingly well-preserved. The animals may look rather emaciated, but the sheer diversity of trees on this lush zoo is worth a trip.\nSome city parks are very well-maintained and combine history as well. The Hanging Gardens on the Malabar Hill offers stunning vistas of the Marine Drive. Opposite the Hanging Gardens, there is another park which is known as Kamala Nehru Park, famous for the striking shoe-shaped structure which has been filmed in various Bollywood movies\nFurther in South Mumbai, the Mumbai Port Trust Garden, is another hidden gem. This is set off a small side street off the Colaba Causeway 2–3 km (1.2–1.9 mi) south of the main section. Attractive views of the port, the naval yards and sunset.\nIn North Central Mumbai, there is Mancherji Joshi Five Gardens. Mainly used by walkers in the morning, it is a mess in the evenings. But the gardens encircle some historic, art deco residences.\n\n\n=== Markets and crowds ===\n\nMumbai is probably worth visiting just for its street markets, the hustle of vendors, and the madness of the crowds. Good places are Bandra, Khar and Andheri. If you came to Mumbai and didn't give visit to the highly dense and crowded markets, it means you didn't meet the real Mumbai.\nHawkers and street shoppers don't ask for any legal permission and then set their stalls at the places where they see maximum footfall. From electronics items to fresh food, you can get everything at railway platforms, subway and mains streets.\n\n\n=== Modern buildings and malls ===\nOnce the British left, the zeal to wipe away the traces of colonial rule was, unfortunately, not matched by the enthusiasm to build a new city that matched the grandeur of the British-era buildings. Now, while the shabbiness of the socialist era is thankfully being replaced by architecture with an eye on aesthetics, the new malls, multiplexes, and office buildings that are coming up are indistinguishable from those anywhere else in the world. Still, they are worth a look, especially if you want to have a look at India's success story. Skyscrapers exceeding 60 stories now dominate the skyline.\nFor long, Inorbit Mall was the only mall offering a lot of variety for shoppers. Palladium, built within the High Street Phoenix, broke the monopoly of Inorbit Mall. From state of the art interiors to international brands, the Palladium has everything. The new Infiniti Mall (Infinity 2) in Malad also has lots of foreign brands and is one of the biggest malls in the suburbs.\nNirmal Lifestyles Mall in Mulund and Metro Junction Mall in Kalyan are two of the largest malls in Mumbai. In the central suburbs, they are quite popular in the city. The Phoenix Marketcity Mall is the largest in the city, located in Kurla. There is also the R CITY Mall in Ghatkopar.\nPowai is a modern central Mumbai suburb with European looks. Powai houses the Indian Institute of Technology and is built around fabulous lake. Most of the construction is in a township format and is privately built. It houses twenty top of the line restaurants, two large convenience stores, a handful of coffee shops and entertainment areas. Initially built as an upmarket self-contained township, Powai has now grown into a business process outsourcing hub in Mumbai. The township reflects both characteristics; you will often find families shopping and twenty somethings hanging out in tables next to each o",
+  "url": "https://en.wikivoyage.org/wiki/Mumbai"
+ },
+ "sights": [
+  {
+   "name": "Shri Ram, Hanuman, and Shiv Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 19.1225807,
+   "lon": 72.8455958
+  },
+  {
+   "name": "Sai Baba Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 19.1172354,
+   "lon": 72.8486994
+  },
+  {
+   "name": "Gilbert Hill",
+   "kind": "attraction",
+   "walkMinutes": 11,
+   "lat": 19.1205355,
+   "lon": 72.8399617
+  },
+  {
+   "name": "Gaodevi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 19.1207573,
+   "lon": 72.8398639
+  },
+  {
+   "name": "Saint Blaise Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 19.127955,
+   "lon": 72.8464685
+  },
+  {
+   "name": "Omkareshwar Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 19.1121986,
+   "lon": 72.8508276
+  },
+  {
+   "name": "Legendary New India Monument",
+   "kind": "monument",
+   "walkMinutes": 16,
+   "lat": 19.1147885,
+   "lon": 72.8388317
+  },
+  {
+   "name": "Durga Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 19.1297503,
+   "lon": 72.8442869
+  }
+ ],
+ "food": [],
+ "errors": []
+}

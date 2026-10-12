@@ -1,0 +1,251 @@
+{
+ "query": "Deccan Gymkhana, Pune",
+ "found": "Deccan Gymkhana, Pune, Pune City Subdistrict, Pune, Maharashtra, 411004, India",
+ "lat": 18.5158926,
+ "lon": 73.84116,
+ "fetchedAt": "2026-10-12T18:59:52.708Z",
+ "locality": {
+  "id": "deccan-gymkhana-pune-district-maharashtra",
+  "name": "Deccan Gymkhana",
+  "area": "Pune, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Ranade Institute": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ranade_Institute.JPG/1280px-Ranade_Institute.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ranade Institute",
+   "credit": "Photo: Mubarakansari, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranade_Institute.JPG"
+  },
+  "Jnana Prabodhini Prashala": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jnana_Prabodhini_Bhavan%2C_Pune.jpg/1280px-Jnana_Prabodhini_Bhavan%2C_Pune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jnana Prabodhini Prashala",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jnana_Prabodhini_Bhavan,_Pune.jpg"
+  },
+  "Kamala Nehru Park, Pune": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/HAL_HF-24_Marut_%28IAF%29_in_Kamla_Nehru_park_-_panoramio.jpg/1280px-HAL_HF-24_Marut_%28IAF%29_in_Kamla_Nehru_park_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kamala Nehru Park, Pune",
+   "credit": "Photo: Deepak Patil, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HAL_HF-24_Marut_(IAF)_in_Kamla_Nehru_park_-_panoramio.jpg"
+  },
+  "Vaishali (restaurant)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Vaishali_Restaurant%2C_FC_Road.JPG/1280px-Vaishali_Restaurant%2C_FC_Road.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vaishali (restaurant)",
+   "credit": "Photo: Spandanbhatt94, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaishali_Restaurant,_FC_Road.JPG"
+  },
+  "Bhave High School": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Building_of_MES_Boys_High_School%2C_Pune.jpg/1280px-Building_of_MES_Boys_High_School%2C_Pune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bhave High School",
+   "credit": "Photo: DesiBoy101, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_of_MES_Boys_High_School,_Pune.jpg"
+  },
+  "Garware College metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Garware_College_metro_station.jpg/1280px-Garware_College_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Garware College metro station",
+   "credit": "Photo: Sanjeev4125, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garware_College_metro_station.jpg"
+  },
+  "Deccan Gymkhana metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Work_in_progress_of_Deccan_Gymkhana_metro_station_on_the_banks_on_Mutha_River%2C_Pune.jpg/1280px-Work_in_progress_of_Deccan_Gymkhana_metro_station_on_the_banks_on_Mutha_River%2C_Pune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Deccan Gymkhana metro station",
+   "credit": "Photo: DesiBoy101, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Work_in_progress_of_Deccan_Gymkhana_metro_station_on_the_banks_on_Mutha_River,_Pune.jpg"
+  },
+  "Chhatrapati Sambhaji Udyan metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Chhatrapati_Sambhaji_Udyan_metro_station.jpg/1280px-Chhatrapati_Sambhaji_Udyan_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chhatrapati Sambhaji Udyan metro station",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Sambhaji_Udyan_metro_station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Deccan Gymkhana",
+   "text": "Deccan Gymkhana is an area in Pune city named for the Deccan Gymkhana Sports Club, which lies in the centre of the city. \n\n\n== See also ==\nShivajinagar\nGymkhana\nSwargate\nPune Railway Station\nPune\nPune District\nMaharashtra\n\n\n== References ==\n\n\n== External links ==",
+   "url": "https://en.wikipedia.org/wiki/Deccan_Gymkhana"
+  },
+  {
+   "title": "Fergusson College",
+   "text": "Fergusson College is an autonomous public-private college offering various courses in the streams of arts and science in the city of Pune, India. It was founded in 1885 by Vaman Shriram Apte, Bal Gangadhar Tilak, Vishnushashtri Chiplunkar, Mahadeo Ballal Namjoshi and Gopal Ganesh Agarkar. Professor Vaman Shivram Apte was its first principal. Social reformer, journalist, thinker and educationist Gopal Ganesh Agarkar served as the second principal from August 1892, till his death in June 1895.\nThe college is named after Scottish-born Sir James Fergusson, the Governor of Bombay, the college has been under the jurisdiction of the University of Pune. In May 2018, Fergusson college was upgraded to a unitary university following an update from Ministry of HRD.\nThe college has two sections:\n\nThe Junior Wing (junior college) is for students graduating from school. Courses are offered in Arts and Science streams, at the end of which students may appear for the Higher-Secondary State Certificate examination.\nThe Senior Wing offers bachelor's degrees in 29 disciplines and master's degrees in 16 disciplines.\nFergusson College is known for its close association with Indian politics. Its founders...",
+   "url": "https://en.wikipedia.org/wiki/Fergusson_College"
+  },
+  {
+   "title": "Ranade Institute",
+   "text": "Ranade Industrial and Economic Institute, or the Ranade Institute as it is popularly known, is situated at Fergusson College Road, Pune. Built in 1910, the building contains the University of Pune's Department of Communication & Journalism and Department of Foreign Languages.",
+   "url": "https://en.wikipedia.org/wiki/Ranade_Institute"
+  },
+  {
+   "title": "Institute of Management Development and Research, Pune",
+   "text": "The Institute of Management Development and Research (IMDR) in Pune, India is the oldest management institution in Pune and is a branch of the Deccan Education Society. Formerly, IMDR offered three full time programs: Post Graduate Diploma in Management (PGDM), Post Graduate Diploma in International Trade (PGDIT) and Post Graduate Diploma in Human Resources (PGDHR), alongside its other part-time programs. In 2011, IMDR acquired AICTE approval and is currently offering a PGDM course approved by AICTE and DTE.",
+   "url": "https://en.wikipedia.org/wiki/Institute_of_Management_Development_and_Research,_Pune"
+  },
+  {
+   "title": "Brihan Maharashtra College of Commerce",
+   "text": "Brihan Maharashtra College of Commerce is a college in Pune, Maharashtra, India. The college was established in 1943 by the Deccan Education Society. It is affiliated to Savitribai Phule Pune University.  \nDr. Deepak Powdel is the current principal of the college.",
+   "url": "https://en.wikipedia.org/wiki/Brihan_Maharashtra_College_of_Commerce"
+  },
+  {
+   "title": "Jnana Prabodhini Prashala",
+   "text": "Jnana Prabodhini Prashala, is a high school located in Sadashiv Peth, Pune, India. It was started by educationist Dr. V. V. Pendse, in 1962. The main branch is situated in Sadashiv Peth, a neighborhood historically known as a hub for Pune's Chitpavan Brahmin community. Because schools naturally draw heavily from their surrounding neighborhoods and established community networks, the local demographic has historically reflected this concentration. \nThe principal of the school is Dr. Milind Naik. The educational system is based development of the various mental and intellectual aspects of brain. The school entertains mainly the 'gifted' students. The students are selected through a two level entrance examination in which the Basic Mental Ability of a candidate is tested.\n1. Philosophy\n2. History\n3. Infrastructure\n4. Educational Philosophy\n5. Educational Activities\nA hostel is available for male and female students attending school from outside of Pune.",
+   "url": "https://en.wikipedia.org/wiki/Jnana_Prabodhini_Prashala"
+  },
+  {
+   "title": "Kamala Nehru Park, Pune",
+   "text": "Kamla Nehru Park is situated on Dr. Ketkar Road, Erandwana, Pune. The 10-acre (4.0 ha) park has a jogging track, Playground for kids, a fountain and two lawns. A military jet (HAL HF-24 Marut) is also kept in one of the lawns. There are stalls of food item outside this park's main gate. The a temple of Lord Dutta next to this park. This park is couple of kilometers from Deccan Gymkhana.",
+   "url": "https://en.wikipedia.org/wiki/Kamala_Nehru_Park,_Pune"
+  },
+  {
+   "title": "Sadashiv Peth, Pune",
+   "text": "Sadashiv Peth is an area located in Pune, Maharashtra. It was founded by Madhavrao I in honour of Sadashivrao Bhau. It was initially planned for the military and laid out in squares with broad streets.\nSadashiv Peth is predominantly occupied by Maharashtrian Brahmins, especially Deshastha Brahmins and Chitpavan Brahmins, with a fair share of some other classes as well. Educational institutions like Bhave High School, New English School, Renuka Swaroop School, Jnana Prabodhini Prashala, D.E.S school, SPM English School are located here. Sadashiv Peth has many temples like Khunya Muralidhar, Joshi Narsimha Mandir, Junnarkar Datta Mandir, Upashi Vitthal, Shani Par, Nagnath Par, Chimnya Ganapati, Umbrya Ganpati, Bhikardas Maruti Mandir, Paranjape Shani Mandir. Many historic wadas like Vishrambaug Wada, Vinchurkar Wada, etc. are situated in Sadashiv Peth, which is also home to the Bharat Itihas Sanshodak Mandal,  Geeta Dharma Mandal, Bharat Natya Mandir and Tilak Smarak Mandir.\nSarasbaug, Peshwe Park and Maharana Pratap Udyan are the famous parks located in Sadashiv Peth.\nIt has traditional Maharashtrian cuisine restaurants. It falls under the Kasba Peth constituency and its current legislator...",
+   "url": "https://en.wikipedia.org/wiki/Sadashiv_Peth,_Pune"
+  },
+  {
+   "title": "Deccan Gymkhana Ground",
+   "text": "Deccan Gymkhana Ground is a ground located in the Deccan Gymkhana area of Pune, Maharashtra. The Deccan Gymkhana and its grounds were founded in October 1906. The chief founder was Mr. Balkrishna Narayan (Bandopant) Bhajekar. The ground has a pavilion and can accommodate 500 persons.   It has basketball and volleyball courts and a cricket ground along with one gymnasium hall. It also has facilities for swimming, table tennis, billiards, cards and 11 tennis courts. It has one main clubhouse.\nThis sports club has hosted Davis Cup matches. This was also the host of Maharashtra Premier League cricket matches.  This club also host the NECC ITF International Women's Tournament 2011.",
+   "url": "https://en.wikipedia.org/wiki/Deccan_Gymkhana_Ground"
+  },
+  {
+   "title": "Vaishali (restaurant)",
+   "text": "Vaishali is a restaurant popular in Pune for South Indian food. Everyday more than 500 people daily visit this place . Since many year three youngsters visited this place by making lots of memories. The three youngsters were Abhinay, Kunal, and Narendra  It is located on Ferguson College Road. It was established in 1954 by Jagannath B Shetty, as Madras Cafe",
+   "url": "https://en.wikipedia.org/wiki/Vaishali_(restaurant)"
+  },
+  {
+   "title": "Tuljaram Chaturchand College",
+   "text": "Tuljaram Chaturchand College of Arts, Science and Commerce (T C College) is a college located in Baramati, Pune. The college was established in the 1962. The college campus is  40 acres large. The college offers Bachelors and master's degree in Arts, Commerce and Science. The college also offers bachelor's degree in vocational courses like Food Processing and Journalism & Mass Communication.",
+   "url": "https://en.wikipedia.org/wiki/Tuljaram_Chaturchand_College"
+  },
+  {
+   "title": "Bhave High School",
+   "text": "Bhave High School (also known as MES Boys High School) is a school and Junior college based in Pune, India. The institution is run by the Maharashtra Education Society, a private education institution founded by Vasudeo Balwant Phadke, Vaman Prabhakar Bhave and Laxman Narhar Indapurkar in 1860.",
+   "url": "https://en.wikipedia.org/wiki/Bhave_High_School"
+  },
+  {
+   "title": "Garware College metro station",
+   "text": "Garware College is an elevated metro station on the East-West corridor of the Aqua Line of Pune Metro in Pune, India. The station was opened on 6 March 2022 as an inauguration of Pune Metro and was the first to be completed. From March 2022 to August 2023, the Aqua Line was operational between Vanaz and Garware College. The extended section between Garware College to Ruby Hall Clinic was inaugurated on 1 August 2023. So the metro operated from Vanaz to Ruby Hall Clinic. Later the remaining stretch was completed and the line operates till Ramwadi from 6 March 2024.",
+   "url": "https://en.wikipedia.org/wiki/Garware_College_metro_station"
+  },
+  {
+   "title": "Deccan Gymkhana metro station",
+   "text": "Deccan Gymkhana is an elevated metro station on the east–west corridor of the Aqua Line of Pune Metro in Pune, India. The station was opened on 1 August 2023 as an extension of Pune Metro Phase I. Aqua Line operates between Vanaz and Ramwadi.\nLocated on the banks of Mutha River, the station is 26m high, 28m wide and 140m long. Its design is inspired by the Mavala Pagadi (turban) of Shivaji Maharaj. A skywalk from Deccan Gymkhana PMPML bus stop on J. M. Road has been built to reach the station. In the future, the station will be connected with another skywalk from Good Luck Chowk on F. C. Road.",
+   "url": "https://en.wikipedia.org/wiki/Deccan_Gymkhana_metro_station"
+  },
+  {
+   "title": "Chhatrapati Sambhaji Udyan metro station",
+   "text": "Chhatrapati Sambhaji Udyan is an elevated metro station on the East-West corridor of the Aqua Line of Pune Metro in Pune, India. The station was opened on 1 August 2023 as an extension of Pune Metro Phase I. Aqua Line operates between Vanaz and Ruby Hall Clinic.\nLocated on the banks of Mutha River, the station is 26m high, 28m wide and 140m long. Its design is inspired by the Mavala Pagadi (turban) popularised by Shivaji Maharaj. A skywalk near Bal Gandharva Ranga Mandir on J. M. Road has been built to reach the station. In order to improve connectivity for passengers living in peth areas of the city, a cable-supported skywalk in the shape of tanpura is being constructed from the riverside road to the station.",
+   "url": "https://en.wikipedia.org/wiki/Chhatrapati_Sambhaji_Udyan_metro_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Pune",
+  "text": "Pune (Marathi: पुणे Puṇe), formerly Poona, is the second-largest city in the Indian state of Maharashtra. Often considered as the cultural capital of Maharashtra, Pune is known for its educational tourism and has a blend of cultural, business, health, and cuisine tourism background. The city also houses fantastic restaurants, good museums, and hill forts which offer panoramic views.\nWith an estimated population of 6.8 million (2025), Pune's large young cohort makes for a lively nightlife and vibrant atmosphere, and the city competes with Bengaluru and Hyderabad for the crown of India's IT capital.\n\n\n== See ==\nIndividual listings can be found in Pune's district articles\nPune is the cultural capital of Maharashtra. The Marathi film industry is also based here.\n\n\n== Do ==\nIndividual listings can be found in Pune's district articles\nBird Watching: Enjoy boating and bird viewing in some of the city parks of Pune. Migratory parks can be viewed throughout the year in Pune. At the right time, you can see many migrated birds in the parks.\n\n\n=== Festivals ===\n\nPune has a full calendar of events, ranging from classical music to rock concerts. However, Pune's most famous festival is the Pune Festival, which is held during the Ganeshotsav (Annual Ganpati Festival)\n\nThe Chatushrungi Fair is an annual event. It is held overnight on Navratri at Senapati Bapat Road. Giant-wheels are the main attractions but the food sold at the stalls is delicious too.\nThe Ganesh Utsav or Ganeshotsav, initiated by Lokmanya Bal Gangadhar Tilak, today is celebrated with great enthusiasm, as city interiors almost remain blocked for ten days. This is usually around the month of September and dates vary based on Hindu calendar. Pune has more than 2,000 mandals (committees) with Dagdusheth Halwai being the biggest and most famous one.\nThe Osho Festival is another international crowd puller in Pune. Held in the Osho Aashram in Koregaon Park, disciples and followers of Bhagwaan Rajneesh make it a point to attend this festival.\nThe Pune International Film Festival - takes place annually and attracts some splendid films from around the world. This festival which generally takes place in January, lasts for a week and is a treat for film lovers in the city. Passes for single day or for entire duration are available at any of the multiplexes hosting the festival at reasonable rates.\nSawai Gandharva classical music festival, which started back in the 1960s, has had every Indian and international artist perform and has given rise to a number of budding ones too. It is held in the months of December from dawn to dusk over three days.\nA number of college festivals have become very commercialised, but still attract big crowds and a very high degree of competition from colleges all over Pune. Verve organised by Express Youth Forum is the biggest inter-collegiate cultural festival in India while Concepts organized by the Pune Institute of Computer Technology (PICT) is a very popular engineering (technical) event. The College of Engineering, Pune also organizes a technical festival which attracts participants from all over India.\nSo all year round, there is enough excitement to keep the Punekars and tourists on their toes!\n\n\n== Eat ==\nIndividual listings can be found in Pune's district articles\n\nPune is undoubtedly a great place to eat. Fergusson College Road and JM Road which runs parallel, are full of budget eateries serving delicious hot food at nominal charges. Almost all restaurants open and close at similar hours. 10AM - 11PM is usual. Of course, restaurant bars stay open till at least midnight. Misals are a Pune favourite, if you can stomach the spice in them. They are a tasty meal and a visit to Bedekar Misal or Shree Uphar Gruha is a must. They are in the Peth areas and are famous. Shree Uphar Gruha is at Tulsi Baug. It is a small joint but dishes out tasty Misal and fritters.\nFor more exotic variety, head out to Koregaon Park. North Main Road is a lane with more than 50 restaurants. It offers a choice of cuisine including Italian, French, Mexican, Thai, Japanese and a variety of local Indian food; there is a restaurant to fit every taste and mood. ABC Farms in Koregaon Park has many restaurants in one place - ideal when you cannot decide before leaving for dinner. Koregaon Park is known as the Restaurant Suburb, and holds a similar status to Pune that Bandra holds to Mumbai.\n\n\n== Drink ==\nIndividual listings can be found in Pune's district articles\nHindavi Swarajya Fruits & Juices, JM Road, Opposite to JM mandir.\nRefreshing Indian drinks such as Jal Jeera (a cumin seed drink) and Nimbu Pani (lemon water/soda) are sold on the sidewalk for around ₹5 per glass. Alcohol is easily available all over town, though most of the bars are in Koregaon Park and upmarket areas. Most bars open in the afternoon and close an hour or two after midnight. Also check out the major hotel bars such as at the Sheraton Grand, Sagar Plaza, JW Marriott, Deccan Rendezvous and The Westin.\n\n\n=== Tea and coffee ===\nThere is no lack of coffee shops in the city. Some of the restaurants listed above serve good coffee or head to a branch of the Barista or Cafe Coffee Day chains, both of which have numerous locations around town. The FC Road and MG Road branches of Barista are Wi-Fi hotspots.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Pune"
+ },
+ "sights": [
+  {
+   "name": "Deccan Gymkhana Ground",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 18.5149,
+   "lon": 73.8411
+  },
+  {
+   "name": "Deccan Gymkhana metro station",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 18.51631,
+   "lon": 73.84447
+  },
+  {
+   "name": "Ranade Institute",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 18.51913177,
+   "lon": 73.84061556
+  },
+  {
+   "name": "Garware College metro station",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 18.51204,
+   "lon": 73.83799
+  },
+  {
+   "name": "Vaishali",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 18.52093,
+   "lon": 73.841156
+  },
+  {
+   "name": "Jnana Prabodhini Prashala",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 18.5118,
+   "lon": 73.84556
+  },
+  {
+   "name": "Kamala Nehru Park, Pune",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 18.51728493,
+   "lon": 73.83448851
+  },
+  {
+   "name": "Chhatrapati Sambhaji Udyan metro station",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 18.52014,
+   "lon": 73.84761
+  },
+  {
+   "name": "Bhave High School",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.5111366,
+   "lon": 73.8474051
+  },
+  {
+   "name": "Brihan Maharashtra College of Commerce",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.521222,
+   "lon": 73.835287
+  },
+  {
+   "name": "Tuljaram Chaturchand College",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 18.523969,
+   "lon": 73.839219
+  },
+  {
+   "name": "Institute of Management Development and Research, Pune",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 18.523969,
+   "lon": 73.839219
+  },
+  {
+   "name": "Fergusson College",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 18.523969,
+   "lon": 73.839219
+  },
+  {
+   "name": "Sadashiv Peth, Pune",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 18.508147222222224,
+   "lon": 73.83614722222222
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

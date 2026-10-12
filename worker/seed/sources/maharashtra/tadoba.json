@@ -1,0 +1,40 @@
+{
+ "query": "Tadoba",
+ "found": "Tadoba, Chimur Taluka, Chandrapur, Maharashtra, India",
+ "lat": 20.4147656,
+ "lon": 79.2843098,
+ "fetchedAt": "2026-10-12T19:05:06.573Z",
+ "locality": {
+  "id": "tadoba-chandrapur-maharashtra",
+  "name": "Tadoba",
+  "area": "Chimur Taluka, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Tadoba": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panthera_tigris_tigris_Tidoba_20150306.jpg/1280px-Panthera_tigris_tigris_Tidoba_20150306.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tadoba Andhari Tiger Reserve",
+   "credit": "Photo: Stephenekka, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tidoba_20150306.jpg"
+  },
+  "Tadoba Andhari Tiger Reserve": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panthera_tigris_tigris_Tidoba_20150306.jpg/1280px-Panthera_tigris_tigris_Tidoba_20150306.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tadoba Andhari Tiger Reserve",
+   "credit": "Photo: Stephenekka, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tidoba_20150306.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Tadoba Andhari Tiger Reserve",
+   "text": "The Tadoba Andhari Tiger Reserve is a protected area in Chandrapur district of Maharashtra state in India that consists of Tadoba National Park and Andhari Wildlife Sanctuary. The reserve includes 577.96 km2 (223.15 sq mi) of reserved forest and 32.51 km2 (12.55 sq mi) of protected forest.\n\n\n== Etymology ==\n\"Tadoba\" is taken from the name of the god \"Tadoba\" or \"Taru\", worshipped by the tribal people who live in the dense forests of the Tadoba and Andhari region; \"Andhari\" refers to the Andhari river that meanders through the forest.\n\n\n== History ==\nLegend holds that Taru was a village chief who was killed in a mythological encounter with a tiger. Taru was deified, and a shrine dedicated to Taru now exists beneath a large tree on the banks of Tadoba Lake.\nThe Gondi people once ruled these forests in the vicinity of the Chimur hills. Hunting was banned in 1935. Two decades later, in 1955, 116.54 km2 (45.00 sq mi) of this forest area was declared a national park. Andhari Wildlife Sanctuary was created in the adjacent forests in 1986. In 1995, the park and the sanctuary were merged to establish the present tiger reserve.\n\n\n== Geography ==\n\nTadoba Andhari Reserve is the largest national park...",
+   "url": "https://en.wikipedia.org/wiki/Tadoba_Andhari_Tiger_Reserve"
+  }
+ ],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "query": "Daulatabad",
+ "found": "Daulatabad, Chhatrapati Sambhajinagar, Maharashtra, India",
+ "lat": 19.939157,
+ "lon": 75.2195952,
+ "fetchedAt": "2026-10-12T19:03:45.354Z",
+ "locality": {
+  "id": "daulatabad-chhatrapati-sambhajinagar-district-maharashtra",
+  "name": "Daulatabad",
+  "area": "Chhatrapati Sambhajinagar, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Daulatabad Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Daulatabad_Fort_a_view.JPG/1280px-Daulatabad_Fort_a_view.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Daulatabad Fort",
+   "credit": "Photo: Aak.jain54, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daulatabad_Fort_a_view.JPG"
+  },
+  "Chand Minar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Daultabad_Fort.jpg/1280px-Daultabad_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chand Minar",
+   "credit": "Photo: Sankhyan kumar, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daultabad_Fort.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Doulatabad",
+   "text": "Doultabad, Doulatabad, or Daulatabad may refer to:\n\n\n== India ==\nDaulatabad Fort, Maharashtra\nDoulatabad, Mahbubnagar, Telangana\nDoultabad, Siddipet district, Telangana\nDaulatabad, Murshidabad, West Bengal\nDoultabad, Bishnupur, West Bengal\nDaultabad, Uttar Pradesh\n\n\n== Iran and Afghanistan ==\nDowlatabad (disambiguation), a number of places\n\n\n== See also ==\nDaulat (disambiguation)\nAbad (disambiguation)\nDaulatpur (disambiguation)\nDevagiri (disambiguation), former name of the fort in Maharashtra, India",
+   "url": "https://en.wikipedia.org/wiki/Doulatabad"
+  },
+  {
+   "title": "Daulatabad Fort",
+   "text": "Daulatabad Fort, originally Devagiri Fort, is a historic fortified citadel located in Daulatabad village near Aurangabad, Maharashtra, India. It was the capital of the Yadavas (9th century – 14th century CE), for a brief time the capital of the Delhi Sultanate (1327–1334), and later a secondary capital of the Ahmadnagar Sultanate (1499–1636).\nAround the 6th century CE, Devagiri emerged as an important uplands town near present-day Aurangabad, along caravan routes going towards western and southern India. The historical triangular fortress in the city was initially built around 1187 by the first Yadava monarch, Bhillama V. In 1308, the city was annexed by \nAlauddin Khalji of the Delhi Sultanate, which ruled over some parts of northern India. In 1327, Muhammad bin Tughluq of the Delhi Sultanate renamed Devagiri as Daulatabad and shifted his imperial capital to the city from Delhi, ordering a mass migration of Delhi's population to the now Daulatabad. However, Muhammad bin Tughluq reversed his decision in 1334 and the capital of the Delhi Sultanate was shifted back to Delhi.\nIn 1499, Devagiri, already renamed Daulatabad, became part of the Ahmadnagar Sultanate, who used it as their secondary...",
+   "url": "https://en.wikipedia.org/wiki/Daulatabad_Fort"
+  },
+  {
+   "title": "Chand Minar",
+   "text": "The Chand Minar or the Tower of the Moon is a medieval tower in Daulatabad, India. The tower is located in the state of Maharashtra near the Daulatabad fort complex. It was erected in 1445 by a Bahmani slave and commemorated to sultan Alau'd-din Ahmad Shah of the Bahmani Sultanate to commemorate his victory against the Vijayanagara Empire in 1443. Chand Minar bears resemblance to the Qutb Minar of Delhi and was inspired from it.\nThe Chand Minar is considered to be among the finest specimens of Indo-Islamic architecture in Southern India. It is 63 metres high and is divided into 4 storeys and 24 chambers. A small mosque or praying hall sits at the base of the tower, which is covered with Persian blue tiles. The tower also displays some indigenous Indian architectural features such as the brackets supporting its balconies. The tower's height makes it visible from every corner of the Daulatabad Fort.",
+   "url": "https://en.wikipedia.org/wiki/Chand_Minar"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Daulatabad",
+  "text": "Daulatabad (दौलताबाद Daulatābād), also known as Devagiri (देवगिरी Devgirī), is a town in the Marathwada region of Maharashtra, close to Aurangabad.\n\n\n== See and do ==\n1 Chand Minar (Tower of the Moon). Inspired by Delhi's Qutb Minar, the Chand Minar is considered to be among the finest specimens of the Islamic architecture in India. It was erected in 1445 by a Bahmani slave and commemorated to Bahmani Sultan Alauddin Ahmad Shah for his victory against the Vijayanagara Empire in 1443. (updated Jun 2025)\n2 Daulatabad Fort. It houses a stupendous 12th-century fortress well placed atop a charming hill. This invincible fortress boasts of a 5 km (3.1 mi) sturdy wall and an intricate series of ramparts. Don't miss the climb to the very top through the bat cave. (updated Jun 2025)\n\n\n== Eat and drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Daulatabad"
+ },
+ "sights": [
+  {
+   "name": "Bharatma Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 19.9435259,
+   "lon": 75.2177911
+  },
+  {
+   "name": "Open Air Canon Gallery",
+   "kind": "museum",
+   "walkMinutes": 9,
+   "lat": 19.9438064,
+   "lon": 75.2173108
+  },
+  {
+   "name": "Jain Temple",
+   "kind": "temple",
+   "walkMinutes": 9,
+   "lat": 19.9438936,
+   "lon": 75.2198943
+  },
+  {
+   "name": "Hemadpanti Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 19.9445466,
+   "lon": 75.2160417
+  },
+  {
+   "name": "Daulatabad Fort",
+   "kind": "fort",
+   "walkMinutes": 13,
+   "lat": 19.9425759,
+   "lon": 75.2127108
+  }
+ ],
+ "food": [],
+ "errors": []
+}

@@ -1,0 +1,114 @@
+{
+ "query": "Ellora Caves",
+ "found": "Ellora Caves, Beed Chalisgaon, Ellora, Khuldabad, Chhatrapati Sambhajinagar, Maharashtra, India",
+ "lat": 20.0267525,
+ "lon": 75.1775152,
+ "fetchedAt": "2026-10-12T19:03:15.444Z",
+ "locality": {
+  "id": "ellora-chhatrapati-sambhajinagar-district-maharashtra",
+  "name": "Ellora",
+  "area": "Khuldabad, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Ghrishneshwar Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Grishneshwar_temple_in_Aurangabad_district.jpg/1280px-Grishneshwar_temple_in_Aurangabad_district.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ghrishneshwar Temple",
+   "credit": "Photo: Rashmi.parab, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grishneshwar_temple_in_Aurangabad_district.jpg"
+  },
+  "Kailasa Temple, Ellora": {
+   "url": "https://upload.wikimedia.org/wikipedia/en/f/fc/Kailash_temple_%28Ellora_cave_no_15%29_at_Verul.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kailasa Temple, Ellora",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kailash_temple_(Ellora_cave_no_15)_at_Verul.png"
+  },
+  "Zar Zari Zar Baksh": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Zar_zari_zar.jpg/1280px-Zar_zari_zar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Zar Zari Zar Baksh",
+   "credit": "Photo: Lala Deen Dayal, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zar_zari_zar.jpg"
+  },
+  "Tomb of Malik Ambar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Tomb_of_Malik_Ambar_Back.jpg/1280px-Tomb_of_Malik_Ambar_Back.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tomb of Malik Ambar",
+   "credit": "Photo: Pradeep717, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Malik_Ambar_Back.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Ellora Caves",
+   "text": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut  cave complexes in the world, with artwork dating from AD 600–1000, including Hindu, Buddhist, and Jain caves. The complex is a leading example of Indian rock-cut architecture, and several are not strictly \"caves\" in that they have no roof.  Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple, a chariot-shaped monument dedicated to the god Shiva. The Kailash temple excavation also features sculptures depicting various Hindu deities as well as relief panels summarizing the two major Hindu epics.\nThere are over 100 caves at the site, all excavated from the basalt cliffs in the Charanandri Hills, 34 of which are open to the public. These consist of 17 Hindu (caves 13–29), 12 Buddhist (caves 1–12) and 5 Jain (caves 30–34) caves, each group representing deities and mythologies prevalent in the 1st millennium CE, as well as monasteries of each respective religion. They were built close to one another and illustrate the religious harmony that existed in ancient India. All of the Ellora monuments were built during the Rashtrakuta dynasty (r. 753...",
+   "url": "https://en.wikipedia.org/wiki/Ellora_Caves"
+  },
+  {
+   "title": "Ghrishneshwar Temple",
+   "text": "Ghrishneshwar Jyotirlinga (IAST: Ghṛṣṇeśvara), also known as Grishneswhar, is a Hindu temple of Shiva in Verul village of Aurangabad district, Maharashtra. It is one of the 12 Jyotirlinga mandirs. The mandir is a national protected site, one and a half kilometers away from the Ellora Caves, 30 kilometres (19 miles) north-west of the Aurangabad, and 300 kilometres (190 miles) east-northeast far from Mumbai. Ghrishneshwar is mentioned in the Shiva Purana, the Skanda Purana, the Ramayana and the Mahabharata.",
+   "url": "https://en.wikipedia.org/wiki/Ghrishneshwar_Temple"
+  },
+  {
+   "title": "Kailasa Temple, Ellora",
+   "text": "The Kailasha (IAST: Kailāśa) or Kailasha-natha (IAST: Kailāśa-nātha) temple is the largest of the rock-cut Hindu temples at the Ellora Caves in Chhatrapati Sambhaji Nagar district of Maharashtra, India.\nA megalith carved into a cliff face, it is considered one of the most remarkable cave temples in the world because of its size, architecture, and sculptural treatment. It has been called \"the climax of the rock-cut phase of Indian architecture\". The top of the structure over the sanctuary is 32.6 metres (107 ft) above the level of the court below. Although the rock face slopes downwards from the rear of the temple to the front, archaeologists believe it was sculpted from a single rock.\nThe Kailasa temple (Cave 16) is the largest of the 34 Hindu, Buddhist, and Jain cave temples and monasteries known collectively as the Ellora Caves, ranging for over two kilometres (1.2 mi) along the sloping basalt cliff at the site. Most of the excavation of the temple is generally attributed to the eighth century Rashtrakuta king Krishna I (r. c. 756 – 773), with some elements completed later. The temple architecture shows traces of Pallava and Chalukya styles. The temple contains a number of relief...",
+   "url": "https://en.wikipedia.org/wiki/Kailasa_Temple,_Ellora"
+  },
+  {
+   "title": "Zar Zari Zar Baksh",
+   "text": "Zar Zari Zar Baksh (died 15 August 1309), or Shah Muntajab ud din, was one of the earliest Sufis of the Chishti Order, the most dominant of all the Sufi orders in the Indian subcontinent. He was sent to the Deccan by Nizamuddin Auliya of Delhi in the beginning of the 14th century. With 700 disciples, Zar Zari Zar Baksh came to Aurangabad, and is said to have converted a Hindu princess near a well at Khuldabad. The place is now called the \"Sohan baoli\" or \"pleasing well\", and the princess is buried close to the saints grave in Khuldabad.\nThe tomb of Zar Zari Zar Baksh is between Malik Ambar's tomb and the northern gate of the town. It contains a number of ornaments and relics, the most remarkable of which is a circular steel looking glass mounted on a steel pedestal of four feet in height. It is said to have been presented by King Tana Shah. The dargah in Khuldabad attracts thousands of pilgrims each year for the Urs of the saint. He was the Qutub-e-Irshad, or the highest of the five Qutubs in the spiritual hierarchy of his time, He was a \"Master of the Universe\" according to Meher Baba's map of consciousness.",
+   "url": "https://en.wikipedia.org/wiki/Zar_Zari_Zar_Baksh"
+  },
+  {
+   "title": "Tomb of Malik Ambar",
+   "text": "The Tomb of Malik Ambar is a mausoleum located in Khuldabad, in the Indian state of Maharashtra. It is the burial place of Malik Ambar, a military leader who served as the prime minister of the Ahmadnagar Sultanate. Ambar built the tomb for himself, and was interred here upon his death in 1626. It is listed as a monument of national importance.",
+   "url": "https://en.wikipedia.org/wiki/Tomb_of_Malik_Ambar"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Ellora",
+  "text": "Ellora Caves are an impressive complex of rock shrines that represent the three faiths of Buddhism, Hinduism and Jainism and were created between the 5th and the 13th centuries CE. The caves are 30 km north-west of central Aurangabad, a few kilometres from Khuldabad, and 330 km (210 mi) north-east of Mumbai in Maharashtra state.\nThe caves are a  UNESCO World Heritage Site.\n\n\n== See ==\nThe Ellora Caves are open from 9:00AM to 5:30PM, and closed on Tuesday. The entry fees are ₹30 for Indians, ₹500 for foreigners. Free entry for children below 15 years. Still photography is free, and videography is at ₹25.\nThe murals and frescoes adorning the walls of these structures depict the story of Buddhism, spanning the period from 200 BC to 650 AD. Many of the caves have panels depicting stories from the Jatakas, a treasure trove of stories about the several incarnations of the Buddha. This makes the Ajanta caves a fascinating spiritual tourist attraction for Buddhists and scholars, and researchers of Buddhism.\nCaves 2, 16, and 17 also contain amazing paintings, while caves 1, 4, 17, 19, 24, and 26 boast of some of the most divine sculptures. The flying apsara painting in Cave 17, and the image of the Buddha preaching, also in cave 17, are two unforgettable works of art in Ajanta. The Ajanta caves and the treasures they house are a landmark in the overall development of Buddhism in India and in general.\nThe nobility, grace and serenity inherent in Buddha is reflected in the sculptures of these caves. Caves 6 and 10 house images from the Buddhist and Hindu faith, under the same roof, the latter dedicated to Vishwakarma, the patron saint of Indian craftsmen. The Vishvakarma cave is both a Chaitya and a Vihara, with a seated Buddha placed in the stupa. Its two-storeyed structure sports a colourful pageant of dwarfs, dancing and making music. The Kailasa temple in Cave 16 is architecture. The entire structure was an exquisite piece carved out of a monolith, the process taking over a century to finish. This mountain-abode of Lord Shiva, is in all probability, the world's largest monolith, the gateway, pavilion, assembly hall, sanctum and tower, all hewn out of a single rock. The most striking feature about this structure is that unlike other temple structures that are built base onwards, the sculptures or architects of this majestic and fantastic sculptures started carving from the very top and the sides. The gigantic yet delicate and intricate piece of ancient work is the most amazing structure here. The Dumar Lena cave, dedicated to Lord Shiva, resembles the famous cave temple of Elephanta. The Jain caves are about a mile away from the Kailasa temple, amongst which Cave 32, houses a beautiful shrine adorned with fine carvings of a lotus flower on the roof, and a yakshi on a lion under a mango tree, while Caves 32 and 34 contain grand statues of Parasnath. The other Jain caves sport the images of Tirthankaras, and one of them, also, has a seated figure of Mahavira. These caves are a treasure of India which hold the wealth and display the rich Indian heritage.\n\n1 Kailasanatha temple (Cave #16).  (updated Jun 2025)\n2 Cave 1 (The southernmost cave). Houses some of the best-preserved wall paintings here, which include two impressive Bodhisattvas, Padmapani and Avalokiteshvara. \n Cave 6, 10, 11, 12, 14, 15, 16, 21, 29, 30, 30A, 31, 32, 33, 34. Must to see. Inscriptions were found at Cave 15, 21, 31 \n3 Chota Kailash (Cave 30) (Next to Jain Group).  \n4 Dhumar Lena (Cave 29).  \n5 Dashawatara (Cave 15).  \n6 Grishneshwar temple, Grishneswar temple Rd, Verul. An 18th-century temple, with outstanding architecture and carving. This place forms one of the five Jyotirlinga sites in Maharashtra where Lord Shiva is worshipped. The Holkar temple nearby is a must-see. (updated Jun 2025)\n7 Jain Group of Ellora Caves (Cave 31-34) (North of Dhumar Lena).  \n8 Waterfall (Next to Dhumar Lena).  \n\n\n== Do ==\nEvery year in the third week of March, M T D C organises the Ellora Festival of Classical Dance and Music at the caves.\n\n\n== Eat ==\nHotel Kailash is an older hotel and has an attached Beer Bar. Hotel Manor, Hotel Ambience and several other Indian restaurants are along the road to Aurangabad from Ellora.\nHygiene and spice level may be an issue for some.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Ellora"
+ },
+ "sights": [
+  {
+   "name": "Ellora Caves",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 20.0268,
+   "lon": 75.1771
+  },
+  {
+   "name": "Kailasa Temple, Ellora",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 20.023888888888887,
+   "lon": 75.17916666666667
+  },
+  {
+   "name": "Ghrishneshwar Temple",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 20.02497222222222,
+   "lon": 75.16991666666667
+  },
+  {
+   "name": "Tomb of Malik Ambar",
+   "kind": "landmark",
+   "walkMinutes": 26,
+   "lat": 20.0142,
+   "lon": 75.1845
+  },
+  {
+   "name": "Zar Zari Zar Baksh",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 20.013938888888887,
+   "lon": 75.1860638888889
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

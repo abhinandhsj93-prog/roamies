@@ -1,0 +1,264 @@
+{
+ "query": "Worli, Mumbai",
+ "found": "Worli, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400030, India",
+ "lat": 19.0117388,
+ "lon": 72.8178706,
+ "fetchedAt": "2026-10-12T18:48:41.044Z",
+ "locality": {
+  "id": "worli-mumbai-city-district-maharashtra",
+  "name": "Worli",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Worli": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bandra-Worli_Sealink_21.jpg/1280px-Bandra-Worli_Sealink_21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Worli",
+   "credit": "Photo: Devansh15, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bandra-Worli_Sealink_21.jpg"
+  },
+  "Mumbai Television Tower": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Worlifrombandra.jpg/1280px-Worlifrombandra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mumbai Television Tower",
+   "credit": "Photo: Swaminathan from Gurgaon, India, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Worlifrombandra.jpg"
+  },
+  "Siddhivinayak Temple, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg/1280px-Shree_Siddhivinayak_Temple_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Siddhivinayak Temple, Mumbai",
+   "credit": "Photo: Darwininan, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shree_Siddhivinayak_Temple_Mumbai.jpg"
+  },
+  "Palais Royale, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Palais_royale_worli_mumbai.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Palais Royale, Mumbai",
+   "credit": "Photo: Ilikeyoutoo yay, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_royale_worli_mumbai.png"
+  },
+  "World One": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ikea_mumbai_backside.jpg/1280px-Ikea_mumbai_backside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "World One",
+   "credit": "Photo: Creater903a, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ikea_mumbai_backside.jpg"
+  },
+  "Three Sixty West": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Oberoi_360W.jpg/1280px-Oberoi_360W.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Three Sixty West",
+   "credit": "Photo: Creater903a, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oberoi_360W.jpg"
+  },
+  "The Park (residential project)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Trump_tower_and_Lodha_Veniza.jpg/1280px-Trump_tower_and_Lodha_Veniza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "The Park (residential project)",
+   "credit": "Photo: Creater903a, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trump_tower_and_Lodha_Veniza.jpg"
+  },
+  "Worli metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Worli_metro_station_platform.jpg/1280px-Worli_metro_station_platform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Worli metro station",
+   "credit": "Photo: Rupturestriker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Worli_metro_station_platform.jpg"
+  },
+  "Siddhivinayak metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Siddhivinayak_metro_station.jpg/1280px-Siddhivinayak_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Siddhivinayak metro station",
+   "credit": "Photo: Rupturestriker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_metro_station.jpg"
+  },
+  "Omkar 1973": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Omkar_1973_towers.jpg/1280px-Omkar_1973_towers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Omkar 1973",
+   "credit": "Photo: Creater903a, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Omkar_1973_towers.jpg"
+  },
+  "Prabhadevi Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Prabhadevi_Temple_in_Prabhadevi..JPG/1280px-Prabhadevi_Temple_in_Prabhadevi..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Prabhadevi Temple",
+   "credit": "Photo: Rudolph.A.furtado, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prabhadevi_Temple_in_Prabhadevi..JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Worli",
+   "text": "Worli (ISO: Varaḷī, [ʋəɾ(ə)ɭiː])  is a locality in central Mumbai, in Maharashtra, India. It is one of the four peninsulas of Mumbai, with the others being Colaba, Bandra, and Malabar Hill. The sea connects it with Vandre via the Bandra–Worli Sea Link. Historic spellings include Warli, Worlee, Varli, and Varel. Originally, Worli was a separate island—one of the Seven Islands of Bombay—which were ceded by the Portuguese to England in 1661; it was linked up with the other islands in the 19th century.\nIn the 1990s, a group of terrorists attacked a building in Worli as well as major buildings in the city.\n\n\n== Geography and location ==\nWorli is located along the western coastline of Mumbai, bordered by the Arabian Sea to the west, Lower Parel to the east, Prabhadevi to the north, and Haji Ali to the south. The neighbourhood enjoys a prime location and excellent connectivity via major roads and railway lines.\n\n\n== History ==\nWorli was originally a fishing village inhabited by the Koli community. During British rule, Worli underwent significant urbanisation and became an important part of Mumbai’s development. The construction of major infrastructure projects, including the Bandra-Worli Sea Link...",
+   "url": "https://en.wikipedia.org/wiki/Worli"
+  },
+  {
+   "title": "Prabhadevi",
+   "text": "Prabhadevi (Pronunciation: [pɾəbʱaːd̪eʋiː]) is a small up-scale southern neighbourhood of Mumbai, situated between Dadar to the north, Worli to the south and the Arabian Sea to the west. The area derives its name from the 300-year-old Prabhavati temple located in the locality. Prabhadevi starts at Sayani Road Junction and ends at Babasaheb Worlikar Chowk. \nIt is known for its mix of high-end residential buildings, cultural landmarks, and historical significance. The area is most famous for the Siddhivinayak Temple, one of Mumbai’s most revered Hindu temples, attracting thousands of devotees daily. \nIt is situated between Dadar to the north, Worli to the south and the Arabian Sea to the west. Prabhadevi starts at Sayani Road Junction and ends at Babasaheb Worlikar Chowk.",
+   "url": "https://en.wikipedia.org/wiki/Prabhadevi"
+  },
+  {
+   "title": "Mumbai Television Tower",
+   "text": "The Mumbai Television Tower, also known as the Worli Doordarshan Tower, is the television tower owned by Doordarshan, the public-broadcaster located in the city of Mumbai in India. It stands at 300 metres (984 feet) and is the fourth-tallest man-made structure in the Indian subcontinent. The red and white tower is an open latticework structure. The tower, located at Worli, can be seen from most parts of South Mumbai.\nA 32-minute documentary titled Tale of a Tower was produced by the Films Division of India featuring footage of the tower topped out in 1972.",
+   "url": "https://en.wikipedia.org/wiki/Mumbai_Television_Tower"
+  },
+  {
+   "title": "Siddhivinayak Temple, Mumbai",
+   "text": "The Shri Siddhivinayak Ganapati Mandir is a Hindu temple dedicated to Ganesha.  It is located in Prabhadevi neighbourhood of Mumbai, Maharashtra. It was originally built by Laxman Vithu and Deubai Patil on 19 November 1801. It is one of the most popular Hindu temples in Mumbai.\nThe temple has a small mandap  with the shrine for Siddhi Vinayak (\"Ganesha who grants your wish\").  The wooden doors to the sanctum are carved with images of the Ashtavinayaka (the eight manifestations of Ganesha in Maharashtra). The inner roof of the sanctum is plated with gold, and the central statue is of Ganesha. In the periphery, there is a Hanuman temple as well. The exterior of the temple consists of a dome which is lit up with multiple colors in the evenings and they keep changing every few hours. The statue of Shri Ganesha is located exactly under the dome. The pillars are carved out with the images of the Ashtavinayaka.",
+   "url": "https://en.wikipedia.org/wiki/Siddhivinayak_Temple,_Mumbai"
+  },
+  {
+   "title": "Palais Royale, Mumbai",
+   "text": "Palais Royale is an under-construction residential skyscraper in Mumbai, India. At 297.50 metres (976 ft), it is the second-tallest building and tenth-tallest structure in India. The building topped-out in 2018 but its facades and interior are still under construction. Its completion, previously expected by 30 December 2025, has been delayed due to ongoing litigation and is now expected by 30 December 2026.",
+   "url": "https://en.wikipedia.org/wiki/Palais_Royale,_Mumbai"
+  },
+  {
+   "title": "World One",
+   "text": "World One is a 280.2 m (919 ft), 76-floor skyscraper in Mumbai, Maharashtra, India. As of 2024, it is the  second tallest completed building in India and the fourth tallest overall. It is on the 7.1-hectare (17.5-acre) site of the defunct Shrinivas Mill. The site also houses two other towers: World View and World Crest. The complex was developed by the Lodha Group.\nWorld One was built at an estimated cost of over US $321 million. Construction began in 2011, and was initially said to be 442 m (1,450 ft) tall. However, the developer failed to obtain approval from the Airports Authority of India for that height; the project was then stalled for a few years. Following the delay, the project was redesigned to the current height and completed.\nWorld One's architect is Pei Cobb Freed & Partners, the structural engineer is Leslie E. Robertson Associates & MEP engineer is BuroHappold Engineering. The whole project consists of three towers. There were two construction civil contractors involved: Arabian Construction Co. and Simplex (World One), Muscovite Group (World Crest, World View).",
+   "url": "https://en.wikipedia.org/wiki/World_One"
+  },
+  {
+   "title": "Three Sixty West",
+   "text": "Three Sixty West is a skyscraper complex in Mumbai, Maharashtra, India. It comprises two towers, joined at ground level by a podium. Tower B, the taller of the two, rises to 260 metres (853 ft) with 66 floors and Tower A rises to 255.6 metres (839 ft) with 52 floors. Tower B is a hotel / office space, and private residences are located in Tower A. The podium accommodates amenities such as restaurants and ballrooms. Tower B is the 14th tallest building in India and Tower A the 21st tallest. Tower B is among the tallest commercial skyscrapers in the country.\nThe project was designed by Kohn Pedersen Fox. The structural consultant is Leslie E. Robertson Associates and the main contractor is Samsung C&T. Hotel interiors are done by Tony Chi and Associates. Residents' amenities are designed by Populous.\nThe project was developed under Oasis Realty, a joint venture between Sahana and Oberoi Realty. In May 2014, Oberoi Realty announced The Ritz-Carlton as the hospitality partner for the project. The Ritz-Carlton Mumbai occupies Tower A, and the private residences in Tower B have access to certain services from the hotel.\nThe project was formally named Three Sixty West in 2015.\nUpon its topping...",
+   "url": "https://en.wikipedia.org/wiki/Three_Sixty_West"
+  },
+  {
+   "title": "The Park (residential project)",
+   "text": "Lodha Park is an 18.5-acre (7.5 ha) luxury residential skyscraper project which was developed by the Lodha Group in the upscale Lower Parel neighborhood of Mumbai, Maharastra, India. The land for the project was purchased from DLF Limited in 2012 for approximately ₹2,800 crore (₹28,000,000,000). Lodha Park consists of 5 towers, each standing 268 meters tall and with 76 floors. Lodha Park Towers  were the tallest buildings in India from 2019 to 2020, until surpassed by World One in 2020, which in turn was surpassed by Lokhandwala Minerva in 2023. The towers are currently the 6th tallest buildings in India.",
+   "url": "https://en.wikipedia.org/wiki/The_Park_(residential_project)"
+  },
+  {
+   "title": "Worli metro station",
+   "text": "Worli is an underground metro station serving Worli area on the North-South corridor of the Aqua Line 3 of Mumbai Metro in Mumbai, India. It was opened to public on 10 May 2025.",
+   "url": "https://en.wikipedia.org/wiki/Worli_metro_station"
+  },
+  {
+   "title": "Siddhivinayak metro station",
+   "text": "Siddhivinayak (also known as ICICI Lombard - Siddhivinayak for sponsorship reasons) is an underground metro station located in the Prabhadevi area, on the North–South corridor of the Aqua Line 3 of the Mumbai Metro in Mumbai, India. The station opened to the public on 10 May 2025, under a naming rights agreement between ICICI Lombard and the Mumbai Metro Rail Corporation Ltd (MMRC).",
+   "url": "https://en.wikipedia.org/wiki/Siddhivinayak_metro_station"
+  },
+  {
+   "title": "Lycée Français International de Mumbai",
+   "text": "Lycée Français International de Mumbai (The French International School of Mumbai), commonly referred to as LFIM, is a private French international school in Lower Parel, Mumbai, India. Established in 1983, its levels range from Pre-Kindergarten all the way to senior high school (ages 2 through 18).  The school is the only bilingual school in Mumbai and was formerly known as Ecole Française Internationale de Mumbai (EFIB).\nThe school follows the French Baccalaureate programme, not to be confused with IB, and its curriculum abides by the official programs of the national French education system, as directed by AEFE. The school is multilingual, which exposes the students to a large variety of different culture and 60% of the faculty hails from France.\nThe school is welcoming to students and teachers of different nationalities and stresses the importance of learning in both English and French simultaneously. The school is one of the few schools in South Mumbai to welcome students from the age of 2 years and has a mix of expatriate and local students. LFIM also provides a unique kindergarten system, wherein students stay until 3 pm and enjoy the benefits associated with a full school day...",
+   "url": "https://en.wikipedia.org/wiki/Lyc%C3%A9e_Fran%C3%A7ais_International_de_Mumbai"
+  },
+  {
+   "title": "Omkar 1973",
+   "text": "Omkar 1973 Worli is a residential multi-skyscraper project located in Worli, Mumbai, Maharashtra, India. It is a 3-tower development project by Omkar Realtors. The project was expected to be completed by late 2024. It is currently the  11th tallest building in India.",
+   "url": "https://en.wikipedia.org/wiki/Omkar_1973"
+  },
+  {
+   "title": "Kamala Mills fire",
+   "text": "On 29 December 2017, a fire broke out at Kamala Mills, a commercial complex in Lower Parel, Mumbai, at 00:22 IST. The fire resulted in the deaths of 14 people, and injuries to 55 more. The fire began in a bar, 1 Above, and spread to an adjacent pub, Mojo's Bistro, before spreading through the rest of the building in which they were housed.",
+   "url": "https://en.wikipedia.org/wiki/Kamala_Mills_fire"
+  },
+  {
+   "title": "Prabhadevi Temple",
+   "text": "Prabhadevi Temple, also known as Prabhavati Devi Temple, is a Hindu temple located in the Prabhadevi area, near Dadar, Mumbai. The idol representing the main deity, Prabhavati Devi, dates back to the 12th Century. The temple itself, though, was constructed in 1715, making it only 300 years old.",
+   "url": "https://en.wikipedia.org/wiki/Prabhadevi_Temple"
+  },
+  {
+   "title": "Mumbai Central Lok Sabha constituency",
+   "text": "Bombay Central Lok Sabha constituency was one of the Lok Sabha constituencies in Bombay State, later in Maharashtra (1960 onwards). It became defunct in 1977 when constituency boundaries were redrawn.",
+   "url": "https://en.wikipedia.org/wiki/Mumbai_Central_Lok_Sabha_constituency"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Worli metro station",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 19.0087,
+   "lon": 72.81941
+  },
+  {
+   "name": "Mumbai Television Tower",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 19.00722222222222,
+   "lon": 72.82
+  },
+  {
+   "name": "Omkar 1973",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 19.0167,
+   "lon": 72.8167
+  },
+  {
+   "name": "Three Sixty West",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 19.0111,
+   "lon": 72.8234
+  },
+  {
+   "name": "Lycée Français International de Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 19.0039,
+   "lon": 72.815
+  },
+  {
+   "name": "Prabhadevi Temple",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 19.014509,
+   "lon": 72.827535
+  },
+  {
+   "name": "The Park",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 19.0067,
+   "lon": 72.8272
+  },
+  {
+   "name": "Mumbai Central Lok Sabha constituency",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19,
+   "lon": 72.82
+  },
+  {
+   "name": "Prabhadevi",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19.0166,
+   "lon": 72.8295
+  },
+  {
+   "name": "Kamala Mills fire",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19.00369,
+   "lon": 72.827539
+  },
+  {
+   "name": "Palais Royale, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 18.9995,
+   "lon": 72.8195
+  },
+  {
+   "name": "World One",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 19.0023,
+   "lon": 72.8265
+  },
+  {
+   "name": "Siddhivinayak metro station",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 19.015959,
+   "lon": 72.8305616
+  },
+  {
+   "name": "Siddhivinayak Temple, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 19.01692,
+   "lon": 72.830409
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

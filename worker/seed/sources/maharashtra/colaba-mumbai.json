@@ -1,0 +1,278 @@
+{
+ "query": "Colaba, Mumbai",
+ "found": "Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400005, India",
+ "lat": 18.915091,
+ "lon": 72.8259691,
+ "fetchedAt": "2026-10-12T18:45:58.072Z",
+ "locality": {
+  "id": "colaba-mumbai-city-district-maharashtra",
+  "name": "Colaba",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Cathedral of the Holy Name, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Cathedral_of_the_Holy_Name%2C_Mumbai.jpg/1280px-Cathedral_of_the_Holy_Name%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cathedral of the Holy Name, Mumbai",
+   "credit": "Photo: Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cathedral_of_the_Holy_Name,_Mumbai.jpg"
+  },
+  "Cooperage Ground": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kunal_Sawant_%284%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Cooperage Ground",
+   "credit": "Photo: Gsaldanha, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunal_Sawant_(4).JPG"
+  },
+  "Badhwar Park": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lovely_view_of_Cuffe_Parade_from_my_window._%2815915431677%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Badhwar Park",
+   "credit": "Photo: Gaurav Mishra from Mumbai/ Bombay, India, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lovely_view_of_Cuffe_Parade_from_my_window._(15915431677).jpg"
+  },
+  "Roman Catholic Archdiocese of Bombay": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Cathedral_of_the_Holy_Name%2C_Mumbai.jpg/1280px-Cathedral_of_the_Holy_Name%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Roman Catholic Archdiocese of Bombay",
+   "credit": "Photo: Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cathedral_of_the_Holy_Name,_Mumbai.jpg"
+  },
+  "Leopold Cafe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1280px-LeopoldCafe_gobeirne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Leopold Cafe",
+   "credit": "Photo: Photograph by Greg O'Beirne, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:LeopoldCafe_gobeirne.jpg"
+  },
+  "Nariman House": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2008_Mumbai_terror_attacks_Nariman_House_front_view_3.jpg/1280px-2008_Mumbai_terror_attacks_Nariman_House_front_view_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nariman House",
+   "credit": "Photo: Nicholas (Nichalp), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Nariman_House_front_view_3.jpg"
+  },
+  "INS Shikra": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/INS_Shikra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "INS Shikra",
+   "credit": "Photo: Indian Navy, GODL-India, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:INS_Shikra.jpg"
+  },
+  "World Trade Centre, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mumbai_night_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "World Trade Centre, Mumbai",
+   "credit": "Photo: Mark0687 at en.wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_night_skyline.jpg"
+  },
+  "Sassoon Docks": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sassoon_Docks_overhead_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Sassoon Docks",
+   "credit": "Photo: A. N. Appaiah, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sassoon_Docks_overhead_2.jpg"
+  },
+  "Cuffe Parade metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Cuffe_Parade_metro_station_platform_level%2C_2025.jpg/1280px-Cuffe_Parade_metro_station_platform_level%2C_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cuffe Parade metro station",
+   "credit": "Photo: Just a dude from earth, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuffe_Parade_metro_station_platform_level,_2025.jpg"
+  },
+  "Indigo (restaurant)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Mumbai_%28Bombay%29%2C_RTW_2012_%288403808043%29.jpg/1280px-Mumbai_%28Bombay%29%2C_RTW_2012_%288403808043%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Indigo (restaurant)",
+   "credit": "Photo: Ana Raquel S. Hernandes from Sao Paulo, Brazil, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_(Bombay),_RTW_2012_(8403808043).jpg"
+  },
+  "Cusrow Baug": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cusrow_Baug_Gate.jpg/1280px-Cusrow_Baug_Gate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cusrow Baug",
+   "credit": "Photo: Nizil Shah, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cusrow_Baug_Gate.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Colaba",
+   "text": "Colaba ([koˈlaːbaː]; or ISO: Kolābā) is a part of the city of Mumbai, India. It is one of the four peninsulas of Mumbai while the other three are Worli, Bandra and Malabar Hill. During the Portuguese rule in the 16th century, the island was known as Kolbhat. After the British took over the island in the late 17th century, it was known as Kolio.\n\n\n== History ==\n\nThe name Colaba comes from Kolabhat, a word in the language of Kolis, the indigenous inhabitants of the islands, before the arrival of the Portuguese. The area that is now Colaba was originally a region consisting of two islands: Colaba and Little Colaba (or Old Woman's Island). The island of Colaba was one of the Seven Islands of Mumbai, ruled by the Portuguese.\nThe Portuguese had acquired these lands from the Sultanate of Cambay by the Treaty of Vasai (1534). The group of islands was given by Portugal to Charles II of England as a dowry when he married Catherine of Braganza in 1661. The cession of Mumbai and dependencies was strongly resented by Portuguese officials in Goa and Mumbai, who resisted the transfer of possession for several years, while the English representatives were confined to the island of Anjediva while negotiations...",
+   "url": "https://en.wikipedia.org/wiki/Colaba"
+  },
+  {
+   "title": "Dolphin Lighthouse",
+   "text": "Dolphin Lighthouse (or Dolphin Rock Light) is one of the three lighthouses in the Mumbai harbour off the coast of Mumbai, India. It is near the Gateway of India and is controlled by the Indian Navy. To honour military personnel, a 21 gun salute is held every time a warship sails out of the Mumbai harbour with The Admiral of The Fleet. This lighthouse is also illuminated during Navy Day celebrations which happen during the first week of December every year.",
+   "url": "https://en.wikipedia.org/wiki/Dolphin_Lighthouse"
+  },
+  {
+   "title": "Cathedral of the Holy Name, Mumbai",
+   "text": "The Cathedral of the Holy Name or Holy Name Cathedral is a Roman Catholic cathedral in the Indian city of Mumbai (Bombay), that has the seat and is the headquarters of the Archbishop of Bombay. The cathedral is located in the Colaba area of South Bombay, built in the Gothic Revival style that was favoured by British architects.\n\nThe Holy Name Cathedral was built in 1905 as a church, but designated a cathedral in 1964. It is contained within the premises of the Holy Name High School, founded in 1939.\nDuring the Bombay plague epidemic that struck the city of Bombay (present-day Mumbai) in the early 1900s, the church worked to aid the victims of plague by providing them food and shelter.",
+   "url": "https://en.wikipedia.org/wiki/Cathedral_of_the_Holy_Name,_Mumbai"
+  },
+  {
+   "title": "Cooperage Ground",
+   "text": "The Cooperage Football Ground is a football stadium located in Nariman Point, Mumbai, Maharashtra. It is predominantly home to multiple Mumbai Football League clubs.\nThe Western India Football Association has operated from the Cooperage Ground since 1969, and the Mumbai District Football Association holds a small office. It was a venue for one of India's premier national leagues, the I-League. Mahindra United FC, Kenkre FC, and Mumbai FC used the stadium as home ground in both the NFL and the I-League, while Ambernath United Atlanta FC hosted its I-League 2nd Division games.",
+   "url": "https://en.wikipedia.org/wiki/Cooperage_Ground"
+  },
+  {
+   "title": "Old Woman's Island",
+   "text": "The Old Woman's Island, also known as Little Colaba, is one of the seven islands composing the city of Mumbai, India, and part of the historic Old Mumbai.\nThe Colaba Causeway built in 1838, connected this last island to the mainland of Mumbai, along with the island of Colaba.",
+   "url": "https://en.wikipedia.org/wiki/Old_Woman%27s_Island"
+  },
+  {
+   "title": "Badhwar Park",
+   "text": "Badhwar Park is the residential complex of the Indian Central Railway and Western Railway officers. It is located at Wodehouse Road in Cuffe Parade. The colony is situated along the coastline. The complex has been aptly named after Shri Fateh Chand Badhwar, the first Indian chairman of the Indian Railway Board. Shri Omprakash Rai is the IOW of Badhwar Park. In the past, after its inception in 1925, all chairmen of the Railway Board had been Britons. The complex has a club with sports facilities and library. The club has coaching facilities for sports and martial arts. Badhwar Park can be reached from Churchgate or Chhatrapati Shivaji Terminus (CST) railway station by catching bus no 138 starting from CST (via Churchgate).",
+   "url": "https://en.wikipedia.org/wiki/Badhwar_Park"
+  },
+  {
+   "title": "Roman Catholic Archdiocese of Bombay",
+   "text": "The Archdiocese of Bombay is a Latin Church archdiocese of the Catholic Church. Its episcopal see is in Bombay (Mumbai) and encompasses the northern Konkan division of Maharashtra, India. The cathedral is the Cathedral of the Holy Name. It also administers an important minor basilica, the Basilica of Our Lady of the Mount, in Bandra suburb of Bombay.\nAs of 2006, the archdiocese had 277 diocesan priests, 283 religious priests, 383 male religious brothers and 1,530 religious sisters. The archdiocese serves a total of 506,976 Indian Catholics in 121 parishes all across the Greater Bombay Metropolitan Area.\nArchbishop John Rodrigues succeeded Oswald Cardinal Gracias as the Archbishop of Bombay on 25 January 2025, following Pope Francis's acceptance of Cardinal Gracias' resignation.",
+   "url": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Bombay"
+  },
+  {
+   "title": "Leopold Cafe",
+   "text": "The Leopold Cafe and Bar is a restaurant and bar on Colaba Causeway, Colaba, Mumbai, India, located across from the Colaba Police station. It was one of the first sites attacked in the 2008 Mumbai attacks.",
+   "url": "https://en.wikipedia.org/wiki/Leopold_Cafe"
+  },
+  {
+   "title": "Nariman House",
+   "text": "The Nariman House, designated as a Chabad house (Hebrew: בית חב\"ד, romanized: Beit Chabad; Marathi: घरा नरिमन, romanized: Garā Narīman), is a five-storey landmark in the Colaba area of South Mumbai, Maharashtra, India. The building was home to a Chabad house, a Hasidic Jewish outreach centre run by Gavriel and Rivka Holtzberg, who had owned the building since around 2006. The centre had an educational center, a synagogue, offered drug prevention services, and a hostel. The building was one of the sites of the 2008 Mumbai attacks and six of its occupants, including Holtzberg and his wife, who was six months pregnant, were killed. Their two-year-old son Moshe Holtzberg survived the attack after being rescued by his Indian nanny, Sandra Samuel.",
+   "url": "https://en.wikipedia.org/wiki/Nariman_House"
+  },
+  {
+   "title": "Gokul (restaurant)",
+   "text": "Gokul is a pub in Colaba, Mumbai. Located behind The Taj Mahal Palace Hotel next to Regal Cinema, it is renowned for its cheap alcoholic beverages (mostly beer) sold almost at retail value (i.e. without the extra charges added to alcoholic beverages in Mumbai if they are consumed in restaurants). Because of its low prices it is popular with the students of institutes in the area, achieving cult status with them. However, it is also frequented by journalists, lawyers, researchers and businessmen who work in the South Mumbai area. \nThe restaurant seating is divided into two levels - the upstairs (airconditioned) section and the downstairs (non-airconditioned). These in turn are subdivided into smoking and non-smoking. With an emphasis on functionality rather than aesthetics, the lack of decoration is reportedly part of \"its charm\".",
+   "url": "https://en.wikipedia.org/wiki/Gokul_(restaurant)"
+  },
+  {
+   "title": "INS Shikra",
+   "text": "INS Shikra, formerly known as INS Kunjali, is an Indian naval air station located at Colaba in Mumbai, Maharashtra. It is a heliport.",
+   "url": "https://en.wikipedia.org/wiki/INS_Shikra"
+  },
+  {
+   "title": "World Trade Centre, Mumbai",
+   "text": "The Mumbai World Trade Centre at Cuffe Parade is a skyscraper  built in the year 1970. It is the first world trade center in India. It consists of two towers, the M. Visvesaraya Industrial Research and Development Centre (MVIRDC) and the IDBI. MVIRDC is also known as Centre 1. At 155.9 m, the MVIRDC tower was the tallest building in South Asia for nearly four decades, until the completion of Planet Godrej (181 m) in 2009. It was constructed by the Shapoorji Pallonji Group.\nIn 1998, the Brihanmumbai Electricity Supply and Transport (BEST) commenced air-conditioned bus services connecting the World Trade Centre with the suburb of Andheri. Furthermore, two special buses also plied between Mumbai CSMT and the World Trade Center.",
+   "url": "https://en.wikipedia.org/wiki/World_Trade_Centre,_Mumbai"
+  },
+  {
+   "title": "Sassoon Docks",
+   "text": "Sassoon Docks, built in 1875, is one of the oldest docks in Mumbai and was the first wet dock constructed in Bombay. It is one of the few docks in the city open to the public. It is situated in Mumbai harbour in South Mumbai area of Colaba. It is one of largest fish markets in the Mumbai city, it has a wide variety of fishes, including Surmai (Indo-pacific mackerel), pomfret etc. Its neighbouring features are Mumbai Port Trust Garden (Sagar Upvan Colaba) and Offices of Fisheries Department, and it overlooks Oyster Rock, an island in the Mumbai harbour, at a distance.",
+   "url": "https://en.wikipedia.org/wiki/Sassoon_Docks"
+  },
+  {
+   "title": "Cuffe Parade metro station",
+   "text": "Cuffe Parade is an underground terminal metro station located in the Colaba neighborhood, on the North–South corridor of the Aqua Line of the Mumbai Metro in Mumbai, India. The station was opened to public on 9 October 2025, along with the remaining section of the Aqua Line from Acharya Atre Chowk to Cuffe Parade.",
+   "url": "https://en.wikipedia.org/wiki/Cuffe_Parade_metro_station"
+  },
+  {
+   "title": "Indigo (restaurant)",
+   "text": "Indigo was a restaurant founded by the Indian chef Rahul Akerkar in 1999 in Mumbai, India, in a restored colonial bungalow behind the Taj Mahal Palace Hotel. The restaurant was one of the first standalone fine-dining restaurants in the country to serve quality European cuisine outside the luxury hotel industry. It is credited with influencing the Indian restaurant industry in the country's post-liberalisation era. Food critic Vir Sanghvi called the restaurant \"one of the most important establishments in Indian restaurant history\". It was included in the top 60 restaurants in the world by Condé Nast Traveler.\nThe restaurant closed on 29 April 2018, following the expiration of the property's lease and failed renegotiations.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Indigo_(restaurant)"
+  },
+  {
+   "title": "Cusrow Baug",
+   "text": "Cusrow Baug is a Parsi residential colony on Colaba Causeway, Mumbai, India. Its residential blocks were completed between 1934 and 1959. The colony houses a Zoroastrian temple, computer centre, gymnasium, and sports club. It was designed by Claude Batley.",
+   "url": "https://en.wikipedia.org/wiki/Cusrow_Baug"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Mumbai/South",
+  "text": "South Mumbai is one of the most affluent districts of Mumbai. Many of the city's famous landmarks, including the iconic Gateway of India, Taj Mahal Palace Hotel, and Marine Drive (Queen's Necklace) are found here. This area also connects to the nearby Elephanta Caves. Ferries are available from Gateway of India to the island.\n\n\n== See ==\n\n\n=== Mumbai Harbour ===\n\n1 Gateway of India (भारतीय प्रवेशद्वार Bhāratiya Praveśdvār), Shivaji Marg. 24 hours daily. The landmark gateway was built in 1911 to commemorate the visit of King George V and Queen Mary to India. Built in the Indo-Saracenic style, the foundation stone for the Gateway of India was laid on 31 March 1911. The final design of George Wittet was sanctioned in 1914 and the construction of the monument was completed in 1924. This arch is the most recognisable symbol of the city. The structure is a basalt arch, 26m high, and it lies at the end of Chhatrapati Shivaji Marg at the water's edge in Mumbai Harbour. It was a crude jetty used by the fishing community which was later renovated and used as a landing place for British governors and other prominent people. In earlier times, it would have been the first structure that visitors arriving by boat in Mumbai would have seen. Ferries to Elephanta are available from the Gateway of India. Free. (updated Jun 2023)\n2 Sassoon Docks. One of the oldest docks in Mumbai and was the first wet dock constructed in the city. It is also one of the largest fish markets in the city. In 2017, street art transformed the fishing dock into an exhibition space. (updated Jun 2023)\n\n\n=== Shyama Prasad Mukherjee Chowk ===\n\nThis road crossing consists of a series of colonial buildings centred around the Wellington Fountain, including the Regal Cinema (see details in the Do section). The area also includes the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya and National Gallery of Modern Art, both listed in the Fort district.\n\n3 Wellington Fountain. A small elegant marble fountain dating back to the 1860s. (updated Mar 2026).\n4 Majestic Guest House. Once the majestic hotel it was designed by W.A. Chambers, who was also the designer of Mumbai's iconic Taj Mahal Hotel, Completed in 1909 it follows the Indo-Saracenic architectural style complete with domed minarets. Today it is known as Majestic Guest House and houses a government co-operative store and a hostel for Members of Legislative Assembly. \n5 Waterloo Mansion. An Indo-Gothic style residential apartment. The ground floor houses several stores including cafes and restaurants. \n6 Maharashtra Police Headquarters. The grand building dates back to 1876 and was built as a home for the seamen and was known as Royal Alfred Sailors Home. Built in Gothic style it was designed by Frederick William Stevens. The giant pediment at the centre of the building contains a statue of Neptune, the guardian of the seas. The sculptures on the other face of the building were designed by the students of J J School of Art under the guidance of John Lockwood Kipling, father of well-known writer Rudyard Kipling. In 1928 the building was acquired by the government and in 1930 it served as the office of the Legislative Council. In 1982 the building was handed over to the Maharashtra Police for setting up its headquarters. In 2019 the building underwent an extensive renovation and restoration. (updated Jan 2023)\n\n\n=== Churchgate and Marine Drive ===\n\n7 Eros Cinema, 42, Maharshi Karve Rd, Churchgate. A colonial-era cinema built in Art Deco style. The hall started functioning in 1938 and had a sitting capacity of 1204. It was closed down in 2016 for renovation, and was reopened in February 2024 with a 1,300-seater theatre and a 300-seater IMAX screen. All traces of the original auditorium were removed including the balcony, with only the large relief sculptures flanking the sides being incorporated. (updated Mar 2026)\n8 Nariman Point (नरीमन पॉइंट Narīman Pôiṇṭ; Manhattan of Mumbai) (at the southern end of Marine Drive). The area is on land reclaimed from the sea. Nariman Point is the business hub of Mumbai. However, with the change in economic conditions, many companies have shifted to other areas of Mumbai, like Parel, Worli, Bandra Kurla Complex (BKC), Andheri-Kurla Road and Powai. There are many airline offices and luxury hotels here. It is widely regarded as the \"Manhattan of Mumbai\" and it boasts of a spectacular skyline and pricey residential condos. It is also the main financial district of Mumbai and houses most of the financial services and brokerage companies—both Indian and international. It is also the location for the Vidhan Bhavan which is the political headquarters of the state of Maharashtra, as well as the summer seat of the Maharashtra Legislature. (updated Jun 2023)\n9 Royal Opera House. The hub of social, artistic and cultural activity in Mumbai. The Opera House was inaugurated by King George V in 1911, but it was still under construction. It was finally opened to the public in 1916. It follows the Baroque style of architecture with a blend of European and Indian detailing. In 1917 it started showing films. The entire area near it came to be known as the Opera House. In 1993 the Opera House was closed down. In 2016 it was opened after a restoration that lasted 8 years. (updated Apr 2020)\n10 Taraporewala Aquarium, Marine Drive, Girgaon (from suburban: Churchgate  Western  0.6 km SW). It has an exotic collection of marine and fresh water life. An interesting section demonstrates various stages in the growth of a pearl and also displays exquisite pearl, and mother-of-pearl jewellery. (updated Jun 2023)\n11 Western Railway Headquarters. The massive grey and white sandstone building stands opposite Churchgate station and on the northwest corner of the Oval Maidan. The building was constructed in 1899. Although the Gothic architecture building dominates Mumbai's skyline on account of its location at a busy intersection it is often passed by unnoticed in the waves of humanity. (updated Jun 2023)\n\n\n=== Malabar Hill ===\n\n12 Babulnath Mandir, 16, Babulnath Rd, Charni Rd, Khareghat Colony, Malabar Hill (from suburban: Grant Road  Western  1 km SW), ☏ +91 22 2367 8367, info@babulnath.com. This temple is dedicated to Lord Shiva and is a well-known temple in south Mumbai. This temple is close to the beach and there is a climb of around 100 steps. It is also possible to take an elevator up to the temple. (updated Mar 2026)\n13 Framji Dadabhoy Alpaiwalla Museum.  (updated Mar 2026)\n14 Hanging Gardens (Ferozeshah Mehta Gardens), Babulnath, Simla Nagar, Malabar Hill (suburban: Charni Road  Western  1.3 km W). 5AM–9PM. This terraced garden is visited on top of Malabar Hills. The park was laid out in 1881 by Ulhas Ghapokar over Bombay's main reservoir, probably to protect it from the contamination originating from the Parsi Tower of Silence. The park was renovated in 1921. The park is beautifully laid out with flower beds and hedges along with walkways. The park also provides a great sunset over the Arabian Sea. Free. (updated Jun 2023)\n15 Lok Bhavan (लोक भवन Lok Bhavan), Walkeshwar Rd. The official residence of the Governor of Maharashtra, appointed by the President of India, formerly the Raj Bhavan (राज भवन Rāj Bhavan). It was built upon the Bombay Castle, dating back to the 16th century, and was used in the British times as the Government House of the Bombay Presidency. Some parts of the complex are open to the public, including a museum dedicated to Indian freedom fighters located in a former British bunker. There's an official tour that will take you inside the building. (updated Mar 2026)\n16 Tower of Silence, Dungar Wadi Rd, Simla Nagar, Malabar Hill (suburban: Grant Road  Western , 1.2 km west). This is where the Parsis practice their famous burial custom of leaving bodies out in the open to be devoured by vultures. However, as the name hints, the site is within a tower where non-Parsis are not welcome, so there is nothing to be seen. There are several other Parsi (Fire) Temples in Mumbai. These are located at Churchgate, Princess Street, New Queen's Road, Gowalia Tank and Bandra. The Agiary, located at Fort, was built in 1790 and is considered to be the oldest Parsi temple in Mumbai. (updated Jun 2023)\n17 Walkeshwar Temple (Sri Walkeshwar, Baan Ganga Temple), Banganga Cross Ln, Teen Batti, Malabar Hill. This is a temple dedicated to the Hindu god, Shiva. According to legend, Lord Rama came here on his way to Lanka to reclaim his consort Sita, who was kidnapped by the Demon King, Ravana. The temple also has a tank called the Banganga. A quiet place amidst all the bustle. (updated Jun 2023)\n\n\n=== Places of worship ===\n\n18 Afghan Church (अफगान चर्च Aphgān Carc; St. John's Church), Bakery Ln, Navy Nagar, Colaba (take Bus 153 from Churchgate  Western  and get off at  Afghan Church), ☏ +91. Daily dawn-dusk; the verger who lives next to the church will open the door if it is locked. This is an Anglican Church in Colaba, built by the B",
+  "url": "https://en.wikivoyage.org/wiki/Mumbai/South"
+ },
+ "sights": [
+  {
+   "name": "Chabad House Mumbai",
+   "kind": "place_of_worship",
+   "openingHours": "Su-Fr 07:30-20:30",
+   "walkMinutes": 4,
+   "lat": 18.9164991,
+   "lon": 72.8276449
+  },
+  {
+   "name": "Shree Munisuvrat Swami Jain Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 18.9167419,
+   "lon": 72.8281357
+  },
+  {
+   "name": "SHRI HANUMAN",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 18.9167192,
+   "lon": 72.8284225
+  },
+  {
+   "name": "Mahadev Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 18.91909,
+   "lon": 72.8294331
+  },
+  {
+   "name": "Fire Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 18.9209405,
+   "lon": 72.8282584
+  },
+  {
+   "name": "Karani Agairy",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 18.9209713,
+   "lon": 72.8282725
+  },
+  {
+   "name": "Bombay Baptist Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 18.9106631,
+   "lon": 72.8206522
+  },
+  {
+   "name": "Jhulelal Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 18.9172688,
+   "lon": 72.8188512
+  },
+  {
+   "name": "Naval Uprising Memorial",
+   "kind": "monument",
+   "walkMinutes": 15,
+   "lat": 18.9227815,
+   "lon": 72.8289554
+  },
+  {
+   "name": "Wesley Church ( C.N.I )",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 18.9221904,
+   "lon": 72.8309531
+  },
+  {
+   "name": "Shivaji Maharaj Statue",
+   "kind": "artwork",
+   "walkMinutes": 19,
+   "lat": 18.9228448,
+   "lon": 72.8338591
+  },
+  {
+   "name": "Gateway of India",
+   "kind": "monument",
+   "walkMinutes": 19,
+   "lat": 18.9219626,
+   "lon": 72.8345609
+  },
+  {
+   "name": "Bowen Memorial Methodist Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 18.9233407,
+   "lon": 72.8326541
+  },
+  {
+   "name": "Gateway of India",
+   "kind": "monument",
+   "walkMinutes": 19,
+   "lat": 18.9219635,
+   "lon": 72.834564
+  }
+ ],
+ "food": [],
+ "errors": []
+}

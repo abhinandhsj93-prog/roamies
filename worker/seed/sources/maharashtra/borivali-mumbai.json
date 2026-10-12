@@ -1,0 +1,283 @@
+{
+ "query": "Borivali, Mumbai",
+ "found": "Borivali, Kasturba Gandhi Road, Dattapada, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400066, India",
+ "lat": 19.229068,
+ "lon": 72.8573628,
+ "fetchedAt": "2026-10-12T18:50:34.782Z",
+ "locality": {
+  "id": "borivali-east-mumbai-suburban-district-maharashtra",
+  "name": "Borivali East",
+  "area": "Mumbai Suburban District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Borivali": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Skyscrapers_of_Mumbai_viewed_from_%27National_Park%2C_Borivili.jpg/1280px-Skyscrapers_of_Mumbai_viewed_from_%27National_Park%2C_Borivili.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Borivali",
+   "credit": "Photo: Rudolph.A.furtado, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Mumbai_viewed_from_%27National_Park,_Borivili.jpg"
+  },
+  "Saint Francis D'Assisi High School": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sfhs1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Saint Francis D'Assisi High School",
+   "credit": "Photo: Wiki amn, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sfhs1.jpg"
+  },
+  "Mandapeshwar Caves": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Mandapeshwar_Caves_Panorama_view.jpg/1280px-Mandapeshwar_Caves_Panorama_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mandapeshwar Caves",
+   "credit": "Photo: Jawahar Soneji, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandapeshwar_Caves_Panorama_view.jpg"
+  },
+  "Our Lady of Immaculate Conception Church, Borivali": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ic_church_altar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Our Lady of Immaculate Conception Church, Borivali",
+   "credit": "Photo: GAGA / AlmiteyG at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ic_church_altar.jpg"
+  },
+  "Magathane Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/154-Magathane.svg/1280px-154-Magathane.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Magathane Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:154-Magathane.svg"
+  },
+  "St. Francis Institute of Technology": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/St._Francis_Institute_of_Technology.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "St. Francis Institute of Technology",
+   "credit": "Photo: Jahviraa9, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Francis_Institute_of_Technology.png"
+  },
+  "Sheth Gopalji Hemraj High School": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Sheth_Gopalji_Hemraj_High_School_at_Borivali%2C_Mumbai.jpg/1280px-Sheth_Gopalji_Hemraj_High_School_at_Borivali%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sheth Gopalji Hemraj High School",
+   "credit": "Photo: Mumbaipsytrance, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheth_Gopalji_Hemraj_High_School_at_Borivali,_Mumbai.jpg"
+  },
+  "Borivali railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Borivali_Station_entrance_-_east.jpg/1280px-Borivali_Station_entrance_-_east.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Borivali railway station",
+   "credit": "Photo: Superfast1111, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borivali_Station_entrance_-_east.jpg"
+  },
+  "Devipada metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Devipada_metro_station_entrance_A.jpg/1280px-Devipada_metro_station_entrance_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Devipada metro station",
+   "credit": "Photo: Rupturestriker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Devipada_metro_station_entrance_A.jpg"
+  },
+  "Borivali West metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Borivali_%28west%29_metro_station.jpg/1280px-Borivali_%28west%29_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Borivali West metro station",
+   "credit": "Photo: Rupturestriker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borivali_(west)_metro_station.jpg"
+  },
+  "Magathane metro station": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Magathane_metro_station_%28Jan_%2723%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Magathane metro station",
+   "credit": "Photo: Raghav Sethupathy (brother), CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magathane_metro_station_(Jan_%2723).jpg"
+  },
+  "Rashtriya Udyan metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Rashtriya_Udyan_metro_station_%28Jan_%2723%29.jpg/1280px-Rashtriya_Udyan_metro_station_%28Jan_%2723%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Rashtriya Udyan metro station",
+   "credit": "Photo: Raghav Sethupathy (brother), CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rashtriya_Udyan_metro_station_(Jan_%2723).jpg"
+  },
+  "Ovaripada metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ovaripada_metro_station.jpg/1280px-Ovaripada_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ovaripada metro station",
+   "credit": "Photo: Rupturestriker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ovaripada_metro_station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Borivali",
+   "text": "Borivali (Pronunciation: [boːɾiʋəliː]) is a suburb located in northwestern Mumbai, India. Traditionally, tribals and East Indians lived in Borivali.\nAttractions include the Sanjay Gandhi National Park, Fish Park, Kanheri Caves, Mandapeshwar Caves, Water Kingdom, the Rushivan and Hanuman Tekdi, with views of the suburbs.\nBorivali railway station is an originating and terminating Railway Station for Mumbai local trains towards Churchgate in the South & Virar in the North. Also some express trains halt at this rail station which provides ease for people travelling long distances.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Borivali"
+  },
+  {
+   "title": "Saint Francis D'Assisi High School",
+   "text": "Saint Francis D'Assisi High School is a school for boys located in IC Colony, Borivali West, Mumbai, India.",
+   "url": "https://en.wikipedia.org/wiki/Saint_Francis_D%27Assisi_High_School"
+  },
+  {
+   "title": "Mandapeshwar Caves",
+   "text": "The Mandapeshwar Caves (Marathi: मंडपेश्वर गुहा) is an 8th-century rock-cut shrine dedicated to Hindu deity Shiva located near Mount Poinsur in Borivali, a suburb of Mumbai in Maharashtra, India. The caves were originally Buddhist viharas.\nThese 6th-century caves are located in a corner of Borivali, an otherwise northern suburb of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Mandapeshwar_Caves"
+  },
+  {
+   "title": "Our Lady of Immaculate Conception Church, Borivali",
+   "text": "Our Lady of the Immaculate Conception Church, Borivali (West) has been a Roman Catholic Parish from 1547 to 1739 and again from 1912 onwards. It is situated in I.C. Colony or Immaculate Conception Colony, which is a large colony in the suburbs of Borivali, in the North Western face of Mumbai, Maharashtra, India.\nReportedly, Fr. Antonio Do Porto and his companion Fr. Antonio Do Casol built the church in 1544, and started worship services in 1547. The recent clergy included Fr Gerald Fernandes (PP), Fr Joseph David, Fr Victor Noronha and Fr Sean Sequeira.",
+   "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Immaculate_Conception_Church,_Borivali"
+  },
+  {
+   "title": "Devipada",
+   "text": "Devipada is a densely populated area in East Borivali, Mumbai, Maharashtra, India. Devipada includes Devipada SRA CHS (known as Titananic bld), Sadguru Nagar, Vitthal Nagar, Millennium Tower, Gulmohar and Sahyadri. It is centered around the Devipada metro station.\nMost residents are Marathi, with a number of Gujaratis and North Indians. Shree Gajanan Maharaj Mandir Bhakt Mandal is very famous & popular not only in Devipada but also in borivali. This area is politically very important for the politicians. about 40% of earlier devipada is undergone for construction of buildings till 20-04-2011, still work is in progress.",
+   "url": "https://en.wikipedia.org/wiki/Devipada"
+  },
+  {
+   "title": "Magathane Assembly constituency",
+   "text": "Magathane Assembly constituency is one of the 288 Vidhan Sabha (Legislative Assembly) constituencies of Maharashtra state in western India.",
+   "url": "https://en.wikipedia.org/wiki/Magathane_Assembly_constituency"
+  },
+  {
+   "title": "St. Francis Institute of Technology",
+   "text": "St. Francis Institute of Technology (SFIT) in Mumbai, India, is an engineering college named after Francis of Assisi, the 12th-century Italian saint. The college is accredited by the ISO and the National Board of Accreditation, approved by the AICTE, and affiliated with the University of Mumbai.\nThe college is managed by the Society of Franciscan Brothers, with special consideration given to Roman Catholic students. It offers undergraduate, post-graduate, and doctoral courses in engineering.  It is the first Catholic Technical Institute in India to acquire 'minority status.'",
+   "url": "https://en.wikipedia.org/wiki/St._Francis_Institute_of_Technology"
+  },
+  {
+   "title": "Sheth Gopalji Hemraj High School",
+   "text": "Sheth Gopalji Hemraj High School  is located in Borivali (East), Mumbai, India. It was established in 1933 and managed by Borivali Education Societies. The high school offers teaching in three languages - Gujarati, English and Marathi.\nThis is one of the oldest schools in Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Sheth_Gopalji_Hemraj_High_School"
+  },
+  {
+   "title": "Borivali railway station",
+   "text": "Borivali (station code: BO (suburban)/BVI (mainline)) is a railway station on the Western line of the Mumbai Suburban Railway network and an outbound station. It serves the suburban area of Borivali.\nThe Borivali Railway Station is a terminus for all slow, semi-fast, and fast trains on the Mumbai Suburban Railway system. It also serves as the final city-limit stop for all mail and express trains on the Western Railway before leaving Mumbai. As of October 2022, the plans to extend the Harbour Line to Borivali are in full steam, with the survey for land acquisition being completed.\nBorivali is used by almost 2.87 lakh (287,000) passengers every day and is the busiest station on the western suburban line of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Borivali_railway_station"
+  },
+  {
+   "title": "Babai, Rajasthan",
+   "text": "Babai is a town in the Jhunjhunu district of the state of Rajasthan, India. It is located in the foothills of the Arawali mountain range at 420 meters above sea level. It has a fort with a moat surrounding it,\nThe town has a population of 2237. The population speaks Hindi and Rajasthani and haryanvi.",
+   "url": "https://en.wikipedia.org/wiki/Babai,_Rajasthan"
+  },
+  {
+   "title": "Devipada metro station",
+   "text": "Devi Pada is an elevated metro station on the North-South corridor of the Red Line 7 of Mumbai Metro in Mumbai, India. This metro station was inaugurated on 2 April 2022 by Prime Minister Narendra Modi.",
+   "url": "https://en.wikipedia.org/wiki/Devipada_metro_station"
+  },
+  {
+   "title": "Borivali West metro station",
+   "text": "Borivali (West) is an elevated metro station on the North-South corridor of the Yellow Line 2A of Mumbai Metro in Mumbai, India. This station is located in Borivali, Mumbai. This station is owned by the Mumbai Metropolitan Region Development Authority (MMRDA), and was inaugurated on 2 April 2022.",
+   "url": "https://en.wikipedia.org/wiki/Borivali_West_metro_station"
+  },
+  {
+   "title": "Magathane metro station",
+   "text": "Magathane is an elevated metro station on the North-South corridor of the Red Line 7 of Mumbai Metro in Mumbai, India. This metro station was inaugurated on 2 April 2022 by Prime Minister Narendra Modi.",
+   "url": "https://en.wikipedia.org/wiki/Magathane_metro_station"
+  },
+  {
+   "title": "Rashtriya Udyan metro station",
+   "text": "Rashtriya Udyan is an elevated metro station on the north–south corridor of the Red Line 7 of Mumbai Metro in Mumbai, India. This metro station was inaugurated on 2 April 2022 by Prime Minister Narendra Modi.",
+   "url": "https://en.wikipedia.org/wiki/Rashtriya_Udyan_metro_station"
+  },
+  {
+   "title": "Ovaripada metro station",
+   "text": "Ovaripada is the elevated northern terminal metro station on the North-South corridor of the Red Line 7 of Mumbai Metro. This station is located in an elevated position on Western Express Highway in North Mumbai. This metro station was inaugurated on 2 April 2022 by Prime Minister Narendra Modi.",
+   "url": "https://en.wikipedia.org/wiki/Ovaripada_metro_station"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Borivali railway station",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 19.229427,
+   "lon": 72.856994
+  },
+  {
+   "name": "Borivali",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 19.23,
+   "lon": 72.86
+  },
+  {
+   "name": "Sheth Gopalji Hemraj High School",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 19.23236111111111,
+   "lon": 72.85972222222222
+  },
+  {
+   "name": "Devipada",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 19.224999999999998,
+   "lon": 72.86416666666666
+  },
+  {
+   "name": "Rashtriya Udyan metro station",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 19.23466,
+   "lon": 72.86313
+  },
+  {
+   "name": "Devipada metro station",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 19.22425,
+   "lon": 72.86422
+  },
+  {
+   "name": "Babai, Rajasthan",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 19.226525,
+   "lon": 72.84637777777778
+  },
+  {
+   "name": "Magathane Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19.22041388888889,
+   "lon": 72.86672499999999
+  },
+  {
+   "name": "St. Francis Institute of Technology",
+   "kind": "landmark",
+   "walkMinutes": 26,
+   "lat": 19.2436,
+   "lon": 72.8559
+  },
+  {
+   "name": "Magathane metro station",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 19.21717,
+   "lon": 72.8667
+  },
+  {
+   "name": "Saint Francis D'Assisi High School",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 19.244136,
+   "lon": 72.853126
+  },
+  {
+   "name": "Borivali West metro station",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 19.2313925,
+   "lon": 72.8408607
+  },
+  {
+   "name": "Ovaripada metro station",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 19.24346,
+   "lon": 72.8642
+  },
+  {
+   "name": "Our Lady of Immaculate Conception Church, Borivali",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 19.244444444444447,
+   "lon": 72.85305555555556
+  },
+  {
+   "name": "Mandapeshwar Caves",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 19.2451,
+   "lon": 72.8537
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "query": "Bhimashankar",
+ "found": "Bhimashankar, Khed, Pune, Maharashtra, India",
+ "lat": 19.0719955,
+ "lon": 73.5357641,
+ "fetchedAt": "2026-10-12T18:57:43.208Z",
+ "locality": {
+  "id": "bhimashankar-pune-district-maharashtra",
+  "name": "Bhimashankar",
+  "area": "Khed, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Bhimashankar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bhimashankar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Bhimashankar Temple",
+   "credit": "Photo: SaurabhJain at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhimashankar.jpg"
+  },
+  "Bhimashankar Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bhimashankar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Bhimashankar Temple",
+   "credit": "Photo: SaurabhJain at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhimashankar.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Bhimashankar Temple",
+   "text": "Bhimashankar Temple is a Hindu temple dedicated to Shiva situated in its eponymous village, Bhimashankar, in Pune district of Maharashtra. It is a key pilgrimage centre and contains one of the 12 Jyotirlingas. The temple's Shiva lingam is one of the three Jyotirlingas of Maharashtra. The mandir is situated on a mountain, 110 kilometers away from Pune. The temple's vicinity has rare plant and animal species. The mandir is located in Khed taluka, in the Bhimashankar forest range.\nDating back to the 13th century this temple is carved in black stone, the sabhamandap (central hall) and the shikhara (dome) were improved upon in the 18th century by Nana Phadnavis.\nThe Bhima River originates from the Bhimashankar village, and the hills of the Manmad village are present near it, there are old rock carvings of the God Bhimashankar, Bhootings and Amba-Ambika on these hills.\n\n\n== History ==\nAccording to Namdev, a saint in the medieval era, Saint Jnaneshwar went to Tryambakeshwar and then Bhimashankar. Namdev himself has also visited this place.\nBhimashankaram shrine and the Bhimarathi river have been talked about in writings as far back as the 13th century; however, the current construction of the...",
+   "url": "https://en.wikipedia.org/wiki/Bhimashankar_Temple"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bhimashankar",
+  "text": "Bhimashankar (Marathi: भीमाशंकर Bhīmāśaṅkar) is a temple town that is about 100 km from Pune and 223 km from Mumbai in Western Maharashtra. It is considered to be one of the holiest places in India and is also a popular trekking destination.\n\n\n== See ==\n1 Bhimshankar Wildlife Sanctuary. It was declared a wildlife sanctuary in 1974 and situated at an altitude of 2100 feet to 3800 feet, spread over three districts of Pune, Raigad and Thane. Bhimashankar wildlife’s vegetation comprises semi-evergreen forests as well as western tropical hill forests. Two major Tributaries of Krishna River named Bhim and Ghod, originate from this area. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\nThose doing the trek to Bhimashankar in the non-monsoon seasons are advised to carry three liters of water as there is a high risk of dehydration due to long stretches of trek being done while being exposed to the sun.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bhimashankar"
+ },
+ "sights": [
+  {
+   "name": "Bhimashankar Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 19.072014,
+   "lon": 73.536039
+  },
+  {
+   "name": "Rokda Hanuman Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 19.0644705,
+   "lon": 73.5333781
+  },
+  {
+   "name": "Hanuman Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 19.0636691,
+   "lon": 73.5332962
+  },
+  {
+   "name": "Nagphani",
+   "kind": "viewpoint",
+   "walkMinutes": 18,
+   "lat": 19.0628581,
+   "lon": 73.5311139
+  }
+ ],
+ "food": [],
+ "errors": []
+}
