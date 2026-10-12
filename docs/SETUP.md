@@ -1,6 +1,18 @@
 # Setup
 
-The app uses native modules (Firebase, Google sign-in), so it runs in a **development build**, not Expo Go.
+## Quick preview (no Firebase needed)
+
+The screens run without Firebase, so you can try the UI right away. Sign-in is just switched off there.
+
+```bash
+npm install
+npx expo start --go     # scan the QR code with the Expo Go app on your Android phone
+npx expo start --web    # or open it in a browser
+```
+
+## Full app
+
+Sign-in uses native modules (Firebase, Google sign-in), so the full app runs in a **development build**, not Expo Go.
 
 ## 1. Create the Firebase project
 

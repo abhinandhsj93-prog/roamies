@@ -1,11 +1,11 @@
-import { router } from 'expo-router';
+import { Redirect, router } from 'expo-router';
 import { useState } from 'react';
 import { ActivityIndicator, Alert, Pressable, StyleSheet, Text, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import Svg, { Circle, Defs, G, LinearGradient, Path, Rect, Stop } from 'react-native-svg';
 
 import { PersonaAvatar, PersonaId } from '@/components/PersonaAvatar';
-import { useAuth } from '@/lib/auth';
+import { signInAvailable, useAuth } from '@/lib/auth';
 import { cardShadow, colors, fonts, fontSizes, radii, sideMargin } from '@/theme/tokens';
 
 // Welcome screen, from design/canvas/Main.dc.html (artboard 412 wide).
@@ -28,10 +28,14 @@ const greetings: {
 
 export default function Welcome() {
   const insets = useSafeAreaInsets();
-  const { signInWithGoogle } = useAuth();
+  const { user, signInWithGoogle } = useAuth();
   const [signingIn, setSigningIn] = useState(false);
 
   async function onGoogle() {
+    if (!signInAvailable) {
+      Alert.alert('Sign-in comes with the full app build', 'In this preview you can look around as a guest.');
+      return;
+    }
     setSigningIn(true);
     try {
       if (await signInWithGoogle()) router.replace('/here');
@@ -41,6 +45,8 @@ export default function Welcome() {
       setSigningIn(false);
     }
   }
+
+  if (user) return <Redirect href="/here" />;
 
   return (
     <View style={styles.screen}>
