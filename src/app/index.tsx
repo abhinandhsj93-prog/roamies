@@ -1,6 +1,6 @@
 import { Redirect, router } from 'expo-router';
 import { useState } from 'react';
-import { ActivityIndicator, Alert, Pressable, StyleSheet, Text, View } from 'react-native';
+import { ActivityIndicator, Alert, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import Svg, { Circle, Defs, G, LinearGradient, Path, Rect, Stop } from 'react-native-svg';
 
@@ -33,7 +33,9 @@ export default function Welcome() {
 
   async function onGoogle() {
     if (!signInAvailable) {
-      Alert.alert('Sign-in comes with the full app build', 'In this preview you can look around as a guest.');
+      // Web has no native alerts, so the browser preview just continues as a guest.
+      if (Platform.OS === 'web') router.replace('/here');
+      else Alert.alert('Sign-in comes with the full app build', 'In this preview you can look around as a guest.');
       return;
     }
     setSigningIn(true);
@@ -49,7 +51,7 @@ export default function Welcome() {
   if (user) return <Redirect href="/here" />;
 
   return (
-    <View style={styles.screen}>
+    <ScrollView style={styles.screen} contentContainerStyle={{ flexGrow: 1 }} showsVerticalScrollIndicator={false}>
       <View style={[styles.hero, { paddingTop: insets.top }]}>
         <Svg style={StyleSheet.absoluteFill} viewBox={`0 0 412 ${HERO_HEIGHT}`} preserveAspectRatio="none" accessible={false}>
           <Defs>
@@ -138,7 +140,7 @@ export default function Welcome() {
           <Text style={styles.privacy}>We only use your name and email. Location is used only while the app is open.</Text>
         </View>
       </View>
-    </View>
+    </ScrollView>
   );
 }
 

@@ -64,14 +64,14 @@ export default function Hungry() {
           ))}
         </ScrollView>
 
-        <View style={{ gap: 16 }}>
+        <ScrollView style={{ flexShrink: 1 }} contentContainerStyle={{ gap: 16, paddingBottom: 4 }}>
           {food.map((f) => (
             <FoodCard key={f.id} food={f} />
           ))}
           {food.length === 0 && (
             <Text style={styles.empty}>Nothing nearby matches all of those. Try fewer filters.</Text>
           )}
-        </View>
+        </ScrollView>
       </View>
     </View>
   );
@@ -97,6 +97,7 @@ const styles = StyleSheet.create({
   backdrop: { flex: 1, backgroundColor: 'rgba(18,48,44,0.55)', justifyContent: 'flex-end' },
   dismissArea: { flex: 1 },
   sheet: {
+    maxHeight: '92%',
     backgroundColor: colors.cream,
     borderTopLeftRadius: 28,
     borderTopRightRadius: 28,
