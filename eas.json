@@ -1,15 +1,22 @@
 {
   "cli": { "version": ">= 16.0.0", "appVersionSource": "remote" },
   "build": {
+    "base": {
+      "env": {
+        "EXPO_PUBLIC_GOOGLE_WEB_CLIENT_ID": "86643263890-3gisduhsnnv3gr10874ab84softo1hoj.apps.googleusercontent.com"
+      }
+    },
     "development": {
+      "extends": "base",
       "developmentClient": true,
       "distribution": "internal",
       "android": { "buildType": "apk" }
     },
     "preview": {
+      "extends": "base",
       "distribution": "internal",
       "android": { "buildType": "apk" }
     },
-    "production": { "autoIncrement": true }
+    "production": { "extends": "base", "autoIncrement": true }
   }
 }

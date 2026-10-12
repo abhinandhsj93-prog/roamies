@@ -26,7 +26,7 @@ Sign-in uses native modules (Firebase, Google sign-in), so the full app runs in 
 
 ```bash
 cp .env.example .env
-# paste the Web client ID into EXPO_PUBLIC_GOOGLE_WEB_CLIENT_ID
+# .env.example already has the Web client ID (it is public; EAS builds get it from eas.json)
 npm install
 ```
 
