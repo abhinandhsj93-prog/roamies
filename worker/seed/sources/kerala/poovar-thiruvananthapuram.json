@@ -1,0 +1,39 @@
+{
+ "query": "Poovar, Thiruvananthapuram",
+ "found": "Poovar, Neyyattinkara, Thiruvananthapuram, Kerala, 695525, India",
+ "lat": 8.3187448,
+ "lon": 77.0706518,
+ "fetchedAt": "2026-10-12T17:37:43.655Z",
+ "locality": {
+  "id": "poovar-thiruvananthapuram-kerala",
+  "name": "Poovar",
+  "area": "Neyyattinkara, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Poovar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Poovar_Kerala.jpg/1280px-Poovar_Kerala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Poovar",
+   "credit": "Photo: Midhun Subhash, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poovar_Kerala.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Poovar",
+   "text": "Poovar is a tourist town in Neyyattinkara (tehsil) in the Thiruvananthapuram district of Kerala state, South India. This village is almost at the southern tip of Thiruvananthapuram while the next village, Pozhiyoor, marks the end of Kerala.\n\n\n== Geography ==\nPoovar lies very close to Vizhinjam, a natural harbour. The beach of Pozhiyoor, named Pozhikkara is located near Poovar. The 56 km Neyyar River passes through Neyyattinkara Taluk into the Arabian Sea near Poovar.\n\n\n== History ==\nPoovar was a trading centre of timber, sandalwood, ivory and spices. It is believed that ships owned by King Solomon of Israel landed in Ophir, which is identified by some sources as Poovar,\nThe village was one of the ancient Muslim settlements along the western coast of India. The central mosque in Poovar was built by Malik Deenar, an eighth century Muslim preacher. During the reign of the Chola dynasty, Poovar was a major port. The explorer Megasthenes, Roman writer Pliny the Elder and Venetian traveller Marco Polo mention connections with Greece and Rome.\nThe origin of the name \"Poovar\" has a story related to Marthanda Varma. Before that it was called Pokkumoosapuram. \nThere were a merchant named Pokku Moosa...",
+   "url": "https://en.wikipedia.org/wiki/Poovar"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Poovar",
+  "text": "Poovar (also spelled Pūvār) is a small coastal village at the southernmost tip of Thiruvananthapuram district in Southern Travancore in Kerala, South India. Its name is derived from the Malayalam words poo (flower) and ar (river) which translates as \"River of Flowers,\" a name bestowed by Marthanda Varma, the 18th-century king of Travancore, in recognition of the fragrant flowers that once floated down the Neyyar River to reach the sea here.\nWhat makes Poovar genuinely singular is a rare geographical convergence: the Neyyar River, a freshwater lake, the backwater canals, and the Arabian Sea all meet within a few hundred metres of each other. The result is a landscape that shifts dramatically within minutes of travel  from the stillness of mangrove-shaded canals to the wide open salt air of a near-deserted golden beach. Because the beach is accessible only by boat, it remains one of the least crowded in Kerala.\nPoovar was historically a trading hub for sandalwood, ivory, and spices. Today it is a quiet destination drawing travellers who want backwater immersion without the commercial bustle of Alleppey or Kumarakom.\n\n\n== See ==\nPoovar Estuary (Neyyar Estuary) - The focal point of any visit. The point where the Neyyar River opens into the sea creates a constantly shifting landscape of sandbars, tidal pools, and mangrove margins. Most impressive at dawn and dusk.\nGolden Sand Beach - Reached by boat and local road to estuary (pozhikkara), this wide, shell-flecked beach is one of the least crowded in Kerala. The sand takes on a warm gold tone in the afternoon light, and the convergence of backwater and sea creates gentle, safe swimming conditions on most days.\nMangrove forests - The channels flanking Poovar Island are lined with dense mangroves. Boat rides through these corridors at low speed are among the best birding opportunities in the Thiruvananthapuram district.\nAazhimala Shiva Temple - About 8 km north of Poovar near Vizhinjam, this coastal temple features a large sculpture of Lord Shiva and is considered particularly sacred. Non-Hindus may visit the grounds; dress modestly.\nVizhinjam Harbour and Lighthouse - A working fishing harbour 10 km north, worth visiting for the activity on the water and the views from the lighthouse area. The international deep-water container terminal under development here is changing the character of the harbour.\n\n\n== Do ==\nBackwater boat cruise - The signature activity. A standard circuit covers the estuary, the mangrove canals, and a stop at Golden Sand Beach. Duration: 1.5–3 hours. Arrange directly at the jetty or book in advance through platforms such as Poovar boating by Cruoo.\nBirdwatching - The Neyyar backwaters and mangroves support kingfishers, Brahminy kites, night herons, sea egrets, black darters, and Indian cormorants. Early morning boat trips give the best sightings.\nAyurvedic treatments - Several resorts and standalone centres offer traditional Kerala Ayurveda therapies. These range from an hour-long Abhyanga massage to week-long Panchakarma programmes. Reputable centres will have certified practitioners; ask to see credentials.\nSunrise and sunset watching - The beach and estuary offer unobstructed western and eastern horizons. Both are worth setting the alarm for.\nFishing with locals - Some homestays and local fishermen welcome visitors to join early-morning net fishing. Ask your accommodation host to arrange this.\n\n\n== Eat ==\nLocal restaurants and resort dining rooms are the main options. Seafood is the strongest suit.\n\nKarimeen pollichathu (pearl spot fish baked in banana leaf with spiced coconut paste) is the regional speciality and available in most restaurants.\nFish curry with rice (the standard Kerala meal) is inexpensive and consistently good at local eateries.\nAppam with stew - a rice-flour lace pancake served with a mild coconut milk–based vegetable or meat stew makes a good breakfast.\nMost resorts serve set meals; budget travellers will find better value at small restaurants near the jetty and village centre.\nVegetarian options are available everywhere, though menus lean heavily seafood.\n\n\n== Drink ==\nCoconut water, served straight from the nut by roadside sellers, is the best refreshment in the heat. Most restaurants serve fresh lime juice and standard Indian soft drinks. Alcohol is available at resort bars and licensed restaurants; the village itself has limited options.\nTap water is not potable. Drink bottled or filtered water.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Poovar"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

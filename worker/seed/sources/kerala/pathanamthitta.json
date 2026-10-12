@@ -1,0 +1,32 @@
+{
+ "query": "Pathanamthitta",
+ "found": "Pathanamthitta, Kerala, India",
+ "lat": 9.2780841,
+ "lon": 76.9737443,
+ "fetchedAt": "2026-10-12T17:41:19.438Z",
+ "locality": {
+  "id": "vayyattupuzha-pathanamthitta-kerala",
+  "name": "Vayyattupuzha",
+  "area": "Konni, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [
+  {
+   "title": "Vayyattupuzha",
+   "text": "Vayyattupuzha is a village situated near to Chittar in Pathanamthitta district, Kerala. It is predominantly a rural hilly area but is very famous for spice trade.\n\n\n== See also ==\nNilakkal\nUthimoodu\nChittar\nSeethathodu\nAngamoozhy\nPathanamthitta\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Vayyattupuzha"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Konni",
+  "text": "Konni is a hill town in Central Travancore in India.\n\n\n== See ==\n Chittoor JN.  \n Eliyarakkal.  \n Kummannoor.  \n Vakayar. Vellavoor is there famous family \n Kallelli.  \n Achen Kovil River.  \n Konni Elephant Cage. Konni is the gateway to the forest bordering the district. In the past, wild elephants caught from the forests were brought here and put in wooden cages known as Anakoodu to be tamed and trained for work. It is situated 11 km away from Pathanamthitta. \n\n\n== Do ==\n Trekking. Lot of forest area. \n\n\n== Eat ==\n\n\n== Drink ==\n Surya (Opposite Konni Bus Stand). One of the cheap and normal bars. Not bad. \n\"Kutty's\" A 3 star facility located across Konni Jn. for refreshment and relaxation with reasonably good standard.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Konni"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

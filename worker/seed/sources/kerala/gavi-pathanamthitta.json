@@ -1,0 +1,68 @@
+{
+ "query": "Gavi, Pathanamthitta",
+ "found": "Gavi, Konni, Pathanamthitta, Kerala, India",
+ "lat": 9.4357292,
+ "lon": 77.1594717,
+ "fetchedAt": "2026-10-12T17:41:59.698Z",
+ "locality": {
+  "id": "gavi-pathanamthitta-kerala",
+  "name": "Gavi",
+  "area": "Konni, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Gavi, Kerala": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Gavi_Eco_tourism_center_kochupamba.jpg/1280px-Gavi_Eco_tourism_center_kochupamba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gavi, Kerala",
+   "credit": "Photo: Prasanth C7, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gavi_Eco_tourism_center_kochupamba.jpg"
+  },
+  "Gavi Dam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gavi_Dam.jpg/1280px-Gavi_Dam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gavi Dam",
+   "credit": "Photo: Akhilan, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gavi_Dam.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Gavi",
+   "text": "Gavi or GAVI may refer to: \n\nGAVI (originally Global Alliance for Vaccines and Immunization), an international partnership that promotes vaccination\n\n\n== Places ==\nGavi (island), a small Italian island in the Mediterranean Sea\nGavi, Bushehr, a village in Bushehr province, Iran\nGavi, Kerala, a village in Pathanamthitta, in Kerala state, India\nGavi, Piedmont, a municipality in the province of Alessandria in the northwestern Italian region Piedmont\nGavi, Sistan and Baluchestan, a village in Sistan and Baluchestan province, Iran\nGavi-ye Sofla, a village in South Khorasan province, Iran\n\n\n== People ==\nGavi (footballer) (Pablo Martín Páez Gavira; born 2004), Spanish association footballer\n\n\n== Other ==\nCortese di Gavi, a wine appellation, produced in the area of the Piemontese town above, often called simply Gavi\nGavi Gangadhareshwara Temple, an Indian rock-cut architecture in Bangalore\nGavi Dam in Pathanamthitta district of Kerala, India",
+   "url": "https://en.wikipedia.org/wiki/Gavi"
+  },
+  {
+   "title": "Gavi, Kerala",
+   "text": "Gavi (Malayalam: [ɡɐʋi, ɡeʋi]) is a village in Pathanamthitta district in Thiruvalla, Kerala, India.The nearest railway station is Thiruvalla (120 km). It is located 28 km southwest of Vandiperiyar, a town in Idukki on N.H 220, the highway connecting Kollam and Madurai. Until 2012, Gavi was not known to many people and it became a major tourist destination after the release of Malayalam movie Ordinary, which was mainly shot at Gavi.",
+   "url": "https://en.wikipedia.org/wiki/Gavi,_Kerala"
+  },
+  {
+   "title": "Gavi Dam",
+   "text": "Gavi Dam or Gaviar Dam (Malayalam: ഗവിയാർ അണക്കെട്ട്) is a small, gravity dam constructed as a part of Sabarigiri hydro electric project on Gaviyar, which is a tributary of Pamba river at Seethathode village in Pathanamthitta district of Kerala, India. Taluks through which release flow are Ranni, Konni, Kozhencherry, Thiruvalla, Chengannur, Kuttanadu, Mavelikara and  Karthikappally.\n\nSabarigiri Hydro Electric Project (340 MW) is the second largest hydro electric project of Kerala and is located in Pathanamthitta District. This dam was constructed as a part of Sabarigiri Augmentation scheme. The reservoir is common to Gavi & Kullar dams. Water from this reservoir is diverted to Meenar–I reservoir through a tunnel.\nThis masonry - gravity dam has a height of 17.07 meters and is 113 meters long, and is classified under Medium height type dams. The dam construction was completed in 1990.  The dams of Moozhiyar, Kakki, Anathode, Gavi and Kochu Pamba are part of the Sabarigiri hydro-electric project.",
+   "url": "https://en.wikipedia.org/wiki/Gavi_Dam"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Konni",
+  "text": "Konni is a hill town in Central Travancore in India.\n\n\n== See ==\n Chittoor JN.  \n Eliyarakkal.  \n Kummannoor.  \n Vakayar. Vellavoor is there famous family \n Kallelli.  \n Achen Kovil River.  \n Konni Elephant Cage. Konni is the gateway to the forest bordering the district. In the past, wild elephants caught from the forests were brought here and put in wooden cages known as Anakoodu to be tamed and trained for work. It is situated 11 km away from Pathanamthitta. \n\n\n== Do ==\n Trekking. Lot of forest area. \n\n\n== Eat ==\n\n\n== Drink ==\n Surya (Opposite Konni Bus Stand). One of the cheap and normal bars. Not bad. \n\"Kutty's\" A 3 star facility located across Konni Jn. for refreshment and relaxation with reasonably good standard.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Konni"
+ },
+ "sights": [
+  {
+   "name": "Gavi, Kerala",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 9.440477777777778,
+   "lon": 77.16034722222223
+  },
+  {
+   "name": "Gavi Dam",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 9.4412,
+   "lon": 77.16
+  }
+ ],
+ "food": [],
+ "errors": []
+}

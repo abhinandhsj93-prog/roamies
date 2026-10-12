@@ -1,0 +1,103 @@
+{
+ "query": "Sasthamcotta, Kollam",
+ "found": "Sasthamcotta, Sasthamkotta, Kunnathur, Kollam, Kerala, India",
+ "lat": 9.0506075,
+ "lon": 76.6277467,
+ "fetchedAt": "2026-10-12T17:40:18.817Z",
+ "locality": {
+  "id": "cinemaparambu-kollam-kerala",
+  "name": "Cinemaparambu",
+  "area": "Sasthamkotta, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Sasthamcotta Lake": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Sasthamcotta_Lake_By_ArunElectra.jpg/1280px-Sasthamcotta_Lake_By_ArunElectra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sasthamcotta Lake",
+   "credit": "Photo: Arunelectra, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sasthamcotta_Lake_By_ArunElectra.jpg"
+  },
+  "Sasthamkotta": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Sasthamcotta_Lake_By_ArunElectra.jpg/1280px-Sasthamcotta_Lake_By_ArunElectra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sasthamkotta",
+   "credit": "Photo: Arunelectra, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sasthamcotta_Lake_By_ArunElectra.jpg"
+  },
+  "Sasthamcotta Sree Dharma Sastha Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Tmp1.jpg/1280px-Tmp1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sasthamcotta Sree Dharma Sastha Temple",
+   "credit": "Photo: Sasthamcotta, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tmp1.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Sasthamcotta Lake",
+   "text": "Sasthamcotta Lake or Sasthamkotta Lake, also categorized as a wetland, is the largest fresh water lake in Kerala, a state of India on the south of the West Coast. The lake is named after the ancient Sastha temple (a pilgrimage centre) located on its bank. It meets the drinking water needs of half million people of the Quilon district and also provides fishing resources. The purity of the lake water for drinking use is attributed to the presence of large population of larva called cavaborus that consumes bacteria in the lake water. The lake is a designated wetland of international importance under the Ramsar Convention since November 2002.",
+   "url": "https://en.wikipedia.org/wiki/Sasthamcotta_Lake"
+  },
+  {
+   "title": "Poruvazhy",
+   "text": "Poruvazhy  is a village in Kollam district in the state of Kerala, India. The Poruvazhy Peruviruthy Malanada Temple is in the village.",
+   "url": "https://en.wikipedia.org/wiki/Poruvazhy"
+  },
+  {
+   "title": "Sasthamkotta",
+   "text": "Sasthamkotta or Sasthamcotta is a village in the Kunnathur Taluk of Kollam district in the state of Kerala, India. Kunnathur taluk headquarters is located at Sasthamkotta.",
+   "url": "https://en.wikipedia.org/wiki/Sasthamkotta"
+  },
+  {
+   "title": "Brook International School, Sasthamcotta",
+   "text": "Brook International School (BIS) Sasthamkotta is an English medium school, affiliated to CBSE, New Delhi, with affiliation Number 930717. It is located on 5.7 acres (23,000 m2) of land on the bank of Lake Sasthamkotta in Kerala, India. Its faculty consists of 60 teachers, who teach 1225 students. The school is affiliated with the Central Board of Secondary Education, New Delhi in 2007, and owned and managed by the Viva Trust.\nThe school was founded by Fr. Dr. G. Abraham Thalothil on June 2, 2005.\nBrook International School started with kindergarten to classes VI in the 2005–06 academic year, now the school offers all primary and secondary grades up to 12th. The school has room for over 60 class divisions and is equipped with science labs, library, and a computer lab.\nThe  school grounds offer an area for children to play football.",
+   "url": "https://en.wikipedia.org/wiki/Brook_International_School,_Sasthamcotta"
+  },
+  {
+   "title": "Sasthamcotta Sree Dharma Sastha Temple",
+   "text": "Shri Dharma Sastha temple is a Hindu temple located at the village Sasthamkotta, Kerala, India. It is surrounded on three sides by the largest fresh water lake of Kerala, Sasthamkotta lake.\nThe temple is well known for the population of monkeys that inhabit the premises. The temple monkeys are believed to be holy. In 1996 a trust fund was founded to ensure the monkeys would continue to be fed, even when natural food supplies dwindled.\nThe Sasthamcotta temple is one among the five ancient Sastha temples in Kerala - AchanKoil, Aryankavu, Kulathupuzha, Sasthamcotta and Sabarimala. The concept of Dharma Sastha represents the unison of Vaishnava and Saiva beliefs.\nThe presiding deity of the temple is Shri Dharma Sastha, accompanied by his consort ‘Prabha’ and son ‘Sathyaka’.",
+   "url": "https://en.wikipedia.org/wiki/Sasthamcotta_Sree_Dharma_Sastha_Temple"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Sasthamcotta Sree Dharma Sastha Temple",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 9.041694444444444,
+   "lon": 76.62969444444444
+  },
+  {
+   "name": "Sasthamkotta",
+   "kind": "landmark",
+   "walkMinutes": 26,
+   "lat": 9.0365,
+   "lon": 76.62388888888889
+  },
+  {
+   "name": "Brook International School, Sasthamcotta",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 9.0375,
+   "lon": 76.6181
+  },
+  {
+   "name": "Poruvazhy",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 9.066666666666666,
+   "lon": 76.63333333333334
+  },
+  {
+   "name": "Sasthamcotta Lake",
+   "kind": "landmark",
+   "walkMinutes": 32,
+   "lat": 9.03561111111111,
+   "lon": 76.63688888888889
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

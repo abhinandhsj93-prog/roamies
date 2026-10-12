@@ -1,0 +1,149 @@
+{
+ "query": "Angamaly, Ernakulam",
+ "found": "Angamaly, Aluva, Ernakulam, Kerala, 683572, India",
+ "lat": 10.1910284,
+ "lon": 76.3874109,
+ "fetchedAt": "2026-10-12T17:50:24.892Z",
+ "locality": {
+  "id": "angamaly-ernakulam-kerala",
+  "name": "Angamaly",
+  "area": "Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Angamaly": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Angamali_Town_-_%E0%B4%85%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B4%AE%E0%B4%BE%E0%B4%B2%E0%B4%BF_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A3%E0%B4%82.JPG/1280px-Angamali_Town_-_%E0%B4%85%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B4%AE%E0%B4%BE%E0%B4%B2%E0%B4%BF_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A3%E0%B4%82.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Angamaly",
+   "credit": "Photo: കാക്കര, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angamali_Town_-_%E0%B4%85%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B4%AE%E0%B4%BE%E0%B4%B2%E0%B4%BF_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A3%E0%B4%82.JPG"
+  },
+  "Little Flower Hospital": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Angamali_-_Little_Flower_Hospital-1.JPG/1280px-Angamali_-_Little_Flower_Hospital-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Little Flower Hospital",
+   "credit": "Photo: കാക്കര, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angamali_-_Little_Flower_Hospital-1.JPG"
+  },
+  "St. George Syro-Malabar Basilica, Angamaly": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/St._George_Bascilica_Church.jpg/1280px-St._George_Bascilica_Church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. George Syro-Malabar Basilica, Angamaly",
+   "credit": "Photo: DeltaBot0, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._George_Bascilica_Church.jpg"
+  },
+  "Angamaly railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Angamaly_Railway_Station.JPG/1280px-Angamaly_Railway_Station.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Angamaly railway station",
+   "credit": "Photo: RanjithSiji, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angamaly_Railway_Station.JPG"
+  },
+  "Mar Hormizd Syro-Malabar Cathedral, Angamaly": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Angamaly_Kizhakkeppally.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mar Hormizd Syro-Malabar Cathedral, Angamaly",
+   "credit": "Photo: Jude Didimus, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angamaly_Kizhakkeppally.jpg"
+  },
+  "St. Mary's Jacobite Soonoro Cathedral, Angamaly": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/St._Mary%27s_Soonoro_Cathedral.jpg/1280px-St._Mary%27s_Soonoro_Cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Mary's Jacobite Soonoro Cathedral, Angamaly",
+   "credit": "Photo: Bibin Kooran, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Mary%27s_Soonoro_Cathedral.jpg"
+  },
+  "Angamaly Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Angamaly_ksrtc_bustation_1303.jpg/1280px-Angamaly_ksrtc_bustation_1303.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Angamaly Assembly constituency",
+   "credit": "Photo: Rameshng, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angamaly_ksrtc_bustation_1303.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Angamaly",
+   "text": "Angamaly (Malayalam pronunciation: [ɐŋgɐmɐːli]) is a municipality in the Ernakulam district of Kerala, India. Angamaly is part of the Kochi metropolitan area and is located northeast of the Kochi city centre. As of the 2011 Indian census, the municipality has a population of 33,465 people and a Population density of 1,633/km2 (4,230/sq mi).\n\n\n== History ==\nSeveral old coins and other artifacts demonstrate that this region was predominantly Buddhist and Jain. Malayatoor Church, an international shrine, is located nearby. Tradition states that Thomas the Apostle visited the region from Kodungaloor port in AD 52. There is evidence of churches in the locality built as early as AD 409 and AD 822. Angamaly was the headquarters of Mar Abraham, the last East Syriac bishop of the Archdiocese of Angamaly.\nOriginally established as a panchayat in May 1952, Angamaly became a municipality in April 1978 and has been a Ernakulam Assembly constituency since 1965. The area is known for the 1959 Angamaly police firing in which police fired upon protesters who had been demonstrating against Kerala's communist government.\n\n\n=== Angamaly police firing ===\n\nThe Angamaly police firing took place on 13 June 1959...",
+   "url": "https://en.wikipedia.org/wiki/Angamaly"
+  },
+  {
+   "title": "Little Flower Hospital",
+   "text": "Little Flower Hospital & Research Centre is a 690-bed multi-specialty hospital in Kerala, India. It is in the town of Angamaly, Eranakulam District,  about 25 kilometres north of Kochi, situated at the junction of the Main Central Road of Kerala with the National Highway 47.\nThe hospital was opened in 1936 under the management of the Archdiocese of Ernakulam. It is run by the Major Archdiocese of Ernakulam-Angamaly of the Syro-Malabar Catholic Church.\nIn 2002, the hospital opened a nursing school; it is affiliated to the Kerala University of Health Sciences.",
+   "url": "https://en.wikipedia.org/wiki/Little_Flower_Hospital"
+  },
+  {
+   "title": "St. George Syro-Malabar Basilica, Angamaly",
+   "text": "St. George Syro-Malabar Catholic Basilica is a basilica of the Syro-Malabar Catholic Church situated in Angamaly, Kerala, India. On 24 June 2009, Pope Benedict XVI raised St George Forane Church to the status of minor basilica. Together with an underground parish hall where wedding gatherings are commonly held, it covers about 24,000 sq ft (2,200 m2).",
+   "url": "https://en.wikipedia.org/wiki/St._George_Syro-Malabar_Basilica,_Angamaly"
+  },
+  {
+   "title": "Angamaly railway station",
+   "text": "Angamaly for Kalady (station code: AFK) is an NSG–4 category Amruth Bharat Railway Station  Amrit Bharat Station Scheme Indian railway station in Thiruvananthapuram railway division of Southern Railway zone. It is a railway station Located at Angamaly (major suburb of Kochi City) in Ernakulam district of Kerala state in India operated by Southern Railway Network. It lies in the Shoranur–Cochin Harbour section of Trivandrum division. Angamaly is the halting point for 48 trains including Express and all Passenger trains passing through this station. The railway station is located about 26 km from Ernakulam Town and 10 km from Aluva stations. It Is the nearest railway station of Cochin International Airport, 5 km apart, where above 10 million passengers travel every year.\nThis railway station has a Full Rake facility of Goods Yard and FCI private sidings railway line and TELK private siding railway line.\nAngamaly ranked 28 out of 104 for earnings during 2016–17 fiscal year.\nThe proposed rail line to Sabarimala is starting from here. The proposed line starts from Angamaly in Ernakulam district and ends at Erumelli, one of the major Ayyappa pilgrims base camp centre, at Kottayam district...",
+   "url": "https://en.wikipedia.org/wiki/Angamaly_railway_station"
+  },
+  {
+   "title": "Mar Hormizd Syro-Malabar Cathedral, Angamaly",
+   "text": "Mar Hormizd Cathedral, locally known as the Eastern Church of Angamaly (Malayalam: അങ്കമാലി കിഴക്കേപ്പള്ളി, romanized: Angamali Kiḻakkeppaḷḷi) or the Cathedral Church (Malayalam: അരമനപള്ളി, romanized: Aramanappaḷḷi), is a Syro-Malabar church in Angamaly, India. It was built in 1578 by Mar Abraham, the last East Syriac Metropolitan to reach the Malabar Coast. It is one of the oldest and is historically the most important of the three ancient Syrian churches in Angamaly. It is dedicated to Mar Hormizd, a seventh-century East Syriac saint.\nThe Chaldean bishop Mar Abraham was ordained as the Archbishop of Angamali and Rabban Hormiz Church was the Cathedral church. Mar Abraham came to Malabar in 1570 as a Chaldean Catholic Archbishop after being previously imprisoned by the Portuguese in Goa. Angamaly, being a centre of Saint Thomas Christians and being an inland settlement ruled by native kings, provided a safer headquarters for the Chaldean archbishop and therefore he settled Angamaly as his episcopal see to govern the Syro-Malabar Church of India. Its jurisdiction extended all over the Indian subcontinent until the 16th century. This title denotes a quasi-patriarchal status with all India...",
+   "url": "https://en.wikipedia.org/wiki/Mar_Hormizd_Syro-Malabar_Cathedral,_Angamaly"
+  },
+  {
+   "title": "St. Mary's Jacobite Soonoro Cathedral, Angamaly",
+   "text": "St. Mary's Jacobite Syrian Soonoro Cathedral, or Angamaly Cheriyapally, is an ancient Jacobite Syrian church located in Angamaly. Founded in 1564 by Archdeacon Giwargis of Christ, it is one of the most prominent and ancient Syriac Orthodox churches in Kerala. In the seventeenth century it was the residence of Archdeacon Thomas Parambil, who eventually got consecrated as bishop Mar Thoma I following the Coonan Cross Oath in 1653. It was initially the seat of the Archdeacon and later the Marthoma methrans, the local heads of the Malankara Church and hence held an important position in the church for several centuries.",
+   "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Jacobite_Soonoro_Cathedral,_Angamaly"
+  },
+  {
+   "title": "Angamaly Assembly constituency",
+   "text": "Angamaly legislative assembly constituency is one of the 140 state legislative assembly constituencies in Kerala in southern India. It is also one of the seven state legislative assembly constituencies included in Chalakudy Lok Sabha constituency. As of the 2026 assembly elections, the current MLA is Roji M. John of INC. \nThis constituency is home to Archeparchy of Ernakulam–Angamaly and is dominated by Syrian Catholics, and therefore is a Congress stronghold.",
+   "url": "https://en.wikipedia.org/wiki/Angamaly_Assembly_constituency"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kerala",
+  "text": "Kerala, officially Keralam (Malayalam: കേരളം Kēraḷaṁ, keh-ruh-lluhm), is known as a tropical paradise of waving palms and wide, sandy beaches. The South Indian state is also known as God's own Country. It is a strip of coastal territory that slopes down the Western Ghats in a cascade of lush, green vegetation and reaches the Arabian Sea. Kerala borders the states of Tamil Nadu to the east and Karnataka to the north. It is also known for its backwaters, mountains, coconuts, spices and art forms like Kathakali and Mohini Attam. \n\nIt is one of India's most prosperous states, and a land of diverse religions, boasting Hindu temples, mosques, churches, and even synagogues. With world-class sporting options, Ayurvedic spas and treatments, eco-tourism initiatives, beautiful tall blue mountains, pristine rainforests, golden beaches and an enormous range of accommodation, Kerala has much to offer the visitor.\n\n\n== See ==\n\nKerala gets rain for at least 7-8 months annually and the forests are classified as rainforests. There are many opportunities to trek, camp and see wildlife.\n\n\n=== Scenic attractions ===\nThe Backwaters of Kerala are a maze of lagoons criss-crossed with rivers, shallow pools and canals, all separated from the sea by sand banks. Backwaters are present throughout the state but Alappuzha and Kottayam are most notable in this regard.\n\nThe Blue Mountains of the Western Ghats, popularly known as Nilgiris, are close to Thiruvananthapuram and there are numerous hill stations in this area. The most popular is Munnar, the honeymoon capital of the state. The highest peak of the Western Ghats is Anamudi (2,695 metres), which is good for trekking. The area is also home to several sanctuaries and forest reserve areas. There are more than two dozen waterfalls, both large and small, with numerous rapids and springs. The largest waterfalls are at Athirampally, where three milky waterfalls fall at great speed.\n\nKerala has 650 km of coastline and numerous beaches. Popular recreational beaches include Alappuzha Beach, Kollam Beach, Cherai Beach, Muzhappilangadu beach and Varkala Beach. Some of these beaches also have historical significance such as Kozhikode Beach where Vasco da Gama first landed in India and Kovalam Beach near Thiruvananthapuram, a centre of Hippy counter-culture in the 1960s.\n\n\n=== Historical monuments ===\nKerala offers numerous historical monuments that can be found in many cities. It hosts the Cherman Perumal Mosque in Kodungallor which is the world's second oldest intact mosque and is home to many rare artefacts. There are forts in Bekal, Palakkad and Thalassery from the pre-British Raj era that are worth exploring. The state's most palaces are the Hill Palace in Kochi and the Palaces at Sree Padmanabhapuram, 30 km from Thiruvananthapuram.\n\n\n=== Eco-tourism villages ===\nKerala was the first state to formally embrace the eco-tourism concept in South Asia, and has made considerable strides in this respect. The Akkalum Tourist Village in Thiruvananthapuram has a floating bridge and beautiful, landscaped gardens and many famous statues and sculptures dot the area. Kumbalangi Model Village for Sustainable Tourism near Kochi was a once sleepy fishing village, and now popular visitor attraction with a planned focus on sustainability. Thenmala Eco-Tourist Village in Kollam is the first such place in India and focusses on the natural environment. Its numerous exhibits include 27 rare trees, many sculptures, and a large musical fountain.\n\n\n=== Religious attractions ===\nKerala is famous for its pilgrimage options. Most of the religious sites are rooted in myths and legends, and many have historical tales of more than 1,000 years to tell. Finding a temple, church or mosque is easy, as houses of worship are almost omnipresent. Kerala is famous for its religious harmony. Keralites are religious and religious functions dominate all walks of life. This does not mean that Keralites are close-minded; it's an open society that accepts respectful debate and discussions about religion.\nThere are often Hindu temples, Christian churches, Muslim mosques, and even Jain temples in the same city. While in Kerala, note the interesting architecture of many Muslim mosques. Unlike other parts of India, Islamic architecture in Kerala resembles Kerala temple architecture without much Persian influence. However, many new mosques are built in Arab style due to the growing Arab influence in Kerala society.\nNormally in Kerala, mosques and churches are referred as palli, not masjids as they are elsewhere in India.\n\n\n== Do ==\n\n\n=== Ayurveda ===\nDue to increasing tourism, Ayurvedic spas have become popular for light massages and pleasure treatments. However, this practice is not evidence-based, so for medical treatment, prefer \"allopathic\" hospitals (i.e. hospitals that provide evidence-based treatments) over Ayurvedic ones.\n\n\n=== Cruises ===\nA cruise on the Backwaters of Kerala is a popular visitor pastime. Rent a houseboat from either Kumarakom or Alappuzha. An individual houseboat can be rented in 24-hour and 12-hour blocks. Rates differ according to the season and duration.\nMany tourist villages offer boating opportunities which are excellent for sightseeing. In general, most villages on or near water will offer a means of transport on their respective body of water.\n\n\n=== Festivals ===\nKerala is considered a land of festivals, with numerous festivals falling throughout the year. The national festival of Kerala is Onam, marking ten-day-long festivities across the state, between August and September. The second biggest festival is Christmas due to the many Christians in the state, celebrated in grand zest in many cities, particularly in Kochi and Kottayam. All Muslim festivals are celebrated among the community in grand way, throughout the state. Apart from major religious festivals, most temples host annual festivals as part of anniversary celebrations, famous for parades of decorated elephants, temple orchestration and fireworks. The most famous is Thrissur Pooram, celebrated in the Thrissur city during April–May.\nOther major festivals are Vishu (Malayalam New Year's day, mostly on April 14th), Thiruvathira (considered sacred for Hindu women, celebrated during December) and Holy Easter Week. National secular holidays like Independence Day (August 15th), Republic Day (January 26th), Naval Week (December 1st week), and Nehru Trophy Vallam Kalli (Snake-boat race in Alappuzha on 2nd Saturdays of August) are grandly celebrated in various cities.\n\n\n==== Onam ====\nOnam is the biggest festival in Kerala. It is the National Festival of Kerala with State holidays on 4 days, from Onam Eve (Uthardom) to the 4rd Onam Day. It is also one of the most secular festivals. Onam Festival falls during the Malayalam month of Chingam (Aug - Sep) and marks the homecoming of mythical King Mahabali, whom Malayalees consider their king. Onam recalls Kerala's agrarian past, as it's considered a harvest festival.\nOnam festivities last for ten days and showcase Kerala culture and tradition. Intricately decorated Pookalam (floral carpets), the mammoth Onasadya (the festival feast), breathtaking Snake Boat Race and the exotic Kaikottikali dance are some of the most remarkable features of Onam, Kerala's harvest festival. Though the festive mood is spread everywhere in Kerala, the focal point of Onam celebrations is Kochi. The ten-day festival begins with Aathachamayam (The Royal Parade on Aatham Day) in Thripunithara (a suburb of Kochi City). The colourful parade depicts all the elements of Kerala culture with more than 50 floats and 100 tableaux. The main center of festival is at Thrikakkara temple within Kochi City, believed to be the ancient capital of King Mahabali. The temple festival also marks the start of Onam.\nThe festival is celebrated in memory of the mythical King Mahabali and his reign, during which perfect harmony and prosperity prevailed. King Mahabali's popularity was at its height and led to the envy of the gods. This golden age ended when Vamana, the dwarf incarnation of the Hindu god Vishnu, expelled him from his throne to the netherworld. On account of his virtue, Mahabali was allowed to visit his subjects once a year, during Onam. Though the myth behind Onam is a Hindu tradition, the festival is fervently celebrated by Christians, Muslims and others. There are special Masses for Onam day in churches and get-togethers among Muslim families.\nOnam is considered the biggest shopping festival in urban areas, particularly Kochi, Thiruvananthapuram, and Kozhikode. Most of the shops give huge discounts and special promotions happen for white goods as well as electronic items, making an ideal time for shopping. Dress and fabrics receive special attention during this season. Onam's Eve, Uthradom, is the biggest day for shopping, as it's the final day for Onam shopping, and is nicknamed Uthradom Pachil (Uthradom Rush).\nOnam day (Thiruvonam) is a silent day, with most of the fe",
+  "url": "https://en.wikivoyage.org/wiki/Kerala"
+ },
+ "sights": [
+  {
+   "name": "Little Flower Hospital",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 10.1908,
+   "lon": 76.3894
+  },
+  {
+   "name": "Mar Hormizd Syro-Malabar Cathedral, Angamaly",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 10.188935,
+   "lon": 76.38836
+  },
+  {
+   "name": "St. Mary's Jacobite Soonoro Cathedral, Angamaly",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 10.1906,
+   "lon": 76.3828
+  },
+  {
+   "name": "St. George Syro-Malabar Basilica, Angamaly",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 10.1906,
+   "lon": 76.3828
+  },
+  {
+   "name": "Angamaly Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 10.2,
+   "lon": 76.38
+  },
+  {
+   "name": "Angamaly railway station",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 10.1839,
+   "lon": 76.3779
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

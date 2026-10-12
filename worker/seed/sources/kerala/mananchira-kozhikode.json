@@ -1,0 +1,281 @@
+{
+ "query": "Mananchira, Kozhikode",
+ "found": "Mananchira, Kozhikode, Kerala, India",
+ "lat": 11.2545265,
+ "lon": 75.7800114,
+ "fetchedAt": "2026-10-12T18:01:28.147Z",
+ "locality": {
+  "id": "mananchira-kozhikode-kerala",
+  "name": "Mananchira",
+  "area": "Kozhikode, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Mananchira": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Mananachira_Pond_Gardens%2C_Kozhikode2.jpg/1280px-Mananachira_Pond_Gardens%2C_Kozhikode2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mananchira",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mananachira_Pond_Gardens,_Kozhikode2.jpg"
+  },
+  "Kozhikode": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Kozhikode_beach_kites.jpg/1280px-Kozhikode_beach_kites.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kozhikode",
+   "credit": "Photo: Mr 037, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kozhikode_beach_kites.jpg"
+  },
+  "Kozhikode district": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/View_point_of_Thamarassery_Churam.jpg/1280px-View_point_of_Thamarassery_Churam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kozhikode district",
+   "credit": "Photo: Keerikkadanjose, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_point_of_Thamarassery_Churam.jpg"
+  },
+  "Malabar Christian College": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Malabar_christian_College_1932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Malabar Christian College",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malabar_christian_College_1932.jpg"
+  },
+  "Kozhikode Corporation EMS Stadium": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kozhikode_EMS_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kozhikode Corporation EMS Stadium",
+   "credit": "Photo: Dilshad05, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kozhikode_EMS_Stadium.jpg"
+  },
+  "St. Joseph's Boys' Higher Secondary School, Kozhikode": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/St._Josephs_BHSS_Logo.jpg/1280px-St._Josephs_BHSS_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Joseph's Boys' Higher Secondary School, Kozhikode",
+   "credit": "Photo: Stjosephsboyskozhikode, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Josephs_BHSS_Logo.jpg"
+  },
+  "Archdiocese of Calicut": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mother_of_God_%28Mater_Dei%29_Cathedral%2C_Calicut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Archdiocese of Calicut",
+   "credit": "Photo: Shijuthomas79, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mother_of_God_(Mater_Dei)_Cathedral,_Calicut.jpg"
+  },
+  "Mishkal Mosque": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mishkal_mosque_calicut.jpg/1280px-Mishkal_mosque_calicut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mishkal Mosque",
+   "credit": "Photo: Navaneeth T M, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mishkal_mosque_calicut.jpg"
+  },
+  "Kozhikode railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kozhikode_Railway_Station_from_Bridge.jpg/1280px-Kozhikode_Railway_Station_from_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kozhikode railway station",
+   "credit": "Photo: Kondephy, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kozhikode_Railway_Station_from_Bridge.jpg"
+  },
+  "S. M. Street": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/SK_Pottekkat_Bust.JPG/1280px-SK_Pottekkat_Bust.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "S. M. Street",
+   "credit": "Photo: Vengolis, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SK_Pottekkat_Bust.JPG"
+  },
+  "Kozhikkode Lighthouse": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%E0%B4%95%E0%B5%8B%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%8D_%E0%B4%B5%E0%B4%BF%E0%B4%B3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%82_%E0%B4%AA%E0%B4%9F%E0%B4%BF%E0%B4%9E%E0%B5%8D%E0%B4%9E%E0%B4%BE%E0%B4%B1%E0%B5%81%E0%B4%A8%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3_%E0%B4%A6%E0%B5%83%E0%B4%B6%E0%B5%8D%E0%B4%AF%E0%B4%82.jpg/1280px-%E0%B4%95%E0%B5%8B%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%8D_%E0%B4%B5%E0%B4%BF%E0%B4%B3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%82_%E0%B4%AA%E0%B4%9F%E0%B4%BF%E0%B4%9E%E0%B5%8D%E0%B4%9E%E0%B4%BE%E0%B4%B1%E0%B5%81%E0%B4%A8%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3_%E0%B4%A6%E0%B5%83%E0%B4%B6%E0%B5%8D%E0%B4%AF%E0%B4%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kozhikkode Lighthouse",
+   "credit": "Photo: Drajay1976, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%8B%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%8D_%E0%B4%B5%E0%B4%BF%E0%B4%B3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B4%82_%E0%B4%AA%E0%B4%9F%E0%B4%BF%E0%B4%9E%E0%B5%8D%E0%B4%9E%E0%B4%BE%E0%B4%B1%E0%B5%81%E0%B4%A8%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3_%E0%B4%A6%E0%B5%83%E0%B4%B6%E0%B5%8D%E0%B4%AF%E0%B4%82.jpg"
+  },
+  "Kozhikode Beach": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kozhikode_Beach_Coastline.jpg/1280px-Kozhikode_Beach_Coastline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kozhikode Beach",
+   "credit": "Photo: Sulyab Thottungal, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kozhikode_Beach_Coastline.jpg"
+  },
+  "Arayidathupalam Junction": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Baby_Hospital._1.jpg/1280px-Baby_Hospital._1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Arayidathupalam Junction",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baby_Hospital._1.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mananchira",
+   "text": "Mananchira is a man-made freshwater pond  situated in the centre of the city of Kozhikode in Kerala, southern India. The pond is 3.49 acres (14,120 m2) in area, is rectangular in shape and is fed by a natural spring.\n\n\n== History ==\nMananchira was built as a bathing pool by the Zamorin Mana Vikrama, the feudal ruler of Kozhikode in around the 14th century. The laterite obtained from excavating the pond was used to construct two palaces to the east and west. It is claimed that, later at the time of Tipu sultan, the Mysore ruler, he made this as drinking water source as a gift For Sayed Jifri\nIn the late 19th century, Kozhikode's municipal council decreed that the pond was to be reserved exclusively for drinking purposes, and prohibited its use for bathing, washing and recreational activities—a ruling that has remained in place ever since. The pond is an important source of drinking water for Kozhikode, but is susceptible to pollution from municipal sewage, domestic waste, and pollutants from nearby textile factories. An analysis of the water in 2000 by scientists from the Central Water Analysis Laboratory and Pondicherry Central University found that the pond was particularly bacteriologically...",
+   "url": "https://en.wikipedia.org/wiki/Mananchira"
+  },
+  {
+   "title": "Kozhikode",
+   "text": "Kozhikode (pronounced [koːɻikːoːɖɨ̆] ), also known as Calicut, is a historic city along the Malabar Coast in the state of Kerala in India. The city is also known as the City of Spices. It was among the most important ports in the world during medieval times and have received visitors from Marco Polo to Ibn Batuta to Zheng He to Vasco da Gama.\nIt is the nineteenth-largest urban agglomeration in the country and the second-largest one in Kerala. Calicut city is the second-largest city proper in the state with a population of 609,224 within its municipal boundaries. Calicut is classified as a Tier-2 city by the Government of India.\nIt is the largest city on the Malabar Coast and was the capital of the British-era Malabar district. It was the capital of an independent kingdom ruled by the Samoothiris (Zamorins). The port at Kozhikode acted as the gateway to the medieval South Indian coast for the Chinese, the Persians, the Arabs, and finally the Europeans. In 2023, Kozhikode was recognised by UNESCO as India's first City of Literature.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Kozhikode"
+  },
+  {
+   "title": "Kozhikode district",
+   "text": "Kozhikode district (pronounced [koːɻikːoːɖɨ̆] ), is one of the 14 districts in the Indian state of Kerala, along its southwestern Malabar Coast. The city of Kozhikode, also known as Calicut, is the district headquarters.\nThe Kozhikode Municipal Corporation has a corporation limit population of 609,224 and a metropolitan population of more than 2 million, making Kozhikode metropolitan area the second-largest in Kerala and the 19th largest in India. Kozhikode is classified as a Tier 2 city by the Government of India. NIT Calicut, NIEIT and IIM Kozhikode are institutions of national importance located in the district.\nKozhikode is the largest city in the erstwhile Malabar District and acted as its headquarters during  British Raj. In antiquity and the medieval period, Kozhikode was dubbed the City of Spices for its role as the major trading point for Indian spices. It was the capital of an independent kingdom ruled by the Samoothiris (Zamorins), which was also the largest kingdom in Kerala prior to the expansion of Travancore in the mid-18th century CE. The port at Kozhikode acted as the gateway to medieval South Indian coast for the Chinese, the Arabs, the Portuguese, the Dutch and finally...",
+   "url": "https://en.wikipedia.org/wiki/Kozhikode_district"
+  },
+  {
+   "title": "Kuttichira Beach",
+   "text": "Kuttichira or Thekkepuram is a quarter located inside the city of Kozhikode in the Indian state of Kerala. Its approximate boundaries are the Arabian Sea on the west, the Kallai river on the south, Vellayil village on the north, and Kozhikode town on the east.",
+   "url": "https://en.wikipedia.org/wiki/Kuttichira_Beach"
+  },
+  {
+   "title": "Malabar Christian College",
+   "text": "The Malabar Christian College (MCC), established in 1909, is one of the oldest institutions located in Kozhikode, Kerala, India.",
+   "url": "https://en.wikipedia.org/wiki/Malabar_Christian_College"
+  },
+  {
+   "title": "Kozhikode Corporation EMS Stadium",
+   "text": "The EMS Stadium, located in Kozhikode, Kerala, India, is a multi-purpose stadium primarily used for football matches. The stadium is home to the I-League club Gokulam Kerala. With a capacity of 50,000, it is the third largest football stadium in India.\nBuilt in 1977, It is named after the first Chief Minister of Kerala E. M. S. Namboodiripad. Gokulam Kerala  has been playing their home matches at the Stadium since 2017 and has had a successful run at the stadium winning their first I-League home match against East Bengal with a score of 2–1. \nThe stadium  has played host to several important football tournaments, such as Super Cup, Santosh Trophy, and Sait Nagjee Football Tournament. The stadium is considered a historic and important venue for football in the region.",
+   "url": "https://en.wikipedia.org/wiki/Kozhikode_Corporation_EMS_Stadium"
+  },
+  {
+   "title": "St. Joseph's Boys' Higher Secondary School, Kozhikode",
+   "text": "St. Joseph's Boys' Higher Secondary School is a Government Aided Catholic secondary school for boys located in Kozhikode, in the state of Kerala, India. Established in 1793, it is one of the oldest educational institutions in India and the oldest school in Kerala. \nSt. Joseph's Junior ICSE School in Kozhikode, established by the Jesuits in 1961, is a feeder school for the higher secondary school.",
+   "url": "https://en.wikipedia.org/wiki/St._Joseph%27s_Boys%27_Higher_Secondary_School,_Kozhikode"
+  },
+  {
+   "title": "Archdiocese of Calicut",
+   "text": "The Archdiocese of Calicut (Latin: Archdioecesis Calicuten(sis)) is a Latin Church ecclesiastical province or metropolitan archdiocese in India. It depends on the missionary Roman Congregation for the Evangelization of Peoples. Its suffragan dioceses are the Kannur and Sulthanpet.\nIts cathedral is Mother of God Cathedral, dedicated to Our Lady, in the episcopal see of Kozhikode (Calicut).",
+   "url": "https://en.wikipedia.org/wiki/Archdiocese_of_Calicut"
+  },
+  {
+   "title": "Mishkal Mosque",
+   "text": "The Mishkal Mosque (Malayalam: മിശ്കാൽ പള്ളി), also spelled Mithqal Mosque is a Šāfiʿī mosque located in Calicut on Malabar Coast, in the state of Kerala, India. The mosque, one of the few surviving medieval mosques in Kerala, is regarded as an important cultural, historical and architectural monument of Kerala.",
+   "url": "https://en.wikipedia.org/wiki/Mishkal_Mosque"
+  },
+  {
+   "title": "Samoothiri Tower",
+   "text": "Samoothiri Tower is a proposed multistorey tower located in the southern Indian city of Kozhikode. The tower will be built as the information centre for the tourism of Malabar. The tower will stand 62m tall when completed and will have a historic museum in the first two floors along with a viewing gallery on the 14th floor from which the panoramic views of the whole city can be enjoyed.\nThe tower is named after the famous rulers of Calicut, the Samoothiri. The tower will be twinned with a garden which is in the name of Kunhali Marakkar and will also have an underground access from the nearby attraction Mananchira Square.\nThe design of the building is approved and the Kerala government has sanctioned the tower.",
+   "url": "https://en.wikipedia.org/wiki/Samoothiri_Tower"
+  },
+  {
+   "title": "Kozhikode railway station",
+   "text": "Kozhikode railway station (also known as Kozhikode Main railway station)(station code: CLT) is an NSG–2 category Indian railway station in Palakkad railway division of Southern Railway zone. It was given by Kallingal Madathil Rarichan Moopan to the British Indian Railways for a lease agreement of 99 years. It is one of the largest and major railway stations in the state of Kerala. At ₹200 crore (equivalent to ₹271 crore or US$28 million in 2026) in financial year 2018–19, it is the largest in terms of passenger revenue in the division. The station has four platforms, two terminals and a total number of six tracks. The first platform has a capacity to accommodate trains with 24 coaches and second & third platform has the capacity to accommodate 20 coaches; and the fourth one has the capacity to accommodate 24 coaches. It has a daily turnout exceeding 25,000 passengers. It is one of the major railway stations in Kerala with trains connecting the city to other major cities in India. The other railway stations in the city include Ferok, Kallayi Kozhikode South, Vellayil and West Hill.\nAn integrated security system was installed at the station in 2012 featuring baggage scanners, CCTVs and...",
+   "url": "https://en.wikipedia.org/wiki/Kozhikode_railway_station"
+  },
+  {
+   "title": "S. M. Street",
+   "text": "S.M. Street, abbreviation for Sweetmeat Street, also known as Mittai Theruvu, is the busiest shopping street in kerala located in Kozhikode, Kerala, India. The street is a pedestrian zone. It also has a 160 year old fire temple amidst shopping places.",
+   "url": "https://en.wikipedia.org/wiki/S._M._Street"
+  },
+  {
+   "title": "Kozhikkode Lighthouse",
+   "text": "Kozhikkode Lighthouse is a defunct light in the Kozhikkode District of Kerala. It was constructed in 1907. The first lighthouse was constructed in 1847 at a height of 33 meters (108 ft). The current tower is 15 meters (49 ft) and is painted white. Kozhikode or Calicut lighthouse is automated, and an LED flasher apparatus is in use.",
+   "url": "https://en.wikipedia.org/wiki/Kozhikkode_Lighthouse"
+  },
+  {
+   "title": "Kozhikode Beach",
+   "text": "Kozhikode Beach is a beach on the western side of Kozhikode, situated on the Malabar Coast of India. The beach is accessible through four road overbridges in the city. The beach has paved stones and illumination.  There is one Lions Park for the children and an aquarium.  Kozhikode Beach has always been a prominent place for conducting public meetings. The beach road was renamed 'Gandhi Road' in 1934 after Gandhi visited Kozhikode in 1934.\nIn April 1950, land was acquired on the Kozhikode beach to build a Government Headquarters hospital.",
+   "url": "https://en.wikipedia.org/wiki/Kozhikode_Beach"
+  },
+  {
+   "title": "Arayidathupalam Junction",
+   "text": "Arayidathupalam Junction is the busiest road intersection of Kozhikode city in India.",
+   "url": "https://en.wikipedia.org/wiki/Arayidathupalam_Junction"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kozhikode",
+  "text": "Kozhikode (കോഴിക്കോട് Kōḻikōḍŭ), formerly Calicut, is the second-largest city in the Indian state of Kerala (Keralam) after Kochi.\n\n\n== See ==\n\n1 Art Gallery (1 km). Near Town Hall. (updated Apr 2015)\nCVN Kalari, a traditional Kalarippayattu institution for martial arts and marma chikitsa practiced and performed since 1945, Nadakkavu, Kozhikode.\n Elathur, Beautiful riverside village with an estuary (12 km). Vallikkattu Kavu is a 27-acre sacred grove in a swamp at Edakkara near Elathur. You can see monkeys, peacocks, wild boars, porcupines, wild hens, different kinds of butterflies and many species of orchids here. There is a species of herb here which has leaves in the shape of butterflies. (updated Apr 2015)\n2 Mananchira Pond and Gardens (near the Railway Station). A sprawling park with many beautiful statues. Entrance is free but the gate is open only after 2P.M There are many historic buildings like the Commonwealth Company near the park. There is a circular mosque called 'Pattala Pally' on the southern side of the park. You can also have a walk into the crowded 'Mittayi Theruvu' shopping zone on the southern side of the park. The town hall, the art gallery and the crown theatre are on the western side of the pond. The Basel Evangelical Mission and Girls School are on the eastern side of the park. The park has 250 colonial-style lamps posts, an artificial stream, a musical fountain, a music stage and an open air theater. The public library near the park has a huge collection of Malayalam and English books. (updated Apr 2015)\n3 Sarovaram Biopark, Near Baby Hospital (2 km). 7 mangrove species, 29 mangrove associates and fauna ranging from protozoa to Otter. It is also a congenial habitat for 20 types of water birds. The area is 200 acres containing canal walkways, boating facilities, an Otter Park and a Butterfly Park. The outers section is beautifully tiled and lighted. It is a popular hangout of college couples. The inner section is undeveloped mangrove forest with walking tracks. The entrance ticket is ₹10 for the outer tiled section and additional ₹10 for the inner forest section. (updated May 2015)\n\n\n=== Museums ===\n\n4 KIRTADS Museum, Chevarambalam. Tribal Research Station maintained by the government. (updated Mar 2026) \n5 Krishna Menon Museum & Art Gallery, East Hill (4 km). closed on Mondays. Ideal place for students of Indian history. (updated Mar 2026)\n6 Pazhassi Raja Archaeological Museum. closed Mon. Copies of megalithic monuments. (updated Mar 2026)\n7 Regional Science Centre and Planetarium, Calicut, Jaffer Khan colony (near new bus station). Regular shows are available only in the forenoons when busloads of schoolchildren arrive from adjoining towns. (updated Mar 2026)\n\n\n=== Places of worship ===\n\n8 Mishkal Mosque, Kuttichira (2 km). 600-year-old structure. Beautiful pond surrounded by several old buildings. The mosque is very photogenic only when you look from the other side of the pond. This four level mosque is built mostly of wood. The mosque has no cupolas or minarets and looks like a Hindu temple. Maybe, Kerala’s temple architecture influenced the architecture of old mosques in Kerala which have gopuram-style entrance arches and no minarets. Non-Muslims need a special permission to enter the mosque. (updated Mar 2026)\n\n\n=== Temples ===\n\n Gotheshwaram Beach Temple, Marad Beach (4 km). You can also visit nearby beach villages like Chakkum Kadavu, Kayyadi Thodu, Payyanakkal, Kayyadithode, Naduvattom, West Mahi, Thampi Road, andJhansi Village (updated May 2015)\n Jain Derasar. There are 2 temples inside the temple complex of which one is over 2500 years old and has 1000 pillars. \n Kizhakke Murikkunnu Bhagavathy Temple, V.K.Krishna Menon Road, Kallayi (5 km). The temple is on a beautiful hillock near an upmarket residential area, a pristine pond, green lawns and the scenic hilltop school. (updated May 2015)\n Narakath Bhagavathy Temple, Near Kerala Kaumudhi newspaper, Thondayad (3 km). A silent place in the middle of the city. (updated Jun 2015)\nNochipra Shree Bhagavathy Kshetram (Temple), on People's Road, Near Indian Express Newspaper, West Hill, with almost 950-year-old Bhuvaneshwari Devi family temple.\n Shiva Temple, Thiruvannur (3 km). This ancient and beautiful Siva temple has an apsidal garbhagriha, decorated with typical Chola pillars and pilasters, panjaras and vyalimukhas. The central shrine has escaped any repair or change and is relatively well preserved. (updated Jun 2015)\n Sri Kandeshwaram Temple, Opp. New Bus Station (1 km).  (updated Jun 2015)\n9 Thali Temple, Palayam (1 km). Beautiful 14th-century temple and a second temple near a very big pond and vegetable market. The temple walls are elephant-shaped. (updated Apr 2015)\n Thrikaipetta Subramanya Temple, Ponnenkottu Kunnu (opposite Cyberpark, Palazhy). 1,400-year-old temple. Now being renovated. (updated Dec 2015)\n\n\n== Do ==\n\n City Walk One (4 km). Start from Fathima Hospital, take the narrow line opposite the hospital. Walk past Kerala NGO Union, Lakshmi Printers and Oyisca Youth Centre. Cross the culvert in the swamp, turn right, walk beyond the forest temple, Hajj House, Sunni House, again turn right to Chilli Malabar Restaurant and once again turn right to reach at the New Bus Station. (updated May 2015)\n City Walk Two (6 km route with thin traffic). Start from the bus stand. Take the road opposite to it, walk past Markaz Mosque and Samastha centre. Turn right towards More Supermarket, Planetarium and Science Centre. You enter Cherootty Nagar where you can get a nice cup of coffee at the roadside stall. Walk straight to Bhagavathy Temnple, Muthappan Forest, Balan K Nair Road and the Zoological Survey of India. The Brahmakumaris Meditation Centre and the Needle Acupuncture Clinic leads you to Spinelly School and Redeemer Convent. You have reached Aqsa Juma Masjidh at St. Vincent Colony, and walk back to the new bus stand. (updated May 2015)\n Climbing a hill @ Govindapuram, Mankav (7 km). Take a bus to Govindapuram from Mananchira pond. Walk up the hill to Central School. Very good view of the entire city and Arabian Sea. The views are terrific but nobody comes here other than the school people. Elderly people can also reach here by hiring an auto rikshaw from Mankav junction. (updated May 2015)\n Green Walk @ Iringadan Pally (4 km walk). Take a bus to Kovoor on Medical College route. Ask for the Iringadan Pally road. Walk in the company of spectacularly spacious expanse of paddy fields hidden between four main roads of the city. You can walk up to Poolakkadavu junction on the Mysore road. The locals have tastefully decided to convert this little road through the paddy fields to a busy street with deafening traffic. They were to start the work by 2017. You can also get the best beef curry in the city only in this place, just for ₹40. It is available at a little restaurant even without a sign board. It is adjacent to Koyas Cycle Mart and Prabhakara Pharmacy at Poolakkadavu Junction near JDT, Vellimadukunnu. (1-9PM). After dinner, you can continue walking on the Poolakkadavu river road, cross the river on the cute foot bridge and reach the village of Parambil Bazar from where you will get direct buses back to the city. (updated May 2015)\n North Beach walk (5 km). Start from the Nalam Gate, and as soon as you cross the railway gate the road forks into three. Choose the third one, walk past Caffe Coffee Day and Gateway Hotel. The Mayor Residence and Moidhu Museum are on your way. Enter Vellayil Road and walk to the beach. There is a very short sea bridge and the Vellayil Fishing Harbour there. When you reach the beach, turn right, you will go by Vellayil Police Station, Shanthi Nagar, Radio Mango, Puthiyappa, Vengaly, Elathur and Pavangad. Pavangad offers air6conditioned buses back to the city. (updated May 2015)\n Park Walk, Mananchira Park (1 km). Well maintained and manicured garden around a clean pond. Very big lawn to relax. Open only after 2PM. Extremely crowded place. (updated May 2015)\n Public Library and Cafe (opp. Mananchira Park). Public library, audio library, children's library, international cultural centre and free coffee. (updated Sep 2015)\n See an English film, Crown Theatre (1 km), ☏ +91 4952721896. 80-year-old movie theatre near Railway Station. Two AC screens and a small snack bar inside. (updated May 2015)\n\n South Beach walk (8 km). Start from All India Radio on Kozhikode beach. Head south to Mohammedhali Beach. You can walk through a beautiful promenade and reach Francis Road junction within ten minutes. Continue walking on the beach road until you pass Kannanm Parambil cemetery, Kannam Parambil mosque, Nainan Valappil beach and finally the New Kothy bridge. When you cross the bridge, you reach Chakkukm Kadavu village. Proceed to Payyanakkal beach. Finally, ask for Panniyankara police station to get back to the main road. Come back by one of the green buses, they all take you to Mananchira pond junction. (updated May 2015)\n Walk @ ",
+  "url": "https://en.wikivoyage.org/wiki/Kozhikode"
+ },
+ "sights": [
+  {
+   "name": "S. M. Street",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 11.250555555555556,
+   "lon": 75.78166666666667
+  },
+  {
+   "name": "Kozhikode Corporation EMS Stadium",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 11.256405,
+   "lon": 75.785708
+  },
+  {
+   "name": "Archdiocese of Calicut",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 11.253,
+   "lon": 75.7741
+  },
+  {
+   "name": "St. Joseph's Boys' Higher Secondary School, Kozhikode",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 11.2584,
+   "lon": 75.7745
+  },
+  {
+   "name": "Kozhikode",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 11.248888888888889,
+   "lon": 75.78388888888888
+  },
+  {
+   "name": "Kozhikode railway station",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 11.2465,
+   "lon": 75.7805
+  },
+  {
+   "name": "Malabar Christian College",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 11.2640651,
+   "lon": 75.7779202
+  },
+  {
+   "name": "Kozhikode Beach",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 11.25607,
+   "lon": 75.7694
+  },
+  {
+   "name": "Mishkal Mosque",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 11.25,
+   "lon": 75.77
+  },
+  {
+   "name": "Samoothiri Tower",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 11.25,
+   "lon": 75.77
+  },
+  {
+   "name": "Kozhikode district",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 11.25,
+   "lon": 75.77
+  },
+  {
+   "name": "Kozhikkode Lighthouse",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 11.25846,
+   "lon": 75.769189
+  },
+  {
+   "name": "Kuttichira Beach",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 11.242894,
+   "lon": 75.779271
+  },
+  {
+   "name": "Arayidathupalam Junction",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 11.25855,
+   "lon": 75.79193
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

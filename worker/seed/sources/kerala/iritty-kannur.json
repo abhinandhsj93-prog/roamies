@@ -1,0 +1,39 @@
+{
+ "query": "Iritty, Kannur",
+ "found": "Iritty, Kannur, Kerala, India",
+ "lat": 11.9773119,
+ "lon": 75.7231637,
+ "fetchedAt": "2026-10-12T18:07:38.720Z",
+ "locality": {
+  "id": "aralam-kannur-kerala",
+  "name": "Aralam",
+  "area": "Iritty, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Aralam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Aralam_Farm_Government_High_School.JPG/1280px-Aralam_Farm_Government_High_School.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aralam",
+   "credit": "Photo: Vinayaraj, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aralam_Farm_Government_High_School.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Aralam",
+   "text": "Aralam  is a large village and grama panchayat in Kannur district in the Indian state of Kerala. Aralam grama panchayat borders Karnataka to the east.\n\n\n== Demographics ==\nAs of 2011 Census, Aralam had a population of 29,328 people which constitutes 14,438 males and 14,890 females. Aralam village spreads over an area of 112.45 km2 (43.42 sq mi) with 6,904 families residing in it. The sex ratio of Aralam was 1,031 lower than state average of 1,084. Population of children in the age group 0-6 was 3,180 (10.8%) where 1,617 are males and 1,563 are females. Aralam had an overall literacy of 89.9%, lower than state average of 94%. The male literacy stands at 92.7% and female literacy was 87.3%.\n\n\n== Economy ==\nAralam Panchayat is mainly an agrarian economy. The major cultivated crops are coconut, cashew, pepper, rubber and areca nut. Aralam was one of severely affected areas in Kannur district during 2018 Kerala floods. 22% of the affected areas were in the side slope of mid-highlands (101 m) and 7% in the river bank of midlands (61 m).\n\n\n== Education ==\n\nThe village has a Government Higher Secondary School at Aralam and two aided Higher Secondaries, one at Edoor, St. Mary's HSS and the other at...",
+   "url": "https://en.wikipedia.org/wiki/Aralam"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Iritty",
+  "text": "Iritty is in Kannur District, in the Malabar region of Kerala, India. \n\n\n== See ==\n Koorumba Bhagavathi temple, Payancheri.  (updated May 2015)\n Kottiyoor Temple (33 km). Famous for Vysakha festival every year in the month of June (updated May 2015)\n Mahavishnu Temple, Keezhur.  (updated May 2015)\n Sree Mundayamparamba Tharakkumeethal Bhagavathi Temple.  (updated May 2015)\n Periya Forest, Wayanad road (42 km). 36 species of mammals, 136 species of birds, 11 species of poisonous snakes and 109 species of butterflies. Orchid Epipogium roseum which lives only one day. (updated Jun 2015)\nIRITTY BRIDGE- iritty bridge is the icon for this place. this is a bridge built by the British a 100 years ago.\n\n\n== Eat ==\n Nikunjam Restaurant, Main Road, ☏ +91 9645331110.  (updated May 2015)\n Nirmala Restaurant, Mysore Road, ☏ +91 9037807782.  (updated May 2015)\n SMA Restaurant, Near Hindustan Petroleum, Uliyil, Kannur Road.  (updated Oct 2017)\n Kanal Family Restaurant, Kannur Road.  (updated Oct 2017)\n Thripthi Restaurant, Near Hindustan Petroleum, Kannur Road.  (updated Oct 2017)\n Thava Restaurant, Near Canara Bank.  (updated Oct 2017)\n Amma Restaurant, New Bus Stand.  (updated Oct 2017)\n Annapoorna Restaurant, Near Police Station.  (updated Oct 2017)\n Al-Mayuppas Restaurant, Near Police Station.  (updated Oct 2017)\n Aloos Homely Food, Near Police Station.  (updated Oct 2017)\n RaraAvis. Chicken Biryani (updated Nov 2018)\n Hameediya Hotel (Behind Kabeer Bakery, Payancheri Signal Junction). Rs.50 for Rice Porridge with two vegetable fries, pickles and fish fry. (updated Apr 2022)\n\n\n== Drink ==\n Iritty Bridge Cafe. Kulukki Sarbath for ₹30 containing green chilli, ginger, kaskas, lime, kanthari, ice, essence (11 flavours). (updated Apr 2022)\n Alaska Icecream Palace (Near Surya Lodge). Kakkiri juice, gooseberry juice, and ginger lime juice.Also fruit salad for ₹60.Table lamps creating bar / club atmosphere. (updated Apr 2022)\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Iritty"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

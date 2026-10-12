@@ -1,0 +1,46 @@
+{
+ "query": "Konni, Pathanamthitta",
+ "found": "Konni, Pathanamthitta, Kerala, 699691, India",
+ "lat": 9.2266942,
+ "lon": 76.8499466,
+ "fetchedAt": "2026-10-12T17:41:46.805Z",
+ "locality": {
+  "id": "konni-pathanamthitta-kerala",
+  "name": "Konni",
+  "area": "Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [
+  {
+   "title": "Konni",
+   "text": "Konni may refer to:\n\nKonni (dog), Russian President Vladimir Putin's dog (1999-2014)\nKonni, Kerala, a town in Kerala state in India\nKonni (Hausa state), a traditional Hausa state in south central Niger\nBirni-N'Konni (shortened to Konni), a town in Niger\nKonni language, a Gur language spoken in Ghana\nKonni Zilliacus (senior) (1855-1924), Finnish politician and writer\nKonni Zilliacus (1894-1967), UK politician\nKonni Group, a fictional Russian PMC organization appearing in the video game Call of Duty: Modern Warfare II and Call of Duty: Modern Warfare III\n\n\n== See also ==\nKonnie Huq (b. 1975), British TV presenter\nConnie (disambiguation)\nConny\nKoni (disambiguation)",
+   "url": "https://en.wikipedia.org/wiki/Konni"
+  },
+  {
+   "title": "Muringamangalam Sreemahadevar Temple",
+   "text": "The Muringamangalam Sreemahadevar Temple, located half a kilometre from Konni Junction, is more than 1000 years old.  It used to belong to the Pandalam Royal Family. It is the biggest temple east of Pathanamthitta and the biggest Siva temple in Pathanamthitta District. This temple is in the State of Kerala in the peninsular India. The main deity is Lord Shiva, facing east. Lords Ganapathi, Ayyappa, Nagas and Krishna are installed here. The temple of Lord Krishna is a recent addition, as it was after his presence was found in 'Devaprasnam', due to continuous Bhagavatha Sapthaham.",
+   "url": "https://en.wikipedia.org/wiki/Muringamangalam_Sreemahadevar_Temple"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Konni",
+  "text": "Konni is a hill town in Central Travancore in India.\n\n\n== See ==\n Chittoor JN.  \n Eliyarakkal.  \n Kummannoor.  \n Vakayar. Vellavoor is there famous family \n Kallelli.  \n Achen Kovil River.  \n Konni Elephant Cage. Konni is the gateway to the forest bordering the district. In the past, wild elephants caught from the forests were brought here and put in wooden cages known as Anakoodu to be tamed and trained for work. It is situated 11 km away from Pathanamthitta. \n\n\n== Do ==\n Trekking. Lot of forest area. \n\n\n== Eat ==\n\n\n== Drink ==\n Surya (Opposite Konni Bus Stand). One of the cheap and normal bars. Not bad. \n\"Kutty's\" A 3 star facility located across Konni Jn. for refreshment and relaxation with reasonably good standard.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Konni"
+ },
+ "sights": [
+  {
+   "name": "Muringamangalam Sreemahadevar Temple",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 9.232995,
+   "lon": 76.854455
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

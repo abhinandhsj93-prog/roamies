@@ -1,0 +1,148 @@
+{
+ "query": "Kottakkal, Malappuram",
+ "found": "Kottakkal, Ernad, Malappuram, Kerala, 676503, India",
+ "lat": 11.0004806,
+ "lon": 76.004758,
+ "fetchedAt": "2026-10-12T17:59:05.664Z",
+ "locality": {
+  "id": "kottakkal-malappuram-kerala",
+  "name": "Kottakkal",
+  "area": "Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kottakkal": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kottakkal_co_in_0002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kottakkal",
+   "credit": "Photo: Mohammedshafit, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kottakkal_co_in_0002.jpg"
+  },
+  "Tirunavaya": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Thirunavaya_%287%29.jpg/1280px-Thirunavaya_%287%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tirunavaya",
+   "credit": "Photo: Ssriram mt, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thirunavaya_(7).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kottakkal",
+   "text": "Kottakkal (literally-Land of the Fort) is a major municipal town in Malappuram district in Kerala, having 32 wards. It is one of the four municipalities in Tirur Taluk, besides Tirur, Valanchery, and Tanur. It is a part of the Malappuram metropolitan area and a growing city in Kerala. The town is best known for the Arya Vaidya Sala, one of the top Ayurvedic health centres in the world. Kottakkal is also a major growing commercial, educational, and healthcare hub in South Malabar. The town lies on the Mumbai–Kanyakumari National Highway 66.\nKottakkal is located 12 km (7.5 mi) southwest of Malappuram, the district headquarters, and 14.5 km (9.0 mi) from Tirur railway station.The National Highway 66 separates the municipality from Edarikode grama panchayat on some parts to the west. However, the fast-developing Kottakkal urban area is now spread up to different parts of neighboring panchayats such as Edarikkode.\nKottakkal town became famous after the establishment of Arya Vaidya Sala in 1902. Adding to the cultural heritage, Kottakkal Pooram, The popular temple festival is celebrated over seven days during March–April.\n\n\n== History ==\nAn Old Malayalam inscription which dates back to 932...",
+   "url": "https://en.wikipedia.org/wiki/Kottakkal"
+  },
+  {
+   "title": "Tirunavaya",
+   "text": "Tirunavaya, also spelled as Thirunavaya, is a town in Tirur Malappuram, Kerala. Situated on the northern bank of Bharatappuzha (River Ponnani/Nila or Perar), it is one of the major Hindu pilgrimage centres in Kerala. Tirunavaya, home to Tirunavaya Temple (Navamukunda/Vishnu Temple) and temples of Siva and Brahma (Cherutirunavaya Brahma Temple and Siva Temple/Tirunavaya Mahadeva Temple), is one of the most prominent places for bali tarpana on Karkitaka vavu in Kerala.",
+   "url": "https://en.wikipedia.org/wiki/Tirunavaya"
+  },
+  {
+   "title": "Indianoor",
+   "text": "Indianoor is a village in Kottakkal, Malappuram district, Kerala, India.\nEdited by MSKV",
+   "url": "https://en.wikipedia.org/wiki/Indianoor"
+  },
+  {
+   "title": "Almas Hospital",
+   "text": "Almas Hospital is a health care facility in Kottakkal, Kerala, India. It is a 400-bed hospital with 24-hour laboratory, medical lab and scanning services.",
+   "url": "https://en.wikipedia.org/wiki/Almas_Hospital"
+  },
+  {
+   "title": "Arya Vaidya Sala",
+   "text": "Arya Vaidya Sala ('Holy Medical Campus'), popularly known as Kottakkal Arya Vaidya Sala, is a healthcare centre located in Kottakkal, in the Indian state of Kerala, providing services under the Indian traditional medicine system of Ayurveda.",
+   "url": "https://en.wikipedia.org/wiki/Arya_Vaidya_Sala"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kottakkal",
+  "text": "Kottakkal is in Malappuram District, in the Malabar region, in Kerala, India. \n\n\n== See ==\n\nMambaram Dargah, Tirurangadi. Ancient tomb with many mosques with a little bridge to cross the river.\n Kunhali Marakkar Memorial. This memorial was erected by the Indian Navy to commemorate the resistance of the Kunhali Marakkars to foreign invasion of Malabar in the 16th century. (updated May 2015)\n\n\n== Do ==\n\n\n== Eat ==\n\nThere are many Kerala style restaurants.\n\n Sri Krishna Restaurant, Kottappadi, ☏ +91 989-5400013. 7.00 to 8.00.  (updated May 2015)\n Taste of Malabar, Poovanchina, Randathani (7 km). Known for Rahul Gandhi's visit in 2015. (updated May 2015)\n V.H. Avilmilk Bakery, Opp.Neha Hospital, Chenguvetty, Kottakkal. (1 km), ☏ +91 483-2740657. Famous for Avil Milk drink made of dry fruits, beaten rice and ice cream. Rs.37.00 for a cup. (updated Dec 2018)\n MUTHABBAQ Restaurant, Chettippuramadu, Vengara. Arabian style egg parottas. Fine Samosas and Banana Muthabaqs are also available. (updated Jan 2021)\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Kottakkal"
+ },
+ "sights": [
+  {
+   "name": "Kottakkal Mosque",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 11.001347,
+   "lon": 76.0073998
+  },
+  {
+   "name": "Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 11.0032215,
+   "lon": 76.0052069
+  },
+  {
+   "name": "chenguvettykundu juma masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 10.998389,
+   "lon": 76.0017298
+  },
+  {
+   "name": "Kottakkal Viswambhara Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 10.9972804,
+   "lon": 76.0097264
+  },
+  {
+   "name": "Koduvandoor Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 11.0077687,
+   "lon": 76.0044419
+  },
+  {
+   "name": "Bhadariya Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 11.007792,
+   "lon": 76.0020233
+  },
+  {
+   "name": "PUTHOOR CHUNKAM MASJID",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 11.0037374,
+   "lon": 76.0118439
+  },
+  {
+   "name": "Venkitta Thevar Shiva Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 10.9939069,
+   "lon": 76.0098245
+  },
+  {
+   "name": "Sri Vettekkaran Kavu",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 10.9946038,
+   "lon": 76.0103637
+  },
+  {
+   "name": "Campus Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 11.0077119,
+   "lon": 75.9982765
+  },
+  {
+   "name": "Pandamangalam Krishna Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 10.9915257,
+   "lon": 76.0102486
+  },
+  {
+   "name": "Atteeri Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 11.0111378,
+   "lon": 76.0049739
+  }
+ ],
+ "food": [],
+ "errors": []
+}

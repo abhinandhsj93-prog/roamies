@@ -1,0 +1,65 @@
+{
+ "query": "Irinjalakuda, Thrissur",
+ "found": "Irinjalakuda, Avittathur-Irinjalakuda(Kallettumkara)Railway road, Vallakkunnu, Chalakkudy, Thrissur, Kerala, 680683, India",
+ "lat": 10.3406466,
+ "lon": 76.2807861,
+ "fetchedAt": "2026-10-12T17:55:26.101Z",
+ "locality": {
+  "id": "vallakkunnu-thrissur-kerala",
+  "name": "Vallakkunnu",
+  "area": "Chalakkudy, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [
+  {
+   "title": "Vallakkunnu",
+   "text": "Vallakkunnu is a small village in Aloor Gramapanchayath in the state of Kerala, India. It has a population of around 600 families. The village also holds a portion of Muriyad wetland system, a part of Thrissur kole wet lands.\n\n\n== Demographics ==\nThe population is 35% Hindu and 65% Christian. One or two members from 50% of families are away from the village, working in foreign countries. The people of Vallakkunnu are well educated; the average education of those under 50 years of age is 12th standard.\n\n\n== Geography ==\nVallakkunnu is in Aloor Gramapanchayath and is a residential area surrounded by paddy fields in all sides. Potta-Munnupedika State Highway 61 passes through middle of the village. It is 7 km from National Highway 544 and 15 km from National Highway 66 with good connectivity via public and private transport to Irinjalakuda, Kodakara and Chalakudy. The nearest railway station is Irinjalakuda railway station1.5 km away and Cochin International Airport is 32 km away.  All express and passenger trains except super-fast trains stop here.\n\n\n== Notable people ==\nK. Mohandas (Ex M.P Mukundapuram constituency)\n\n\n== Places of worship ==\nSt. Alphonsa's Church (established 12-10-2008): located...",
+   "url": "https://en.wikipedia.org/wiki/Vallakkunnu"
+  },
+  {
+   "title": "Thazhekad, Thrissur",
+   "text": "Thazhekad, is the site of one of the earliest St Thomas Christian communities in Kerala. Once a prosperous inland port, during heyday of Muziris. The landscape was changed with the great floods of 1341AD.\nIt is the site of the Thazhekad Sasanam, a stone inscribed with one of the earliest surviving edicts granting special privileges to the St Thomas Christians. The inscription can be dated palaeographically to between the 8th and 10th centuries.  The Thazhekad St Sebastian church is one of the oldest in Kerala dating back to AD 800. The church is also the largest pilgrimage center in the Irinjalakuda Diocese.\nThe churches and temples in the area were ravaged by Tippu Sultan's army, during his invasion of the south, between 1789 and 1791.",
+   "url": "https://en.wikipedia.org/wiki/Thazhekad,_Thrissur"
+  },
+  {
+   "title": "Aloor, Kerala",
+   "text": "Aloor (Malayalam pronunciation: [aːɭuːɾ]) is a panchayat in the Chalakudy-Mukundapuram taluk in the Thrissur district of Kerala, India. It is located near the towns of Irinjalakuda and Chalakudi. Since 1901, the name \"Aloor\" has been simplified to \"Alur\" by the Cochin State and Central Government departments.",
+   "url": "https://en.wikipedia.org/wiki/Aloor,_Kerala"
+  },
+  {
+   "title": "Kallettumkara",
+   "text": "Kallettumkara  is a village which is the epi-centre town of Aloor Panchayat and is in Thrissur district in the state of Kerala. Kaletumkara is the Western border of newly formed Chalakudy Taluk although it elects it Legislative Assembly Candidate from Irinjalakuda Constituency, India. Kalletumkara is popular as the place where Irinjalakuda Railway Station is located  and is 8 km (5.0 mi) away from the Irinjalakuda Town. There is an interesting story behind how this place got this special name. A river called 'Kallar' (കല്ലാറ്) used to flow through the said land. The land on the banks (kara) (കര) of the river Kallar came to be known as 'Kallarin kara' (കല്ലാറിൻ കര). In Malayalam, the word 'Aar' (ആറ്) has a synonym 'Aatt' (ആറ്റ്). Hence the place was also known as 'Kallatin Kara' (കല്ലാറ്റിൻ കര). Later, the name evolved into 'Kallettinkara' (കല്ലേറ്റിൻക്കര) and later 'Kallettumkara' (കല്ലേറ്റുംക്കര). Later, due to an earthquake, the river changed its course. And there is no river flowing through Kallettumkara presently. This is the story behind the name of the place as said by the localites.",
+   "url": "https://en.wikipedia.org/wiki/Kallettumkara"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Thazhekad, Thrissur",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 10.333055555555555,
+   "lon": 76.2725
+  },
+  {
+   "name": "Aloor, Kerala",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 10.339444444444444,
+   "lon": 76.29444444444444
+  },
+  {
+   "name": "Kallettumkara",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 10.333333333333334,
+   "lon": 76.26666666666667
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

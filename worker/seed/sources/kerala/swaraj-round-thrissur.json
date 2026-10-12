@@ -1,0 +1,292 @@
+{
+ "query": "Swaraj Round, Thrissur",
+ "found": "Swaraj Round, Kottappuram, Thrissur, Kerala, 680001, India",
+ "lat": 10.5272252,
+ "lon": 76.2160654,
+ "fetchedAt": "2026-10-12T17:53:45.778Z",
+ "locality": {
+  "id": "kottappuram-thrissur-kerala",
+  "name": "Kottappuram",
+  "area": "Thrissur, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Thrissur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/JJP_112.jpg/1280px-JJP_112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thrissur",
+   "credit": "Photo: Jpullokaran, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:JJP_112.jpg"
+  },
+  "Swaraj Round, Thrissur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Thrissur_Trichur_Round-1.jpg/1280px-Thrissur_Trichur_Round-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Swaraj Round, Thrissur",
+   "credit": "Photo: Rameshng at Malayalam Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thrissur_Trichur_Round-1.jpg"
+  },
+  "St. Thomas College, Thrissur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/ST_Thomas_College_Thrissur.jpg/1280px-ST_Thomas_College_Thrissur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Thomas College, Thrissur",
+   "credit": "Photo: Shaju Panakkal, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ST_Thomas_College_Thrissur.jpg"
+  },
+  "Shakthan Thampuran Palace": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Sakthan_Thampuran_Palace%2C_Thrissur.jpg/1280px-Sakthan_Thampuran_Palace%2C_Thrissur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shakthan Thampuran Palace",
+   "credit": "Photo: Abhijith Sheheer, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sakthan_Thampuran_Palace,_Thrissur.jpg"
+  },
+  "Kerala Sangeetha Nataka Akademi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kerala_Sangeetha_Nadaka_Academy.jpg/1280px-Kerala_Sangeetha_Nadaka_Academy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kerala Sangeetha Nataka Akademi",
+   "credit": "Photo: The original uploader was Challiyan at Malayalam Wikipedia., CC BY-SA 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerala_Sangeetha_Nadaka_Academy.jpg"
+  },
+  "Kerala Lalithakala Akademi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Kerala_Lalithakala_Academi_Durbar_Hall_Ground.JPG/1280px-Kerala_Lalithakala_Academi_Durbar_Hall_Ground.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kerala Lalithakala Akademi",
+   "credit": "Photo: Ranjithsiji, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerala_Lalithakala_Academi_Durbar_Hall_Ground.JPG"
+  },
+  "Paramekkavu Bagavathi Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Paramekkavu_Bagavathi_Temple_0194.JPG/1280px-Paramekkavu_Bagavathi_Temple_0194.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Paramekkavu Bagavathi Temple",
+   "credit": "Photo: Rameshng, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paramekkavu_Bagavathi_Temple_0194.JPG"
+  },
+  "Vadakkechira": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Lake%2C_Sakthan_Thamburan_Archaeological_Museum%2CThrissur.jpg/1280px-Lake%2C_Sakthan_Thamburan_Archaeological_Museum%2CThrissur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vadakkechira",
+   "credit": "Photo: Hashpv, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake,_Sakthan_Thamburan_Archaeological_Museum,Thrissur.jpg"
+  },
+  "Thekkinkadu Maidan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Vadakkumnatha_Temple.JPG/1280px-Vadakkumnatha_Temple.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thekkinkadu Maidan",
+   "credit": "Photo: Kjrajesh at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vadakkumnatha_Temple.JPG"
+  },
+  "Church Mission Society Higher Secondary School, Thrissur": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/CMS_Boys_HSS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Church Mission Society Higher Secondary School, Thrissur",
+   "credit": "Photo: Manappurath sasi sarath, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CMS_Boys_HSS.jpg"
+  },
+  "V.K.N. Menon Indoor Stadium": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/V.K.N._Menon_Indoor_Stadium3.JPG/1280px-V.K.N._Menon_Indoor_Stadium3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "V.K.N. Menon Indoor Stadium",
+   "credit": "Photo: Smokingsingh, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:V.K.N._Menon_Indoor_Stadium3.JPG"
+  },
+  "Government Model Higher Secondary School for Boys": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Model_boys_thrissur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Government Model Higher Secondary School for Boys",
+   "credit": "Photo: Manappurath sasi sarath, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Model_boys_thrissur.jpg"
+  },
+  "Vivekodayam Boys Higher Secondary School": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Vivekodayam_2017.jpg/1280px-Vivekodayam_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vivekodayam Boys Higher Secondary School",
+   "credit": "Photo: Ukvbhss, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vivekodayam_2017.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kottappuram",
+   "text": "Kottappuram or Kottapuram may refer to:\n\nKottappuram, Kollam\nKottappuram, Kasaragod\nKottappuram, Thrissur\nKottappuram, Paravur, a village in Paravur Municipality of Kollam district",
+   "url": "https://en.wikipedia.org/wiki/Kottappuram"
+  },
+  {
+   "title": "Thrissur",
+   "text": "Thrissur (Malayalam: തൃശൂർ, pronounced [triˈʃ(ː)uːr] ), formerly Trichur, also known by its historical name Thrissivaperur (Thiru-siva-perur), is a city and the headquarters of the Thrissur district in Kerala, India. It is the third largest urban agglomeration in Kerala after Kochi and Kozhikode, and the 21st largest in India. Thrissur is classified as a Tier-2 city by the Government of India. The city is built around a 65-acre (26 ha) hillock called Thekkinkadu Maidanam which seats the Vadakkumnathan temple. It is located 284 kilometres (176 mi) north-west of the state's capital city, Thiruvananthapuram. Thrissur was once the capital of the Kingdom of Cochin, and was a point of contact for the Assyrians, Greeks, Persians, Arabs, Romans, Portuguese, Dutch and English.\nThrissur is known as City of Celebrations and also called the cultural capital of Kerala because of its cultural, spiritual and religious leanings throughout history. The city centre contains the Kerala Sangeetha Nadaka Academy, Kerala Lalithakala Akademi and Kerala Sahitya Academy. The city hosts the Thrissur Pooram, one of the largest temple festival in the state. The festival is held at the Thekkinkadu Maidan of Vadakumnathan...",
+   "url": "https://en.wikipedia.org/wiki/Thrissur"
+  },
+  {
+   "title": "Swaraj Round, Thrissur",
+   "text": "Swaraj Round or Thrissur Round is the local name for a circular road which is about 2 km long in the centre of the city of Thrissur in Kerala, India, surrounding the  65-acre (260,000 m2) hillock called the Thekkinkadu Maidan which seats the Vadakkumnathan Temple. Swaraj Round is one of the biggest Roundabout in South Asia. It is a financial, commercial and business center in Kerala and is connected by seventeen roads. Encircling the Thekkinkadu Maidan, Swaraj Round surrounds the small hillock on which the Vadakkunnathan Temple dedicated to Shiva is built. It is the largest circular road surrounding a ground in India and one of the largest roundabout in the world.\nSwaraj Round is a commercial and shopping area of Thrissur with malls, shopping centers, and jewelry and textile shops. There are two pedestrian subways in the Swaraj Round, one near Paramekkavu temple and other at M.O. Road Junction. It of the Republic parade and the Pulikali on the fourth Onam day, when Pulikali troupes from different parts of the district perform there.",
+   "url": "https://en.wikipedia.org/wiki/Swaraj_Round,_Thrissur"
+  },
+  {
+   "title": "St. Thomas College, Thrissur",
+   "text": "St. Thomas College (Autonomous), Thrissur, is a government-aided Catholic college located in Thrissur, Kerala, India. Established as a college in 1918, the college is considered to be one of the oldest and premier institutions of higher education in Princely State of Cochin. It is the first Catholic college in Kerala and is conducted by the Syro-Malabar Catholic Archdiocese of Thrissur. The college is affiliated with the University of Calicut.  \nThe college attained Autonomous status in 2014 and was recognised as College with Potential for Excellence by University Grants Commission in 2016. The college was accredited with A++ grade in its fourth cycle of National Assessment and Accreditation Council (NAAC) accreditation, scoring CGPA of 3.70 on a four-point scale in October 2022. It is ranked 57th among colleges in India by the National Institutional Ranking Framework (NIRF) in 2024.",
+   "url": "https://en.wikipedia.org/wiki/St._Thomas_College,_Thrissur"
+  },
+  {
+   "title": "Shakthan Thampuran Palace",
+   "text": "Shakthan Thampuran Palace is situated in City of Thrissur in Kerala state, India. It is named as Vadakkechira Palace, was reconstructed in Kerala-Dutch style in 1795 by Ramavarma Thampuran of the erstwhile Princely State of Cochin, well as Sakthan Thampuran (Greatest ruler of the Cochin dynasty) is preserved by Archaeological Department. The palace was converted into a museum in 2005 by State.",
+   "url": "https://en.wikipedia.org/wiki/Shakthan_Thampuran_Palace"
+  },
+  {
+   "title": "Kerala Sangeetha Nataka Akademi",
+   "text": "Kerala Sangeetha Nataka Akademi is located in Thrissur city, of Kerala, in India. \n\nThe academy presents awards for various fields like music, dance, theatre and traditional art forms. Some of the major awards include: \n\nKerala Sangeetha Nataka Akademi Fellowship\nKerala Sangeetha Nataka Akademi Award",
+   "url": "https://en.wikipedia.org/wiki/Kerala_Sangeetha_Nataka_Akademi"
+  },
+  {
+   "title": "Kerala Lalithakala Akademi",
+   "text": "Kerala Lalithakala Akademi is an autonomous cultural organization established in Kerala, India, in 1962. Its primary purpose is to promote and propagate fine arts such as painting, sculpture, and visual arts in the state. The Akademi functions under the Government of Kerala, although its constitution provides for operational autonomy.",
+   "url": "https://en.wikipedia.org/wiki/Kerala_Lalithakala_Akademi"
+  },
+  {
+   "title": "Paramekkavu Bagavathi Temple",
+   "text": "Paramekkavu Bagavathi Temple is one of the largest Bagavathi temples in Kerala located in Thrissur City. Sakthan Thampuran ordained the temples into two groups, namely \"Paramekkavu side\" and \"Thiruvambady side\" for Thrissur Pooram which is the biggest festival in South India and Kerala. These two groups are headed by the principal participants, Paramekkavu Bagavathi Temple at Thrissur Swaraj Round and Thiruvambadi Sri Krishna Temple at Shoranur road. The two temples are hardly 500 metres apart. Thiruvambadi Sri Krishna Temple is one of the two groups participating in Thrissur Pooram. The Paramekkavu temple devaswom have a school known as Paramekkavu Vidya Mandir at MLA road near Kutoor and one KG section near to the temple itself.",
+   "url": "https://en.wikipedia.org/wiki/Paramekkavu_Bagavathi_Temple"
+  },
+  {
+   "title": "Vadakkechira",
+   "text": "Vadakkechira (Malayalam: വടക്കെചിറ) is one of the four oldest ponds in Thrissur city of Kerala in India. It was built by Shakthan Thampuran (1751-1805) and is one of Thrissur's famous landmarks. It is owned by Cochin Devaswom Board.",
+   "url": "https://en.wikipedia.org/wiki/Vadakkechira"
+  },
+  {
+   "title": "Kerala University of Health Sciences",
+   "text": "Kerala University of Health Sciences (KUHS) is a state university located in Thrissur, Kerala, India. It was established by the Kerala University of Health Sciences Act 2010, for ensuring proper and systematic instruction, teaching, training, and research and also to have uniformity in the various academic programmes in medical and allied subjects in the State of Kerala. The University is mandated to affiliate all Colleges and Institutions in Kerala, imparting professional education in health care. So far around 382 professional colleges have been affiliated to the University. The Governor of Kerala serves as the University Chancellor, and the Minister for Health and Family Welfare serves as the Pro-Chancellor of the university.",
+   "url": "https://en.wikipedia.org/wiki/Kerala_University_of_Health_Sciences"
+  },
+  {
+   "title": "Thekkinkadu Maidan",
+   "text": "Thekkinkadu Maidanam is a historic open ground located in the center of Thrissur city in the Kerala state of India. The 65-acre area surrounds the ancient Vadakkunnathan Temple, one of the most significant Shiva temples in Kerala, and is a vital cultural and historical landmark. The maidan is under the management of the Cochin Devaswom Board and plays host to a variety of public events, including the famous Thrissur Pooram, one of the largest temple festivals in Kerala, often referred to as the \"Mother of all Poorams.\"",
+   "url": "https://en.wikipedia.org/wiki/Thekkinkadu_Maidan"
+  },
+  {
+   "title": "Church Mission Society Higher Secondary School, Thrissur",
+   "text": "Church Mission Society Boys Higher Secondary School (CMS HSS) is a higher secondary school located in Thrissur city, of Kerala state, in India. The school was started by CMS missionary in 1845. CMS Boys HSS, Thrissur is one of the oldest school in the state of Kerala. The school gives instruction in Malayalam and English and follows the Kerala state syllabus. It has classes from LKG to 12th (+2) standard.",
+   "url": "https://en.wikipedia.org/wiki/Church_Mission_Society_Higher_Secondary_School,_Thrissur"
+  },
+  {
+   "title": "V.K.N. Menon Indoor Stadium",
+   "text": "VKN Menon Indoor Stadium is an indoor stadium situated in the city of Thrissur in Kerala, India. The stadium is owned by Kerala State Sports Council. The stadium is used for badminton, judo and weightlifting. The stadium has got a complete makeover for 35th National Games with maple wood flooring, advanced acoustics facilities, has 10 courts and stadium also has air- conditioned hall and modern arena lighting.",
+   "url": "https://en.wikipedia.org/wiki/V.K.N._Menon_Indoor_Stadium"
+  },
+  {
+   "title": "Government Model Higher Secondary School for Boys",
+   "text": "Government Model Higher Secondary School For Boys is a Kerala Government higher secondary school situated in Thrissur City, Kerala, India. It was started in 1836 and is the oldest school in Thrissur District.",
+   "url": "https://en.wikipedia.org/wiki/Government_Model_Higher_Secondary_School_for_Boys"
+  },
+  {
+   "title": "Jos Theatre",
+   "text": "Jos Theatre is the first permanent movie theatre in Kerala, India. Located in Swaraj Round in Thrissur city, it was built by Kattukkaran Varunny Joseph, the first man to screen the film in Kerala. The movie theatre was earlier known as Jose Electrical Bioscope. It was Kerala's first permanent brick‑and‑mortar cinema hall and remains in continuous operation under the ownership of its founder's descendants.",
+   "url": "https://en.wikipedia.org/wiki/Jos_Theatre"
+  },
+  {
+   "title": "Vivekodayam Boys Higher Secondary School",
+   "text": "Vivekodayam Boys Higher Secondary School (V.B.H.S.S) is an aided school in Naikkanal, near Thrissur Town, Kerala, India. The school was established by Vivekodayam Samajom under the leadership of Rama Varma Appan Thampuran in 1917. Now, Therambil Ramakrishnan is the manager of the school.",
+   "url": "https://en.wikipedia.org/wiki/Vivekodayam_Boys_Higher_Secondary_School"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Thrissur",
+  "text": "Thrissur (originally Thirusivaperoor, formerly Trichur) is a popular city and district in the central part of Kerala in Southern India. It is known as the cultural capital of Kerala, with numerous cultural institutions, art centers, museums, etc.\n\n\n== See ==\n\n\n=== City ===\n1 Appan Thampuran Smarakam, Outpost Rd, Kalyan Nagar, Ayyanthole. Established in 1976 at Ayyanthole where Sri. Ramavarma Appanthampuran who lived the Kumarapuram Palace. This is also a cultural museum. \n2 Archeological & Art Museum, Kollengode Palace, Chembukavu, Co Operative Rd, Chembukkav, toll-free:  1800 425 4747. Open 24 hours. It has the best collection of wood carvings, metal sculptures and ancient jewelers of the Cochin dynasty. (updated Feb 2024)\n3 Basilica of Our Lady of Dolours (Our Lady of Dolours Syro-Malabar Catholic Basilica), Erinjery Angady, Pallikkulam, ☏ +91 75106 69905, doloursbasilica@gmail.com. The Roman Catholic Minor Basilica built in 1875 is locally called Puthen Palli. The 140 ft (43 m) long steeple is visible from anywhere in the town. The chapel has 15 altars. It boasts neo-Gothic spires and the largest interior of any church in South India with a lot of mural paintings on the walls and ceilings. The church houses the tallest church tower in Asia at 79 metre (260 ft) height called the Bible tower.\n4 Shakthan Thampuran Palace, Stadium Rd, Chembukkav, toll-free:  1800 425 4747. 10AM to 4PM. Named as Vadakkekara Palace, was reconstructed in Kerala-Dutch style in 1795 by Sri. Ramavarma Thampuran of the erstwhile Princely State of Cochin, well as Sakthan Thampuran(Greatest ruler of the Cochin dynasty) is preserved by Archaeological Department. No entrance fee. \n5 Thrissur Zoo (Thrissur Zoo and Museum), Town Hall Rd, Udaya Nagar, Chembukkav, ☏ +91 487- 2333056, statemuseumandzoo@gmail.com. Tue Thu-Sun 9:30AM-5:15PM, Wed 1-4:30PM. It is a major attraction for children and students with a variety of animals. There is a special building which houses snakes. Two beautiful niches with majestic seating are arranged for senior citizens to take rest while their children enjoy the sprawling zoo campus. Person above 12 years ₹20, person below 12 years & above 5 years ₹5, family ticket (father, mother & 2 children below 12 years) ₹40, still camera ₹25, handheld video camera ₹100. (updated Feb 2024)\n6 Vilangan Kunnu (Vilangan Hills), Vilagan Hill Road, toll-free:  1800 425 4747. 9AM-5PM. This hillock has been converted by the tourism department as an amusement park. While grown ups relish the scenic splendor from the hill top. Children can relax and play to their hearts. Lot of people use this place for their morning walk. Early in the morning walking to the top of hillock is a good exercise. View from top of the hill is really good especially at the time of sun rise and sun set. Now this place is under control of Thrissur District Tourism Promotion Council and they charge nominal fee for admission to amusement park and parking the vehicle. ₹10 per adult and ₹5 per child. \n7 Vaidyaratnam Ayurveda Museum (Ayurveda Museum Thrissur), Thaikkattussery Rd, opp. Vaidyaratnam Post Office, Thaikkattussery, ☏ +91 487 235 0230. Tue-Sun 9AM–6PM. Vaidyaratnam Ayurveda Museum is a museum showcasing the richness, the variety and the evolution of the Ayurveda traditional medicine of India. The museum was inaugurated by A. P. J. Abdul Kalam, former President of India, on 28 December 2013. ₹50 per person. (updated Apr 2019)\n8 Nehru Park, Round North (5 km), toll-free:  1800 425 4747. 1–8PM. Nehru Park, Thrissur, is a children’s park named after the first Prime Minister of India Jawaharlal Nehru and is owned by Thrissur Municipal Corporation. Park is located in the heart of the city with great scenery spread across 8.5 acres. The park was inaugurated by the first Vice President of India Sarvepalli Radhakrishnan in 1959. Free. (updated Jan 2016)\n9 Valiyalukkal Temple, Kodungallur - Shornur Rd, Kanimangalam (5 km), ☏ +91 487 244 9919. Beautiful Bhagavathy Temple in a photogenic sprawling sylvan compound. (updated Feb 2024)\n10 Our Lady of Lourdes Metropolitan Cathedral, East fort, Thrissur (5 km). Our Lady of Lourdes Metropolitan Cathedral, one of the largest churches in Kerala, is located in the heart of Thrissur City in the state of Kerala, India. The main attraction is an underground shrine, considered a masterpiece of architectural design. Fr John Maliekkal is said to have planned and constructed this church. (updated Jan 2016)\n\n\n=== Rural ===\n\n11 Athirappilly Falls (63 km from Thrissur). 8AM-6PM. This 80 ft (24 m) high waterfall at the threshold of the Sholayar ranges on the Western Ghats is a popular picnic spot. Two amusement parks, DreamWorld and SilverStorm, are located nearby. The falls are referred to as the Niagara Falls of India - you can spot two large falls reminiscent of the bridal veil and Horseshoe Falls at Niagara, and a smaller falls nearby. The falls are most famous for being shooting locations for popular Indian movies such as Ravan, Punnagai Mannan and Guru. From the entrance, a 5-minute walk leads to the head of the falls. From there, a walking path criss-crosses downward to the foot of the falls. The water falls into a deep well, making the location unseemingly dangerous, so the water area is off-limits to tourists. ₹50. (updated Nov 2017)\n12 Kallayikkunnu (Kallayi Hills) (30 km away, near to Kunnamkulam, exactly 2.5 km from Kunnamkulam on Kozhikode road). This hill station is also known as Narimadakkunnu. This is a beautiful place. Many newly married couples prefer this place for still and moving photography, while many film makers also prefer this place for song scenes. It's a place of natural beauty. \n Kerala Kalamandalam (30 km). It is in Cheruthuruthy and was founded by the Poet Sri. Vallathol Narayana Menon, to encourage the study of the ancient arts of Kerala such as Kathakali and Mohiniyattom. \n\n13 Peechi Dam (20 km from city). It is a good picnic spot. Buses from Thrissur and by taxi. Boating is permitted in the reservoir and occasionally you can see wild tuskers on the forested banks, part of which forms a reserved forest. \n14 Punnathur Kotta Elephant Sanctuary, 23 km from city. It is unique in being the largest elephant park in the world with over 60 elephants. \n15 Vazhachal Waterfalls (a short drive from Athirapilly). Close to dense forests and a part of the Chalakudy river. \nChalakudy Muncipality Kalabhavan Mani Memorial Park is a beautiful park made by the Chalakudy Muncipality, commemorating the deceased actor, Kalabhavan Mani. It hosts playgrounds, and paths to walk on. Visit the park in early mornings and in late afternoons.\n\n\n=== Beaches ===\n16 Snehatheeram, Thalikkulam, 25 km. A favorite beach picnic spot for local people with essential facilities, good restaurants and life guard on duty. This is similar in concept to Cherai beach; but a lot less crowded. This facility won a state tourism award in 2011. \n17 Chavakad Beach (Chavakkad Beach), 36 km. A seashore of rare scenic beauty. Acknowledged as one of the best beaches along the west coast. \n\n\n== Do ==\n\n\n=== Annual festivals or events ===\nAanayoottu (Feeding of elephants): It's a festival held in the precincts of the Vadakkunnathan temple in Thrissur C, The festival falls on the first day of the month of Karkkidakam (timed against the Malayalam calendar), which coincides with the month of July.\nFeast of Saint Raphael, Ollur: This is an annual festival held in Ollur, near Thrissur City, since 1839. It draws thousands of pilgrims.\nPuli Kali:Puli Kali literally means 'tiger play'. This event happens on the fourth day of Onam, where Puli Kali troupes from all over the Thrissur City assemble to display their skills.\nThrissur Pooram: The Pooram of all Poorams, is the most spectacular festival of this cultural capital celebrated at Vadakkumnathan Temple every year during April–May. Though non-Hindus are not allowed inside the temple, Kerala’s grandest temple pageantry, which includes colourful processions of caparisoned elephants and a midnight fireworks display, parasol exchanges, drum concerts can be witnessed from the crowded streets of Thrissur City. The two devaswams- Thiruvampadi and Paramekkavu- explore and exploit every source at their command to make this annual festival a memorable one.It is celebrated with a colourful procession of caparisoned elephants, parasol exchanges, drum concerts, display of pyro-techniques and refreshing scenes of public participation. During the festival season, Thrissur, popularly known as the temple town turns into a town of colour, music and mirth.\nTourists (with passport), can sometimes get special tickets to this event offered for free which allow them entry onto a 'Guests' viewing platform which has a great view of the whole event. To get these tickets you'll need to take your passport to the tourist office, which is about a 10 minute north of the central temple where the festival takes place. If you do get these tickets, arrive early as the ",
+  "url": "https://en.wikivoyage.org/wiki/Thrissur"
+ },
+ "sights": [
+  {
+   "name": "Swaraj Round, Thrissur",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 10.527573,
+   "lon": 76.21447
+  },
+  {
+   "name": "Church Mission Society Higher Secondary School, Thrissur",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 10.527573,
+   "lon": 76.21447
+  },
+  {
+   "name": "Thrissur",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 10.52761111111111,
+   "lon": 76.21438888888889
+  },
+  {
+   "name": "Vadakkechira",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 10.5297,
+   "lon": 76.2158
+  },
+  {
+   "name": "Government Model Higher Secondary School for Boys",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 10.5274135,
+   "lon": 76.2188325
+  },
+  {
+   "name": "Thekkinkadu Maidan",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 10.5249,
+   "lon": 76.2144
+  },
+  {
+   "name": "Paramekkavu Bagavathi Temple",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 10.5247,
+   "lon": 76.2178
+  },
+  {
+   "name": "Shakthan Thampuran Palace",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 10.531181,
+   "lon": 76.216259
+  },
+  {
+   "name": "Kerala University of Health Sciences",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 10.5232,
+   "lon": 76.2171
+  },
+  {
+   "name": "Jos Theatre",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 10.522379,
+   "lon": 76.215527
+  },
+  {
+   "name": "V.K.N. Menon Indoor Stadium",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 10.53238611111111,
+   "lon": 76.21683888888889
+  },
+  {
+   "name": "St. Thomas College, Thrissur",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 10.52301,
+   "lon": 76.21942
+  },
+  {
+   "name": "Vivekodayam Boys Higher Secondary School",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 10.5286,
+   "lon": 76.2101
+  },
+  {
+   "name": "Kerala Lalithakala Akademi",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 10.532869444444444,
+   "lon": 76.21824722222222
+  },
+  {
+   "name": "Kerala Sangeetha Nataka Akademi",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 10.532738888888888,
+   "lon": 76.21863888888889
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

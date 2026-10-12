@@ -1,0 +1,156 @@
+{
+ "query": "Perumbavoor, Ernakulam",
+ "found": "Perumbavoor, Kunnathunad, Ernakulam, Kerala, 683500, India",
+ "lat": 10.1147548,
+ "lon": 76.4778152,
+ "fetchedAt": "2026-10-12T17:50:44.786Z",
+ "locality": {
+  "id": "perumbavoor-ernakulam-kerala",
+  "name": "Perumbavoor",
+  "area": "Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Perumbavoor": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Perumbavoor_Taluk_Office_Kunnathunad.jpg/1280px-Perumbavoor_Taluk_Office_Kunnathunad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Perumbavoor",
+   "credit": "Photo: Wikiwikirajesh, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perumbavoor_Taluk_Office_Kunnathunad.jpg"
+  },
+  "The Evangelistic Association of the East": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/EAE_HeadOffice.jpg/1280px-EAE_HeadOffice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "The Evangelistic Association of the East",
+   "credit": "Photo: Stalinsunnykvj, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EAE_HeadOffice.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Perumbavoor",
+   "text": "Perumbavoor ([peɾumbaːʋuːr]) is a major town and municipality in the eastern part of the Kochi metropolitan area in the Indian state of Kerala. As per the 2011 census of India, Perumbavoor has a population of 28,110 people and is situated on the banks of the Periyar River basin. It serves as an important residential, commercial, and industrial centre in central Kerala. Perumbavoor has long been recognized as a gateway between the urban regions of Kochi and the agrarian highlands of eastern Ernakulam district. Kerala's largest centres for the timber trade and wood-based industries are located in Perumbavoor, earning a reputation as the state's plywood capital.\nThe town is also an important commercial hub serving the surrounding agricultural and plantation regions.  Perumbavoor serves as the headquarters of Perumbavoor taluk and functions as a key administrative centre in eastern Ernakulam district. In recent decades, Perumbavoor has experienced substantial industrial and commercial growth and has become one of Kerala's principal destinations for migrant workers from other Indian states, primarily West Bengal, Assam, Bihar, and Odisha contributing significantly to its economy and demographic...",
+   "url": "https://en.wikipedia.org/wiki/Perumbavoor"
+  },
+  {
+   "title": "The Evangelistic Association of the East",
+   "text": "The Evangelistic Association of the East is a registered non-governmental organization headquartered at Perumbavoor, Kerala working in the educational, social service and spirituality sectors. The organization consists of educational institutions, orphanages, and an archdiocese affiliated with Syriac Orthodox Church across South India. It was founded as the first missionary association of Syriac Orthodox Church in 1924 by 'Malphono Nasiho' Geevarghese Cor-Episcopa Athunkal(1902-1997) and later registered in 1949 under Indian Societies Registration Act. XXI of 1860. The E.A.E Arch Diocese is under the direct control of Ignatius Aphrem II, patriarch օf the Syriac Orthodox Church․",
+   "url": "https://en.wikipedia.org/wiki/The_Evangelistic_Association_of_the_East"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Perumbavoor",
+  "text": "Perumbavoor is a city in Central Kerala.\n\n\n== See ==\n\nPanieli Poru Waterfalls near Perumbavoor.\nBethel Salone Jacobites Syrian Church\nKodanad Elephant breeding Centre near Perumbavoor. Kodanad is set on the southern banks of the Periyar river near Perumbavoor and is one of the largest elephant training, and rescue centers of Kerala. Earlier elephants captured from the Malayatoor forests (the forests in the east and north of Kodanad) were trained here. In 1977 the elephant capturing came to an end, but the elephant-training center are still in function. Kodanad is now primarily used as a rescue training center, and houses baby elephants at their infancy and various stages of their growth. Four to six baby elephants are brought in and trained every year. Kodanad is the headquarters of Malayatoor forest division. Kodanad is accessible by direct bus services or by taxi from Aluva.\nKochi to Kodanad around 50 km\nAlwaye to Kodanad around 28 km\nPerumbavoor to Kodanad around 11 km\nTravelling from Angamaly to Kodanad is also fairly easy and it passes close to Malayatoor where there is a famous church.\n\n\n== Do ==\n\n\n== Eat ==\nPerumbavoor is the ideal place for enjoying various kinds of north Indian street food.  Hygiene is a serious issue.  The prices are dirt cheap.\n\n Apsara Restaurant, Perumbavoor. Famous for their legendary mutton biriyani. Locals say they don't use any refrigeration and everything is given fresh. ₹200. (updated Jan 2021)\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Perumbavoor"
+ },
+ "sights": [
+  {
+   "name": "town juma masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 10.1147368,
+   "lon": 76.4767276
+  },
+  {
+   "name": "Town Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 10.1147396,
+   "lon": 76.4767216
+  },
+  {
+   "name": "Sree Narayana Dharma Paripalana Gurumandapam Perumbavoor",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 10.1131558,
+   "lon": 76.4764775
+  },
+  {
+   "name": "മഹാത്മാ ഗാന്ധി",
+   "kind": "memorial",
+   "walkMinutes": 5,
+   "lat": 10.1148807,
+   "lon": 76.4750254
+  },
+  {
+   "name": "Mary Immaculate Catholic Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 10.1125254,
+   "lon": 76.479593
+  },
+  {
+   "name": "Sharon Felloship Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 10.1123339,
+   "lon": 76.4790062
+  },
+  {
+   "name": "bhajanamadhom",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 10.1177976,
+   "lon": 76.4794051
+  },
+  {
+   "name": "Perumbavoor Bethel Suloko Orthodox Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 10.1111149,
+   "lon": 76.4794514
+  },
+  {
+   "name": "Bethel Suloko Malankara Orthodox Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 10.1111276,
+   "lon": 76.4798536
+  },
+  {
+   "name": "Sree Dharma Shastha Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 10.1184655,
+   "lon": 76.4760341
+  },
+  {
+   "name": "Suloko church grounds",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 10.1112846,
+   "lon": 76.4797529
+  },
+  {
+   "name": "All Saints Church of South India (CSI) Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 10.1166964,
+   "lon": 76.4735432
+  },
+  {
+   "name": "St George Orthodox Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 10.1110396,
+   "lon": 76.4820045
+  },
+  {
+   "name": "Noorul Hudha Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 10.110286,
+   "lon": 76.482552
+  },
+  {
+   "name": "Santhom Malankara Catholic Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 10.1089632,
+   "lon": 76.4810954
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

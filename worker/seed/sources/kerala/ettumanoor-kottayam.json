@@ -1,0 +1,54 @@
+{
+ "query": "Ettumanoor, Kottayam",
+ "found": "Ettumanoor, Ettumanur-Neendoor Road, Kottamuri, Athirampuzha, Ettumanoor, Kottayam, Kerala, 686631, India",
+ "lat": 9.6751487,
+ "lon": 76.5460114,
+ "fetchedAt": "2026-10-12T17:46:01.835Z",
+ "locality": {
+  "id": "athirampuzha-kottayam-kerala",
+  "name": "Athirampuzha",
+  "area": "Ettumanoor, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Athirampuzha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mahatma_Gandhi_University_Junction_Athirampuzha.JPG/1280px-Mahatma_Gandhi_University_Junction_Athirampuzha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Athirampuzha",
+   "credit": "Photo: Ranjithsiji, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_University_Junction_Athirampuzha.JPG"
+  },
+  "Ettumanoor Mahadevar Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ettumanoor_Temple_North_Gate_Entrance.JPG/1280px-Ettumanoor_Temple_North_Gate_Entrance.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ettumanoor Mahadevar Temple",
+   "credit": "Photo: Ranjithsiji, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ettumanoor_Temple_North_Gate_Entrance.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Athirampuzha",
+   "text": "Athirampuzha is a town in the Kottayam district of the Kerala state of India. It is famous as the Mahatma Gandhi University is situated here.  Athirampuzha is situated 10 km north of Kottayam town, 3 km from Ettumanoor and from Main Central Road S.H.1 of Kerala. St. Mary's Forane Church (Syro malabar Catholic) is well known for the feast of St. Sebastian every year on Jan. 24 and 25. Along with the church, there is a school with classes up to 12th standard for girls and boys separately - St. Aloysius school for boys and St. Mary's School for girls.\n\n\n== History ==\nIt is believed that Athirampuzha was a well-established developed village and settlements were there even in 1200 AD. The famous traveler Marco Polo's travel descriptions, \"The description of the world\", have some references about അതിരമ്പുഴ. While he was traveling through Kerala he reached a port town called 'athiramkari'. The description of this place closely matches to അതിരമ്പുഴ. According to Marco Polo Athiramkari was a trade center famous for Pottery, Cattle's, vegetable market (ചന്ത) (still exists) and clothes. 'Chantha Kulam (ചന്തകുളം)' was the center of trade where boats could dock. It is believed that mappilas (Christians...",
+   "url": "https://en.wikipedia.org/wiki/Athirampuzha"
+  },
+  {
+   "title": "Ettumanoor Mahadevar Temple",
+   "text": "Ettumanoor Mahadeva temple is an ancient Shiva temple in Kottayam, Kerala, India. The temple is one of the major Shiva temples in Kerala, along with Vaikom Temple, Kaduthruthy Mahadeva Temple, Chengannur Mahadeva Temple, Vazhappally Maha Siva Temple, Ernakulam Shiva Temple, Vadakkunathan temple, and Sreekanteswaram Mahadeva Temple, Thiruvananthapuram.\nThe place's name had its mythological origin from the word 'man oor' in Malayalam, which means the place of deer, as 'maan' means deer and 'oor' means place. Another version is that the name originated from the 'Ettu Mana Ooru', that is, 'The Land of Eight Namboothiri Manas' or 'Ashta Grihas'. These Eight Manas (Brahmin families) are the original Ooralans of the great  Ettumanoor Mahadeva Temple. It is also believed that at this place (ooru) Lord Siva appeared in eight (Ettu) different forms (maanam) and hence the name Ettumanoor. Temple tradition is that the Pandavas and the sage Vyasa had worshipped at this temple.",
+   "url": "https://en.wikipedia.org/wiki/Ettumanoor_Mahadevar_Temple"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Ettumanoor Mahadevar Temple",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 9.67375,
+   "lon": 76.56119444444444
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "query": "Kannur",
+ "found": "Kannur, Kerala, 670004, India",
+ "lat": 11.8763836,
+ "lon": 75.3737973,
+ "fetchedAt": "2026-10-12T18:05:48.993Z",
+ "locality": {
+  "id": "talap-kannur-kerala",
+  "name": "Talap",
+  "area": "Kannur, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kannur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Kannur_Skyline_3.jpg/1280px-Kannur_Skyline_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kannur",
+   "credit": "Photo: Kidu (talk), Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kannur_Skyline_3.jpg"
+  },
+  "Kannur University": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kannur_Univerisity_Thavakkara_Campus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kannur University",
+   "credit": "Photo: Rahul B Ashok, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kannur_Univerisity_Thavakkara_Campus.jpg"
+  },
+  "Ayikkara": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mappila_bay.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Ayikkara",
+   "credit": "Photo: Bijesh, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mappila_bay.JPG"
+  },
+  "South Bazar (Caltex Junction)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%E0%B4%97%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A7%E0%B4%BF_%E0%B4%B8%E0%B5%86%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B5%BE%2C%E0%B4%95%E0%B4%BE%E0%B5%BD%E0%B4%9F%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D.jpg/1280px-%E0%B4%97%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A7%E0%B4%BF_%E0%B4%B8%E0%B5%86%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B5%BE%2C%E0%B4%95%E0%B4%BE%E0%B5%BD%E0%B4%9F%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "South Bazar (Caltex Junction)",
+   "credit": "Photo: Sahad mangadavan, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B4%97%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A7%E0%B4%BF_%E0%B4%B8%E0%B5%86%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B5%BE,%E0%B4%95%E0%B4%BE%E0%B5%BD%E0%B4%9F%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D.jpg"
+  },
+  "Fort Road, Kannur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kannur_City_Centre%2C_Kerala%2C_India.jpg/1280px-Kannur_City_Centre%2C_Kerala%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fort Road, Kannur",
+   "credit": "Photo: Shareef Taliparamba, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kannur_City_Centre,_Kerala,_India.jpg"
+  },
+  "Kannur Lok Sabha constituency": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/K.sudhakaran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kannur Lok Sabha constituency",
+   "credit": "Photo: Lok Sabha, Government of India, GODL-India, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:K.sudhakaran.jpg"
+  },
+  "Thavakkara Bus Terminal Kannur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/New_bus_stand_-_Kannur.jpg/1280px-New_bus_stand_-_Kannur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thavakkara Bus Terminal Kannur",
+   "credit": "Photo: Original uploaded by നിരക്ഷരൻ., Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_bus_stand_-_Kannur.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Talap",
+   "text": "Talap is a neighborhood of Kannur city on NH 66 in Kerala, India. It is part of Kannur Municipal Corporation. Although predominantly residential, Talap has several educational and health institutions in Kannur, and is noted for its temples and cultural institutions.\n\n\n== Education ==\nSN Vidya Mandir Talap\nChinmaya Balabhavan Talap\nGem International Pre-School Talap\nChinmaya Mission College Talap\nWales College Of Science and Management\nGovt. UP School Talap\nA K G Memorial Co Operative College of Nursing Talap\nGovt.Talap Mixed UP School\nChenginipadi School Talap\nBharathiya Vidya Bhavan Talap\n\n\n== Health ==\nKoyili Hospital Talap\nA.K.G Memorial Co-operative Hospital Talap\nChaithanya Hospital, Talap\nJJ Hospital Talap\nKripa Nursing Home Talap\nMAKS International Institute of Medical Sciences Talap\nMadhavrao Scindia Ravu Hospital Talap\nFathima Hospital Talap\nKIMST Hospital Talap\nKVM Ayurvedic hospital talap\nAsha lab\nDr. P Mahesh scanning centre Talap\nRegional public health laboratory Talap kannur\nCeyem Medilab Talap\nJeeva medical lab Talap\nMetropolis Healthcare\n\n\n== Religion ==\nTalap Shree Sundareswara Temple\nTalap Juma Masjid\nCSI Church\nOlachery Kavu Talap\n\n\n== Gallery ==\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Talap"
+  },
+  {
+   "title": "Kannur",
+   "text": "Kannur (Malayalam: [kɐɳːuːr] ), formerly known in English as Cannanore, is a  city and municipal corporation in the state of Kerala, India. It is the administrative headquarters of the Kannur district and situated 274 kilometres (170 mi) north of the major port city and commercial hub Kochi and 137 kilometres (85 mi) south of the major port city and commercial hub, Mangalore. It is the fifth largest city in Kerala. During British colonial rule in India, when Kannur was a part of the Malabar District (Madras Presidency), the city was known as Cannanore. Kannur is the fifth largest urban agglomeration in Kerala. As of the 2011 census, Kannur Municipal Corporation, the local body which administers mainland area of city, had a population of 232,486.\nKannur was the headquarters of Kolathunadu, one of the four most important dynasties on the Malabar Coast, along with the Zamorin of Calicut, Kingdom of Cochin and Kingdom of Quilon. The Arakkal kingdom had right over the city of Kannur and Laccadive Islands in the late medieval period. Kannur municipality was formed on 1 November 1866 by the Madras Act 10 of 1865 (Amendment of the Improvements in Towns Act 1850) of the British Indian Empire...",
+   "url": "https://en.wikipedia.org/wiki/Kannur"
+  },
+  {
+   "title": "Kannur University",
+   "text": "Kannur University is a multi-campus public university established in 1996 to provide development of higher education in Kasaragod, Kannur, and Mananthavady Taluk Of Wayanad districts of Kerala, India. It serves the region of North Malabar. It was established after the passing of Act No. 22 of 1996 of the Kerala Legislative Assembly. A university by the name of \"Malabar University\" had come into existence even earlier by the passing of an ordinance by the Governor of Kerala, on 9 November 1995.\nThe university was inaugurated on 2 March 1996 by E. K. Nayanar, then Chief Minister of Kerala. The objective of the Kannur University Act, 1996 was to establish in the state of Kerala a teaching, residential and affiliating university to provide for the development of higher education in Kasaragod and Kannur revenue Districts and the Mananthavady Taluk of Wayanad District.\nKannur University is a multi-campus university, at Kannur, Kasaragod, Mananthavady, Payyannur, Mangattuparamba, Thalassery, Nileshwaram and Manjeshwaram.",
+   "url": "https://en.wikipedia.org/wiki/Kannur_University"
+  },
+  {
+   "title": "Thayatheru",
+   "text": "Thayatheru is a residential neighbourhood in Kannur Municipal Corporation in the Indian state of Kerala. The name translates to \"the street below\" in Malayalam.\nThe area is predominantly residential. The district office of the Malayalam daily newspaper Malayala Manorama is located in Thayatheru. The North Malabar Chamber of Commerce office is also situated nearby.",
+   "url": "https://en.wikipedia.org/wiki/Thayatheru"
+  },
+  {
+   "title": "Chirakkalkulam",
+   "text": "Chirakkalkulam is a residential neighborhood in Kannur Municipal Corporation of Kerala state, India.  Chirakkalkulam is located between Thayatheru and Kannur City. Chirakkalkulam's significance arises from the birth of the historic Arakkal Kingdom.",
+   "url": "https://en.wikipedia.org/wiki/Chirakkalkulam"
+  },
+  {
+   "title": "Ayikkara",
+   "text": "Ayikkara is a neighborhood and one among the 56 divisions of Kannur Municipal Corporation in Kannur district of Kerala state, India. Kannur fort and the Mappila Bay is near Ayikkara. Sahil Saleem, a notable women's rights activist lives here.",
+   "url": "https://en.wikipedia.org/wiki/Ayikkara"
+  },
+  {
+   "title": "South Bazar (Caltex Junction)",
+   "text": "South Bazar or South Bazaar (Malayalam: Thekki Bazar) is a market area and road junction in Kannur city, Kerala, India. It is located on National Highway 66 between Kannur and Taliparamba.\nCaltex Junction is a major junction in the area, where National Highway 66 meets Collectorate Road and Stadium Road. The junction is close to government offices including the Kannur taluk office. The KSRTC bus depot, Kannur, is located at this junction.\nThe area has several grocery stores and automobile showrooms. A branch of the Indian Coffee House is also located in South Bazar.",
+   "url": "https://en.wikipedia.org/wiki/South_Bazar_(Caltex_Junction)"
+  },
+  {
+   "title": "Fort Road, Kannur",
+   "text": "Fort Road is a busy shopping area in Kannur city of Kerala, India. The road is so named, because it leads to the St. Angelo Fort.\nFort Road is the business hub of Kannur city, with many businesses and banks having their Kannur branches and outlets on the street. Some of the prominent shopping outlets are Supplyco, Fortlight Complex, Super Bazar. The Kannur railway station is located at the northern end of the road, and several tourist homes and hotels are concentrated in the area.\nThe State Bank of India has a large campus on Fort Road. The Kannur City Centre—Kannur's largest shopping mall—is also located there. Kannur City Centre houses many of the larger outlets like Alukkas, Baskin-Robbins, Asiatic Internet Cafe, Apollo Clinic, Majestic, and Green's Hypermarket.",
+   "url": "https://en.wikipedia.org/wiki/Fort_Road,_Kannur"
+  },
+  {
+   "title": "Kakkad, Kannur",
+   "text": "Kakkad is a residential neighborhood of Kannur city in the Indian state of Kerala. It is located 4 km from Kannur city centre, at an average elevation of 18 metres above the sea level.",
+   "url": "https://en.wikipedia.org/wiki/Kakkad,_Kannur"
+  },
+  {
+   "title": "Kannur Cantonment",
+   "text": "Kannur Cantonment (or Cannanore Cantonment the old English name), situated in Burnassery or Burnshire(the anglicized name), is a cantonment town in Kannur district in the Indian state of Kerala, between Kannur town and Kannur City. The cantonment was a military camp for Portuguese, Dutch and British rulers, and is now the headquarters of Defence Security Corps.\nThe Kannur Cantonment Board is one of the 62 cantonments in India and the only one in Kerala. The cantonment at Kannur falls in the Class III category. Defence offices such the Defence Security Corps Centre, Defence Security Corps Record, Defence Security Corps Pay Accounts Office and DPDO Kannur are located here. It is home to St. Angelo Fort, Holy Trinity Cathedral and St. Thomas Orthodox Church.",
+   "url": "https://en.wikipedia.org/wiki/Kannur_Cantonment"
+  },
+  {
+   "title": "Kannur Lok Sabha constituency",
+   "text": "Kannur Lok Sabha constituency is one of the 20 Lok Sabha (parliamentary) constituencies in Kerala state in southern India.",
+   "url": "https://en.wikipedia.org/wiki/Kannur_Lok_Sabha_constituency"
+  },
+  {
+   "title": "Capture of Cannanore",
+   "text": "The Capture of Cannanore during the Third Anglo-Mysore War took place on 17 December 1790.  Forces of the British East India Company, led by General Robert Abercromby, began besieging Cannanore (now known as Kannur), held by troops of Mysore and of the Sultan Ali Raja of Cannanore on 14 December.  After gaining control of the high ground commanding the city's main fort, the defenders surrendered.  The British victory, along with the taking of Calicut by a separate force a few days earlier, secured their control over the Malabar Coast.",
+   "url": "https://en.wikipedia.org/wiki/Capture_of_Cannanore"
+  },
+  {
+   "title": "Chinmaya Vidyalaya, Kannur",
+   "text": "Chinmaya Vidyalaya, Kannur is a senior secondary school in Kannur, Kerala, India. The school has two campuses in Kannur.",
+   "url": "https://en.wikipedia.org/wiki/Chinmaya_Vidyalaya,_Kannur"
+  },
+  {
+   "title": "Jawahar Municipal Stadium",
+   "text": "Jawahar Municipal Stadium is a stadium  in Kannur, India. It is mainly  used  for football matches. It has a capacity of 30,000 spectators.\nIn 2012, Diego Maradona made appearance at stadium with some magical moves with the ball.",
+   "url": "https://en.wikipedia.org/wiki/Jawahar_Municipal_Stadium"
+  },
+  {
+   "title": "Thavakkara Bus Terminal Kannur",
+   "text": "Thavakkara Bus Terminal, also called Kannur Central Bus Terminal or Central Bus Terminal Complex, is a bus station in Kannur, Kerala, India. It is located near to Kannur railway station. It is also India's first bus terminal to be developed on a build-operate- transfer (BOT) basis.",
+   "url": "https://en.wikipedia.org/wiki/Thavakkara_Bus_Terminal_Kannur"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kannur",
+  "text": "Kannur (കണ്ണൂര്‍ Kaṇṇūr), formerly Cannanore, is a seaside city on the northern side of Kerala (Keralam), India.\nThe Aralam Wildlife Sanctuary on the Western Ghats is a  UNESCO World Heritage Site.\nKannur (old name Cannanore) is known as Land of Looms and Lore because of the importance of the fabric industry and the concentration of Theyyam temple dance festivals.\nThe main language spoken is Malayalam. English is also understood.\nKannur is the most politically sensitive district of Kerala and most people here have a socialist leaning.\n\n\n== See ==\n\n1 Arakkal Palace & Museum, Near the beach (1 km). Samples of pre-colonial art and architecture, Moplah Bay is nearby. (updated Mar 2026)\n2 St. Angelo's Fort (3 km). Built in 1505 by the Portuguese. Very good garden and view to the sea. Short footpath into the sea near Malsyafed office. (updated Apr 2015)\n3 Snake Park, Parassinikkadavu (18 km).  (updated Apr 2015)\n4 Valapattanam (7 km). Riverside village. (updated Apr 2015)\n5 Science Park, Mele Chovva Road (2 km). The science park is a small facility containing displays of scientific and technological topics meant for school students. (updated Dec 2015)\n\n\n=== Beaches ===\n6 Azhikode Chal Beach.  (updated Jun 2026)\n7 Azhikkal beach (12 km). 2-km long footpath into the sea, fishing village. Beautiful garden and beach at Chalil village. Spectacular beach at Meenkunnu. (updated Apr 2015)\n8 Drive in Beach, Muzhappilangad (15 km). 4-km-long beach with strong sand, the longest drive-in-beach in India. The village has about 24,000 people (2011). Another beach is available at Edakkad. (updated Jun 2015)\n9 Southern Beaches. Spectacular and private beaches are available at Thayyil, Kizhunna and Thottada. Adi-Kadalayi beach is a very peaceful place. Popular with European visitors. Locals are absent. Direct buses are available from State Bank area. (updated Apr 2015)\n10 Payyambalam Beach (2 km). Very crowded place and popular with the locals. There is no esplanade, but there is a pretty little park. You can sit inside the park and watch the sunset. The park is less crowded because there is an entrance ticket. There is a very big statue of a sleeping woman made of grass inside the park. There is a perfectly formed cliff near the beach where you can walk and take photographs and this area is less crowded in spite of being more beautiful than the actual beach. The lighthouse museum has old types of lamps used by lighthouses around the world on display. (updated Jun 2015)\n\n\n=== Places of worship ===\nTemples\n\n11 Kalari Vathukkal Temple, Valapattanam (7 km).  (updated Apr 2015)\n12 Muthappan Temple, Parasinikkadavu riverside (18 km). A temple which is unique in the whole of India, where there is no idol to worship, rather a ritualistic art-form (Muttappan Theyam) to worship. The temple is built in concept of Eternal Unity and Universal worship, and does have many legends. The Muttappan is believed to be a form of Lord Shiva, in a non-Brahmincal form, thus making it a general mass figure. Here regular performances of Theyyam are considered sacred and many unique customs are followed. Free food for visitors. (updated Apr 2015)\n13 Peralassery Temple, Koothuparamba Road (14 km).  (updated Apr 2015)\n Shiva Temple, Mele Chovva (3 km).  (updated Apr 2015)\n14 Sundareshwara Temple, Talap (3 km).  (updated Apr 2015)\n15 Trichambaram Temple, Taliparamba (20 km).  (updated Apr 2015)\n Shri Maha Vishnu temple, Nadal, Thalassery Road (5 km).  (updated Aug 2015)\n\nMosques\n\n16 Mohyidheen Juma Masjid, Ayikara (Moideen Palli). A 300 year old mosque built under the patronage of Arakkal Royal Dynasty (updated Jun 2026)\n\n\n== Do ==\n\n1 Birdwatching (8 km). At Munderi Bird Sanctuary, near Varam. Many exotic birds can be spotted at Madayippara near Pashayangadi, 24 km. (updated Apr 2015)\n City Esplanade @ Caltex. Start walking from Caltex junction. Proceed to the collectorate and turn right to old bus stand. You will pass the police parade ground, exhibition ground and the oval stadium complex building. After the Stadium complex, you can turn left twice and walk in front of the policemen's houses and again turn left to reach Caltex junction. The total distance to walk is 5 km. (updated Jun 2015)\n Climbing a Hill, Avera Kunnu (6 km). You can start from Thazhe Chovva bus stop and go beyond Chovva Railway Station up the hill. There are paved roads all around the hill, up the hill and down the hill. If you don't like such a steep climb, you can also access the hill from Marakkar Kandy village on the beach side. Please note that the locals here do not know that trekking is a hobby. They might stare at strangers but never attempts to interfere. But they are very helpful if you approach them speaking English. (updated May 2015)\n Dinner at Seaside, Baby Beach (very peaceful cantonment area).  (updated Apr 2015)\n Hill Walk, S.N. College Hills (7 km). The hills and grounds around Sri Narayana College, Thottada are an ideal place for peaceful walking because there is very little traffic and open spaces are more in this region. You can access Kizhunna beach and Ezhara beach from here. The famous Muzhappilangad drive-in beach is another 3 km from here. (updated May 2015)\n Island Walk, Kolthuruthy Island, Near Kadambery (20 km). All coconut and areca nut. Beautiful bridge wide enough for a small car. Two more islands called AKG Island and Polthuruthy are nearby. (updated May 2015)\n Rajayoga Meditation @ Brahmakumaris, Opp. Nithyananda Bhawan School, Puthiyatheru (5 km), ☏ +91 9605993083. 7AM-8PM. Meditation centre. Free Sattvic food, meditation practice and lecture sessions. Beautifully furnished meditation hall upstairs. free. (updated May 2015)\n Ride in the local ferry, Azhikode beach. Frequent passenger ferries are available from Azhikkode to Parassinikkadavu, Mattool and Valapattanam. (updated Jun 2015)\n Trekking @ Pythalmala (43 km). Naduvil village. 1,450 m above sea level. Limited facilities are available on the mountain track. Look for leeches and wild elephants. (updated Apr 2015)\n Water Theme Park (16 km). Vismaya at Parassinikkadavu (updated Apr 2015)\n Tejaswini River. White water rafting. (updated Sep 2017)\n\n\n== Eat ==\nKannur follows all the traditional Kerala-Malabar food like rice, biriyanis, dosa, puttu, appam, idly, and seafoods. Stuffed mussels (Arikkadukka) are available with most of the local vendors.\n\n\n=== Budget ===\n Acquaris Vegetarian, Near old bus stand (in the basement), ☏ +91 4972700558. No parking facility. (updated Apr 2015)\n Bharath Vegetarian, Railway Station Rd (inside Abhilash Tourist Home). The best place for Masala Dosai, a fermented crepe made from rice batter, black lentils, potato and onions. ₹35 \n Grass Hopper Vegetarian, Thavakkara busstand building. Paid parking facility. (updated May 2015)\n Golden Dish Restaurant, Opp. KSRTC, ☏ +91 4972703009. With a peaceful attic section. No parking facility. (updated Apr 2015)\n India House Vegetarian, Near Old Bus Stand, ☏ +91 4972700826. No parking facility. (updated Apr 2015)\n Indian Coffee House, Near State Bank of India, ☏ +91 497 2711626. No parking facility. (updated May 2015)\n Komalavilasam Vegetarian, Near Railway Station. No parking facility. \n Marina Bakery Poothappara, Alavil - Azhikode Road (6 km).  \n Omar's Inn, North side of the Railway Station. Little cosy restaurant. No parking facility. (updated Apr 2015)\n Thiruvathira Vegetarian, Talap. Crowded eatery. No parking facility. (updated Apr 2015)\n Brownies Coffee shop, Talap. Favourite hangout of couples. (updated Oct 2017)\n Dakshin Vegetarian, South Bazar. Good dosai and idlis. (updated Oct 2017)\n Don Donna, Caltex junction.  (updated Oct 2017)\n Ranjith Restaurant, Fifth floor, Thavakkara Bus Station. Lunch ₹50, fish fry ₹60, Kada eggs ₹60. (updated Oct 2017)\n Raravis Restaurant, Near Caltex junction.  (updated Oct 2017)\n Odhens Restaurant, Ondens Road. Famous for lunch with fish fry (updated Dec 2019)\n Kailas Restaurant, Railway Road. Old style Kerala lunch cooked on firewood. Ginger pickles are also available. (updated Jan 2021)\n Pulari Restaurant, Subjail Road, ☏ +91 497 2707373. Biriyani Parcels on banana leaves. Big portions are given. (updated Jan 2021)\n\n\n=== Mid-range ===\n\n Chiffonets, Kumar tower, Bellard Road, ☏ +91 497-2709411. Exclusive Chinese & Tandoori dishes. \n Cita Pani, Payyambalam Rd.  \n Cool Land Restaurant, ☏ +91 4972760297. No parking facility. (updated Apr 2015)\n K.F.C. Restaurant, Thavakkara Bus Stand building.Block III.  (updated May 2015)\n M.V.K. Restaurant, Near Kamala International, S.N.Park Road. Good biriyani. No parking facility. \n Orange Biriyanis, Thana (5 km).  (updated May 2015)\n Othens Restaurant, Behind Kavitha Cinema, Onden Rd. 11AM to 4PM. Lunch only with exotic fish fry. \n Paris Restaurant. Famous for biriyani, samoosa and banana filling. (updated Sep 2015)\n Parkans Chinese Restaurant, opp. Sky Palace, Thavakkara.  (updated Aug 2015)\n Raandhal Restaurant, Near AKG Hospital, ☏ +91 8891191919. 11AM to 11PM.  (updated May ",
+  "url": "https://en.wikivoyage.org/wiki/Kannur"
+ },
+ "sights": [
+  {
+   "name": "Kannur University",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 11.87598,
+   "lon": 75.37292
+  },
+  {
+   "name": "South Bazar",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 11.8785,
+   "lon": 75.3737
+  },
+  {
+   "name": "Kannur",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 11.874500000000001,
+   "lon": 75.37038888888888
+  },
+  {
+   "name": "Capture of Cannanore",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 11.874500000000001,
+   "lon": 75.37038888888888
+  },
+  {
+   "name": "Jawahar Municipal Stadium",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 11.87626,
+   "lon": 75.36835
+  },
+  {
+   "name": "Chinmaya Vidyalaya, Kannur",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 11.8787,
+   "lon": 75.3686
+  },
+  {
+   "name": "Kannur Lok Sabha constituency",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 11.87,
+   "lon": 75.37
+  },
+  {
+   "name": "Thayatheru",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 11.869444444444445,
+   "lon": 75.37638888888888
+  },
+  {
+   "name": "Fort Road, Kannur",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 11.869722222222222,
+   "lon": 75.36916666666666
+  },
+  {
+   "name": "Thavakkara Bus Terminal Kannur",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 11.8675,
+   "lon": 75.37055555555555
+  },
+  {
+   "name": "Kakkad, Kannur",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 11.883333333333333,
+   "lon": 75.38333333333334
+  },
+  {
+   "name": "Chirakkalkulam",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 11.863888888888889,
+   "lon": 75.37666666666667
+  },
+  {
+   "name": "Ayikkara",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 11.859166666666667,
+   "lon": 75.37416666666665
+  },
+  {
+   "name": "Kannur Cantonment",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 11.862101,
+   "lon": 75.363722
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

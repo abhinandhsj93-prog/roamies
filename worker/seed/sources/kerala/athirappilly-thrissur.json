@@ -1,0 +1,67 @@
+{
+ "query": "Athirappilly, Thrissur",
+ "found": "Athirappilly, Chalakkudy, Thrissur, Kerala, India",
+ "lat": 10.2881179,
+ "lon": 76.558485,
+ "fetchedAt": "2026-10-12T17:54:25.788Z",
+ "locality": {
+  "id": "athirappilly-thrissur-kerala",
+  "name": "Athirappilly",
+  "area": "Chalakkudy, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Athirappilly": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Athirappilly_Waterfalls_1.jpg/1280px-Athirappilly_Waterfalls_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Athirappilly",
+   "credit": "Photo: Dil Shad Roshan, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Athirappilly_Waterfalls_1.jpg"
+  },
+  "Athirappilly Falls": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg/1280px-The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Athirappilly Falls",
+   "credit": "Photo: Jan Joseph George, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Athirappilly",
+   "text": "Athirappilly is a Grama Panchayat with 489.00 km2 area in Chalakudy Taluk, Thrissur district in Kerala, India. It is located 52 km from Thrissur city, 60 km northeast of Kochi city, 32 km northeast of Cochin International Airport, and 24 km from Chalakudy town.\n\n\n== Wildlife ==\nThe Athirappilly Falls is situated 1000 ft above sea level on the Chalakudy river, at the entrance to the Sholayar ranges of the Western Ghats, Athirappalli is a scenic combination of forests and little streams. Falling from a height of 80 feet, this is one of the largest waterfalls in the state. Many endangered and endemic species of flora and fauna are found in the forests of the Athirapilly-Vazhachal area. This area is the only place in the Western Ghats where four endangered hornbill species are seen. The Western Ghats is one of the most important biodiversity hot spot in the world. This valuable natural world is already degraded by mining and hydro electric projects. Environmentalists claim that Athirapally is a one-of its-kind riparian ecosystem in Kerala. V.S. Vijayan, Chairman of the Kerala State Biodiversity Board and former Director of the Salim Ali Centre for Ornithology and Natural History (SACON),...",
+   "url": "https://en.wikipedia.org/wiki/Athirappilly"
+  },
+  {
+   "title": "Athirappilly Falls",
+   "text": "Athirappilly Falls (Malayalam: [ɐd̪iɾɐpːiɭːi]) is situated in Athirappilly  Panchayat in Chalakudy Taluk of Thrissur District in Kerala, India on the Chalakudy River, which originates from the upper reaches of the Western Ghats at the entrance to the Sholayar ranges. It is the largest waterfall in Kerala, which stands tall at 81.5 feet. Just a short drive from Athirappilly is the Vazhachal Falls, which is close to dense green forests that are home to many endangered and endemic species of flora and fauna.\nAthirappilly Falls is the largest waterfall in Kerala and is nicknamed \"The Niagara of South India\".\nControversy about a state-proposed hydroelectric dam on the Chalakudy River above the waterfalls began in the 1990s and continued through 2017.",
+   "url": "https://en.wikipedia.org/wiki/Athirappilly_Falls"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Athirappalli",
+   "kind": "viewpoint",
+   "walkMinutes": 5,
+   "lat": 10.2889716,
+   "lon": 76.5608843
+  },
+  {
+   "name": "Kannankuzhi Siva Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 10.2876603,
+   "lon": 76.5521601
+  },
+  {
+   "name": "athirappilly temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 10.2881231,
+   "lon": 76.5655149
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

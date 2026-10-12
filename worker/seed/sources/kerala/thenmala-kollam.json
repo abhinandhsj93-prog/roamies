@@ -1,0 +1,77 @@
+{
+ "query": "Thenmala, Kollam",
+ "found": "Thenmala, Punalur, Kollam, Kerala, 691308, India",
+ "lat": 8.9652655,
+ "lon": 77.0699638,
+ "fetchedAt": "2026-10-12T17:39:58.301Z",
+ "locality": {
+  "id": "thenmala-kollam-kerala",
+  "name": "Thenmala",
+  "area": "Punalur, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Thenmala": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/13_kannara_bridge_near_shencottah.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Thenmala",
+   "credit": "Photo: Tonymshaji6, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:13_kannara_bridge_near_shencottah.jpeg"
+  },
+  "Thenmala Dam": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Thenmala_dam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Thenmala Dam",
+   "credit": "Photo: Kannanshanmugam,shanmugamstudio,Kollam, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thenmala_dam.jpg"
+  },
+  "Thenmala railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tenmala_Station.jpg/1280px-Tenmala_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thenmala railway station",
+   "credit": "Photo: Dr. Chinchu C., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenmala_Station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Thenmala",
+   "text": "Thenmala is a tourist destination on the eastern side of Kollam district in Kerala, India. It is home to the first ecotourism centre in India. The word 'Thenmala' means \"Honey hill\" in the Malayalam language. It is known for its high-quality honey export. The town is 66 km away from Kollam city, 69 km from the state capital, Trivandrum and is just 14 km away from the Tamil Nadu state border. The interstate National Highway 744, connecting Kollam with Madurai in Tamil Nadu, and State Highway 2 of Kerala are passing through Thenmala.\n\n\n== Etymology ==\nThenmala is derived from Malayalam word \"thēn\" means nectar/honey and \"mala\" means mountain. Thenmala was the shooting location for several Malayalam and Tamil films including Adiverukal (1986).\n\n\n== Tourism ==\nThenmala attracts foreign and domestic tourists with a host of attractions including boating on the lake, a rope bridge, trekking, mountaineering, biking and a musical fountain. Thenmala is approachable both from Trivandrum and Punalur by road. The nearest railway station is Thenmala. Kollam-QLN and Sengottai railway station is better connected nationally. The waterfall called Palaruvi is a prime attraction nearby. Also nearby is a deer...",
+   "url": "https://en.wikipedia.org/wiki/Thenmala"
+  },
+  {
+   "title": "Thenmala Dam",
+   "text": "The Thenmala Dam also known as Parappar Dam is part of the largest irrigation project in Kerala, India. It is built along Kallada River in Kollam district of Kerala. The reservoir is used for irrigation and power generation.\nThe dam project started in the 1960s under the Kallada Irrigation and Tree Crop development project. The foundation stone of the dam was laid by T. K. Divakaran on 26 January 1972. It was completed in 1986 and was commissioned on 26 May 1986 by K. Karunakaran along with Kallada Irrigation Project. The reservoir is now a part of Thenmala Ecotourism Project.",
+   "url": "https://en.wikipedia.org/wiki/Thenmala_Dam"
+  },
+  {
+   "title": "Thenmala railway station",
+   "text": "Thenmala railway station (station code:TML) is an NSG–6 category Indian railway station in Madurai railway division of Southern Railway zone. It serves Thenmala, located in Kollam district of the Indian state of Kerala.",
+   "url": "https://en.wikipedia.org/wiki/Thenmala_railway_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Thenmala",
+  "text": "Thenmala is in Kerala in India.  It is a scenic place known for its natural beauty. It is the location of the first eco tourism project in Kerala. The Thenmala dam is a big attraction and is mainly used for irrigation purposes.\n\n\n== See ==\n1 Thenmala Dam.  \n Hanging Bridge.  \n2 Adventure Zone.  \n3 Palaruvi Waterfalls.  \n Kulathupuzha (10 km south of Tenmala on the road to Shencottah). With forest range, well known for its ayyappa temple, templefish pond, elephants and reeds. \n\n\n== Do ==\n Boat riding on the dam.  \n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Thenmala"
+ },
+ "sights": [
+  {
+   "name": "Thenmala railway station",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 8.9669,
+   "lon": 77.0727
+  },
+  {
+   "name": "Thenmala Dam",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 8.953888888888889,
+   "lon": 77.06972222222223
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

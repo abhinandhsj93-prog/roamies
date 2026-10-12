@@ -1,0 +1,42 @@
+{
+ "query": "Erumely, Kottayam",
+ "found": "Erumely, Kanjirappally, Kottayam, Kerala, 686509, India",
+ "lat": 9.4813743,
+ "lon": 76.8448927,
+ "fetchedAt": "2026-10-12T17:47:02.381Z",
+ "locality": {
+  "id": "karinkallummoozhi-kottayam-kerala",
+  "name": "Karinkallummoozhi",
+  "area": "Erumely, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Erumely Sree Dharmasastha Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Erumeli_Petta_Sastha_Temple.jpg/1280px-Erumeli_Petta_Sastha_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Erumely Sree Dharmasastha Temple",
+   "credit": "Photo: Akhilan, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erumeli_Petta_Sastha_Temple.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Erumely Sree Dharmasastha Temple",
+   "text": "Erumely Sree Dharmasastha Temple is a Hindu temple located in the heart of Erumely town in Kottayam district in the  Indian state of Kerala. The temple is dedicated to Ayyappa or Dharmasastha. It is also an important meeting place of Sabarimala pilgrims.",
+   "url": "https://en.wikipedia.org/wiki/Erumely_Sree_Dharmasastha_Temple"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Erumely Sree Dharmasastha Temple",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 9.48011111111111,
+   "lon": 76.844
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "query": "Vadanappally, Thrissur",
+ "found": "Vadanappally, Chavakkad, Thrissur, Kerala, 680614, India",
+ "lat": 10.4697097,
+ "lon": 76.0813089,
+ "fetchedAt": "2026-10-12T17:56:06.347Z",
+ "locality": {
+  "id": "edassery-thrissur-kerala",
+  "name": "Edassery",
+  "area": "Chavakkad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Vadanappally": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Organic-vegetable-cultivation.jpeg/1280px-Organic-vegetable-cultivation.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vadanappally",
+   "credit": "Photo: Hajhouse, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Organic-vegetable-cultivation.jpeg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Vadanappally",
+   "text": "Vatanappally (Vatanappilly/) is a panchayat and census town in Thrissur district, in the state of Kerala, India.\nVatanapally is a small coastal village on the coastal belt of Thrissur district, about 19 km (12 mi) from Thrissur town. It is the nearest point on NH 66 from Trichur city. It is at a junction from where one can directly reach Kodungallur, Guruvayur and Thrissur town. Vatanappally is next to Kandassankadavau (an ancient trade centre) and NH 66 passes straight through the heart of the town.\nDurga devi temple, South Juma Masjid, St. Francis church and the beach are nearby tourist attractions. Snehatheeram is a nearby tourist beach at Talikulam, which is about 4 km (2.5 mi) from Vatanappally. Every year a beach festival named Oruma is celebrated here.\nGuruvayoor Temple, Palayoor Church, Thriprayar Temple, Kodungallur Cheraman Juma Masjid Vatanapally Temple, Thirumangalam temple (listed in 108 swayambu siva temples), Chavakkad Manathala Mosque, shankaramangallam shiva temple and Kodungallur Temple are some of the nearby pilgrim centres.\nVatanappally pincode :680614",
+   "url": "https://en.wikipedia.org/wiki/Vadanappally"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Chavakkad",
+  "text": "Chavakkad is a municipality in Thrissur District of Kerala state in India. Chavakkad is noted for its beach and fishing. It lies on National Highway 17 is about 75 km (47 mi) north of the city of Kochi, the commercial capital of Kerala and 25 km (16 mi) west of Thrissur, the cultural capital of Kerala.\n\n\n== See ==\n\n1 Chavakkad Beach. Located on the coast of Arabian Sea in West Coast, Chavakkad Beach is counted amongst Kerala's most popular beaches. It is two kilometres from the Chavakkad town. Chavakkad Beach is famous for the spectacle called 'Azhimokam' in Malayalam which means a place where a river confluences with the sea. \n2 Chettuva Light House. 3-5PM. Located at Thottappu 6 km from Chavakkad Town. Breathtaking view of Kerala and Arabian Sea. There are 140 steps in the lighthouse.  You can see the western ghats from here on clear day. Near by the village orumanayoor ₹5. \n3 Guruvayur Temple. A major shrine in India. \n4 St. Thomas Church, Palayur. Located at Palayur, the church was established in 52 AD by St Thomas, one of the twelve close disciples of Jesus Christ. Palayoor church is the oldest (Romo-Syrian) Church in India and is called an Apostolic Church credited to the Apostolate of St. Thomas who preached and also started conversion of people to Christianity here. \n\n\n== Do ==\n\n\n== Eat ==\n\n A.P.S.Restaurant, Mallurkkadavu Road.  (updated Jun 2015)\n Kallayi Coffee Shop, Opposite Police Station. For local snacks. (updated Feb 2016)\n Parambans Hotel, Mullathara.  (updated Jun 2015)\n Rahmaniyya Restaurant, Near Police Station. Fine ambiance. Popular for Rottippathiri, a kind of rice cake that goes well with meat. (updated Feb 2016)\n Salkkara Restaurant, Chavakkad.  (updated Jun 2015)\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Chavakkad"
+ },
+ "sights": [
+  {
+   "name": "Vadanapally Bhagavathi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 10.4690111,
+   "lon": 76.078497
+  },
+  {
+   "name": "Papunni Asan Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 10.4721171,
+   "lon": 76.0824394
+  },
+  {
+   "name": "bagavathy",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 10.4691395,
+   "lon": 76.0786911
+  },
+  {
+   "name": "St. Francis Xavier's Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 10.4714836,
+   "lon": 76.0835411
+  },
+  {
+   "name": "Masjid Umar;Unimoni Financial Services Ltd",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 10.4649427,
+   "lon": 76.0825916
+  },
+  {
+   "name": "Vadanappilly East Thangal Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 10.4666036,
+   "lon": 76.0859168
+  },
+  {
+   "name": "Echru Muthappan Devi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 10.4758852,
+   "lon": 76.0784493
+  },
+  {
+   "name": "ganeshamangalam temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 10.4752904,
+   "lon": 76.0771426
+  },
+  {
+   "name": "edassery west juma masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 10.4623592,
+   "lon": 76.0841224
+  },
+  {
+   "name": "Puthukulangara Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 10.461565,
+   "lon": 76.0835407
+  },
+  {
+   "name": "vatanappally south juma masjith",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 10.4683274,
+   "lon": 76.072788
+  },
+  {
+   "name": "Ganeshamangalam Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 10.4754732,
+   "lon": 76.075597
+  },
+  {
+   "name": "Manjiparambil Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 10.4778182,
+   "lon": 76.0795721
+  },
+  {
+   "name": "Vatanappally North Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 10.4775509,
+   "lon": 76.0758352
+  },
+  {
+   "name": "CSM Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 10.4632987,
+   "lon": 76.0880501
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

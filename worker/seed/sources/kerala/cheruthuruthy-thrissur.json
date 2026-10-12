@@ -1,0 +1,87 @@
+{
+ "query": "Cheruthuruthy, Thrissur",
+ "found": "Cheruthuruthy, Talappilly, Thrissur, Kerala, 679123, India",
+ "lat": 10.746956,
+ "lon": 76.2751204,
+ "fetchedAt": "2026-10-12T17:55:46.274Z",
+ "locality": {
+  "id": "cheruthuruthy-thrissur-kerala",
+  "name": "Cheruthuruthy",
+  "area": "Talappilly, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Cheruthuruthy": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Vallathol_Nagar.jpg/1280px-Vallathol_Nagar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cheruthuruthi",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vallathol_Nagar.jpg"
+  },
+  "Cheruthuruthi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Vallathol_Nagar.jpg/1280px-Vallathol_Nagar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cheruthuruthi",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vallathol_Nagar.jpg"
+  },
+  "Kerala Kalamandalam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Koothambalam_at_Kerala_Kalamandalam.jpg/1280px-Koothambalam_at_Kerala_Kalamandalam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kerala Kalamandalam",
+   "credit": "Photo: Arayilpdas at Malayalam Wikipedia, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koothambalam_at_Kerala_Kalamandalam.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Cheruthuruthi",
+   "text": "Cheruthuruthy, also known as Vallathol Nagar, is a small town in India near Wadakkanchery in Thrissur district on the banks of the Nila (Bharathapuzha) River.\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Cheruthuruthi"
+  },
+  {
+   "title": "Kerala Kalamandalam",
+   "text": "Kerala Kalamandalam, a deemed-to-be-University of Art and Culture by the Government of India, is a major centre for learning Indian performing arts, especially those that developed in the country's southern states, with special emphasis on those from Kerala. The institution, on the banks of the Bharathapuzha river, is situated in the small town of Cheruthuruthi in Thrissur district.",
+   "url": "https://en.wikipedia.org/wiki/Kerala_Kalamandalam"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Cheruthuruthy Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 10.7466506,
+   "lon": 76.2743677
+  },
+  {
+   "name": "Vallathol Museum",
+   "kind": "museum",
+   "walkMinutes": 5,
+   "lat": 10.7494557,
+   "lon": 76.2746155
+  },
+  {
+   "name": "Pudussery Sree Mariamman Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 10.7431021,
+   "lon": 76.2709843
+  },
+  {
+   "name": "Kozhimam Parambu Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 10.7391501,
+   "lon": 76.2730012
+  },
+  {
+   "name": "Vilayath Subramanyaswami Temple വിലയത്ത് സുബ്രഹ്മണ്യസ്വാമി ടെമ്പിൾ",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 10.7427117,
+   "lon": 76.2661732
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: The operation was aborted due to timeout"
+ ]
+}

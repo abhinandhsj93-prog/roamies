@@ -1,0 +1,21 @@
+{
+ "query": "Haripad, Alappuzha",
+ "found": "Haripad, Haripad railway station road, Paingali, Pilappuzha, Haripad, Karthikappally, Alappuzha, Kerala, 690514, India",
+ "lat": 9.2777001,
+ "lon": 76.4631904,
+ "fetchedAt": "2026-10-12T17:44:41.181Z",
+ "locality": {
+  "id": "pilappuzha-alappuzha-kerala",
+  "name": "Pilappuzha",
+  "area": "Haripad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "query": "Changanassery, Kottayam",
+ "found": "Changanassery, Kottayam, Kerala, India",
+ "lat": 9.4896674,
+ "lon": 76.6278343,
+ "fetchedAt": "2026-10-12T17:46:42.566Z",
+ "locality": {
+  "id": "santhipuram-kottayam-kerala",
+  "name": "Santhipuram",
+  "area": "Changanassery, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Karukachal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Karukachalbusstand_02.jpg/1280px-Karukachalbusstand_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Karukachal",
+   "credit": "Photo: Anandtr2006, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karukachalbusstand_02.jpg"
+  },
+  "St. Mary's Syro Malabar Catholic Church, Koothrapally": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/St_Mary%27s_Church_Koothrapally.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "St. Mary's Syro Malabar Catholic Church, Koothrapally",
+   "credit": "Photo: St Marys Chruch Koothrapally, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Church_Koothrapally.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Karukachal",
+   "text": "Karukachal is a fast-growing town in Changanassery Taluk in Kottayam district of Kerala state in India. The name \"Karukachal\" was coined from the words \"Karuka\"(Karukapullu in Malayalam) which is a type of grass which grew in plenty and \"chal\" meaning a small body of flowing water. Karukachal in Changanacherry-Vazhoor Road which is almost a century old. The next nearest town, Chanaganasserry, is 14 km (8.7 mi) & Kottayam is 20 km from Karukachal.",
+   "url": "https://en.wikipedia.org/wiki/Karukachal"
+  },
+  {
+   "title": "Perumpanachy",
+   "text": "Perumpanachy is a village in Kottayam district of Kerala state in India. Perumpanachy falls under Madapally Panchayat and Chanaganacherry Thaluk. The village is situated 6 km away from Changanassery.  The greenish landscape includes rubber plantation, paddy fields, coconut trees, pepper and a wide variety of plants and trees.",
+   "url": "https://en.wikipedia.org/wiki/Perumpanachy"
+  },
+  {
+   "title": "St. Mary's Syro Malabar Catholic Church, Koothrapally",
+   "text": "St. Mary's Syro Malabar Catholic Church, Koothrapally is a Catholic Church near Karukachal in Kottayam district of Kerala, India. It is under Nedumkunnam forane of Archeparchy of Changanasserry. The Church was founded in 1876 by the Indian Christian leader Palakunnel Mathai Mariam Kathanar most famously known as Palakunnel Veliyachan. He is known for his struggles for Dalit community in 19th century. The Church is widely known for its patronage of Saint Maurus whom the devotees call 'Vishuda Maurus Muthapan'. The feast 'Muthappan Perunnal' commemorating his name occurs during the week of Epiphany Season with Pindikuthi Perunnal being part of festive.\nSt. Maurus was an Italian Catholic monk known as the first disciple of St. Benedict of Nursia. He is famous for his rescue of his fellow monk St. Placidus from drowning. His relics were brought from Italy by Palakunnel Veliyachen and a statue of St. Maurus was installed in chapel. It is the only church in Asia that serves St Maurus as a Patron Saint.",
+   "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Syro_Malabar_Catholic_Church,_Koothrapally"
+  },
+  {
+   "title": "Mammood",
+   "text": "Mammood is a small village in Kottayam district of Kerala state in India. Mammood falls under Madapally Panchayat and Chanaganacherry Thaluk. The village is situated about 10 km away from Changanacherry town. Changanacherry-Vazhoor Road passes through this village. Around 25,000 people lives here. The greenish landscape includes rubber plantations, paddy fields, coconut trees, pepper, mango trees, coca, and a wide variety of plants and trees.",
+   "url": "https://en.wikipedia.org/wiki/Mammood"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Central Travancore",
+  "text": "Central Travancore is in Kerala in India.\n\n\n== See ==\n\n\n== Do ==\n\n\n== Eat ==\nThe cuisine of Central Travancore is a meat lover's delight, with lot of emphasis on chicken, beef, mutton and pork. The domination of Kerala Christianity (Nasarani) culture has effectively created many unique dishes, many assimilated from West Asian or European culture. Since the region falls within spice belt, most of the dishes are extremely spicy and absolutely tasty.\nAlrazi restaurant is situated near Mahalekshmi Silks Muthoor, Thiruvalla. They serve best Kuzhimanthi Chicken in town. https://www.youtube.com/watch?v=6q0hPeIQZJc \n\n",
+  "url": "https://en.wikivoyage.org/wiki/Central_Travancore"
+ },
+ "sights": [
+  {
+   "name": "Karukachal",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 9.5,
+   "lon": 76.63333
+  },
+  {
+   "name": "Mammood",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 9.5,
+   "lon": 76.63333333333334
+  },
+  {
+   "name": "Perumpanachy",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 9.5,
+   "lon": 76.63333333333334
+  },
+  {
+   "name": "St. Mary's Syro Malabar Catholic Church, Koothrapally",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 9.483333333333333,
+   "lon": 76.61666666666666
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

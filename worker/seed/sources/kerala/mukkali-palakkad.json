@@ -1,0 +1,22 @@
+{
+ "query": "Mukkali, Palakkad",
+ "found": "Mukkali, Mannarkad, Palakkad, Kerala, India",
+ "lat": 11.0644273,
+ "lon": 76.5400622,
+ "fetchedAt": "2026-10-12T17:57:26.287Z",
+ "locality": {
+  "id": "mukkali-palakkad-kerala",
+  "name": "Mukkali",
+  "area": "Mannarkad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}
