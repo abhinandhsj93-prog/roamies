@@ -79,7 +79,12 @@ const walkMinutes = (lat1: number, lon1: number, lat2: number, lon2: number) => 
   return Math.max(1, Math.round((metres * 1.3) / 80));
 };
 
-const OVERPASS_ENDPOINTS = ['https://overpass-api.de/api/interpreter', 'https://overpass.private.coffee/api/interpreter'];
+const OVERPASS_ENDPOINTS = [
+  'https://overpass-api.de/api/interpreter',
+  'https://overpass.kumi.systems/api/interpreter',
+  'https://maps.mail.ru/osm/tools/overpass/api/interpreter',
+  'https://overpass.private.coffee/api/interpreter',
+];
 
 type OverpassElement = { lat?: number; lon?: number; center?: { lat: number; lon: number }; tags?: Record<string, string> };
 
@@ -143,8 +148,10 @@ out tags 60;`),
 
 type WikiQuery = { query?: { geosearch?: { pageid: number; title: string; lat: number; lon: number }[]; pages?: Record<string, { title: string; extract?: string; fullurl?: string }> } };
 
-async function extracts(host: string, params: string, chars: number): Promise<Article[]> {
-  const url = `https://${host}/w/api.php?action=query&format=json&prop=extracts|info&inprop=url&explaintext=1&exlimit=20&exchars=${chars}&${params}`;
+async function extracts(host: string, params: string, chars?: number): Promise<Article[]> {
+  const url = `https://${host}/w/api.php?action=query&format=json&prop=extracts|info&inprop=url&explaintext=1&exlimit=20${
+    chars ? `&exchars=${chars}` : ''
+  }&${params}`;
   const r = await getJson<WikiQuery>(url);
   return Object.values(r.query?.pages ?? {})
     .filter((p) => p.extract)
@@ -169,12 +176,25 @@ export async function wikipediaNearby(lat: number, lon: number, locality: Locali
   return { articles: all.filter((a, i) => all.findIndex((b) => b.title === a.title) === i), landmarks };
 }
 
+// Keeps a Wikivoyage article's intro and its See, Do, Eat and Drink sections, which hold
+// the sights and named places to eat that travellers care about.
+export function travelSections(text: string, maxChars = 9000) {
+  const parts = text.split(/\n(?===+ [^=]+ =+)/);
+  let keeping = true; // the intro
+  const keep = parts.filter((part) => {
+    const top = part.match(/^== ([^=]+?) ==(?!=)/); // a top-level section; deeper ones follow their parent
+    if (top) keeping = /^(See|Do|Eat|Drink)\b/i.test(top[1]);
+    return keeping;
+  });
+  return keep.join('\n').slice(0, maxChars);
+}
+
 // The neighbourhood's own Wikivoyage article, else the city's (Fort Kochi is covered under Kochi).
 export async function wikivoyage(locality: Locality): Promise<Article | undefined> {
   const city = locality.area.split(',')[0]?.trim();
   for (const title of [locality.name, city].filter(Boolean) as string[]) {
-    const [a] = await extracts('en.wikivoyage.org', `titles=${encodeURIComponent(title)}&redirects=1`, 6000).catch(() => [] as Article[]);
-    if (a) return a;
+    const [a] = await extracts('en.wikivoyage.org', `titles=${encodeURIComponent(title)}&redirects=1`).catch(() => [] as Article[]);
+    if (a) return { ...a, text: travelSections(a.text) };
   }
   return undefined;
 }

@@ -116,3 +116,9 @@ test('bad coordinates are rejected', async () => {
   const res = await worker.fetch(new Request('https://api.test/place?lat=abc'), env);
   assert.equal(res.status, 400);
 });
+
+test('travelSections keeps the intro and See, Do, Eat and Drink', async () => {
+  const { travelSections } = await import('../src/sources.ts');
+  const text = 'Intro.\n== Understand ==\nHistory.\n== See ==\nFort.\n== Eat ==\n=== Budget ===\nKashi Art Cafe.\n== Sleep ==\nHotel.';
+  assert.equal(travelSections(text), 'Intro.\n== See ==\nFort.\n== Eat ==\n=== Budget ===\nKashi Art Cafe.');
+});

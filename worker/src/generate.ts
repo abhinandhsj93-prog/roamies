@@ -136,17 +136,17 @@ Rules for each field:
 - briefing: 2 or 3 sentences that open with "Hey, you're in ${locality.name}!" and give one surprising true fact.
 - hungryLine: one sentence about what people eat around here.
 - moodReplies: one or two sentences each for "Show me around", "Somewhere to chill", "Surprise me".
-- seeFirst.spots: up to 3 sights from the OpenStreetMap sights list, nearest and most interesting first. Use the exact name. detail is "<N> min walk · <short tip>". status is from the opening hours if given (e.g. "Open till 5 pm", tone "open"; "Closed Fridays", tone "warning"), else a short practical note with tone "neutral". Pick the illustration closest in kind: palace = heritage building or fort or museum, synagogue = place of worship, warehouses = market, street or anything else.
+- seeFirst.spots: up to 3 sights from the nearby sights list (or named in the Wikivoyage See section), nearest and most interesting first. Use the exact name. detail is "<N> min walk · <short tip>". status is from the opening hours if given (e.g. "Open till 5 pm", tone "open"; "Closed Fridays", tone "warning"), else a short practical note with tone "neutral". Pick the illustration closest in kind: palace = heritage building or fort or museum, synagogue = place of worship, warehouses = market, street or anything else.
 - seeFirst.caption: e.g. "All within 6 min".
 - legends: up to 2 local stories or curiosities found in the sources. "where" is a short location.
 - tips: exactly 2 practical tips. icon "sun" for time-of-day or weather, "tag" for money or shopping.
 - story: exactly 5 slides telling the history of this place in order, each body 2 or 3 sentences, the era a year or period. The last slide is "Today" and invites the user to go explore. Pick the closest illustration: flood = water, rivers, nature or origins; pepper = trade, spices, arrivals; palace, synagogue, warehouses as above.
-- food: up to 5 spots from the OpenStreetMap food list, using exact names. detail is "<dish or cuisine> · <₹, ₹₹ or ₹₹₹ if you can tell, else leave out> · <N> min". Tags only when the source supports them.
+- food: up to 5 places to eat from the nearby food list, or named in the Wikivoyage Eat section if that list is empty, using exact names. Prefer places close to this neighbourhood. detail is "<dish or cuisine> · <₹, ₹₹ or ₹₹₹ if you can tell, else leave out> · <N> min". Tags only when the source supports them.
 
-## OpenStreetMap sights
+## Nearby sights
 ${s.sights.map(poiLine).join('\n') || '(none found)'}
 
-## OpenStreetMap food
+## Nearby food (OpenStreetMap)
 ${s.food.map(poiLine).join('\n') || '(none found)'}
 
 ## Articles
@@ -203,9 +203,11 @@ export function assemblePlace(s: Sources, d: Draft, lat: number, lon: number) {
   const near = (list: Poi[], name: string) => list.find((p) => p.name.toLowerCase() === name.toLowerCase());
   const mapsQuery = (name: string) => `${name}, ${locality.name}, ${locality.area}`;
 
-  // Only keep spots the model took from the OSM lists, so every card is a real place.
-  const spots = (d.seeFirst?.spots ?? []).filter((x) => nonEmpty(x.name) && near(s.sights, x.name)).slice(0, 3);
-  const food = (d.food ?? []).filter((x) => nonEmpty(x.name) && near(s.food, x.name)).slice(0, 5);
+  // Only keep places named in the sources (OSM lists or the Wikivoyage text), so every card is real.
+  const voyageText = s.wikivoyage?.text.toLowerCase() ?? '';
+  const inSources = (list: Poi[], name: string) => Boolean(near(list, name)) || voyageText.includes(name.toLowerCase());
+  const spots = (d.seeFirst?.spots ?? []).filter((x) => nonEmpty(x.name) && inSources(s.sights, x.name)).slice(0, 3);
+  const food = (d.food ?? []).filter((x) => nonEmpty(x.name) && inSources(s.food, x.name)).slice(0, 5);
 
   const credits = ['OpenStreetMap contributors'];
   if (s.wikipedia.length) credits.unshift('Wikipedia');
@@ -265,8 +267,21 @@ export function assemblePlace(s: Sources, d: Draft, lat: number, lon: number) {
 
 export type GeneratedPlace = ReturnType<typeof assemblePlace>;
 
+// Model overloads (429, 500, 503) are usually brief, so retry a couple of times before giving up.
+async function withRetry<T>(fn: () => Promise<T>, waits = [2000, 6000]): Promise<T> {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      return await fn();
+    } catch (e) {
+      const transient = e instanceof Error && /\b(429|500|503)\b/.test(e.message);
+      if (!transient || attempt >= waits.length) throw e;
+      await new Promise((r) => setTimeout(r, waits[attempt]));
+    }
+  }
+}
+
 export async function generatePlace(env: Env, s: Sources, lat: number, lon: number): Promise<GeneratedPlace> {
   const prompt = buildPrompt(s);
-  const draft = env.AI_PROVIDER === 'gemini' ? await callGemini(env, prompt) : await callAnthropic(env, prompt);
+  const draft = await withRetry(() => (env.AI_PROVIDER === 'gemini' ? callGemini(env, prompt) : callAnthropic(env, prompt)));
   return { ...assemblePlace(s, draft, lat, lon), model: `${env.AI_PROVIDER}/${env.AI_MODEL}` };
 }
