@@ -76,7 +76,9 @@ One-time setup:
    - `GEMINI_API_KEY`
    - `FIREBASE_SERVICE_ACCOUNT`, which is the whole JSON file from step 2
 6. Re-run the **Deploy places API** workflow (Actions tab → Deploy places API → Run workflow). The log prints the worker URL, `https://roamies-api.<your-subdomain>.workers.dev`.
-7. Add that URL as a repository **variable** (same page, Variables tab) named `ROAMIES_API_URL`. Then re-run **Android APK** so the app uses it.
+7. The app defaults to `https://roamies-api.abhinandhsj93.workers.dev` (`src/lib/useCurrentPlace.ts`). To point a build somewhere else, set the repository **variable** `ROAMIES_API_URL`.
+
+Each deploy smoke-tests Fort Kochi and shows the result as a notice on the workflow run. `GET /debug?lat=…&lng=…` shows what the open-data sources return for a spot, without calling the AI.
 
 Try it in a browser: `https://roamies-api.<your-subdomain>.workers.dev/place?lat=9.9658&lng=76.2421` (Fort Kochi). The first call takes up to a minute while it writes the guide.
 

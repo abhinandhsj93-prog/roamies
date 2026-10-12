@@ -6,7 +6,8 @@ import type { Place } from '@/content/types';
 
 // Bundled places count as "here" within this distance; further away we ask the Roamies API.
 const BUNDLED_RADIUS_KM = 1.5;
-const API_URL = process.env.EXPO_PUBLIC_ROAMIES_API_URL;
+// Public URL of the Roamies places API (worker/), deployed to Cloudflare.
+const API_URL = process.env.EXPO_PUBLIC_ROAMIES_API_URL || 'https://roamies-api.abhinandhsj93.workers.dev';
 
 export type CurrentPlace = {
   place: Place;
