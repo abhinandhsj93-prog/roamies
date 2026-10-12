@@ -9,7 +9,7 @@
 // The first request for a locality gathers open data, has the AI write the guide once,
 // stores it, and returns it. Every later request is served from Firestore.
 
-import { getPlaceJson, releaseLock, savePlace, takeLock, type FirestoreEnv } from './firestore.ts';
+import { getPlaceJson, nearestSeededJson, releaseLock, savePlace, takeLock, type FirestoreEnv } from './firestore.ts';
 import { generatePlace, type Env as AiEnv } from './generate.ts';
 import { gatherSources, reverseGeocode } from './sources.ts';
 
@@ -41,12 +41,17 @@ async function debugSources(lat: number, lng: number) {
   };
 }
 
+const SEEDED_RADIUS_KM = 4;
+
 async function handlePlace(env: Env, lat: number, lng: number) {
   const locality = await reverseGeocode(lat, lng);
   if (!locality) return json({ status: 'unknown' }, 404);
 
   const cached = await getPlaceJson(env, locality.id);
   if (cached) return ready(cached);
+  // A pre-written guide for the town or sight nearby beats writing a new one.
+  const seeded = await nearestSeededJson(env, lat, lng, SEEDED_RADIUS_KM).catch(() => null);
+  if (seeded) return ready(seeded);
 
   if (!(await takeLock(env, locality.id))) return json({ status: 'generating', name: locality.name }, 202);
   try {
@@ -60,7 +65,7 @@ async function handlePlace(env: Env, lat: number, lng: number) {
     }
     const place = await generatePlace(env, sources, lat, lng);
     const placeJson = JSON.stringify(place);
-    await savePlace(env, locality.id, placeJson, { name: place.name, model: place.model });
+    await savePlace(env, locality.id, placeJson, { name: place.name, model: place.model, lat, lon: lng });
     return ready(placeJson);
   } finally {
     await releaseLock(env, locality.id);

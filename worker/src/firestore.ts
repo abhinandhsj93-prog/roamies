@@ -48,7 +48,10 @@ async function accessToken(env: FirestoreEnv): Promise<string> {
 const docUrl = (env: FirestoreEnv, path: string) =>
   `https://firestore.googleapis.com/v1/projects/${env.FIREBASE_PROJECT_ID}/databases/(default)/documents/${path}`;
 
-type Fields = Record<string, { stringValue?: string; timestampValue?: string; booleanValue?: boolean; integerValue?: string }>;
+type Fields = Record<
+  string,
+  { stringValue?: string; timestampValue?: string; booleanValue?: boolean; integerValue?: string; doubleValue?: number }
+>;
 
 // Bump when the guide format or sources change; older stored guides are then written again on next visit.
 export const PLACE_VERSION = 2;
@@ -70,8 +73,15 @@ export async function getPlaceJson(env: FirestoreEnv, id: string): Promise<strin
   return doc.fields?.json?.stringValue ?? null;
 }
 
-export async function savePlace(env: FirestoreEnv, id: string, json: string, meta: { name: string; model: string }) {
+export async function savePlace(
+  env: FirestoreEnv,
+  id: string,
+  json: string,
+  meta: { name: string; model: string; lat?: number; lon?: number; seeded?: boolean },
+) {
   const fields: Fields = {
+    ...(meta.lat !== undefined && meta.lon !== undefined ? { lat: { doubleValue: meta.lat }, lon: { doubleValue: meta.lon } } : {}),
+    ...(meta.seeded ? { seeded: { booleanValue: true } } : {}),
     json: { stringValue: json },
     name: { stringValue: meta.name },
     lang: { stringValue: 'en' },
@@ -82,6 +92,39 @@ export async function savePlace(env: FirestoreEnv, id: string, json: string, met
   };
   const res = await request(env, docUrl(env, `places/${id}_en`), { method: 'PATCH', body: JSON.stringify({ fields }) });
   if (!res.ok) throw new Error(`firestore save ${res.status}: ${await res.text()}`);
+}
+
+const km = (lat1: number, lon1: number, lat2: number, lon2: number) =>
+  Math.hypot((lon2 - lon1) * Math.cos((lat1 * Math.PI) / 180), lat2 - lat1) * 111.32;
+
+/**
+ * The nearest pre-written (seeded) guide within radiusKm, as JSON. Seeded guides cover a whole
+ * town or sight, so a visitor anywhere around it gets that guide instead of waiting for a new one.
+ */
+export async function nearestSeededJson(env: FirestoreEnv, lat: number, lon: number, radiusKm: number): Promise<string | null> {
+  const dLat = radiusKm / 111.32;
+  const range = (op: string, value: number) => ({ fieldFilter: { field: { fieldPath: 'lat' }, op, value: { doubleValue: value } } });
+  const res = await request(env, docUrl(env, '').replace(/\/$/, '') + ':runQuery', {
+    method: 'POST',
+    body: JSON.stringify({
+      structuredQuery: {
+        from: [{ collectionId: 'places' }],
+        where: { compositeFilter: { op: 'AND', filters: [range('GREATER_THAN_OR_EQUAL', lat - dLat), range('LESS_THAN_OR_EQUAL', lat + dLat)] } },
+        limit: 200,
+      },
+    }),
+  });
+  if (!res.ok) throw new Error(`firestore query ${res.status}`);
+  const rows = (await res.json()) as { document?: { fields?: Fields } }[];
+  let best: { d: number; json: string } | undefined;
+  for (const { document } of rows) {
+    const f = document?.fields;
+    if (!f?.seeded?.booleanValue || f.lon?.doubleValue === undefined || f.lat?.doubleValue === undefined) continue;
+    if (Number(f.version?.integerValue ?? 1) < PLACE_VERSION || !f.json?.stringValue) continue;
+    const d = km(lat, lon, f.lat.doubleValue, f.lon.doubleValue);
+    if (d <= radiusKm && (!best || d < best.d)) best = { d, json: f.json.stringValue };
+  }
+  return best?.json ?? null;
 }
 
 const LOCK_SECONDS = 120;

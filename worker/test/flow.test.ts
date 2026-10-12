@@ -59,6 +59,11 @@ function stubFetch(store: Map<string, string>, calls: string[]) {
       return ok({ candidates: [{ content: { parts: [{ text: JSON.stringify(draft) }] } }] });
     }
     if (url.includes('oauth2.googleapis.com')) return ok({ access_token: 'token', expires_in: 3600 });
+    if (url.includes(':runQuery')) {
+      // Every stored doc that has a lat (the stub ignores the range filter).
+      const docs = [...store.entries()].filter(([k]) => k.startsWith('places/')).map(([, v]) => JSON.parse(v));
+      return ok(docs.filter((d) => d.fields?.lat).map((d) => ({ document: d })));
+    }
     if (url.includes('firestore')) {
       const path = new URL(url).pathname.split('/documents/')[1];
       const docId = path.startsWith('locks') && method === 'POST' ? `locks/${new URL(url).searchParams.get('documentId')}` : path;
@@ -121,4 +126,27 @@ test('travelSections keeps the intro and See, Do, Eat and Drink', async () => {
   const { travelSections } = await import('../src/sources.ts');
   const text = 'Intro.\n== Understand ==\nHistory.\n== See ==\nFort.\n== Eat ==\n=== Budget ===\nKashi Art Cafe.\n== Sleep ==\nHotel.';
   assert.equal(travelSections(text), 'Intro.\n== See ==\nFort.\n== Eat ==\n=== Budget ===\nKashi Art Cafe.');
+});
+
+test('a seeded guide nearby is served instead of writing a new one', async () => {
+  const store = new Map<string, string>();
+  const calls: string[] = [];
+  globalThis.fetch = stubFetch(store, calls) as typeof fetch;
+  const seeded = { name: 'Fort Kochi', seeded: true };
+  store.set(
+    'places/fort-kochi-ernakulam-kerala_en',
+    JSON.stringify({
+      fields: {
+        json: { stringValue: JSON.stringify(seeded) },
+        version: { integerValue: '2' },
+        seeded: { booleanValue: true },
+        lat: { doubleValue: 9.9658 },
+        lon: { doubleValue: 76.2421 },
+      },
+    }),
+  );
+  const res = await worker.fetch(new Request('https://api.test/place?lat=9.9576&lng=76.2595'), env);
+  assert.equal(res.status, 200);
+  assert.equal(((await res.json()) as { place: { name: string } }).place.name, 'Fort Kochi');
+  assert.ok(!calls.some((c) => c.includes('generativelanguage')), 'no AI call');
 });

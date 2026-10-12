@@ -20,10 +20,11 @@ const only = process.argv[2]; // optional file name filter
 const dir = new URL('./written/', import.meta.url);
 const results: string[] = [];
 for (const file of readdirSync(dir).filter((f) => f.endsWith('.json') && (!only || f.includes(only))).sort()) {
-  const { query, draft, region = 'kerala' } = JSON.parse(readFileSync(new URL(file, dir), 'utf8')) as {
+  const { query, draft, region = 'kerala', name } = JSON.parse(readFileSync(new URL(file, dir), 'utf8')) as {
     query: string;
     draft: Draft;
     region?: string;
+    name?: string; // the name visitors know ("East Fort"), when the locality's is a suburb ("Chala")
   };
   const sourceFile = new URL(`../sources/${region}/${slug(query)}.json`, dir);
   try {
@@ -35,9 +36,16 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json') && (!only 
           trustNames: true,
           sourcesText: `Written by Meera, your AI travel friend, from ${credits.join(', ')}. Not yet fact-checked.`,
         }),
+        ...(name ? { name } : {}),
         model: 'claude/hand-written',
       };
-      await savePlace(env, src.locality.id, JSON.stringify(place), { name: place.name, model: place.model });
+      await savePlace(env, src.locality.id, JSON.stringify(place), {
+        name: place.name,
+        model: place.model,
+        lat: src.lat,
+        lon: src.lon,
+        seeded: true,
+      });
       results.push(`${file} -> ${src.locality.name} (${Object.keys(src.photos ?? {}).length} photos)`);
       continue;
     }
