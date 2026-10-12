@@ -1,0 +1,64 @@
+{
+ "query": "Jog Falls",
+ "found": "Jog Falls (pinned)",
+ "lat": 14.2293,
+ "lon": 74.8129,
+ "fetchedAt": "2026-10-12T19:12:52.701Z",
+ "locality": {
+  "id": "kargal-shimoga-karnataka",
+  "name": "Kargal",
+  "area": "Sagara taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Kargal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/TOURIST_FECILITATION_CENTRE_KARGIL.jpg/1280px-TOURIST_FECILITATION_CENTRE_KARGIL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kargil",
+   "credit": "Photo: FAYAZ SHUJA, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TOURIST_FECILITATION_CENTRE_KARGIL.jpg"
+  },
+  "Kargil": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/TOURIST_FECILITATION_CENTRE_KARGIL.jpg/1280px-TOURIST_FECILITATION_CENTRE_KARGIL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kargil",
+   "credit": "Photo: FAYAZ SHUJA, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TOURIST_FECILITATION_CENTRE_KARGIL.jpg"
+  },
+  "Jog Falls": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Jog_Falls_05092016.jpg/1280px-Jog_Falls_05092016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jog Falls",
+   "credit": "Photo: Nikhilb239, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jog_Falls_05092016.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Jog Falls",
+   "text": "Jog Falls (also known as Gerusoppa Falls, Joga Jalapata, or Jogada Gundi) is a series of large, segmented waterfalls on the Sharavati River in Karnataka state of India, created by the river plunging approximately 253 metres (830 ft) and splitting into four distinct cascades (Raja, Rani, Roarer, and Rocket). The waterfalls are situated in the Sagar taluk of the Shivamogga district.\nJog Falls is a major attraction for tourists. It features two primary viewpoints: the first one is the front panoramic viewpoint located in the Jog-Kargal Town of Sagara taluk in the Shivamogga district and the second is the British Bungalow viewpoint, located adjacent to the falls in the Siddapur taluk of Uttara Kannada. It is a segmented waterfall which, depending on rainfall and season, may become a plunge waterfall. It is the third-highest waterfall in India by total height, and is ranked 36th in the list of the world's highest free-falling waterfalls, 490th in the world by total height, and 128th in the list of single-drop waterfalls according to the World Waterfall Database.\n\n\n== Description ==\nJog Falls is created by the Sharavati River dropping a total of 253 m (830 ft), making it the third-highest waterfall...",
+   "url": "https://en.wikipedia.org/wiki/Jog_Falls"
+  },
+  {
+   "title": "Kargil",
+   "text": "Kargil (English: /ˈkɑrɡɪl/ KAR-ghil, Hindi: [kaːɾɡɪl]) or Kargyil is a city and headquarter of the eponymous district, tehsil, and community development block of Indian-administered Ladakh in the disputed Kashmir region. It is the joint capital of Ladakh, an Indian-administered union territory, and the headquarters of the Kargil district. It is the second-largest urban centre in Ladakh after Leh. Kargil is located 204 kilometres (127 mi) east of Srinagar in Jammu and Kashmir, and 234 kilometres (145 mi) to the west of Leh. It is on the bank of the Suru River near its confluence with the Wakha Rong River, the latter providing the most accessible route to Leh.\n\n\n== Etymology ==\nThe Ladakh Chronicles spell the name of Kargil as Wylie: dkar skyil, THL: kar kyil. The word can be interpreted as meaning a bright or wholesome expanse. Modern newspapers are said to spell the name as Wylie: dkar `khyil, THL: kar khyil. It can also be interpreted as a bright or wholesome mountainous amphitheatre. This phrase occurs often in Tibetan literature.\nThe Kargil basin does give the feel of an expanse surrounded by low-pitched mountains, with the low Khurbathang plateau at the southeastern corner. This is...",
+   "url": "https://en.wikipedia.org/wiki/Kargil"
+  },
+  {
+   "title": "Christ the King Church, Jog Falls",
+   "text": "Christ the King Church, Jog Falls was established in 1959. It is located in Jog Falls, Sagara, Shimoga District, Karnataka state, India.",
+   "url": "https://en.wikipedia.org/wiki/Christ_the_King_Church,_Jog_Falls"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Christ the King Church, Jog Falls",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 14.22888888888889,
+   "lon": 74.81194444444444
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}
