@@ -1,0 +1,50 @@
+name: Android APK
+
+# Builds an installable APK in the cloud and attaches it to the "latest-apk" release.
+# It is signed with the React Native template debug keystore (SHA-1 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25),
+# which is registered in Firebase so Google sign-in works. Not for the Play Store.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [expo-scaffold, main]
+
+concurrency:
+  group: android-apk-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v4
+      - run: npm ci
+      - run: npx expo prebuild --platform android --no-install
+      - name: Build release APK
+        working-directory: android
+        run: ./gradlew assembleRelease --no-daemon
+      - name: Publish APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp android/app/build/outputs/apk/release/app-release.apk roamies.apk
+          gh release delete latest-apk --yes --cleanup-tag || true
+          gh release create latest-apk roamies.apk --prerelease --target "$GITHUB_SHA" \
+            --title "Latest test APK" --notes "Built from ${GITHUB_REF_NAME} at ${GITHUB_SHA::7}."
+      - uses: actions/upload-artifact@v4
+        with:
+          name: roamies-apk
+          path: roamies.apk
