@@ -1,0 +1,90 @@
+{
+ "query": "Kabini",
+ "found": "Kabini, Karnataka, India",
+ "lat": 12.0140065,
+ "lon": 76.4152088,
+ "fetchedAt": "2026-10-12T18:31:22.519Z",
+ "locality": {
+  "id": "manchahalli-mysuru-district-karnataka",
+  "name": "Manchahalli",
+  "area": "Saraguru taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "sights": [
+  {
+   "name": "Chikkadevamma Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 12.0095625,
+   "lon": 76.4101763
+  },
+  {
+   "name": "Manchamma Tempale",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 12.0103525,
+   "lon": 76.4084249
+  },
+  {
+   "name": "Shiriyanna Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 12.0100184,
+   "lon": 76.4084228
+  },
+  {
+   "name": "Holiyamma Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 12.0087828,
+   "lon": 76.4082917
+  },
+  {
+   "name": "Rama Devara Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 12.008924,
+   "lon": 76.4083134
+  },
+  {
+   "name": "Halamma Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 12.0089464,
+   "lon": 76.407805
+  },
+  {
+   "name": "Rama Mandira",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 12.0091195,
+   "lon": 76.4074083
+  },
+  {
+   "name": "Basaveshwara Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 12.00928,
+   "lon": 76.4069735
+  },
+  {
+   "name": "Ganesh Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 12.0091016,
+   "lon": 76.4070216
+  },
+  {
+   "name": "Gali Basappa Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 12.0087993,
+   "lon": 76.4072802
+  }
+ ],
+ "food": [],
+ "errors": []
+}

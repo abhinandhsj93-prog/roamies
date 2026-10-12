@@ -1,0 +1,53 @@
+{
+ "query": "Talakadu",
+ "found": "Talakadu, Tirumakudalu Narasipura taluk, Mysuru District, Karnataka, 571122, India",
+ "lat": 12.1919942,
+ "lon": 77.0293979,
+ "fetchedAt": "2026-10-12T18:30:03.596Z",
+ "locality": {
+  "id": "talakadu-mysuru-district-karnataka",
+  "name": "Talakadu",
+  "area": "Tirumakudalu Narasipura taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Talakadu": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Vaidyeshvara_Temple_%281000_AD%29_at_Talakad.JPG/1280px-Vaidyeshvara_Temple_%281000_AD%29_at_Talakad.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Talakadu",
+   "credit": "Photo: Dineshkannambadi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaidyeshvara_Temple_(1000_AD)_at_Talakad.JPG"
+  },
+  "Group of temples at Talakadu, Karnataka": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Vaidyeshvara_Temple_%281000_AD%29_at_Talakad.JPG/1280px-Vaidyeshvara_Temple_%281000_AD%29_at_Talakad.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Group of temples at Talakadu, Karnataka",
+   "credit": "Photo: Dineshkannambadi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaidyeshvara_Temple_(1000_AD)_at_Talakad.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Talakadu",
+   "text": "Talakādu is a town on the left bank of the Kaveri river 45 km (28 miles) from Mysore and 133 km (82 miles) from Bangalore in Karnataka, India. Latinizations of the towns name vary, but include Talkād, Talakadu, Talakkadu, or Thalakadu. It had over 30 temples, most of which now lay buried in sand. The extant group of temples, where the eastward flowing Kāveri river changes course as the sand on its banks spreads over a wide area, is a popular pilgrimage site for Hindus.\n\n\n== History ==\n\nThe origin of the town is lost in antiquity, but one tradition is that its name was derived from two Kirāta twin brothers, Tala and Kādu. The brothers cut down a tree after seeing wild elephants worship it and discovered it contained an image of Shiva and that the elephants were rishis transformed. The tree being miraculously restored, all obtained mōksha and the place was named Tala-kādu, which was translated into Sanskrit as Dala-vana. Two stone images declared to represent the brothers are pointed out in front of the temple Veerabadra swamy. In a later age, Rāma is said to have halted here on his expedition to Lanka.\nThe earliest authentic mention of the city of Talekād or Talakādu, in Sanskrit Dalavana...",
+   "url": "https://en.wikipedia.org/wiki/Talakadu"
+  },
+  {
+   "title": "Group of temples at Talakadu, Karnataka",
+   "text": "The Group of temples at Talakadu, located about 45 km south-east of the culturally important city of Mysore in the Karnataka state of India are ancient Hindu temples built by multiple South Indian dynasties. Archaeological excavations of the sand dunes at Talakad (or Talakadu) have shown the existence of several ruined temples built during the rule of the Western Ganga dynasty (c.345-999). However, according to historian I. K. Sarma, only two temples, the Pataleshvara (also spelt Patalesvara) and Maraleshvara (also spelt Maralesvara), built during the reign of King Rachamalla Satyavakya IV (r.975-986) are intact. According to the Archaeological Survey of India (ASI), the Vaidyeshvara temple (also spelt Vaidyesvara), the largest, the most intact and ornate of the group bears Ganga-Chola-Hoysala architectural features. Its consecration is assignable to the 10th century with improvements made up to the 14th century. According to the art historian Adam Hardy, the Kirtinarayana temple (also spelt Keertinarayana) was built in 1117 A.D. by the famous Hoysala King Vishnuvardhana to celebrate his victory over the Cholas in the battle of Talakad. It has currently been dismantled by the ASI for...",
+   "url": "https://en.wikipedia.org/wiki/Group_of_temples_at_Talakadu,_Karnataka"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Group of temples at Talakadu, Karnataka",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 12.1946782,
+   "lon": 77.030539
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

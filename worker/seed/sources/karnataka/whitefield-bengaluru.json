@@ -1,0 +1,137 @@
+{
+ "query": "Whitefield, Bengaluru",
+ "found": "Whitefield (Kadugodi), SH35, Belathur, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560067, India",
+ "lat": 12.9957428,
+ "lon": 77.7579489,
+ "fetchedAt": "2026-10-12T18:27:21.548Z",
+ "locality": {
+  "id": "belathur-bengaluru-urban-karnataka",
+  "name": "Belathur",
+  "area": "Bengaluru, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Kadugodi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/View_of_street_in_kadugodi.jpg/1280px-View_of_street_in_kadugodi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kadugodi",
+   "credit": "Photo: Mdayasakii, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_street_in_kadugodi.jpg"
+  },
+  "Whitefield railway station (Bengaluru)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Vande_Bharat_Express_at_Whitefield.jpg/1280px-Vande_Bharat_Express_at_Whitefield.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Whitefield railway station (Bengaluru)",
+   "credit": "Photo: Sameer2905, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vande_Bharat_Express_at_Whitefield.jpg"
+  },
+  "Whitefield (Kadugodi) metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Whitefield_%28Kadugodi%29_metro_station_%28Mar_%2725%29.jpg/1280px-Whitefield_%28Kadugodi%29_metro_station_%28Mar_%2725%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Whitefield (Kadugodi) metro station",
+   "credit": "Photo: Sameer2905, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whitefield_(Kadugodi)_metro_station_(Mar_%2725).jpg"
+  },
+  "Hopefarm Channasandra metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Hopefarm_Channasandra_metro_station_20230323_234856.jpg/1280px-Hopefarm_Channasandra_metro_station_20230323_234856.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Hopefarm Channasandra metro station",
+   "credit": "Photo: Santosh4118, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hopefarm_Channasandra_metro_station_20230323_234856.jpg"
+  },
+  "Kadugodi Tree Park metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kadugodi_Tree_Park_Metro.jpg/1280px-Kadugodi_Tree_Park_Metro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kadugodi Tree Park metro station",
+   "credit": "Photo: Chaitanya, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kadugodi_Tree_Park_Metro.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Belathur",
+   "text": "Belathur  is a locality in the eastern part of Bangalore.\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Belathur"
+  },
+  {
+   "title": "Acharadi",
+   "text": "Acharadi  is a village in the southern state of Karnataka, India. It is located in the Sakleshpur taluk of Hassan district in Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Acharadi"
+  },
+  {
+   "title": "Kadugodi",
+   "text": "Kādugodi (originally called Kādugudi) is a suburb located in Whitefield, Bangalore in the state of Karnataka, India. The area is said to have been founded over 1000 years ago by the Chola dynasty.",
+   "url": "https://en.wikipedia.org/wiki/Kadugodi"
+  },
+  {
+   "title": "Whitefield railway station (Bengaluru)",
+   "text": "Whitefield railway station (station code: WFD) is an Indian Railways train station located in Whitefield, Bengaluru, in the Indian state of Karnataka, which is about 8 km away from the Krishnarajapuram railway station and serves the Whitefield area.\nThe Whitefield railway station is about 3 km north of the Whitefield Bus stop. It lies on the Bangalore–Chennai route and is double and electrified, the Krishnarajapuram–Whitefield section is slated to be converted to a quadruple line. The station is slated to become a junction with a new Whitefield–Kolar (53 km; 33 miles) line being laid. It is located near the Whitefield (Kadugodi) metro station of the Bengaluru Namma Metro system.",
+   "url": "https://en.wikipedia.org/wiki/Whitefield_railway_station_(Bengaluru)"
+  },
+  {
+   "title": "Whitefield (Kadugodi) metro station",
+   "text": "Whitefield (Kadugodi) (formerly known as Whitefield) is the elevated eastern terminal metro station on the east–west corridor of the Purple Line of Namma Metro in Bengaluru, India which serves the main Whitefield neighbourhood area. Around this station is the Whitefield railway station, followed by some locations like Whitefield Traffic Police Station, Kadugodi Police Station, Kadugodi Bus Terminus, MJR Pearl Apartment, BSNL Telephone Service Center, Sri Sathya Sai Baba Ashram and many more.\nThe Whitefield - Krishnarajapura trial runs were successfully conducted from 25 October for a month. This metro station was inaugurated on March 25, 2023, by Prime Minister Narendra Modi and was opened to the public on March 26, 2023.",
+   "url": "https://en.wikipedia.org/wiki/Whitefield_(Kadugodi)_metro_station"
+  },
+  {
+   "title": "Hopefarm Channasandra metro station",
+   "text": "Hopefarm Channasandra (formerly known as Channasandra) is an elevated metro station on the East-West corridor of the Purple Line of Namma Metro in Bengaluru, India, which serves the main Channasandra neighbourhood area. This station is situated near the Whitefield metro depot, Prestige Park View apartment, a few shopping centres, and other commercial and residential establishments.\nThe Whitefield - Krishnarajapura trial runs were successfully conducted from 25 October for a month. This metro station was inaugurated on March 25, 2023 by Prime Minister Narendra Modi, and opened to the public on March 26, 2023.",
+   "url": "https://en.wikipedia.org/wiki/Hopefarm_Channasandra_metro_station"
+  },
+  {
+   "title": "Kadugodi Tree Park metro station",
+   "text": "Kadugodi Tree Park (formerly known as Kadugodi) is an elevated metro station on the East-West corridor of the Purple Line of Namma Metro in Bengaluru, India which serves the suburban area of Kadugodi. The Kadugudi Tree Park and some IT Companies (Goldman Sachs, HP Enterprise, etc.) are in close proximity to this station.\nThe Whitefield - Krishnarajapura trial runs were successfully conducted from 25 October for a month. This metro station was inaugurated on March 25, 2023 by Prime Minister Narendra Modi and was opened to the public on March 26, 2023.",
+   "url": "https://en.wikipedia.org/wiki/Kadugodi_Tree_Park_metro_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bengaluru",
+  "text": "Bengaluru (Kannada: ಬೆಂಗಳೂರು Bengaḷūru), formerly Bangalore, is the largest city in southern India and the capital of the state of Karnataka. A cosmopolitan city, Bengaluru was developed around what was once a mud fort of a feudal lord. The city has a population of nearly 13 million (2025), making it India's fourth-largest city.\nKnown worldwide as the \"Silicon Valley of India\", Bengaluru is at the core of India's information technology (IT) industry. In addition, the city is nicknamed the \"Garden City\" for its large array of parks and greenery.\n\n\n== See ==\nIndividual listings can be found in Bengaluru's district articles\n\nThere are city tours that can show you the city efficiently if you are short on time. Typically, tours do not include entry fees into the attractions. Bengaluru, like the rest of India, has a habit of charging foreigners a lot more than locals for attractions. For example, Tipu Sultan's Summer Palace, which is on the half-day tour, charges ₹15 for Indians/SAARC and ₹200 for non-Indians.\n\n\n== Do ==\nIndividual listings can be found in Bengaluru's district articles\n\n\n=== Outdoor activities ===\nBengaluru is bestowed with rock climbers, aqua sportsmen and aero sportsmen. There are several clubs, including Nature Admire, Care, Spark, KMA, Capture, Mars, Angel, Wildcraft and Adventure Works.\nCamping facilities are available at Savandurga, Gunjoor Lake, Bhimeshwari, Rangaswamy betta.\nThe Art of Bicycle Trips organises bicycle tours in and around the city, which combine cycling with art and heritage.\nThe Koramangala Club in Koramangala, and the Swimming club at the National Games Village (NGV), have facilities such as swimming pools and tennis courts.\nBalahalli Reserved Forest is a  UNESCO World Heritage Site\nCricket\nBengaluru is also popular for playing cricket. Bengaluru also has the M Chinaswamy Stadium and is home to the Royal Challengers Bengaluru in the Indian Premier League and Women's Premier League. Chinaswamy Stadium also hosts international matches against teams. Chinaswamy Stadium is also known for its energetic crowd in cheering the Royal Challengers Bengaluru former captain Virat Kohli and the rest of the team, especially when they win. Book tickets early especially for IPL matches because when Royal Challengers Bengaluru is playing, the tickets get sold out within seconds. If you arrive in January or February, book tickets for the Women's Premier League as it takes place in those months and is often less crowded than the IPL matches. Always carry a water bottle while travelling to Chinaswamy Stadium. \n\n\n=== Movies ===\nTake in a movie at one of the innumerable theaters around the city. Some multiplexes:\n\n Cinemax (Bengaluru Central, Bellandur).   \n Cinepolis, Royal Meenakshi Mall, Bannerghatta Rd; ETA Mall, Binny Pete; Forum Shantiniketan, Whitefield.  \n Gopalan Cinemas, Arch Mall, Mysore Rd,. Gopalan Mall, Mysore Road; Gopalan Mall, Near Jayadeva Hospital, Bannerghatta Road ; Gopalan Mal;, Old Madras Road, Near Baiyappanhalli Metro Station \n Inox theatre, Bengaluru Central, JP Nagar, Fame Cinemas, MG Road, Forum Value Mall, Whitefield, Garuda Mall, Magrath Road, Lido Mall, Ulsoor, Mantri Square, Malleshwaram, Garuda Swagath Mall, Jayanagar.   \n PVR Cinemas, Nexus Mall, Koramangala, Orion Mall, Malleshwaram, The Phoenix Market City Mall, Whitefield; Vega Mall, JD Mara signal.   \n Bangalore Film Society. A club membership (around ₹500/year) is typically required for entrance. Foreign film series and cultural events. \n\n\n=== Spas ===\nSpas and massages are very much a part of Bengaluru's east-meets-west culture, new ones spring up across the city all the time. Beware that many of the \"massage\" classifieds in local newspapers may be fronts for prostitution. Prostitution is illegal and if caught in a raid, you may end up spending a night in the cooler before being eligible for bail. Most legitimate spas and massage parlours have detailed websites and are run professionally.\n\n\n== Eat ==\nIndividual listings can be found in Bengaluru's district articles\nBengaluru has a wide variety of food options. Foreigners will want to look for cleanliness in choosing a place to eat. Also don't expect the exterior to be too fancy, observe the cleanliness of the inside and the servers when choosing a place to eat! Eating options include high end restaurants to chains to temples to mom and pop shops and of course street vendors! Restaurants usually label if they serve only vegetarian (veg or pure veg) or both veg and non-veg cuisine. If you haven't been in India long, it is safer to take bottled water. But juices and other drinks are usually OK.\nThere are also hundreds of young coconut and sugarcane juice stands! A nice refresher as you go around town! Both are good for keeping cool and energized. A coconut goes for ₹25-30 (some stands may have smaller coconuts for ₹10-15). Sugar cane juice runs ₹10-15 per cup.\nBengaluru is far from the sea, and as such the quality of seafood can vary. Some of the higher end and popular seafood places manage this well, but foreign travellers may want to tread a bit carefully.\nForeigners might want to only drink bottled water and eat only chutneys that are made with bottled or filtered water. Also, beef is forbidden to be on the menu in Karnataka restaurants.\nThe 80 Feet Road is the Eat Street of Koramangala. Pizza Hut, Domino's, KFC, Taco Bell, Au Bon Pain are all found here. There are also many non-chains serving local Indian cuisine. Chandni Chowk is a great option if you want the rural Punjabi dhaba experience.\nWisdom Cafe, near the AlienWare showroom is a really cosy place to have some snacks or lunch. So is the Hole in the Wall cafe, on the back street behind Maharaja Hotel. Serves great coffee and English breakfast. So does Cafe Terra, near Wipro park crossing. Adjacent to it is a really popular food joint called Little Home. It serves nice North Indian food at a very reasonable price. It's really popular with the young working populace. Naturals Ice cream parlour is a hit with the hip crowd; on weekend nights you may find queues outside.\n\n\n=== Chains ===\n\n The Adiga's chain. Restaurants to the south of Bengaluru. Prominent among them are in: Jayanagar 4th Block, take the road facing BHS First Grade College, Basavanagudi. \n Beijing Bites. 11AM-3:30PM, 7PM-11PM. Chain restaurant inspired by Chinese & Thai cuisines, spread across Bengaluru. ₹200-₹400. \n Kamat Yatrinivas, Majestic; All around the city. Authentic Mangalorean meals. \n Mast Kalandar, All around the city. Very nice North India cuisine. It is very reasonably priced. \n Nagarjuna Chimney, Residency Rd; Jayanagar 3rd Block (near Old Galaxy Theatre; near ICICI Bank). Possibly have a few more branches elsewehere in Bengaluru. The biryani is great, as are their meals which are served ritually on a banana leaf. Reach early for lunch, for there are always hordes waiting. \n Upaahara Darshini, Jayanagar 3rd Block; DVG Road, Gandhi Bazaar. One of Bengaluru's oldest food joints. Amazing dosas. \n Corner House, Residency Rd, BTM Rd, Koramangala, Airport Rd, Whitefield Rd, Marthahalli and Shivananda Circle, ☏ +91 80 2558 3262. One of the best ice cream parlours offering a variety of treats. Their famed 'Death by Chocolate' (popularly known as DBC) is a must for all chocolate lovers and has attained a cult status. Can be tricky to find a spot during peak times and you may find yourself being 'encouraged' by the staff to leave quickly once you do. \n Kanti Sweets. KG Rd, Majestic, Malleswaram Circle, RT Nagar. Very good samosas, kachoris and North Indian sweets like rasmalai. Rapidly expanding chain, so there are plenty of branches all over the city now, which serve parathas and other food items as well. The main branch in Majestic is the best, and serves only samosas, kachoris and sweets. ₹10-50 per head. \n Nandini. The Andhra fast food chain serves some excellent biriyani and chicken dishes. \n New Shanti Sagar, 80 Foot Rd. This is a reasonably reliable chain of vegetarian south Indian restaurants. Branches scattered all over the city, notably in Koramangala Jayanagar, Domlur. ₹50-200. \n The Rameshwaram Cafe. A well-known restaurant chain famous for its extra crispy ghee dosas. Standing room only and hugely popular, all food is made to order so at peak meal times you may need to wait for an hour or longer. (updated Sep 2024)\n Savera Tea Shop. 24 hr tea shops near Russell Market in Shivajinagar and on MG Rd. Good place to go for a cup of tea in the dead of the night. Serves tea, Suleimani (honey+lemon) tea and a variety of biscuits. ₹3-15 \n Shezan, Lavelle Rd and Cunningham Rd, ☏ +91 80 2224 9319, +91 80 2224 9667. Indian, Chinese and Continental cuisines with a good menu choice where beef, fish, prawn, mutton and chicken meat are available. Excellent steaks. \n SLV chain. Prominent among them are in: Banashankari 2nd stage, opposite BDA park and the one in J.P.Nagar 2nd Phase near Ragigudda Temple \n Sree Krishna. Fast food a little further from the r",
+  "url": "https://en.wikivoyage.org/wiki/Bengaluru"
+ },
+ "sights": [
+  {
+   "name": "Whitefield (Kadugodi) metro station",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 12.99507,
+   "lon": 77.75777
+  },
+  {
+   "name": "Whitefield railway station",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.9964,
+   "lon": 77.7614
+  },
+  {
+   "name": "Kadugodi",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.9985767,
+   "lon": 77.7609716
+  },
+  {
+   "name": "Hopefarm Channasandra metro station",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 12.98793,
+   "lon": 77.75409
+  },
+  {
+   "name": "Kadugodi Tree Park metro station",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 12.98565,
+   "lon": 77.7469
+  },
+  {
+   "name": "Acharadi",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 12.981833,
+   "lon": 77.749321
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

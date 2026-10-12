@@ -1,0 +1,33 @@
+{
+ "query": "Hassan",
+ "found": "Hassan, Karnataka, India",
+ "lat": 13.0301852,
+ "lon": 76.1744968,
+ "fetchedAt": "2026-10-12T18:36:25.382Z",
+ "locality": {
+  "id": "chikkabuvanahalli-hassan-karnataka",
+  "name": "Chikkabuvanahalli",
+  "area": "Hasana taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [
+  {
+   "title": "Hassan Airport (Karnataka)",
+   "text": "Hassan Airport is a greenfield airport project under construction at Boovanahalli village, 6 km from Hassan, Karnataka, India. The State government had initially found the project financially un-viable and decided to revise the project plan in 2012.\nThe project was revived in 2021 and the airport development will be taken up the UDAN scheme at a cost of Rs 175 crore.",
+   "url": "https://en.wikipedia.org/wiki/Hassan_Airport_(Karnataka)"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Hassan Airport",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 13.015833333333333,
+   "lon": 76.16666666666667
+  }
+ ],
+ "food": [],
+ "errors": []
+}

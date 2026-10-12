@@ -1,0 +1,64 @@
+{
+ "query": "Malpe",
+ "found": "Malpe, Udupi, Udupi taluku, Udupi, Karnataka, 576101, India",
+ "lat": 13.3507423,
+ "lon": 74.7036914,
+ "fetchedAt": "2026-10-12T18:37:10.377Z",
+ "locality": {
+  "id": "malpe-udupi-karnataka",
+  "name": "Malpe",
+  "area": "Udupi taluku, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Malpe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Malpe_Beach_2.jpg/1280px-Malpe_Beach_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Malpe",
+   "credit": "Photo: KshitizBathwal / Skyscape Photography, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malpe_Beach_2.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Malpe",
+   "text": "Malpe is a natural port in the Udupi District in Karnataka, India. Located at the mouth of the Malpe River about six kilometers to the west of Udupi, it is an important port and a major fishing harbor on the Karnataka coast. The town of Malpe is associated largely with settlements of the Mogaveera fisherman community. Malpe is a hub of Mogaveera, Billava Christian and Muslim population.\n\n\n== History ==\nMalpe is an ancient sea port and harbour, where Karnataka and the western world traded. Malpe has been mentioned as early as second century C.E. by the Greek geographer Ptolemy. The location is also mentioned in an ancient Greek farce found written on papyri from the second century or earlier, published in modern times in The Oxyrhynchus Papyri Part III.\n\n\n== Industry ==\nThe major industry in Malpe is fisheries. Malpe is also known as the largest fishing harbour in the Udupi District. A considerable number of the area is employed directly and indirectly by the fishing industries.\n\n\n== Malpe Beach and coastal marine life ==\nMalpe Beach is known as a destination for holidays and picnics. The Beach has a Sea Walkway with a view of St. Mary's Island and Bhadargad Island, as well as the rest of...",
+   "url": "https://en.wikipedia.org/wiki/Malpe"
+  },
+  {
+   "title": "Kodavoor",
+   "text": "Kodavooru is a small town belonging to the temple city of Udupi in Karnataka, India. Home to Lord Shankaranarayana Temple and many other small sacred Hindu temples, it has a long history of its own.",
+   "url": "https://en.wikipedia.org/wiki/Kodavoor"
+  },
+  {
+   "title": "Bankerkatta",
+   "text": "Bankerkatta is a small village in Udupi district, Karnataka, India. It falls under Kidiyoor Gram Panchayat. It is located at approximately 4 km from Udupi city. Malpe Beach is just 4.8 km from Bankerkatta.\nThe local language spoken by people is Tulu. People can also speak and read Kannada.\nThe climate is hot and humid throughout the year since it is close to Arabian Sea. This region experiences heavy rainfall from June to October.",
+   "url": "https://en.wikipedia.org/wiki/Bankerkatta"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Ferry St. Mary's Island",
+   "kind": "viewpoint",
+   "walkMinutes": 14,
+   "lat": 13.3477174,
+   "lon": 74.6965469
+  },
+  {
+   "name": "Malpe Seawalk",
+   "kind": "attraction",
+   "walkMinutes": 15,
+   "lat": 13.3478931,
+   "lon": 74.6955203
+  },
+  {
+   "name": "Sri Vadabhanda Balarama",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 13.3614525,
+   "lon": 74.7029833
+  }
+ ],
+ "food": [],
+ "errors": []
+}

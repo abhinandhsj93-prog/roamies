@@ -1,0 +1,45 @@
+{
+ "query": "Dandeli",
+ "found": "Dandeli, Dandeli taluku, Uttara Kannada, Karnataka, 581325, India",
+ "lat": 15.2490284,
+ "lon": 74.6236037,
+ "fetchedAt": "2026-10-12T18:38:47.323Z",
+ "locality": {
+  "id": "patel-nagara-uttara-kannada-karnataka",
+  "name": "Patel Nagara",
+  "area": "Dandeli, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Dandeli": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Dandeli_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Dandeli",
+   "credit": "Photo: Vinayak wiki, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dandeli_1.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Dandeli",
+   "text": "Dandeli is a taluk in Uttara Kannada district of Karnataka, India, in the Malenadu region.",
+   "url": "https://en.wikipedia.org/wiki/Dandeli"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Dandeli",
+  "text": "Dandeli is a small town in the western ghats of North-West Karnataka, India. Dandeli is known as a wildlife sanctuary and is proud of being one of the tiger projects. People have also moved from across India to work in the industries in Dandeli. Dandeli is also known for its adventure activities on the River Kali. Located close to the Supa Dam on Kali, Dandeli offers options for white water rafting and canoeing. The rapids are class 3 and there is one recirculating rapid in the circuit.\n\n\n== See ==\n\nKavala Caves: Ancient Kavala caves are a perfect destination for tourists to visit while their trip to Dandeli. This place is 25 km from the Dandeli. Tourists will have to trek some thousands steps through a dense forest to reach Kavala caves.  These caves are revered as the abode of Lord Shiva-the Hindu god of Destruction.\nKulgi Nature Camp: Kulgi Nature Camp is 14 km from the Dandeli National Park.  This camp has small museum, nature interpretation centre. It is on the Ambika Nagar- Yellapur Road. Main highlight of this museum is the stuffed remained of 13-ft king cobra which was caught few years back in this area. Reservations at the Kulgi nature camp involve phoning the Forest Conservator's office at 08284 - 231585, preparing a demand draft (DD) and sending the original DD by courier service to the Conservator's office, in advance of your stay. A photocopy must be sent to the camp. No other form of payment is accepted. Meals are charged separately, with not much variety to speak of. Hot water is only available for 2 hours in the morning. The only available guide-free trail is a \"Birder's trail\", a 2-km-long loop in the forest interiors. Overall, don't expect much from a stay at Kulgi unless all you want to do is sleep and walk in the surrounding forest.\nAnshi National Park or Kali Tiger Reserve (KTR): Dandeli is one of the gateways to Kali Tiger Reserve.\n\n\n== Do ==\n\nRafting: Dandeli is near the Kali River, which is a great location for the rafting. There is a route of around 9-14 km for rafting. This rafting route is of class III and continues for around 2 to 3 hours, it make also go more than that.\nDandeli Wild Life Sanctuary and Anshi National Park is dominated by river Kali, be it from its banks or from atop a mountain. The activities at this national park include:\ncoracle rides (in water, would be able to spot crocodiles, hornbills and other birds),\nrock climbing (small),\nmountain biking,\nrafting, kayaking, canoeing,\ncamping,\nJeep safari ride,\ntrekking in the forest, bird watching.\nOther nearby places to visit include: Kavala Caves, Syntheri Rocks, Sykes point, Siroli peak.\n\n\n== Eat ==\nKachori and samosa are very famous in Dandeli.\n\n\n== Drink ==\nGarcinia indica or kokum sherbet.\nMasala Soda - famous in this entire region.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Dandeli"
+ },
+ "sights": [
+  {
+   "name": "Dandeli",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.252257,
+   "lon": 74.622185
+  }
+ ],
+ "food": [],
+ "errors": []
+}

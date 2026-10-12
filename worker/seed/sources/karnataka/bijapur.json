@@ -1,0 +1,279 @@
+{
+ "query": "Bijapur",
+ "found": "Vijayapura, Bijapur Taluk, Vijayapura, Karnataka, 586101, India",
+ "lat": 16.8269911,
+ "lon": 75.7175387,
+ "fetchedAt": "2026-10-12T18:42:17.469Z",
+ "locality": {
+  "id": "vijayapura-vijayapura-karnataka",
+  "name": "Vijayapura",
+  "area": "Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Bijapur": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bijapur_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Bijapur",
+   "credit": "Photo: Montage of several images, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bijapur_Montage.jpg"
+  },
+  "Bijapur district, Karnataka": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/GolGumbaz2.jpg/1280px-GolGumbaz2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bijapur district, Karnataka",
+   "credit": "Photo: Ashwatham at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GolGumbaz2.jpg"
+  },
+  "Bara Kaman": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Bara_Kaman_2.jpg/1280px-Bara_Kaman_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bara Kaman",
+   "credit": "Photo: Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bara_Kaman_2.jpg"
+  },
+  "Jama Mosque, Bijapur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/JUMA_MASJID_BIJAPUR.jpg/1280px-JUMA_MASJID_BIJAPUR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jama Mosque, Bijapur",
+   "credit": "Photo: Rahiaql, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:JUMA_MASJID_BIJAPUR.jpg"
+  },
+  "Bijapur City Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/30-Bijapur_City_constituency.svg/1280px-30-Bijapur_City_constituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bijapur City Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:30-Bijapur_City_constituency.svg"
+  },
+  "Malik-E-Maidan": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Malik_E_Maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Malik-E-Maidan",
+   "credit": "Photo: IndianCow at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malik_E_Maidan.jpg"
+  },
+  "Mecca Masjid, Bijapur": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/General_view_of_the_east_fa%C3%A7ade_of_the_Mecca_Mosque%2C_Bijapur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mecca Masjid, Bijapur",
+   "credit": "Photo: Creator:Henry Cousens, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:General_view_of_the_east_fa%C3%A7ade_of_the_Mecca_Mosque,_Bijapur.jpg"
+  },
+  "Jod Gumbaz": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Bijapur_-_Jod_Gumbaz.jpg/1280px-Bijapur_-_Jod_Gumbaz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jod Gumbaz",
+   "credit": "Photo: Venkygrams, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bijapur_-_Jod_Gumbaz.jpg"
+  },
+  "Nav Gumbaz": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nau_Gumbaz_%28Nav_Gumbaz%29_in_Bijapur.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Nav Gumbaz",
+   "credit": "Photo: Henry Cousens, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nau_Gumbaz_(Nav_Gumbaz)_in_Bijapur.png"
+  },
+  "Andu Masjid": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Andu_Masjid_3.jpg/1280px-Andu_Masjid_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Andu Masjid",
+   "credit": "Photo: Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andu_Masjid_3.jpg"
+  },
+  "Gagan Mahal": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gagan_Mahal_Bijapura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Gagan Mahal",
+   "credit": "Photo: SWE-Yaatrik, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gagan_Mahal_Bijapura.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Vijayapura, town",
+   "text": "Vijayapur is a town in Devanahalli taluk and Bengaluru North district in the Indian state of Karnataka. Vijayapura's old name is Vadigenahalli. Local villagers still refer Vijayapura as Vadigenahalli.\n\n\n== Climate ==\nVijayapura is ranked among top 10 Indian cities with the cleanest air and best AQI (Air Quality Index) in 2024.\n\n\n== Geography ==\nVijayapura is located at 13.29°N 77.8°E﻿ / 13.29; 77.8. It has an average elevation of 883 metres (2896 feet).\n\n\n== Demographics ==\nAs of 2001 India census, Vijayapura had a population of 29,458. Males constitute 52% of the population and females 48%. Vijayapura has an average literacy rate of 64%, higher than the national average of 59.5%: male literacy is 69%, and female literacy is 59%. In Vijayapura, 13% of the population is under 6 years of age.\nVijayapur was formerly known as Vadagenhalli, a corrupt form of veda-gaana-halli .\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Vijayapura,_town"
+  },
+  {
+   "title": "Bijapur",
+   "text": "Bijapur (officially Vijayapura) is the district headquarters of the Bijapur district of the Karnataka state of India. It is also the headquarters for Bijapur Taluk. Bijapur city is well known for its historical monuments of architectural importance built during the rule of the Adil Shahi dynasty. It is also well known for the popular Karnataka premier league team, the Bijapur Bulls. Bijapur is located 519 km (322 mi) northwest of the state capital Bengaluru and about 550 km (340 mi) from Mumbai and 210 km (130 mi) north east of the city of Belgaum.\nThe city was established in the 10th–11th centuries during the time of Kalyani Chalukyas and was known as Vijayapura (city of victory). The city was passed to Yadavas after Chalukya's demise. In 1347, the area was conquered by the Bahmani Sultanate. After the split of the Bahmani Sultanate, the Bijapur Sultanate ruled from the city. Relics of the Sultanates' rule can be found in the city, including the Bijapur Fort, Bara Kaman, Jama Masjid, and Gol Gumbaz.\nBijapur, one of the popular heritage cities in Karnataka, is also one of the top ten populated cities in Karnataka. Bijapur city was declared as one of the corporations in the state of...",
+   "url": "https://en.wikipedia.org/wiki/Bijapur"
+  },
+  {
+   "title": "Bijapur district, Karnataka",
+   "text": "Bijapur district, officially known as Vijayapura district, is a district in the state of Karnataka in India. The city of Bijapur is the headquarters of the district, and is located 530 km northwest of Bengaluru. Bijapur is well known for the great monuments of historical importance built during the Adil Shahi dynasty.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Bijapur_district,_Karnataka"
+  },
+  {
+   "title": "Bara Kaman",
+   "text": "Bara Kaman is the unfinished mausoleum of Ali Adil Shah II in Bijapur, Karnataka in India.\nAli Adil Shah of the Adil Shahi dynasty wanted to build a mausoleum of unmatched architectural quality. It was planned that twelve arches would be placed vertically as well as horizontally surrounding the tomb of Ali Adil Shah. However, for unknown reasons the work on the structure was left incomplete: only two arches were raised vertically. Rumour has it that the construction of the mausoleum was stopped because once completed its shadow would touch the Gol Gombaz. Nowadays the remains of the twelve horizontally placed arches can still be seen.\nThe site is managed by the Archaeological Survey of India.\nThe Bara Kaman was built in 1672AD, by Ali Adil Shah II, and was supposed to be the burial mausoleum for the king and his wives. Bara Kaman has the tombs of Ali Adil Shah II, his wife Chand Bibi, his mistresses and his daughters.\nThe architect of Bara Kaman was Malik Sandal, an Abyssinian eunuch who rose up the military ranks and became a prominent figure in Ibrahim Adil Shah's court.   The structure has raised walls in concentric arches. After the arches were erected, the inner arches were toppled...",
+   "url": "https://en.wikipedia.org/wiki/Bara_Kaman"
+  },
+  {
+   "title": "Jama Mosque, Bijapur",
+   "text": "The Jama Masjid, also known as Jamiya Masjid or Jumma Masjid, is a congregational mosque in Bijapur, in the state of Karnataka, India. Initiated by Ali Adil Shah I of the Bijapur Sultanate in the 16th century, the mosque was never completed. It is the largest mosque in Bijapur, and has a capacity of 4,000 worshippers.\nIn 2014, UNESCO placed the building on its \"tentative list\" to become a World Heritage Site, under the name Monuments and Forts of the Deccan Sultanate.",
+   "url": "https://en.wikipedia.org/wiki/Jama_Mosque,_Bijapur"
+  },
+  {
+   "title": "Kanamadi",
+   "text": "Kanamadi  is a village in the southern state of Karnataka, India. It is located in the Bijapur taluk of Bijapur district in Karnataka. It is a border village between Karnataka and Maharashtra. One end of village is attached to Maharashtra and other end is adjacent to Belagavi District. It is well known for agriculture of Pomegranates and Grapes. Kanamadi is one of largest exporter of Pomegranates in the Bijapur region. It is also famous for 12th Century Dharidevar Temple. And it is historical war place of dharidevara mountain between two kings of God and this temple to kanamadi town on huge underground way is here it's open only the Jatra mahotsava.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Kanamadi"
+  },
+  {
+   "title": "Sarawad",
+   "text": "Sarawad  is a village in the southern state of Karnataka, India. It is located in the Bijapur taluk of Bijapur district in Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Sarawad"
+  },
+  {
+   "title": "Shivanagi",
+   "text": "Shivanagi  is a village in the southern state of Karnataka, India. It is located in the Bijapur taluk of Vijayapura district in Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Shivanagi"
+  },
+  {
+   "title": "Bijapur, Karnataka Assembly constituency",
+   "text": "Bijapur Assembly constituency was one of 224 assembly constituencies of the Indian state of Karnataka until 2008. The constituency was readjusted in 2008 on the implementation of the Delimitation Commission of 2002 as Bijapur City Assembly constituency. The constituency was a part of Bombay State before the States Reorganisation Act, 1956.",
+   "url": "https://en.wikipedia.org/wiki/Bijapur,_Karnataka_Assembly_constituency"
+  },
+  {
+   "title": "Bijapur City Assembly constituency",
+   "text": "Bijapur City Assembly constituency is one of 224 assembly constituencies of the Indian state of Karnataka. The constituency was previously known as Bijapur constituency which was readjusted in 2008 on the implementation of the Delimitation Commission of 2002. The constituency was a part of Bombay State before the States Reorganisation Act, 1956. It is part of Bijapur Lok Sabha constituency.",
+   "url": "https://en.wikipedia.org/wiki/Bijapur_City_Assembly_constituency"
+  },
+  {
+   "title": "Malik-E-Maidan",
+   "text": "The Malik-E-Maidan also Malik-i-Maidan (lit. 'Lord of the Battlefield'), is a 16th-century cannon, located at Burj-E-Sherz (Lion Tower), Bijapur Fort, Bijapur, India. At 4.45 metres (14.6 ft) in length and cast in bell metal, it is the largest surviving piece of artillery from the medieval period.",
+   "url": "https://en.wikipedia.org/wiki/Malik-E-Maidan"
+  },
+  {
+   "title": "Mecca Masjid, Bijapur",
+   "text": "The Mecca Masjid, also known as Makka Masjid, is a mosque located in the Vijayapura district of Bijapur, in the state of Karnataka, India. Believed to be completed in c. 1669, the mosque was built for women of the royal household.\nThe mosque structure is a Monument of National Importance.",
+   "url": "https://en.wikipedia.org/wiki/Mecca_Masjid,_Bijapur"
+  },
+  {
+   "title": "Jod Gumbaz",
+   "text": "Jod Gumbaz is a complex of two tombs located in Bijapur, in the Indian state of Karnataka. Built during the late Adil Shahi period and completed in 1687, it contains the tombs of Khan Muhammad and his spiritual advisor Abdul Razzaq Qadiri. A third, smaller tomb is located towards the west of the complex.",
+   "url": "https://en.wikipedia.org/wiki/Jod_Gumbaz"
+  },
+  {
+   "title": "Nav Gumbaz",
+   "text": "The Nav Gumbaz (literally \"nine domes\"), also called the Nau Gumbaz, is a mosque located in Bijapur, in the state of Karnataka, India. It was built during the reign of the Bijapur Sultanate.\nThe mosque structure is a Monument of National Importance.",
+   "url": "https://en.wikipedia.org/wiki/Nav_Gumbaz"
+  },
+  {
+   "title": "Andu Masjid",
+   "text": "The Andu Masjid, also known as Anda Masjid, is a mosque located in Bijapur, in the state of Karnataka, India. The mosque is a Monument of National Importance, administered by the Archaeological Survey of India.",
+   "url": "https://en.wikipedia.org/wiki/Andu_Masjid"
+  },
+  {
+   "title": "Gagan Mahal",
+   "text": "The Gagan Mahal (\"heavenly palace\") is a palace located within the Bijapur Fort.",
+   "url": "https://en.wikipedia.org/wiki/Gagan_Mahal"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bijapur (Karnataka)",
+  "text": "Bijapur, now known officially as Vijayapura (Kannada: ವಿಜಯಪುರ), is the district headquarters of Bijapur District in a city in Northwestern Karnataka. It was once the capital of the Bijapur Sultanate, ruled by the Adil Shahi dynasty. Tombs, palaces, mosques, darghas and a portion of the fortified citadel still stand; this includes the Gol Gumbaz. The Gol Gumbaz houses the second largest dome in the world. \n\n\n== See ==\n\nA standard tour of Bijapur consists of visiting the 8 popular places. They include Gol Gumbaz, Jami Masjid, Taj Bawdi, Jod Gumbaz, Bara Kaman, Upali Bruz, Malik e Madan and Ibrahim Roza. Autos and Tongas offer this package tour. Both auto and tonga drivers carry a folded leaflet describing the 8 major sites of Bijapur. These leaflet can also be purchased for ₹10 at most of the sites. \n\n1 Gol Gumbaz (Gol Gummat), Entrance on Station Road. 06:00 - 18:00. It is the second-largest dome and largest unsupported dome in the world. It is the mausoleum of Mohammed Adil Shah and his family. It houses 5 cenotaphs (the original graves are located in the crypt below). Apart from Mohammed Adil Shah the cenotaphs belong to two of his wives, a mistress, a daughter and a grandson. It was built in 1659. At the top, the whispering gallery is a wonder where a tick of a watch can be heard from the opposite side of the dome over 200 feet away. It has a clock room for storing luggage. ₹25 for Indians, SAARC and BIMSTEC. ₹300 for other foreigners. (Childern below 15 free). Videography (Handycam, for personal use): ₹25. Photography (still): Free. \n2 Gol Gumbaz Mosque, West side of Gol Gumbaz complex. The mosque is located on the western end of the Gol Gumbaz complex. The mosque is best viewed from the top of Gol Gumbaz. It is not accessible to visitors. \n3 Gol Gumbaz Site Museum. The Gol Gumbaz Site Museum is housed inside the Maqar Khana (drum house). It houses 8 galleries spread over two floors. (updated Oct 2025)\n4 Jumma Masjid (Jamiya Masjid). A Mosque built by Ali Adil Shah I over 300 years ago for the entire city (jumma = public gathering). The Kuran inscriptions in gold is the main attraction. It can contain 2250 devotees. The intricately carved mihrab (the niche that points the direction to Mecca) is absolutely brilliant and is in stark contrast to the generally simple and bare architecture of the mosque itself (which is quite typical for the Deccan monuments) Free entrance. \n5 Taj Bawdi (Tasabavadi). A stepwell built by Ibrahim Adil Shah II in honour of his wife, Queen Taj Sultana, in the year 1620. The stepwell complex is approached through a large arched gateway. The complex also houses a hammam. \n6 Jod Gumbaz (Twin Tombs), East of Taj Bawadi. The tombs date back to the late Adil Shahi period and house the mortal remains of Khan Muhammad (octagonal tomb) and his spiritual advisor, Abdul Razzaq Qadiri (square tomb). Khan Muhammad was a commander of the Adil Shahi army. He betrayed them and favoured the Mughals. He was executed. The tomb was founded by Mughal emperor Aurangzeb. The tomb complex also houses another smaller tomb. The complex is an active dargah and is visited by a large number of devotees. (updated Sep 2025)\n7 Bara Kaman (Near Station Road). Ali Adil Shah II began building a beautiful structure in 1627 with 12 arches in 12 rows, 12 columns, and 12 storeys tall, so that its shadow would fall on Golgumbaz in the evening. He died before it got completed. Nowadays, the unfinished monument can be visited. \n8 Upali Buruj (Upli Burz) (Near Malik E Maidan). This is a large structure around 80 feet tall built in 1584. Approachable by a long flight of stairs. Has 2 cannons at the top. You can get a 360-degree view of Bijapur town from the top. \n9 Malik E Maidan (Near Mahatma Gandhi Road). Translated as the king of the field, this is a huge cannon made of \"Panchaloha\" or five metals. It weighs 55 tons. This cannon helped Bijapur to defeat mighty the Vijayanagar empire in the battle of Rakkasatangadi (Talikot) in 1565. Today, it stands atop a bastion on the western wall of Bijapur Fort. It is located just north of the Mecca gate. \n10 Ibrahim Rauza mausoleum. 06:00 - 18:00. Ibrahim Rauza mausoleum is located outside the citadel walls but within the city limits. It houses the mausoleum of Ibrahim Adil Shah II. The complex is accessible via a gateway in the north. It houses the mausoleum on the east and a mosque on the west. Both the mosque and the mausoleum stand on an elevated platform with a water cistern in the middle. The mausoleum houses several graves. It was constructed in 1626. Entrance ₹5 for Indians and ₹300 for foreigners. \n\n\n=== Lesser known sites ===\nApart from the 8 major sites, Bijapur has several other historical sites. This can also be visited by paying some extra money to the auto. However, there are no fixed rates. \n\n11 Asar Mahal (Entrance on Station Road). This building was constructed in 1646 by Sultan Mohammed. It served as a justice hall. On the eastern side lies a large water body. There are several ruined structures in the complex. The Asar Mahal functions as a mosque. \n12 Anand Mahal (Palace of happiness). This was private residence of the king with the queen, used for relaxing and pleasure, hence the name Anand Mahal. Today it houses several state government offices. \n13 Gagan Mahal (Palace of the skies). Built by Ali Adil Shah I, the fifth ruler of Adil Shahi dynasty, in 1561. Gagan Mahal has two floors. The ground floor of Gagan Mahal was the place for the audience hall or durbar hall. The second floor of Gagan Mahal was used as a residence for the royal family. The front facade consists of a wide arch flanked by smaller arches. Today, the Gagan Mahal is beautifully restored with a large open space, which serves as a socializing place for locals and tourists. \n14 Sat Mahal (Sat Manjil). A seven-storeyed palace. It is built by Ibrahim Adil Shah II around 1583 as a corner structure within the citadel, which also served as a watchtower. It is in ruins and only 5 of the seven stories survive. (updated Sep 2025)\n15 Jal Mahal (Water Palace) (Opposite Sat Mahal). The slender domed structure stands in the middle of a small water tank, which has dried up (updated Sep 2025)\n16 Andu Masjid (Anda Masjid). The mosque was built in 1608/09 CE by I'tibar Khan, a noble in the court of Ibrahim Adil Shah II. It is a two-story building following the Indo-Islamic style of architecture. The mosque occupies the first floor and part of the ground floor. The remaining part of the first floor probably served as a sarai. The first floor contains an open terrace surrounded by low parapet. The structure is topped with a central ribbed dome and is flanked by four minarates. (updated Sep 2025)\n17 Mehtar Mahal. Mehtar Mahal is a three-storied palace located on the southern side of the Bijapur citadel. It was constructed in the early 17th century under the rule of Ibrahim Adil Shah II. It follows the Indo-Saracenic style of architecture and is complete with slender minarates and ornate oriel windows. The palace is accessible through a giant, decorative teakwood door. The complex also houses an active mosque dating back to the sultanate period. (updated Sep 2025)\n\n\n=== Gates of the citadel ===\nThe citadel of Bijapur has 5 gates \n\n18 Fateh Darwaza (Mongoli Base). Southern gateway. Complete with bastions and guardhouses. Today traffic passes through this gateway. (updated Sep 2025)\n19 Mecca Gate. Western Gateway. Totally encroached and not accessible. (updated Sep 2025)\n20 Shahapur Gate. North-western Gate (updated Sep 2025)\n21 Alapur Gate (Eastern Gate). Located near Gol Gumbaz next to the railway line. The gate is encroached. (updated Sep 2025)\n22 Bahamani Gate. Northern Gate (updated Sep 2025)\n\n\n=== Outside Bijapur ===\nThe ruins of Bijapur extend beyond the fortified citadel. There are several monuments located on the east and west of the city.\n\n\n==== East of Bijapur ====\n23 Jahan Begum's Tomb. Jahan Begum was the wife of Muhammad Adil Shah. The tomb is unfinished and lies in ruins. The tomb, made of black, polished granite, is enclosed inside an arched pavilion, whose roof has long since collapsed. The four ruined minars stand at the corner of the enclosure. The entire area is a walled complex with a mosque on the southern side. (updated Sep 2025)\n24 Ain-ul-Mulk's Tomb (Chota Gol Gumbaj) (Located outsited the citadel (Eastern side)). The tomb contains the mortal remains of Ain-ul-Mulk, a nobleman in the court of Ibrahim I. He rebelled against the sultan and was killed in 1556. The structure stands on a square base and is topped with a hemispherical dome. Each of the four corners is provided with a domed pavilion. The outer walls are decorated with intricate stucco work. The facade has two tiers of three recessed arches on all its sides. The huge complex also houses a mosque and several other ruined structures. (updated Aug 2025)\n25 Jahan Begum Palace, Located south-west of the Jahan Begum Tomb complex. The palace consists of a sing",
+  "url": "https://en.wikivoyage.org/wiki/Bijapur_(Karnataka)"
+ },
+ "sights": [
+  {
+   "name": "Narasimha Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 16.8260394,
+   "lon": 75.7173319
+  },
+  {
+   "name": "All Saints Church, C.S.I.",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 16.8260101,
+   "lon": 75.7185807
+  },
+  {
+   "name": "Anand Mahal",
+   "kind": "attraction",
+   "walkMinutes": 4,
+   "lat": 16.8264006,
+   "lon": 75.7196856
+  },
+  {
+   "name": "Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 16.8288164,
+   "lon": 75.7163136
+  },
+  {
+   "name": "Ancient Mosque",
+   "kind": "attraction",
+   "walkMinutes": 5,
+   "lat": 16.8279436,
+   "lon": 75.7204467
+  },
+  {
+   "name": "Gagan Mahal",
+   "kind": "attraction",
+   "walkMinutes": 5,
+   "lat": 16.8274186,
+   "lon": 75.7201047
+  },
+  {
+   "name": "Makka Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 16.8252417,
+   "lon": 75.7199728
+  },
+  {
+   "name": "Bara Kaman",
+   "kind": "attraction",
+   "walkMinutes": 6,
+   "lat": 16.830318,
+   "lon": 75.7183047
+  },
+  {
+   "name": "Aquarium",
+   "kind": "museum",
+   "openingHours": "Mo-Su 10:00-17:30",
+   "walkMinutes": 7,
+   "lat": 16.8285453,
+   "lon": 75.721254
+  },
+  {
+   "name": "Suleman Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 16.8236448,
+   "lon": 75.7189727
+  },
+  {
+   "name": "Asar Mahal",
+   "kind": "attraction",
+   "walkMinutes": 9,
+   "lat": 16.825928,
+   "lon": 75.722341
+  },
+  {
+   "name": "Jod Gumbad",
+   "kind": "attraction",
+   "walkMinutes": 10,
+   "lat": 16.8253194,
+   "lon": 75.7122134
+  },
+  {
+   "name": "Sri Siddheshwara Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 16.832478,
+   "lon": 75.7153152
+  },
+  {
+   "name": "Methar Mahal",
+   "kind": "attraction",
+   "walkMinutes": 11,
+   "lat": 16.8229008,
+   "lon": 75.7223928
+  },
+  {
+   "name": "Idgah",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 16.8313404,
+   "lon": 75.712168
+  }
+ ],
+ "food": [],
+ "errors": []
+}

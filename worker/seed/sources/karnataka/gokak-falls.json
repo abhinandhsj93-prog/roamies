@@ -1,0 +1,60 @@
+{
+ "query": "Gokak Falls",
+ "found": "Gokak Falls, Gokak taluku, Belagavi, Karnataka, 591307, India",
+ "lat": 16.1923761,
+ "lon": 74.7769884,
+ "fetchedAt": "2026-10-12T18:43:57.598Z",
+ "locality": {
+  "id": "dhupadal-belagavi-karnataka",
+  "name": "Dhupadal",
+  "area": "Gokak taluku, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Gokak Falls": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Gokak_Falls_During_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Gokak Falls",
+   "credit": "Photo: Sandeep Prakash, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gokak_Falls_During_Night.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Dhupadal",
+   "text": "Dhupadal  is a village in the southern state of Karnataka, India. It is located in the Gokak taluk of Belagavi district in Karnataka.\n\n\n== Demographics ==\nAs of 2001 India census, Dhupadal had a population of 9658 with 4784 males and 4874 females.\n\n\n== See also ==\nBelgaum\nDistricts of Karnataka\n\n\n== References ==\n\n\n== External links ==\nhttp://Belgaum.nic.in/",
+   "url": "https://en.wikipedia.org/wiki/Dhupadal"
+  },
+  {
+   "title": "Gokak Falls",
+   "text": "The Gokak Falls is a waterfall located on the Ghataprabha River in Belagavi district of Karnataka, India. The waterfall is 6.5 kilometers away from Gokak town.",
+   "url": "https://en.wikipedia.org/wiki/Gokak_Falls"
+  },
+  {
+   "title": "Gokak Falls, Belgaum",
+   "text": "Gokak Falls  is a town in Belagavi district in the Indian state of Karnataka. It is under the control of municipal corporation Konnur, Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Gokak_Falls,_Belgaum"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Gokak Falls",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 16.191666666666666,
+   "lon": 74.7765
+  },
+  {
+   "name": "Gokak Falls, Belgaum",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 16.1913,
+   "lon": 74.7784
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

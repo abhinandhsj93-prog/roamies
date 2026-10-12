@@ -1,0 +1,65 @@
+{
+ "query": "Kollur",
+ "found": "Kollur, Bainduru taluku, Udupi, Karnataka, 576220, India",
+ "lat": 13.8634049,
+ "lon": 74.8137959,
+ "fetchedAt": "2026-10-12T18:37:51.176Z",
+ "locality": {
+  "id": "kolluru-udupi-karnataka",
+  "name": "Kolluru",
+  "area": "Bainduru taluku, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Kollur, Udupi district": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Picturez22w_108.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kollur, Udupi district",
+   "credit": "Photo: Raghavendra Nayak Muddur, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Picturez22w_108.jpg"
+  },
+  "Kollur Mookambika Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kollur_Sri_Mookambika_Temple_%284465798056%29.jpg/1280px-Kollur_Sri_Mookambika_Temple_%284465798056%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kollur Mookambika Temple",
+   "credit": "Photo: Ashok Prabhakaran from Chennai, India, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kollur_Sri_Mookambika_Temple_(4465798056).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kollur",
+   "text": "Kollur may refer to:\n\n\n== Places ==\n\n\n=== Andhra Pradesh, India ===\nKollur, Guntur district, a village in Guntur district, Andhra Pradesh, India\nKollur, Ranga Reddy, a village in Ranga Reddy district, Telangana, India\n\n\n=== Telangana, India ===\nKolluru, Nalgonda district, Andhra Pradesh, India\nKolluru, Srikakulam district, Andhra Pradesh, India\nKollur, Guntur district, Andhra Pradesh, India\n\n\n=== Karnataka, India ===\nKollur, Udupi district, a town in Udupi district, Karnataka, India\nKollur, Bagalkot district, a village in Bilagi taluka, Bagalkot district, Karnataka, India\nKollur, Chincholi taluka, a village in Chincholi taluka, Gulbarga district, Karnataka, India\nKollur, Chitapur taluka, a village in Chitapur taluka, Gulbarga district, Karnataka, India\nKollur, Gulbarga taluka, a village in Gulbarga taluka, Gulbarga district, Karnataka, India\nKollur, Shahapur taluka, a village in Shahpur, Karnataka taluka, Yadgir district, Karnataka, India\n\n\n== Tehsils ==\nKollur mandal, a tehsil in Guntur district, Andhra Pradesh, India\n\n\n== Other ==\nKollur Mine, one of the world's most productive diamond mines",
+   "url": "https://en.wikipedia.org/wiki/Kollur"
+  },
+  {
+   "title": "Kollur, Udupi district",
+   "text": "Kollur (Kannada: [kolːuːru]) is a temple town and village in Byndoor, a taluk of Udupi District in the southern Indian state of Karnataka.\nAs of the 2001 India census Kolluru had a population of 3863 with 1900 males and 1962 females.",
+   "url": "https://en.wikipedia.org/wiki/Kollur,_Udupi_district"
+  },
+  {
+   "title": "Kollur Mookambika Temple",
+   "text": "Kollur Mookambika Temple is located at Kollur in Byndoor Taluk of Udupi District in the  region of Tulunadu ,state of Karnataka, near Kundapur India. It is a Hindu temple dedicated to the mother goddess Mookambika. \nMookambika is the union of Adi Parashakti and Parabramha as the Linga has integrated on its left side \"Maha Kali, Maha Lakshmi and Maha Saraswathi\". The temple is very special because it is part of the 108 Durgalayas and 108 Shivalayas. It is situated in the foothills of Kodachadri hills, on the southern bank of Souparnika River. Being situated in the land between Gokarna and Kanyakumari, believed to be created by sage Parashurama.",
+   "url": "https://en.wikipedia.org/wiki/Kollur_Mookambika_Temple"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Kollur, Udupi district",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 13.863888888888889,
+   "lon": 74.81388888888888
+  },
+  {
+   "name": "Kollur Mookambika Temple",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 13.8638,
+   "lon": 74.8145
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

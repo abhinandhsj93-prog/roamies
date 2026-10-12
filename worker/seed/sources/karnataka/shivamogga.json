@@ -1,0 +1,131 @@
+{
+ "query": "Shivamogga",
+ "found": "Shivamogga, Shivamogga taluk, Shimoga, Karnataka, 577200, India",
+ "lat": 13.9326093,
+ "lon": 75.574978,
+ "fetchedAt": "2026-10-12T18:34:37.719Z",
+ "locality": {
+  "id": "durgigudi-shimoga-karnataka",
+  "name": "Durgigudi",
+  "area": "Shivamogga, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Shimoga": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/City_centre_mall_shimoga.jpg/1280px-City_centre_mall_shimoga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shimoga",
+   "credit": "Photo: Che639, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_centre_mall_shimoga.jpg"
+  },
+  "Kuvempu University": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lakkavalli_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kuvempu University",
+   "credit": "Photo: Vinayak wiki, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lakkavalli_3.jpg"
+  },
+  "Diocese of Shimoga": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sacred_Heart_Church%2C_Shimoga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Diocese of Shimoga",
+   "credit": "Photo: Vinayak GS, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacred_Heart_Church,_Shimoga.jpg"
+  },
+  "Shimoga Institute of Medical Sciences": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Shimoga_Institute_of_Medical_Sciences%2C_Shivamogga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Shimoga Institute of Medical Sciences",
+   "credit": "Photo: Discodan11, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shimoga_Institute_of_Medical_Sciences,_Shivamogga.jpg"
+  },
+  "Shimoga Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/113-Shimoga_constituency.svg/1280px-113-Shimoga_constituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shimoga Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:113-Shimoga_constituency.svg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Shimoga",
+   "text": "Shimoga, officially Shivamogga (Kannada: [ʃiʋɐmoɡːɐ]), is a city, taluka and the district headquarters of Shimoga district in the Karnataka state of India. The city lies on the banks of the Tunga River. Being the gateway for the hilly region of the Western Ghats, the city is popularly nicknamed the \"Gateway to Malnad\". The population of Shimoga city is 322,650 as per 2011 census. The city has been selected for the Smart Cities Mission standing in the fourth position in the state and 25th in the country as of November 2020.\nThe city is 569 m above sea level and is surrounded by lush green paddy fields, arecanut and coconut groves. It is located 267 km from the state capital Bengaluru and 195 km from the port city Mangalore.",
+   "url": "https://en.wikipedia.org/wiki/Shimoga"
+  },
+  {
+   "title": "Kuvempu University",
+   "text": "Kuvempu University is a public state university in Shankaraghattta, Bhadravathi taluk, Shivamogga, Karnataka, India. It was established in 1987 by the act of the Karnataka state legislature through amendment No. 28/1976 dated 29 January 1989 under the Karnataka State University Act 1976. The university offers undergraduate and graduate degree programs in wide range of disciplines. It was recognized by the UGC in 1994 and is a member of the Association of Indian Universities (AIU).\nThe university has its headquarters at Jnana Sahyadri Campus, Shivamogga. Its campus is called Jnana Sahyadri, which means 'The Western Ghat section of knowledge'. It has university jurisdiction over malnad districts of Shivamogga and Chikmagaluru, through which the Sahyadri mountain ranges pass. The campus sprawls across an area of 230 acres. The campus has an admixture of wild and domestic animals.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Kuvempu_University"
+  },
+  {
+   "title": "Diocese of Shimoga",
+   "text": "The Diocese of Shimoga (Latin: Shimogaen(sis)) is a Latin Church ecclesiastical jurisdiction or diocese of the Catholic Church in India. Its episcopal see is Shimoga. The Diocese of Shimoga is a suffragan in the ecclesiastical province of the metropolitan Archdiocese of Bangalore.",
+   "url": "https://en.wikipedia.org/wiki/Diocese_of_Shimoga"
+  },
+  {
+   "title": "Battle of Shimoga",
+   "text": "The Capture of Shimoga, a town and fortress held by forces of the Kingdom of Mysore, occurred on 3 January 1792, after a preliminary battle with the attacking forces of the British East India Company and the Marathas, not far from the town on 29 December, had scattered much of its defending army. The defenders surrendered after the fort's walls were breached. The battle was part of a campaign during the Third Anglo-Mysore War by Maratha leader Purseram Bhow to recover Maratha territories taken by Hyder Ali in an earlier conflict between Mysore and the Marathas. By the end of the siege, Reza Sahib a leading Mysore commander, was among the captured.",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Shimoga"
+  },
+  {
+   "title": "Shimoga Institute of Medical Sciences",
+   "text": "Shivamogga Institute of Medical Sciences (SIMS) is a government medical college and teaching hospital located in Shivamogga, Karnataka, India. Established in 2005, the institute is affiliated with the Rajiv Gandhi University of Health Sciences and recognised by the National Medical Commission. SIMS offers undergraduate (MBBS), postgraduate (MD/MS), diploma and allied health sciences courses, and is attached to the Government McGann Hospital for clinical training and healthcare services.",
+   "url": "https://en.wikipedia.org/wiki/Shimoga_Institute_of_Medical_Sciences"
+  },
+  {
+   "title": "Shimoga Assembly constituency",
+   "text": "Shimoga Assembly constituency is one of the seats in Karnataka State Assembly in India. It is part of Shimoga Lok Sabha constituency.",
+   "url": "https://en.wikipedia.org/wiki/Shimoga_Assembly_constituency"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Shimoga",
+  "text": "Shimoga or Shivamogga is a town in the state of Karnataka. The name originates from Shiva-mukha i.e., face of Lord Shiva. \n\n\n== See ==\n\n\n=== City attractions ===\n Shivappa Nayaka Palace. Situated on the banks of the River Tunga in the busy lanes of Shimoga is a 16th-century place built by Shivappa Naik of Keladi. A good architectural piece built with rose wood. The palace has a museum which has several interesting and rare archaeological collections of stone carvings and antiques from the Keladi period. Recovered idols of the Hoysala and Chalukya periods from the early 16th century to late 18th century are displayed here. \n Shimoga railway station (launched in the year 1889). Known for being one of the earliest railway stations in Karnataka. The second railway line of the Mysore Kingdom was a meter gauge line between Shimoga and Birur. Birur to Shivamogga line was launched on December 1, 1889, and the Shivamogga railway station received the first passenger train after it covered a distance of 37.92 miles on its inaugural run. (updated Oct 2024)\n Sacred Heart Church. Situated in the heart of city, the church was renovated and is said to be second largest church in India with an area of 1800 m² (18000 square feet). Also equipped with a prayer hall with a capacity to hold up to 5000 people at a time. \n\n\n=== Wildlife ===\n Tyavarekoppa Lion and Tiger Safari (around 11 km (6.8 mi) from Shivamogga Bus Stand, on the way to Sagar). This place comprises a zoo and animals in the wild. Not a safari in the true sense of the word because the lions and tigers are housed in fenced enclosures and a sighting is guaranteed. The buses are well covered and take you into the wild every 30 min. All cameras are allowed at a cost of ₹150-400 depending on the type. The park also has a mini zoo housing hyenas, bears, porcupines, pythons, and alligators. You can see animals like lion, tigers, and deer. The zoo is also great, highlights being cheetahs, bears and peacocks. Entrance ₹15, cameras ₹50 (video cameras ₹150) and safari bus ticket ₹40. Unlike some other tourist spots in India, the charges here are the same for Indian and foreign nationals. (updated Oct 2022)\n Elephant Training Camp-Sakrebylu (around 14 km (8.7 mi) from Shivamogga). On the way to Thirthahalli from Shimoga, you can hear elephants reciting their lessons. Yes, it's not a joke, in fact, here, you can find many elephants being tamed by professionals, for log lifting and other such work. Elephants from the adjoining forests bathe at this spot, before they re-enter their forest abode. Every morning these majestic creatures waddle down to the waters, and after having cleansed their bodies and having satiated their thirst, they leave the waters before the rays of the sun get stronger. They are off to deal with their day's routine, only to return the following day. To catch a glimpse of these elephants at play in the waters, get there before 9AM. \n Mandagadde Bird Sanctuary (32 km (20 mi) from Shivamogga, on the way to Thirthahalli,). you can hear the birds chirping. This place is a spot for birds migrating from places around the world. The place is surrounded by dense lush green forest and the flow of river Tunga has created a small island which adds to the beauty. The dense trees on the island provides shelter to migrating birds. Birds like Egrets, Bellakki Cormorant, Darter, Snake bird etc immigrate from different parts of the world during may season for breeding A high platform is built on the edge of river Tunga for bird watching. Boats are available for a closer watch. \n\n\n=== Heritage Attractions at Kudli ===\n Kudli Hoysala Rameshwara Temple. a 12th-century Shiva temple in early Hoysala construction in simple Vesara style. (updated Oct 2024)\n\n\n=== Others ===\n Kimmane Golf resort (9 km (5.6 mi) from Shivamogga).  A 100 acre golf course in the outskirts of the city. \n Gangur Dam (around 10 km (6.2 mi) from the city centre).  (updated Oct 2022)\n\n\n== Do ==\nNature photography and hiking are the best things to do in this district which houses a plethora of waterfalls, trekking passes, mountains, viewpoints, and hill stations.  Also, it is home to a large variety of wild animals, butterflies, moths, snakes, and insects.\nThose interested in a very different culinary experience can visit one of the local temples for lunch. (See suggested day trip below)\nKudali Sangama-14 km from Shimoga where the Tunga and Bhadra rivers merge. It also has a branch of the Sringeri Math, Chintamani Narasimha Temple, a rare Brahma temple and inscriptions on stones. There is no shade for visitors and it is also like a Land's End since two rivers are meeting, hence, even though people specifically come to this place, there is no place for them to linger. It is called Kudali Sangama and not to be confused with Kudalasangama, as otherwise this place will show up in all searches for Kudalasangama and add to confusion.\n\n\n== Eat ==\n\n\n== Drink ==\nThere is no nightlife in Shimoga. A few bars may be found in the commercial areas only. There are a few remote bars near Mandagadee which serve alcohol till 2AM.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Shimoga"
+ },
+ "sights": [
+  {
+   "name": "Diocese of Shimoga",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 13.9329,
+   "lon": 75.5798
+  },
+  {
+   "name": "Shimoga Institute of Medical Sciences",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 13.93271,
+   "lon": 75.566761
+  },
+  {
+   "name": "Shimoga",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 13.933333333333334,
+   "lon": 75.56666666666666
+  },
+  {
+   "name": "Battle of Shimoga",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 13.933333333333334,
+   "lon": 75.56666666666666
+  },
+  {
+   "name": "Shimoga Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 13.94,
+   "lon": 75.56
+  },
+  {
+   "name": "Kuvempu University",
+   "kind": "landmark",
+   "walkMinutes": 32,
+   "lat": 13.916699999999999,
+   "lon": 75.5667
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

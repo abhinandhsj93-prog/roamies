@@ -1,0 +1,276 @@
+{
+ "query": "Malleshwaram, Bengaluru",
+ "found": "Malleswaram, Malleshwaram, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India",
+ "lat": 13.0027353,
+ "lon": 77.5703253,
+ "fetchedAt": "2026-10-12T18:26:09.919Z",
+ "locality": {
+  "id": "malleswaram-bengaluru-urban-karnataka",
+  "name": "Malleswaram",
+  "area": "Bengaluru, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Malleswaram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mantri_Central%2C_Bangalore.jpg/1280px-Mantri_Central%2C_Bangalore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Malleshwaram",
+   "credit": "Photo: Manoharhd, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantri_Central,_Bangalore.jpg"
+  },
+  "Malleshwaram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mantri_Central%2C_Bangalore.jpg/1280px-Mantri_Central%2C_Bangalore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Malleshwaram",
+   "credit": "Photo: Manoharhd, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantri_Central,_Bangalore.jpg"
+  },
+  "Sadashivanagar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sankey_Tank_%28Sankey_Lake%29_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Sadashivanagar",
+   "credit": "Photo: Eric Phelps, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sankey_Tank_(Sankey_Lake)_-_panoramio.jpg"
+  },
+  "Mantri Square": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mantrisquarefront.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mantri Square",
+   "credit": "Photo: Unknown, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantrisquarefront.jpg"
+  },
+  "Sri Dakshinamukha Nandi Tirtha Kalyani Kshetra": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Nandi-Tirtha-Temple-Malleswaram-Bangalore_%281%29.jpg/1280px-Nandi-Tirtha-Temple-Malleswaram-Bangalore_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sri Dakshinamukha Nandi Tirtha Kalyani Kshetra",
+   "credit": "Photo: Masterzatak, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nandi-Tirtha-Temple-Malleswaram-Bangalore_(1).jpg"
+  },
+  "Srirampura metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Srirampura_metro_station.jpg/1280px-Srirampura_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Srirampura metro station",
+   "credit": "Photo: LittleT889, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srirampura_metro_station.jpg"
+  },
+  "Mantri Square Sampige Road metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mantri_Square_Sampige_Road_Metro-Platform_View1.jpg/1280px-Mantri_Square_Sampige_Road_Metro-Platform_View1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mantri Square Sampige Road metro station",
+   "credit": "Photo: Arjuna Rao Chavala, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantri_Square_Sampige_Road_Metro-Platform_View1.jpg"
+  },
+  "Sri Gangamma Devi Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Gangamma-devi-temple.jpg/1280px-Gangamma-devi-temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sri Gangamma Devi Temple",
+   "credit": "Photo: Masterzatak, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangamma-devi-temple.jpg"
+  },
+  "Malleshwaram Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/157-Malleshwaram_constituency.svg/1280px-157-Malleshwaram_constituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Malleshwaram Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:157-Malleshwaram_constituency.svg"
+  },
+  "Malleshwaram inscriptions and hero stones": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/A_view_of_the_room_in_which_the_Malleshwaram_1669CE_Ekoji%27s_Mallapura_Mallikarjuna_Temple_Donation_Inscription_is.jpg/1280px-A_view_of_the_room_in_which_the_Malleshwaram_1669CE_Ekoji%27s_Mallapura_Mallikarjuna_Temple_Donation_Inscription_is.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Malleshwaram inscriptions and hero stones",
+   "credit": "Photo: Mythic Society Inscriptions 3D Scanning Project, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_the_room_in_which_the_Malleshwaram_1669CE_Ekoji%27s_Mallapura_Mallikarjuna_Temple_Donation_Inscription_is.jpg"
+  },
+  "New Krishna Bhavan": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/New_Krishna_Bhavan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "New Krishna Bhavan",
+   "credit": "Photo: Vinay Kumar, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Krishna_Bhavan.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Malleshwaram",
+   "text": "Malleshwaram is a locality in northwest Bangalore in Karnataka, India. One of Bangalore's oldest neighborhoods, it was founded in 1889 as a planned layout by the Wadiyar dynasty of the Kingdom of Mysore. Described as the \"cultural heart\" of Bangalore, Malleshwaram is bordered by the neighborhoods of Rajajinagar, Yeswanthpur, Seshadripuram and Palace Guttahalli. The name of the neighborhood is derived from the nearby Kadu Malleshwara Temple, which dates back to the 17th century.\nThe neighborhood hosts several offices, including the Bengaluru World Trade Center, and two of the largest shopping malls in the city, Mantri Square and Orion Mall. Multiple colleges and universities are based in Malleshwaram, such as the Indian Institute of Science (IISc), the Mysore Education Society, Government First Grade College, and the Institute of Wood Science and Technology.\n\n\n== History ==\n\n\n=== Early history ===\nThe area of modern-day Malleshwaram was conquered by Shahaji Bhonsle, a general of the Bijapur Sultanate, in the first half of the 17th century. According to a series of inscriptions dated from 1669, Shahaji's son Ekoji I donated the village of Medaraninganahalli (in the vicinity of the modern-day...",
+   "url": "https://en.wikipedia.org/wiki/Malleshwaram"
+  },
+  {
+   "title": "Sadashivanagar",
+   "text": "Sadashivanagar is an affluent residential neighbourhood in the north western part of Bangalore in the Indian state of Karnataka. It is bounded by Malleshwaram to the west,Vyalikaval and Palace Guttahalli to the south, Palace grounds to the east and  Hebbal to the north. The neighbourhood houses plush homes and mansions of several famous celebrities, businessmen and politicians. It is part of the Bangalore North Lok Sabha constituency and the Malleshwaram.",
+   "url": "https://en.wikipedia.org/wiki/Sadashivanagar"
+  },
+  {
+   "title": "Mysore Education Society Kishora Kendra School",
+   "text": "MES Kishora Kendra is a school and college located in the city of Bangalore in the state of Karnataka, India. The school was founded in 1979. It has Pre-primary, Primary and High school sections and the Junior college, recognized by the government of Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Mysore_Education_Society_Kishora_Kendra_School"
+  },
+  {
+   "title": "Kendriya Vidyalaya, Malleswaram",
+   "text": "Kendriya Vidyalaya Malleswaram is a school in Bangalore, India. It is one of the schools under the group known as the Kendriya Vidyalayas, a system of central government schools under the Ministry of Human Resource Development (India). Kendriya Vidyalaya Malleshwaram is one of fourteen Kendriya Vidyalayas in Bangalore.",
+   "url": "https://en.wikipedia.org/wiki/Kendriya_Vidyalaya,_Malleswaram"
+  },
+  {
+   "title": "Palace Guttahalli",
+   "text": "Palace Guttahalli, also referred to simply as Guttahalli, is one of the oldest districts of Bengaluru, Karnataka, India.",
+   "url": "https://en.wikipedia.org/wiki/Palace_Guttahalli"
+  },
+  {
+   "title": "Mantri Square",
+   "text": "Mantri Square (Kannada: ಮಂತ್ರಿ ಚೌಕ) is a shopping mall situated in the Malleswaram locality in Bangalore, Karnataka, India. Mantri Square is one of the biggest malls in the country. It also has metro rail-connectivity with Sampige Road metro station.",
+   "url": "https://en.wikipedia.org/wiki/Mantri_Square"
+  },
+  {
+   "title": "Sri Dakshinamukha Nandi Tirtha Kalyani Kshetra",
+   "text": "Sri Dakshinamukha Nandi Tirtha Kalyani Kshetra is a small temple located in front of the Gangamma temple and diagonally opposite to the Kadu Malleshwara temple on 2nd Temple Street, Malleswaram layout in the north-western area of Bangalore city, Karnataka, India.\nThe temple is also known as Nandi Tirtha, Nandishwara teertha, Basava teertha or simply as Malleswaram Nandi gudi. The main deity of the temple is Shiva, in the form of a Shiva Linga (lingam).\nThe temple was rediscovered in 1997 after being buried for 400 years. It's the holy source of the river vrishabhavati",
+   "url": "https://en.wikipedia.org/wiki/Sri_Dakshinamukha_Nandi_Tirtha_Kalyani_Kshetra"
+  },
+  {
+   "title": "Vyalikaval",
+   "text": "Vyalikaval is a locality in Bangalore City. It is surrounded by Palace Orchards, Guttahalli, Kodandarampura, Palace Guttahalli, and Sankey road cross localities. Malleshwaram railway station is 2 km from Vyalikaval. It is 30 km from Bangalore International Airport. It is connected by BMTC (Bangalore Metropolitan Transport Corporation). Bus stops nearby are Sudhindra Nagar, Malleshwaram 11th Cross, Vyalikaval, Rajmahal Guttahalli, Malleshwaram Circle. The buses which pass through Vayyalikaval are the 100, 104, 266R, 258L, 266H, 258VF, 266K, 258TA, 263J, 258V, 258VA, 262A, 256G, 253P, 258YA. It is 5 km distance from Shivajinagar Bus terminus. And it is 5 km distance from K R Market Bus terminus. [1]",
+   "url": "https://en.wikipedia.org/wiki/Vyalikaval"
+  },
+  {
+   "title": "Srirampura metro station",
+   "text": "Srirampura is an elevated metro station on the North-South corridor of the Green Line of Namma Metro serving the Srirampura area of Bengaluru, India. It was opened to the public on 1 March 2014.",
+   "url": "https://en.wikipedia.org/wiki/Srirampura_metro_station"
+  },
+  {
+   "title": "Mantri Square Sampige Road metro station",
+   "text": "Mantri Square Sampige Road (formerly known as Sampige Road) is an important elevated metro station on the North-South corridor of the Green Line of Namma Metro serving the Malleswaram area of Bengaluru, India. It was opened to the public on 1 March 2014. The station was constructed by Mantri Developers and consists of two basements, one ground and one upper floor. The station was named Mantri Square Sampige Road due to a PPP agreement between the Bangalore Metro Rail Corporation Ltd (BMRCL) and Mantri. Mantri Square is a shopping mall located near the station.\nThe station area covers around 80,000 sq feet. A bridge connecting the station to the first floor of the mall was inaugurated on 20 August 2014. This was the first bridge in India directly linking a metro station with a mall.",
+   "url": "https://en.wikipedia.org/wiki/Mantri_Square_Sampige_Road_metro_station"
+  },
+  {
+   "title": "Institute of Wood Science and Technology",
+   "text": "The Institute of Wood Science and Technology (IWST) is a research institute situated in Bangalore in Karnataka. It works under the Indian Council of Forestry Research and Education (ICFRE) of the Ministry of Environment and Forests, Govt. of India.\nIt is recognized to be a Centre of Excellence for Sandalwood Research and Wood Science.",
+   "url": "https://en.wikipedia.org/wiki/Institute_of_Wood_Science_and_Technology"
+  },
+  {
+   "title": "Sri Gangamma Devi Temple",
+   "text": "Sri Gangamma Devi Temple is located near the Kadu Malleshwara temple on 2nd Temple Street, Malleshwara layout, in the north-western area of Bangalore city.\nThe main deity of the temple is Gangamma or the Goddess Ganga, who is also considered to have manifested on Earth as the River Ganga.",
+   "url": "https://en.wikipedia.org/wiki/Sri_Gangamma_Devi_Temple"
+  },
+  {
+   "title": "Malleshwaram Assembly constituency",
+   "text": "Malleshwaram Assembly constituency is one of the 224 Assembly constituencies of Karnataka. It is a part of Bangalore Urban district and comes under Bangalore North Lok Sabha constituency.",
+   "url": "https://en.wikipedia.org/wiki/Malleshwaram_Assembly_constituency"
+  },
+  {
+   "title": "Malleshwaram inscriptions and hero stones",
+   "text": "Malleshwara is a northwestern locality in Bengaluru, recognized as one of the city's oldest planned areas. While Malleshwara was developed on modern lines as a new residential locality in 1898 following a plague epidemic, historical evidence, including inscriptions and a hero stone, points to a much older history for the area and its surroundings. These artifacts contribute significantly to Bengaluru's rich epigraphic heritage, a city with over 175 documented inscription stones.\nThe area yields two significant Kannada inscriptions and is linked to a notable hero stone (Veeragallu). A key inscription from 1669 CE records the donation of the village of Medaraninganahalli to the Mallapura Mallikarjuna temple by the Maratha king Ekoji I. Another fragmentary inscription was found at Jakkarayanakere.\nAdditionally, a 10th-century hero stone, commemorating a tiger hunt, was discovered on the grounds of the Indian Institute of Science (IISc), which now occupies the land formerly belonging to Medaraninganahalli.\n\nThe name \"Mallapura,\" the historical precursor to Malleshwara, likely originates from the Kannada words Male or Malai (hill) and Pura (town), meaning \"town on the hill\". Over time, this...",
+   "url": "https://en.wikipedia.org/wiki/Malleshwaram_inscriptions_and_hero_stones"
+  },
+  {
+   "title": "New Krishna Bhavan",
+   "text": "New Krishna Bhavan (NKB) was a vegetarian restaurant in Malleshwaram, Bengaluru. Founded in 1954 by Ramakrishna Prabhu, it ran for seven decades as a family business and primarily served Udupi-style cuisine, as well as dishes from interior Karnataka and from North India. The restaurant was closed permanently from 6 December 2023.",
+   "url": "https://en.wikipedia.org/wiki/New_Krishna_Bhavan"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bengaluru",
+  "text": "Bengaluru (Kannada: ಬೆಂಗಳೂರು Bengaḷūru), formerly Bangalore, is the largest city in southern India and the capital of the state of Karnataka. A cosmopolitan city, Bengaluru was developed around what was once a mud fort of a feudal lord. The city has a population of nearly 13 million (2025), making it India's fourth-largest city.\nKnown worldwide as the \"Silicon Valley of India\", Bengaluru is at the core of India's information technology (IT) industry. In addition, the city is nicknamed the \"Garden City\" for its large array of parks and greenery.\n\n\n== See ==\nIndividual listings can be found in Bengaluru's district articles\n\nThere are city tours that can show you the city efficiently if you are short on time. Typically, tours do not include entry fees into the attractions. Bengaluru, like the rest of India, has a habit of charging foreigners a lot more than locals for attractions. For example, Tipu Sultan's Summer Palace, which is on the half-day tour, charges ₹15 for Indians/SAARC and ₹200 for non-Indians.\n\n\n== Do ==\nIndividual listings can be found in Bengaluru's district articles\n\n\n=== Outdoor activities ===\nBengaluru is bestowed with rock climbers, aqua sportsmen and aero sportsmen. There are several clubs, including Nature Admire, Care, Spark, KMA, Capture, Mars, Angel, Wildcraft and Adventure Works.\nCamping facilities are available at Savandurga, Gunjoor Lake, Bhimeshwari, Rangaswamy betta.\nThe Art of Bicycle Trips organises bicycle tours in and around the city, which combine cycling with art and heritage.\nThe Koramangala Club in Koramangala, and the Swimming club at the National Games Village (NGV), have facilities such as swimming pools and tennis courts.\nBalahalli Reserved Forest is a  UNESCO World Heritage Site\nCricket\nBengaluru is also popular for playing cricket. Bengaluru also has the M Chinaswamy Stadium and is home to the Royal Challengers Bengaluru in the Indian Premier League and Women's Premier League. Chinaswamy Stadium also hosts international matches against teams. Chinaswamy Stadium is also known for its energetic crowd in cheering the Royal Challengers Bengaluru former captain Virat Kohli and the rest of the team, especially when they win. Book tickets early especially for IPL matches because when Royal Challengers Bengaluru is playing, the tickets get sold out within seconds. If you arrive in January or February, book tickets for the Women's Premier League as it takes place in those months and is often less crowded than the IPL matches. Always carry a water bottle while travelling to Chinaswamy Stadium. \n\n\n=== Movies ===\nTake in a movie at one of the innumerable theaters around the city. Some multiplexes:\n\n Cinemax (Bengaluru Central, Bellandur).   \n Cinepolis, Royal Meenakshi Mall, Bannerghatta Rd; ETA Mall, Binny Pete; Forum Shantiniketan, Whitefield.  \n Gopalan Cinemas, Arch Mall, Mysore Rd,. Gopalan Mall, Mysore Road; Gopalan Mall, Near Jayadeva Hospital, Bannerghatta Road ; Gopalan Mal;, Old Madras Road, Near Baiyappanhalli Metro Station \n Inox theatre, Bengaluru Central, JP Nagar, Fame Cinemas, MG Road, Forum Value Mall, Whitefield, Garuda Mall, Magrath Road, Lido Mall, Ulsoor, Mantri Square, Malleshwaram, Garuda Swagath Mall, Jayanagar.   \n PVR Cinemas, Nexus Mall, Koramangala, Orion Mall, Malleshwaram, The Phoenix Market City Mall, Whitefield; Vega Mall, JD Mara signal.   \n Bangalore Film Society. A club membership (around ₹500/year) is typically required for entrance. Foreign film series and cultural events. \n\n\n=== Spas ===\nSpas and massages are very much a part of Bengaluru's east-meets-west culture, new ones spring up across the city all the time. Beware that many of the \"massage\" classifieds in local newspapers may be fronts for prostitution. Prostitution is illegal and if caught in a raid, you may end up spending a night in the cooler before being eligible for bail. Most legitimate spas and massage parlours have detailed websites and are run professionally.\n\n\n== Eat ==\nIndividual listings can be found in Bengaluru's district articles\nBengaluru has a wide variety of food options. Foreigners will want to look for cleanliness in choosing a place to eat. Also don't expect the exterior to be too fancy, observe the cleanliness of the inside and the servers when choosing a place to eat! Eating options include high end restaurants to chains to temples to mom and pop shops and of course street vendors! Restaurants usually label if they serve only vegetarian (veg or pure veg) or both veg and non-veg cuisine. If you haven't been in India long, it is safer to take bottled water. But juices and other drinks are usually OK.\nThere are also hundreds of young coconut and sugarcane juice stands! A nice refresher as you go around town! Both are good for keeping cool and energized. A coconut goes for ₹25-30 (some stands may have smaller coconuts for ₹10-15). Sugar cane juice runs ₹10-15 per cup.\nBengaluru is far from the sea, and as such the quality of seafood can vary. Some of the higher end and popular seafood places manage this well, but foreign travellers may want to tread a bit carefully.\nForeigners might want to only drink bottled water and eat only chutneys that are made with bottled or filtered water. Also, beef is forbidden to be on the menu in Karnataka restaurants.\nThe 80 Feet Road is the Eat Street of Koramangala. Pizza Hut, Domino's, KFC, Taco Bell, Au Bon Pain are all found here. There are also many non-chains serving local Indian cuisine. Chandni Chowk is a great option if you want the rural Punjabi dhaba experience.\nWisdom Cafe, near the AlienWare showroom is a really cosy place to have some snacks or lunch. So is the Hole in the Wall cafe, on the back street behind Maharaja Hotel. Serves great coffee and English breakfast. So does Cafe Terra, near Wipro park crossing. Adjacent to it is a really popular food joint called Little Home. It serves nice North Indian food at a very reasonable price. It's really popular with the young working populace. Naturals Ice cream parlour is a hit with the hip crowd; on weekend nights you may find queues outside.\n\n\n=== Chains ===\n\n The Adiga's chain. Restaurants to the south of Bengaluru. Prominent among them are in: Jayanagar 4th Block, take the road facing BHS First Grade College, Basavanagudi. \n Beijing Bites. 11AM-3:30PM, 7PM-11PM. Chain restaurant inspired by Chinese & Thai cuisines, spread across Bengaluru. ₹200-₹400. \n Kamat Yatrinivas, Majestic; All around the city. Authentic Mangalorean meals. \n Mast Kalandar, All around the city. Very nice North India cuisine. It is very reasonably priced. \n Nagarjuna Chimney, Residency Rd; Jayanagar 3rd Block (near Old Galaxy Theatre; near ICICI Bank). Possibly have a few more branches elsewehere in Bengaluru. The biryani is great, as are their meals which are served ritually on a banana leaf. Reach early for lunch, for there are always hordes waiting. \n Upaahara Darshini, Jayanagar 3rd Block; DVG Road, Gandhi Bazaar. One of Bengaluru's oldest food joints. Amazing dosas. \n Corner House, Residency Rd, BTM Rd, Koramangala, Airport Rd, Whitefield Rd, Marthahalli and Shivananda Circle, ☏ +91 80 2558 3262. One of the best ice cream parlours offering a variety of treats. Their famed 'Death by Chocolate' (popularly known as DBC) is a must for all chocolate lovers and has attained a cult status. Can be tricky to find a spot during peak times and you may find yourself being 'encouraged' by the staff to leave quickly once you do. \n Kanti Sweets. KG Rd, Majestic, Malleswaram Circle, RT Nagar. Very good samosas, kachoris and North Indian sweets like rasmalai. Rapidly expanding chain, so there are plenty of branches all over the city now, which serve parathas and other food items as well. The main branch in Majestic is the best, and serves only samosas, kachoris and sweets. ₹10-50 per head. \n Nandini. The Andhra fast food chain serves some excellent biriyani and chicken dishes. \n New Shanti Sagar, 80 Foot Rd. This is a reasonably reliable chain of vegetarian south Indian restaurants. Branches scattered all over the city, notably in Koramangala Jayanagar, Domlur. ₹50-200. \n The Rameshwaram Cafe. A well-known restaurant chain famous for its extra crispy ghee dosas. Standing room only and hugely popular, all food is made to order so at peak meal times you may need to wait for an hour or longer. (updated Sep 2024)\n Savera Tea Shop. 24 hr tea shops near Russell Market in Shivajinagar and on MG Rd. Good place to go for a cup of tea in the dead of the night. Serves tea, Suleimani (honey+lemon) tea and a variety of biscuits. ₹3-15 \n Shezan, Lavelle Rd and Cunningham Rd, ☏ +91 80 2224 9319, +91 80 2224 9667. Indian, Chinese and Continental cuisines with a good menu choice where beef, fish, prawn, mutton and chicken meat are available. Excellent steaks. \n SLV chain. Prominent among them are in: Banashankari 2nd stage, opposite BDA park and the one in J.P.Nagar 2nd Phase near Ragigudda Temple \n Sree Krishna. Fast food a little further from the r",
+  "url": "https://en.wikivoyage.org/wiki/Bengaluru"
+ },
+ "sights": [
+  {
+   "name": "Sri Gangamma Devi Temple",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 13.0044484,
+   "lon": 77.5694959
+  },
+  {
+   "name": "Malleshwaram inscriptions and hero stones",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 13.004747,
+   "lon": 77.571769
+  },
+  {
+   "name": "Sri Dakshinamukha Nandi Tirtha Kalyani Kshetra",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 13.0050451,
+   "lon": 77.5731576
+  },
+  {
+   "name": "Vyalikaval",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 13.002,
+   "lon": 77.575
+  },
+  {
+   "name": "Malleshwaram",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 13.0031,
+   "lon": 77.5643
+  },
+  {
+   "name": "Mysore Education Society Kishora Kendra School",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 13.0047,
+   "lon": 77.5642
+  },
+  {
+   "name": "Kendriya Vidyalaya, Malleswaram",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 13.009222222222222,
+   "lon": 77.56872222222222
+  },
+  {
+   "name": "Malleshwaram Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 13.01,
+   "lon": 77.57
+  },
+  {
+   "name": "Palace Guttahalli",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 12.995630555555556,
+   "lon": 77.57485
+  },
+  {
+   "name": "Institute of Wood Science and Technology",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 13.01116,
+   "lon": 77.570185
+  },
+  {
+   "name": "Srirampura metro station",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 12.996508,
+   "lon": 77.563283
+  },
+  {
+   "name": "New Krishna Bhavan",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 12.993,
+   "lon": 77.5717
+  },
+  {
+   "name": "Mantri Square",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 12.992249999999999,
+   "lon": 77.57033333333332
+  },
+  {
+   "name": "Sadashivanagar",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 13.009325,
+   "lon": 77.58055555555555
+  },
+  {
+   "name": "Mantri Square Sampige Road metro station",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 12.990508,
+   "lon": 77.570729
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

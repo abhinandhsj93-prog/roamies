@@ -1,0 +1,185 @@
+{
+ "query": "Belgaum",
+ "found": "Belagavi, Belagavi taluku, Belagavi, Karnataka, 590001, India",
+ "lat": 15.8572666,
+ "lon": 74.5069343,
+ "fetchedAt": "2026-10-12T18:43:37.667Z",
+ "locality": {
+  "id": "udyambag-belagavi-karnataka",
+  "name": "Udyambag",
+  "area": "Belagavi, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Belgaum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Kamal_Basti_view%2C_Belgaum.jpg/1280px-Kamal_Basti_view%2C_Belgaum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Belgaum",
+   "credit": "Photo: Shubham S. Sankannavar, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamal_Basti_view,_Belgaum.jpg"
+  },
+  "Belagavi division": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Karnataka-divisions-Belgaum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Belagavi division",
+   "credit": "Photo: Original files: Nichalp; derivative work: BishkekRocks, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karnataka-divisions-Belgaum.png"
+  },
+  "Diocese of Belgaum": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cathedral_of_Our_Lady_of_the_Family_Rosary_of_Fatima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Diocese of Belgaum",
+   "credit": "Photo: Blackberet1978, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Our_Lady_of_the_Family_Rosary_of_Fatima.jpg"
+  },
+  "Kamal Basadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Old_jain_temple_belgaum_%281%29.jpg/1280px-Old_jain_temple_belgaum_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kamal Basadi",
+   "credit": "Photo: Swapneel Bhandarkar, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_jain_temple_belgaum_(1).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Belgaum",
+   "text": "Belgaum (Kannada ISO: Beḷagāvi, IPA: [beɭɐɡaːʋi]; Marathi ISO: Bēḻagāṃva, IPA: [beɭɡaːũ]), officially known as Belagavi (also Belgaon), is a city in the Indian state of Karnataka located near its northern western border in the Western Ghats. It is the administrative headquarters of the eponymous Belagavi division and Belagavi district. The Government of Karnataka has proposed making Belgaum the second capital of Karnataka alongside Bangalore, hence a second state administrative building Suvarna Vidhana Soudha was inaugurated on 11 October 2012.\nBelgaum has been selected in first phase out of 20 cities, as one of the hundred Indian cities to be developed as a smart city under India's flagship Smart Cities Mission.",
+   "url": "https://en.wikipedia.org/wiki/Belgaum"
+  },
+  {
+   "title": "Belagavi division",
+   "text": "Belagavi division, formerly Belgaum division, is one of the four divisions of Indian state of  Karnataka. The region is also called as Kitturu Karnataka. The division comprises the districts of  Bagalkot, Belgavi, Bijapur, Dharwad, Gadag, Haveri and Uttara Kannada. It covers a geographical area of 44,538 square kilometres (17,196 sq mi) and had a population of  13,499,721 at the 2011 census. The population density of the division was 239 per square kilometre (620/sq mi).",
+   "url": "https://en.wikipedia.org/wiki/Belagavi_division"
+  },
+  {
+   "title": "St. Paul's High School, Belgaum",
+   "text": "St. Paul's High School is a private Catholic primary and secondary school for boys located in the Cantonment area in Belgaum, North Karnataka, India. Founded by the  Jesuits in 1856, the school is located adjacent to its sister school, St. Joseph’s Canossian Convent School and the  Cathedral of Our Lady of the Family Rosary of Fatima.",
+   "url": "https://en.wikipedia.org/wiki/St._Paul%27s_High_School,_Belgaum"
+  },
+  {
+   "title": "Belgaum Cantonment",
+   "text": "Belgaum Cantonment is a cantonment in Belgaum district  in the state of Karnataka, India.",
+   "url": "https://en.wikipedia.org/wiki/Belgaum_Cantonment"
+  },
+  {
+   "title": "Diocese of Belgaum",
+   "text": "The Roman Catholic Diocese of Belgaum (Latin: Belgaumen(sis)) is a diocese located in the city of Belgaum in the ecclesiastical province of Bangalore in India.",
+   "url": "https://en.wikipedia.org/wiki/Diocese_of_Belgaum"
+  },
+  {
+   "title": "Shahapur, Belgaum",
+   "text": "Shahapur is a village in Belgaum district of Karnataka, India. It is now a suburb of Belgaum city.",
+   "url": "https://en.wikipedia.org/wiki/Shahapur,_Belgaum"
+  },
+  {
+   "title": "Belagavi railway station",
+   "text": "Belagavi railway station, formerly Belgaum railway station (Station code: BGM) is a railway station under South Western Railways and it is the primary railway station serving Belagavi in Kittur Karnataka.  It is a \"A\" Category station.",
+   "url": "https://en.wikipedia.org/wiki/Belagavi_railway_station"
+  },
+  {
+   "title": "St. Mary's School, Belgaum",
+   "text": "St. Mary's High School is a co-educational school located in the Cantonment area in Belagavi, near the Head Post Office of Belagavi, India and is regulated and supervised by Karnataka Secondary Education Examination Board. It was founded in 1851. Near by educational institutions are Islamiya College and B K Model High School.",
+   "url": "https://en.wikipedia.org/wiki/St._Mary%27s_School,_Belgaum"
+  },
+  {
+   "title": "B K Model High School",
+   "text": "B K Model High School is a co-educational school located in the Cantonment area in Belagavi, near the Head Post Office of Belagavi, India and is regulated and supervised by Karnataka Secondary Education Examination Board. Near by educational institutions are St Mary's High School, and St. Paul's High School.",
+   "url": "https://en.wikipedia.org/wiki/B_K_Model_High_School"
+  },
+  {
+   "title": "Belagavi City Assembly constituency",
+   "text": "Belgaum City Assembly constituency was part of the Karnataka state assembly in India, and part of Belgaum Lok Sabha constituency. The seat ceased to exist after the assembly seats' boundary was redrawn in 2008. Now the city's constituencies are Belgaum Dakshin and Belgaum Uttar.",
+   "url": "https://en.wikipedia.org/wiki/Belagavi_City_Assembly_constituency"
+  },
+  {
+   "title": "Kamal Basadi",
+   "text": "Kamal Basadi is a Jain temple located inside Belgaum Fort in city of Belgaum, Karnataka.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Kamal_Basadi"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Belgaum",
+  "text": "Belgaum or Belgaon, officially Belagavi (Kannada: ಬೆಳಗಾವಿ Beḷagāvi, Marathi: बेळगाव Beḷgāv), is a city in Northwestern Karnataka, neighbouring to the state of Goa and Maharashtra, deeply embroiled in claims over this district. The winter capital of Karnataka, Belgaum is a city with a special history; often nicknamed \"Kundanagari\" which takes the name of a popular sweet made in Belgaum. There is a large minority with links to Goa and Maharashtra.\n\n\n== See ==\nBelgaum is famous for its temples and the religious-minded traveler could find a number of temples here, the main ones being Kamal Basti (in Belgaum Fort) Kapileshwar temple, Shani temple and the Maruti Temple.\n\nThe Masjid-Sata mosque, which dates back to the 16th century AD, the Mahadeva temple with its beautiful gardens, the St. Mary's Church of England, St. Xavier's Church, Catholic Cathedral and St. Anthony's Church, all lie within the lush green environs of the Cantonment.\n\n1 Killa Lake (Kote Kere, Killa Talao). A large lake in front of the fort. (updated Jun 2026)\n2 Mahipalgad (Marathi: महिपालगड Mahipālgaḍ), Dewarwadi (near the 1956 Karnataka-Maharashtra border, and a 45-minute drive from Belgaum town. There are regular buses from Belgaum to Dewarwadi). A fort on a mountain ridge amidst dense evergreen forest. (updated Jun 2026)\n3 Suvarna Vidhana Soudha (Golden Legislative House). Largely identical in design to Bangalore's Vidhana Soudha, the winter session of the Karnataka Legislature is held here. (updated Jun 2026)\n4 Tillari Dam.  (updated Jun 2026)\n\n\n=== Belgaum Fort ===\nThe old stone fort, built in 12th century by the local Ratta rulers, is an important spot, though hardly anything of the original structure remains. This fort was renovated and built on by successive rulers who ruled Belgaum from time to time. Belgaum's watchtower and sunset point should not be missed if one wants to savour the scenic beauty surrounding this small town. The fort premises also hosts the Sri Ramakrishna Mission Ashram.\n\n5 Kamal Basadi. A splendid Jain temple, built by the Ratta dynasty in c. 1204 under the guidance of a Jain monk. (updated Jun 2026)\n6 Chikki Basadi. A ruined Jain temple near Kamal Basadi. (updated Jun 2026)\n\n\n== Do ==\nTrekking around Jamboti and Amboli ghats.\nWhite water Rafting on the Kali Nadi at Dandeli.\nParagliding activities around Belgaum (NCC).\n1 Kittur Rani Chennamma Zoological Park.  (updated Jun 2026)\n\n\n== Eat ==\nThe cuisine has a mixed flavour of central (Marathi)and north Indian flavours. This would be the place to try Chats and other Maharashtrian delicacies in Karnataka. Solkadi, a drink made from Kokam fruits, is also a Goan import goes well with fish. Belgaum's famous sweet, Kunda, is available in all major sweet shops.\n\nAjanta cafe is excellent for its Puri Bhaaji, Dosas and Spl Chai.\n Aadinarayan, Kirloskar Road (Bogar ves). Famous for fish. \n Hotel Aadinarayan, Kirloskar Road (Bogar ves). Famous for fresh seafood. \nAmong the favourite joints for ice cream is Natural Ice Cream of Juhu Scheme. It has its outlet at Nehru Nagar near KLE medical in Belgaum.\nIf you are a tea lover then you should visit Appolo Tea Bar near central Bus Stand. The veg-patty and the cream rolls are amazing here.\nBelgaum special sweet, e.g. at Kalyani Sweets in Camp.\nPav Bhaji from Shetty Snacks and chat center in front of Aditya Arcade near Ramdev Hotel.\nDhabeli from Sharma hotel on Kirloskar Road.\nVeg Crispi and Gombu Chicken from Hotel Sun N Sand Club Road\nHotel Golden Grill near Kolhapur Circle is good for its flavour.\n Tatte Idli, Near Aditya Arcade, Nehru Nagar. Tatte Idli & Masala Dosa with delicious Chutney & Sambar \n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Belgaum"
+ },
+ "sights": [
+  {
+   "name": "St. Paul's High School, Belgaum",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 15.853930555555555,
+   "lon": 74.50339166666667
+  },
+  {
+   "name": "St. Mary's School, Belgaum",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 15.85361111111111,
+   "lon": 74.51055555555556
+  },
+  {
+   "name": "Diocese of Belgaum",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 15.854,
+   "lon": 74.5025
+  },
+  {
+   "name": "B K Model High School",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 15.851111111111111,
+   "lon": 74.50833333333334
+  },
+  {
+   "name": "Belgaum Cantonment",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 15.86,
+   "lon": 74.5
+  },
+  {
+   "name": "Belagavi railway station",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 15.84888888888889,
+   "lon": 74.50888888888889
+  },
+  {
+   "name": "Belagavi division",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 15.85,
+   "lon": 74.5
+  },
+  {
+   "name": "Belgaum",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 15.85,
+   "lon": 74.5
+  },
+  {
+   "name": "Belagavi City Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 15.87,
+   "lon": 74.51
+  },
+  {
+   "name": "Shahapur, Belgaum",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 15.8475,
+   "lon": 74.5166
+  },
+  {
+   "name": "Kamal Basadi",
+   "kind": "landmark",
+   "walkMinutes": 25,
+   "lat": 15.858055555555556,
+   "lon": 74.5213888888889
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

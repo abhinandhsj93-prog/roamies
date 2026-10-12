@@ -1,0 +1,68 @@
+MG Road, Bengaluru -> Ashokanagar: 15 wiki, voyage, 15 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504
+Cubbon Park, Bengaluru -> Sampangirama Nagar: 15 wiki, voyage, 15 sights, 0 food, 11 photos, errors overpass sights: overpass-api.de 504
+Lalbagh, Bengaluru -> Ashoka Pillar: 16 wiki, voyage, 15 sights, 0 food, 14 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Bangalore Palace, Bengaluru -> Rajamahal: 15 wiki, voyage, 15 sights, 0 food, 7 photos, errors overpass sights: overpass-api.de 504
+Basavanagudi, Bengaluru -> Yediyuru: 15 wiki, voyage, 15 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Malleshwaram, Bengaluru -> Malleswaram: 15 wiki, voyage, 15 sights, 0 food, 11 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Indiranagar, Bengaluru -> Indiranagar: 16 wiki, voyage, 15 sights, 0 food, 10 photos, errors overpass sights: overpass-api.de 504
+Koramangala, Bengaluru -> Koramangala: 9 wiki, voyage, 15 sights, 0 food, 5 photos
+Jayanagar, Bengaluru -> Byrasandra: 15 wiki, voyage, 15 sights, 0 food, 10 photos, errors overpass food: overpass-api.de 504
+Whitefield, Bengaluru -> Belathur: 7 wiki, voyage, 6 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Nandi Hills -> Ittappanahalli: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass food: overpass-api.de 504
+Mysore Palace, Mysuru -> Vani Vilas: 16 wiki, voyage, 15 sights, 0 food, 16 photos, errors overpass sights: overpass-api.de 504
+Chamundi Hills, Mysuru -> K C Layout: 10 wiki, voyage, 10 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Srirangapatna -> Srirangapatna: 10 wiki, voyage, 9 sights, 0 food, 9 photos, errors overpass sights: overpass-api.de 504
+Brindavan Gardens -> Krishnarajasagara: 4 wiki, no voyage, 3 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Ranganathittu Bird Sanctuary -> Palahalli: 1 wiki, no voyage, 1 sights, 0 food, 0 photos, errors overpass food: overpass-api.de 504
+Somanathapura -> Somanathapura: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Talakadu -> Talakadu: 2 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Bandipur -> Gundlupet taluk: 0 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: The operation was aborted due to timeout
+Gopalaswamy Betta -> Hangala: 2 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Nagarhole -> Ponnampete taluk: 1 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Kabini -> Manchahalli: 0 wiki, no voyage, 10 sights, 0 food, 0 photos
+Madikeri -> Madikeri: 7 wiki, voyage, 6 sights, 0 food, 6 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Kushalnagar -> Baichanahalli: 2 wiki, no voyage, 2 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Bylakuppe -> Bylakuppe: 1 wiki, voyage, 1 sights, 0 food, 1 photos
+Bhagamandala -> Bhagamandala: 2 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
+Chikmagalur -> Hosamane Badavane: 3 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
+Mullayanagiri -> Chikkamagaluru: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Kudremukh -> Kudremukha: 1 wiki, no voyage, 1 sights, 0 food, 1 photos
+Sringeri -> Rajanagara: 4 wiki, voyage, 10 sights, 0 food, 4 photos
+Horanadu -> Horanadu: 4 wiki, voyage, 2 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
+Agumbe -> Agumbe: 2 wiki, voyage, 1 sights, 0 food, 2 photos
+Shivamogga -> Durgigudi: 6 wiki, voyage, 6 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504
+Jog Falls -> Kargal: 2 wiki, no voyage, 2 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
+Sakleshpur -> Sakleshpur: 4 wiki, voyage, 3 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Belur -> Belur: 5 wiki, voyage, 7 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
+Halebidu -> Attiganahalli: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
+Shravanabelagola -> Shravanabelagola: 14 wiki, voyage, 13 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Hassan -> Chikkabuvanahalli: 1 wiki, no voyage, 1 sights, 0 food, 0 photos
+Mangaluru -> Attavar: 16 wiki, voyage, 15 sights, 0 food, 9 photos, errors overpass food: overpass-api.de 504
+Udupi -> Avarse: 0 wiki, no voyage, 0 sights, 0 food, 0 photos
+Malpe -> Malpe: 3 wiki, no voyage, 3 sights, 0 food, 1 photos
+Manipal -> Indrali: 5 wiki, voyage, 5 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
+Kollur -> Kolluru: 3 wiki, no voyage, 2 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Murudeshwar -> Padmaraj Nagar: 3 wiki, voyage, 3 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
+Gokarna -> Gokarna: 6 wiki, voyage, 5 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Karwar -> Karnataka Housing Board Colony: 3 wiki, voyage, 4 sights, 0 food, 3 photos
+Dandeli -> Patel Nagara: 1 wiki, voyage, 1 sights, 0 food, 1 photos
+Yana -> Holebail: 1 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Kundapura -> Koni: 4 wiki, voyage, 3 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Dharmasthala -> Dharmasthala: 3 wiki, voyage, 3 sights, 0 food, 3 photos
+Kukke Subramanya -> Somawarpet taluk: 0 wiki, voyage, 0 sights, 0 food, 0 photos
+Sirsi -> Vinayaka colony: 3 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
+Hampi -> Hampi: 5 wiki, voyage, 15 sights, 0 food, 5 photos, errors overpass food: overpass-api.de 504
+Hospet -> Amaravati: 3 wiki, voyage, 4 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
+Anegundi -> Anegundi: 2 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Badami -> Agastya Tirtha: 8 wiki, voyage, 14 sights, 0 food, 7 photos, errors overpass food: overpass-api.de 504
+Aihole -> Sulibhavi: 6 wiki, no voyage, 5 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Pattadakal -> Pattadakallu: 4 wiki, no voyage, 10 sights, 0 food, 3 photos
+Bijapur -> Vijayapura: 16 wiki, voyage, 15 sights, 0 food, 11 photos
+Bidar -> Talawada: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
+Gulbarga -> Rajapura: 15 wiki, voyage, 10 sights, 0 food, 7 photos
+Hubli -> Kamaripet: 10 wiki, voyage, 15 sights, 0 food, 3 photos
+Dharwad -> Vishweshwara Nagar: 8 wiki, voyage, 8 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Belgaum -> Udyambag: 11 wiki, voyage, 11 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504
+Gokak Falls -> Dhupadal: 3 wiki, no voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Chitradurga -> Pelurahatti: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Raichur -> Bagalawada: 1 wiki, no voyage, 1 sights, 0 food, 0 photos

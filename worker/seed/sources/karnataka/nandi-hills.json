@@ -1,0 +1,21 @@
+{
+ "query": "Nandi Hills",
+ "found": "Nandi Hills State Forest, Suddahalli, Chikkaballapura taluk, Chikkaballapura, Karnataka, India",
+ "lat": 13.5379282,
+ "lon": 77.7324372,
+ "fetchedAt": "2026-10-12T18:27:41.499Z",
+ "locality": {
+  "id": "ittappanahalli-chikkaballapura-karnataka",
+  "name": "Ittappanahalli",
+  "area": "Chikkaballapura taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

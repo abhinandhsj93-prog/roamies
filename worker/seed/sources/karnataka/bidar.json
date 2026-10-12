@@ -1,0 +1,21 @@
+{
+ "query": "Bidar",
+ "found": "Bidar, Karnataka, India",
+ "lat": 18.0207297,
+ "lon": 77.2487204,
+ "fetchedAt": "2026-10-12T18:42:37.453Z",
+ "locality": {
+  "id": "talawada-bidar-karnataka",
+  "name": "Talawada",
+  "area": "Bhalki taluku, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "query": "Basavanagudi, Bengaluru",
+ "found": "Basavanagudi, Sunkenahalli, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560004, India",
+ "lat": 12.9417261,
+ "lon": 77.5755021,
+ "fetchedAt": "2026-10-12T18:25:49.275Z",
+ "locality": {
+  "id": "yediyuru-bengaluru-urban-karnataka",
+  "name": "Yediyuru",
+  "area": "Bengaluru, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "B.M.S. College of Engineering": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/BMSCE_Official_Font.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "B.M.S. College of Engineering",
+   "credit": "Photo: Shashank098, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BMSCE_Official_Font.png"
+  },
+  "Dodda Basavana Gudi": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Dodda_Ganeshana_Gudi_Hindu_temple%2C_Basavanagudi%2C_Karnataka%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Dodda Basavana Gudi",
+   "credit": "Photo: Rkrish67 at en.wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dodda_Ganeshana_Gudi_Hindu_temple,_Basavanagudi,_Karnataka,_India.jpg"
+  },
+  "Basavanagudi": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bangalore_Nandi_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Basavanagudi",
+   "credit": "Photo: https://www.flickr.com/photos/matteo-gianni/83024594/sizes/l/, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangalore_Nandi_Temple.jpg"
+  },
+  "National High School, Basavanagudi": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_High_School.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "National High School, Basavanagudi",
+   "credit": "Photo: Pavithrah, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_High_School.png"
+  },
+  "Kadalekai Parishe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%28103%29.jpg/1280px-Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%28103%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kadalekai Parishe",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basavanagudi_Kadalekai_Parishe_(2025)_Bangalore_(103).jpg"
+  },
+  "Bugle Rock": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bugle_Rock_Kahale.jpg/1280px-Bugle_Rock_Kahale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bugle Rock",
+   "credit": "Photo: User:Sarvagnya, CC BY 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bugle_Rock_Kahale.jpg"
+  },
+  "National College metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/National_college_metro_station_2.jpg/1280px-National_college_metro_station_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "National College metro station",
+   "credit": "Photo: LittleT889, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_college_metro_station_2.jpg"
+  },
+  "Lalbagh metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Lalbagh_metro_station%2C_Bangalore_%282025%29_01.jpg/1280px-Lalbagh_metro_station%2C_Bangalore_%282025%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Lalbagh metro station",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalbagh_metro_station,_Bangalore_(2025)_01.jpg"
+  },
+  "South End Circle metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Southend_Circle_metro_station.jpg/1280px-Southend_Circle_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "South End Circle metro station",
+   "credit": "Photo: LittleT889, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southend_Circle_metro_station.jpg"
+  },
+  "Jayanagar metro station": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jayanagar_metro_station_%28as_of_Feb_%2722%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Jayanagar metro station",
+   "credit": "Photo: Sam2905, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jayanagar_metro_station_(as_of_Feb_%2722).jpg"
+  },
+  "Gandhi Bazaar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gandhi_Bazaar_Circle.jpg/1280px-Gandhi_Bazaar_Circle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gandhi Bazaar",
+   "credit": "Photo: LittleT889, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandhi_Bazaar_Circle.jpg"
+  },
+  "Basavanagudi Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/170-Basavanagudi_constituency.svg/1280px-170-Basavanagudi_constituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Basavanagudi Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:170-Basavanagudi_constituency.svg"
+  },
+  "Basavanagudi inscriptions and hero stones": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Dodda_Ganeshana_Gudi_Hindu_temple%2C_Basavanagudi%2C_Karnataka%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Basavanagudi inscriptions and hero stones",
+   "credit": "Photo: Rkrish67 at en.wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dodda_Ganeshana_Gudi_Hindu_temple,_Basavanagudi,_Karnataka,_India.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "B.M.S. College of Engineering",
+   "text": "B.M.S. College of Engineering, or Bhusanayana Mukundadas Sreenivasaiah College of Engineering (BMSCE), is a private engineering college in Basavanagudi, Bangalore, India. It was started in 1946 by Bhusanayana Mukundadas Sreenivasaiah and is run by the B.M.S. Educational Trust. It is affiliated with Visvesvaraya Technological University and became autonomous in 2008. BMSCE is located on Bull Temple Road, Basavanagudi, diagonally opposite the famous Bull Temple. Though a private college, it is partially funded by the Government of Karnataka.\nBMS College of Engineering (BMSCE) offers 14 undergraduate and 15 postgraduate courses in both conventional and emerging fields. Fourteen of its departments are recognized as research centers offering PhD and M.Sc degrees in science, engineering, and management. At present, over 350 research scholars are pursuing their PhD degrees in these centers, and 160 PhDs have been produced so far. BMSCE is an autonomous institution that has been approved by the All India Council for Technical Education (AICTE) and the University Grants Commission (UGC). The institution has been practicing outcome-based education since 2008. It is the first institution in Karnataka...",
+   "url": "https://en.wikipedia.org/wiki/B.M.S._College_of_Engineering"
+  },
+  {
+   "title": "Dodda Basavana Gudi",
+   "text": "Dodda Basavana Gudi (the Nandhi Temple) is situated in Bull Temple Road, Basavanagudi, area of South Bengaluru, part of the largest city of the Indian state of Karnataka. The Hindu temple is inside a park called Bugle Rock.\nThe bull referred to is a sacred Hindu demi-god, known as Nandi; Nandi is a close devotee and attendant of Shiva. Dodda Basavana Gudi is said to be one of the biggest temple to Nandi in the world. The stone monolith idol of Nandi is continually covered with new layers of butter, benne in the local language of Kannada. There is an idol of the elephant-headed Hindu deity Ganesha close by.\nEvery year on the last Monday and Tuesday of the Hindu month of Karthika Maasa a groundnut fair is held in the temple premises and groundnut is offered to the deity. This fair is known as 'Kadalekaayi Parishe' in local tongue. Groundnut sellers and devotees throng the place during Kadalekaayi Parishe.\nBasavana Gudi is a regular place of visit for tourists and is covered by most of the tour operators including the Karnataka State Tourism Development Corporation.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Dodda_Basavana_Gudi"
+  },
+  {
+   "title": "Basavanagudi",
+   "text": "Basavanagudi is a charming residential and commercial locality in the Indian city of  Bengaluru. Basavanagudi is one of the oldest and poshest localities of Bangalore evidenced by the fact that it is home to four inscriptions, three Kannada and one Tamil. It is located in South Bangalore, along the borders of Jayanagar and Lalbagh Botanical Gardens. The name \"Basavanagudi\" refers to the Bull Temple, which contains a monolithic statue of the Nandi Bull. The word Basava in Kannada means bull, and gudi means temple. The main commercial street in Basavanagudi is DVG Road, which is home to numerous retail businesses - several of them dating back to the 1920s and 1930s. Towards the middle of DVG Road is Gandhi Bazaar, known for its market which sells fresh flowers, fruits, and vegetables. The neighbourhood includes several historic restaurants, notably Vidyarthi Bhavan, a vegetarian restaurant which opened in 1943. Basavanagudi is also home to B.M.S. College of Engineering, established in 1946, which holds the distinction of being the first private engineering college in India.",
+   "url": "https://en.wikipedia.org/wiki/Basavanagudi"
+  },
+  {
+   "title": "National High School, Basavanagudi",
+   "text": "National High School (or NHS) is a government-aided high school in the Basavanagudi section of Bangalore, India.\nWith grades/classes for 8th, 9th and 10th, NHS caters to academically eligible students regardless of religion or caste.  NHS is run by the National Education Society (NES).",
+   "url": "https://en.wikipedia.org/wiki/National_High_School,_Basavanagudi"
+  },
+  {
+   "title": "Kadalekai Parishe",
+   "text": "Kadalekai Parishe (Kannada: ಕಡಲೆಕಾಯಿ ಪರಿಷೆ), is an annual groundnut fair which takes place in Basavanagudi and Malleshwaram of Bangalore. This is a two to three-day fair. Farmers from other parts of the state bring their first crop of groundnuts to offer to Basavanna. Also, there will be numerous stalls of Groundnuts, with all different varieties such as, freshly plucked groundnuts, fried groundnuts, with shell, unshelled, boiled groundnuts and many. Apart from the Groundnuts, there are numerous stalls in the fair, selling Bangles, Bags, traditional toys and clay trinkets, plastic and glass dolls, Mehndi tattoos. There are a variety of food items, such as Bajji, Bonda, Batthaas (Coloured sugar candies), Kalyana seve or Bendu (Sugar coated gram) and Coloured sodas on sale during the fair. Over 200 groundnut vendors  were benefited and the total plastic consumption at the fair came down by over 60%.",
+   "url": "https://en.wikipedia.org/wiki/Kadalekai_Parishe"
+  },
+  {
+   "title": "Bugle Rock",
+   "text": "Bugle Rock (Kahale Bande) is a massive rock in the Basavanagudi area of South Bengaluru, in the state of Karnataka. It is an abrupt rise above the ground of peninsular gneiss as the main rock formation and with an assessed age of about 3,000 million years. Bugle Rock has generated wide interest in the scientific community.\nKempe Gowda II (who came to power in 1585), the feudal ruler of Bangalore, is credited with building four watchtowers setting limits for Bangalore's expansion, which included a tower on the Bugle Rock (on the southern boundary) as it commands a panoramic view of Bangalore city. It is said that at sunset a sentry would blow the bugle and hold a torch which was visible from the other three watch towers (one on the southern bank of the Kempambudi tank on the west, the second near Ulsoor Lake in the east and the third tower adjoining Ramana Maharshi Ashram on Bellary Road, Mekhri Circle in the north). This was to inform people that everything was safe at that location and to give a warning bugle call to alert the citizens of any intruders into the city. Most of the rocks on the Bugle Rock, next to the Bull Temple, have hollows, which were once used to light lamps. This...",
+   "url": "https://en.wikipedia.org/wiki/Bugle_Rock"
+  },
+  {
+   "title": "Acharya Pathasala Public School",
+   "text": "Acharya Pathasala (transl. Teacher School)  is an organization in southern Bangalore, Karnataka, India. It was founded in 1935 by Prof. N Ananthachar.\nAcharya Pathasala Public School, started in 1989, is a co-educational English medium school, headed by Sri T. V. Maruthi, President of the Board of Management and Dr. A.S. Vishnu Bharath, Chartered Accountant as Chairman of Governing Council. The School is affiliated to the Council for the Indian School Certificate Examination (ICSE).\nThe school has had 100% results for X Standard in Board Exams over many years.  It offers courses from upper kindergarten to X std.\nThe school has been placed as one of the top ICSE schools in bangalore",
+   "url": "https://en.wikipedia.org/wiki/Acharya_Pathasala_Public_School"
+  },
+  {
+   "title": "National College metro station",
+   "text": "National College is an elevated metro station on the North-South corridor of the Green Line of Namma Metro serving Basavanagudi and the National College areas of Bengaluru, India. It was opened to the public on 18 June 2017.",
+   "url": "https://en.wikipedia.org/wiki/National_College_metro_station"
+  },
+  {
+   "title": "Gunasheela Surgical and Maternity Hospital",
+   "text": "Gunasheela Surgical and Maternity Hospital is a specialized women's healthcare facility in Basavanagudi, Bangalore, India. The hospital focuses on obstetrics, gynaecology, and reproductive medicine.",
+   "url": "https://en.wikipedia.org/wiki/Gunasheela_Surgical_and_Maternity_Hospital"
+  },
+  {
+   "title": "Lalbagh metro station",
+   "text": "Lalbagh is an elevated metro station on the North-South corridor of the Green Line of Namma Metro serving the Basavanagudi area of Bengaluru, India. It was opened to the public on 18 June 2017. It services Lalbagh Botanical Garden.",
+   "url": "https://en.wikipedia.org/wiki/Lalbagh_metro_station"
+  },
+  {
+   "title": "South End Circle metro station",
+   "text": "South End Circle is an elevated metro station on the North-South corridor of the Green Line of Namma Metro serving the Basavanagudi area of Bengaluru, India. It was opened to the public on 18 June 2017.",
+   "url": "https://en.wikipedia.org/wiki/South_End_Circle_metro_station"
+  },
+  {
+   "title": "Jayanagar metro station",
+   "text": "Jayanagar is an elevated metro station on the North-South corridor of the Green Line of Namma Metro serving the 4th and 7th block of Rashtreeya Vidyalaya Road area of Bengaluru, India. It was opened to the public on 18 June 2017.",
+   "url": "https://en.wikipedia.org/wiki/Jayanagar_metro_station"
+  },
+  {
+   "title": "Gandhi Bazaar",
+   "text": "Gandhi Bazaar is a busy market area in Basavanagudi, Bangalore, known mainly for its flower and condiment hawker shops. One of the oldest areas in the city, Gandhi Bazaar is said to be traditional and conservative. The area also houses many temples; fruit, vegetable and cloth stores; and restaurants, including the Vidyarthi Bhavan which was started in 1943. The market typically functions from 6 a.m. to 9 p.m., with an increased crowd during festival periods for buying puja items. DVG Road, which has some of the oldest business outlets in the city, runs through the centre of Gandhi Bazaar and is the commercial centre of Basavanagudi.\nKannada writer Masti Venkatesha Iyengar was a resident of this locality.",
+   "url": "https://en.wikipedia.org/wiki/Gandhi_Bazaar"
+  },
+  {
+   "title": "Basavanagudi Assembly constituency",
+   "text": "Basavanagudi Assembly constituency is one of the 224 constituencies in the Karnataka Legislative Assembly of Karnataka, a southern state of India. Basavanagudi is also part of Bangalore South Lok Sabha constituency. It has also been considered as a stronghold of the BJP as it has won the constituency by a large margin multiple times. Congress has only won the seat once in 2004 in the span of the past 45 years. The constituency is dominated by Brahmins and Vokkaligas. Middle and upper-middle-class people are in significant numbers and senior citizens make up almost a third of the electorate.",
+   "url": "https://en.wikipedia.org/wiki/Basavanagudi_Assembly_constituency"
+  },
+  {
+   "title": "Basavanagudi inscriptions and hero stones",
+   "text": "The Basavanagudi Inscriptions are a set of three Kannada and one Tamil inscriptions that can be found in the locality of Basavanagudi. Of the four, three Kannada inscriptions are physically present and the fourth Tamil inscription's physical status remains unknown. The available Kannada inscriptions can be found in Bugle rock park and Dodda Basavana Gudi or Big bull temple. Two inscriptions found in the vicinity of Dodda Basavana Gudi or Big bull temple, both describe the Vrishabhavati river's origin as coming from the feet of the Basava idol in the temple's sanctum and flowing westwards thereon as Paschimavahini. The two inscriptions can be found: one on the pedestal of the Basava deity in the sanctum and the other on a boulder in the shrubbery surrounding the temple. Two more inscriptions that are published, one is a one line Tamil inscription in Grantha script published in Epigraphia Carnatica and is about possible donatory inscription to the Chokkanathaswamy Temple in Domlur, a locality in Bengaluru, its physical status is not known at present and the other is a one line Kannada inscription in the Kannada script published in Itihasa Darshana Journal and is present on a boulder in...",
+   "url": "https://en.wikipedia.org/wiki/Basavanagudi_inscriptions_and_hero_stones"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bengaluru",
+  "text": "Bengaluru (Kannada: ಬೆಂಗಳೂರು Bengaḷūru), formerly Bangalore, is the largest city in southern India and the capital of the state of Karnataka. A cosmopolitan city, Bengaluru was developed around what was once a mud fort of a feudal lord. The city has a population of nearly 13 million (2025), making it India's fourth-largest city.\nKnown worldwide as the \"Silicon Valley of India\", Bengaluru is at the core of India's information technology (IT) industry. In addition, the city is nicknamed the \"Garden City\" for its large array of parks and greenery.\n\n\n== See ==\nIndividual listings can be found in Bengaluru's district articles\n\nThere are city tours that can show you the city efficiently if you are short on time. Typically, tours do not include entry fees into the attractions. Bengaluru, like the rest of India, has a habit of charging foreigners a lot more than locals for attractions. For example, Tipu Sultan's Summer Palace, which is on the half-day tour, charges ₹15 for Indians/SAARC and ₹200 for non-Indians.\n\n\n== Do ==\nIndividual listings can be found in Bengaluru's district articles\n\n\n=== Outdoor activities ===\nBengaluru is bestowed with rock climbers, aqua sportsmen and aero sportsmen. There are several clubs, including Nature Admire, Care, Spark, KMA, Capture, Mars, Angel, Wildcraft and Adventure Works.\nCamping facilities are available at Savandurga, Gunjoor Lake, Bhimeshwari, Rangaswamy betta.\nThe Art of Bicycle Trips organises bicycle tours in and around the city, which combine cycling with art and heritage.\nThe Koramangala Club in Koramangala, and the Swimming club at the National Games Village (NGV), have facilities such as swimming pools and tennis courts.\nBalahalli Reserved Forest is a  UNESCO World Heritage Site\nCricket\nBengaluru is also popular for playing cricket. Bengaluru also has the M Chinaswamy Stadium and is home to the Royal Challengers Bengaluru in the Indian Premier League and Women's Premier League. Chinaswamy Stadium also hosts international matches against teams. Chinaswamy Stadium is also known for its energetic crowd in cheering the Royal Challengers Bengaluru former captain Virat Kohli and the rest of the team, especially when they win. Book tickets early especially for IPL matches because when Royal Challengers Bengaluru is playing, the tickets get sold out within seconds. If you arrive in January or February, book tickets for the Women's Premier League as it takes place in those months and is often less crowded than the IPL matches. Always carry a water bottle while travelling to Chinaswamy Stadium. \n\n\n=== Movies ===\nTake in a movie at one of the innumerable theaters around the city. Some multiplexes:\n\n Cinemax (Bengaluru Central, Bellandur).   \n Cinepolis, Royal Meenakshi Mall, Bannerghatta Rd; ETA Mall, Binny Pete; Forum Shantiniketan, Whitefield.  \n Gopalan Cinemas, Arch Mall, Mysore Rd,. Gopalan Mall, Mysore Road; Gopalan Mall, Near Jayadeva Hospital, Bannerghatta Road ; Gopalan Mal;, Old Madras Road, Near Baiyappanhalli Metro Station \n Inox theatre, Bengaluru Central, JP Nagar, Fame Cinemas, MG Road, Forum Value Mall, Whitefield, Garuda Mall, Magrath Road, Lido Mall, Ulsoor, Mantri Square, Malleshwaram, Garuda Swagath Mall, Jayanagar.   \n PVR Cinemas, Nexus Mall, Koramangala, Orion Mall, Malleshwaram, The Phoenix Market City Mall, Whitefield; Vega Mall, JD Mara signal.   \n Bangalore Film Society. A club membership (around ₹500/year) is typically required for entrance. Foreign film series and cultural events. \n\n\n=== Spas ===\nSpas and massages are very much a part of Bengaluru's east-meets-west culture, new ones spring up across the city all the time. Beware that many of the \"massage\" classifieds in local newspapers may be fronts for prostitution. Prostitution is illegal and if caught in a raid, you may end up spending a night in the cooler before being eligible for bail. Most legitimate spas and massage parlours have detailed websites and are run professionally.\n\n\n== Eat ==\nIndividual listings can be found in Bengaluru's district articles\nBengaluru has a wide variety of food options. Foreigners will want to look for cleanliness in choosing a place to eat. Also don't expect the exterior to be too fancy, observe the cleanliness of the inside and the servers when choosing a place to eat! Eating options include high end restaurants to chains to temples to mom and pop shops and of course street vendors! Restaurants usually label if they serve only vegetarian (veg or pure veg) or both veg and non-veg cuisine. If you haven't been in India long, it is safer to take bottled water. But juices and other drinks are usually OK.\nThere are also hundreds of young coconut and sugarcane juice stands! A nice refresher as you go around town! Both are good for keeping cool and energized. A coconut goes for ₹25-30 (some stands may have smaller coconuts for ₹10-15). Sugar cane juice runs ₹10-15 per cup.\nBengaluru is far from the sea, and as such the quality of seafood can vary. Some of the higher end and popular seafood places manage this well, but foreign travellers may want to tread a bit carefully.\nForeigners might want to only drink bottled water and eat only chutneys that are made with bottled or filtered water. Also, beef is forbidden to be on the menu in Karnataka restaurants.\nThe 80 Feet Road is the Eat Street of Koramangala. Pizza Hut, Domino's, KFC, Taco Bell, Au Bon Pain are all found here. There are also many non-chains serving local Indian cuisine. Chandni Chowk is a great option if you want the rural Punjabi dhaba experience.\nWisdom Cafe, near the AlienWare showroom is a really cosy place to have some snacks or lunch. So is the Hole in the Wall cafe, on the back street behind Maharaja Hotel. Serves great coffee and English breakfast. So does Cafe Terra, near Wipro park crossing. Adjacent to it is a really popular food joint called Little Home. It serves nice North Indian food at a very reasonable price. It's really popular with the young working populace. Naturals Ice cream parlour is a hit with the hip crowd; on weekend nights you may find queues outside.\n\n\n=== Chains ===\n\n The Adiga's chain. Restaurants to the south of Bengaluru. Prominent among them are in: Jayanagar 4th Block, take the road facing BHS First Grade College, Basavanagudi. \n Beijing Bites. 11AM-3:30PM, 7PM-11PM. Chain restaurant inspired by Chinese & Thai cuisines, spread across Bengaluru. ₹200-₹400. \n Kamat Yatrinivas, Majestic; All around the city. Authentic Mangalorean meals. \n Mast Kalandar, All around the city. Very nice North India cuisine. It is very reasonably priced. \n Nagarjuna Chimney, Residency Rd; Jayanagar 3rd Block (near Old Galaxy Theatre; near ICICI Bank). Possibly have a few more branches elsewehere in Bengaluru. The biryani is great, as are their meals which are served ritually on a banana leaf. Reach early for lunch, for there are always hordes waiting. \n Upaahara Darshini, Jayanagar 3rd Block; DVG Road, Gandhi Bazaar. One of Bengaluru's oldest food joints. Amazing dosas. \n Corner House, Residency Rd, BTM Rd, Koramangala, Airport Rd, Whitefield Rd, Marthahalli and Shivananda Circle, ☏ +91 80 2558 3262. One of the best ice cream parlours offering a variety of treats. Their famed 'Death by Chocolate' (popularly known as DBC) is a must for all chocolate lovers and has attained a cult status. Can be tricky to find a spot during peak times and you may find yourself being 'encouraged' by the staff to leave quickly once you do. \n Kanti Sweets. KG Rd, Majestic, Malleswaram Circle, RT Nagar. Very good samosas, kachoris and North Indian sweets like rasmalai. Rapidly expanding chain, so there are plenty of branches all over the city now, which serve parathas and other food items as well. The main branch in Majestic is the best, and serves only samosas, kachoris and sweets. ₹10-50 per head. \n Nandini. The Andhra fast food chain serves some excellent biriyani and chicken dishes. \n New Shanti Sagar, 80 Foot Rd. This is a reasonably reliable chain of vegetarian south Indian restaurants. Branches scattered all over the city, notably in Koramangala Jayanagar, Domlur. ₹50-200. \n The Rameshwaram Cafe. A well-known restaurant chain famous for its extra crispy ghee dosas. Standing room only and hugely popular, all food is made to order so at peak meal times you may need to wait for an hour or longer. (updated Sep 2024)\n Savera Tea Shop. 24 hr tea shops near Russell Market in Shivajinagar and on MG Rd. Good place to go for a cup of tea in the dead of the night. Serves tea, Suleimani (honey+lemon) tea and a variety of biscuits. ₹3-15 \n Shezan, Lavelle Rd and Cunningham Rd, ☏ +91 80 2224 9319, +91 80 2224 9667. Indian, Chinese and Continental cuisines with a good menu choice where beef, fish, prawn, mutton and chicken meat are available. Excellent steaks. \n SLV chain. Prominent among them are in: Banashankari 2nd stage, opposite BDA park and the one in J.P.Nagar 2nd Phase near Ragigudda Temple \n Sree Krishna. Fast food a little further from the r",
+  "url": "https://en.wikivoyage.org/wiki/Bengaluru"
+ },
+ "sights": [
+  {
+   "name": "Gunasheela Surgical and Maternity Hospital",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 12.94024,
+   "lon": 77.57651
+  },
+  {
+   "name": "Basavanagudi Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.942,
+   "lon": 77.572
+  },
+  {
+   "name": "Basavanagudi",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.94,
+   "lon": 77.57
+  },
+  {
+   "name": "B.M.S. College of Engineering",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.94,
+   "lon": 77.57
+  },
+  {
+   "name": "Jayanagar metro station",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.938237,
+   "lon": 77.580076
+  },
+  {
+   "name": "South End Circle metro station",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.938237,
+   "lon": 77.580076
+  },
+  {
+   "name": "Bugle Rock",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 12.94303,
+   "lon": 77.56947
+  },
+  {
+   "name": "Gandhi Bazaar",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 12.945833333333333,
+   "lon": 77.57083333333333
+  },
+  {
+   "name": "Lalbagh metro station",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 12.946355,
+   "lon": 77.58005
+  },
+  {
+   "name": "Basavanagudi inscriptions and hero stones",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 12.941986,
+   "lon": 77.568273
+  },
+  {
+   "name": "Dodda Basavana Gudi",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 12.942894444444445,
+   "lon": 77.56820833333333
+  },
+  {
+   "name": "Kadalekai Parishe",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 12.942058249082486,
+   "lon": 77.56810371691687
+  },
+  {
+   "name": "Acharya Pathasala Public School",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 12.94011,
+   "lon": 77.567938
+  },
+  {
+   "name": "National High School, Basavanagudi",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 12.9491,
+   "lon": 77.5728
+  },
+  {
+   "name": "National College metro station",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 12.950548,
+   "lon": 77.573712
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

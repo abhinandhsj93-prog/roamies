@@ -1,0 +1,107 @@
+{
+ "query": "Manipal",
+ "found": "Manipal, Udupi taluku, Udupi, Karnataka, 576104, India",
+ "lat": 13.3519723,
+ "lon": 74.7870308,
+ "fetchedAt": "2026-10-12T18:37:31.084Z",
+ "locality": {
+  "id": "indrali-udupi-karnataka",
+  "name": "Indrali",
+  "area": "Manipal, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Manipal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Night_in_Manipal.jpg/1280px-Night_in_Manipal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Manipal",
+   "credit": "Photo: shantheri, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night_in_Manipal.jpg"
+  },
+  "Manipal Institute of Technology": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/MIT_Academic_Block_1_-_Quadrangle.jpg/1280px-MIT_Academic_Block_1_-_Quadrangle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Manipal Institute of Technology",
+   "credit": "Photo: KshitizBathwal / Skyscape Photography, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MIT_Academic_Block_1_-_Quadrangle.jpg"
+  },
+  "Formula Manipal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/VGN_2910.jpg/1280px-VGN_2910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Formula Manipal",
+   "credit": "Photo: Mahic.Shah, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:VGN_2910.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Manipal",
+   "text": "Manipal (Kannada: [mɐɳipaːlɐ]) is a suburb and town within Udupi, in coastal Karnataka, India. Manipal is located five kilometres away from the centre of Udupi City, in Udupi District, Karnataka (state) in south western India. It is administered by the Udupi City Municipality. The suburb is located in coastal Karnataka, 62 km north of Mangalore and 8 km east of the Arabian Sea. From its location on a plateau, at an altitude of about 75 metres above sea level, it commands a panoramic view of the Arabian Sea to the west and the Western Ghats to the east. Manipal has a tropical climate with moderate to heavy rainfall during the monsoon season, making it lush and green throughout the year.\nHome to the Manipal Academy of Higher Education, the town attracts more than twenty-five thousand students every year, hence most of the population consists of students or university staff. There are numerous spots throughout the suburb that attract students from nearby Mangalore and Udupi such as End Point, Manipal Lake, Malpe Beach, and Peacock Point. The city owes its development to Manipal Academy of Higher Education for converting this into a student city. It is called \"Campus Town\" by the locals...",
+   "url": "https://en.wikipedia.org/wiki/Manipal"
+  },
+  {
+   "title": "Manipal Institute of Technology",
+   "text": "Manipal Institute of Technology (MIT) is a private engineering college and constituent institution of the Manipal Academy of Higher Education (MAHE) located in Manipal, Karnataka, India.\nEstablished in 1957 as Manipal Engineering College (MEC), the institute offers undergraduate, postgraduate, and doctoral programmes in engineering, technology, and applied sciences. MIT has 18 academic departments and conducts research programmes supported by agencies including the Department of Science and Technology (DST), Council of Scientific and Industrial Research (CSIR), and the All India Council for Technical Education (AICTE).\nIn 2018, the Government of India granted MAHE the status of Institute of Eminence.",
+   "url": "https://en.wikipedia.org/wiki/Manipal_Institute_of_Technology"
+  },
+  {
+   "title": "Manipal College of Dental Sciences, Manipal",
+   "text": "The Manipal College of Dental Sciences, Manipal, also known as MCODS, was established in 1965 and received accreditation by the Dental Council of India in 1970. It was India's first private dental college and 14th dental college. It is a constituent college of Manipal University. On 29–30 May 2006 a certification audit was completed by TÜV Rheinland it was recommended  certification for ISO 9001:2000\nThe very first principal of the college was Dr. Sunder Vazirani, followed by Dr. K.L. Shourie from Mumbai and then Dr. K. S. Bhat. Many more have added on as time went by. In 1972 it added the MDS (Masters)program to its curriculum.",
+   "url": "https://en.wikipedia.org/wiki/Manipal_College_of_Dental_Sciences,_Manipal"
+  },
+  {
+   "title": "KMC International Center",
+   "text": "The Kasturba Medical College International Center (KMCIC) was the Manipal, India campus of American University of Antigua College of Medicine. The college was forged with an agreement between Manipal University (formerly known as the Manipal Academy of Higher Education) and the American University of Antigua College of Medicine (since purchased by The Manipal Group Archived 8 October 2017 at the Wayback Machine). KMCIC was established in October 2005, with a focus to train undergraduate and graduate students in the Basic Sciences of the medical curriculum in preparation for the USMLE Step 1 Examinations. KMCIC functions as a distinct college of Manipal University, with its own administrative body led by Dean Poornima Baliga.  It started to phase out students from its campus in Manipal and relocate them to AUA's Pre-Medical and Basic Science campus in Antigua in 2011.  As of 2015, no students are currently enrolled at KMCIC's Manipal campus.  AUA has since then dissolved that campus after receiving California site selection approval among other states as AUA site is highly favorable among many states for placement of students. Manipal campus in its entirety is left with only secretarial...",
+   "url": "https://en.wikipedia.org/wiki/KMC_International_Center"
+  },
+  {
+   "title": "Formula Manipal",
+   "text": "Formula Manipal is a Manipal Academy of Higher Education-based on a student project which aims to design, build and test a Formula-style race car. It started as an abstract idea in 2007, and today it has become a successful student initiative of Manipal University. The team consists of over sixty inter-disciplinary undergraduates who aim to conceive, design, fabricate, develop, and compete with Formula style vehicles at International Formula Student events.\nFormula Manipal has been competing in the International Formula Student competitions for the past ten years. It made its debut in 2008 at FSAE Italy with the FM08. In the following year,  the team participated in the Formula Student event in UK with the FM09. The team then had a successful participation in FS Austria with the FM-X, the season 2010 car. The year 2011 saw the development of the fourth prototype, the FMXI, which competed in FSAE Italy.\nSeason 2013 turned out to be the most amazing year for Formula Manipal in its history. For the first time, the team successfully participated in two FSAE events in the same calendar year with the FMX3. First, the team went to FS Germany and later to the FS Czech Republic.\nFMX4, the season...",
+   "url": "https://en.wikipedia.org/wiki/Formula_Manipal"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Udupi",
+  "text": "Most Indians know of Udupi not as a place, but as a category of restaurants that serve vegetarian food in the South Indian style. However, the town itself is not as well-known as its widespread cuisine. Still fewer know of its reputation as the location of a Krishna temple and a monastery established by the founder of one of the three main philosophical strains of present-day Hinduism. \nThe town of Udupi lies in Udupi taluka which in turn is in Udupi district. This article covers the taluka. To its north is Kundapura and to its west is Karkala, at the foothills of the Western Ghats. To the south of Udupi is Mangalore, which is the headquarters of the Dakshina Kannada district.\n\n\n== See ==\nUdupi has some nice beaches, lush greenery, the quaint charm of a small town and many temples. Many of the places to visit are not very well known to many people outside of Udupi. If you are an adventurous person who loves nature, there is a lot to explore in Udupi.\n\n\n=== Krishna temple complex ===\n\nThe heart of Udupi is undoubtedly the Krishna temple complex. It comprises of, in addition to the main temple, two other historic temples - Anantheshwara and Chandramouleshwara, all connected by the Ratha beedi or \"chariot street\", so called because on festive occasions such as the \"Paryaya\", the deity is taken in procession in temple chariots. The chariots themselves are usually stationed at Ratha beedi.  \nIn addition to propounding a philosophy and performing miracles, Madhvacharya also established a monastic order with eight main monasteries (or \"mutts\"). All around the Ratha beedi are the eight mutts (ashtamathas).     \n20th century additions to the area are the Gita Mandira and the Rajangana, where cultural programmes and discourses held, a short walk away. The Ratha Beedi is also a shopping street.   \n\n1 Sri Krishna Temple and Mutt, Ratha Beedi (Chariot Street), ☏ +91 820-252 0598. 5AM-9:30PM. A complex of temples and monasteries located near the Madhva Sarovara, or Madhvacharya's pond. The main temple is constructed in the architectural style typical in Kerala and Dakshina Kannada, with multiple layers around the inner sanctum sanctorum, with no massive sikhara over it as is found elsewhere in South India. There are shrines to subordinate deities including Garuda and Hanuman. On special occasions, the temple area is beautifully decorated with flowers and lamps.  Offerings can be made and \"prasadam\" can be bought inside. The temple offers free lunch to everyone at three dining halls, or Bhojana Shaalas. Free. (updated Aug 2018)\n2 Kanakana Kindi (Kanaka's Window), Ratha Beedi. 24 hrs. The unusual feature of Udupi's Krishna temple is that the statue faces west, and away from the devotees. To catch a glimpse of the deity, you need to make your way to Kanaka's window. The reason for this, apparently, is that a lower-caste devotee named Kanakadasa was denied entry into the temple, so he tried worshiping from a small window outside it. The Lord was so pleased at his devotion that He turned around to face the window. The window is now named after him, and a massive Gopura (or tower) has since been built over it. Free. (updated Dec 2020)\n3 Madhva Sarovara. Madhva Sarovara is right next to the temple and is accessible from both inside and outside of it. has a \"mantapa\" or canopy at its centre, and the pond is often beautifully lit. A bath at the sarovara may or may not be possible. Inquire before taking the plunge. (updated Dec 2020)\n4 Anantheshwara temple. This is a temple dedicated to Parashurama, another incarnation of Vishnu, and according to legend, the creator of the landmass encompassing Udupi, Dakshina Kannada and Kerala. The temple dates back to the 8th century. (updated Dec 2020)\n5 Chandramouleshwara temple. Right next to the Krishna temple is this temple dedicated to Shiva, to whom, according to legend, the moon (Chandra) prayed at this spot. (updated Dec 2020)\n\n\n=== Other attractions ===\n\n6 Malpe beach, SH65, near Stella Maris Church. Visit Malpe beach where you can take fantastic pictures of the sunset in the background of St Mary's island. Nice clean beach, not inundated by tourists. Free. (updated Dec 2020)\n7 Manipal End-point Park, SH65, Manipal. A small cliff that overlooks the Suwarna river. From this point, you can get a beautiful view of the sea as well as the mountains. Very popular with Manipal University students. Free. \n8 Pajaka Kshetra, Kunjarugiri (around 10 km from the city centre), ☏ +91 820-255 9013, +91 820-200 9013, +91 94489 52913. The birthplace of Madhvacharya, considered a holy place by believers. Has a temple dedicated to Durga, a memorial dedicated to Madhvacharya and some ponds, bathing in which supposedly cleanses one of all sins. Free. \n9 St Mary's Island, Off Malpe Beach (boats are available from Malpe Beach). 8:30AM to 4:30PM. Rock formations created by a mixture of volcanic lava flow and waves. Legend has it that the Portuguese explorer Vasco Da Gama landed here and claimed the island in the name of Mother Mary. The island also has a beautiful beach which is worth visiting. The first boat is supposed to run at 8:30AM, last boat to that island is around 4:30PM and from that island is 6PM. The boat leaves only if there are around 30 visitors. Waiting time may be about 30 minutes for tourists to arrive before the boat leaves. It is best to do this in the evening or early mornings. If visiting during noon, there is little shade to be found. Food and drinks are sold on the island. About ₹300  for the return ticket. (updated Dec 2020)\n10 Udyavar Pithrodi, Udyavar (3 km from Udupi town. Take a boat to Pithrodi island). This is an island at the mouth of a river that is near Udyavar beach. Within 100 meters of the sea, you get an amazing view at the island. Beware of pollution from the nearby fishing mills though. Boatman may charge around ₹10 per person. \n\n\n== Do ==\nUdupi has some great beaches, but thankfully, they aren't big water sports destinations like Goa, though there are some options. If you are the adventurous sort, you can head south to Mulki, Mangalore where the Ashram surf retreat combines surfing with spiritualism.\nIf the mountains are what you are after, turn east to Karkala, where Agumbe and other places provide some excellent trekking opportunities.\nFor a cultural experience, try to catch a performance of Yakshagana, a Bhoota Kola or a Naga Mandala. The latter two are essentially religious rituals, but a sight to watch. The Yakshagana is a genre of dance-drama that is native to the Karavali region. The performances are advertised only in local Kannada newspapers, so it might be somewhat difficult to catch them. Also, to fully appreciate Yakshagana, you need to understand Kannada or Tulu.\n\n Paryaya. Madhvacharya decreed that after he passed on, the heads of the eight mutts and their successors would head the main Udupi mutt in rotation for two months each. One of his notable later day successors, Vadiraja of Sode Matha, who lived during the 16th century, changed the tenure from two months to two years. This practice, called Paryaya continues to this day. The handover to the new head of Udupi mutt happens on 18 January on even numbered years, and is an occasion for much celebration and many religious ceremonies. (updated Dec 2020)\n1 Stay at a Houseboat, Paradise Isle Beach Resort Pvt. Ltd., Malpe Beach, ☏ +91 820-253 8777, +91 820-253 8666, resort@theparadiseisle.com. The trip takes you to Paradise Lagoon. Package includes all meals. It is not clear if packages of shorter duration are available - call to ask. The resort also offers normal rooms, and has some options for water sports as well. ₹14,000 for 2 nights, 3 days. \n2 Seethanadi Nature Camp, Hebri Karkala Taluk (36 km east of Udupi on NH169A, a few kilometres beyond Hebri village), ☏ +91 94495 99758. Whitewater rafting during monsoon season. Best time of visit is from July to late January. This rustic resort offers accommodations and activities. (updated Feb 2023)\n3 Kapu Beach (Kaup Beach), off NH66, driving south from Udupi. Lighthouse: Varying opening times, ( closes at 6:30PM). Nice, relatively unknown beach. There is a lighthouse from which one can get a nice view. It is 22 km from Manipal, MIT. ₹10 for the lighthouse. Beach is free. (updated Aug 2018)\n\n\n== Eat ==\n\n\n=== Udupi cuisine ===\n\nThe vegetarian cuisine of Udupi is famous all over India and among Indians abroad. For this reputation, it must thank the Sri Krishna temple and its traditions. The temple offers free food to everyone who wants to partake of it. The cooks have traditionally been the Brahmins belonging to the Shivalli sect, who, over the centuries, have perfected the art of cooking that adheres to \"Satvik\" principles. This requires not just vegetarianism but also the avoidance of onion and garlic, as these are said to excite the baser senses. In spite of these limitations, the food of Udupi tastes great, with subtle flavours.\nWhile the eat section of the Karavali article more t",
+  "url": "https://en.wikivoyage.org/wiki/Udupi"
+ },
+ "sights": [
+  {
+   "name": "KMC International Center",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 13.354757,
+   "lon": 74.787562
+  },
+  {
+   "name": "Manipal College of Dental Sciences, Manipal",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 13.354222222222221,
+   "lon": 74.78963888888889
+  },
+  {
+   "name": "Manipal",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 13.347,
+   "lon": 74.788
+  },
+  {
+   "name": "Manipal Institute of Technology",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.35129,
+   "lon": 74.79271
+  },
+  {
+   "name": "Formula Manipal",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 13.350263888888888,
+   "lon": 74.79330555555555
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}
