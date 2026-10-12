@@ -1,66 +1,7 @@
-Colaba, Mumbai -> Colaba: 16 wiki, voyage, 14 sights, 0 food, 12 photos
-Gateway of India, Mumbai -> A Ward: 15 wiki, voyage, 15 sights, 0 food, 14 photos, errors overpass food: overpass-api.de 504
-Fort, Mumbai -> Fort: 16 wiki, no voyage, 15 sights, 0 food, 16 photos
-Marine Drive, Mumbai -> Fort: 16 wiki, no voyage, 15 sights, 0 food, 14 photos
-Girgaon Chowpatty, Mumbai -> Girgaon: 16 wiki, no voyage, 15 sights, 0 food, 7 photos
-Malabar Hill, Mumbai -> Malabar Hill: 16 wiki, no voyage, 15 sights, 0 food, 11 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kala Ghoda, Mumbai -> Byculla East: 15 wiki, no voyage, 15 sights, 0 food, 6 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Crawford Market, Mumbai -> Masjid Bunder: 16 wiki, no voyage, 15 sights, 0 food, 13 photos, errors overpass food: overpass-api.de 504
-Byculla, Mumbai -> Byculla West: 15 wiki, no voyage, 15 sights, 0 food, 9 photos, errors overpass food: overpass-api.de 504
-Worli, Mumbai -> Worli: 15 wiki, no voyage, 14 sights, 0 food, 11 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Dadar, Mumbai -> Dadar West: 15 wiki, no voyage, 15 sights, 0 food, 7 photos, errors overpass sights: overpass-api.de 504
-Mahim, Mumbai -> Mahim: 15 wiki, no voyage, 9 sights, 0 food, 13 photos, errors overpass food: overpass-api.de 504
-Bandra West, Mumbai -> Khar: 16 wiki, voyage, 15 sights, 0 food, 8 photos
-Juhu, Mumbai -> Juhu: 15 wiki, voyage, 14 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Andheri, Mumbai -> Andheri West: 15 wiki, voyage, 8 sights, 0 food, 10 photos
-Borivali, Mumbai -> Borivali East: 15 wiki, no voyage, 15 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Elephanta Caves FAILED no locality
-Navi Mumbai -> Seawoods East: 15 wiki, voyage, 15 sights, 0 food, 9 photos, errors overpass food: overpass-api.de 504
-Thane -> Shendrun: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass food: overpass-api.de 504
-Alibag -> MHADA Colony: 6 wiki, voyage, 6 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504
-Murud-Janjira -> Rajapuri: 2 wiki, no voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Kashid -> Kashid: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Diveagar -> Diveagar: 3 wiki, no voyage, 5 sights, 0 food, 1 photos
-Harihareshwar -> Harihareshwar: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Dapoli -> Dapoli: 2 wiki, voyage, 3 sights, 0 food, 1 photos
-Ganpatipule -> Ganpatipule: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Ratnagiri -> Sangameshwar Taluka: 0 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Malvan -> Kolamb: 3 wiki, voyage, 3 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
-Tarkarli -> Tarkarli: 1 wiki, no voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Sindhudurg Fort -> Wayari: 2 wiki, voyage, 2 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Vengurla -> Vengurla: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Lonavala -> Lonavala: 3 wiki, voyage, 5 sights, 0 food, 2 photos
-Khandala -> खंडाला: 2 wiki, no voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Karjat -> Karjat: 3 wiki, voyage, 2 sights, 0 food, 1 photos
-Matheran -> Jumma Patti: 3 wiki, no voyage, 8 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
-Mahabaleshwar -> Mahabaleshwar: 3 wiki, voyage, 2 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
-Panchgani -> Panchgani: 2 wiki, voyage, 5 sights, 0 food, 2 photos
-Pratapgad -> Pratapgad: 1 wiki, no voyage, 0 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
-Raigad Fort -> Hirkaniwadi: 1 wiki, no voyage, 12 sights, 0 food, 1 photos
-Bhimashankar -> Bhimashankar: 1 wiki, voyage, 4 sights, 0 food, 2 photos
-Malshej Ghat -> Murbad Subdistrict: 0 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Igatpuri -> Igatpuri: 3 wiki, voyage, 8 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
-Bhandardara -> Bhandardara: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass food: The operation was aborted due to timeout
-Amboli -> Amboli: 1 wiki, voyage, 0 sights, 0 food, 0 photos
-Shaniwar Wada, Pune -> Kasba Peth: 16 wiki, voyage, 15 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504
-Koregaon Park, Pune -> Ghorpuri: 16 wiki, voyage, 15 sights, 0 food, 12 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Deccan Gymkhana, Pune -> Deccan Gymkhana: 15 wiki, voyage, 14 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Sinhagad -> Kalyan Gaon: 1 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Lavasa -> Lavasa: 2 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Satara -> Khatav: 1 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kaas Plateau FAILED not found by Nominatim
-Kolhapur -> Shivaji Park: 10 wiki, voyage, 9 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Pandharpur -> Khedbhalwani: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
-Shirdi -> Sainagar: 4 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Nashik -> Panchavati: 4 wiki, voyage, 4 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Trimbakeshwar -> Trimbak: 4 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Aurangabad -> Osmanpura: 9 wiki, no voyage, 9 sights, 0 food, 9 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Ellora Caves -> Ellora: 5 wiki, voyage, 5 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Ajanta Caves -> Soegaon: 2 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Daulatabad -> Daulatabad: 3 wiki, voyage, 5 sights, 0 food, 2 photos
-Lonar -> Saraswati: 3 wiki, voyage, 2 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
-Nanded -> Chikhla Tanda: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass food: overpass-api.de 504
-Nagpur -> Ramdaspeth: 15 wiki, voyage, 15 sights, 0 food, 14 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Tadoba -> Tadoba: 1 wiki, no voyage, 0 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Chikhaldara -> Pili: 1 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Sevagram -> Wardha: 3 wiki, voyage, 2 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: The operation was aborted due to timeout
+Elephanta Caves @ 18.9633,72.9315 FAILED no locality
+Thane -> Jambli Naka: 15 wiki, voyage, 15 sights, 0 food, 9 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Ratnagiri -> Hindu Colony: 5 wiki, voyage, 3 sights, 0 food, 3 photos
+Malshej Ghat -> Thitbi: 0 wiki, no voyage, 0 sights, 0 food, 0 photos
+Kaas Plateau -> Jaoli: 3 wiki, voyage, 2 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Pandharpur -> Pandharpur: 3 wiki, voyage, 2 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Nanded -> Nanded: 3 wiki, voyage, 2 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
