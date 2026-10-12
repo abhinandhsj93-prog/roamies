@@ -8,6 +8,11 @@ name: Deploy places API
 
 on:
   workflow_dispatch:
+    inputs:
+      seed:
+        description: 'Also write guides for the Kochi seed list'
+        type: boolean
+        default: false
   push:
     branches: [expo-scaffold, main]
     paths: ['worker/**', '.github/workflows/worker.yml']
@@ -56,3 +61,12 @@ jobs:
           summary=$(jq -rc '{status, error: (.error // null | if . then .[0:300] else null end), name: .place.name, area: .place.area, model: .place.model, spots: [.place.seeFirst.spots[]?.name], food: [.place.food[]?.name], slides: (.place.story | length?), briefing: .place.briefing}' body.json 2>/dev/null || head -c 300 body.json)
           echo "HTTP $code $summary"
           echo "::notice title=Smoke test::HTTP $code $(printf '%s' "$summary" | tr -d ':' | head -c 1500)"
+      - name: Seed Kochi places
+        if: env.CLOUDFLARE_API_TOKEN != '' && inputs.seed
+        run: |
+          while IFS='|' read -r name lat lng; do
+            [ -z "$name" ] && continue
+            code=$(curl -sS -m 150 -o seed.json -w '%{http_code}' "${{ steps.deploy.outputs.url }}/place?lat=$lat&lng=$lng" || echo timeout)
+            got=$(jq -rc '[.status, .place.name, (.place.seeFirst.spots|length), (.place.food|length), (.error // "" | .[0:120])] | join(" / ")' seed.json 2>/dev/null)
+            echo "::notice title=Seed $name::HTTP $code $(printf '%s' "$got" | tr -d ':')"
+          done < ../.github/seed-places.txt
