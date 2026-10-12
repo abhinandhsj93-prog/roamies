@@ -59,4 +59,6 @@ export type Place = {
   sources: string;
   // false until a person has fact-checked the copy (README: content accuracy rule).
   factChecked: boolean;
+  // true when the Roamies API wrote it live from open data (shown as AI-written).
+  aiGenerated?: boolean;
 };

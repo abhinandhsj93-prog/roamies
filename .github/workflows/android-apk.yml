@@ -32,10 +32,13 @@ jobs:
           java-version: 17
       - uses: gradle/actions/setup-gradle@v4
       - run: npm ci
+      - name: App config
+        # The live places API URL is a repository variable (Settings → Secrets and variables → Actions → Variables).
+        run: echo "EXPO_PUBLIC_ROAMIES_API_URL=${{ vars.ROAMIES_API_URL }}" >> .env
       - run: npx expo prebuild --platform android --no-install
       - name: Build release APK
         working-directory: android
-        run: ./gradlew assembleRelease --no-daemon
+        run: ./gradlew assembleRelease --no-daemon -PreactNativeArchitectures=arm64-v8a
       - name: Publish APK
         env:
           GH_TOKEN: ${{ github.token }}

@@ -1,9 +1,15 @@
 import { mattancherry } from './mattancherry';
 import type { Place } from './types';
 
-// Seeded neighbourhoods. Add the other Kochi areas here during the content pass;
-// later this list comes from Firestore.
+// Bundled neighbourhoods, plus places fetched live from the Roamies API this session
+// (registerPlace), so the Story and I'm hungry screens can find them by id.
 export const places: Place[] = [mattancherry];
+
+export function registerPlace(place: Place) {
+  const i = places.findIndex((p) => p.id === place.id);
+  if (i >= 0) places[i] = place;
+  else places.push(place);
+}
 
 export function getPlace(id: string) {
   return places.find((p) => p.id === id);
@@ -11,6 +17,11 @@ export function getPlace(id: string) {
 
 // Nearest seeded neighbourhood to a coordinate (equirectangular distance is plenty at this scale).
 export function nearestPlace(latitude: number, longitude: number) {
+  return nearestWithDistance(latitude, longitude).place;
+}
+
+// Nearest bundled place and its rough distance in km.
+export function nearestWithDistance(latitude: number, longitude: number) {
   const cos = Math.cos((latitude * Math.PI) / 180);
   let best = places[0];
   let bestDist = Infinity;
@@ -23,5 +34,5 @@ export function nearestPlace(latitude: number, longitude: number) {
       bestDist = d;
     }
   }
-  return best;
+  return { place: best, km: Math.sqrt(bestDist) * 111.32 };
 }

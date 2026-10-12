@@ -1,0 +1,9 @@
+name = "roamies-api"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+
+[vars]
+# "anthropic" or "gemini". The key goes in the AI_API_KEY secret.
+AI_PROVIDER = "gemini"
+AI_MODEL = "gemini-2.5-flash"
+FIREBASE_PROJECT_ID = "roamies-99c10"

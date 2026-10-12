@@ -21,7 +21,10 @@ let configured = false;
 function configureGoogle() {
   if (configured) return;
   nativeAuth().google.GoogleSignin.configure({
-    webClientId: process.env.EXPO_PUBLIC_GOOGLE_WEB_CLIENT_ID,
+    // Public OAuth client id (Firebase → Authentication → Google → Web SDK configuration).
+    webClientId:
+      process.env.EXPO_PUBLIC_GOOGLE_WEB_CLIENT_ID ??
+      '86643263890-3gisduhsnnv3gr10874ab84softo1hoj.apps.googleusercontent.com',
   });
   configured = true;
 }

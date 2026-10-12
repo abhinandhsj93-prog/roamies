@@ -1,6 +1,6 @@
 import { router } from 'expo-router';
 import { useState } from 'react';
-import { Alert, Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
+import { ActivityIndicator, Alert, Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { Icon } from '@/components/Icon';
@@ -28,7 +28,9 @@ const moods: { id: Mood; label: string }[] = [
 export default function Here() {
   const insets = useSafeAreaInsets();
   const { width } = useWindowDimensions();
-  const place = useCurrentPlace();
+  const { place, loading, loadingName } = useCurrentPlace();
+  // loadingName is null or a name only while a new guide is being written by the API.
+  const writingGuide = loading && loadingName !== undefined;
   const temperature = useTemperature(place.coords.latitude, place.coords.longitude);
   const [mood, setMood] = useState<Mood | null>(null);
 
@@ -91,6 +93,14 @@ export default function Here() {
       <View style={styles.main}>
         {/* Meera's briefing */}
         <View style={{ gap: 16 }}>
+          {writingGuide && (
+            <View style={[styles.card, styles.writing]}>
+              <ActivityIndicator color={colors.ink} />
+              <Text style={styles.writingText}>
+                Meera is getting to know {loadingName ?? 'where you are'}. The first visit takes about a minute.
+              </Text>
+            </View>
+          )}
           <View style={[styles.card, styles.briefing]}>
             <View style={styles.personaRow}>
               <PersonaAvatar persona="meera" size={40} />
@@ -255,6 +265,8 @@ const glass = 'rgba(255,255,255,0.9)';
 const softShadow = { boxShadow: '0 4px 16px rgba(18,48,44,0.12)' } as const;
 
 const styles = StyleSheet.create({
+  writing: { flexDirection: 'row', alignItems: 'center', gap: 12, padding: 16, backgroundColor: colors.sand },
+  writingText: { flex: 1, fontFamily: fonts.medium, fontSize: fontSizes.caption, lineHeight: 20, color: colors.ink },
   screen: { flex: 1, backgroundColor: colors.cream },
 
   heroTopRow: { position: 'absolute', left: sideMargin, right: sideMargin, flexDirection: 'row', justifyContent: 'flex-end' },
