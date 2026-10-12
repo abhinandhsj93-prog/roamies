@@ -1,112 +1,110 @@
-East Fort, Thiruvananthapuram -> Chala: 16 wiki, voyage, 15 sights, 0 food, 10 photos, errors overpass sights: overpass-api.de 504
-Kovalam, Thiruvananthapuram -> Kovalam: 3 wiki, voyage, 6 sights, 0 food, 2 photos
-Varkala, Thiruvananthapuram -> Varkala: 6 wiki, voyage, 5 sights, 0 food, 4 photos
-Poovar, Thiruvananthapuram -> Poovar: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Ponmudi, Thiruvananthapuram -> Ponmudi: 1 wiki, voyage, 3 sights, 0 food, 1 photos
-Neyyar Dam, Thiruvananthapuram -> Kattakkada: 3 wiki, voyage, 4 sights, 0 food, 3 photos
-Kazhakoottam, Thiruvananthapuram -> Kazhakkoottam: 5 wiki, voyage, 11 sights, 0 food, 4 photos, errors overpass food: overpass-api.de 504
-Vizhinjam, Thiruvananthapuram -> Vizhinjam: 2 wiki, voyage, 7 sights, 0 food, 1 photos
-Kollam Beach, Kollam -> Kollam Beach: 16 wiki, voyage, 15 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Munroe Island, Kollam -> Munroe Thuruth: 4 wiki, voyage, 5 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
-Jatayu Earth's Center, Kollam -> Chadayamangalam: 2 wiki, voyage, 4 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Thenmala, Kollam -> Thenmala: 3 wiki, voyage, 2 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Sasthamcotta, Kollam -> Cinemaparambu: 5 wiki, no voyage, 5 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Punalur, Kollam -> TB Junction: 5 wiki, voyage, 11 sights, 0 food, 4 photos, errors overpass food: overpass-api.de 504
-Karunagappally, Kollam -> Vellanathuruthu: 3 wiki, no voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Pathanamthitta -> Vayyattupuzha: 1 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
-Aranmula, Pathanamthitta -> Aranmula: 12 wiki, voyage, 14 sights, 0 food, 8 photos
-Konni, Pathanamthitta -> Konni: 2 wiki, voyage, 1 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Gavi, Pathanamthitta -> Gavi: 3 wiki, voyage, 2 sights, 0 food, 2 photos
-Thiruvalla, Pathanamthitta -> Manjadi: 11 wiki, no voyage, 11 sights, 0 food, 9 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Alappuzha Beach, Alappuzha -> Vattappally: 9 wiki, voyage, 9 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Mararikulam, Alappuzha -> Mararikkulam: 5 wiki, voyage, 5 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
-Kainakary, Alappuzha -> Kainakary: 3 wiki, voyage, 3 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
-Ambalappuzha, Alappuzha -> Ambalappuzha: 4 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
-Kayamkulam, Alappuzha -> Puthankadam General Colony: 4 wiki, voyage, 15 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Cherthala, Alappuzha -> Kalavamkodam: 4 wiki, voyage, 4 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Haripad, Alappuzha -> Pilappuzha: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
-Kottayam -> Manjamattam: 2 wiki, voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kumarakom, Kottayam -> Kumarakom: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Vagamon -> Vagamon: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Ettumanoor, Kottayam -> Athirampuzha: 2 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Pala, Kottayam -> Kottaramattom: 4 wiki, voyage, 4 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
-Changanassery, Kottayam -> Santhipuram: 4 wiki, voyage, 4 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Erumely, Kottayam -> Karinkallummoozhi: 1 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Munnar, Idukki -> Munnar Bazaar: 3 wiki, voyage, 9 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
-Kumily, Idukki -> Valiyakandam: 0 wiki, voyage, 10 sights, 0 food, 0 photos
-Cheruthoni, Idukki -> Cheruthoni: 4 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Thodupuzha, Idukki -> Thodupuzha: 10 wiki, voyage, 9 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Peerumade, Idukki -> Vallakkadavu: 1 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Marayoor, Idukki -> Marayoor: 1 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Kattappana, Idukki -> Idukki Kavala: 2 wiki, no voyage, 15 sights, 0 food, 1 photos
-Ramakkalmedu, Idukki -> Udumbanchola: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 429
-Kadamakkudy, Ernakulam -> Kadamakkudy: 3 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kakkanad, Ernakulam -> Kakkanad: 5 wiki, voyage, 8 sights, 0 food, 1 photos
-Aluva, Ernakulam -> Thottakkattukara: 12 wiki, voyage, 15 sights, 0 food, 9 photos, errors overpass food: overpass-api.de 504
-Angamaly, Ernakulam -> Angamaly: 7 wiki, voyage, 6 sights, 0 food, 7 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Perumbavoor, Ernakulam -> Perumbavoor: 2 wiki, voyage, 15 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Muvattupuzha, Ernakulam -> Velloorkunnam: 7 wiki, voyage, 15 sights, 0 food, 3 photos
-Kalady, Ernakulam -> Kalady: 3 wiki, voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kothamangalam, Ernakulam -> Kuttampuzha: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Bhoothathankettu, Ernakulam -> Kothamangalam: 2 wiki, voyage, 1 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Cherai Beach, Ernakulam -> Munambam: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kumbalangi, Ernakulam -> Perumpadappu: 3 wiki, voyage, 2 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Vyttila, Ernakulam -> Vyttila: 7 wiki, voyage, 6 sights, 0 food, 7 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kaloor, Ernakulam -> Kaloor: 15 wiki, voyage, 14 sights, 0 food, 11 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Swaraj Round, Thrissur -> Kottappuram: 16 wiki, voyage, 15 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504
-Guruvayur, Thrissur -> Mammiyoor: 9 wiki, voyage, 9 sights, 0 food, 6 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Athirappilly, Thrissur -> Athirappilly: 2 wiki, no voyage, 3 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Chalakudy, Thrissur -> Thachudaparambu: 8 wiki, voyage, 8 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kodungallur, Thrissur -> Thiruvanchikulam: 6 wiki, voyage, 5 sights, 0 food, 7 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Irinjalakuda, Thrissur -> Vallakkunnu: 4 wiki, no voyage, 3 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Cheruthuruthy, Thrissur -> Cheruthuruthy: 2 wiki, no voyage, 5 sights, 0 food, 3 photos, errors overpass food: The operation was aborted due to timeout
-Vadanappally, Thrissur -> Edassery: 1 wiki, voyage, 15 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
-Palakkad Fort, Palakkad -> Kunnathurmedu: 12 wiki, voyage, 15 sights, 0 food, 6 photos, errors overpass food: overpass-api.de 504
-Malampuzha, Palakkad -> Akathethara: 9 wiki, voyage, 8 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Nelliyampathy, Palakkad -> Kaikatty: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Pathanamthitta -> Chuttipara: 10 wiki, voyage, 15 sights, 0 food, 8 photos
+Haripad, Alappuzha -> Pilappuzha: 2 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Erumely, Kottayam -> Karinkallummoozhi: 2 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Peerumade, Idukki -> Kuttikkanam: 4 wiki, voyage, 2 sights, 0 food, 3 photos
+Cheruthuruthy, Thrissur -> Cheruthuruthy: 2 wiki, no voyage, 5 sights, 0 food, 3 photos
 Mukkali, Palakkad -> Mukkali: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Ottapalam, Palakkad -> Ottappalam: 3 wiki, voyage, 9 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
-Kollengode, Palakkad -> Kollengode: 3 wiki, voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Parambikulam, Palakkad -> Chittur: 2 wiki, voyage, 2 sights, 0 food, 3 photos
-Malappuram -> Muttippalam: 5 wiki, no voyage, 5 sights, 0 food, 4 photos, errors overpass food: overpass-api.de 504
-Kottakkal, Malappuram -> Kottakkal: 5 wiki, voyage, 12 sights, 0 food, 2 photos
-Nilambur, Malappuram -> Nilambur: 6 wiki, voyage, 6 sights, 0 food, 6 photos, errors overpass food: overpass-api.de 504
-Ponnani, Malappuram -> Ponnani: 7 wiki, voyage, 10 sights, 0 food, 6 photos, errors overpass food: overpass-api.de 504
-Tirur, Malappuram -> Tirur: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Perinthalmanna, Malappuram -> Manathumangalam: 2 wiki, voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Kadalundi, Malappuram -> Anayarangadi: 4 wiki, voyage, 4 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kozhikode Beach, Kozhikode -> Vellayil: 16 wiki, voyage, 14 sights, 0 food, 14 photos, errors overpass food: overpass-api.de 504
-Mananchira, Kozhikode -> Mananchira: 15 wiki, voyage, 14 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Beypore, Kozhikode -> Beypore: 4 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
-Kappad, Kozhikode -> Kannankadavu: 1 wiki, no voyage, 1 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
-Vadakara, Kozhikode -> Vadakara: 2 wiki, voyage, 1 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
-Thamarassery, Kozhikode -> Thottumuzhi: 0 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
-Kakkayam, Kozhikode -> Kakkayam: 1 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
-Kalpetta, Wayanad -> Vythiri: 3 wiki, voyage, 4 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
-Sulthan Bathery, Wayanad -> Sulthanbathery: 1 wiki, voyage, 0 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
-Mananthavady, Wayanad -> Thalappuzha: 0 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Vythiri, Wayanad -> Old Vythiri: 2 wiki, voyage, 2 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Ambalavayal, Wayanad -> Ambalavayal: 3 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass food: overpass-api.de 504
-Padinjarathara, Wayanad -> Padinjarethara: 1 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Meppadi, Wayanad -> Kunnamangalamvayal: 0 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
-Kannur -> Talap: 15 wiki, voyage, 14 sights, 0 food, 7 photos, errors overpass sights: overpass-api.de 504
-Thalassery, Kannur -> Kuyyali: 11 wiki, voyage, 11 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Payyambalam Beach, Kannur -> Pallikunnu: 6 wiki, voyage, 5 sights, 0 food, 6 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Muzhappilangad, Kannur -> Muzhappilangad: 4 wiki, voyage, 3 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Parassinikadavu, Kannur -> Karinkalkuzhi: 7 wiki, no voyage, 7 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504
-Payyanur, Kannur -> Kotti: 5 wiki, voyage, 15 sights, 0 food, 5 photos
-Iritty, Kannur -> Aralam: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
-Kasaragod -> Odayamchal: 1 wiki, voyage, 3 sights, 0 food, 1 photos
-Bekal Fort, Kasaragod -> Bekal: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Nileshwar, Kasaragod -> Chirupuram: 6 wiki, voyage, 6 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Kanhangad, Kasaragod -> Kottachery: 5 wiki, voyage, 5 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Ranipuram, Kasaragod -> Ranipuram: 1 wiki, no voyage, 0 sights, 0 food, 1 photos, errors overpass sights: The operation was aborted due to timeout/overpass food: The operation was aborted due to timeout
-Valiyaparamba, Kasaragod -> Valiyaparamba: 3 wiki, voyage, 2 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
-Athirappilly Falls, Thrissur FAILED not found by Nominatim
-Edakkal Caves, Wayanad -> Sultan Bathery: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Guruvayur Temple, Thrissur -> Mammiyoor: 11 wiki, voyage, 11 sights, 0 food, 9 photos, errors overpass sights: overpass-api.de 504
-Lighthouse Beach, Kovalam -> Kovalam: 3 wiki, voyage, 2 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Malampuzha Dam, Palakkad -> Kanjikode: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Marari Beach, Alappuzha -> Marari Beach: 5 wiki, voyage, 4 sights, 0 food, 2 photos
-Thalassery Fort, Kannur -> Kuyyali: 10 wiki, voyage, 10 sights, 0 food, 7 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Varkala Beach, Thiruvananthapuram -> Perumkulam: 4 wiki, voyage, 3 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
+Kappad, Kozhikode -> Chemanchery: 2 wiki, no voyage, 1 sights, 0 food, 1 photos
+Kakkayam, Kozhikode -> Kakkayam: 1 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Meppadi, Wayanad -> Kunnamangalamvayal: 1 wiki, voyage, 4 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Kasaragod -> Thayalangadi: 9 wiki, voyage, 9 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504
+Ranipuram, Kasaragod -> Ranipuram: 1 wiki, no voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
+Agumbe FAILED not found by Nominatim
+Aihole FAILED not found by Nominatim
+Ajanta Caves FAILED not found by Nominatim
+Alibag -> Nellikatta: 2 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Andheri, Mumbai FAILED resolved to K/E Ward, Maharashtra
+Anegundi FAILED not found by Nominatim
+Aurangabad FAILED not found by Nominatim
+Badami FAILED not found by Nominatim
+Bandra West, Mumbai FAILED not found by Nominatim
+Bangalore Palace, Bengaluru FAILED not found by Nominatim
+Basavanagudi, Bengaluru FAILED not found by Nominatim
+Belgaum FAILED not found by Nominatim
+Belur -> Porkalam: 1 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Bhagamandala FAILED not found by Nominatim
+Bhandardara FAILED not found by Nominatim
+Bhimashankar FAILED not found by Nominatim
+Bidar FAILED not found by Nominatim
+Bijapur FAILED not found by Nominatim
+Borivali, Mumbai FAILED not found by Nominatim
+Brindavan Gardens FAILED not found by Nominatim
+Byculla, Mumbai FAILED not found by Nominatim
+Bylakuppe FAILED not found by Nominatim
+Chamundi Hills, Mysuru FAILED not found by Nominatim
+Chikmagalur FAILED not found by Nominatim
+Chitradurga FAILED not found by Nominatim
+Crawford Market, Mumbai FAILED not found by Nominatim
+Cubbon Park, Bengaluru FAILED not found by Nominatim
+Dandeli FAILED not found by Nominatim
+Dapoli FAILED not found by Nominatim
+Daulatabad FAILED resolved to Old Faridabad, Haryana
+Deccan Gymkhana, Pune FAILED not found by Nominatim
+Dharmasthala FAILED not found by Nominatim
+Dharwad FAILED not found by Nominatim
+Diveagar FAILED not found by Nominatim
+Ellora Caves FAILED not found by Nominatim
+Fort, Mumbai FAILED resolved to Fort, Maharashtra
+Ganpatipule FAILED not found by Nominatim
+Gokak Falls FAILED not found by Nominatim
+Gokarna FAILED not found by Nominatim
+Gopalaswamy Betta FAILED not found by Nominatim
+Gulbarga FAILED not found by Nominatim
+Halebidu FAILED not found by Nominatim
+Hampi FAILED not found by Nominatim
+Hassan -> Thalavil: 0 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Horanadu FAILED not found by Nominatim
+Hospet FAILED not found by Nominatim
+Hubli FAILED not found by Nominatim
+Indiranagar, Bengaluru FAILED resolved to Indiranagar, Karnataka
+Jayanagar, Bengaluru FAILED not found by Nominatim
+Karwar -> Navakana Colony: 2 wiki, no voyage, 6 sights, 0 food, 2 photos
+Khandala FAILED not found by Nominatim
+Kolhapur FAILED not found by Nominatim
+Kollur -> Pattoor: 15 wiki, voyage, 15 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Koramangala, Bengaluru FAILED not found by Nominatim
+Koregaon Park, Pune FAILED not found by Nominatim
+Kudremukh FAILED not found by Nominatim
+Kukke Subramanya FAILED not found by Nominatim
+Kundapura FAILED not found by Nominatim
+Kushalnagar FAILED not found by Nominatim
+Lalbagh, Bengaluru FAILED not found by Nominatim
+Lavasa FAILED not found by Nominatim
+Lonar FAILED not found by Nominatim
+Lonavala FAILED not found by Nominatim
+Madikeri FAILED not found by Nominatim
+Mahabaleshwar FAILED not found by Nominatim
+Mahim, Mumbai FAILED not found by Nominatim
+Malabar Hill, Mumbai FAILED not found by Nominatim
+Malleshwaram, Bengaluru FAILED not found by Nominatim
+Malpe FAILED not found by Nominatim
+Malvan FAILED not found by Nominatim
+Mangaluru -> Kunjathur: 4 wiki, no voyage, 2 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Manipal FAILED not found by Nominatim
+Matheran FAILED not found by Nominatim
+MG Road, Bengaluru FAILED resolved to Ashokanagar, Karnataka
+Mullayanagiri FAILED not found by Nominatim
+Murud-Janjira FAILED not found by Nominatim
+Murudeshwar FAILED not found by Nominatim
+Mysore Palace, Mysuru FAILED not found by Nominatim
+Nagarhole FAILED resolved to Ponnampete taluk, Karnataka
+Nagpur FAILED not found by Nominatim
+Navi Mumbai FAILED resolved to Vashi, Maharashtra
+Panchgani FAILED not found by Nominatim
+Pattadakal FAILED not found by Nominatim
+Raichur FAILED not found by Nominatim
+Raigad Fort FAILED not found by Nominatim
+Sakleshpur FAILED not found by Nominatim
+Sevagram -> Vattappara: 4 wiki, no voyage, 14 sights, 0 food, 2 photos
+Shaniwar Wada, Pune FAILED not found by Nominatim
+Shirdi -> Viyyur: 7 wiki, voyage, 15 sights, 0 food, 6 photos, errors overpass food: overpass-api.de 504
+Shivamogga FAILED not found by Nominatim
+Shravanabelagola FAILED not found by Nominatim
+Sirsi -> Cherkala: 2 wiki, voyage, 8 sights, 0 food, 1 photos
+Somanathapura FAILED not found by Nominatim
+Sringeri -> Fort: 17 wiki, voyage, 15 sights, 0 food, 12 photos
+Srirangapatna FAILED not found by Nominatim
+Talakadu FAILED not found by Nominatim
+Udupi -> Kothamangalam: 7 wiki, voyage, 5 sights, 0 food, 6 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Whitefield, Bengaluru FAILED resolved to Whitefield, Karnataka
+Yana FAILED resolved to Central Vista, Delhi

@@ -1,0 +1,86 @@
+{
+ "query": "Karwar",
+ "found": "karwar, Valamale Road, Navakana Colony, Badiadka, Kasaragod, Kerala, 671551, India",
+ "lat": 12.5882474,
+ "lon": 75.0736821,
+ "fetchedAt": "2026-10-12T19:16:52.384Z",
+ "locality": {
+  "id": "navakana-colony-kasaragod-kerala",
+  "name": "Navakana Colony",
+  "area": "Badiadka, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Badiyadka": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Badiyadka_Town_Night_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Badiyadka",
+   "credit": "Photo: Mahshooq05, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badiyadka_Town_Night_View.jpg"
+  },
+  "Karwar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Karwar_Evening.jpg/1280px-Karwar_Evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Karwar",
+   "credit": "Photo: Unknown, CC BY-SA 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karwar_Evening.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Karwar",
+   "text": "Karwar is a coastal city, taluka and the administrative headquarters of Uttara Kannada district, formerly part of the Bombay Presidency, located at the mouth of the Kali river along the Konkan Coast in the present-day state of Karnataka, India.\n\n\n== Etymology ==\nKarwar, also known locally as \"Kādwād\", derived its name from the nearby village of \"Kade-Wādā\". In the local Konkani, Kade means \"Last\" and Wādā means \"Ward\". Hence, Kade-Wādā (\"the last neighbourhood\") referred to the southernmost Konkani-speaking village. During the Crown rule in India, the name \"Karwar\" was spelt as  \"Carwar\". The ancient name was \"Baithkhol\"—from an Arabic term Bait-e-kol— meaning the \"bay of safety\". This is in the Indian history for maritime trade wherein black peppercorns, cardamom, and muslin cloth were exported from this Kādwād port and after the war with Veer Henja Naik (1803), the port activities were shifted to Baithkhol. Thereafter, the port of Kādwād was isolated and Kurmagad Fort was activated by the Portuguese.\n\n\n== History ==\n\nKarwar township was built by the British in the year 1857 after the Indian Rebellion. Karwar is popularly known as the \"Kashmir of Karnataka\". Prior to 1857, Karwar did not...",
+   "url": "https://en.wikipedia.org/wiki/Karwar"
+  },
+  {
+   "title": "Badiyadka",
+   "text": "Badiyadka, officially known as \"Badiadka\" (also known as \"Perdala\"), is a town and gram panchayat in the Kasaragod district, state of Kerala, India.\nBadiyadka is a panchayath in Kasaragod Taluk in the Kasaragod district of Kerala, India. It is located 13 km to the east of district headquarters Kasaragod, 17 km from Manjeshwar and 584 km from the state capital Thiruvananthapuram.",
+   "url": "https://en.wikipedia.org/wiki/Badiyadka"
+  }
+ ],
+ "sights": [
+  {
+   "name": "badiadka mosque",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 12.5880159,
+   "lon": 75.0738912
+  },
+  {
+   "name": "ebenezer",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 12.5846155,
+   "lon": 75.0746172
+  },
+  {
+   "name": "St. Mary's Church, Badiadka",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 12.5936084,
+   "lon": 75.0706517
+  },
+  {
+   "name": "Kedanji Mahavishnu Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 12.5958972,
+   "lon": 75.0748402
+  },
+  {
+   "name": "Udaneshwara Temple - Perdala",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 12.581559,
+   "lon": 75.0673224
+  },
+  {
+   "name": "Shri Kotekaru Barla Taravadu",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 12.5949684,
+   "lon": 75.0816482
+  }
+ ],
+ "food": [],
+ "errors": []
+}

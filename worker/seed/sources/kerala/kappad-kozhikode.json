@@ -1,0 +1,45 @@
+{
+ "query": "Kappad, Kozhikode",
+ "found": "Kappad, Kozhikode (pinned)",
+ "lat": 11.3826,
+ "lon": 75.716,
+ "fetchedAt": "2026-10-12T19:13:04.585Z",
+ "locality": {
+  "id": "chemanchery-kozhikode-kerala",
+  "name": "Chemanchery",
+  "area": "Koyilandi, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kappad": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kappad_Beach.jpg/1280px-Kappad_Beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kappad",
+   "credit": "Photo: SidhardhRamesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kappad_Beach.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kappad",
+   "text": "Kappad is a beach and village near Koyilandy, in the Kozhikode district, Kerala, India.\n\nA stone monument installed by government commemorates the \"landing\" by Vasco da Gama with the inscription, 'Vasco da Gama landed here, Kappakadavu, in the year 1498'.\nIn 2007 a Rs. 1.5 crore program to beautify the beach was launched by [Kerala] Tourism Minister Kodiyeri Balakrishnan. It is now completed and Kappad beach has a corniche and park. The park includes a restroom, restaurant and seating.\nThe nearest major railway station is Koyilandy, about 10 km away from Kappad. The nearest airport is Calicut International Airport (CCJ), which is about 25 km from the town of Kozhikode. Private transport buses are available from the main bus stand, or visitors can reach the beach by stopping at Thiruvangoor on National Highway 66 between Kozhikode and Vadakara. It is a Blue Flag beach.",
+   "url": "https://en.wikipedia.org/wiki/Kappad"
+  },
+  {
+   "title": "Vettilappara",
+   "text": "Vettilappara  is a village in Malappuram district in the state of Kerala, India.",
+   "url": "https://en.wikipedia.org/wiki/Vettilappara"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Vasco da Gama memorial",
+   "kind": "memorial",
+   "walkMinutes": 12,
+   "lat": 11.3800233,
+   "lon": 75.7222641
+  }
+ ],
+ "food": [],
+ "errors": []
+}

@@ -1,0 +1,77 @@
+{
+ "query": "Mangaluru",
+ "found": "Mangaluru-Kasargod Highway, Kunjathur, Manjeswaram, Kasaragod, Kerala, 574156, India",
+ "lat": 12.7554289,
+ "lon": 74.8734554,
+ "fetchedAt": "2026-10-12T19:18:01.483Z",
+ "locality": {
+  "id": "kunjathur-kasaragod-kerala",
+  "name": "Kunjathur",
+  "area": "Manjeswaram, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kunjathur": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Kunjathur_Mahalingeshwara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kunjathur",
+   "credit": "Photo: Hemanth.mlr, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunjathur_Mahalingeshwara.jpg"
+  },
+  "Thalappady, Kasaragod": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Kunjathur_Mahalingeshwara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Thalappady, Kasaragod",
+   "credit": "Photo: Hemanth.mlr, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunjathur_Mahalingeshwara.jpg"
+  },
+  "Mangaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Growing_skylines_of_the_Mangalore_CBD_region.jpg/1280px-Growing_skylines_of_the_Mangalore_CBD_region.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mangaluru",
+   "credit": "Photo: Znyk, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Growing_skylines_of_the_Mangalore_CBD_region.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mangaluru",
+   "text": "Mangaluru (Kannada: [mɐŋɡɐɭuːru]), formerly called Mangalore ( MANG-gə-lor, -⁠LOR), is a major industrial port city in the Indian state of Karnataka and on the west coast of India. It is located between the Arabian Sea and the Western Ghats about 352 km (219 mi) west of Bengaluru, the state capital, 14 km (8+1⁄2 mi) north of the Karnataka–Kerala border and 297 km (185 mi) south of Goa. Mangaluru is the state's only city to have all four modes of transport—air, road, rail and sea. The population of the urban agglomeration was 619,664 according to the 2011 national census of India. It is known for being one of the locations of the Indian strategic petroleum reserves.\nThe city developed as a port in the Laccadive Sea during ancient times, and after Independence a new port was constructed in 1968 and has since become a major port of India that handles 75 percent of India's coffee and cashew exports. It is also the country's seventh largest container port. Mangaluru has been ruled by several major powers, including the Mauryan empire, Kadambas, Alupas, Vijayanagara Empire, and Keladi Nayaks. The city was a source of contention between the British and the Kingdom of Mysore rulers Hyder Ali...",
+   "url": "https://en.wikipedia.org/wiki/Mangaluru"
+  },
+  {
+   "title": "Kunjathur",
+   "text": "Kunjathur is a census town in Kasaragod district in the state of Kerala, India. It is located 22 km (14 mi) south of Mangalore.\n\n\n== Demographics ==\nAs of 2011 Census, Kunjathur had a population of 13,633, where 6,729 are males and 6,904 are females. Kunjathur census town has an area of 12.65 km2 (4.88 sq mi) with 2,634 families residing in it. In Kunjathur, 12.3% of the population was under the age of 6. Kunjathur had an average literacy of 90.2%, lower than state average of 94%: male literacy was 94.9%, and female literacy was 85.7%.\n\n\n== Religions ==\nAs of 2011 census, Kunjathur town had 13,633 population, which comprises 6,824 Muslims (50.1%), 5,924 Hindus (43.5%), 852 Christians (6.2%) and Others (0.2%).\n\n\n== Transportation ==\nLocal roads have access to National Highway No.66 which connects to Mangalore in the north and Calicut in the south.  The nearest railway station is Manjeshwar on Shoranur-Mangalore section under southern railway zone. The nearest airport is at Mangalore.\n\n\n== Languages ==\nThis locality is an essentially multi-lingual region. The people speak Malayalam, Tulu, Beary bashe, Konkani and Dakhini Urdu . Migrant workers also speak Hindi and Tamil languages.\n\n\n== Administration... ==",
+   "url": "https://en.wikipedia.org/wiki/Kunjathur"
+  },
+  {
+   "title": "Talapady, D.K.",
+   "text": "Talapady is a village  near Mangaluru city in Ullal taluk of Dakshina Kannada district of Karnataka state in India. Talapady borders the states of Karnataka and Kerala. National Highway 66 (earlier numbered as NH-17) passes through Talapady which is 14 km (9 mi) south of Mangalore city. The Karnataka-Kerala checkpost border is situated at Talapady. Another village Thalapady, Kasargod which is situated near Talapady in Manjeswar crossing Kerala border.",
+   "url": "https://en.wikipedia.org/wiki/Talapady,_D.K."
+  },
+  {
+   "title": "Thalappady, Kasaragod",
+   "text": "Thalappady is a village in Kasaragod district of the Indian state of Kerala. The Kunjathur Mahalingeshwara temple is located in Thalappady.",
+   "url": "https://en.wikipedia.org/wiki/Thalappady,_Kasaragod"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Talapady, D.K.",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 12.764,
+   "lon": 74.88
+  },
+  {
+   "name": "Thalappady, Kasaragod",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 12.747569,
+   "lon": 74.888722
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "query": "Haripad, Alappuzha",
+ "found": "Haripad, Alappuzha (pinned)",
+ "lat": 9.2853,
+ "lon": 76.4561,
+ "fetchedAt": "2026-10-12T19:11:50.273Z",
+ "locality": {
+  "id": "pilappuzha-alappuzha-kerala",
+  "name": "Pilappuzha",
+  "area": "Haripad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Mannarasala Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mannarasala_temple.jpg/1280px-Mannarasala_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mannarasala Temple",
+   "credit": "Photo: Vibitha vijay, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mannarasala_temple.jpg"
+  },
+  "Haripad": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mannarasala_temple.jpg/1280px-Mannarasala_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Haripad",
+   "credit": "Photo: Vibitha vijay, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mannarasala_temple.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Haripad",
+   "text": "Haripad is a municipality in Onattukara region of Alappuzha District, Kerala, India located between Alappuzha and Kollam on the National Highway 66. Haripad is bordered on the east by Pallippad, Veeyapuram and Karuvatta to the north, Kumarapuram and Karthikappally to the West, and on the south by Cheppad. It is known as the land of art, artists, land of snake boats, land of music, dance and drama. Due to town with highest number of temples in kerala, it is also popularly known as Kshetranagari (Town of Temples) in which Haripad Temple and Mannarasala Temple being the chief one among them. One of the largest thermal power plants in Kerala, the Rajiv Gandhi Combined Cycle Power Plant run by the NTPC, is situated at Haripad.\nHaripad is a primary economic and cultural hub of the Onattukara region and Alappuzha district. It is famous for its religious and cultural heritage, and is a centre for Hindu culture.\n\n\n== History ==\nEarlier it was known as Arippatt, the name Haripad came into prominence only in the 20th century. Some scholars say that it means place near water (ari- arike pat place). During the period of European colonization, In the opinion of the Dutch Governor Gollanez the sea coast...",
+   "url": "https://en.wikipedia.org/wiki/Haripad"
+  },
+  {
+   "title": "Mannarasala Temple",
+   "text": "Mannarasala Sree Nagaraja Temple (Malayalam: മണ്ണാറശാല  ശ്രീ നാഗരാജാക്ഷേത്രം) is a Hindu temple in Kerala, India, dedicated to the worship of serpent gods.",
+   "url": "https://en.wikipedia.org/wiki/Mannarasala_Temple"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Mannarasala Temple",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 9.28975,
+   "lon": 76.44566666666667
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}
