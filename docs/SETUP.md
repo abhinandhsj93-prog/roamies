@@ -59,3 +59,25 @@ The file is committed because the repo is private and EAS only uploads files git
 ```bash
 npm run typecheck
 ```
+
+## Live places API (Cloudflare Worker)
+
+`worker/` writes a guide the first time anyone opens the app in a new place, then serves it from Firestore. It runs on the Cloudflare Workers free plan, and GitHub deploys it on every push that touches `worker/`.
+
+One-time setup:
+
+1. **Firestore:** in Firebase, open **Firestore Database** and create a database if there isn't one yet (region `asia-south1`, production mode).
+2. **Firebase service account:** go to Firebase → Project settings → **Service accounts** → **Generate new private key**. This downloads a JSON file.
+3. **Gemini key:** go to [aistudio.google.com](https://aistudio.google.com) → **Get API key** → Create API key.
+4. **Cloudflare:** sign up at [dash.cloudflare.com](https://dash.cloudflare.com). Copy the **Account ID** from the right side of the Workers & Pages overview. Then go to My Profile → API Tokens → Create Token → **Edit Cloudflare Workers** template.
+5. **GitHub repository secrets** (repo → Settings → Secrets and variables → Actions → New repository secret):
+   - `CLOUDFLARE_API_TOKEN`
+   - `CLOUDFLARE_ACCOUNT_ID`
+   - `GEMINI_API_KEY`
+   - `FIREBASE_SERVICE_ACCOUNT`, which is the whole JSON file from step 2
+6. Re-run the **Deploy places API** workflow (Actions tab → Deploy places API → Run workflow). The log prints the worker URL, `https://roamies-api.<your-subdomain>.workers.dev`.
+7. Add that URL as a repository **variable** (same page, Variables tab) named `ROAMIES_API_URL`. Then re-run **Android APK** so the app uses it.
+
+Try it in a browser: `https://roamies-api.<your-subdomain>.workers.dev/place?lat=9.9658&lng=76.2421` (Fort Kochi). The first call takes up to a minute while it writes the guide.
+
+The model is set in `worker/wrangler.toml` (`AI_PROVIDER`, `AI_MODEL`). Run the tests with `cd worker && npm test`.
