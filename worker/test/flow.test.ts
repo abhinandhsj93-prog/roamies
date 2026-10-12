@@ -8,7 +8,7 @@ import worker from '../src/index.ts';
 const { privateKey } = generateKeyPairSync('rsa', { modulusLength: 2048 });
 const env = {
   AI_PROVIDER: 'gemini' as const,
-  AI_MODEL: 'gemini-2.5-flash',
+  AI_MODEL: 'gemini-3.8-flash',
   AI_API_KEY: 'test-key',
   FIREBASE_PROJECT_ID: 'roamies-test',
   FIREBASE_SERVICE_ACCOUNT: JSON.stringify({
