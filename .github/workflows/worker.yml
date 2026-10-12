@@ -49,7 +49,8 @@ jobs:
       - name: Smoke test (Fort Kochi)
         if: env.CLOUDFLARE_API_TOKEN != ''
         run: |
-          sleep 10
-          body=$(curl -sS -m 120 -w ' HTTP %{http_code}' "${{ steps.deploy.outputs.url }}/place?lat=9.9658&lng=76.2421")
-          echo "$body" | head -c 3000
-          echo "::notice title=Smoke test::$(echo "$body" | head -c 900 | tr '\n' ' ')"
+          sleep 20
+          code=$(curl -sS -m 150 -o body.json -w '%{http_code}' "${{ steps.deploy.outputs.url }}/place?lat=9.9658&lng=76.2421")
+          summary=$(jq -rc '{status, error: (.error // null | if . then .[0:300] else null end), name: .place.name, area: .place.area, model: .place.model, spots: [.place.seeFirst.spots[]?.name], food: [.place.food[]?.name], slides: (.place.story | length?), briefing: .place.briefing}' body.json 2>/dev/null || head -c 300 body.json)
+          echo "HTTP $code $summary"
+          echo "::notice title=Smoke test::HTTP $code $(printf '%s' "$summary" | tr -d ':' | head -c 1500)"
