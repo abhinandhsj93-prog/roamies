@@ -1,6 +1,6 @@
 name: Android APK
 
-# Builds an installable APK in the cloud and attaches it to the "latest-apk" release.
+# Builds an installable APK in the cloud and publishes it as the latest GitHub release.
 # It is signed with the React Native template debug keystore (SHA-1 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25),
 # which is registered in Firebase so Google sign-in works. Not for the Play Store.
 
@@ -40,15 +40,21 @@ jobs:
       - name: Build release APK
         working-directory: android
         run: ./gradlew assembleRelease --no-daemon -PreactNativeArchitectures=arm64-v8a
-      - name: Publish APK
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          cp android/app/build/outputs/apk/release/app-release.apk roamies.apk
-          gh release delete latest-apk --yes --cleanup-tag || true
-          gh release create latest-apk roamies.apk --prerelease --target "$GITHUB_SHA" \
-            --title "Latest test APK" --notes "Built from ${GITHUB_REF_NAME} at ${GITHUB_SHA::7}."
+      - run: cp android/app/build/outputs/apk/release/app-release.apk roamies.apk
       - uses: actions/upload-artifact@v4
         with:
           name: roamies-apk
           path: roamies.apk
+      - name: Publish APK
+        # A new release per build, marked latest, so this link always serves the newest APK:
+        # https://github.com/<owner>/<repo>/releases/latest/download/roamies.apk
+        # (Deleting and re-creating one fixed tag was refused by GitHub.)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="apk-${GITHUB_RUN_NUMBER}-${GITHUB_RUN_ATTEMPT}"
+          gh release create "$tag" roamies.apk --latest --target "$GITHUB_SHA" \
+            --title "Test APK ${GITHUB_SHA::7}" --notes "Built from ${GITHUB_REF_NAME} at ${GITHUB_SHA::7}."
+          # Keep only the newest 5 APK releases.
+          gh release list --limit 50 --json tagName --jq '.[].tagName' | grep '^apk-' | tail -n +6 |
+            xargs -r -I{} gh release delete {} --yes --cleanup-tag || true

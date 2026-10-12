@@ -1,13 +1,13 @@
 import { router } from 'expo-router';
 import { useState } from 'react';
-import { ActivityIndicator, Alert, Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
+import { ActivityIndicator, Alert, Image, Linking, Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { Icon } from '@/components/Icon';
 import { PersonaAvatar } from '@/components/PersonaAvatar';
 import { TAB_BAR_SPACE } from '@/components/TabBar';
 import { DirectionsButton, Pill, PrimaryButton, StatusText } from '@/components/ui';
-import type { Legend, Mood, Spot, Tip } from '@/content/types';
+import type { Legend, Mood, Photo, Spot, Tip } from '@/content/types';
 import { Illustration } from '@/illustrations/Illustration';
 import { useCurrentPlace } from '@/lib/useCurrentPlace';
 import { useTemperature } from '@/lib/useTemperature';
@@ -45,13 +45,26 @@ export default function Here() {
       {/* Hero */}
       <View style={{ height: heroHeight, overflow: 'hidden' }}>
         <View style={StyleSheet.absoluteFill}>
-          <Illustration
-            id={place.hero}
-            width={width}
-            height={heroHeight}
-            preserveAspectRatio="xMidYMax slice"
-            accessibilityLabel={`Illustration of ${place.name}`}
-          />
+          {place.photo ? (
+            <>
+              <Image
+                source={photoSource(place.photo)}
+                style={StyleSheet.absoluteFill}
+                resizeMode="cover"
+                accessibilityLabel={`Photo of ${place.photo.article}`}
+              />
+              {/* Darkens the lower half so the white place name stays readable on any photo. */}
+              <View style={styles.heroShade} />
+            </>
+          ) : (
+            <Illustration
+              id={place.hero}
+              width={width}
+              height={heroHeight}
+              preserveAspectRatio="xMidYMax slice"
+              accessibilityLabel={`Illustration of ${place.name}`}
+            />
+          )}
         </View>
 
         {/* Search with Help nearby at its end, so the hero illustration stays clear. */}
@@ -193,6 +206,7 @@ export default function Here() {
         </Section>
 
         <Text style={styles.sources}>{place.sources}</Text>
+        <PhotoCredits photos={[place.photo, ...place.seeFirst.spots.map((s) => s.photo)]} />
       </View>
     </ScrollView>
   );
@@ -228,10 +242,40 @@ function CardRow({ cardWidth, children }: { cardWidth: number; children: React.R
   );
 }
 
+// Wikimedia asks apps to identify themselves when loading its images.
+const photoSource = (photo: Photo) => ({
+  uri: photo.url,
+  headers: { 'User-Agent': 'Roamies/1.0 (https://github.com/abhinandhsj93-prog/roamies)' },
+});
+
+// Photo licences (CC BY, CC BY-SA) require crediting the photographer and linking the source.
+function PhotoCredits({ photos }: { photos: (Photo | undefined)[] }) {
+  const unique = photos.filter((p, i): p is Photo => !!p && photos.findIndex((q) => q?.url === p.url) === i);
+  if (!unique.length) return null;
+  return (
+    <View style={{ gap: 4, marginTop: -40 }}>
+      {unique.map((p) => (
+        <Text key={p.url} style={styles.credit} onPress={() => Linking.openURL(p.sourceUrl)} accessibilityRole="link">
+          {p.article}: {p.credit.replace(/^Photo: /, '')}
+        </Text>
+      ))}
+    </View>
+  );
+}
+
 function SpotCard({ spot }: { spot: Spot }) {
   return (
     <View style={[styles.spotCard, { backgroundColor: spot.cardColor }]}>
-      <Illustration id={spot.illustration} width={184} height={136} />
+      {spot.photo ? (
+        <Image
+          source={photoSource(spot.photo)}
+          style={styles.spotPhoto}
+          resizeMode="cover"
+          accessibilityLabel={`Photo of ${spot.name}`}
+        />
+      ) : (
+        <Illustration id={spot.illustration} width={184} height={136} />
+      )}
       <Text style={styles.spotName}>{spot.name}</Text>
       <Text style={styles.spotDetail}>{spot.detail}</Text>
       <View style={styles.spotFooter}>
@@ -301,6 +345,7 @@ const styles = StyleSheet.create({
   },
   helpLabel: { fontFamily: fonts.bold, fontSize: fontSizes.caption, color: colors.ink },
   searchPlaceholder: { flex: 1, fontFamily: fonts.medium, fontSize: fontSizes.body, color: colors.ink, opacity: 0.6 },
+  heroShade: { position: 'absolute', left: 0, right: 0, bottom: 0, height: '60%', backgroundColor: 'rgba(18,48,44,0.45)' },
   heroText: { position: 'absolute', left: sideMargin, right: sideMargin, bottom: 56 },
   kicker: {
     fontFamily: fonts.bold,
@@ -359,6 +404,7 @@ const styles = StyleSheet.create({
   sectionAside: { fontFamily: fonts.medium, fontSize: fontSizes.caption, color: colors.ink, opacity: 0.6 },
 
   spotCard: { width: SPOT_CARD_WIDTH, borderRadius: radii.card, padding: 16, gap: 8 },
+  spotPhoto: { width: 184, height: 136, borderRadius: 16 },
   spotName: { fontFamily: fonts.bold, fontSize: fontSizes.body, color: colors.ink },
   spotDetail: { fontFamily: fonts.medium, fontSize: fontSizes.caption, lineHeight: 20, color: colors.ink, opacity: 0.7 },
   spotFooter: { marginTop: 8, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' },
@@ -374,5 +420,6 @@ const styles = StyleSheet.create({
   tipIcon: { width: 48, height: 48, borderRadius: 16, alignItems: 'center', justifyContent: 'center' },
   tipText: { flex: 1, fontFamily: fonts.medium, fontSize: fontSizes.body, lineHeight: 24, color: colors.ink },
 
+  credit: { fontFamily: fonts.medium, fontSize: 12, lineHeight: 16, color: colors.ink, opacity: 0.5 },
   sources: { fontFamily: fonts.medium, fontSize: fontSizes.caption, lineHeight: 20, color: colors.ink, opacity: 0.6 },
 });

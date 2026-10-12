@@ -7,6 +7,9 @@ export type Lang = 'en';
 
 export type Status = { text: string; tone: 'open' | 'warning' | 'neutral' };
 
+// A real, free-licensed photo (Wikimedia Commons). The credit must be shown wherever it is.
+export type Photo = { url: string; article: string; credit: string; sourceUrl: string };
+
 export type Spot = {
   id: string;
   name: string;
@@ -16,6 +19,7 @@ export type Spot = {
   mapsQuery: string;
   illustration: IllustrationId;
   cardColor: string;
+  photo?: Photo; // shown instead of the illustration when present
 };
 
 export type FoodTag = 'vegetarian' | 'mild' | 'cheap' | 'seafood';
@@ -48,6 +52,7 @@ export type Place = {
   area: string; // "Kochi, Kerala"
   coords: { latitude: number; longitude: number };
   hero: IllustrationId;
+  photo?: Photo; // hero photo; the illustration is the fallback
   briefing: string;
   hungryLine: string;
   moodReplies: Record<Mood, string>;
