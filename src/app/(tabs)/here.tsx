@@ -54,29 +54,34 @@ export default function Here() {
           />
         </View>
 
-        <View style={[styles.heroTopRow, { top: insets.top + 16 }]}>
+        {/* Search with Help nearby at its end, so the hero illustration stays clear. */}
+        <View style={[styles.search, { top: insets.top + 16 }]}>
+          <Pressable
+            style={styles.searchField}
+            accessibilityRole="search"
+            onPress={() =>
+              Alert.alert('More places soon', "I'm still learning the rest of Kochi. Fort Kochi is next!")
+            }
+          >
+            <Icon name="search" size={20} color={colors.ink} />
+            <Text style={styles.searchPlaceholder} numberOfLines={1}>
+              Search another place
+            </Text>
+          </Pressable>
+          <View style={styles.searchDivider} />
           <Pressable
             onPress={() => router.push('/essentials')}
             accessibilityRole="button"
-            style={({ pressed }) => [styles.helpButton, pressed && { opacity: 0.85 }]}
+            accessibilityLabel="Help nearby"
+            hitSlop={8}
+            style={({ pressed }) => [styles.helpButton, pressed && { opacity: 0.7 }]}
           >
             <View style={styles.helpDot}>
-              <Icon name="plus" size={14} color={colors.white} strokeWidth={3.2} />
+              <Icon name="plus" size={12} color={colors.white} strokeWidth={3.4} />
             </View>
-            <Text style={styles.helpLabel}>Help nearby</Text>
+            <Text style={styles.helpLabel}>Help</Text>
           </Pressable>
         </View>
-
-        <Pressable
-          style={[styles.search, { top: insets.top + 80 }]}
-          accessibilityRole="search"
-          onPress={() =>
-            Alert.alert('More places soon', "I'm still learning the rest of Kochi. Fort Kochi is next!")
-          }
-        >
-          <Icon name="search" size={20} color={colors.ink} />
-          <Text style={styles.searchPlaceholder}>Search another place</Text>
-        </Pressable>
 
         <View style={styles.heroText}>
           <Text style={styles.kicker}>You're in</Text>
@@ -269,27 +274,6 @@ const styles = StyleSheet.create({
   writingText: { flex: 1, fontFamily: fonts.medium, fontSize: fontSizes.caption, lineHeight: 20, color: colors.ink },
   screen: { flex: 1, backgroundColor: colors.cream },
 
-  heroTopRow: { position: 'absolute', left: sideMargin, right: sideMargin, flexDirection: 'row', justifyContent: 'flex-end' },
-  helpButton: {
-    height: 40,
-    paddingLeft: 6,
-    paddingRight: 14,
-    borderRadius: 20,
-    backgroundColor: glass,
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 8,
-    ...softShadow,
-  },
-  helpDot: {
-    width: 28,
-    height: 28,
-    borderRadius: 14,
-    backgroundColor: colors.red,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  helpLabel: { fontFamily: fonts.bold, fontSize: fontSizes.caption, color: colors.ink },
   search: {
     position: 'absolute',
     left: sideMargin,
@@ -300,10 +284,23 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     gap: 12,
-    paddingHorizontal: 16,
+    paddingLeft: 16,
+    paddingRight: 12,
     ...softShadow,
   },
-  searchPlaceholder: { fontFamily: fonts.medium, fontSize: fontSizes.body, color: colors.ink, opacity: 0.6 },
+  searchField: { flex: 1, height: '100%', flexDirection: 'row', alignItems: 'center', gap: 12 },
+  searchDivider: { width: 1, height: 24, backgroundColor: colors.ink, opacity: 0.15 },
+  helpButton: { height: '100%', flexDirection: 'row', alignItems: 'center', gap: 6 },
+  helpDot: {
+    width: 22,
+    height: 22,
+    borderRadius: 11,
+    backgroundColor: colors.red,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  helpLabel: { fontFamily: fonts.bold, fontSize: fontSizes.caption, color: colors.ink },
+  searchPlaceholder: { flex: 1, fontFamily: fonts.medium, fontSize: fontSizes.body, color: colors.ink, opacity: 0.6 },
   heroText: { position: 'absolute', left: sideMargin, right: sideMargin, bottom: 56 },
   kicker: {
     fontFamily: fonts.bold,
