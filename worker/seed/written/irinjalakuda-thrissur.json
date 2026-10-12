@@ -1,0 +1,103 @@
+{
+ "query": "Irinjalakuda, Thrissur",
+ "region": "kerala",
+ "name": "Irinjalakuda",
+ "draft": {
+  "briefing": "Hey, you're in Irinjalakuda! Just down the road at Thazhekad is a stone inscription from the 8th to 10th centuries, one of the earliest surviving edicts granting privileges to the St Thomas Christians.",
+  "hungryLine": "This is paddy field country, so look for simple local meals in the villages around the station.",
+  "moodReplies": {
+   "show-me-around": "Walk about 20 minutes to Thazhekad and its St Sebastian church, one of the oldest in Kerala.",
+   "somewhere-to-chill": "The villages here are surrounded by paddy fields on all sides, part of the Thrissur kole wetlands. Just wander.",
+   "surprise-me": "Thazhekad was once a prosperous inland port in the heyday of Muziris, until the great floods of 1341 changed the landscape."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Thazhekad",
+     "detail": "20 min walk · Ancient church and the Thazhekad Sasanam stone",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Aloor",
+     "detail": "24 min walk · The local panchayat village",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kallettumkara",
+     "detail": "Short drive · Home of Irinjalakuda railway station",
+     "status": {
+      "text": "Check train times",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kallettumkara",
+    "title": "The bank of the Kallar",
+    "body": "Locals say a river called the Kallar once flowed here, and the land on its bank was called Kallarin kara. Over time that became Kallettumkara."
+   },
+   {
+    "where": "Kallettumkara",
+    "title": "The river that left",
+    "body": "The story goes that an earthquake changed the river's course. No river flows through Kallettumkara today, only its name remains."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Take the train.",
+    "body": "All express and passenger trains except super-fast ones stop at Irinjalakuda railway station."
+   },
+   {
+    "icon": "tag",
+    "title": "Look for the Sasanam.",
+    "body": "At Thazhekad, ask to see the inscribed stone, one of the earliest records of the St Thomas Christians."
+   }
+  ],
+  "story": [
+   {
+    "era": "Muziris era",
+    "title": "An inland port",
+    "body": "Thazhekad was a prosperous inland port when Muziris was at its peak. It was home to one of the earliest St Thomas Christian communities in Kerala.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "800s",
+    "title": "Church and stone",
+    "body": "The Thazhekad St Sebastian church dates back to AD 800. The Thazhekad Sasanam stone is dated to between the 8th and 10th centuries.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1341",
+    "title": "The great floods",
+    "body": "Huge floods changed the landscape here in 1341. Thazhekad's days as a port came to an end.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1789 to 1791",
+    "title": "Tipu's army",
+    "body": "Tipu Sultan's army ravaged the churches and temples of the area during his invasion of the south.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrims and paddy",
+    "body": "Thazhekad church is the largest pilgrimage centre in the Irinjalakuda Diocese. Around it, villages sit among paddy fields and the Muriyad wetlands.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

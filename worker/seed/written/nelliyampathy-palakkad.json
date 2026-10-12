@@ -1,39 +1,41 @@
 {
  "query": "Nelliyampathy, Palakkad",
+ "region": "kerala",
+ "name": "Nelliyampathy",
  "draft": {
-  "briefing": "Hey, you're in Nelliyampathy! Hills of tea, coffee and orange groves rise above the plains here, about 1,500 metres at the top. The road up from Nenmara has ten hairpin bends.",
-  "hungryLine": "Food up here is simple estate fare. Carry snacks and eat at the few local eateries.",
+  "briefing": "Hey, you're in Nelliyampathy! You're up in Kaikatty, the first town of the Nelliampathi hills, and the only way up is the 26 km road from Nemmara. It winds up 17 km of hairpin turns from Pothundi Dam, straight into tea country.",
+  "hungryLine": "My notes don't name any eateries up in the hills, so this is tea country first. Try a cup from the estates around you.",
   "moodReplies": {
-   "show-me-around": "Stop at Pothundi Dam on the way up, then head to Seetharkundu viewpoint.",
-   "somewhere-to-chill": "Stand at Seetharkundu and look down at the plains of Palakkad spread out below.",
-   "surprise-me": "Seetharkundu is named after Sita. Legend says she bathed in the stream here during her exile."
+   "show-me-around": "Nelliampathi is about a 19 min walk from here. Look out for the big tea gardens at Manalaroo and Chandramala estates on the way.",
+   "somewhere-to-chill": "Find a quiet spot above the tea gardens and enjoy the cool climate the planters came up here for.",
+   "surprise-me": "The Kaikatty Industrial Cooperative Tea Factory, set up in 1976, has been working to cut its carbon footprint."
   },
   "seeFirst": {
-   "caption": "Around Nelliyampathy",
+   "caption": "Up in the hills",
    "spots": [
     {
-     "name": "Seetharkundu Viewpoint",
-     "detail": "Short drive · A sheer drop with a view",
+     "name": "Nelliampathi",
+     "detail": "19 min walk · A hill station 60 km from Palakkad",
      "status": {
-      "text": "Clear mornings",
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kaikatty",
+     "detail": "You're here · The first town up the hill, all about tea",
+     "status": {
+      "text": "Check timings locally",
       "tone": "neutral"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Kesavanpara",
-     "detail": "Short drive · A rocky viewpoint",
+     "name": "Parambikulam Wildlife Sanctuary",
+     "detail": "In Chittur area · A tiger reserve with six tribal colonies",
      "status": {
-      "text": "Daytime",
-      "tone": "neutral"
-     },
-     "illustration": "warehouses"
-    },
-    {
-     "name": "Pothundi Dam",
-     "detail": "At the foot of the hills · A reservoir",
-     "status": {
-      "text": "Daytime",
+      "text": "Check timings locally",
       "tone": "neutral"
      },
      "illustration": "warehouses"
@@ -42,73 +44,54 @@
   },
   "legends": [
    {
-    "where": "Seetharkundu",
-    "title": "Sita's pool",
-    "body": "Legend says Sita, Rama and Lakshmana stopped here during their exile, and Sita bathed in the stream."
+    "where": "The estates",
+    "title": "Gardens the British left",
+    "body": "Locals will tell you every tea and coffee plantation up here was started by the British for the cool climate. Later they were sold to the people of the region."
    },
    {
-    "where": "The estates",
-    "title": "Oranges in Kerala",
-    "body": "Nelliyampathy is one of the few places in Kerala where oranges grow."
+    "where": "Pothundi Dam",
+    "title": "Water for the rice fields",
+    "body": "At the 9th km of the road up sits Pothundi Dam, a small irrigation dam at the foot of the hills. It feeds the rice fields in the plains around it, and the forest begins right after."
    }
   ],
   "tips": [
    {
-    "icon": "sun",
-    "title": "Go up in the morning.",
-    "body": "Clouds often hide the views by afternoon."
+    "icon": "tag",
+    "title": "Come up from Nemmara.",
+    "body": "It's the only route, 26 km with many hairpin turns, so take it slow."
    },
    {
-    "icon": "tag",
-    "title": "Fuel up below.",
-    "body": "There are few petrol pumps in the hills."
+    "icon": "sun",
+    "title": "Bring a layer.",
+    "body": "The climate up here is cool, which is exactly why the planters chose it."
    }
   ],
   "story": [
    {
-    "era": "Long ago",
-    "title": "Forest hills",
-    "body": "These hills are part of the Western Ghats, home to elephants and hornbills.",
-    "illustration": "flood"
-   },
-   {
-    "era": "The Ramayana",
-    "title": "Sita's stop",
-    "body": "Legend links the stream at Seetharkundu to Sita's time in exile.",
-    "illustration": "synagogue"
-   },
-   {
-    "era": "1800s to 1900s",
-    "title": "Estates arrive",
-    "body": "Planters cleared the slopes for tea, coffee and oranges.",
+    "era": "British times",
+    "title": "Planting the hills",
+    "body": "The British started all the tea and coffee plantations here, choosing the hills for their cool climate.",
     "illustration": "pepper"
    },
    {
     "era": "Later",
-    "title": "A quiet escape",
-    "body": "Nelliyampathy stayed quieter than Munnar, loved by people who wanted calm.",
+    "title": "In local hands",
+    "body": "The plantations were later sold to the natives. A.V. Thomas and Company now runs a large tea garden at Manalaroo Estate, and Veekay Tea Company is at Chandramala Estate.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1976",
+    "title": "A cooperative factory",
+    "body": "The Kaikatty Industrial Cooperative Tea Factory opened in 1976 to process the area's tea. It has since worked to reduce its carbon footprint.",
     "illustration": "warehouses"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Dam, hairpins, then Seetharkundu. Tell me if the plains looked like a map.",
-    "illustration": "warehouses"
+    "title": "A hill station",
+    "body": "Nelliyampathy is now a hill station 60 km from Palakkad, with a tea based economy. Tell me how many hairpins you counted on the way up.",
+    "illustration": "flood"
    }
   ],
-  "food": [
-   {
-    "name": "Estate canteens and eateries",
-    "detail": "Simple Kerala meals · ₹ · in the hills",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   }
-  ]
+  "food": []
  }
 }

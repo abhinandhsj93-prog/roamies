@@ -1,0 +1,129 @@
+{
+ "query": "Malampuzha, Palakkad",
+ "region": "kerala",
+ "name": "Akathethara",
+ "draft": {
+  "briefing": "Hey, you're in Akathethara! This Palakkad suburb is home to the Sabari Ashram, nicknamed Kerala's Sabarmati, which Mahatma Gandhi visited three times. You're about 5 km from Malampuzha Dam and 11 km from Palakkad city centre.",
+  "hungryLine": "Palakkad leans towards vegetarian Tamil food, so try dosa, idli and Kalan, a dish unique to Palakkad.",
+  "moodReplies": {
+   "show-me-around": "Drive over to Kalpathy, Kerala's first heritage village, then see the 15th century Jain temple at Jainamedu.",
+   "somewhere-to-chill": "Stroll the agraharam streets of Kalpathy, where the Brahmin houses share walls in one long row.",
+   "surprise-me": "Kalpathy's Viswanatha Swamy Temple looks so much like Varanasi's Kashi Viswanatha temple that people call the village Half Kashi."
+  },
+  "seeFirst": {
+   "caption": "Short drives from here",
+   "spots": [
+    {
+     "name": "Kalpathy",
+     "detail": "Short drive · Kerala's first heritage village and a home of Carnatic music",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Jainamedu",
+     "detail": "Short drive · A 15th century Jain temple by the Kalpathy River",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kallekulangara",
+     "detail": "Short drive · The Sree Emoor Bhagavathy temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kallekulangara",
+    "title": "Parashurama's temple",
+    "body": "The Sree Emoor Bhagavathy temple is believed to have been consecrated by Parashurama, with Hemambika Devi as the deity. That's why the area is also called Hemambika Nagar."
+   },
+   {
+    "where": "Kalpathy",
+    "title": "Half Kashi",
+    "body": "The Viswanatha Swamy Temple on the Kalpathy river is so like the Kashi Viswanatha temple on the Ganges that locals say Kasiyil paathi Kalpathy. It's also called Dakshina Kashi, the Southern Kashi."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in mid-November.",
+    "body": "That's when the Kalpathy Rathotsavam lights up every street and the temple chariots roll through."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the Rly Colony bus.",
+    "body": "Buses leave Palakkad Town Bus Stand about every 5 minutes for the Kallekulangara stop near the Emoor temple."
+   }
+  ],
+  "story": [
+   {
+    "era": "1400s",
+    "title": "A Jain temple",
+    "body": "A Jain temple was built at Jainamedu, one of the few places in Kerala where Jainism has survived. Palakkad once had around 400 Jain families, and only a few remain.",
+    "illustration": "palace"
+   },
+   {
+    "era": "About 600 years ago",
+    "title": "Kalpathy takes shape",
+    "body": "Tamil Brahmin migrants built the agraharam at Kalpathy, house joined to house in long rows. It's now Kerala's first heritage village.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1766",
+    "title": "Fort changes hands",
+    "body": "Hyder Ali captured and rebuilt the Palakkad Fort in the heart of the city. In 1784 it fell into the hands of the Zamorin.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Gandhi's visits",
+    "title": "Kerala's Sabarmati",
+    "body": "Mahatma Gandhi came to the Sabari Ashram in Akathethara three times. It's why people call it Kerala's Sabarmati.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Start at the Sabari Ashram, then head into Kalpathy and Jainamedu. Tell me which street you liked best.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Manis Cafe",
+    "detail": "Near Railway Police Station, Olavakkod · Specialists in elayada, the leaf-covered rice cake",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Indian Coffee House",
+    "detail": "Opp. Post Office, Olavakkod Junction · Simple meals and coffee",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

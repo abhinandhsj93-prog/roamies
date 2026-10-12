@@ -1,0 +1,97 @@
+{
+ "query": "Thenmala, Kollam",
+ "region": "kerala",
+ "name": "Thenmala",
+ "draft": {
+  "briefing": "Hey, you're in Thenmala! It's home to the first ecotourism centre in India. The name means 'Honey hill', and the area is known for exporting high-quality honey.",
+  "hungryLine": "Thenmala means honey hill, so pick up some local honey while you're here.",
+  "moodReplies": {
+   "show-me-around": "Walk to Thenmala Dam for a boat ride on the reservoir, then cross the hanging bridge.",
+   "somewhere-to-chill": "Take a slow boat out on the dam's reservoir and let the forest hills surround you.",
+   "surprise-me": "The Malayalam film Adiverukal (1986) was shot here, the same year the dam was commissioned."
+  },
+  "seeFirst": {
+   "caption": "Short walks and drives from here",
+   "spots": [
+    {
+     "name": "Thenmala Dam",
+     "detail": "21 min walk · Boating on the reservoir",
+     "status": {
+      "text": "Daytime",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Hanging Bridge",
+     "detail": "In Thenmala · A rope bridge walk",
+     "status": {
+      "text": "Hold on tight",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Palaruvi Waterfalls",
+     "detail": "Nearby · The area's prime waterfall",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thenmala",
+    "title": "The honey hill",
+    "body": "In Malayalam, then means honey and mala means mountain. The name sticks because the hills here are still known for their honey."
+   },
+   {
+    "where": "Kulathupuzha",
+    "title": "The temple fish pond",
+    "body": "Kulathupuzha, 10 km south on the road to Shencottah, has a well-known Ayyappa temple. Its temple fish pond is part of the tradition there."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Come by train.",
+    "body": "Thenmala has its own railway station, though Kollam and Sengottai are better connected."
+   },
+   {
+    "icon": "tag",
+    "title": "Book a boat ride.",
+    "body": "Boating on the dam reservoir is the classic thing to do here."
+   }
+  ],
+  "story": [
+   {
+    "era": "1960s",
+    "title": "A big water plan",
+    "body": "Work on the dam began under the Kallada Irrigation and Tree Crop development project, the largest irrigation project in Kerala.",
+    "illustration": "flood"
+   },
+   {
+    "era": "26 Jan 1972",
+    "title": "First stone",
+    "body": "T. K. Divakaran laid the foundation stone of the dam on the Kallada River.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "26 May 1986",
+    "title": "The dam opens",
+    "body": "K. Karunakaran commissioned Thenmala Dam, also called Parappar Dam, for irrigation and power. The same year, the film Adiverukal was shot here.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "India's first ecotourism centre",
+    "body": "The reservoir is now part of the Thenmala Ecotourism Project, with boating, a rope bridge, trekking and a musical fountain.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

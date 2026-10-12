@@ -1,0 +1,86 @@
+{
+ "query": "Kadamakkudy, Ernakulam",
+ "region": "kerala",
+ "name": "Kadamakkudy",
+ "draft": {
+  "briefing": "Hey, you're in Kadamakkudy! It's a cluster of fourteen islands about 8 km north of Kochi city centre, and people call it the Kuttanad of Kochi.",
+  "hungryLine": "I don't have a named place to eat out on the islands, so save your appetite for Ernakulam or ask a local.",
+  "moodReplies": {
+   "show-me-around": "You're a few minutes from the heart of the islands. Veeranpuzha, the northern stretch of Vembanad Lake, is about a 16 min walk, and Chathanad is a short drive over the new bridge.",
+   "somewhere-to-chill": "Find a quiet spot by Veeranpuzha, where wide paddy fields stretch out with hardly any houses around.",
+   "surprise-me": "Hardly anyone lives along Veeranpuzha's paddy fields, because there's no fresh water to be had there."
+  },
+  "seeFirst": {
+   "caption": "Around the islands",
+   "spots": [
+    {
+     "name": "Kadamakkudy Islands",
+     "detail": "3 min walk · Fourteen islands, one village",
+     "status": {
+      "text": "Good for slow walks",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Veeranpuzha",
+     "detail": "16 min walk · Lake and open paddy fields",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "flood"
+    },
+    {
+     "name": "Chathanad",
+     "detail": "Short drive · Across the Kadamakkudy–Chathanad bridge",
+     "status": {
+      "text": "Easy by road",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Count the islands.",
+    "body": "Valiya Kadamakudy is the main island, and the others include Moolampilly, Pizhala and Kothad."
+   },
+   {
+    "icon": "tag",
+    "title": "Use the new bridge.",
+    "body": "The Kadamakkudy–Chathanad bridge is now the main road link to North Paravur."
+   }
+  ],
+  "story": [
+   {
+    "era": "1909-11",
+    "title": "A venerable priest",
+    "body": "Mar Varghese Payyappilly Palakkappilly, now called Venerable, served as parish priest of Valiya Kadamakkudy Syrian Catholic Church.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Early 1980s",
+    "title": "Ferries on the lake",
+    "body": "Regular ferries ran from Munambam to Ernakulam across Veeranpuzha, the old Kadakkarakkayal.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2001",
+    "title": "Island life",
+    "body": "The census counted 15,823 people across the islands, with literacy well above the national average.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Nine Catholic churches, quiet paddy fields and a new bridge. Pick an island and wander.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

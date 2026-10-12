@@ -1,0 +1,97 @@
+{
+ "query": "Punalur, Kollam",
+ "region": "kerala",
+ "name": "Punalur",
+ "draft": {
+  "briefing": "Hey, you're in Punalur! The 400-foot suspension bridge here was designed to shake when walked on, to stop animals crossing from the forest into town.",
+  "hungryLine": "Punalur sticks to local Kerala cooking, so ask what's fresh today at the nearest eatery.",
+  "moodReplies": {
+   "show-me-around": "Punalur Suspension Bridge is a 2 min walk. St. Mary's Cathedral Church is about 14 min on foot.",
+   "somewhere-to-chill": "Go fishing on the Kallada River, or sit by the water near the old bridge.",
+   "surprise-me": "The Kollam-Shencottah railway through Punalur was the first railway line in the old Travancore state."
+  },
+  "seeFirst": {
+   "caption": "Short walks and a short drive",
+   "spots": [
+    {
+     "name": "Punalur Suspension Bridge",
+     "detail": "2 min walk · A 19th-century bridge built to shake",
+     "status": {
+      "text": "Historic, walk gently",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "St. Mary's Cathedral Church",
+     "detail": "14 min walk · Punalur's first church",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Thenmala Ecotourism",
+     "detail": "21 km away · Along the Kallada River",
+     "status": {
+      "text": "Short drive",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Jetayu Para",
+    "title": "Where Jatayu fell",
+    "body": "Legend says Jatayu, the giant bird of the Ramayana, fell here after failing to stop Ravana from taking Sita away. It's a huge rock in Chadayamangalam, great for trekking."
+   },
+   {
+    "where": "Achencoil",
+    "title": "A very old Sastha",
+    "body": "Achencoil's Sastha temple is famous for a Sastha installed several centuries before the Christian Era. It's 80 km from Punalur and an important pilgrim centre."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "See the Sabarimala temples.",
+    "body": "Achankovil, Aryankavu and Kulathuppuzha, all linked to Sabarimala, are near Punalur."
+   },
+   {
+    "icon": "tag",
+    "title": "Ride the old line.",
+    "body": "The Kollam-Shencottah line, now broad gauge, still runs through Punalur station."
+   }
+  ],
+  "story": [
+   {
+    "era": "1877",
+    "title": "A bridge that shakes",
+    "body": "The Travancore Government built the 400 ft suspension bridge across the Kallada. It's the only one of its kind in south India.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1904",
+    "title": "Travancore's first railway",
+    "body": "The British commissioned the Kollam-Sengottai section as part of the Kollam-Chennai metre-gauge route. It was the first railway line in Travancore.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Industrial town",
+    "title": "Paper mills and rubber",
+    "body": "Workers from the Punalur Paper Mills, the railway and rubber estates, along with farmers, made up the early community of St. Mary's, the town's first church.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Broad gauge and the Kallada",
+    "body": "The old metre-gauge line has been fully converted to broad gauge. Punalur is the headquarters of its taluk and revenue division, on the Kallada at the foot of the Western Ghats.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

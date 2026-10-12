@@ -190,13 +190,15 @@ export default function Here() {
         </Section>
 
         {/* What locals say */}
-        <Section title="What locals say">
-          <CardRow cardWidth={LEGEND_CARD_WIDTH}>
-            {place.legends.map((legend, i) => (
-              <LegendCard key={legend.id} legend={legend} dark={i % 2 === 0} />
-            ))}
-          </CardRow>
-        </Section>
+        {place.legends.length > 0 && (
+          <Section title="What locals say">
+            <CardRow cardWidth={LEGEND_CARD_WIDTH}>
+              {place.legends.map((legend, i) => (
+                <LegendCard key={legend.id} legend={legend} dark={i % 2 === 0} />
+              ))}
+            </CardRow>
+          </Section>
+        )}
 
         {/* Good to know */}
         <Section title="Good to know">

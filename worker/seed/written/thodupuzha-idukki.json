@@ -1,0 +1,114 @@
+{
+ "query": "Thodupuzha, Idukki",
+ "region": "kerala",
+ "name": "Thodupuzha",
+ "draft": {
+  "briefing": "Hey, you're in Thodupuzha! It's the largest town in Idukki, and people call it the district's real capital because the official one, Painavu, stayed a sleepy village. It's also your gateway to Munnar, Thekkady and Peermade.",
+  "hungryLine": "Thodupuzha has lots of restaurants doing tasty meat and fish dishes. For a toddy shop meal, there's a well-known one on Manakkad road.",
+  "moodReplies": {
+   "show-me-around": "Start at the Sree Krishna Swami Temple in the heart of town, then walk to the Kanjiramattam Sree Mahadeva Temple on the river.",
+   "somewhere-to-chill": "Sit by the Thodupuzha River near the Kanjiramattam temple and let the afternoon slide by.",
+   "surprise-me": "Krishna at the town temple is shown as Navaneetha Krishna, holding butter in his right palm."
+  },
+  "seeFirst": {
+   "caption": "In town and beyond",
+   "spots": [
+    {
+     "name": "Sree Krishna Swami Temple, Thodupuzha",
+     "detail": "4 min walk · Krishna holding butter, right in town",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Kanjiramattam Sree Mahadeva Temple",
+     "detail": "23 min walk · Ancient Shiva temple on the river",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Thommankuthu waterfalls",
+     "detail": "About 20 km · Waterfalls near town",
+     "status": {
+      "text": "Take care near water",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kanjiramattam Sree Mahadeva Temple",
+    "title": "Parasurama's temple",
+    "body": "It is believed this is one of Kerala's 108 Shiva temples, installed by the sage Parasurama. Shiva is shown meditating under a Kalpavriksha with Parvati."
+   },
+   {
+    "where": "Sree Krishna Swami Temple, Thodupuzha",
+    "title": "Two mutts, one temple",
+    "body": "By tradition, the Aramallur Kavanattu Mana holds the tantric rights here. Daily poojas are run by two mutts, Padinjare mutt and Thuruthel mutt."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Use it as a base.",
+    "body": "Thodupuzha is the gateway to the High Range, including Munnar, Thekkady and Peermade."
+   },
+   {
+    "icon": "tag",
+    "title": "Hanging bridges are gone.",
+    "body": "The hanging bridges on the way to Moolamattam were dismantled after the 2018 flood."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Karikkode, the old capital",
+    "body": "Karikkode was the capital of the Vadakkumkoor principality. When Travancore annexed it, Diwan Ramayyan's forces destroyed it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Travancore days",
+    "title": "A new headquarters",
+    "body": "Maharaja Anizham Thirunal Marthanda Varma sent Elasamprathi Narayana Varma to run the area. Edavathuruth, among rocky hillocks, became the new taluk headquarters.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1920",
+    "title": "A village church",
+    "body": "St. Mary's Catholic Church was built in nearby Kalayanthani, a village known as the 'Land of Art'.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "2018",
+    "title": "The flood",
+    "body": "The great flood took its toll, and the hanging bridges towards Moolamattam were dismantled.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Idukki's busiest town",
+    "body": "Thodupuzha is the largest town and main commercial centre in Idukki district.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Mundekkallu shap",
+    "detail": "Toddy shop on Manakkad road, with tasty food and fresh kallu",
+    "status": {
+     "text": "Near town",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

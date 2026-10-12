@@ -1,127 +1,98 @@
 {
  "query": "Swaraj Round, Thrissur",
+ "region": "kerala",
+ "name": "Swaraj Round",
  "draft": {
-  "briefing": "Hey, you're on Swaraj Round in Thrissur! The whole city circles the Vadakkunnathan Temple in the middle. Once a year, Thrissur Pooram fills this ground with elephants and fireworks.",
-  "hungryLine": "Thrissur loves its vegetarian meals and its strong filter coffee. Here's where to find both.",
+  "briefing": "Hey, you're in Swaraj Round! This roughly 2 km ring road circles the 65-acre Thekkinkadu Maidan, with the Vadakkunnathan Temple to Shiva on the hillock in the middle. It's one of the biggest roundabouts in South Asia, fed by seventeen roads.",
+  "hungryLine": "My notes don't cover Thrissur's eateries, so follow the crowds along the Round, it's the city's busiest shopping strip.",
   "moodReplies": {
-   "show-me-around": "Walk around Vadakkunnathan Temple, then visit the cathedral and the tall Puthanpally church tower.",
-   "somewhere-to-chill": "Sit in the shade of Thekkinkadu Maidan, the big ground around the temple.",
-   "surprise-me": "During Pooram, two temples face off with dozens of decorated elephants and a contest of colourful umbrellas."
+   "show-me-around": "Thekkinkadu Maidan is a 5 min walk, Shakthan Thampuran Palace about 7 min, and Jos Theatre, Kerala's first permanent cinema, about 9 min.",
+   "somewhere-to-chill": "Wander onto Thekkinkadu Maidan, the big open ground around the temple, and slow down for a bit.",
+   "surprise-me": "The Basilica of Our Lady of Dolours here has the Bible tower, 79 metres high and called the tallest church tower in Asia."
   },
   "seeFirst": {
-   "caption": "Around the Round",
+   "caption": "Short walks from here",
    "spots": [
     {
-     "name": "Vadakkunnathan Temple",
-     "detail": "In the middle · Hindus only inside",
+     "name": "Thekkinkadu Maidan",
+     "detail": "5 min walk · The 65-acre ground around Vadakkunnathan Temple",
      "status": {
-      "text": "Grounds open to all",
-      "tone": "neutral"
+      "text": "Non-Hindus can't enter the temple",
+      "tone": "warning"
      },
      "illustration": "synagogue"
     },
     {
-     "name": "Our Lady of Lourdes Cathedral",
-     "detail": "5 min walk · An underground shrine",
+     "name": "Shakthan Thampuran Palace",
+     "detail": "7 min walk · Kerala-Dutch palace, now a museum",
      "status": {
-      "text": "Open daily",
+      "text": "10AM to 4PM, no entry fee",
       "tone": "open"
      },
-     "illustration": "synagogue"
+     "illustration": "palace"
     },
     {
-     "name": "Puthanpally Church",
-     "detail": "10 min walk · A very tall tower",
+     "name": "Jos Theatre",
+     "detail": "9 min walk · Kerala's first permanent cinema",
      "status": {
-      "text": "Climb the tower",
-      "tone": "neutral"
+      "text": "Still screening films",
+      "tone": "open"
      },
-     "illustration": "synagogue"
+     "illustration": "warehouses"
     }
    ]
   },
   "legends": [
    {
-    "where": "Thrissur Pooram",
-    "title": "A festival from a king",
-    "body": "Raja Sakthan Thampuran started Thrissur Pooram in the late 1700s. It's still the biggest temple festival in Kerala."
-   },
-   {
-    "where": "Vadakkunnathan",
-    "title": "A temple of wood and murals",
-    "body": "The temple's old wood carvings and murals won a UNESCO award for conservation."
+    "where": "Vadakkunnathan Temple",
+    "title": "Feeding the elephants",
+    "body": "On the first day of Karkkidakam, around July, the temple holds Aanayoottu, a feast for elephants. It's a festival all of its own."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Walk the Round in the evening.",
-    "body": "It's cooler, and the shops light up."
+    "title": "Come for Pooram in April or May.",
+    "body": "Thrissur Pooram brings caparisoned elephants, parasol exchanges and midnight fireworks, all visible from the streets."
    },
    {
     "icon": "tag",
-    "title": "Pooram crowds are huge.",
-    "body": "Book a stay early if you're here in April or May."
+    "title": "Bring your passport for Pooram.",
+    "body": "Tourists can sometimes get free guest platform tickets at the tourist office, about 10 minutes north of the temple."
    }
   ],
   "story": [
    {
-    "era": "Ancient",
-    "title": "A temple on a hill",
-    "body": "Vadakkunnathan Temple sits on a small hill. Legend says Parashurama founded it.",
-    "illustration": "synagogue"
+    "era": "Ancient times",
+    "title": "A meeting point",
+    "body": "Thrissur, once called Thrissivaperur, was a point of contact for Assyrians, Greeks, Persians, Arabs and Romans, and later the Portuguese, Dutch and English. It was once the capital of the Kingdom of Cochin.",
+    "illustration": "pepper"
    },
    {
-    "era": "1790s",
-    "title": "The king who built the city",
-    "body": "Raja Rama Varma, known as Sakthan Thampuran, cleared the forest around the temple and laid out the Round.",
+    "era": "1795",
+    "title": "Sakthan Thampuran",
+    "body": "Ramavarma Thampuran, known as Sakthan Thampuran, rebuilt his palace in Kerala-Dutch style in 1795 and built the Vadakkechira pond. He also split the temples into Paramekkavu and Thiruvambady sides for Thrissur Pooram.",
     "illustration": "palace"
    },
    {
-    "era": "Late 1700s",
-    "title": "Pooram begins",
-    "body": "He brought neighbouring temples together for one great festival: Thrissur Pooram.",
-    "illustration": "synagogue"
-   },
-   {
-    "era": "1800s to 1900s",
-    "title": "A city of churches and commerce",
-    "body": "Christian traders and churches grew alongside the temple, and Thrissur became a busy market town.",
+    "era": "1836 to 1845",
+    "title": "Old schools",
+    "body": "The Government Model school for boys opened in 1836, the oldest in the district, and CMS missionaries started their school right by the Round in 1845.",
     "illustration": "warehouses"
    },
    {
+    "era": "1875",
+    "title": "Puthen Palli",
+    "body": "The Basilica of Our Lady of Dolours was built in 1875, and locals call it Puthen Palli. Its huge interior is covered in murals.",
+    "illustration": "synagogue"
+   },
+   {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Walk the Round, see the temple, climb the church tower. Tell me which view you liked.",
+    "title": "City of Celebrations",
+    "body": "Thrissur is called the cultural capital of Kerala, with its arts academies around the city centre. Walk the Round and tell me which spot you liked best.",
     "illustration": "synagogue"
    }
   ],
-  "food": [
-   {
-    "name": "Vegetarian meals on the Round",
-    "detail": "Kerala meals · ₹ · on the Round",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   },
-   {
-    "name": "Coffee houses near the Round",
-    "detail": "Filter coffee and cutlets · ₹ · nearby",
-    "status": {
-     "text": "All day",
-     "tone": "open"
-    },
-    "tags": [
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   }
-  ]
+  "food": []
  }
 }

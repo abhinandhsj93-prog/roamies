@@ -1,0 +1,86 @@
+{
+ "query": "Kainakary, Alappuzha",
+ "region": "kerala",
+ "name": "Kainakary",
+ "draft": {
+  "briefing": "Hey, you're in Kainakary! Five rivers from the Western Ghats, including the sacred Pamba, drain into Vembanad Lake right at the tip of this village. Most of the paddy land around you sits below sea level.",
+  "hungryLine": "I don't have a named place to eat in Kainakary, so ask a local where they'd eat today.",
+  "moodReplies": {
+   "show-me-around": "Mekkad Bhagavathi Temple is just a minute away, and Pazhoor Mahadeva Temple and Elenakavu Temple are each about a 16 min walk.",
+   "somewhere-to-chill": "Sit by one of the canals or riverbanks. That's where most people here live, so it's the real Kainakary.",
+   "surprise-me": "Kainakary is a shooting location for films, TV soaps and music videos."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Mekkad Bhagavathi Temple",
+     "detail": "1 min walk · Right next to you",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Pazhoor Mahadeva Temple",
+     "detail": "16 min walk · A village temple",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Elenakavu Temple",
+     "detail": "16 min walk · Another local temple",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Watch for monsoon floods.",
+    "body": "Kuttanad floods in heavy monsoons, and Kainakary is one of the worst hit places."
+   },
+   {
+    "icon": "tag",
+    "title": "Look at the paddy fields.",
+    "body": "The fields here lie below sea level, which makes rice farming in Kainakary unique."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A royal village",
+    "body": "Kainakary was part of the Chembakassery Dynasty.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Every monsoon",
+    "title": "Living with floods",
+    "body": "Floods come with heavy monsoons, damaging crops and houses. People here are well used to the hard times.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Not so long ago",
+    "title": "A red bastion",
+    "body": "Kainakary was once a communist stronghold, and its literacy rate is better than many places around it.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Canals, ponds and lakes all around. Find a riverbank and watch village life go by.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

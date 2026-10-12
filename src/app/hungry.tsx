@@ -69,7 +69,11 @@ export default function Hungry() {
             <FoodCard key={f.id} food={f} />
           ))}
           {food.length === 0 && (
-            <Text style={styles.empty}>Nothing nearby matches all of those. Try fewer filters.</Text>
+            <Text style={styles.empty}>
+              {place.food.length === 0
+                ? "I don't have named places to eat here yet. Ask at the nearest busy tea shop, that's where the locals go."
+                : 'Nothing nearby matches all of those. Try fewer filters.'}
+            </Text>
           )}
         </ScrollView>
       </View>

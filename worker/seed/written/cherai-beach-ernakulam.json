@@ -1,114 +1,77 @@
 {
  "query": "Cherai Beach, Ernakulam",
+ "region": "kerala",
+ "name": "Cherai Beach",
  "draft": {
-  "briefing": "Hey, you're at Cherai Beach! It's a long, golden beach on Vypin island, with the sea on one side and backwaters on the other. Sometimes dolphins swim close to the shore.",
-  "hungryLine": "Cherai eats fish, prawns and crab, fresh from both the sea and the backwaters.",
+  "briefing": "Hey, you're in Cherai Beach! It's one of the most visited beaches in Kerala, up on the northern side of Vypin Island, about 25 km from downtown Kochi.",
+  "hungryLine": "This is seafood country, so look for prawns, squid, fish molly and Kochi's famous Meen Molagitta Curry.",
   "moodReplies": {
-   "show-me-around": "Walk the beach, then cross to the backwater side to see the Chinese fishing nets.",
-   "somewhere-to-chill": "Find a chair on the sand and stay for the sunset over the sea.",
-   "surprise-me": "Pallipuram Fort, just up the road, was built by the Portuguese in 1503. It's one of the oldest European buildings in India."
+   "show-me-around": "The beach is a 3 min walk. Up the road at Munambam you'll find a big fishing harbour and lots of boat-making yards.",
+   "somewhere-to-chill": "Grab a spot on the sand and watch the locals play beach volleyball. Cherai is famous for it.",
+   "surprise-me": "From Munambam Muziris beach, just north of here, you can see the mouth of the Periyar, the district's major river."
   },
   "seeFirst": {
-   "caption": "Around Cherai",
+   "caption": "Close by",
    "spots": [
     {
      "name": "Cherai Beach",
-     "detail": "In front of you · A long, golden beach",
+     "detail": "3 min walk · One of Kerala's most visited beaches",
      "status": {
-      "text": "Swim near the lifeguards",
-      "tone": "warning"
+      "text": "Best at sunset",
+      "tone": "open"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Pallipuram Fort",
-     "detail": "10 min drive · A Portuguese fort from 1503",
+     "name": "Munambam",
+     "detail": "All around you · Fishing harbour and boat-making yards",
      "status": {
-      "text": "Daytime",
+      "text": "Best early morning",
       "tone": "neutral"
-     },
-     "illustration": "palace"
-    },
-    {
-     "name": "Backwater-side fishing nets",
-     "detail": "5 min drive · Chinese nets on the lagoon",
-     "status": {
-      "text": "Evenings",
-      "tone": "open"
      },
      "illustration": "warehouses"
     }
    ]
   },
-  "legends": [
-   {
-    "where": "Pallipuram",
-    "title": "A fort with six sides",
-    "body": "Pallipuram Fort is a small six-sided tower. The Portuguese built it to guard the way into Kochi."
-   },
-   {
-    "where": "The beach",
-    "title": "Dolphins by the shore",
-    "body": "On calm mornings, dolphins are sometimes spotted just beyond the waves."
-   }
-  ],
+  "legends": [],
   "tips": [
    {
     "icon": "sun",
-    "title": "Go on a weekday.",
-    "body": "Weekends bring crowds from Kochi."
+    "title": "Come for Onam.",
+    "body": "Kerala's ten-day state festival runs somewhere between mid-August and mid-September."
    },
    {
     "icon": "tag",
-    "title": "Fresh crab is priced by weight.",
-    "body": "Ask before they start cooking."
+    "title": "Join a volleyball game.",
+    "body": "Cherai is a favourite with locals for beach volleyball, and beach football is popular too."
    }
   ],
   "story": [
    {
-    "era": "1341",
-    "title": "An island is born",
-    "body": "The great Periyar flood that opened Kochi's harbour also shaped Vypin island.",
-    "illustration": "flood"
+    "era": "Over 600 years",
+    "title": "A meeting place",
+    "body": "Arabs, Chinese, Portuguese, Dutch, English and more have all come through Kochi. You can taste the mix in the food today.",
+    "illustration": "pepper"
    },
    {
-    "era": "1503",
-    "title": "The Portuguese fort",
-    "body": "The Portuguese built Pallipuram Fort, one of the oldest European buildings still standing in India.",
+    "era": "1582",
+    "title": "Carnival begins",
+    "body": "The Cochin Carnival started as part of Portuguese New Year celebrations. It still runs from December 20 to January 2.",
     "illustration": "palace"
    },
    {
-    "era": "Centuries",
-    "title": "Fishing villages",
-    "body": "Families fished the sea on one side and the backwaters on the other.",
-    "illustration": "warehouses"
-   },
-   {
-    "era": "Recent years",
-    "title": "A favourite beach",
-    "body": "Cherai became the go-to beach for Kochi families.",
+    "era": "For generations",
+    "title": "Fishing families",
+    "body": "Munambam, at the north end of Vypin Island, lives mostly by fishing. It has a major government fishing harbour and many boat-making yards.",
     "illustration": "warehouses"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Beach, fort, then the fishing nets at sunset. Tell me if you saw a dolphin.",
+    "title": "Kochi's beach",
+    "body": "Cherai is one of the most visited beaches in the state, about 20 km from Cochin International Airport.",
     "illustration": "flood"
    }
   ],
-  "food": [
-   {
-    "name": "Seafood shacks at Cherai",
-    "detail": "Crab and fish fry · ₹₹ · on the beach",
-    "status": {
-     "text": "Lunch and dinner",
-     "tone": "open"
-    },
-    "tags": [
-     "seafood"
-    ],
-    "illustration": "seafood"
-   }
-  ]
+  "food": []
  }
 }

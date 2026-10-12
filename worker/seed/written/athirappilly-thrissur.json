@@ -1,127 +1,88 @@
 {
- "query": "Athirappilly Falls, Thrissur",
+ "query": "Athirappilly, Thrissur",
+ "region": "kerala",
+ "name": "Athirappilly",
  "draft": {
-  "briefing": "Hey, you're at Athirappilly! The Chalakudy river drops about 25 metres here, and in the monsoon the falls go wide and roaring. People call it the Niagara of India.",
-  "hungryLine": "Food here is roadside and simple: tea, snacks and meals on the way to the falls.",
+  "briefing": "Hey, you're in Athirappilly! The falls here are the largest in Kerala, dropping 81.5 feet on the Chalakudy River, which is why people call them the Niagara of South India.",
+  "hungryLine": "I don't know a named place to eat out here, so carry snacks. Chalakudy town is 24 km back down the road if you want more choice.",
   "moodReplies": {
-   "show-me-around": "Walk to the top of the falls, then take the path down to the bottom for the full view.",
-   "somewhere-to-chill": "Sit on the rocks above the falls and just listen.",
-   "surprise-me": "Four kinds of hornbill live in these forests. Look up when you hear a heavy wingbeat."
+   "show-me-around": "The falls viewpoint is a 5 min walk, and the Kannankuzhi Siva Temple is about 11 minutes on foot.",
+   "somewhere-to-chill": "Find a quiet spot near the falls and take in the forest and little streams all around you.",
+   "surprise-me": "This is the only place in the Western Ghats where four endangered hornbill species are seen."
   },
   "seeFirst": {
-   "caption": "All within a short drive",
+   "caption": "Short walks from here",
    "spots": [
     {
      "name": "Athirappilly Falls",
-     "detail": "Short walk · Top and bottom viewpoints",
+     "detail": "5 min walk · The largest waterfall in Kerala",
      "status": {
-      "text": "Daytime only",
-      "tone": "neutral"
+      "text": "Watch your step on wet rocks",
+      "tone": "warning"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Vazhachal Falls",
-     "detail": "10 min drive · Wide cascades by the road",
+     "name": "Kannankuzhi Siva Temple",
+     "detail": "11 min walk · A local temple close to the falls",
      "status": {
-      "text": "Daytime only",
+      "text": "Dress modestly",
       "tone": "neutral"
      },
-     "illustration": "warehouses"
-    },
-    {
-     "name": "Charpa Falls",
-     "detail": "5 min drive · Right beside the road",
-     "status": {
-      "text": "Best in monsoon",
-      "tone": "neutral"
-     },
-     "illustration": "warehouses"
+     "illustration": "palace"
     }
    ]
   },
   "legends": [
    {
-    "where": "The falls",
-    "title": "Famous on film",
-    "body": "These falls have starred in many films. If they look familiar, you may have seen them in Baahubali."
+    "where": "Athirappilly Falls",
+    "title": "The Niagara of South India",
+    "body": "Ask anyone around here and they'll tell you these are Kerala's Niagara. The nickname stuck because no waterfall in the state is bigger."
    },
    {
-    "where": "The forest",
-    "title": "The bird of the forest",
-    "body": "The great hornbill is Kerala's state bird. The forests around here are one of the best places to spot one."
+    "where": "Athirappilly-Vazhachal forests",
+    "title": "Home of four hornbills",
+    "body": "Environmentalists say this stretch of river is a one-of-its-kind riparian ecosystem in Kerala. It's the only place in the Western Ghats where four endangered hornbill species are seen."
    }
   ],
   "tips": [
    {
-    "icon": "sun",
-    "title": "Monsoon is the big show.",
-    "body": "July to September is the loudest, but the path is slippery."
+    "icon": "tag",
+    "title": "Look up for hornbills.",
+    "body": "Four endangered hornbill species live in the Athirappilly-Vazhachal forests, so keep your eyes on the treetops."
    },
    {
     "icon": "tag",
-    "title": "Keep the plastic.",
-    "body": "The area is plastic-free. Bags may be checked at the gate."
+    "title": "Add Vazhachal Falls.",
+    "body": "It's just a short drive from Athirappilly, right by dense green forest."
    }
   ],
   "story": [
    {
     "era": "Long ago",
-    "title": "A river in the forest",
-    "body": "The Chalakudy river runs down from the Western Ghats through some of Kerala's richest forest.",
+    "title": "A river from the Ghats",
+    "body": "The Chalakudy River starts in the upper reaches of the Western Ghats. It tumbles over the falls here at the entrance to the Sholayar ranges, about 1000 feet above sea level.",
     "illustration": "flood"
    },
    {
-    "era": "For generations",
-    "title": "The Kadar people",
-    "body": "The Kadar community has lived in these forests for generations, gathering honey and forest produce.",
-    "illustration": "warehouses"
+    "era": "1990s",
+    "title": "A dam above the falls",
+    "body": "The state proposed a hydroelectric dam on the Chalakudy River just above the waterfalls. A long fight over it began.",
+    "illustration": "flood"
    },
    {
-    "era": "Later",
-    "title": "A popular escape",
-    "body": "Families from Thrissur and Kochi began driving out for a day by the falls.",
-    "illustration": "warehouses"
-   },
-   {
-    "era": "Recent years",
-    "title": "A fight for the river",
-    "body": "A hydroelectric dam was proposed just above the falls. Many people campaigned against it to protect the river and the forest.",
+    "era": "Up to 2017",
+    "title": "Still arguing",
+    "body": "The controversy carried on through 2017. Environmentalists pointed out that the Western Ghats were already hurt by mining and hydroelectric projects.",
     "illustration": "flood"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Top of the falls, bottom of the falls, then Vazhachal. Tell me how wet you got.",
+    "title": "Kerala's biggest falls",
+    "body": "Athirappilly Falls is the largest waterfall in Kerala. The forests around it are full of endangered and endemic plants and animals.",
     "illustration": "flood"
    }
   ],
-  "food": [
-   {
-    "name": "Roadside tea stalls",
-    "detail": "Chai and snacks · ₹ · near the entrance",
-    "status": {
-     "text": "Daytime",
-     "tone": "open"
-    },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   },
-   {
-    "name": "Meals on the Chalakudy road",
-    "detail": "Kerala meals · ₹ · on the way back",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   }
-  ]
+  "food": []
  }
 }

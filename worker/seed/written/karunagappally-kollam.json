@@ -1,0 +1,86 @@
+{
+ "query": "Karunagappally, Kollam",
+ "region": "kerala",
+ "name": "Karunagappally",
+ "draft": {
+  "briefing": "Hey, you're near Karunagappally! The coast here at Vellanathuruthu is on the Chavara stretch, known worldwide for its black sand packed with minerals like ilmenite, zircon and rutile.",
+  "hungryLine": "I don't have a named place to eat around here, but the H&J Mall in Karunagappally town has a dining area.",
+  "moodReplies": {
+   "show-me-around": "The old Kothukumukku railway bridge is about a 12 min walk, and the H&J Mall is a short drive into town.",
+   "somewhere-to-chill": "Walk out to the Kothukumukku railway bridge over the Kannetty backwater. It's a local favourite now that the trains are gone.",
+   "surprise-me": "Migratory shorebirds, including the endangered Great Knot, stop at Vellanathuruthu on their seasonal visits."
+  },
+  "seeFirst": {
+   "caption": "Around here",
+   "spots": [
+    {
+     "name": "Kothukumukku railway bridge",
+     "detail": "12 min walk · Disused bridge over the backwater",
+     "status": {
+      "text": "Mind your step",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "H&J Mall",
+     "detail": "Short drive · 10-storey mall with a cinema",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vellanathuruthu",
+     "detail": "Right here · Coast and bird hotspot",
+     "status": {
+      "text": "Good for birding",
+      "tone": "open"
+     },
+     "illustration": "flood"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Bring binoculars.",
+    "body": "Vellanathuruthu is a bird hotspot, especially when migratory shorebirds pass through."
+   },
+   {
+    "icon": "tag",
+    "title": "Keep back from the beach edge.",
+    "body": "High waves and mining have caused dents and caving in the shoreline here."
+   }
+  ],
+  "story": [
+   {
+    "era": "Back then",
+    "title": "A mineral railway",
+    "body": "The Karunagappally to KMML Chavara railway line once crossed the Kannetty backwater on the Kothukumukku bridge.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Later",
+    "title": "A bridge for walkers",
+    "body": "The line closed, and the disused bridge became a local tourist attraction.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2015",
+    "title": "A mall in town",
+    "body": "Actor Mammootty opened the H&J Mall in Karunagappally on 29 March 2015.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Black sand, birds and a bridge to nowhere. Tell me what you spotted.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

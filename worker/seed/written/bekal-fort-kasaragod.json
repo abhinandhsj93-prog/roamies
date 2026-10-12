@@ -1,115 +1,97 @@
 {
  "query": "Bekal Fort, Kasaragod",
+ "region": "kerala",
+ "name": "Bekal Fort",
  "draft": {
-  "briefing": "Hey, you're at Bekal Fort! This is the biggest fort in Kerala, a huge circle of laterite walls standing right in the sea. It was built in the 1600s by the Keladi Nayakas.",
-  "hungryLine": "Kasaragod cooking mixes Kerala and Karnataka. Try fish curry and rice dumplings.",
+  "briefing": "Hey, you're in Bekal Fort! This is the largest fort in Kerala, spread over 40 acres right next to the beach. From above it's shaped like a giant keyhole.",
+  "hungryLine": "Bekal Beach Park has a food court, which is your easiest bet for a bite near the fort.",
   "moodReplies": {
-   "show-me-around": "Walk the walls all the way round, then climb the observation tower.",
-   "somewhere-to-chill": "Sit on the walls facing the sea and wait for the sunset.",
-   "surprise-me": "The song 'Uyire' from the film Bombay was shot right here, on these walls in the rain."
+   "show-me-around": "The fort is a minute's walk. Look for the Mukhyaprana Hanuman Temple, the stepped water tank and the tunnel to the south inside.",
+   "somewhere-to-chill": "Climb an observation tower and just take in the sweeping view of the Arabian Sea.",
+   "surprise-me": "Lonely Planet once picked Bekal as one of its top ten travel destinations."
   },
   "seeFirst": {
-   "caption": "In and around the fort",
+   "caption": "All inside the fort",
    "spots": [
     {
-     "name": "Bekal Fort walls",
-     "detail": "In front of you · Walk the whole circle",
+     "name": "Bekal Fort",
+     "detail": "1 min walk · Battlement walls, gates, tunnels and sea views",
      "status": {
-      "text": "Daytime",
-      "tone": "neutral"
-     },
-     "illustration": "palace"
-    },
-    {
-     "name": "Observation tower",
-     "detail": "Inside the fort · Views down the coast",
-     "status": {
-      "text": "Daytime",
-      "tone": "neutral"
-     },
-     "illustration": "palace"
-    },
-    {
-     "name": "Bekal Beach",
-     "detail": "Next to the fort · Palm-lined sand",
-     "status": {
-      "text": "Evenings",
+      "text": "8AM to 5:30PM",
       "tone": "open"
      },
-     "illustration": "warehouses"
+     "illustration": "palace"
+    },
+    {
+     "name": "Mukhyaprana Hanuman Temple",
+     "detail": "Inside the fort · A temple within the walls",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Water Tank with steps",
+     "detail": "Inside the fort · An old stepped tank",
+     "status": {
+      "text": "Watch your step",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
     }
    ]
   },
   "legends": [
    {
-    "where": "The walls",
-    "title": "Holes for spying",
-    "body": "Look closely at the walls. They're full of small holes, angled so defenders could fire at ships on the sea and the shore."
+    "where": "Observation towers",
+    "title": "Where the cannons stood",
+    "body": "The tall towers you can climb today once held huge cannons, a couple of centuries ago. Picture them pointed out over the Arabian Sea."
    },
    {
-    "where": "The gate",
-    "title": "A temple at the door",
-    "body": "A Hanuman temple stands at the fort's entrance, and an old mosque from Tipu Sultan's time is nearby."
+    "where": "The fort",
+    "title": "A giant keyhole",
+    "body": "Bekal Fort is famous for its shape, which looks like a giant keyhole. It's the biggest fort anywhere in Kerala."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Late afternoon is best.",
-    "body": "The heat drops and the sunset lights up the walls."
+    "title": "Go between 8AM and 5:30PM.",
+    "body": "Those are the fort's opening hours, so plan around them."
    },
    {
     "icon": "tag",
-    "title": "Keep your ticket.",
-    "body": "You may need it to re-enter after a walk on the beach."
+    "title": "Dress modestly for the temple.",
+    "body": "The Mukhyaprana Hanuman Temple sits inside the fort, so cover up a little if you want to look in."
    }
   ],
   "story": [
    {
     "era": "1650",
-    "title": "The Nayakas build",
-    "body": "Shivappa Nayaka of Keladi built the fort to guard this stretch of coast.",
+    "title": "Shivappa Nayaka builds",
+    "body": "Shivappa Nayaka of Keladi built Bekal Fort in 1650 AD. It spread over 40 acres beside the beach.",
     "illustration": "palace"
    },
    {
-    "era": "1700s",
-    "title": "Tipu Sultan",
-    "body": "Tipu Sultan took Bekal as he pushed into Malabar, and used it as a base.",
+    "era": "A couple of centuries ago",
+    "title": "Cannons on the towers",
+    "body": "The fort's tall observation towers carried huge cannons. They looked straight out over the Arabian Sea.",
     "illustration": "palace"
    },
    {
-    "era": "1799",
-    "title": "The British arrive",
-    "body": "After Tipu's defeat, the East India Company took over the fort.",
+    "era": "Recently",
+    "title": "On the travel map",
+    "body": "Lonely Planet named Bekal one of its top ten travel destinations. A beach park with a food court and amusement rides opened nearby.",
     "illustration": "palace"
    },
    {
-    "era": "1995",
-    "title": "A film star",
-    "body": "The rain song in Mani Ratnam's film Bombay made Bekal famous all over India.",
+    "era": "Coming up",
+    "title": "Seaplanes, maybe",
+    "body": "Kerala is reviewing a plan for seaplanes linking Bekal with Kollam Ashtamudi, Kumarakom, Punnamada and the Paravur backwaters.",
     "illustration": "flood"
-   },
-   {
-    "era": "Today",
-    "title": "Your turn",
-    "body": "Walk the walls, climb the tower, then watch the sunset from the beach. Tell me what you could see from the top.",
-    "illustration": "palace"
    }
   ],
-  "food": [
-   {
-    "name": "Fish curry meals near the fort",
-    "detail": "Fish curry and rice · ₹ · 5 min drive",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "seafood",
-     "cheap"
-    ],
-    "illustration": "seafood"
-   }
-  ]
+  "food": []
  }
 }

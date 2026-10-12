@@ -1,0 +1,124 @@
+{
+ "query": "Thamarassery, Kozhikode",
+ "region": "kerala",
+ "name": "Thamarassery",
+ "draft": {
+  "briefing": "Hey, you're in Thamarassery! About 20 km away, two streams meet at Thusharagiri Falls to form the Chalippuzha river, and 'Thushara' means snow because the falls look snowy. The highest of its three branches drops 75 metres.",
+  "hungryLine": "Up the ghat road at Adivaram, look for Kuzhimanthi, chicken cooked in a pit. In town there are a few solid local spots.",
+  "moodReplies": {
+   "show-me-around": "Pop over to the Sri Rama Swamy temple 2 km away, then cross the Vennakkad Hanging Bridge near South Koduvally.",
+   "somewhere-to-chill": "Head to Thusharagiri Falls, 20 km out, and just listen to the water for a while.",
+   "surprise-me": "Vavul Mala peak on the Vellari Mala range nearby rises to 2,339 metres, and you can only reach those hills on foot."
+  },
+  "seeFirst": {
+   "caption": "Short drives from town",
+   "spots": [
+    {
+     "name": "Sri Rama Swamy temple",
+     "detail": "2 km · Scenic surroundings on Kozhikode Road",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Vennakkad Hanging Bridge",
+     "detail": "8 km · A walk across the bridge near South Koduvally",
+     "status": {
+      "text": "Daytime visit",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Thusharagiri Falls",
+     "detail": "20 km · Snowy-looking falls, good for treks",
+     "status": {
+      "text": "Check water levels",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thusharagiri Falls",
+    "title": "The snow falls",
+    "body": "There's no snow in these hills, but the falls got the name Thushara, meaning snow, because the water looks so white. Two streams join here to make the Chalippuzha river."
+   },
+   {
+    "where": "Odungakkad Dargah",
+    "title": "A shrine that feeds you",
+    "body": "Odungakkad Dargah, on the Kalpetta road, is an ancient forest shrine. It keeps an old custom of giving free food to devotees from time to time."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Join the first-Friday walk.",
+    "body": "A holy walk from Adivaram to Lakkidi, about 10 km, starts at 8 AM on the first Friday of every month."
+   },
+   {
+    "icon": "tag",
+    "title": "Pack lunch for Kakkayam.",
+    "body": "Buy your picnic in Thalayil town, as nothing is available beyond it on the way to Kakkayam Dam."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Rivers from the hills",
+    "body": "Streams from these hills meet at Thusharagiri to form the Chalippuzha river, and the Vellari Mala range rises to 2,339 metres at Vavul Mala.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Ancient times",
+    "title": "A forest shrine",
+    "body": "Odungakkad Dargah grew up as a shrine in the forest on the road towards Kalpetta.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "Campuses in the hills",
+    "body": "Big campuses now sit nearby: the National Institute of Technology on 300 acres and the Indian Institute of Management on 97 acres, both near Kunnamangalam.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hasthinapuri Restaurant",
+    "detail": "Upmarket sit-down meal in Chungam",
+    "status": {
+     "text": "In Thamarassery",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Zain family restaurant",
+    "detail": "Family meals near the KSRTC workshop, about 1 km out",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "K. R. Bakery",
+    "detail": "Snacks and bakes near HDFC Bank, about 1 km out",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

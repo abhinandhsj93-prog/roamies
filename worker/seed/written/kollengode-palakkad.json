@@ -1,0 +1,83 @@
+{
+ "query": "Kollengode, Palakkad",
+ "region": "kerala",
+ "name": "Kollengode",
+ "draft": {
+  "briefing": "Hey, you're in Kollengode! This Palakkad town runs the show for both its grama panchayat and its block panchayat. Its railway station isn't actually in town, it's out at Oottara, where the roads split off towards Muthalamada and Pollachi.",
+  "hungryLine": "I don't have a named eatery to send you to here, so look for a plain Kerala meals place in town, and if it's Onam, ask about the Onasadya feast.",
+  "moodReplies": {
+   "show-me-around": "Walk into the middle of Kollengode, then head out to Oottara where the railway station sits on the Palakkad road.",
+   "somewhere-to-chill": "Find a quiet corner in town and watch the State Highway 58 traffic roll through at its own Palakkad pace.",
+   "surprise-me": "In the 2011 census, both halves of Kollengode, Kollengode-I and Kollengode-II, had more women than men."
+  },
+  "seeFirst": {
+   "caption": "Around Kollengode",
+   "spots": [
+    {
+     "name": "Kollengode",
+     "detail": "12 min walk · The town centre and panchayat headquarters",
+     "status": {
+      "text": "Busy in the daytime",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Oottara",
+     "detail": "Short drive · Kollengode railway station and the road to Pollachi",
+     "status": {
+      "text": "Check train timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Houses of worship",
+    "title": "Every one is a palli",
+    "body": "In Kerala, mosques and churches are both called palli rather than masjid. Many old mosques here also look like Kerala temples instead of following Persian styles."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack for rain.",
+    "body": "Kerala gets rain for at least seven to eight months a year, so keep an umbrella handy."
+   },
+   {
+    "icon": "tag",
+    "title": "Come by train or plane.",
+    "body": "Kollengode railway station is at Oottara, and the nearest airport is Coimbatore, around 70 km away."
+   }
+  ],
+  "story": [
+   {
+    "era": "2011",
+    "title": "Two Kollengodes",
+    "body": "The census counted Kollengode in two parts. Kollengode-I had 18,258 people and Kollengode-II had 11,329.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A headquarters town",
+    "body": "Kollengode is the seat of both Kollengode Grama Panchayat and Kollengode Block Panchayat. State Highway 58 passes right through it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "The station at Oottara",
+    "body": "Oottara, a small spot in Vadavannur Panchayat, holds Kollengode railway station. From there roads lead to Malayampallam, Muthalamada and on to Pollachi.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Your turn",
+    "title": "Pick a road",
+    "body": "Start in town, ride out to Oottara and choose a direction. Tell me which way you went.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

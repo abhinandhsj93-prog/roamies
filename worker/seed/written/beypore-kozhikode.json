@@ -1,39 +1,41 @@
 {
  "query": "Beypore, Kozhikode",
+ "region": "kerala",
+ "name": "Beypore",
  "draft": {
-  "briefing": "Hey, you're in Beypore! Carpenters here have built wooden ships called uru by hand for centuries, without any drawings. Some are still sold to buyers in the Gulf.",
-  "hungryLine": "Beypore eats fish straight off the boats. Ask what came in today.",
+  "briefing": "Hey, you're in Beypore! This is one of the oldest ports in Kerala, and its yards are known for building wooden ships called urus. Arab merchants used to buy them for trading and fishing, and these days they're used as tourist ships.",
+  "hungryLine": "Beypore eats Malabar style, so go for a gently spiced Malabar biriyani, and try arikadaka, mussels cooked in their shells with rice flour.",
   "moodReplies": {
-   "show-me-around": "Visit an uru-building yard, then walk out on the long breakwater into the sea.",
-   "somewhere-to-chill": "Walk to the end of the Pulimuttu breakwater and watch the river meet the sea.",
-   "surprise-me": "Vaikom Muhammad Basheer, one of Malayalam's best-loved writers, lived here. People still call him the Sultan of Beypore."
+   "show-me-around": "Start at the uru building yard by the mouth of the Beypore river, then check out the lighthouse and the beach.",
+   "somewhere-to-chill": "Walk the Beypore Pulimoott, a 1 km tiled walkway out into the sea. Go early, it gets packed later.",
+   "surprise-me": "Kerala's very first railway line was laid in 1861, running from Tirur to Beypore."
   },
   "seeFirst": {
    "caption": "Around Beypore",
    "spots": [
     {
-     "name": "Uru shipbuilding yards",
-     "detail": "In Beypore · Wooden ships made by hand",
+     "name": "Traditional boat (Urus) building yard",
+     "detail": "At the river mouth · See wooden urus being built",
      "status": {
-      "text": "Ask before going in",
+      "text": "Ask before you go in",
       "tone": "neutral"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Beypore breakwater",
-     "detail": "5 min drive · A long walk into the sea",
+     "name": "Beypore Beach",
+     "detail": "In Beypore · The town's main attraction",
      "status": {
-      "text": "Best at sunset",
+      "text": "Best early morning",
       "tone": "open"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Beypore Beach",
-     "detail": "5 min drive · Quiet sands",
+     "name": "Marine Cemetery",
+     "detail": "Short drive · Art made from 2,000 plastic bottles off the beach",
      "status": {
-      "text": "Evenings",
+      "text": "Free to look",
       "tone": "open"
      },
      "illustration": "warehouses"
@@ -42,74 +44,60 @@
   },
   "legends": [
    {
-    "where": "The yards",
-    "title": "Ships built by memory",
-    "body": "Uru builders learn by working alongside their elders. The measurements are passed down by eye and memory, not plans."
+    "where": "The boatyards",
+    "title": "Sumerian ships?",
+    "body": "Captain Iwata of Japan's Association of Sumerian Ships reckons Sumerian ships might have been built right here in Beypore. There's evidence Beypore traded directly with Mesopotamia."
    },
    {
-    "where": "Basheer's home",
-    "title": "The Sultan of Beypore",
-    "body": "Basheer wrote many of his famous stories here, under a mangosteen tree in his yard."
+    "where": "Meenchanda",
+    "title": "A fort turned school",
+    "body": "Over in Meenchanda, a fort of the Samudhiri royal family now houses the NSS high school. Students walk where royals once did."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Walk the breakwater in the evening.",
-    "body": "The sun sets right at the end of it."
+    "title": "Go early to the Pulimoott and harbour.",
+    "body": "The walkway is crowded except in the early morning, and the harbour is at its busiest with fishermen then."
    },
    {
     "icon": "tag",
-    "title": "Uru replicas make good souvenirs.",
-    "body": "Small models are sold in town."
+    "title": "Learn the Malayalam food names.",
+    "body": "Mussels are kallummakkaya here, and people will happily help you order."
    }
   ],
   "story": [
    {
-    "era": "Over 1,500 years ago",
-    "title": "Shipbuilders of the coast",
-    "body": "Beypore's carpenters were building trading ships for Arab merchants long before Europeans came.",
-    "illustration": "warehouses"
-   },
-   {
-    "era": "1700s",
-    "title": "Tipu's port",
-    "body": "Tipu Sultan planned a port here and called it Sultan Pattanam.",
+    "era": "Ancient times",
+    "title": "On the silk route",
+    "body": "Beypore had direct trade links with Mesopotamia and was a key stop on the maritime silk route. Back then it went by names like Vaypura and Beydary.",
     "illustration": "pepper"
    },
    {
-    "era": "1800s",
-    "title": "The railway that wasn't",
-    "body": "Beypore was meant to be the end of the Madras railway line, but the plan moved to Kozhikode.",
-    "illustration": "warehouses"
-   },
-   {
-    "era": "1900s",
-    "title": "Basheer's Beypore",
-    "body": "The writer Vaikom Muhammad Basheer made his home here, and Beypore became a pilgrimage for readers.",
+    "era": "Tipu Sultan's time",
+    "title": "Sultan Pattanam",
+    "body": "Tipu Sultan, ruler of Mysore, renamed the town Sultan Pattanam. The port kept trading with the Middle East.",
     "illustration": "palace"
    },
    {
-    "era": "Today",
-    "title": "Your turn",
-    "body": "Watch an uru take shape, walk the breakwater, and eat what the boats brought in. Tell me how big the ship you saw was.",
+    "era": "1861",
+    "title": "Kerala's first train",
+    "body": "The first railway line in Kerala was laid from Tirur to Beypore, through Tanur, Parappanangadi, Vallikkunnu and Kadalundi.",
     "illustration": "warehouses"
+   },
+   {
+    "era": "1989",
+    "title": "Weavers' shuttle",
+    "body": "Tasara, a centre for creative handweaving, opened in Beypore. It grew out of Spider Weavers, set up in 1977.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2019",
+    "title": "Art from the beach",
+    "body": "The Marine Cemetery opened on Beypore beach, made from 2,000 plastic bottles collected there. It honours nine endangered sea and river species.",
+    "illustration": "flood"
    }
   ],
-  "food": [
-   {
-    "name": "Fish stalls near the harbour",
-    "detail": "Fresh fried fish · ₹ · near the jetty",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "seafood",
-     "cheap"
-    ],
-    "illustration": "seafood"
-   }
-  ]
+  "food": []
  }
 }

@@ -1,0 +1,116 @@
+{
+ "query": "Kottayam",
+ "region": "kerala",
+ "name": "Kottayam",
+ "draft": {
+  "briefing": "Hey, you're in Kottayam! It was India's first 100% literate city, and with more than a dozen publishing houses and newspapers based here, people call it the Letter Capital of Kerala. Out here among the rubber trees near Lakkattoor, even the village name comes from jackfruit.",
+  "hungryLine": "Stick to Kerala food in Kottayam, it's good and everywhere, and the bakeries for fresh bread and snacks are worth a stop.",
+  "moodReplies": {
+   "show-me-around": "Wander into Lakkattoor, then on to Mattakkara, the biggest kara in the district. In town, the Thirunakkara Mahadeva Temple has murals from the epics.",
+   "somewhere-to-chill": "Head to Nalumanikkattu Paddy Fields on the Manarcaud to Ettumanoor road for green views and local food.",
+   "surprise-me": "The Thazhathangady Juma Masjid on the Meenachil river is more than 1,000 years old and is also called the Taj Juma Masjid."
+  },
+  "seeFirst": {
+   "caption": "Around you and in town",
+   "spots": [
+    {
+     "name": "Lakkattoor",
+     "detail": "11 min walk · A hilly village of streams and rubber trees",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mattakkara",
+     "detail": "22 min walk · The biggest kara in Kottayam",
+     "status": {
+      "text": "Local roads only",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Thirunakkara Mahadeva Temple",
+     "detail": "Kottayam town centre · A 16th century Shiva temple with murals",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Lakkattoor",
+    "title": "The jackfruit village",
+    "body": "It's believed the name Lakkattoor changed from Plakkattoor, because the area is full of jackfruit trees. Jackfruit is called plakka here."
+   },
+   {
+    "where": "Elaveezha Poonchira",
+    "title": "Panchali's bathing pool",
+    "body": "Local folklore says a pool in these hills was a bathing place for Panchali, the heroine of the Mahabharata. The name of the valley means the place where leaves do not fall."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Say if you don't eat beef.",
+    "body": "Beef is a staple in Kottayam, and a meat roll will very likely have beef in it."
+   },
+   {
+    "icon": "sun",
+    "title": "Come for the boat races.",
+    "body": "Around 50 types of traditional boats race in July, August and September during Onam."
+   }
+  ],
+  "story": [
+   {
+    "era": "1500s",
+    "title": "A royal Shiva temple",
+    "body": "The Raja of Thekkumkur built the Thirunakkara Mahadeva Temple at the start of the 16th century. Its walls inside carry murals from the Hindu epics.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1579",
+    "title": "The Little Church",
+    "body": "The same Raja of Thekkumkur built St. Mary's Cheria Palli for his Christian subjects. Its murals of Bible stories were painted with vegetable dyes.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Travancore days",
+    "title": "Ullatt karthas",
+    "body": "Under old Travancore rule, the Mattakkara area was the domain of the Ullatt karthas. Today the area has about 90% literacy.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1911",
+    "title": "Bells from Germany",
+    "body": "Three bells were brought from Germany for St. Mary's Forane Church at Kuravilangad. The church already had a granite cross from around 1597, cut from a single 48 foot block.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "The Letter Capital",
+    "body": "Kottayam is home to over a dozen publishing houses and newspapers, several famous colleges and a university. Grab a paper and see for yourself.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Indian Coffee House",
+    "detail": "M.L. Road, Kottayam · Simple Kerala food in town",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

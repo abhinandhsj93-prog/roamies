@@ -1,0 +1,120 @@
+{
+ "query": "Pala, Kottayam",
+ "region": "kerala",
+ "name": "Pala",
+ "draft": {
+  "briefing": "Hey, you're in Pala! This town on the Meenachil River is a major hub of Syrian Christian culture, and it's surrounded by rubber plantations, rivers and hills.",
+  "hungryLine": "Pala eats Syrian Christian style. Try drum-cut tapioca with green chilli, onion and coconut oil, or mashed jackfruit with beef curry.",
+  "moodReplies": {
+   "show-me-around": "The tall granite Shrine of St. Mary is right in the heart of town. Kadappattur Temple is about 1.5 km away on the Meenachil.",
+   "somewhere-to-chill": "Head down to the Meenachil River for a quiet hour, or watch rubber being tapped on a plantation nearby.",
+   "surprise-me": "The Shrine of St. Mary has a massive statue of Jesus Christ on top. Wikivoyage compares it to the one in Rio de Janeiro, size aside."
+  },
+  "seeFirst": {
+   "caption": "In and around Pala",
+   "spots": [
+    {
+     "name": "Shrine of St. Mary",
+     "detail": "In the heart of town · Tall granite shrine with a huge statue",
+     "status": {
+      "text": "Big feast in early December",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kadappattur Temple",
+     "detail": "1.5 km away · Shiva temple on the Meenachil",
+     "status": {
+      "text": "Busy with Sabarimala pilgrims",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bharananganam Church",
+     "detail": "Pilgrim church · Where St. Alphonsa's mortal remains are kept",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kadappattur Temple",
+    "title": "The day the idol appeared",
+    "body": "Every year on 14 July, people celebrate the birthday of Kadappatturappan. It's said that's the day the idol appeared."
+   },
+   {
+    "where": "Panthathala",
+    "title": "The famous toddy shop",
+    "body": "Panthathala is a rubber-farming village on the Meenachil near Pala. Its toddy shop was famous in the 1980s and 90s, back when pre-degree courses were the norm."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in early December.",
+    "body": "The feast of St. Mary, Pala's biggest festival, falls in the first week of December, and Pala Jubilee is on 7 December."
+   },
+   {
+    "icon": "tag",
+    "title": "Be careful with toddy.",
+    "body": "Good palm toddy can't be guaranteed unless it comes straight from the tree, and spurious additives are not uncommon."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Old churches",
+    "body": "Lalam Old Church is one of the oldest churches in the region. Pala grew into a major hub of Syrian Christian culture in Kerala.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Plantation days",
+    "title": "Rubber town",
+    "body": "Pala became a plantation town, deeply tied to natural rubber. Villages around it, like Panthathala, still live mostly by rubber farming.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2011",
+    "title": "A small busy town",
+    "body": "The 2011 census counted 22,056 people in Pala. It's also the headquarters of Meenachil Taluk.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrims and feasts",
+    "body": "Pilgrims come for St. Alphonsa at Bharananganam and stop at Kadappattur on the way to Sabarimala. December brings the feast of St. Mary and Pala Jubilee.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Coffee and Snacks",
+    "detail": "Near Kurishupally · Cutlet, vellayappam, dosa and beef fry",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Ann's Bake House",
+    "detail": "Short eats, cakes and pastries, cheaper than in the big cities",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

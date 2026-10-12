@@ -1,0 +1,82 @@
+{
+ "query": "Gavi, Pathanamthitta",
+ "region": "kerala",
+ "name": "Gavi",
+ "draft": {
+  "briefing": "Hey, you're in Gavi! Until 2012 hardly anyone had heard of this village. Then the Malayalam movie Ordinary was shot mostly here, and Gavi became a major tourist spot.",
+  "hungryLine": "Gavi is remote, the nearest railway station is 120 km away, so bring snacks and water with you.",
+  "moodReplies": {
+   "show-me-around": "Walk about 10 minutes to Gavi Dam, a small stone dam on the Gaviyar, a tributary of the Pamba.",
+   "somewhere-to-chill": "Sit by the reservoir behind Gavi Dam and enjoy how far you are from everything.",
+   "surprise-me": "The water here doesn't stay put. It's sent through a tunnel to the Meenar reservoir as part of the Sabarigiri power project."
+  },
+  "seeFirst": {
+   "caption": "Around Gavi and on the way",
+   "spots": [
+    {
+     "name": "Gavi Dam",
+     "detail": "10 min walk · Small masonry dam with a shared reservoir",
+     "status": {
+      "text": "Daytime only",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Konni Elephant Cage",
+     "detail": "11 km from Pathanamthitta · Where wild elephants were once tamed",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Konni",
+    "title": "The elephant cages",
+    "body": "In the past, wild elephants caught in the forests were brought to Konni and kept in wooden cages called Anakoodu. There they were tamed and trained for work."
+   },
+   {
+    "where": "Gavi",
+    "title": "Famous on film",
+    "body": "Gavi was the main location for the Malayalam movie Ordinary. If the place looks familiar, that's probably why."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Start early.",
+    "body": "Gavi is 28 km southwest of Vandiperiyar on forest roads, so give yourself plenty of daylight."
+   },
+   {
+    "icon": "tag",
+    "title": "Come by road.",
+    "body": "The nearest railway station is Thiruvalla, 120 km away, so plan on driving in."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Forest and elephants",
+    "body": "The forests around Konni and Gavi were where wild elephants were caught. They were taken to Konni to be tamed in wooden cages.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1990",
+    "title": "A dam on the Gaviyar",
+    "body": "Gavi Dam was finished as part of the Sabarigiri hydroelectric project, the second largest in Kerala. It's 17 metres high and 113 metres long.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2012",
+    "title": "Ordinary changes everything",
+    "body": "The film Ordinary was mostly shot in Gavi. After its release the quiet village became a major tourist destination.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

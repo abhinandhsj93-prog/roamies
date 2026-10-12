@@ -1,0 +1,130 @@
+{
+ "query": "Perinthalmanna, Malappuram",
+ "region": "kerala",
+ "name": "Perinthalmanna",
+ "draft": {
+  "briefing": "Hey, you're in Perinthalmanna, known as the hospital city of Kerala! Under British rule it was the headquarters of Walluvanad Taluk, and nearby Angadippuram was the capital of the old Walluvanad kingdom.",
+  "hungryLine": "You're right by Manathumangalam bypass, a food street packed with Malabar Muslim food, kuzhimandhi and Tamil restaurants.",
+  "moodReplies": {
+   "show-me-around": "Head to Angadippuram, about 5 km away, the temple town that was once Walluvanad's capital. Valyangadi Palli, the oldest mosque in the region, is in town too.",
+   "somewhere-to-chill": "Kurilumala is a little hillock near the bus stand, good for an easy evening walk.",
+   "surprise-me": "Elamkulam Mana in this area is the birthplace of E.M.S. Namboodiripad, the famous Kerala political leader."
+  },
+  "seeFirst": {
+   "caption": "In and around town",
+   "spots": [
+    {
+     "name": "Angadippuram",
+     "detail": "About 5 km away · Temple town and old Walluvanad capital",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Valyangadi Palli",
+     "detail": "In town · Oldest mosque in the region",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kodikuthimala",
+     "detail": "Hill 2,000 feet above sea level",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Pulamanthole Mana",
+    "title": "The old healers",
+    "body": "Pulamanthole Mana is known as an ancient herbal medicine centre. It's a reminder of how far back healing traditions go around here."
+   },
+   {
+    "where": "Poonthanam Illam",
+    "title": "The poet's home",
+    "body": "Poonthanam Illam at Kizhattoor is the historic home of the poet Poonthanam. It stands among paddy fields on the Nilambur road."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Come hungry to the bypass.",
+    "body": "Most places on Manathumangalam bypass are non-veg, but Omkar and Annapoorna are vegetarian."
+   },
+   {
+    "icon": "sun",
+    "title": "Go up Kodikuthimala early.",
+    "body": "It's 2,000 feet above sea level, and the cooler morning makes the climb easier."
+   }
+  ],
+  "story": [
+   {
+    "era": "About 500 AD",
+    "title": "Walluvanad rises",
+    "body": "Angadippuram became the capital of Walluvanad, a kingdom that lasted from about 500 AD until the British era.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Walluvanad era",
+    "title": "Temple of the kings",
+    "body": "The kings of Walluvanad built Thirumandhankunnu Temple at Angadippuram, with the goddess Bhagavathi as the main deity.",
+    "illustration": "palace"
+   },
+   {
+    "era": "British rule",
+    "title": "Taluk headquarters",
+    "body": "Perinthalmanna was the headquarters of the old Walluvanad Taluk in Malabar district.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Hospital city",
+    "body": "It's a municipality and taluk centre on the Kozhikode-Palakkad National Highway 966, known as the hospital city of Kerala. Manathumangalam, where you are, is its second ward and a busy commercial area.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Omkar Pure Vegetarian restaurant",
+    "detail": "Manathumangalam bypass junction · Pure vegetarian",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Nahdi Kuzhimandhi",
+    "detail": "Pattambi Road · Many varieties of kuzhi mandhi",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Mazali Restaurant",
+    "detail": "Manathumangalam bypass · Non-veg family restaurant",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

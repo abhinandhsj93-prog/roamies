@@ -1,0 +1,97 @@
+{
+ "query": "Parambikulam, Palakkad",
+ "region": "kerala",
+ "name": "Parambikulam",
+ "draft": {
+  "briefing": "Hey, you're in Parambikulam! The dam here sits in Kerala but is run and maintained by Tamil Nadu. In 2000 it ranked number one in India by volume among embankment dams.",
+  "hungryLine": "Eat before you head in. The places to eat that my sources name are back in Chittur and Thathamangalam.",
+  "moodReplies": {
+   "show-me-around": "The Parambikulam Aliyar Project Memorial and the Total Tribal Literacy Declaration monument are both about a 16 min walk away.",
+   "somewhere-to-chill": "Sit by the reservoir and take in the Western Ghats all around you.",
+   "surprise-me": "Parambikulam is a tiger reserve, and six tribal colonies live inside it."
+  },
+  "seeFirst": {
+   "caption": "Short walks from the dam",
+   "spots": [
+    {
+     "name": "Parambikulam Aliyar Project Memorial",
+     "detail": "16 min walk · Remembers the water project behind the dam",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Total Tribal Literacy Declaration Parambikulam",
+     "detail": "16 min walk · A monument to tribal literacy here",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Parambikulam Wildlife Sanctuary",
+     "detail": "All around you · Tiger reserve with six tribal colonies",
+     "status": {
+      "text": "Follow forest rules",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Chittur",
+    "title": "Ezhuthachan's last days",
+    "body": "Thunjathu Ramanujan Ezhuthachan, called the father of the Malayalam language, spent his last days on the banks of the Sokanashini at Chittur. His final resting place there is famous."
+   },
+   {
+    "where": "Chittur taluk",
+    "title": "The year the water stopped",
+    "body": "In 2004 Kerala got no water from the project after 10 February, and paddy dried up across thousands of acres in Chittur taluk. Under the deal, Kerala was supposed to receive 7.25 TMC feet of water a year."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Start early.",
+    "body": "Give yourself the whole day, since the memorials are a walk away and the reserve is big."
+   },
+   {
+    "icon": "tag",
+    "title": "Respect the tribal colonies.",
+    "body": "Six tribal colonies live inside the reserve, so ask before you take photos."
+   }
+  ],
+  "story": [
+   {
+    "era": "Kamaraj's time",
+    "title": "A dam is planned",
+    "body": "Parambikulam Dam was built in Kamarajar's time, as one of that period's major irrigation schemes. It's part of the Parambikulam-Aliyar Project.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2000",
+    "title": "Number one in India",
+    "body": "That year it ranked first in India by volume among embankment dams, and among the top ten in the world.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2012",
+    "title": "An accord on water",
+    "body": "In July 2006 Kerala's Water Resources Minister called for a review of the agreement. On 17 October 2012, Kerala and Tamil Nadu reached an accord on Parambikulam-Aliyar water.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Tiger country",
+    "body": "The forest around the dam is the Parambikulam Tiger Reserve, home to six tribal colonies.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

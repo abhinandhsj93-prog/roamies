@@ -1,40 +1,42 @@
 {
  "query": "Munnar, Idukki",
+ "region": "kerala",
+ "name": "Munnar",
  "draft": {
-  "briefing": "Hey, you're in Munnar! Three rivers meet here, which is where the name comes from: 'moonu aar', three rivers. Every hill you see is stitched with tea bushes, planted by hand since the 1880s.",
-  "hungryLine": "Munnar runs on tea and something fried to go with it. Here's where to get both.",
+  "briefing": "Hey, you're in Munnar! You're about 1,600 metres up in the Western Ghats, in an old plantation town that still runs on tea. It usually has the most pleasant temperatures in all of Kerala.",
+  "hungryLine": "Munnar is a tea town first, so start with a cup grown on the slopes around you, then ask around town for a meal.",
   "moodReplies": {
-   "show-me-around": "Start at the Tea Museum to see how the leaves are processed, then drive up to Eravikulam to meet the Nilgiri tahr.",
-   "somewhere-to-chill": "Find a bench above Mattupetty Dam, order a hot chai and watch the mist roll over the water.",
-   "surprise-me": "Anamudi, the peak you see from Eravikulam, is the highest point in India south of the Himalayas."
+   "show-me-around": "Mount Carmel Basilica is a 2 min walk, then the KDHP Tea Museum is about 2 km out to see how tea is processed. Save a morning for Eravikulam to meet the Nilgiri tahr.",
+   "somewhere-to-chill": "Head to Signal Point and look out over the Munnar Valley, with Chokarmudy and Anamudy hills in view. It's a properly relaxing spot.",
+   "surprise-me": "Anamudi, inside Eravikulam National Park, is 2,695 m, the highest peak south of the Himalayas."
   },
   "seeFirst": {
-   "caption": "Short drives from town",
+   "caption": "Close by and short drives",
    "spots": [
     {
-     "name": "Eravikulam National Park",
-     "detail": "30 min drive · Home of the Nilgiri tahr",
+     "name": "Mount Carmel Basilica",
+     "detail": "2 min walk · Wood-framed windows and a statue of Christ and the Virgin Mary",
      "status": {
-      "text": "Closes for the calving season around Feb to Mar",
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "KDHP Tea Museum",
+     "detail": "About 2 km away · A film, then a walk through the tea factory",
+     "status": {
+      "text": "Closed Mondays",
       "tone": "warning"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Tata Tea Museum",
-     "detail": "10 min drive · See tea made start to finish",
+     "name": "Eravikulam (Rajamalai) National Park",
+     "detail": "45 min away · Home of the Nilgiri tahr",
      "status": {
-      "text": "Closed Mondays",
+      "text": "Closed around Feb to Mar for tahr breeding",
       "tone": "warning"
-     },
-     "illustration": "palace"
-    },
-    {
-     "name": "Mattupetty Dam",
-     "detail": "25 min drive · Boating on a hill lake",
-     "status": {
-      "text": "Best in the morning",
-      "tone": "neutral"
      },
      "illustration": "warehouses"
     }
@@ -42,87 +44,60 @@
   },
   "legends": [
    {
-    "where": "Eravikulam",
-    "title": "A flower that waits twelve years",
-    "body": "Neelakurinji covers these hills in blue once every twelve years. The last big bloom was in 2018, so the next is due around 2030."
+    "where": "Signal Point",
+    "title": "Why it's called Cigarette Point",
+    "body": "Back in the early plantation days, junior managers used to gather at this viewpoint to smoke. The nickname stuck, and people still call it Cigarette Point."
    },
    {
-    "where": "Kundala Valley",
-    "title": "The railway that a flood took",
-    "body": "A little railway once carried tea down these hills. The great flood of 1924 washed it away, and it was never rebuilt."
+    "where": "Echo Point",
+    "title": "Friendship calls",
+    "body": "Shout from one spot on the lake embankment and the hills send it back to you many times over. Young visitors come here just to call out to their friends and hear it echo."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Pack a jacket.",
-    "body": "Mornings can drop below 10°C, even when Kochi is sweating."
+    "title": "Reach Eravikulam before 8:30AM.",
+    "body": "After that the ticket queue can take a couple of hours, and the whole visit can run 4-5 hours."
    },
    {
     "icon": "tag",
-    "title": "Buy tea at the factory outlets.",
-    "body": "Fresher and cheaper than the shops on the highway."
+    "title": "Pick a pedal boat at Kundala.",
+    "body": "Unless you really know how to row, a pedal boat is the easier way around the lake."
    }
   ],
   "story": [
    {
-    "era": "Long ago",
-    "title": "Forests and the Muthuvans",
-    "body": "Before any tea, these hills were thick shola forest. The Muthuvan people lived here, and legend says they carried their kings' children up into these hills on their backs.",
+    "era": "Stone Age",
+    "title": "The first people",
+    "body": "Around Marayoor, about 40 km away, there are natural caves with murals and relics from a late Stone Age civilisation. It's also the only place in Kerala where sandalwood grows naturally.",
     "illustration": "flood"
    },
    {
-    "era": "1870s",
-    "title": "A planter arrives",
-    "body": "John Daniel Munro, a British resident, leased this land from the Raja of Poonjar. Within a few years, planters were clearing slopes for coffee and then for tea.",
+    "era": "Before the Common Era",
+    "title": "Training warriors",
+    "body": "Kalarippayattu, the martial art you can watch in town, was used to train soldiers even before the Common Era. Today it's performed alongside Kathakali.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Plantation days",
+    "title": "A tea town",
+    "body": "Munnar grew as a plantation settlement dominated by tea. Old bungalows and cottages at Chithirapuram, about 10 km away, still carry that old world charm.",
     "illustration": "pepper"
    },
    {
-    "era": "1900s",
-    "title": "A tea town grows",
-    "body": "Factories, a ropeway and even a small railway moved the leaves. Munnar became one of the biggest tea districts in South India.",
+    "era": "1961",
+    "title": "Swiss cows in the hills",
+    "body": "Tamil migrant labourers once reared cattle at Mattupetty, and the cool climate made it ideal for the Indo-Swiss dairy farm, set up in 1961. It now rears more than 100 varieties of high-yielding cattle.",
     "illustration": "warehouses"
-   },
-   {
-    "era": "1924",
-    "title": "The great flood",
-    "body": "Monsoon rains in Malayalam year 1099 flooded the valley and swept away the railway. People here still call it the flood of '99.",
-    "illustration": "flood"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Walk a tea trail early, when the pickers start. Then come down for a hot chai and a banana fritter. Tell me if you spot a tahr.",
+    "title": "Hill station",
+    "body": "Munnar is now a growing modern hill station and a favourite with Indian honeymooners. Tell me if you spot a tahr.",
     "illustration": "warehouses"
    }
   ],
-  "food": [
-   {
-    "name": "Tea stalls in Munnar Bazaar",
-    "detail": "Chai and pazham pori · ₹ · in town",
-    "status": {
-     "text": "Busy from early morning",
-     "tone": "open"
-    },
-    "tags": [
-     "cheap",
-     "vegetarian"
-    ],
-    "illustration": "leafMeal"
-   },
-   {
-    "name": "Kerala meals in Munnar town",
-    "detail": "Rice on a banana leaf · ₹ · in town",
-    "status": {
-     "text": "Lunchtime",
-     "tone": "neutral"
-    },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   }
-  ]
+  "food": []
  }
 }

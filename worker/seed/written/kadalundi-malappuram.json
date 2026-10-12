@@ -1,0 +1,86 @@
+{
+ "query": "Kadalundi, Malappuram",
+ "region": "kerala",
+ "name": "Kadalundi",
+ "draft": {
+  "briefing": "Hey, you're in Kadalundi! This is where the Kadalundi River meets the Arabian Sea, and the cluster of islands at its mouth is a bird sanctuary. The estuary was also declared Kerala's very first community reserve.",
+  "hungryLine": "I don't have a named place to eat out here, so ask a local where they'd go for lunch.",
+  "moodReplies": {
+   "show-me-around": "The Kadalundi–Vallikkunnu Community Reserve is about a 16 min walk, and Kadalundi Bird Sanctuary is around 23 min, on the islands where the river flows into the sea.",
+   "somewhere-to-chill": "Head for Kadalundi Nagaram beach, where the river joins the sea at the estuary the locals call the Azhimukham.",
+   "surprise-me": "The railway through here is part of the oldest line in Kerala, laid in 1861 from Tirur to Chaliyam via Kadalundi."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Kadalundi Bird Sanctuary",
+     "detail": "23 min walk · Islands where the river meets the sea",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kadalundi–Vallikkunnu Community Reserve",
+     "detail": "16 min walk · Kerala's first community reserve",
+     "status": {
+      "text": "Ecotourism centre",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vallikkunnu",
+     "detail": "14 min walk · Village on the Kadalundi River",
+     "status": {
+      "text": "Quiet village",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go early for the birds.",
+    "body": "The sanctuary spreads over islands at the river mouth, and the quiet morning hours are best for spotting birds."
+   },
+   {
+    "icon": "tag",
+    "title": "Find the estuary.",
+    "body": "The Kadalundi River meets the Arabian Sea at Kadalundi Nagaram beach, inside Vallikkunnu panchayat."
+   }
+  ],
+  "story": [
+   {
+    "era": "1861",
+    "title": "Kerala's first railway",
+    "body": "One of Kerala's oldest railway lines was laid from Tirur to Chaliyam, passing through Vallikkunnu and Kadalundi.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1997",
+    "title": "Best panchayat",
+    "body": "Vallikkunnu, right next door, was named the best panchayat in Kerala.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2001",
+    "title": "The bridge disaster",
+    "body": "On 22 June 2001 a Mangalore-Chennai Mail fell into the Kadalundi river when a pillar of the 140-year-old bridge sank after heavy rain. 59 people were reported killed or missing.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2018",
+    "title": "A reserve for everyone",
+    "body": "In April 2018 the forest department declared the Kadalundi–Vallikkunnu Community Reserve an ecotourism centre.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

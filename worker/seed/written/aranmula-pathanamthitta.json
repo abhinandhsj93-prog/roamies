@@ -1,0 +1,97 @@
+{
+ "query": "Aranmula, Pathanamthitta",
+ "region": "kerala",
+ "name": "Aranmula",
+ "draft": {
+  "briefing": "Hey, you're in Aranmula! This temple town on the Pampa holds the oldest river boat festival in Kerala, where snake boats race in pairs to full-throated singing during Onam.",
+  "hungryLine": "The food to know here is the Aranmula Valla Sadhya, a feast served at the temple mainly during the Onam season.",
+  "moodReplies": {
+   "show-me-around": "Walk to the Aranmula Parthasarathy Temple, about 12 minutes away, then the Mangattu Palace close by.",
+   "somewhere-to-chill": "Take the 57 steps down from the temple's northern tower to the banks of the Pampa.",
+   "surprise-me": "The Thanka Anki, the golden attire of Lord Ayyappa at Sabarimala, is kept at the temple here."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Aranmula Parthasarathy Temple",
+     "detail": "12 min walk · Ancient Krishna temple with 18th century murals",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Aranmula Mangattu Palace",
+     "detail": "9 min walk · Royal palace where the family still lives",
+     "status": {
+      "text": "Private home, view respectfully",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Vijnana Kala Vedi",
+     "detail": "On the way to Kozhencherry · School for Kathakali, dance, music and Kalaripayattu",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Aranmula Parthasarathy Temple",
+    "title": "Arjuna's temple",
+    "body": "Legend says the five Pandavas each built one temple in Kerala, and this one was built by Arjuna. Krishna is worshipped here as Arjuna's charioteer."
+   },
+   {
+    "where": "The Pampa",
+    "title": "Boats from the Mahabharata",
+    "body": "The yearly snake boat race is linked to the legends of the Mahabharata. The boats move in pairs to the rhythm of singing and shouting."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come during Onam.",
+    "body": "The boat race and the Valla Sadhya both happen around Onam, in August to September."
+   },
+   {
+    "icon": "tag",
+    "title": "Be ready for steps.",
+    "body": "There are 18 steps up to the eastern tower and 57 steps down from the northern tower to the river."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient times",
+    "title": "Named in Tamil classics",
+    "body": "The Parthasarathy Temple is one of the 108 Divya Desams revered by the Alvar saints. It even finds mention in Tamil classics.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1700s",
+    "title": "Murals on the walls",
+    "body": "The temple's fine murals date from the 18th century. The Thanka Anki, donated by the king of Travancore, is also kept here.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2015 to 2017",
+    "title": "Rice instead of runways",
+    "body": "In 2015 the approval for a proposed airport was withdrawn. Farming restarted on the Aranmula Puncha paddy fields in 2016, and Aranmula Rice was launched in 2017.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2018",
+    "title": "The flood's discovery",
+    "body": "Floods on the Pampa that year exposed a terracotta archaeological site at Kozhippalam, about 1 km away.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

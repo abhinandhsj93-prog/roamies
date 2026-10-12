@@ -1,0 +1,71 @@
+{
+ "query": "Ramakkalmedu, Idukki",
+ "region": "kerala",
+ "name": "Ramakkalmedu",
+ "draft": {
+  "briefing": "Hey, you're in Ramakkalmedu! It's a little hill station hamlet in Idukki, known for its wide views and its many windmills. In 2019 historians found what may be the largest menhir ever recorded in Kerala on the Pothamala hills, in this same taluk.",
+  "hungryLine": "Ramakkalmedu is just a hamlet, so head to Nedumkandam, the taluk's main town, for a proper meal, and if it's Onam, find an Onasadya feast.",
+  "moodReplies": {
+   "show-me-around": "Walk up to the Ramakkalmedu viewpoint for the windmills and the big views, then explore the rest of Udumbanchola taluk.",
+   "somewhere-to-chill": "Pick a spot on the hill, watch the windmills turn and let the panorama do the work.",
+   "surprise-me": "The Pothamala hills in this taluk hold hundreds of cobbled stone structures, which historians think were a graveyard of a prehistoric civilization."
+  },
+  "seeFirst": {
+   "caption": "Around Ramakkalmedu",
+   "spots": [
+    {
+     "name": "Ramakkalmedu",
+     "detail": "9 min walk · Windmills and panoramic views",
+     "status": {
+      "text": "Clearest in the morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Udumbanchola",
+     "detail": "Around the taluk · Mathikettan Shola National Park and the Pothamala hills",
+     "status": {
+      "text": "Ask locally about access",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack for rain.",
+    "body": "Kerala gets rain for at least seven to eight months a year, so carry a rain layer up the hill."
+   },
+   {
+    "icon": "tag",
+    "title": "Onam falls in Aug or Sep.",
+    "body": "Onam is Kerala's biggest festival, held in the Malayalam month of Chingam, with floral carpets and the big Onasadya feast."
+   }
+  ],
+  "story": [
+   {
+    "era": "Prehistoric times",
+    "title": "A hill of graves",
+    "body": "The Pothamala hills in Udumbanchola taluk hold hundreds of cobbled stone structures. Historians say they point to a structured graveyard of a prehistoric civilization.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "July 2019",
+    "title": "A giant stone",
+    "body": "A team of historians found a new menhir on the Pothamala hills, on the Kerala-Tamil Nadu border. It may be the largest ever recorded in Kerala.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Wind on the hills",
+    "body": "Ramakkalmedu is a hill station hamlet known for its views and its many windmills. Nedumkandam is the main town of the taluk.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

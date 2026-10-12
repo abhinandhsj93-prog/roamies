@@ -1,0 +1,134 @@
+{
+ "query": "Cherthala, Alappuzha",
+ "region": "kerala",
+ "name": "Cherthala",
+ "draft": {
+  "briefing": "Hey, you're in Cherthala! The pooram at the Karthyayani Devi Temple here is called the second most famous pooram in Kerala. Head west and you hit a string of beaches, some of which are never crowded.",
+  "hungryLine": "Cherthala is seafood country, think fish roast and fish curries, washed down with tender coconut picked right in front of you.",
+  "moodReplies": {
+   "show-me-around": "Velorvattom Sri Mahadeva Temple is a 7 minute walk and Kuttikattu Sree Bhadra Kali Devi Temple is about 9, both easy starts.",
+   "somewhere-to-chill": "Go to Andhakaranazhy Beach, about 10 km from town, for the sunset.",
+   "surprise-me": "Velorvattom Sri Mahadeva Temple is one of the few temples in Kerala with two Nalambalams and two flagmasts."
+  },
+  "seeFirst": {
+   "caption": "Short walks and a short drive",
+   "spots": [
+    {
+     "name": "Velorvattom Sri Mahadeva Temple",
+     "detail": "7 min walk · One of the 108 Shiva temples, with two flagmasts",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kuttikattu Sree Bhadra Kali Devi Temple",
+     "detail": "9 min walk · A local Bhadrakali temple",
+     "status": {
+      "text": "Respect temple etiquette",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Karthyayani Devi Temple, Cherthala",
+     "detail": "Short drive · Home of the famous Cherthala pooram",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Velorvattom Sri Mahadeva Temple",
+    "title": "Parasurama's Shiva",
+    "body": "Legend says Kerala is the land gifted by Lord Parasurama. The sage is said to have installed the Shiva idol here himself."
+   },
+   {
+    "where": "Thankey Church",
+    "title": "The miraculous statue",
+    "body": "The church's statue of the Passion of Our Lord is held to be miraculous. Thousands come every year on a pilgrimage of repentance and new beginnings."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Save the evening for the beach.",
+    "body": "Andhakaranazhy Beach, about 10 km away, is the best sunset spot around town."
+   },
+   {
+    "icon": "tag",
+    "title": "Mind temple etiquette.",
+    "body": "Cherthala's temples are lovely places to sit, but take care not to break any customs or rules."
+   }
+  ],
+  "story": [
+   {
+    "era": "7th century",
+    "title": "An ancient Shiva temple",
+    "body": "Velorvattom Sri Mahadeva Temple is believed to have been built by Azhvanchery Thamprakkal. Its exact date of installation isn't known.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Portuguese times",
+    "title": "A shrine by the sea",
+    "body": "The Portuguese built the shrine at Arthunkal, and it is still kept intact. Today it's one of six basilicas in Kerala, with Arthunkal beach right in front.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Every year",
+    "title": "Pooram and pilgrims",
+    "body": "Cherthala pooram draws huge crowds to the Karthyayani Devi Temple. Thousands also head to Thankey Church on pilgrimage.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Beaches and backwaters",
+    "body": "Cherthala sits on National Highway 66, about 22 km north of Alappuzha. Beaches lie to the west and backwaters and Thanneermukkom to the east.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Meeshakkaran Dileepettans Restaurant",
+    "detail": "Near St. Michael's College · One of the most sought after seafood spots in town",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Onion Restaurant",
+    "detail": "Next to the KSRTC bus station · Kuzhimanthi, biriyani, fish curry and bakery snacks like kilikkoodu",
+    "status": {
+     "text": "Budget prices",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Four Brothers",
+    "detail": "Opposite the KSRTC bus station · A decent bakery for snacks",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

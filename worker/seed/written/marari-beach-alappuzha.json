@@ -1,28 +1,30 @@
 {
  "query": "Marari Beach, Alappuzha",
+ "region": "kerala",
+ "name": "Marari Beach",
  "draft": {
-  "briefing": "Hey, you're at Marari Beach! It's a quiet fishing beach, where wooden boats still head out at dawn. Mararikulam village behind it is lined with coconut palms and coir makers.",
-  "hungryLine": "Marari eats fish from the morning catch. Ask a homestay or beach shack what came in.",
+  "briefing": "Hey, you're in Marari Beach! A National Geographic survey rated this one of the world's top five hammock beaches. It sits at Mararikulam village, 11 km from Alappuzha town, and lots of travellers now pick it over Kovalam.",
+  "hungryLine": "Cherthala around here is seafood country, think barbecue lobster, fish roast, and a sweet tender coconut cut open right in front of you.",
   "moodReplies": {
-   "show-me-around": "Watch the boats come in at dawn, then cycle through the village lanes.",
-   "somewhere-to-chill": "Lie under the palms and let the day go slowly. That's what Marari is for.",
-   "surprise-me": "The Mararikulam Mahadeva temple is said to be over a thousand years old."
+   "show-me-around": "The sand is a 1 min walk away, and Mararikkulam Church is about 14 min on foot. Arthunkal Basilica in Cherthala is the big must-see, with its own beach right in front.",
+   "somewhere-to-chill": "It's a hammock beach, so take the hint and string one up. For something even quieter, Chethi, Thykkal and Ottamassery beaches are rarely crowded.",
+   "surprise-me": "Mararikulam was once an assembly seat, and in 1996 VS Achuthanandan lost here in a shock defeat that kept him from becoming Chief Minister for another decade."
   },
   "seeFirst": {
-   "caption": "Around Marari",
+   "caption": "Short walks from here",
    "spots": [
     {
      "name": "Marari Beach",
-     "detail": "In front of you · Quiet sand and fishing boats",
+     "detail": "1 min walk · A top five hammock beach",
      "status": {
-      "text": "Swim with care",
-      "tone": "warning"
+      "text": "Free to visit",
+      "tone": "open"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Mararikulam Mahadeva Temple",
-     "detail": "10 min drive · An old Shiva temple",
+     "name": "Mararikkulam Church",
+     "detail": "14 min walk · The village church",
      "status": {
       "text": "Dress modestly",
       "tone": "neutral"
@@ -30,84 +32,108 @@
      "illustration": "synagogue"
     },
     {
-     "name": "Coir-making villages",
-     "detail": "Nearby lanes · Coir spun by hand",
+     "name": "Arthunkal Basilica",
+     "detail": "In Cherthala · One of 6 basilicas in Kerala, with a beach in front",
      "status": {
-      "text": "Daytime",
+      "text": "Dress modestly",
       "tone": "neutral"
      },
-     "illustration": "warehouses"
+     "illustration": "synagogue"
     }
    ]
   },
   "legends": [
    {
-    "where": "The beach",
-    "title": "A beach for fishers",
-    "body": "Marari is a working beach first. Give the fishermen room when they haul in the nets."
+    "where": "Thankey Church",
+    "title": "The miraculous statue",
+    "body": "Every year thousands come to Thankey for a statue of the Passion of Our Lord that people call miraculous. It's a pilgrimage of repentance, about starting a new life."
    },
    {
-    "where": "Coir",
-    "title": "Rope from a husk",
-    "body": "Women in these villages soak coconut husks for months, then beat and spin them into rope."
+    "where": "Pathiramanal",
+    "title": "The midnight sands",
+    "body": "Pathiramanal means the midnight sands, an island near Cherthala that nobody lives on. It's left to the plants and birds, and boats can take you across."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Go at dawn.",
-    "body": "That's when the boats come in and the light is best."
+    "title": "Catch the sunset at Andhakaranazhy.",
+    "body": "It's just 10 km from Cherthala town and the best sunset spot around."
    },
    {
     "icon": "tag",
-    "title": "Ask before photographing.",
-    "body": "Fishermen are friendly but busy."
+    "title": "Mind temple etiquette.",
+    "body": "The local temples are lovely places to sit, but take care not to break any cultural practices."
    }
   ],
   "story": [
    {
-    "era": "Long ago",
-    "title": "Coconut coast",
-    "body": "This coast has lived on fishing and coconuts for centuries.",
-    "illustration": "flood"
-   },
-   {
-    "era": "Centuries ago",
-    "title": "The temple",
-    "body": "The Mahadeva temple became the heart of the village.",
+    "era": "Portuguese times",
+    "title": "Arthunkal's shrine",
+    "body": "The Portuguese made the shrine at Arthunkal, and it's still kept intact. Today it's one of six basilicas in Kerala.",
     "illustration": "synagogue"
    },
    {
-    "era": "1800s",
-    "title": "Coir",
-    "body": "Coir spinning spread through the villages and became a main source of work.",
-    "illustration": "warehouses"
+    "era": "1957",
+    "title": "A seat is born",
+    "body": "Mararikulam became a constituency in the Kerala Legislative Assembly. It was part of the Alleppey Lok Sabha seat.",
+    "illustration": "palace"
    },
    {
-    "era": "Recent years",
-    "title": "Quiet travel",
-    "body": "Small homestays and resorts brought travellers looking for a calmer beach.",
+    "era": "1996",
+    "title": "A shock defeat",
+    "body": "Communist leader VS Achuthanandan, who held the seat from 1991, lost here in 1996. He finally became Chief Minister in 2006, elected from Malampuzha instead.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2008",
+    "title": "The seat goes",
+    "body": "The constituency was dropped in the 2008 delimitation. Mararikulam stayed a village, home to volleyball player K. Udayakumar.",
     "illustration": "warehouses"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Dawn boats, a cycle through the village, then the hammock. Tell me how many boats you counted.",
+    "title": "Hammock beach",
+    "body": "National Geographic rated Marari one of the world's top five hammock beaches. Travellers now end their Kerala trips here before flying out of Cochin.",
     "illustration": "flood"
    }
   ],
   "food": [
    {
-    "name": "Beach shacks at Marari",
-    "detail": "Fresh fish fry · ₹₹ · on the beach",
+    "name": "Vasundhara Sarovar",
+    "detail": "Go for the live barbecue lobsters",
     "status": {
-     "text": "Lunch and dinner",
+     "text": "Check timings locally",
      "tone": "neutral"
     },
     "tags": [
      "seafood"
     ],
-    "illustration": "seafood"
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Vinoos Park",
+    "detail": "Locally famous for its fish roast",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Meeshakkaran Dileepettans Restaurant",
+    "detail": "In Mayithara, Cherthala · One of the most sought after seafood spots",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
    }
   ]
  }

@@ -1,0 +1,114 @@
+{
+ "query": "Kodungallur, Thrissur",
+ "region": "kerala",
+ "name": "Kodungallur",
+ "draft": {
+  "briefing": "Hey, you're in Kodungallur! This old port, once known as Muziris, is linked to the arrival of Christian, Muslim and Jewish communities in India. The Cheraman Juma Mosque here is often called the oldest mosque in India still in use.",
+  "hungryLine": "Kodungallur's go-to meal is a biriyani from Durbar.",
+  "moodReplies": {
+   "show-me-around": "Sree Kurumba Bhagavathy Temple is a 3 min walk, Raviswarapuram Siva Temple is about 10 min, and Cheraman Juma Mosque is around 15 min.",
+   "somewhere-to-chill": "Muziris Lakeshore Park on the Periyar backwaters is the spot for an evening and a big sunset.",
+   "surprise-me": "Thiruvanchikulam Temple has 33 sub-deities, more than any other temple in Kerala."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Kodungallur Sree Kurumba Bhagavathy Temple",
+     "detail": "3 min walk · Head of 64 Bhadrakali shrines in Malabar",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Raviswarapuram Siva Temple",
+     "detail": "10 min walk · Named in Sangam literature",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Cheraman Juma Mosque",
+     "detail": "15 min walk · Kerala-style mosque with hanging lamps",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thiruvanchikulam Temple",
+    "title": "The king who went to Kailasa",
+    "body": "Cheraman Perumal, the legendary king of Kerala, is believed to have gone to Kailasa from this temple with his friend, the Saiva saint Sundaramoorthi Nayanar."
+   },
+   {
+    "where": "Raviswarapuram Siva Temple",
+    "title": "Parashurama's idol",
+    "body": "According to folklore, the sage Parashurama installed the idol here. The temple is one of the 108 Shiva temples of Kerala."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time your Sringapuram visit.",
+    "body": "Sringapuram Mahadeva Temple opens 5:00 AM to 9:45 AM and 5:00 PM to 8:00 PM."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip Kottappuram Fort on Mondays.",
+    "body": "The ruined Portuguese fort is closed on Mondays and opens 10 am to 6 pm on other days."
+   }
+  ],
+  "story": [
+   {
+    "era": "52 AD",
+    "title": "St Thomas lands",
+    "body": "The apostle St Thomas is said to have landed in Kodungallur and set up the Mar Thoma Church.",
+    "illustration": "palace"
+   },
+   {
+    "era": "629 CE",
+    "title": "The old mosque",
+    "body": "Cheraman Juma Mosque is traditionally dated to 629 CE, though some scholars think it's from the 14th or 15th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1341",
+    "title": "The great flood",
+    "body": "The original mosque was destroyed in the great Periyar floods, then rebuilt.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1500s",
+    "title": "The Portuguese fort",
+    "body": "The Portuguese built Kottappuram Fort at the mouth of the Periyar River. It changed hands many times and is now in ruins.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2022",
+    "title": "A mosque restored",
+    "body": "A restoration removed the dome and minarets added in 1994.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Durbar",
+    "detail": "Order the biriyani",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

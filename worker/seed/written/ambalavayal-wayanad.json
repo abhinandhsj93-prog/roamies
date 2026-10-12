@@ -1,0 +1,97 @@
+{
+ "query": "Ambalavayal, Wayanad",
+ "region": "kerala",
+ "name": "Ambalavayal",
+ "draft": {
+  "briefing": "Hey, you're in Ambalavayal! The heritage museum here holds one of Kerala's largest collections of remnants, some dating back to the second century. The Edakkal Caves are just 4 km away.",
+  "hungryLine": "Ambalavayal is a small Wayanad town, so eat where the locals do in town before heading up to Edakkal.",
+  "moodReplies": {
+   "show-me-around": "Start at the Wayanad Heritage Museum in town, then head 4 km out to Edakkal for the caves.",
+   "somewhere-to-chill": "Go up above the Edakkal Caves, where you can look out over the hills where Kerala, Tamil Nadu and Karnataka meet.",
+   "surprise-me": "Ambukuthi mala, the tallest mountain in Wayanad district, is at Edakkal, just 4 km from here."
+  },
+  "seeFirst": {
+   "caption": "In town and just outside",
+   "spots": [
+    {
+     "name": "Wayanad Heritage Museum",
+     "detail": "In town · Four galleries on Wayanad's tribal history and hero stones",
+     "status": {
+      "text": "Closed Mondays",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Edakkal",
+     "detail": "4 km away · Home of the Edakkal Caves and big three-state views",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "St. Martin De Pores Church, Ambalavayal",
+     "detail": "7 min walk · The local church",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Wayanad Heritage Museum",
+    "title": "Stones for heroes",
+    "body": "Decorated memorial stones were once used to mark the graves of heroes here. They're so old that even the oldest Tamil scripts mention them."
+   },
+   {
+    "where": "Devasmrithi gallery",
+    "title": "Gods in clay",
+    "body": "One gallery is full of figurines of gods and goddesses from the region. It's a peek at what people here believed long ago."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go Tuesday to Sunday.",
+    "body": "The heritage museum keeps Tuesday to Sunday hours, so plan around Monday."
+   },
+   {
+    "icon": "tag",
+    "title": "Give the museum half an hour.",
+    "body": "It's a short and sweet visit, so you can easily pair it with Edakkal the same day."
+   }
+  ],
+  "story": [
+   {
+    "era": "Neolithic age",
+    "title": "The first traces",
+    "body": "The museum's collection starts in the Neolithic age. People have lived around these Wayanad hills for a very long time.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2nd century",
+    "title": "Old remnants",
+    "body": "Some of the finds kept here go back to the second century. It's one of Kerala's largest collections of its kind.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Up to the 1600s",
+    "title": "Hero stones and tribal life",
+    "body": "Items up to the 17th century show tribal life, terracotta figures and memorial stones for heroes. They tell Wayanad's own story, not just Kerala's.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A museum town",
+    "body": "The District Tourism Promotion Council runs the museum, and new galleries are being built. Ambalavayal is the closest town to the Edakkal Caves.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

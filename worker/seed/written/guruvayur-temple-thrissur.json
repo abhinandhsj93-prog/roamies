@@ -1,40 +1,42 @@
 {
  "query": "Guruvayur Temple, Thrissur",
+ "region": "kerala",
+ "name": "Guruvayur",
  "draft": {
-  "briefing": "Hey, you're in Guruvayur! This is one of the most important Krishna temples in India, and pilgrims come day and night. More weddings happen here in a day than in most towns in a month.",
-  "hungryLine": "Guruvayur eats vegetarian. Look for a simple meals hotel near the temple.",
+  "briefing": "Hey, you're in Guruvayur! The whole town grew up around its great Krishna temple, which draws 6 to 10 million devotees a year. The Lord here even owns his own herd of elephants, 65 of them, living in a palace fort just outside town.",
+  "hungryLine": "Breakfast, the afternoon feast and dinner are free for devotees at the Ottupura, the temple dining hall, and look out for offerings like paal payasam and unniappams.",
   "moodReplies": {
-   "show-me-around": "See the temple's east gate, then visit Punnathur Kotta, where the temple's elephants live.",
-   "somewhere-to-chill": "Sit by the Rudratheertham tank in the evening as the lamps are lit.",
-   "surprise-me": "The temple has dozens of elephants of its own. A race of them opens the temple festival each year."
+   "show-me-around": "The temple is a minute away, the Devaswom Museum by the east gate is 2 min, and Mammiyoor Temple is about 10 min on foot.",
+   "somewhere-to-chill": "Catch an evening Krishnaattam performance. It's done outside the temple, so anyone can watch.",
+   "surprise-me": "The big offering here is Thulabharam. You sit on a scale and give bananas, butter, ghee or sugar equal to your own body weight."
   },
   "seeFirst": {
-   "caption": "Close to the temple",
+   "caption": "Short walks from here",
    "spots": [
     {
      "name": "Guruvayur Temple",
-     "detail": "In town · Hindus only inside, strict dress code",
+     "detail": "1 min walk · One of India's most sacred pilgrim temples",
      "status": {
-      "text": "Busy early morning",
+      "text": "Dress modestly",
       "tone": "warning"
      },
      "illustration": "synagogue"
     },
     {
-     "name": "Punnathur Kotta",
-     "detail": "10 min drive · The temple elephants' home",
+     "name": "Devaswom Museum",
+     "detail": "2 min walk · Offerings, murals and Guruvayur Kesavan's tusks",
      "status": {
-      "text": "Daytime",
-      "tone": "neutral"
+      "text": "Free, open all days",
+      "tone": "open"
      },
      "illustration": "palace"
     },
     {
-     "name": "Rudratheertham Tank",
-     "detail": "Next to the temple · Evening lamps",
+     "name": "Mammiyoor Temple",
+     "detail": "10 min walk · The Shiva temple every pilgrim visits too",
      "status": {
-      "text": "Evenings",
-      "tone": "open"
+      "text": "Hindus only inside",
+      "tone": "warning"
      },
      "illustration": "synagogue"
     }
@@ -42,87 +44,60 @@
   },
   "legends": [
    {
-    "where": "Punnathur Kotta",
-    "title": "An elephant who became a legend",
-    "body": "Guruvayur Kesavan was the temple's most famous elephant. A statue of him stands near the temple."
+    "where": "Mammiyoor Temple",
+    "title": "Shiva makes room",
+    "body": "People believe Shiva was the original owner of the Guruvayur site and moved over so the Vishnu idol could be placed there. That's why pilgrims always visit Mammiyoor before leaving town."
    },
    {
-    "where": "The temple",
-    "title": "A god brought by a guru",
-    "body": "The story says Guru, Brihaspati, and Vayu, the wind god, carried the idol here. That's where Guru-vayu-ur gets its name."
+    "where": "Guruvayur Temple",
+    "title": "Built by Parasurama",
+    "body": "The sanctum is believed to have been built by Lord Parasurama himself, at the gods' request. A Pandyan king is said to have added the inner ring and murals after being cured of a snake bite."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Darshan queues are shortest early or late.",
-    "body": "Avoid weekends and auspicious wedding days."
+    "title": "See Krishnaattam in the evening.",
+    "body": "It's performed every evening through the year, except in the monsoon month of July."
    },
    {
     "icon": "tag",
-    "title": "Dress code.",
-    "body": "Men wear a mundu and no shirt inside, women a sari, salwar or long skirt."
+    "title": "Eat at the Ottupura.",
+    "body": "Meals there are free to devotees, first come, first served."
    }
   ],
   "story": [
    {
-    "era": "Ancient",
-    "title": "An idol from Dwaraka",
-    "body": "Legend says the idol was rescued from Krishna's city of Dwaraka as it sank into the sea.",
-    "illustration": "flood"
-   },
-   {
-    "era": "Centuries ago",
-    "title": "A temple town grows",
-    "body": "Pilgrims came from across Kerala, and the town grew around the temple.",
+    "era": "AD 52",
+    "title": "Old foundations",
+    "body": "Tradition says the 4th Pandyan King commissioned the temple's inner ring and murals around this time. Nearby Palayur's church is also believed to have been founded by St Thomas in 52 AD.",
     "illustration": "synagogue"
    },
    {
-    "era": "1930s",
-    "title": "A fight for entry",
-    "body": "The Guruvayur Satyagraha campaigned for people of all castes to be allowed into the temple.",
+    "era": "1,000+ years ago",
+    "title": "The temple complex",
+    "body": "Archaeologists reckon the complex is at least 1000 years old. The sanctum has three layers inside, with the idol in the innermost one.",
     "illustration": "synagogue"
    },
    {
-    "era": "Later",
-    "title": "Elephants and music",
-    "body": "Punnathur Kotta became the elephants' home, and Chembai music festival brought singers here every year.",
+    "era": "1300s",
+    "title": "Zamorin's art",
+    "body": "Zamorin Manadeva Varma of Kozhikode built the temple's outer ring and composed Krishnaattam, a dance-drama that later inspired Kathakali.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1989",
+    "title": "A school for murals",
+    "body": "The Institute of Mural Painting opened at the east gate, founded by mural master Mammiyoor Krishnankutty. Students still train here the gurukula way.",
     "illustration": "palace"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Temple at dawn, elephants by day, lamps at the tank by night. Tell me if you saw a wedding.",
-    "illustration": "synagogue"
+    "title": "Temple town",
+    "body": "It's one of the richest temples in South India. Its 65 elephants, all gifts from devotees, live at Punathur Elephant Palace, 4 km from West Nada.",
+    "illustration": "palace"
    }
   ],
-  "food": [
-   {
-    "name": "Vegetarian meals near the temple",
-    "detail": "Rice meals and payasam · ₹ · 5 min walk",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   },
-   {
-    "name": "Tea and snack shops",
-    "detail": "Chai and pazham pori · ₹ · near the east gate",
-    "status": {
-     "text": "All day",
-     "tone": "open"
-    },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   }
-  ]
+  "food": []
  }
 }

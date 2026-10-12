@@ -1,0 +1,103 @@
+{
+ "query": "Poovar, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "Poovar",
+ "draft": {
+  "briefing": "Hey, you're in Poovar! The Neyyar River, a freshwater lake, the backwater canals and the Arabian Sea all meet here within a few hundred metres of each other.",
+  "hungryLine": "Seafood rules in Poovar. Order karimeen pollichathu, pearl spot fish baked in banana leaf with spiced coconut paste.",
+  "moodReplies": {
+   "show-me-around": "Take a boat to the Poovar Estuary and Golden Sand Beach, gliding through the mangrove canals on the way.",
+   "somewhere-to-chill": "Golden Sand Beach can only be reached by boat, so it's one of the least crowded beaches in Kerala.",
+   "surprise-me": "Poovar's central mosque was built by Malik Deenar, an eighth-century Muslim preacher."
+  },
+  "seeFirst": {
+   "caption": "By boat from the jetty",
+   "spots": [
+    {
+     "name": "Poovar Estuary",
+     "detail": "By boat · Where the Neyyar opens into the sea",
+     "status": {
+      "text": "Best at dawn and dusk",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Golden Sand Beach",
+     "detail": "By boat · Wide, quiet, shell-flecked sand",
+     "status": {
+      "text": "Gentle swimming most days",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Aazhimala Shiva Temple",
+     "detail": "About 8 km north · Big Shiva sculpture by the sea",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Neyyar River",
+    "title": "River of Flowers",
+    "body": "Marthanda Varma, the 18th-century king of Travancore, named Poovar for the fragrant flowers that once floated down the Neyyar to the sea. Poo means flower and ar means river."
+   },
+   {
+    "where": "Poovar",
+    "title": "King Solomon's ships",
+    "body": "It's believed that ships owned by King Solomon of Israel landed at Ophir. Some sources identify Ophir as Poovar."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go out at dawn.",
+    "body": "Early boat trips give the best bird sightings, and the estuary looks its best at dawn and dusk."
+   },
+   {
+    "icon": "tag",
+    "title": "Drink bottled water.",
+    "body": "Tap water here isn't potable, so stick to bottled or filtered water."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient times",
+    "title": "A port of spices",
+    "body": "Poovar traded timber, sandalwood, ivory and spices. Megasthenes, Pliny the Elder and Marco Polo mention its links with Greece and Rome.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "8th century",
+    "title": "Malik Deenar's mosque",
+    "body": "Poovar was one of the ancient Muslim settlements on India's west coast. Its central mosque was built by Malik Deenar, an eighth-century preacher.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Chola reign",
+    "title": "A major port",
+    "body": "During the reign of the Chola dynasty, Poovar was a major port.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1700s",
+    "title": "A new name",
+    "body": "The place was called Pokkumoosapuram until Marthanda Varma renamed it Poovar, the River of Flowers.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Quiet backwaters",
+    "body": "Poovar draws travellers who want backwaters without the bustle of Alleppey or Kumarakom. Up the coast, a deep-water container terminal is changing Vizhinjam harbour.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "query": "Ambalappuzha, Alappuzha",
+ "region": "kerala",
+ "name": "Ambalappuzha",
+ "draft": {
+  "briefing": "Hey, you're in Ambalappuzha! The name just means temple and river, and the temple here is famous for its pink palpayasam. The recipe is a well guarded secret.",
+  "hungryLine": "The one thing to taste here is the temple's palpayasam, a sweet rice and milk pudding.",
+  "moodReplies": {
+   "show-me-around": "Start at the Ambalappuzha Sree Krishna Swamy Temple, about 13 minutes on foot, then ask the way to Karumadikkuttan, the old Buddha statue nearby.",
+   "somewhere-to-chill": "Grab your payasam from the stall just outside the temple and take it slow.",
+   "surprise-me": "When Tipu Sultan raided in 1789, the Krishna idol from Guruvayoor was brought here for safe keeping for three years."
+  },
+  "seeFirst": {
+   "caption": "Close to town",
+   "spots": [
+    {
+     "name": "Ambalappuzha Sree Krishna Swamy Temple",
+     "detail": "13 min walk · 15th century temple, home of the famous payasam",
+     "status": {
+      "text": "Payasam handed out at noon",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Karumadikkuttan",
+     "detail": "Short drive · 9th century black granite Buddha",
+     "status": {
+      "text": "Protected by the Archaeological Survey",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The temple",
+    "title": "Guruvayoorappan's daily visit",
+    "body": "It is believed that Guruvayoorappan visits this temple every day to accept the payasam. That's why the offering matters so much here."
+   },
+   {
+    "where": "The temple kitchen",
+    "title": "A blessed kitchen",
+    "body": "People believe the same cooks can't make the same payasam anywhere else, even with the same ingredients. The taste is said to come from the Lord's blessing on his favourite kitchen."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Be there at noon.",
+    "body": "The payasam is given out every day at exactly 12 noon, and inside the temple only people with a prior booking get some."
+   },
+   {
+    "icon": "tag",
+    "title": "Ask about the temple festival.",
+    "body": "During the festival five elephants carry the Krishna idol with music, and it's well worth timing a visit around."
+   }
+  ],
+  "story": [
+   {
+    "era": "9th century",
+    "title": "A Buddha in black granite",
+    "body": "Karumadikkuttan, a black granite Buddha statue, dates from the 9th century. It still stands near Ambalappuzha.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1400s",
+    "title": "A temple by the river",
+    "body": "The local ruler Chembakasserry Pooradam Thirunal-Devanarayanan Thampuran is believed to have built the Krishna temple. It became one of the seven greatest temples in Travancore.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1789",
+    "title": "A guest from Guruvayoor",
+    "body": "During Tipu Sultan's raids, the Krishna idol from Guruvayoor Temple was brought here to keep it safe. It stayed for three years.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Still about the payasam",
+    "body": "Ambalappuzha is a small coastal town off National Highway 66, about 14 km south of Alappuzha. Pilgrims still line up for the noon payasam.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

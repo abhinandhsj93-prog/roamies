@@ -1,0 +1,82 @@
+{
+ "query": "Valiyaparamba, Kasaragod",
+ "region": "kerala",
+ "name": "Valiyaparamba",
+ "draft": {
+  "briefing": "Hey, you're on Valiyaparamba, the longest island in Kerala! It's cut off from the mainland by the Kavvayi Backwater, fed by four rivers and dotted with little islands.",
+  "hungryLine": "Valiyaparamba is a fishing centre, so fresh fish is the move. Malabar-style meat and fish dishes are the local favourites.",
+  "moodReplies": {
+   "show-me-around": "Explore Edayilakkad, a marshy island in the Kavvayi Backwaters known for its biodiversity.",
+   "somewhere-to-chill": "Find a quiet spot by the Kavvayi Backwater and watch the fishing boats.",
+   "surprise-me": "A National Waterway passes right through the island."
+  },
+  "seeFirst": {
+   "caption": "Around the island",
+   "spots": [
+    {
+     "name": "Edayilakkad",
+     "detail": "In Valiyaparamba Panchayath · Marshy island rich in wildlife",
+     "status": {
+      "text": "Locals work to conserve it",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Bekal Fort",
+     "detail": "About 30 km · Fort on a headland into the sea",
+     "status": {
+      "text": "Daytime visit",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Madiyan Koolam",
+    "title": "Theyyam for Bhadrakali",
+    "body": "At Madiyan Koolam near Kanhangad, the temple is dedicated to Bhadrakali. During its festival, the ritual theyyam is performed."
+   },
+   {
+    "where": "Ananda Ashramam",
+    "title": "Open to everyone",
+    "body": "Ananda Ashramam in Kanhangad keeps a tradition of free food and lodging for all visitors. Its Panchavati Garden sits under five big trees."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Cross by the bridge.",
+    "body": "The island is reached by crossing the Mavila Kadappuram bridge."
+   },
+   {
+    "icon": "sun",
+    "title": "Plan around theyyam season.",
+    "body": "Madiyan Koolam's theyyam festival falls in May/June and December/January."
+   }
+  ],
+  "story": [
+   {
+    "era": "The setting",
+    "title": "An island of four rivers",
+    "body": "Valiyaparamba is fed by four rivers and separated from the mainland by the Kavvayi Backwater.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1991",
+    "title": "A fishing island",
+    "body": "About 11,917 people lived on the island, a noted fishing centre of the district.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Growing slowly",
+    "body": "It's now one of the fastest-growing tourist spots in Kerala, with 13 wards and a National Waterway running through it.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

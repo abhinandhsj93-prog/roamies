@@ -1,0 +1,130 @@
+{
+ "query": "Payyanur, Kannur",
+ "region": "kerala",
+ "name": "Payyanur",
+ "draft": {
+  "briefing": "Hey, you're in Payyanur! It was the first municipality in Kerala to set up libraries in every one of its wards. The town sits on the Perumba River, close to the Kavvayi backwaters.",
+  "hungryLine": "Payyanur has great small eats. Try Babuvettan's Thattukada for muttayappam, or the Kudumbashree Restaurant run by village women.",
+  "moodReplies": {
+   "show-me-around": "The Muthappan Temple is a 1 min walk. Kavvayi Island is about 2 km away, in the largest backwaters of north Kerala.",
+   "somewhere-to-chill": "Take the island walk on Kavvayi Island, or ride a slow passenger train toward Kannur and watch the villages go by.",
+   "surprise-me": "Kavvayi Island was originally named Kavvil Pattanam. Sir William Hogan, then district collector of Hosdurg, renamed it."
+  },
+  "seeFirst": {
+   "caption": "Close to Payyanur",
+   "spots": [
+    {
+     "name": "Muthappan Temple",
+     "detail": "1 min walk · Temple right in your neighbourhood",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kavvayi Island",
+     "detail": "2 km away · Quiet island walk on the backwaters",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kankol Village",
+     "detail": "6 km away · A very scenic village",
+     "status": {
+      "text": "Short drive",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Edat Kannangad Temple",
+    "title": "Eleven Theyyams",
+    "body": "It's the main temple among 11 Kannangad temples, and about 11 Theyyams perform here. The festival comes only once every two years."
+   },
+   {
+    "where": "Payyanur",
+    "title": "Poorakkali",
+    "body": "Poorakkali is an ancient dance festival of this area. Look for Theyyam too, in select temples during the right season."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time it for Theyyam season.",
+    "body": "Theyyam happens in select temples only in the right season, so ask locally."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the passenger train.",
+    "body": "Slow trains stop at every small station between Payyanur and Kannur, and they're cheap and punctual."
+   }
+  ],
+  "story": [
+   {
+    "era": "Earlier days",
+    "title": "Kavvil Pattanam",
+    "body": "The island now called Kavvayi was first named Kavvil Pattanam. Sir William Hogan, district collector of Hosdurg, gave it the name Kavvayi.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Old times",
+    "title": "Family houses",
+    "body": "Old family houses like Iruttan Tharavad and Aramana Tharavad still stand at Kandoth, about 6 km away.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2018",
+    "title": "A new taluk",
+    "body": "On 10 March 2018, Chief Minister Pinarayi Vijayan inaugurated Payyanur as the fifth taluk in Kannur district. It takes in 22 villages.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A library in every ward",
+    "body": "Payyanur was the first municipality in Kerala to set up libraries in all its wards. Drop into one if you want a quiet hour.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Babuvettan's Thattukada",
+    "detail": "Kallettan Kadavu, Ramanthali Road · Muttayappam and chicken parts",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Kudumbashree Restaurant",
+    "detail": "Opposite the bus station · Economy meals run by village women",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Indian Coffee House",
+    "detail": "Royal Complex · A dependable stop in town",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

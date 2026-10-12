@@ -1,114 +1,97 @@
 {
  "query": "Vythiri, Wayanad",
+ "region": "kerala",
+ "name": "Vythiri",
  "draft": {
-  "briefing": "Hey, you're in Vythiri! Just up the road at Lakkidi, a chain hangs from a tree, and there's a ghost story behind it. Wayanad is one of the rainiest places in Kerala.",
-  "hungryLine": "Wayanad eats bamboo rice, chicken curry and lots of coffee. Here's where to start.",
+  "briefing": "Hey, you're in Vythiri! It's one of only three taluks in Wayanad, a mountainous, mostly forested district up on the Western Ghats. Just down the road is Pookode Lake, the smallest and highest freshwater lake in Kerala.",
+  "hungryLine": "Look out for bamboo rice, called Mulayari here, and wash it down with local Wayanad tea or coffee.",
   "moodReplies": {
-   "show-me-around": "Stop at the Lakkidi viewpoint, see the chain tree, then go boating on Pookode Lake.",
-   "somewhere-to-chill": "Paddle around Pookode Lake and listen to the forest.",
-   "surprise-me": "The road up to Wayanad has nine hairpin bends. People call it the Thamarassery churam."
+   "show-me-around": "Vythiri town is about a 12 min walk, and Pookode Lake is a short drive away. Save a day for Edakkal Caves over in the Sultan Bathery area.",
+   "somewhere-to-chill": "Head to Pookode Lake, 770 metres up and ringed by evergreen forest and mountain slopes, and just sit by the water.",
+   "surprise-me": "Bamboo rice is actually bamboo seed, richer in protein than rice or wheat, but it tastes like rice."
   },
   "seeFirst": {
-   "caption": "Short drives from Vythiri",
+   "caption": "Around Vythiri",
    "spots": [
     {
+     "name": "Vythiri",
+     "detail": "12 min walk · The town itself",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
      "name": "Pookode Lake",
-     "detail": "5 min drive · Boating in the forest",
+     "detail": "Short drive · Kerala's smallest and highest freshwater lake",
      "status": {
-      "text": "Daytime",
-      "tone": "neutral"
+      "text": "Best early morning",
+      "tone": "open"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Chain Tree, Lakkidi",
-     "detail": "10 min drive · A tree in chains",
+     "name": "Edakkal Caves",
+     "detail": "In the Sultan Bathery area · Look for bamboo rice payasam on the walkway",
      "status": {
-      "text": "By the road",
+      "text": "Check timings locally",
       "tone": "neutral"
      },
-     "illustration": "warehouses"
-    },
-    {
-     "name": "Lakkidi Viewpoint",
-     "detail": "10 min drive · Views over the ghat road",
-     "status": {
-      "text": "Clear mornings",
-      "tone": "neutral"
-     },
-     "illustration": "warehouses"
+     "illustration": "palace"
     }
    ]
   },
   "legends": [
    {
-    "where": "Lakkidi",
-    "title": "The ghost in chains",
-    "body": "Karinthandan, a tribal man, is said to have guided a British engineer up this pass. The engineer killed him to take the credit. His restless spirit was chained to this tree."
+    "where": "All over Wayanad",
+    "title": "A once-in-a-lifetime harvest",
+    "body": "Bamboo is said to seed only after a very long span. That's why people here say harvesting bamboo rice is a once-in-a-lifetime experience."
    },
    {
-    "where": "Pookode",
-    "title": "A lake shaped like a map",
-    "body": "Locals say Pookode Lake, seen from above, is shaped a bit like India."
+    "where": "Pookode Lake",
+    "title": "Kerala's little lake in the sky",
+    "body": "Locals are proud that Pookode is both the smallest and the highest freshwater lake in Kerala. It sits 770 metres up, wrapped in evergreen forest."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Pack a raincoat.",
-    "body": "Wayanad rains are heavy from June to September."
+    "title": "Give it 3-4 days.",
+    "body": "That's enough to cover all or most of Wayanad's sights across the Kalpetta, Sultan Bathery and Mananthavady areas."
    },
    {
     "icon": "tag",
-    "title": "Buy coffee and spices from farms.",
-    "body": "Wayanad grows coffee, pepper and cardamom."
+    "title": "Stick to beer or wine.",
+    "body": "Beer and wine are easy to find in Wayanad, but stronger drinks are prohibited."
    }
   ],
   "story": [
    {
     "era": "Long ago",
-    "title": "Forest people",
-    "body": "Wayanad's hills have been home to tribal communities like the Paniya and the Kurichiya for centuries.",
-    "illustration": "warehouses"
-   },
-   {
-    "era": "Ancient",
-    "title": "Carved in stone",
-    "body": "At Edakkal, south of here, people carved figures into cave walls thousands of years ago.",
-    "illustration": "warehouses"
-   },
-   {
-    "era": "1800s",
-    "title": "A pass through the ghats",
-    "body": "The British built a road up the steep pass at Lakkidi to reach the Wayanad plateau.",
+    "title": "Forest hills",
+    "body": "Wayanad sits on the Western Ghats at around 700 metres, rising to 2,100 at its highest. Most of the land is still forest.",
     "illustration": "flood"
    },
    {
-    "era": "1900s",
-    "title": "Coffee and tea",
-    "body": "Planters cleared land for coffee, tea and pepper, which still cover the hills.",
+    "era": "Through the years",
+    "title": "Temples and heritage",
+    "body": "The district gathered temples and heritage spots, from the Jain Temple and Edakkal Caves near Sultan Bathery to the Pazhassi Raja Museum and Thirunelli Temple near Mananthavady.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Plantation country",
+    "title": "Tea in the hills",
+    "body": "Tea estates spread over the slopes, and Wayanad tea and coffee are now sold all over the district.",
     "illustration": "pepper"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Lakkidi view, the chain tree, then a boat on Pookode Lake. Tell me if you felt the ghost.",
+    "title": "Weekend escape",
+    "body": "Wayanad is a favourite weekend trip from Bangalore and Mysore, and Vythiri is one of its three taluks. Tell me what you thought of the bamboo rice.",
     "illustration": "warehouses"
    }
   ],
-  "food": [
-   {
-    "name": "Vythiri roadside eateries",
-    "detail": "Kerala meals and chai · ₹ · in town",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   }
-  ]
+  "food": []
  }
 }

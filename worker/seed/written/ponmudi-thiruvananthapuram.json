@@ -1,40 +1,42 @@
 {
  "query": "Ponmudi, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "Ponmudi",
  "draft": {
-  "briefing": "Hey, you're in Ponmudi! The road up has 22 hairpin bends, climbing to about 1,100 metres. Ponmudi means 'golden peak', and on clear evenings you'll see why.",
-  "hungryLine": "Food up here is limited. Grab tea and snacks, and eat properly on the way back.",
+  "briefing": "Hey, you're in Ponmudi! The name means the Golden Peak, and you're about 1,100 metres up in the Western Ghats. Getting here, the last 18 km from Anapara wind through tea gardens over 22 hairpin turns.",
+  "hungryLine": "Choices are few up here, so it's the KTDC Restaurant or the other place at the top of the hill.",
   "moodReplies": {
-   "show-me-around": "Stop at the bends for the views, then walk the top of the hill and the deer park.",
-   "somewhere-to-chill": "Sit on the grassy top and watch the clouds roll up the valley.",
-   "surprise-me": "On a clear day, you can see Agasthyarkoodam, a peak sacred to the sage Agastya."
+   "show-me-around": "Ponmudi View Point and the Upper Sanatorium are both about 11 min on foot. There's a deer park at the mountain top too.",
+   "somewhere-to-chill": "Walk to Ponmudi View Point and just let the cool air do its thing. It's usually 14 to 25 °C up here.",
+   "surprise-me": "The lowest temperature ever recorded in Ponmudi is 8°C, which is chilly for Kerala."
   },
   "seeFirst": {
-   "caption": "On the hill",
+   "caption": "Short walks from here",
    "spots": [
     {
-     "name": "Ponmudi hilltop",
-     "detail": "At the top · Grassy views",
+     "name": "Ponmudi View Point",
+     "detail": "11 min walk · Views over the Western Ghats",
      "status": {
-      "text": "Mornings clearest",
-      "tone": "neutral"
+      "text": "Best early morning",
+      "tone": "open"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Golden Valley",
-     "detail": "On the way up · A river valley",
+     "name": "Ponmudi Upper Sanatorium",
+     "detail": "11 min walk · Right by the viewpoint",
      "status": {
-      "text": "Daytime",
+      "text": "Check timings locally",
       "tone": "neutral"
      },
-     "illustration": "warehouses"
+     "illustration": "palace"
     },
     {
-     "name": "Kallar river",
-     "detail": "At the foot of the hills · Streams and pools",
+     "name": "Ponmudi Hill Station",
+     "detail": "16 min walk · The main hilltop area",
      "status": {
-      "text": "Careful in the rain",
-      "tone": "warning"
+      "text": "Open 08:00-16:00 daily",
+      "tone": "open"
      },
      "illustration": "warehouses"
     }
@@ -42,73 +44,64 @@
   },
   "legends": [
    {
-    "where": "Agasthyarkoodam",
-    "title": "The sage's mountain",
-    "body": "The peak is said to be where the sage Agastya meditated. The forest around it is a UNESCO biosphere reserve."
+    "where": "The hilltop",
+    "title": "The Golden Peak",
+    "body": "Ponmudi means the Golden Peak, and that's what everyone calls it. Stay for the light and see if you agree."
    },
    {
-    "where": "The bends",
-    "title": "Count them on the way up",
-    "body": "There are 22 hairpin bends on the road up. Kids in the car usually count every one."
+    "where": "Varayadumotta",
+    "title": "The peak's other name",
+    "body": "The peak itself also goes by Varayadumotta. Ask a local which name they use."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Go up early.",
-    "body": "Mist often covers the top by afternoon."
+    "title": "Pack a warm layer.",
+    "body": "In winter it drops to between 10 and 19 °C, especially at night."
    },
    {
     "icon": "tag",
-    "title": "Check road access.",
-    "body": "The road can close after heavy rain."
+    "title": "Trek Agasthyar Hills in Jan or Feb.",
+    "body": "The hills are close by, and passes are available in January and February."
    }
   ],
   "story": [
    {
     "era": "Long ago",
-    "title": "Forest hills",
-    "body": "These hills are part of the Western Ghats, one of the world's richest forests.",
+    "title": "Mountains by the sea",
+    "body": "Ponmudi peak is part of the Western Ghats, the range that runs parallel to the Arabian Sea. The river Kallar has freshwater springs up here.",
     "illustration": "flood"
    },
    {
-    "era": "1800s",
-    "title": "Tea on the slopes",
-    "body": "Planters grew tea on the lower slopes.",
+    "era": "Travancore days",
+    "title": "Southern Travancore",
+    "body": "Ponmudi sits in the Southern Travancore region of Kerala, 62 km north-east of Trivandrum city.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Tea country",
+    "title": "Gardens on the climb",
+    "body": "The final stretch up from Anapara runs through tea gardens. It's the scenic part of the drive, all 22 hairpin turns of it.",
     "illustration": "pepper"
    },
    {
-    "era": "1900s",
-    "title": "A cool escape",
-    "body": "People from Thiruvananthapuram started coming up to escape the heat.",
-    "illustration": "warehouses"
-   },
-   {
-    "era": "2016",
-    "title": "A protected forest",
-    "body": "The Agasthyamala forests were recognised by UNESCO as a biosphere reserve.",
-    "illustration": "warehouses"
-   },
-   {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Count the bends, walk the top, then head down for a meal. Tell me if the peak lived up to its name.",
+    "title": "Honeymoon hill",
+    "body": "Ponmudi is a popular honeymoon spot in South India, and backpackers and trekkers love it too. Tell me if the Golden Peak lived up to its name.",
     "illustration": "warehouses"
    }
   ],
   "food": [
    {
-    "name": "Tea stalls at the hilltop",
-    "detail": "Chai and snacks · ₹ · at the top",
+    "name": "KTDC Restaurant",
+    "detail": "Breakfast and lunch up on the hill",
     "status": {
-     "text": "Daytime",
-     "tone": "open"
+     "text": "Check timings locally",
+     "tone": "neutral"
     },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
+    "tags": [],
+    "illustration": "warehouses"
    }
   ]
  }

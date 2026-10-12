@@ -1,0 +1,136 @@
+{
+ "query": "Nilambur, Malappuram",
+ "region": "kerala",
+ "name": "Nilambur",
+ "draft": {
+  "briefing": "Hey, you're in Nilambur! People call it Teak Town, and for good reason. The world's first teak plantation was planted here in the 1840s, and what's acclaimed as the oldest living teak tree still stands beside the Chaliyar.",
+  "hungryLine": "Nilambur does simple, honest food. Kerala Restaurant opposite the railway station is known for its egg curry.",
+  "moodReplies": {
+   "show-me-around": "Start at the Teak Museum, about 4 km out on the Nilambur-Ooty highway. Then cross the long steel hanging bridge at Aruvakode to Conolly's Plot.",
+   "somewhere-to-chill": "Sit by the Chaliyar at Conolly's Plot, under some of the oldest teak trees anywhere.",
+   "surprise-me": "The Chaliyar has gold. Explorations in the river valley at Nilambur found placer deposits holding gold."
+  },
+  "seeFirst": {
+   "caption": "Teak country around town",
+   "spots": [
+    {
+     "name": "Teak Museum",
+     "detail": "4 km on the Nilambur-Ooty highway · The world's first teak museum",
+     "status": {
+      "text": "Closed on Mondays",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Conolly's Plot",
+     "detail": "At Aruvakode, by the Chaliyar · The world's first teak plantation",
+     "status": {
+      "text": "Cross the hanging bridge",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Nedumkayam",
+     "detail": "18 km on the Karulai route · Rain forest and an old British rest house",
+     "status": {
+      "text": "Forest permission needed",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Conolly's Plot",
+    "title": "Resting among his teak",
+    "body": "Chanthu Menon, the forest officer who helped H.V. Conolly plant teak across Nilambur, was laid to rest in this very teak garden as a mark of honour. The plot also holds what's acclaimed as the oldest living teak tree, 46.5 metres tall."
+   },
+   {
+    "where": "Nilambur kovilakams",
+    "title": "Nilambur Pattu",
+    "body": "Nilambur is known for its kovilakams, the old homes of the local rajas, with frescoes and woodwork. Every January the ancient Nilambur Pattu festival brings Kalampattu, ritual drawings made with powder on the floor."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in January.",
+    "body": "That's when the ancient Nilambur Pattu festival and its Kalampattu floor drawings happen."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip Mondays at the museum.",
+    "body": "The Teak Museum opens Tuesday to Sunday and stays closed on Mondays."
+   }
+  ],
+  "story": [
+   {
+    "era": "Rajas' days",
+    "title": "A town of kovilakams",
+    "body": "Nilambur was home to a cluster of kovilakams, the residences of the local rulers of earlier days. Their frescoes and wood carvings are still what they're famous for.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1842-1844",
+    "title": "The first teak plantation",
+    "body": "H.V. Conolly, Collector of Malabar under the British, had teak planted across Nilambur with the help of forest officer Chanthu Menon. Madras Presidency records call it the most remarkable government plantation of its time.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "British era",
+    "title": "Rails for teak",
+    "body": "The British laid the 66 km Nilambur-Shoranur line to carry Nilambur teak logs to the United Kingdom through Kozhikode. It's one of the shortest broad-gauge lines in India.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1995",
+    "title": "A museum for one tree",
+    "body": "The Kerala Forest Research Institute opened the world's first teak museum here. Inside you'll find the root system of a mature teak and logs from a 116-year-old tree.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Still Teak Town",
+    "body": "The railway line was electrified and inspected on 30 March 2024. Nilambur stays green on the Chaliyar, with its forests part of the Nilgiri Biosphere Reserve.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Kerala Restaurant",
+    "detail": "Opposite the railway station · Known for a good egg curry",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Shanti Sagar",
+    "detail": "On Palace (Kovilakam) Road · Vegetarian restaurant",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Vazhiyoram",
+    "detail": "At Aruvacode · A KTDC-approved eatery, handy after Conolly's Plot",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

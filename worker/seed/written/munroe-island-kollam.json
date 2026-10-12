@@ -1,114 +1,103 @@
 {
  "query": "Munroe Island, Kollam",
+ "region": "kerala",
+ "name": "Munroe Island",
  "draft": {
-  "briefing": "Hey, you're on Munroe Island! It's a cluster of small islands where Ashtamudi Lake meets the Kallada river. Narrow canals run between the houses, so the best way around is by canoe.",
-  "hungryLine": "Munroe Island eats from the water: karimeen, prawns and crab.",
+  "briefing": "Hey, you're in Munroe Island! It's actually eight small islets where Ashtamudi Lake meets the Kallada River, about 13.4 square km in all. People call it the Sinking Island of Kerala.",
+  "hungryLine": "My notes don't name anywhere to eat on the island itself, but Kollam, about 25 km away by road, is famous for its mutton and fish places.",
   "moodReplies": {
-   "show-me-around": "Take a canoe through the narrow canals at sunrise, past coir makers and prawn farms.",
-   "somewhere-to-chill": "Sit by the water at sunset and watch the canoes go home.",
-   "surprise-me": "The island is named after Colonel John Munro, a British Resident of Travancore in the early 1800s."
+   "show-me-around": "Pulimoottil Devi Temple is a 10 min walk, and the red brick Dutch Church sits on the banks of Ashtamudi Lake. Then get in a canoe and go where the houseboats can't.",
+   "somewhere-to-chill": "Find a spot by the Dutch Church on the lake bank and just watch the water.",
+   "surprise-me": "The island is named after Colonel John Munro, a Resident of the old princely state of Travancore."
   },
   "seeFirst": {
    "caption": "Around the island",
    "spots": [
     {
-     "name": "Canoe tours of the canals",
-     "detail": "On the island · Narrow green waterways",
+     "name": "Dutch Church, Munroe Island",
+     "detail": "On the island · Red brick, Dutch-Kerala style, on the lake",
      "status": {
-      "text": "Best at sunrise",
-      "tone": "open"
-     },
-     "illustration": "warehouses"
-    },
-    {
-     "name": "Ashtamudi Lake",
-     "detail": "Around the island · A huge eight-armed lake",
-     "status": {
-      "text": "Calm mornings",
+      "text": "Dress modestly",
       "tone": "neutral"
      },
-     "illustration": "warehouses"
+     "illustration": "synagogue"
     },
     {
-     "name": "Coir-making homes",
-     "detail": "On the island · Coir spun by hand",
+     "name": "Pulimoottil Devi Temple",
+     "detail": "10 min walk · A village temple close by",
      "status": {
-      "text": "Daytime",
+      "text": "Dress modestly",
       "tone": "neutral"
      },
-     "illustration": "warehouses"
+     "illustration": "palace"
+    },
+    {
+     "name": "Chirayil Sreekrishna Swamy Temple",
+     "detail": "15 min walk · Another local temple on a village stroll",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
     }
    ]
   },
   "legends": [
    {
     "where": "The island",
-    "title": "An island that's sinking",
-    "body": "Parts of Munroe Island are slowly sinking, and some homes now flood at high tide. Scientists are studying why."
+    "title": "The Sinking Island",
+    "body": "Around Kerala, Munroe Island has a nickname, the Sinking Island of Kerala. Ask the people who live here what it means to them."
    },
    {
-    "where": "Ashtamudi",
-    "title": "A lake with eight arms",
-    "body": "Ashtamudi means 'eight braids'. The lake spreads out in eight long arms."
+    "where": "Dutch Church",
+    "title": "One family, a whole village",
+    "body": "Only one Christian family lives near the Dutch Church and looks after it. Its yearly festival happens with the help of the Hindu neighbours, a lovely bit of island harmony."
    }
   ],
   "tips": [
    {
-    "icon": "sun",
-    "title": "Canoe at sunrise.",
-    "body": "The light is golden and the canals are still."
+    "icon": "tag",
+    "title": "Take a canoe tour.",
+    "body": "Vijeesh runs canoe tours through the village for about ₹300 per person, and a rickshaw from Kollam is about ₹400."
    },
    {
-    "icon": "tag",
-    "title": "Agree the canoe price first.",
-    "body": "Ask how long the tour lasts."
+    "icon": "sun",
+    "title": "Climb the lighthouse in the afternoon.",
+    "body": "If you head into Kollam, Thangassery Lighthouse is open to climb from 3-5PM."
    }
   ],
   "story": [
    {
-    "era": "Long ago",
-    "title": "Where river meets lake",
-    "body": "The Kallada river and Ashtamudi Lake built up these low islands with silt.",
-    "illustration": "flood"
+    "era": "1614",
+    "title": "Portuguese Kollam",
+    "body": "Down the road in Kollam, the Portuguese set up the Infant Jesus Cathedral in 1614. Thangassery still has remnants of Portuguese and Dutch forts.",
+    "illustration": "synagogue"
    },
    {
-    "era": "Early 1800s",
-    "title": "Named by a Resident",
-    "body": "Colonel John Munro, British Resident of Travancore, gave the islands to a church seminary. His name stayed.",
+    "era": "Travancore days",
+    "title": "A Resident's name",
+    "body": "The islands were named in honour of Colonel John Munro, Resident of the princely state of Travancore. Locally the village is Mundrothuruth.",
     "illustration": "palace"
    },
    {
-    "era": "1900s",
-    "title": "Coir and fishing",
-    "body": "Families here lived by coir making, fishing and farming prawns.",
+    "era": "1878",
+    "title": "The Dutch Church",
+    "body": "The Dutch built a red brick church on the banks of Ashtamudi Lake in 1878. It mixes Dutch and Kerala styles.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "2011",
+    "title": "A small community",
+    "body": "The 2011 census counted 9054 people in Mundrothuruth village. The island is reachable by road, rail and water.",
     "illustration": "warehouses"
    },
    {
-    "era": "Recent years",
-    "title": "Rising water",
-    "body": "Parts of the island began to sink, and life here started to change.",
-    "illustration": "flood"
-   },
-   {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Canoe the canals at sunrise and eat fresh karimeen. Tell me what birds you saw.",
+    "title": "By canoe",
+    "body": "Canoe tours now take visitors right through the village to see island life up close. Tell me what you spotted from the water.",
     "illustration": "flood"
    }
   ],
-  "food": [
-   {
-    "name": "Homestay meals on the island",
-    "detail": "Karimeen and prawns · ₹₹ · on the island",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "seafood"
-    ],
-    "illustration": "seafood"
-   }
-  ]
+  "food": []
  }
 }

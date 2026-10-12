@@ -1,0 +1,97 @@
+{
+ "query": "Thiruvalla, Pathanamthitta",
+ "region": "kerala",
+ "name": "Thiruvalla",
+ "draft": {
+  "briefing": "Hey, you're in Thiruvalla! The Thiruvatta Mahadeva Temple here is mentioned in the Vazhappally inscription, the earliest known record of a Kodungallur Chera king, written in Malayalam. Today the town is called the healthcare city and banking capital of Kerala.",
+  "hungryLine": "Thiruvalla is the biggest town in the district, so there's plenty to eat. Ask around the KSRTC terminal for a good local meal.",
+  "moodReplies": {
+   "show-me-around": "Walk to St. John's Cathedral to see its round design, then head on to the Thiruvatta Mahadeva Temple on the river.",
+   "somewhere-to-chill": "Find a quiet spot by the Manimala River, which the town sits beside.",
+   "surprise-me": "St. John's Cathedral is circular, and it was designed by a British architect."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Tiruvalla railway station",
+     "detail": "11 min walk · The only railway station in Pathanamthitta district",
+     "status": {
+      "text": "Busy at train times",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "St. John's Cathedral, Tiruvalla",
+     "detail": "17 min walk · A circular cathedral",
+     "status": {
+      "text": "Visit quietly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Thiruvatta Mahadeva Temple",
+     "detail": "Short drive · Ancient Shiva temple on the Manimalayar",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thiruvatta Mahadeva Temple",
+    "title": "Parashurama's Shiva",
+    "body": "According to folklore, the sage Parashurama installed the Shiva idol here in the Treta Yuga. The temple sits on the banks of the Manimalayar."
+   },
+   {
+    "where": "Thiruvatta Mahadeva Temple",
+    "title": "One of the 108",
+    "body": "This is counted among the 108 famous Shiva temples of Kerala. Devotees treat it as part of that old sacred circuit."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Arrive by train.",
+    "body": "Tiruvalla is the district's only railway station, with daily trains to cities like Chennai, Bangalore and New Delhi."
+   },
+   {
+    "icon": "tag",
+    "title": "Use the KSRTC terminal.",
+    "body": "Buses run from the terminal near SCS Junction to Ernakulam, Thiruvananthapuram and beyond."
+   }
+  ],
+  "story": [
+   {
+    "era": "Chera times",
+    "title": "Written in stone",
+    "body": "The Vazhappally inscription mentions the Thiruvatta temple. It is the earliest known record naming a Kodungallur Chera king, and it's in Malayalam.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1959",
+    "title": "An eight-bed clinic",
+    "body": "Pushpagiri began as a tiny eight-bed clinic. It is now a 678-bed hospital.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2001 to 2002",
+    "title": "A town of learning",
+    "body": "MACFAST, a research institute, opened in 2001, and Pushpagiri became a teaching hospital in 2002.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Healthcare and banking",
+    "body": "Thiruvalla is the largest town in the district and a big centre for finance, education and healthcare in central Travancore.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

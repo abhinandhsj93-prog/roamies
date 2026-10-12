@@ -1,128 +1,103 @@
 {
  "query": "East Fort, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "East Fort",
  "draft": {
-  "briefing": "Hey, you're at East Fort in Thiruvananthapuram! The temple tower in front of you belongs to Sree Padmanabhaswamy Temple. In 2011, vaults beneath it were found to hold one of the largest treasures ever recorded.",
-  "hungryLine": "Around the fort, food is simple and fast: vegetarian meals, chai and banana chips by the kilo.",
+  "briefing": "Hey, you're in East Fort! This street has been a busy trading centre ever since Thiruvananthapuram was the capital of the kingdom of Travancore. The old European-style fort gate opens straight onto the Padmanabhaswamy Temple.",
+  "hungryLine": "I don't have a named place to eat right here, but it's a busy commercial street, so just ask a shopkeeper where they eat.",
   "moodReplies": {
-   "show-me-around": "See the temple tower from the tank, walk to Kuthira Malika palace, then wander into Chalai Market.",
-   "somewhere-to-chill": "Sit by the Padmanabhaswamy temple tank in the late afternoon and watch the tower glow.",
-   "surprise-me": "Kuthira Malika means 'horse palace': 122 wooden horses hold up its roof."
+   "show-me-around": "Pazhavangadi Ganapathy Temple is 2 min away, the Methan mani clock tower 3 min, and the Padmanabhaswamy Temple about 7 min on foot.",
+   "somewhere-to-chill": "Come back in the evening when the East Fort Gate is lit up. It's one of the big sights of the city.",
+   "surprise-me": "Kuthiramalika Palace, designed by the musician king Swathi Thirunal, is famous for its horse-shaped windows."
   },
   "seeFirst": {
-   "caption": "All within 10 min",
+   "caption": "Short walks from here",
    "spots": [
     {
-     "name": "Sree Padmanabhaswamy Temple",
-     "detail": "2 min walk · Hindus only inside, strict dress code",
+     "name": "Padmanabhaswamy Temple",
+     "detail": "7 min walk · One of the 108 Divya Desams, sacred to Vishnu",
      "status": {
-      "text": "Check darshan times",
+      "text": "Dress modestly",
       "tone": "warning"
      },
      "illustration": "synagogue"
     },
     {
-     "name": "Kuthira Malika Palace",
-     "detail": "3 min walk · Swathi Thirunal's palace",
+     "name": "Kuthiramalika Palace",
+     "detail": "Close to the temple · Royal thrones, paintings and horse-shaped windows",
      "status": {
-      "text": "Closed Mondays",
-      "tone": "warning"
+      "text": "9:00-12:30 and 14:00-16:45",
+      "tone": "neutral"
      },
      "illustration": "palace"
     },
     {
-     "name": "Chalai Market",
-     "detail": "5 min walk · Spices, flowers, gold",
+     "name": "Pazhavangadi Ganapathy Temple",
+     "detail": "2 min walk · Sculptures of 32 forms of Ganesha",
      "status": {
-      "text": "Busy all day",
-      "tone": "open"
+      "text": "Dress modestly",
+      "tone": "neutral"
      },
-     "illustration": "warehouses"
+     "illustration": "synagogue"
     }
    ]
   },
   "legends": [
    {
-    "where": "Kuthira Malika",
-    "title": "A king who wrote music",
-    "body": "Maharaja Swathi Thirunal built this palace in the 1840s. He was also a composer, and his songs are still sung at concerts here."
+    "where": "Padmanabhaswamy Temple",
+    "title": "Vishnu asleep on a serpent",
+    "body": "The god here is Anantha Padmanabhaswamy, Vishnu in yogic sleep on his serpent Shesha. He's the family deity of the Travancore royals, and the titular Maharaja is still the temple's trustee."
    },
    {
-    "where": "The temple vaults",
-    "title": "The vault nobody opens",
-    "body": "Most of the temple's vaults were opened in 2011 and their treasure counted. One, Vault B, is still closed, and stories say it's guarded by serpents."
+    "where": "Pazhaya Sreekanteswaram",
+    "title": "The god's old home",
+    "body": "The old Sreekanteswaram Temple at Puthenchantha is said to be the original home of the Lord of the newer temple near North Fort. The king and his retinue once passed it on the way to the temple's Pallivetta."
    }
   ],
   "tips": [
    {
     "icon": "sun",
-    "title": "Go early.",
-    "body": "The temple area is cooler and calmer before 9 am."
+    "title": "Come back after dark.",
+    "body": "The lit-up East Fort Gate in the evening is a major attraction."
    },
    {
     "icon": "tag",
-    "title": "Temple dress code.",
-    "body": "Men wear a mundu, women a sari or long skirt. Both can be rented near the gate."
+    "title": "Skip museums on Mondays.",
+    "body": "Most ticketed museums in the city are closed on Mondays, so check before you go."
    }
   ],
   "story": [
    {
-    "era": "Centuries ago",
-    "title": "A city named for a god",
-    "body": "Thiruvananthapuram means 'city of the sacred serpent Ananta', the snake that Vishnu reclines on inside the temple.",
+    "era": "Around 1000 AD",
+    "title": "An ancient temple",
+    "body": "Historian Elamkulam Kunjan Pillai says the Pazhaya Sreekanteswaram Temple has stood since at least 1000 AD. It's an old Shiva and Vishnu temple just up the road.",
     "illustration": "synagogue"
    },
    {
-    "era": "1750",
-    "title": "A king gives his kingdom away",
-    "body": "Marthanda Varma, king of Travancore, dedicated his kingdom to Padmanabha and ruled as the god's servant.",
+    "era": "1836",
+    "title": "A musician king",
+    "body": "Maharaja Swathi Thirunal set up SMV School, one of the oldest in Kerala, for English education. He also designed Kuthiramalika Palace, where his music festival is still held.",
     "illustration": "palace"
    },
    {
-    "era": "1795",
-    "title": "The capital moves here",
-    "body": "The Travancore capital moved to Thiruvananthapuram, and the fort and palaces grew around the temple.",
-    "illustration": "palace"
+    "era": "1898",
+    "title": "A different kind of temple",
+    "body": "The Venkatachalapathy Temple went up a minute's walk from the Padmanabhaswamy Temple's south gate. Unlike most Kerala temples, its poojas don't follow the Namboodiri tradition.",
+    "illustration": "synagogue"
    },
    {
-    "era": "1840s",
-    "title": "A music-loving king",
-    "body": "Swathi Thirunal built Kuthira Malika and filled the court with music.",
+    "era": "1923",
+    "title": "A 19-gun kingdom",
+    "body": "Travancore became part of the Madras States Agency, ruled by a Maharaja with a hereditary 19-gun salute.",
     "illustration": "palace"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Temple tower, horse palace, then lose yourself in Chalai Market. Tell me what smelled the best.",
+    "title": "Heart of the city",
+    "body": "Most of the old fort walls are gone, except the eastern side, which gave East Fort its name. Now it's the city's main bus stand, theatres and a whole lot of shopping.",
     "illustration": "warehouses"
    }
   ],
-  "food": [
-   {
-    "name": "Vegetarian meals near East Fort",
-    "detail": "Kerala sadya-style meals · ₹ · 5 min walk",
-    "status": {
-     "text": "Lunch",
-     "tone": "neutral"
-    },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   },
-   {
-    "name": "Chalai Market snack shops",
-    "detail": "Banana chips and halwa · ₹ · 5 min walk",
-    "status": {
-     "text": "All day",
-     "tone": "open"
-    },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   }
-  ]
+  "food": []
  }
 }

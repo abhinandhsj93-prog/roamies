@@ -1,115 +1,77 @@
 {
  "query": "Malampuzha Dam, Palakkad",
+ "region": "kerala",
+ "name": "Malampuzha Dam",
  "draft": {
-  "briefing": "Hey, you're at Malampuzha! The dam here was finished in 1955, and its gardens became one of Kerala's favourite day trips. Look for the giant Yakshi sculpture, a famous piece of modern art.",
-  "hungryLine": "Food here is snacky: ice cream, fried bites and tea around the gardens.",
+  "briefing": "Hey, you're in Malampuzha Dam! This is the largest dam and reservoir in Kerala, built after independence by what was then Madras state. Look behind it and you'll see the hills of the Western Ghats.",
+  "hungryLine": "My notes don't name any eateries out here, but if you're around for Onam, the big thing to eat is the Onasadya, the festival feast.",
   "moodReplies": {
-   "show-me-around": "Walk the gardens, see the Yakshi sculpture, then ride the ropeway over the park.",
-   "somewhere-to-chill": "Sit by the reservoir in the evening as the garden lights come on.",
-   "surprise-me": "The Yakshi, a reclining nude woman, caused a storm when Kanayi Kunhiraman made it in 1969."
+   "show-me-around": "The dam wall is about a 5 min walk away, and the masonry part alone runs 1,849 metres. Then head 13 km east of Palakkad to Kanjikode if you want to see Kerala's other big industrial side.",
+   "somewhere-to-chill": "Find a spot looking over the reservoir with the Western Ghats hills behind it, and just sit.",
+   "surprise-me": "It's a masonry dam and an earthen dam joined together, 1,849 metres plus 220 metres, which makes it the longest dam in the state."
   },
   "seeFirst": {
    "caption": "Around the dam",
    "spots": [
     {
-     "name": "Malampuzha Gardens",
-     "detail": "In front of you · Lawns and fountains",
+     "name": "Malampuzha Dam",
+     "detail": "5 min walk · Kerala's largest dam and reservoir",
      "status": {
-      "text": "Lights in the evening",
+      "text": "Best early morning",
       "tone": "open"
      },
      "illustration": "warehouses"
     },
     {
-     "name": "Yakshi sculpture",
-     "detail": "In the gardens · Kanayi Kunhiraman's famous work",
+     "name": "Kanjikode",
+     "detail": "13 km east of Palakkad · Kerala's second largest industrial hub",
      "status": {
-      "text": "Daytime",
+      "text": "Check timings locally",
       "tone": "neutral"
      },
-     "illustration": "palace"
-    },
-    {
-     "name": "Palakkad Fort",
-     "detail": "20 min drive · Tipu Sultan's fort",
-     "status": {
-      "text": "Daytime",
-      "tone": "neutral"
-     },
-     "illustration": "palace"
+     "illustration": "warehouses"
     }
    ]
   },
-  "legends": [
-   {
-    "where": "Yakshi",
-    "title": "The sculpture that shocked Kerala",
-    "body": "Kanayi Kunhiraman made the Yakshi in 1969. People argued about her for years, and now she's a landmark."
-   },
-   {
-    "where": "Palakkad Fort",
-    "title": "Built for Hyder Ali",
-    "body": "The fort in town was built in 1766 for Hyder Ali of Mysore, Tipu Sultan's father."
-   }
-  ],
+  "legends": [],
   "tips": [
    {
     "icon": "sun",
-    "title": "Come late afternoon.",
-    "body": "The gardens are lit up in the evening."
+    "title": "Pack for rain.",
+    "body": "Kerala gets rain for at least 7-8 months a year, so an umbrella is never wasted."
    },
    {
     "icon": "tag",
-    "title": "Weekends are busy.",
-    "body": "Go on a weekday if you can."
+    "title": "Plan around Onam.",
+    "body": "Onam falls in Chingam, around August to September, with state holidays on 4 days, so expect closures and crowds."
    }
   ],
   "story": [
    {
     "era": "Long ago",
-    "title": "The Palakkad Gap",
-    "body": "Palakkad sits in a gap in the Western Ghats, the easiest way into Kerala from Tamil Nadu.",
+    "title": "A river from the hills",
+    "body": "The Malampuzha River comes down from the Western Ghats and feeds the Bharathappuzha, Kerala's second-longest river. That water is what the dam would later hold back.",
     "illustration": "flood"
    },
    {
-    "era": "1766",
-    "title": "A fort",
-    "body": "Hyder Ali built Palakkad Fort to control the gap.",
+    "era": "Before the Raj",
+    "title": "Forts of the region",
+    "body": "Palakkad is one of the places with a fort from before the British Raj. It's on the list of Kerala forts worth exploring.",
     "illustration": "palace"
    },
    {
-    "era": "1955",
-    "title": "The dam",
-    "body": "The Malampuzha dam was finished, bringing water to Palakkad's rice fields.",
+    "era": "After 1947",
+    "title": "Madras builds a dam",
+    "body": "After independence, the then Madras state built Malampuzha Dam, 355 feet high. A network of two canal systems carries its water out.",
     "illustration": "flood"
-   },
-   {
-    "era": "1969",
-    "title": "The Yakshi",
-    "body": "Kanayi Kunhiraman's Yakshi gave the gardens a famous, and controversial, artwork.",
-    "illustration": "palace"
    },
    {
     "era": "Today",
-    "title": "Your turn",
-    "body": "Gardens, Yakshi, ropeway, then the fort. Tell me what you thought of her.",
+    "title": "Industry and IIT",
+    "body": "Just down the road, Kanjikode has grown into one of Kerala's biggest industrial areas. IIT Palakkad, Kerala's Indian Institute of Technology, was set up there.",
     "illustration": "warehouses"
    }
   ],
-  "food": [
-   {
-    "name": "Snack stalls in the gardens",
-    "detail": "Ice cream and fried bites · ₹ · in the gardens",
-    "status": {
-     "text": "Daytime",
-     "tone": "open"
-    },
-    "tags": [
-     "vegetarian",
-     "cheap"
-    ],
-    "illustration": "leafMeal"
-   }
-  ]
+  "food": []
  }
 }
