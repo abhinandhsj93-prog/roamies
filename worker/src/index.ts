@@ -1,5 +1,6 @@
 // Roamies API (Cloudflare Worker).
 //
+// GET /debug?lat=..&lng=..   source summary for a spot (no AI call, nothing stored)
 // GET /place?lat=9.95&lng=76.26
 //   200 { status: "ready", place }       guide for the user's locality (cached in Firestore)
 //   202 { status: "generating", name }   someone else is generating it right now; ask again shortly
@@ -24,6 +25,21 @@ const ready = (placeJson: string) =>
   new Response(`{"status":"ready","place":${placeJson}}`, {
     headers: { 'content-type': 'application/json', 'access-control-allow-origin': '*' },
   });
+
+// What the open-data sources return for a spot, without calling the AI or touching Firestore.
+async function debugSources(lat: number, lng: number) {
+  const locality = await reverseGeocode(lat, lng);
+  if (!locality) return { locality: null };
+  const s = await gatherSources(lat, lng, locality);
+  return {
+    locality,
+    wikipedia: s.wikipedia.map((a) => a.title),
+    wikivoyage: s.wikivoyage?.title ?? null,
+    sights: s.sights.map((p) => `${p.name} (${p.walkMinutes} min)`),
+    food: s.food.map((p) => `${p.name} (${p.walkMinutes} min)`),
+    errors: s.errors,
+  };
+}
 
 async function handlePlace(env: Env, lat: number, lng: number) {
   const locality = await reverseGeocode(lat, lng);
@@ -55,7 +71,7 @@ export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
     if (request.method === 'OPTIONS') return json({});
-    if (url.pathname !== '/place' || request.method !== 'GET') return json({ error: 'not found' }, 404);
+    if (!['/place', '/debug'].includes(url.pathname) || request.method !== 'GET') return json({ error: 'not found' }, 404);
 
     const lat = Number(url.searchParams.get('lat'));
     const lng = Number(url.searchParams.get('lng'));
@@ -63,6 +79,7 @@ export default {
       return json({ error: 'lat and lng are required' }, 400);
     }
     try {
+      if (url.pathname === '/debug') return json(await debugSources(lat, lng));
       return await handlePlace(env, lat, lng);
     } catch (e) {
       console.error(e);

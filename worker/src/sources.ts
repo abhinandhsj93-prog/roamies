@@ -30,6 +30,8 @@ export type Sources = {
   wikivoyage?: Article;
   sights: Poi[];
   food: Poi[];
+  // Fetch failures, kept so a thin guide can be explained (shown by /debug).
+  errors: string[];
 };
 
 async function getJson<T>(url: string, init?: RequestInit): Promise<T> {
@@ -55,7 +57,8 @@ export async function reverseGeocode(lat: number, lon: number): Promise<Locality
   const a = r.address;
   if (!a) return null;
   const name =
-    a.neighbourhood ?? a.suburb ?? a.quarter ?? a.village ?? a.town ?? a.city_district ?? a.city ?? a.county;
+    // Suburb first: neighbourhoods are often tiny ("Fort Nagar" inside Fort Kochi).
+    a.suburb ?? a.quarter ?? a.village ?? a.neighbourhood ?? a.town ?? a.city_district ?? a.city ?? a.county;
   if (!name) return null;
   const city = a.city ?? a.town ?? a.county ?? a.state_district;
   const state = a.state ?? '';
@@ -71,6 +74,8 @@ const walkMinutes = (lat1: number, lon1: number, lat2: number, lon2: number) => 
   return Math.max(1, Math.round((metres * 1.3) / 80));
 };
 
+const OVERPASS_ENDPOINTS = ['https://overpass-api.de/api/interpreter', 'https://overpass.private.coffee/api/interpreter'];
+
 type OverpassElement = { lat?: number; lon?: number; center?: { lat: number; lon: number }; tags?: Record<string, string> };
 
 export async function nearbyPois(lat: number, lon: number): Promise<{ sights: Poi[]; food: Poi[] }> {
@@ -83,10 +88,17 @@ export async function nearbyPois(lat: number, lon: number): Promise<{ sights: Po
   nwr(around:900,${lat},${lon})[name][amenity~"^(restaurant|cafe|fast_food)$"];
 );
 out center tags 120;`;
-  const r = await getJson<{ elements: OverpassElement[] }>('https://overpass-api.de/api/interpreter', {
-    method: 'POST',
-    body: new URLSearchParams({ data: query }),
-  });
+  let r: { elements: OverpassElement[] } | undefined;
+  let lastError: unknown;
+  for (const endpoint of OVERPASS_ENDPOINTS) {
+    try {
+      r = await getJson<{ elements: OverpassElement[] }>(endpoint, { method: 'POST', body: new URLSearchParams({ data: query }) });
+      break;
+    } catch (e) {
+      lastError = e;
+    }
+  }
+  if (!r) throw lastError;
   const sights: Poi[] = [];
   const food: Poi[] = [];
   const seen = new Set<string>();
@@ -144,10 +156,14 @@ export async function wikivoyage(locality: Locality): Promise<Article | undefine
 }
 
 export async function gatherSources(lat: number, lon: number, locality: Locality): Promise<Sources> {
+  const errors: string[] = [];
+  const note = (what: string) => (e: unknown) => {
+    errors.push(`${what}: ${e instanceof Error ? e.message : String(e)}`);
+  };
   const [wiki, voyage, pois] = await Promise.all([
-    wikipediaNearby(lat, lon, locality).catch(() => [] as Article[]),
+    wikipediaNearby(lat, lon, locality).catch((e) => (note('wikipedia')(e), [] as Article[])),
     wikivoyage(locality),
-    nearbyPois(lat, lon).catch(() => ({ sights: [], food: [] })),
+    nearbyPois(lat, lon).catch((e) => (note('overpass')(e), { sights: [], food: [] })),
   ]);
-  return { locality, wikipedia: wiki, wikivoyage: voyage, ...pois };
+  return { locality, wikipedia: wiki, wikivoyage: voyage, ...pois, errors };
 }
