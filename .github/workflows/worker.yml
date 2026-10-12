@@ -31,7 +31,12 @@ jobs:
       - run: npm test
       - name: Deploy
         if: env.CLOUDFLARE_API_TOKEN != ''
-        run: npx wrangler deploy
+        id: deploy
+        run: |
+          npx wrangler deploy 2>&1 | tee deploy.log
+          url=$(grep -oE 'https://[a-z0-9.-]+\.workers\.dev' deploy.log | head -1)
+          echo "url=$url" >> "$GITHUB_OUTPUT"
+          echo "::notice title=Worker URL::$url"
       - name: Set worker secrets
         if: env.CLOUDFLARE_API_TOKEN != ''
         env:
@@ -41,3 +46,10 @@ jobs:
           [ -n "$GEMINI_API_KEY" ] && printf '%s' "$GEMINI_API_KEY" | npx wrangler secret put AI_API_KEY
           [ -n "$FIREBASE_SERVICE_ACCOUNT" ] && printf '%s' "$FIREBASE_SERVICE_ACCOUNT" | npx wrangler secret put FIREBASE_SERVICE_ACCOUNT
           true
+      - name: Smoke test (Fort Kochi)
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        run: |
+          sleep 10
+          body=$(curl -sS -m 120 -w ' HTTP %{http_code}' "${{ steps.deploy.outputs.url }}/place?lat=9.9658&lng=76.2421")
+          echo "$body" | head -c 3000
+          echo "::notice title=Smoke test::$(echo "$body" | head -c 900 | tr '\n' ' ')"
