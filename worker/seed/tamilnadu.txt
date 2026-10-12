@@ -23,7 +23,7 @@ Puducherry
 Auroville
 Chidambaram
 Pichavaram
-Thanjavur
+Thanjavur @ 10.7828,79.1318
 Kumbakonam
 Darasuram
 Gangaikonda Cholapuram
@@ -63,5 +63,5 @@ Yercaud
 Salem
 Hogenakkal
 Yelagiri
-Kolli Hills
+Kolli Hills @ 11.2485,78.3387
 Erode
