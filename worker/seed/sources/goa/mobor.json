@@ -1,0 +1,110 @@
+{
+ "query": "Mobor",
+ "found": "Mobor bus stand, Orlim Road, Cavelossim, Salcete, South Goa, Goa, 403731, India",
+ "lat": 15.1527188,
+ "lon": 73.9503968,
+ "fetchedAt": "2026-10-12T19:43:40.439Z",
+ "locality": {
+  "id": "betul-south-goa-goa",
+  "name": "Betul",
+  "area": "Salcete, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Betul, Goa": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Betul%28Goa%29_Lighthouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Betul, Goa",
+   "credit": "Photo: Pranay.rocking, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Betul(Goa)_Lighthouse.jpg"
+  },
+  "Mobor": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mobor_Beach%2C_Goa%2C_India_-_panoramio.jpg/1280px-Mobor_Beach%2C_Goa%2C_India_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mobor",
+   "credit": "Photo: Айрат Хайруллин, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mobor_Beach,_Goa,_India_-_panoramio.jpg"
+  },
+  "Velim Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Velim_constitution.svg/1280px-Velim_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Velim Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velim_constitution.svg"
+  },
+  "Tollecanto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/St_Rock%27s_Church%2C_Velim%2C_Goa.jpg/1280px-St_Rock%27s_Church%2C_Velim%2C_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tollecanto",
+   "credit": "Photo: Joel's Goa Pics, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Rock%27s_Church,_Velim,_Goa.jpg"
+  },
+  "Baradi, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Holy_cross_chapel_Baradi%2C_Velim%2C_Goa_B.JPG/1280px-Holy_cross_chapel_Baradi%2C_Velim%2C_Goa_B.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Baradi, Goa",
+   "credit": "Photo: Wouter Hagens, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holy_cross_chapel_Baradi,_Velim,_Goa_B.JPG"
+  },
+  "Cutbona": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Cutbona_Jetty.jpg/1280px-Cutbona_Jetty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cutbona",
+   "credit": "Photo: Joegoauk Goa, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cutbona_Jetty.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Betul",
+   "text": "Betul may refer to:\n\n\n== Places ==\nBetul district, Madhya Pradesh, India\nBetul, Madhya Pradesh, the administrative head-quarter of the district\nBetul railway station\nBetul (Lok Sabha constituency)\nBetul (Vidhan Sabha constituency)\nBetul, Goa, India\n\n\n== People ==\nBetul Haile Maryam (1812–1853), Semien noble in the Ethiopian Empire\nBetül, a Turkish given name for women\n\n\n== See also ==\nSal River (India), sometimes erroneously referred to as the Betul River because it empties into the Arabian Sea at Betul, Goa",
+   "url": "https://en.wikipedia.org/wiki/Betul"
+  },
+  {
+   "title": "Betul, Goa",
+   "text": "Betul is a coastal village located in the Quepem taluka, South Goa district, Goa, India. It is the southernmost village of Quepem and is well-known for its beach, lighthouse, and fort. It is lies about an hour south from Margao. The Sal river drains into the Arabian sea near Betul.\nAs of November 2025, the Betul village panchayat opposed the construction of a satellite port at Betul, proposed by the Mormugao Port Authority. Opponents say that the port would threaten local fish breeding and the livelihood of local fishing communities.",
+   "url": "https://en.wikipedia.org/wiki/Betul,_Goa"
+  },
+  {
+   "title": "Mobor",
+   "text": "Mobor is a town in South Goa in the state of Goa, India. \n\n",
+   "url": "https://en.wikipedia.org/wiki/Mobor"
+  },
+  {
+   "title": "Velim Assembly constituency",
+   "text": "Velim Assembly constituency is one of the 40 Goa Legislative Assembly constituencies of the state of Goa in southern India. Itlso one of the 20 constituencies falling under South Goa Lok Sabha constituency and includes villages and towns like Velim, Assolna, Ambelim, Chinchinim and Sao Jose de Areal.\nIt has traditionally been regarded as a longstanding stronghold of the Congress party.",
+   "url": "https://en.wikipedia.org/wiki/Velim_Assembly_constituency"
+  },
+  {
+   "title": "Tollecanto",
+   "text": "Tollecanto is a neighborhood located within the village of Velim, situated in the Salcete taluka and falls under the South Goa district, in the Indian coastal state of Goa. It is about 17 km (11 mi) away from the Margao city and is also a part of the Velim Assembly constituency.",
+   "url": "https://en.wikipedia.org/wiki/Tollecanto"
+  },
+  {
+   "title": "Baradi, Goa",
+   "text": "Baradi (Konkani: Barade) is a scenic neighborhood located within the village of Velim, Goa, neighbouring Tollecanto and Betul. It is situated in the Salcete taluka and falls under the South Goa district, in the Indian coastal state of Goa. It is about 18 km (11 mi) away from the Margao city and is also a part of the Velim Assembly constituency. It is famous for the Miraculous Cross located atop the hill known as the Baradi Holy Cross, the feast of the cross is celebrated on 3 May, every year.",
+   "url": "https://en.wikipedia.org/wiki/Baradi,_Goa"
+  },
+  {
+   "title": "Cutbona",
+   "text": "Cutbona (Konkani: Kutbonn) is a neighborhood located within the Velim village, neighbouring Betul.  It is situated in the Salcete taluka and falls under the South Goa district, in the Indian coastal state of Goa. It is about 17 km (11 mi) away from the Margao city. It is famous for its fishing jetty known as the Cutbona fishing jetty, which is South Goa's largest fishing hub, where over 300 trawlers operate. It is also a part of the Velim Assembly constituency.",
+   "url": "https://en.wikipedia.org/wiki/Cutbona"
+  },
+  {
+   "title": "Institute of Petroleum Safety, Health and Environment Management",
+   "text": "The Institute of Petroleum Safety, Health and Environment Management (IPSHEM) is a training institute of the Oil and Natural Gas Corporation that provides technical education in the fields of industrial safety, occupational health and environmental science.",
+   "url": "https://en.wikipedia.org/wiki/Institute_of_Petroleum_Safety,_Health_and_Environment_Management"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Betul",
+  "text": "Betul is a city in Madhya Pradesh in India.\n\n\n== See ==\n Balajipuram Temple (6 km from Betul Bazaar, tempos are available). It has the dummy of most popular tourist place of India like Vaishno Devi, artificial lakes. And it has chipkali mandir(Lizard Temple). There are many hotspots and still under construction for more attraction. \n Forest hot spot. Must to see, but be careful while going there with wild animals. \n Jharna (waterfall). Must to see, but be careful while going there with wild animals. \n Satlok Ashram, 9 Km from Betul. One can reach here by bus. It is spread over an area of 63 acres. People of every religion can come here. From a spiritual point of view, this ashram helps people a lot. free. \n Shergarh Fort. Historical landmark in Borgaon Or Sergarh, Madhya Pradesh \n\n\n== Do ==\n Gaurav, Sadar. There are many temples, Muktagiri one of them. This is a Jain tirtha sthan. \n Vishal, ☏ +91 9993266558.  \n\n\n== Eat ==\nOne can eat the most famous cuisines of North India here\n\n Rasoi.  \n Panchvati.  \n Hotel ramkrishna, kargil chouk sadar. all type of food. 500. \n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Betul"
+ },
+ "sights": [
+  {
+   "name": "Holy Cross Chapel-Baradi",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 15.146989,
+   "lon": 73.95784
+  }
+ ],
+ "food": [],
+ "errors": []
+}

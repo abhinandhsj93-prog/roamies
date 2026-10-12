@@ -1,0 +1,68 @@
+{
+ "query": "Mandrem",
+ "found": "Mandrem, Pernem, North Goa, Goa, 403527, India",
+ "lat": 15.6551117,
+ "lon": 73.7197877,
+ "fetchedAt": "2026-10-12T19:38:42.396Z",
+ "locality": {
+  "id": "mandrem-north-goa-goa",
+  "name": "Mandrem",
+  "area": "Pernem, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Mandrem": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mandrem_Beach_and_Mandrem_River%2C_Mandrem%2C_Goa%2C_India_%28edit%29.jpg/1280px-Mandrem_Beach_and_Mandrem_River%2C_Mandrem%2C_Goa%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mandrem",
+   "credit": "Photo: Original: Vyacheslav Argenberg Derivative work: UnpetitproleX, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandrem_Beach_and_Mandrem_River,_Mandrem,_Goa,_India_(edit).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mandrem",
+   "text": "Mandrem is a coastal village famous as a tourist spot in Pernem taluka in North Goa district of Goa state in India. It is 21 km from the capital Panaji.\n\n\n== About ==\nIt has two main beaches: Junas and Ashvem.\nThe village has 11 wards.\nMandrem or Mandre, originally named as Manjrey, was converted to Mandrem by the Portuguese. The \"D\" is pronounced as \"J\" in Portuguese.\n\n\n== Mandrem beach ==\nMandrem Beach is a white sand beach with clear water. The beach of Mandrem lies between the twin beaches of Morjim and Arambol. This beach is a quiet and peaceful beach. The beauty of Mandrem Beach is especially during the High Tide time when the seawater rushes into the Mandrem Creek or River. This Mandrem creek moves parallel to the waterline. Mandrem has a small fishing community and occasionally one might see local fishermen hauling their catch from the sea. The beach has been notified as a turtle nesting site under CRZ 2011.\n\n\n== Government and politics ==\nMandrem is part of Mandrem (Goa Assembly constituency) and North Goa (Lok Sabha constituency).\n\n\n== Notable residents ==\nBhau Daji Lad – Sanskrit scholar, physician and antique collector. Born in Aska vaddo\nAnurag Mhamal – Goa’s first chess international...",
+   "url": "https://en.wikipedia.org/wiki/Mandrem"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Mandrem",
+  "text": "Mandrem is a village in North Goa, India.\n\n\n== See ==\nThere is a small Portuguese fort close to Mandrem, you will see it as soon as you walk out on the beach. Getting there is quite easy, free service is operated every 30 minutes but the walk is quite exhausting especially if its hot, but will give you the chance to see a sleepy small village where tourists still are quite an attraction.\nThere is an abandoned school-building in the woods just shortly before entering the village, an almost impassable small path lead there and these 5 minutes walk are really worth it.\nThe fort is now turned into a high-class hotel but the staff don't mind if you walk around and enjoy a beautiful view over Mandrem beach and Maharashtra in the north.\nExcept for this, there is little to do than laze around at the beach or take a swim in the surprisingly deep water.\n\n\n== Do ==\nVisit the beautiful deserted beach, just a few huts offering not-so-good food, but the beach and sea are worth it.\n\n\n== Eat ==\n Cafe Nu, House No 182, Mandrem (opposite Saiba Guest House).  \n End of the World Café, Mandrem. Beach shack, for fish. If eating here you are entitled to a beach lounger for the day. \n Mango Tree Beer Garden, Junas Waddo, Mandrem (opposite Mandarin, a 5-minutes walk heading left out of Dunes).  \n La Plage, Asvem Beach. French restaurant. \n Oasis, Mandrem. For superb tandoori chicken, prawns & bread. \n Olive House, Junas Waddo, Mandrem.  \n\n\n== Drink ==\nIn April 2010 there were 2 small beach-shacks providing you with semi-cold drinks and a really small selection of food for reasonable prices\n\n Sea Paradise, Mandrem Beach. Beach shack. \n\n",
+  "url": "https://en.wikivoyage.org/wiki/Mandrem"
+ },
+ "sights": [
+  {
+   "name": "Bhumika Devi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 15.6543113,
+   "lon": 73.7204055
+  },
+  {
+   "name": "Banyan",
+   "kind": "attraction",
+   "walkMinutes": 5,
+   "lat": 15.6566659,
+   "lon": 73.7218568
+  },
+  {
+   "name": "Holy Cross Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 15.6545362,
+   "lon": 73.7158322
+  },
+  {
+   "name": "Our Lady of the Rosary Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 15.6636032,
+   "lon": 73.7184683
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

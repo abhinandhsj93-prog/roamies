@@ -1,0 +1,82 @@
+{
+ "query": "Saligao",
+ "found": "Saligao, Nagoa, Bardez, North Goa, Goa, 403511, India",
+ "lat": 15.5462074,
+ "lon": 73.7891386,
+ "fetchedAt": "2026-10-12T19:40:31.818Z",
+ "locality": {
+  "id": "saligao-north-goa-goa",
+  "name": "Saligao",
+  "area": "Bardez, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Saligao": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Saligao%2C_Goa%2C_roadside_view_2015.jpg/1280px-Saligao%2C_Goa%2C_roadside_view_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Saligao",
+   "credit": "Photo: Frederick Noronha fredericknoronha1@gmail.com, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saligao,_Goa,_roadside_view_2015.jpg"
+  },
+  "Saligao Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Saligao_constitution.svg/1280px-Saligao_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Saligao Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saligao_constitution.svg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Saligao",
+   "text": "Saligão ([saːɭɡãːw]) is a census town in North Goa district  in the Indian state of Goa.  It is surrounded by the villages of Porvorim, Parra, Guirim, Sangolda, Pilerne, Candolim, Calangute and Nagoa and is in Bardez Taluka of Goa.  It is 10 km from Panjim the capital of Goa, 6 km from Mapusa the capital of Bardez Taluka, and 3 km from the Calangute beach.\n\n\n== Geography ==\nSaligão is located at 15.55°N 73.77°E﻿ / 15.55; 73.77. It has an average elevation of 9 metres (30 feet).\n\n\n== Government and politics ==\nSaligao is part of Saligao (Goa Assembly constituency) and North Goa (Lok Sabha constituency).\n\n\n== Demographics ==\nAs of 2001 India census, Saligão had a population of 5553.  Males constitute 51% of the population and females 49%. Saligão has an average literacy rate of 82%, higher than the national average of 59.5%: male literacy is 87%, and female literacy is 76%.  In Saligão, 8% of the population is under 6 years of age.\n\n\n== Places of interest ==\nMater Dei Institution, one of Goa's first English language schools, at Bairo Alto. Started as St. Mary's in 1900, the name was later changed to Mater Dei in 1909.\nMãe de Deus Parish Church built in 1873.\n\nLourdes Convent High School at Sonarbhat...",
+   "url": "https://en.wikipedia.org/wiki/Saligao"
+  },
+  {
+   "title": "Saligao Assembly constituency",
+   "text": "The Saligao Assembly constituency is one of the 40 Goa Legislative Assembly constituencies of the state of Goa in southern India. Saligao is also one of the 20 constituencies falling under the North Goa Lok Sabha constituency. It is part of the North Goa district.",
+   "url": "https://en.wikipedia.org/wiki/Saligao_Assembly_constituency"
+  },
+  {
+   "title": "Nagoa (Bardez)",
+   "text": "Nagoa is a village in the Bardez sub-district of Goa, and lies between the North Goa headquarters town of Mapusa and the tourist-destination and former fishing village of Calangute. It is not to be mixed-up with a village of the same name which lies in the South Goa sub-district of Salcete.",
+   "url": "https://en.wikipedia.org/wiki/Nagoa_(Bardez)"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bardez",
+  "text": "Bardez is a municipality of 237,000 people (2011) in North Goa.\n\n\n== See ==\nChapora Beach\n1 Houses of Goa Museum (Salvador-do-Mundo village of Bardez). Tue-Sun 10AM-7:30PM. An architectural museum by reputed architect Gerard da Cunha, that \"encapsulates for posterity the phenomenal outcome of the amalgamation of eastern and western architectural styles\" \n2 Xavier Centre of Historical Research, B B Borkar Road, Alto-Porvorim, ☏ +91-832-2417772. Mon-Fri 9:30AM-7PM (lunch break: 1-2PM), Sat 9:30AM-1PM. It has a gallery on Christian art named the Xavier Xandev Museum art. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bardez"
+ },
+ "sights": [
+  {
+   "name": "St. Anne’s Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 15.5463607,
+   "lon": 73.7932871
+  },
+  {
+   "name": "Mae de Deus Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 15.5470394,
+   "lon": 73.7851462
+  },
+  {
+   "name": "Salmona Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 15.5375393,
+   "lon": 73.7867198
+  },
+  {
+   "name": "Holy Cross Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 15.5365373,
+   "lon": 73.786016
+  }
+ ],
+ "food": [],
+ "errors": []
+}

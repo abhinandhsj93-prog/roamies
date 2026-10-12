@@ -1,0 +1,47 @@
+{
+ "query": "Bicholim",
+ "found": "Bicholim, North Goa, Goa, India",
+ "lat": 15.5557695,
+ "lon": 73.977291,
+ "fetchedAt": "2026-10-12T19:41:32.137Z",
+ "locality": {
+  "id": "sarmanas-north-goa-goa",
+  "name": "Sarmanas",
+  "area": "Bicholim, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Bicholim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Mayem_lake.jpg/1280px-Mayem_lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bicholim",
+   "credit": "Photo: Joegoauk Goa, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mayem_lake.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Bicholim",
+   "text": "Bicholim (Konkani: Divchal; IPA: [ɖicoːlĩː]), is a small town and a municipal council in North Goa district in the state of Goa, India.  It is the headquarters of the Concelho (county) of Bicholim, one of seven that make up the Novas Conquistas (New Conquests), territories added to Goa comparatively later than the first three of the Velhas Conquistas (Old Conquests). The town is located about 30 km (19 mi) from the state capital of Panaji. It is in the mining heartland of Goa.\n\n\n== History ==\nAs per Hiregutti plates of Bhoja Asantika, a locality named Dipaka visaya  in the copper plates dating 5th century CE, is identified with modern-day Divchali or Dicholi.\nIt was under the rule of an independent Warlord (PrabhuDesai's of Sankhali/Sanquelim) It was taken over by Portuguese in late 18th century as part of New Conquest.\n\n\n== Geography ==\nBicholim is located at 15.60°N 73.95°E﻿ / 15.60; 73.95. It has an average elevation of 22 metres (72 feet).\n\n\n== Demographics ==\nAs of 2011 India census, Dicholi had a population of 16,986. Males constitute 52% of the population and females 48%. Dicholi has an average literacy rate of 82%. 10% of the population is under 6 years of age.\n\n\n== Economy ==\nMining...",
+   "url": "https://en.wikipedia.org/wiki/Bicholim"
+  },
+  {
+   "title": "Carapur",
+   "text": "Karapur is a census town in North Goa district  in the state of Goa, India.",
+   "url": "https://en.wikipedia.org/wiki/Carapur"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Carapur",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 15.55,
+   "lon": 73.97
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

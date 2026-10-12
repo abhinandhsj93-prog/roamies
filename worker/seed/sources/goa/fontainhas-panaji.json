@@ -1,0 +1,292 @@
+{
+ "query": "Fontainhas, Panaji",
+ "found": "Fontainhas, Panaji, Tiswadi, North Goa, Goa, 403001, India",
+ "lat": 15.496656,
+ "lon": 73.831081,
+ "fetchedAt": "2026-10-12T19:33:32.678Z",
+ "locality": {
+  "id": "fontainhas-north-goa-goa",
+  "name": "Fontainhas",
+  "area": "Panaji, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Fontainhas": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Fontainhas.jpg/1280px-Fontainhas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fontainhas",
+   "credit": "Photo: Kogo, GFDL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fontainhas.jpg"
+  },
+  "Panaji": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Panaji_City.JPG/1280px-Panaji_City.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Panaji",
+   "credit": "Photo: Макс Вальтер, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panaji_City.JPG"
+  },
+  "Tiswadi taluka": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Tiswadi.png/1280px-Tiswadi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tiswadi taluka",
+   "credit": "Photo: Vn14, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiswadi.png"
+  },
+  "Fontainhas (quarter)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Road_along_Vasco-da-gama_residence_in_Fontainhas%2C_Panaji.jpg/1280px-Road_along_Vasco-da-gama_residence_in_Fontainhas%2C_Panaji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fontainhas (quarter)",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Road_along_Vasco-da-gama_residence_in_Fontainhas,_Panaji.jpg"
+  },
+  "Our Lady of the Immaculate Conception Church, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Panaji%2C_nostra_signora_dell%27immacolata_concezione%2C_esterno_04.jpg/1280px-Panaji%2C_nostra_signora_dell%27immacolata_concezione%2C_esterno_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Our Lady of the Immaculate Conception Church, Goa",
+   "credit": "Photo: Sailko, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panaji,_nostra_signora_dell%27immacolata_concezione,_esterno_04.jpg"
+  },
+  "Azad Maidan (public square)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Martyrs%27_Memorial_at_Azad_Maidan.jpg/1280px-Martyrs%27_Memorial_at_Azad_Maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Azad Maidan (public square)",
+   "credit": "Photo: SerChevalerie, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martyrs%27_Memorial_at_Azad_Maidan.jpg"
+  },
+  "Krishnadas Shama Goa State Central Library": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/State_Central_Library_Goa_%28now%2C_the_Krishnadas_Shama_Central_Library%29_at_Panjim%2C_Goa%2C_India_01.jpg/1280px-State_Central_Library_Goa_%28now%2C_the_Krishnadas_Shama_Central_Library%29_at_Panjim%2C_Goa%2C_India_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Krishnadas Shama Goa State Central Library",
+   "credit": "Photo: Fredericknoronha, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:State_Central_Library_Goa_(now,_the_Krishnadas_Shama_Central_Library)_at_Panjim,_Goa,_India_01.jpg"
+  },
+  "Sunaparanta, Goa Centre for the Arts": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sunaparanta%2C_Goa_Centre_for_the_Arts_09.JPG/1280px-Sunaparanta%2C_Goa_Centre_for_the_Arts_09.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sunaparanta, Goa Centre for the Arts",
+   "credit": "Photo: Fredericknoronha, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunaparanta,_Goa_Centre_for_the_Arts_09.JPG"
+  },
+  "Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/1280px-BeachFun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Goa",
+   "credit": "Photo: Sam 8393, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BeachFun.jpg"
+  },
+  "Panaji Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Panaji_constitution.svg/1280px-Panaji_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Panaji Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panaji_constitution.svg"
+  },
+  "Mhamai Kamat House": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Front_of_the_Mhamai_Kamat_House_as_seen_from_near_the_Abbe_Faria_statue_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mhamai Kamat House",
+   "credit": "Photo: FrancesGoa, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_of_the_Mhamai_Kamat_House_as_seen_from_near_the_Abbe_Faria_statue_(cropped).jpg"
+  },
+  "Adil Shah Palace": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Adil_Shah_Palace%2C_Panaji_01.jpg/1280px-Adil_Shah_Palace%2C_Panaji_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Adil Shah Palace",
+   "credit": "Photo: Joegoauk Goa, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adil_Shah_Palace,_Panaji_01.jpg"
+  },
+  "Mermaid Garden": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mermaid_Statue%2C_Mermaid_Garden%2C_Panaji.jpg/1280px-Mermaid_Statue%2C_Mermaid_Garden%2C_Panaji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mermaid Garden",
+   "credit": "Photo: SerChevalerie, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mermaid_Statue,_Mermaid_Garden,_Panaji.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Fontainhas",
+   "text": "Fontainhas is a settlement in the northern part of the island of Santo Antão, Cape Verde. It is situated near the rocky north coast of the island, two km southwest of Ponta do Sol and 19 km north of the island capital Porto Novo. The settlement includes the smaller villages Corvo and Forminguinhas, about one km west of Fontainhas proper. \n\n\n== See also ==\nList of villages and settlements in Cape Verde\n\n\n== References ==\n\n\n== External links ==",
+   "url": "https://en.wikipedia.org/wiki/Fontainhas"
+  },
+  {
+   "title": "Panaji",
+   "text": "Panaji (formerly Nova Goa; ; Goan Konkani: Ponnjem, IPA: [pɵɳd͡ʑɛ̃] ; Portuguese: Pangim), also known as Panjim, is the capital of the Indian state of Goa and the headquarters of the North Goa district. It was previously the territorial capital of the former Portuguese India (Estado da Índia). It lies on the banks of the Mandovi river estuary in the Tiswadi sub-district (taluka). With a population of 114,759 in the metropolitan area, Panaji is Goa's largest urban agglomeration, ahead of Margão and Mormugão.\nPanaji has terraced hills, concrete buildings with balconies and red-tiled roofs, churches, and a riverside promenade. There are avenues lined with gulmohar, acacia and other trees. The baroque Our Lady of the Immaculate Conception Church is located overlooking the main square known as Praça da Igreja. Panaji has been selected as one of a hundred Indian cities to be developed as a smart city under the Smart Cities Mission. Panaji's HDI (United Nations Human Development Index) is almost around 0.80, and is considered to be the best amongst other major Indian cities.\nThe city was built with stepped streets and a 7-kilometre-long (4-mile) promenade on a planned grid system after the...",
+   "url": "https://en.wikipedia.org/wiki/Panaji"
+  },
+  {
+   "title": "Tiswadi taluka",
+   "text": "Tiswadi, formerly known as Ilhas, is a  taluka in the district of North Goa, situated in the Indian coastal state of Goa. It is an estuarine island situated on the confluence of the Mandovi and Zuari rivers. It was one of the first territories to be annexed by the Portuguese in the 16th century. Both the state capital Panaji, and the erstwhile capital Old Goa lie within the sub-district. It is the biggest and the most populated of the six major islands between the Mandovi and Zuari rivers.",
+   "url": "https://en.wikipedia.org/wiki/Tiswadi_taluka"
+  },
+  {
+   "title": "Fontainhas (quarter)",
+   "text": "Fontainhas (Portuguese: Bairro das Fontainhas) is an old Latin quarter in Panjim, capital city of the state of Goa, India. It maintains its Portuguese influence, particularly through its architecture, which includes narrow and picturesque winding streets like those found in many European cities, old villas and buildings with projecting balconies painted in the traditional tones of pale yellow, green, or blue, and roofs made of red coloured tiles. Fontainhas' heritage ambience represents the traditional Portuguese influence in the area.",
+   "url": "https://en.wikipedia.org/wiki/Fontainhas_(quarter)"
+  },
+  {
+   "title": "Our Lady of the Immaculate Conception Church, Goa",
+   "text": "The Our Lady of the Immaculate Conception Church (Portuguese: Igreja de Nossa Senhora da Imaculada Conceição) is located in Panjim, Goa, India. The Church conducts Mass every day in English, Konkani, and Portuguese.\nThe colonial Portuguese Baroque style church was first built in 1541 as a chapel on a hill side overlooking the city of Panaji .It was eventually replaced by a larger church in the 1600s as part of Portuguese Goa's religious expansion. This church houses the ancient bell that was removed from the Augustinian ruins of the Church of Our Lady of Grace (Portuguese: Nossa Senhora da Graça) in the once famed city of Old Goa. This bell is considered to be the second largest of its kind in Goa, surpassed only by the Golden Bell which resides in the Sé Cathedral in Old Goa.",
+   "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Immaculate_Conception_Church,_Goa"
+  },
+  {
+   "title": "Azad Maidan (public square)",
+   "text": "Azad Maidan (formerly Square of the Seven Windows; Portuguese: Praça de Sete Janelas) is a public square in the Indian state of Panaji, Goa. It is located opposite the Goa Police headquarters on the Mahatma Gandhi Road, Panaji. It is located at 15°30′0″N 73°49′34″E.",
+   "url": "https://en.wikipedia.org/wiki/Azad_Maidan_(public_square)"
+  },
+  {
+   "title": "Krishnadas Shama Goa State Central Library",
+   "text": "Krishnadas Shama Goa State Central Library is the main library in the State of Goa, India. It is located in Panjim (Panaji) and its website claims that it is the first public library to be set up in India, in the early 1830s.",
+   "url": "https://en.wikipedia.org/wiki/Krishnadas_Shama_Goa_State_Central_Library"
+  },
+  {
+   "title": "Bookworm Children's Library",
+   "text": "Bookworm is a library for children that operates out of the locality of Taleigão, near the capital city of Panjim (Panaji) in Goa, India.\nThe lending library is aimed \"for children of all ages and abilities\" and has dedicated spaces for creative activities and reading. Bookworm also runs a \"program of workshops for both children and parents.\" It promotes cultural activities—with a needlecraft group, book discussions, a pre-school program and an adult art program. The library is located near St Michael's Church in Taleigao.",
+   "url": "https://en.wikipedia.org/wiki/Bookworm_Children%27s_Library"
+  },
+  {
+   "title": "Sunaparanta, Goa Centre for the Arts",
+   "text": "Sunaparanta, Goa Centre for the Arts is a cultural centre in Altinho, Panjim, Goa. Its official website describes it as a \"non-profit, process-based initiative to encourage creation, learning, understanding, appreciation and enjoyment of the visual arts through education and dialogue in Goa\".\n\n",
+   "url": "https://en.wikipedia.org/wiki/Sunaparanta,_Goa_Centre_for_the_Arts"
+  },
+  {
+   "title": "Goa",
+   "text": "Goa ( GOH-ə; Konkani: [ɡɔ̃j]; Portuguese: [ˈɡoɐ] ) is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and south, with the Arabian Sea forming its western coastline. It was the capital of the eastern Portuguese empire until 1961. It is India's smallest state by area and fourth-smallest by population. Panaji (Panjim) is the state's capital, while Vasco da Gama is its largest city by population. The state's official language is Konkani, spoken by the majority of its inhabitants.\nThe Portuguese, who first voyaged to the subcontinent in the early 16th century as merchants, conquered it on request of Timoji shortly thereafter. Goa became an overseas territory of the Portuguese Empire and part of what was then known as Portuguese India, remaining under Portuguese rule for approximately 451 years until its annexation by India in December 1961. The ancient City of Goa (now Old Goa), considered one of the greatest cities of Asia in the 16th century, was abandoned in the 19th century following disease outbreaks...",
+   "url": "https://en.wikipedia.org/wiki/Goa"
+  },
+  {
+   "title": "Panaji Assembly constituency",
+   "text": "Panaji Assembly constituency is one of the 40 Legislative Assembly constituencies of Goa state in India.\nIt is part of North Goa district.",
+   "url": "https://en.wikipedia.org/wiki/Panaji_Assembly_constituency"
+  },
+  {
+   "title": "Goa Public Service Commission",
+   "text": "The Goa Public Service Commission (GPSC) is a constitutional body of the government of Goa, India, responsible for recruiting through standardized examinations candidates for various state government jobs under the Government of Goa. It deals with matters relating to the appointment, rules of recruitment, transfer, promotion and disciplinary action of government officials. It reports directly to the Governor of Goa.\nThe chairman and other members are appointed by the Governor of Goa. In 2018, Jose Manuel Noronha was the chairman, Ameya Abhayankar was secretary and Seema V. Malkarnekar the deputy-secretary.",
+   "url": "https://en.wikipedia.org/wiki/Goa_Public_Service_Commission"
+  },
+  {
+   "title": "Calvim",
+   "text": "Calvim is an island village situated in the Bardez sub-district or taluka of Goa. It is in the vicinity of the prominent Aldona village.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Calvim"
+  },
+  {
+   "title": "Mhamai Kamat House",
+   "text": "The Mhamai Kamat House is a historic 18th-century residence and former bead factory located in Panaji, Goa. Housing the Mhamai Kamat family, the house has served as a significant landmark of Goan heritage, commerce, and culture.",
+   "url": "https://en.wikipedia.org/wiki/Mhamai_Kamat_House"
+  },
+  {
+   "title": "Adil Shah Palace",
+   "text": "Adil Shah Palace, also known as the Idalcão Palace or the Old Secretariat, is a historic landmark located in Panaji, Goa. It is the oldest surviving colonial-era building in the city. Originally built as a summer palace for the ruler of the Adil Shahi dynasty, it has served various administrative roles under Portuguese and Indian governance over five centuries.",
+   "url": "https://en.wikipedia.org/wiki/Adil_Shah_Palace"
+  },
+  {
+   "title": "Mermaid Garden",
+   "text": "Mermaid Garden, also known as Jardim da Sereia, is a public park and heritage site located in Campal locality of Panaji, the capital of Goa, India.",
+   "url": "https://en.wikipedia.org/wiki/Mermaid_Garden"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Panaji",
+  "text": "Panaji, also spelt Panjim, is the capital city of the tiny state of Goa in India. It has its own charm, a river flowing along one side of the city, some areas which are low-rise and red-roofed, and even a Latin Quarter at the eastern end of town. Increasingly, it is shaping itself as a centre where cultures (many from around the globe, and from diverse areas of India too) meet and creativity flourishes.\n\n\n== See ==\nPanjim Church; Heritage houses along the altinho slope, 1 Bishops Palace at Altinho, High COurt Complex & Lawyers Building at Altinho, Maruti Temple, 2 Mahalaxmi Temple, Customs Museum, Santa Monica Jetty Boat Rides, Old GMC Complex, INOX theatre, Salida Del Sol (one of its kind Hotel in India) on Bernard Gues Road, Kala Academy at Campal\nDon't miss out on the old city.\nSee the islands that are just across the river. It only takes a couple of minutes to cross on the car ferry, and on the other side there are unpopulated fields of high marsh grass, sweeping views and utter peacefulness. To access the islands go to Ribandar, on the road to Old Goa, and take the ferry at Ribandar going to Chorao. Or go further down, just past the Goa Institute of Management and take the other ferry. The ferry service is free to passengers, though cars, motorcycles and other vehicles pay a small fee. The islands can also be accessed from the Ferry crossing at Old Goa, behind the Church Complex, also a calm spot for a bit of fishing.\nMiramar Beach - A lovely golden beach of soft sand girdled with palm trees. The main beach outside of state-capital Panaji. The usual hangout for urbanites from Panaji and around, and also for 'desi' (domestic, Indian) tourists visiting the region. Try the fast-food of both Goan origin. D'Silva's, serves delicious authentic Goan snacks opposite the children's park, just past the roundabout. The place is obscure and easy to miss out. For other Indian snacks, Chaat (Bhel Puri) and Mid-East shwarma-based food go a little ahead on the beachside stalls. Cafe Coffee Day is a hip hang out for the younger set. Nice playground for kids, including a giant fish made of cement.\nDona Paula A beach outside Panaji and beyond Miramar. This is where so many Bollywood (\n== Do ==\n Casino Caravela, Caravela Jetty, Opposite Mandovi Hotel, Fisheries Building, D B Mart, In the starting point for the cruise, ☏ +91 832 745-200, fax: +91 832 745-225. Casino Caravela, on board a yacht, offers a combination of sightseeing and gaming - American Roulette, Black Jack, Rummy, Stud Poker, Baccarat, Pontoon and Flash. ₹2000 (For entry and buffet.) Includes ₹1000 casino chips that cannot be cashed in. (updated Jan 2016)\n Dive Goa, ☏ +91 9325030110.  (updated Jan 2016)\n Barracuda Diving.  (updated Jan 2016)\nWalk around the alleys of Panaji soaking in the beautiful Portuguese architecture.\n1 INOX - Old GMC, Old GMC Heritage Precinct, D.B. Road, Campal, ☏ +91 832 242 0999. Watch the latest Bollywood flicks at the INOX theatre at Panaji. (updated Jan 2016) \n2 Mandovi River Sunset cruise. Go for a short boat ride on one of the many \"Cruise\" boats, that sail up and down the river, with loud music, and frantically dancing revellers. Beside the Captain of Ports jetty on the Mandovi river at Panaji. The Santa Monica and Goa Boat Cruise is the oldest and best known of the lot, though the others are as good. Cruises start from around Sunset. There is also a floating restaurant, on the same pier. (updated May 2020)\nCatch up with plays, dramas and Musicals at the open air theatre at the Kala Academy in Campal.\nVisit the Central Library, the oldest public library in India, founded in 1832, and housing a vast collection of books, some printed almost half a century ago.\n3 Miramar Beach. Relax under a palm tree on Miramar beach, feel the sea breeze in your hair and watch the surf on the waves. Watch the many iron ore barges cruise lazily down the river towards the Arabian sea, in a typical \"Socegad\" Goan manner. (updated Jan 2016)\n4 Dr. Salim Ali Bird Sanctuary. On the\n== Eat ==\nSome great food can be found in this calm and breezy capital city. Goan chefs have for generations graced many a royal kitchen in Europe and have been practising their culinary skills on some of the grandest cruise ships in the world. If you like spicy food, then try the native Vindaloo curry with fish or chicken. It's hot!\n\n1 Avanti Bar & Restaurant, Fontainhas, St Tome Road, Altinho (near Panaji bus stand), ☏ +91 832 242 7179. Serves excellent vindaloo, sausages and Goan fish curry and rice. (updated Jan 2016)\n2 Cafe Real Tea Room, Mahatma Gandhi Rd, Ozari (near the Azad maidan), ☏ +91 832 242 2264. Serves excellent vegetarian snacks. Piping hot, Bhaaji pao (Curried vegetables with local Goan Bread), Crisp Hot Kandea Bojjea (batter fried Onions), Mirchi Bojjea (Batter fried Green Peppers that are not half as hot as you would have imagined) over a hot cup of tea shouldn't be missed. (updated Jan 2016)\n3 Fidalgo Hotel, on 18th June Road. 6 restaurants serving different types of food (veg, non-veg, Goan, etc.) Prices are high by local standards, but inexpensive for foreigners. Food is of excellent quality and there is something to be found for everyone! Aloo-stuffed paratha recommended at the Legacy of Bombay restaurant. (updated Jan 2016)\n4 George (near St Mary Immaculate). Recommended for the Goan specialty of tongue roast. (updated Jan 2016)\n5 Godinho's and George Bar and Restaurant, R. Ormuz (near Cine National - Municipal Gardens), ☏ +91 98221 00315. Serve authentic Vindaloo, Sorpatel, Cafreal and Goan Sea food dishes. (updated Jan 2016)\n6 Gujarat Lodge, on 18th June Road, ☏ +91 94230 56557. Excellent snacks and sweets. Busy in the evening when they have hot samosas (₹5/- each!) and other snacks. Also have great packaged snacks like chevda and banana chips\n== Drink ==\nThere are lots of places in Goa where one can find a bar and restaurant. There's one around every corner of every road. Visitors arriving in Goa during the very early hours, stand a better chance of getting a tipple than a cuppa.\nMany small village bars also serve authentic Goan fare. Some of the best and freshest fish curry and rice and fried fish, squid, mussels, crabs etc. can be had here. You can be sure it is authentic Goan fare as few tourists visit these places. Most of these bars offer a quiet laid back atmosphere to sip your drink and contemplate, unless of course a Cricket match is on television.\n\n1 Down The Road, at Pato Bridge, GM road. The other landmark is the general post office, 20 meters down to the bridge. The ground floor is a bar with Kala OK. The restaurant is at the 1st floor.The menu is GOA flavor and also Indian and Chinese food. Fish, pork is with highest cooking quality. sitting on the baloney, watching the river and surrounding is all local Panaji people. \n Rajshahi Restaurant, G1 G2 G3 Karmally Glass towers (Opp. Traffic Police Station), ☏ +91 2421426. 11AM-11PM. Muglai and Punjabi food. ₹150/head. \n Spicy Bella Bar & Restaurant, opp Campal Parade Ground, Bal Bhavan Rd (on the way to miramar beach), ☏ +91 6454710. 24 hrs. The speciality of this restaurant is Italian Pizzas and Pasta, which you have to try. The ‘Spicy Bella Pizza’ shown at the right is unarguably the best Italian pizza you can get around Panaji. It will keep you wanting for more. The other Italian pizzas are a bit plain, and go for those only if you have an appetite for Italian pizzas specifically. If you love Domino’s and US pizzas, it is likely that you won’t like the usual Italian ones. The menu hosts an exotic list of pasta dishes. Since every pasta dish is tot",
+  "url": "https://en.wikivoyage.org/wiki/Panaji"
+ },
+ "sights": [
+  {
+   "name": "Fontainhas",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 15.496,
+   "lon": 73.831
+  },
+  {
+   "name": "Our Lady of the Immaculate Conception Church, Goa",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 15.498333333333333,
+   "lon": 73.82944444444443
+  },
+  {
+   "name": "Tiswadi taluka",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 15.498598,
+   "lon": 73.829341
+  },
+  {
+   "name": "Bookworm Children's Library",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.4945349419,
+   "lon": 73.828806318
+  },
+  {
+   "name": "Calvim",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.496777,
+   "lon": 73.827827
+  },
+  {
+   "name": "Krishnadas Shama Goa State Central Library",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.494074,
+   "lon": 73.833078
+  },
+  {
+   "name": "Panaji Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.5,
+   "lon": 73.83
+  },
+  {
+   "name": "Goa",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.5,
+   "lon": 73.83
+  },
+  {
+   "name": "Panaji",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 15.498888888888889,
+   "lon": 73.82777777777777
+  },
+  {
+   "name": "Mermaid Garden",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 15.5006202,
+   "lon": 73.8310372
+  },
+  {
+   "name": "Mhamai Kamat House",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 15.5005169,
+   "lon": 73.8295195
+  },
+  {
+   "name": "Adil Shah Palace",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 15.5007546,
+   "lon": 73.829868
+  },
+  {
+   "name": "Sunaparanta, Goa Centre for the Arts",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 15.493888888888888,
+   "lon": 73.8275
+  },
+  {
+   "name": "Azad Maidan",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 15.5,
+   "lon": 73.8261111111111
+  },
+  {
+   "name": "Goa Public Service Commission",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 15.4954,
+   "lon": 73.8248
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

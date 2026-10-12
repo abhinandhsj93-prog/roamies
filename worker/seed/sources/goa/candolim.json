@@ -1,0 +1,59 @@
+{
+ "query": "Candolim",
+ "found": "Candolim, Calangute, Bardez, North Goa, Goa, 403515, India",
+ "lat": 15.5201532,
+ "lon": 73.7659422,
+ "fetchedAt": "2026-10-12T19:36:22.651Z",
+ "locality": {
+  "id": "candolim-north-goa-goa",
+  "name": "Candolim",
+  "area": "Calangute, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Candolim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Sinquerim_Beach_from_the_fort_during_Sunset.jpg/1280px-Sinquerim_Beach_from_the_fort_during_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Candolim",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinquerim_Beach_from_the_fort_during_Sunset.jpg"
+  },
+  "Sinquerim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/A_view_of_Sinquerim_Beach_near_Panaji%2C_Goa_%28December_2018%29.jpg/1280px-A_view_of_Sinquerim_Beach_near_Panaji%2C_Goa_%28December_2018%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sinquerim",
+   "credit": "Photo: The uploader on Wikimedia Commons received this from the author/copyright holder., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Sinquerim_Beach_near_Panaji,_Goa_(December_2018).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Candolim",
+   "text": "Candolim is a census town in North Goa and is located in the Bardez taluka in the state of Goa, India. It is situated just south of Calangute Beach and north of Sinquerim.\n\n\n== History ==\nDuring the late 16th century, Candolim became the first village to be entirely converted to Christianity in Bardez by the Franciscans. The present Christian identity of its villagers dates back to the conversion of Santu Sinay (Shenoy), a Brahmin ganvkar (Konkani: freeholder) who belonged to the  nobility of his people. He was the progenitor of the  noble revolutionary Pinto family.\nSantu Sinay (1577–1640) was the son of Naru Sinay, who had earlier migrated from Loutolim, Salcette, and established himself in Candolim, where he purchased the fifth vangodd (clan) of the comunidade on 13 August 1604. Naru Sinay died after 1624, and was survived by his wife, and three sons—Jeronimo de Souza, Santu Sinay, and Christovão d'Andrade. Santu Sinay was converted along with the rest of his family at the age of 8, and subsequently took the name of Salvador Pinto. His godfather was Fr. Manoel Pinto, a Franciscan rector of the Church of Our Lady of Hope of Candolim and the seminary of Reis Magos. He was brought up...",
+   "url": "https://en.wikipedia.org/wiki/Candolim"
+  },
+  {
+   "title": "Sinquerim",
+   "text": "Sinquerim is a village in Bardez sub-district, North Goa, India.",
+   "url": "https://en.wikipedia.org/wiki/Sinquerim"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Candolim",
+  "text": "Candolim is a village in North Goa, India. It is situated just south of the famous Calangute beach, and is a popular tourist destination.\n\n\n== See ==\n Fort Aguada.  \n\n\n== Do ==\nApart from sunbathing, shopping for trinkets and eating there is not much else to do in Candolim, which makes for a relaxing holiday. \n\n\n=== Beach ===\n\nCandolim beach is another relatively busy soft sandy beach that due to erosion can be narrow in some places.   Hawkers selling mostly cheap clothes and along with masseurs offering massages makes the beach a lively spot.   A polite but firm no always works, though these people can be very interesting to talk to.   There are a variety of beach shacks providing plenty of food and cold drink choices along with rickety sun beds and the odd rustic \"loo\".   Towards the Sinquerim end of the beach you can get most forms of water sport activities including para sailing, and excursions to see aquatic wildlife.\nThis is a tour operator tourism place, though it gets very busy with locals at weekends and holidays.\n\n\n=== Tours ===\nLots of places offering tours.\n\n\n== Eat ==\nHands down, the best restaurant in Candolim is After 7. Great selection of food and wine (mainly European) served in a beautiful garden. Great service, very romantic. The chap that owns the place ‘Leo’, super friendly, and very passionate about his restaurant. Opp Pedro Martina Resort, 1/274b, Gaura Vaddo.\nA sister restaurant to After 7, also run by Leo called Posh. Do a great American style brunch. Eggs Benedict, 10/10, excellent coffee. Nerul Panchayat.\nYou should try this lovely restaurant called Bom Sucesso in Candolim. A multicusine the food is great.You should try their Seafood and meat platters and their Tiger Prawns. Good entertainment- live music, karaoke, magic show, big screen etc. With a sound proof music room now the music goes on even after 10PM.\nFor good North Indian food and succulent kebabs in pleasant surroundings try Floyd's on the main road just south of the junction to Mapusa. It's a small place with a warm and friendly atmosphere and is very popular.\nCoconut Inn, a bit further south and just off the main road (signposted from the junction) is housed in the garden of an old Goan house and serves good food in a relaxing environment at very reasonable prices. Service is friendly and attentive and there is live Portuguese/Goan music on Tuesday evenings.\nFor excellent food and service (but for some reason to an American rock soundtrack) walk a bit farther south on the main road towards Sinquerim to Flambee. The food is fabulous and the whole tandoori kingfish (huge, so only for groups) is a delicious work of art. The restaurant is open all year round, unlike most in Candolim, which close during the monsoon.\nStone House, again on the main road, has been going for so long that it is now a Candolim institution. It's a multi-cuisine restaurant - s\n== Drink ==\nFor a great night out try Bom Sucesso.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Candolim"
+ },
+ "sights": [
+  {
+   "name": "Sinquerim",
+   "kind": "landmark",
+   "walkMinutes": 32,
+   "lat": 15.50267,
+   "lon": 73.766925
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

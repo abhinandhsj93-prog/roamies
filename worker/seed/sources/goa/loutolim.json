@@ -1,0 +1,53 @@
+{
+ "query": "Loutolim",
+ "found": "Loutolim, Salcete, South Goa, Goa, 403103, India",
+ "lat": 15.3400173,
+ "lon": 73.9860024,
+ "fetchedAt": "2026-10-12T19:44:29.603Z",
+ "locality": {
+  "id": "loutolim-south-goa-goa",
+  "name": "Loutolim",
+  "area": "Salcete, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Big Foot Museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Big_Foot_2.jpg/1280px-Big_Foot_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Big Foot Museum",
+   "credit": "Photo: JosephAssisFernandes, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_Foot_2.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Loutolim",
+   "text": "Loutolim or Loutulim  (Konkani: Lottli pronounced:[lɔːʈlĩː], Portuguese: Loutulim) is a large village of South Goa district in the state of Goa, India. It is in the Salcete sub-district.\n\n\n== History ==\nAccording to a legend, Brahmins from northern India founded the settlement of Loutolim when they emigrated to Goa after the Saraswati River in their homeland dried up.\nBeginning in the 1500s the Jesuits began the Christianization of Goa and in 1567 Diogo Rodrigues, the Portuguese captain of Rachol Fort, ordered the burning and destruction of all the temples in the village. Some Hindu villagers fled to territories governed by the Hindu King, the Sonde Raja, across the Zuari River with their idols, including the idol of Shri Ramnath in what was later known as the Novas Conquistas (New Conquests). Those who started in Loutolim became Christian. The Salvador do Mundo (Saviour of the World) church was built by the Jesuits in 1586 for local converts.\n\n\n== Location ==\nLoutolim is located approximately 10 km (6.2 mi) from Margao, the headquarters of South Goa district. It has an average elevation of 32 m (105 ft) and is situated in Salcete. The river Zuari flows along one side of Loutolim and it...",
+   "url": "https://en.wikipedia.org/wiki/Loutolim"
+  },
+  {
+   "title": "Big Foot Museum",
+   "text": "Big Foot Museum is a museum and theme park in the village of Loutolim in southern Goa, India, dedicated to rural Goan life. It was founded and run by the artist Maendra Alvares.\nIt is privately owned and recreates a Goan village in miniature showing what local rural life was like in the past.",
+   "url": "https://en.wikipedia.org/wiki/Big_Foot_Museum"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Salcete",
+  "text": "Salcete or Salcette is a taluka in South Goa with the business capital Margao as its centre.\n\n\n== See ==\n\n Ashvek Vintage World, 12/B, Goulloy, NH17, Nuvem, ☏ +91-832-2731312, +91-9822100339. \"dedicated to restore and preserve motoring and motorcycling gems of historical interest in Goa\". You can find cars ranging from Mercedes Benz, to Peugeot, Morris, Chevrolet and Volkswagen. ₹50. \n Ancestral Goa, Big Foot, Loutolim, Goa, India., ☏ +91 832 2777034. Big Foot is an attempt to illustrate and recreate Goa's traditional past. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Salcete"
+ },
+ "sights": [
+  {
+   "name": "Big Foot Museum",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 15.3396,
+   "lon": 73.9875
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

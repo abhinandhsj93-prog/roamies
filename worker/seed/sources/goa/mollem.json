@@ -1,0 +1,48 @@
+{
+ "query": "Mollem",
+ "found": "Mollem, Dharbandora, Kushavati, Goa, 403410, India",
+ "lat": 15.3750107,
+ "lon": 74.2268533,
+ "fetchedAt": "2026-10-12T19:48:06.534Z",
+ "locality": {
+  "id": "mollem-kushavati-goa",
+  "name": "Mollem",
+  "area": "Dharbandora, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Mollem": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/MollemChurch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mollem",
+   "credit": "Photo: David Edgar, CC BY 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MollemChurch.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mollem",
+   "text": "Mollem is a village in the municipality of Asse, Flemish Brabant, Belgium.\nIt used to be a municipality on its own but now is a part of Asse.\nMollem has a railway station on line 60 between Jette and Dendermonde.\nThe hamlet of Bollebeek is close to the village.\nMollem's most famous place is \"Rie van Pol\", a bar that has remained unchanged throughout the years.\nEvery year a lot of visitors (mostly foreign) visit Mollem just to visit this place.\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Mollem"
+  },
+  {
+   "title": "Mollem, Goa",
+   "text": "Mollem (pronounced mole; the alphabet m is silent) is a small village in Goa,on NH4 near the border with Karnataka in the foothills of the Sahyadri Mountain range at the beginning of Anmod Ghat. It comes under the Dharbandora block. The village is the primary entry point for Bhagwan Mahaveer Sanctuary and Mollem National Park.",
+   "url": "https://en.wikipedia.org/wiki/Mollem,_Goa"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Mollem, Goa",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 15.379047,
+   "lon": 74.226294
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

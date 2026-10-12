@@ -1,0 +1,95 @@
+{
+ "query": "Sinquerim",
+ "found": "Sinquerim, Bardez, North Goa, Goa, 403515, India",
+ "lat": 15.4999597,
+ "lon": 73.7709793,
+ "fetchedAt": "2026-10-12T19:36:42.843Z",
+ "locality": {
+  "id": "nerul-north-goa-goa",
+  "name": "Nerul",
+  "area": "Bardez, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Nerul": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Nerul_Lake%2C_Navi_Mumbai_Photo_3.jpg/1280px-Nerul_Lake%2C_Navi_Mumbai_Photo_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nerul",
+   "credit": "Photo: Navi guy, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nerul_Lake,_Navi_Mumbai_Photo_3.jpg"
+  },
+  "Fort Aguada": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fort_aguada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Fort Aguada",
+   "credit": "Photo: Nanasur at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_aguada.jpg"
+  },
+  "Sinquerim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/A_view_of_Sinquerim_Beach_near_Panaji%2C_Goa_%28December_2018%29.jpg/1280px-A_view_of_Sinquerim_Beach_near_Panaji%2C_Goa_%28December_2018%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sinquerim",
+   "credit": "Photo: The uploader on Wikimedia Commons received this from the author/copyright holder., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Sinquerim_Beach_near_Panaji,_Goa_(December_2018).jpg"
+  },
+  "Taj Fort Aguada Resort": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Taj_Fort_Aguada_Beach_Resort_Hotel_Goa_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Taj Fort Aguada Resort",
+   "credit": "Photo: Drmarathe, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Fort_Aguada_Beach_Resort_Hotel_Goa_3.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Nerul",
+   "text": "Nerul (Pronunciation: [neɾuːɭ])  is a residential and commercial node in Navi Mumbai, Maharashtra, India. Nerul is located in the Harbour Line, Trans-Harbour Line and Port Line of Mumbai local train network where Kharghar and Vashi are the nearby stations. Nerul node is also famous for its parallel-running Palm Beach Road. Nerul is quite famous for its gardens like the Rock Garden and state of the art building structures.\n\n\n== Location ==\nNerul is located at coordinates 19.033°N 73.020°E. Nerul is strategically located on the Harbour line, Trans-Harbour line, and Port line of the Mumbai Suburban Railway. The nearby stations include Kharghar and Vashi. The node is well-connected by road, with the Sion Panvel Highway and Palm Beach Road providing easy access to other parts of Navi Mumbai and Mumbai.\n\n\n== Education ==\n Modern clinical training infrastructures and non-invasive diagnostic imaging centers operate alongside regional institutes to support healthcare capabilities across the node.\nNerul is home to several educational institutions, including schools, colleges, and professional training centers. Some notable institutions include:\n\nSIES College of Arts, Science, and Commerce: A well...",
+   "url": "https://en.wikipedia.org/wiki/Nerul"
+  },
+  {
+   "title": "Fort Aguada",
+   "text": "Fort Aguada is a seventeenth-century Portuguese-era fort, built in 1612, along with a lighthouse, standing in Goa, India, on Sinquerim Beach, overlooking the Arabian Sea. It is an ASI protected Monument of National Importance in Goa.",
+   "url": "https://en.wikipedia.org/wiki/Fort_Aguada"
+  },
+  {
+   "title": "Sinquerim",
+   "text": "Sinquerim is a village in Bardez sub-district, North Goa, India.",
+   "url": "https://en.wikipedia.org/wiki/Sinquerim"
+  },
+  {
+   "title": "Taj Fort Aguada Resort",
+   "text": "Taj Fort Aguada Resort & Spa, formerly Fort Aguada Beach Resort, is built on the crescent of the beach at Sinquerim, in Goa, India. The hotel is part of the Taj Group of Hotels. \nThe Exotica is the \"most plush\" of the Taj group's four hotels in Goa. The 143-room property overlooks the beach and features amenities ranging from cricket grounds to an Ayurvedic spa. The hotel stands on a 56-acre beachfront property.",
+   "url": "https://en.wikipedia.org/wiki/Taj_Fort_Aguada_Resort"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bardez",
+  "text": "Bardez is a municipality of 237,000 people (2011) in North Goa.\n\n\n== See ==\nChapora Beach\n1 Houses of Goa Museum (Salvador-do-Mundo village of Bardez). Tue-Sun 10AM-7:30PM. An architectural museum by reputed architect Gerard da Cunha, that \"encapsulates for posterity the phenomenal outcome of the amalgamation of eastern and western architectural styles\" \n2 Xavier Centre of Historical Research, B B Borkar Road, Alto-Porvorim, ☏ +91-832-2417772. Mon-Fri 9:30AM-7PM (lunch break: 1-2PM), Sat 9:30AM-1PM. It has a gallery on Christian art named the Xavier Xandev Museum art. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bardez"
+ },
+ "sights": [
+  {
+   "name": "Taj Fort Aguada Resort",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 15.4972787,
+   "lon": 73.7672184
+  },
+  {
+   "name": "Sinquerim",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 15.50267,
+   "lon": 73.766925
+  },
+  {
+   "name": "Fort Aguada",
+   "kind": "landmark",
+   "walkMinutes": 26,
+   "lat": 15.488,
+   "lon": 73.763
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

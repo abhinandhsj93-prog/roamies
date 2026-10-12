@@ -1,0 +1,52 @@
+{
+ "query": "Cavelossim",
+ "found": "Cavelossim, Salcete, South Goa, Goa, 403731, India",
+ "lat": 15.1845618,
+ "lon": 73.9456314,
+ "fetchedAt": "2026-10-12T19:43:32.847Z",
+ "locality": {
+  "id": "cavelossim-south-goa-goa",
+  "name": "Cavelossim",
+  "area": "Salcete, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Cavelossim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Cavelossim_Beach.JPG/1280px-Cavelossim_Beach.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cavelossim",
+   "credit": "Photo: Charan kumar kuppala, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cavelossim_Beach.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Cavelossim",
+   "text": "Cavelossim is a village in South Goa district in the state of Goa, India.\nThe village hosts a well-known beach at the southernmost tip of the Salcete beach stretch that starts from Majorda in the north to Cavelossim in the south. The Sal River flows into the Arabian Sea at the south of this village.\n\n\n== History ==\nThe only attraction was a small temple which housed the idol of the Hindu goddess Shantadurga, believed to be located around 100 metres (330 ft) behind the current location of the church of Santa Cruz. (This temple is not to be confused with the much larger temple to the same deity in Deoolbhat, Quelossim, a similarly named village located between Mormugao and Salcete.)\n\n\n=== Tradition ===\nIt is said that a usurped Raja, Prince Rama, a scion of the Nayaka dynasties, wandering aimlessly after his defeat, was finally granted asylum in the village of Cavelossim, as there were very few of prominence residing there to oppose. Some suggest he belonged to Nayakas of Keladi and relocated as late as the 1500s with his remaining loyal soldiers and officers. Hence several families in Cavelossim trace their lineage to Nayaka and Vijayanagara officers and had the different vaddos (wards or...",
+   "url": "https://en.wikipedia.org/wiki/Cavelossim"
+  },
+  {
+   "title": "Carmona, Goa",
+   "text": "Carmona is a village in the state of Goa, India. Located in the Salcette taluka of the South Goa district. It shares a border with Orlim village in the North, Cavelossim village in the South whilst the river Sal runs along its Eastern edge from North to South and the Arabian Sea to its West.\nThe village of Carmona is sub-divided into wards \n(Vaddos) which includes Xiro, Fondo, Ratmadem, Kirbhat, Olavado, Choqui, Tamdeg, Batti, Batti Viegas, Xhetmalem, Jorge, Ankur Luis, Igreja, DeMello, Gavona, Alemao and Zalor.",
+   "url": "https://en.wikipedia.org/wiki/Carmona,_Goa"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Salcete",
+  "text": "Salcete or Salcette is a taluka in South Goa with the business capital Margao as its centre.\n\n\n== See ==\n\n Ashvek Vintage World, 12/B, Goulloy, NH17, Nuvem, ☏ +91-832-2731312, +91-9822100339. \"dedicated to restore and preserve motoring and motorcycling gems of historical interest in Goa\". You can find cars ranging from Mercedes Benz, to Peugeot, Morris, Chevrolet and Volkswagen. ₹50. \n Ancestral Goa, Big Foot, Loutolim, Goa, India., ☏ +91 832 2777034. Big Foot is an attempt to illustrate and recreate Goa's traditional past. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Salcete"
+ },
+ "sights": [
+  {
+   "name": "Carmona, Goa",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 15.2,
+   "lon": 73.95
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

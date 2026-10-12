@@ -1,0 +1,113 @@
+{
+ "query": "Bogmalo",
+ "found": "Bogmalo, Vasco, Mormugao, South Goa, Goa, 403802, India",
+ "lat": 15.3696321,
+ "lon": 73.8359166,
+ "fetchedAt": "2026-10-12T19:45:28.075Z",
+ "locality": {
+  "id": "bogmalo-south-goa-goa",
+  "name": "Bogmalo",
+  "area": "Vasco da Gama, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Bogmalo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Bogmalo_Beach_View.jpg/1280px-Bogmalo_Beach_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bogmalo",
+   "credit": "Photo: S Rahul Bose, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bogmalo_Beach_View.jpg"
+  },
+  "Dabolim Airport": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Goa-Vasco_03-2016_12_Dabolim_Airport.jpg/1280px-Goa-Vasco_03-2016_12_Dabolim_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dabolim Airport",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goa-Vasco_03-2016_12_Dabolim_Airport.jpg"
+  },
+  "Dabolim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Old_Dabolim_Railway_Station.JPG/1280px-Old_Dabolim_Railway_Station.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dabolim",
+   "credit": "Photo: S Rahul Bose, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Dabolim_Railway_Station.JPG"
+  },
+  "Naval Aviation Museum (Goa)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Naval_Aviation_Museum%2C_Goa_%28India%29_vrvbgoa2k24_%2869%29.jpg/1280px-Naval_Aviation_Museum%2C_Goa_%28India%29_vrvbgoa2k24_%2869%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Naval Aviation Museum (Goa)",
+   "credit": "Photo: Vinayaraj, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Aviation_Museum,_Goa_(India)_vrvbgoa2k24_(69).jpg"
+  },
+  "INS Hansa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Gate_of_INS_Hansa.jpg/1280px-Gate_of_INS_Hansa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "INS Hansa",
+   "credit": "Photo: SerChevalerie, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gate_of_INS_Hansa.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Bogmalo",
+   "text": "Bogmalo (pronounced [bɔːɡmaːɭɔː]) is a small beach-side village in Goa, India. It is situated in a small bay with around a mile of curving sandy beach.\nThe beach is located about 4 kilometres (2.5 mi) from Dabolim Airport and 9 kilometres (5.6 mi) from the port town of Vasco da Gama. It is known to host conferences for AIESEC India every June or July.\nAreas of interest also include the Naval Aviation Museum (India), curated by the Indian Navy, which showcases the history of Naval Aviation with illustrations and installations including many de-commissioned aircraft used by the military since Independence.\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Bogmalo"
+  },
+  {
+   "title": "Dabolim Airport",
+   "text": "Dabolim Airport (IATA: GOI, ICAO: VOGO) is an international airport serving Panaji, the capital of the state of Goa, India. It is operated by the Airports Authority of India (AAI) as a civil enclave in an Indian Navy naval airbase named INS Hansa. The airport is located in Dabolim, in South Goa district, 4 km (2.5 mi) from the nearest city of Vasco da Gama, 23 km (14 mi) from Margao, and about 30 km (19 mi) from the state capital, Panaji.\nThe airport's integrated terminal was inaugurated in December 2013. It was designed by Creative Group, an India-based architecture firm. In fiscal year 2024-25, the airport handled over 7.2 million passengers. Since fiscal year 2023-24, the airport has been witnessing decline in passenger, air and cargo traffic, due to the excess traffic taken by the new airport as the second airport of the state. Several European charter airlines fly to Goa seasonally, typically between November and May. Until 2022, flights from the UK (London Gatwick Airport and Manchester Airport) were operated by TUI Airways and Air India, which operated on a daily basis, before both the airlines shifted to the new airport in 2023 to relieve the growing excess traffic in this airport...",
+   "url": "https://en.wikipedia.org/wiki/Dabolim_Airport"
+  },
+  {
+   "title": "Dabolim",
+   "text": "Dabolim is a village, with a total population of around 6700, in Mormugão, Goa, India. It is located about 30 km from the state capital Panjim, 23 km from the South Goa district headquarters Margão and 5 kilometres from Vasco da Gama, the headquarters of Mormugão. Dabolim Airport, the first airport in Goa, is located here.",
+   "url": "https://en.wikipedia.org/wiki/Dabolim"
+  },
+  {
+   "title": "Naval Aviation Museum (Goa)",
+   "text": "The Naval Aviation Museum is a military aviation museum located in Bogmalo, 6 kilometres (3.7 mi) from Vasco da Gama, Goa, India focused on the history of the Indian Naval Air Arm. The museum is divided into two main parts, an outdoor exhibit and a two-storey indoor gallery.",
+   "url": "https://en.wikipedia.org/wiki/Naval_Aviation_Museum_(Goa)"
+  },
+  {
+   "title": "INS Hansa",
+   "text": "INS Hansa, (IATA: N/A, ICAO: VOGO) is an Indian naval air station located near Dabolim in Goa, India.  It is India's biggest naval airbase. The military air base has a civil enclave, that operates as Dabolim Airport.",
+   "url": "https://en.wikipedia.org/wiki/INS_Hansa"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bogmalo",
+  "text": "Bogmalo is a small beach-side village in South Goa. Despite its small size, Bogmalo has a range of accommodation and places to eat. It is situated in a small bay, with around a mile of curving sandy beach, which is generally very quiet. It benefits from some beautiful sunsets.\n\n\n== See ==\n1 Naval Aviation Museum, 442/51, Dabolim, Bogmalo road, Vasco (about 2 km from the beach). a military aviation museum focused on the history of the Indian Naval Air Arm. Displays the history of Indian's Naval Airforce right from the Independence.  The entrance to the museum gives a feeling like walking in a submarine before you enter into the hall of fame. Information about all the weaponry and the fighter jets is also given. You can also buy souvenirs at the navy shop outside. (updated Jan 2026)\nThe sunset from one of the beachfront bar/restaurants, with a cold bottle of Kingfisher in hand. What more could you ask for?\nThe cows on the beach. Yes it is true. Half a dozen of them arrive mid-afternoon and wander off back up the road as soon as the sun disappears below the horizon. Spending time on the beach is just as lazy a past-time for the cows as it is for the humans they share it with, though they will occasionally move to lick out a discarded ice-cream tub.\n\n\n== Do ==\nVisit the beach, a small and almost deserted beach, 8 km south from Vasco Da Gama, and 4 km from Goa's airport. A good place to sleep after or before your flight.\nBoat Trips to the islands and for dolphin spotting can be booked through the Full Moon restaurant at the south end of the beach.\n\n\n== Eat ==\n\nEat at any of the handful of restaurants strung along the beach front. Joets at the north end of the beach, and Full Moon at the south end (next to Bogmallo Beach Resort) are a bit more luxurious and therefore slightly more expensive. The food is excellent at all of the establishments and the service always friendly and efficient. At some of the restaurants (especially the smaller ones) the waiter will set up a table with candles on the beach for you if you prefer a more \"intimate\" dining experience. Be prepared for one or two of the local dogs to hang around a few yards away looking hopefully at you if you do this - but don't worry they won't bother you as long as you ignore them!\nBogmallo Beach Resort has an à-la-carte restaurant, often with \"lounge singer\" style entertainment.\n\n\n== Drink ==\nKingfisher beer. The symbol of Goa. See \"Eat\" above for where to do it.\nIndian Wine is also available at some of the restaurants and believe it or not is pretty good. In comparison with other food and drink in Goa, it's quite pricey.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bogmalo"
+ },
+ "sights": [
+  {
+   "name": "Naval Aviation Museum",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 15.374743,
+   "lon": 73.838543
+  },
+  {
+   "name": "Dabolim Airport",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 15.380833333333333,
+   "lon": 73.83138888888888
+  },
+  {
+   "name": "INS Hansa",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 15.380833333333333,
+   "lon": 73.83138888888888
+  },
+  {
+   "name": "Dabolim",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 15.379511111111112,
+   "lon": 73.84448611111111
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

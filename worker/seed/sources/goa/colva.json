@@ -1,0 +1,39 @@
+{
+ "query": "Colva",
+ "found": "Colva, Salcete, South Goa, Goa, 403708, India",
+ "lat": 15.2773035,
+ "lon": 73.9202034,
+ "fetchedAt": "2026-10-12T19:42:33.159Z",
+ "locality": {
+  "id": "colva-south-goa-goa",
+  "name": "Colva",
+  "area": "Salcete, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Colva": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Colv%C3%A1_beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Colva",
+   "credit": "Photo: Portugal Editor Exploration, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colv%C3%A1_beach.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Colva",
+   "text": "Colva  (Portuguese: Colvá) is a  coastal village situated in the Salcete taluka, in South Goa district, of Goa state on the west coast of the Indian subcontinent. Colva Beach (Portuguese: Praia de Colvá) spans about 2.5 km (1.6 mi) along a sandy coastline of approximately 25 km (16 mi) extending from Bogmalo in the north to Cabo de Rama in the south.\nThe village had significant importance to the Portuguese, local (Gancars) noble chardó (Kshatriya) Feudal Lords and was the retreat for Goa's high, elite and aristocratic society, who would come to Colvá for their mudança (change of air), to enjoy the private beach of the then Roiz family. Today the Portuguese area is dotted with the past elite houses and modern villas, including many ruins from more than 300 years. On weekends, huge crowds of tourists, visitors from around the world as well as local Indians, enjoy the sunset and various activities. The beach is particularly busy in October, when hordes of religious pilgrims come and visit Colvá Church, called Igreja de Nossa Senhora das Mercês (Church of Our Lady of Mercy), that was founded in AD 1630 by the Roiz family and the crown of the statue of our Lady has their family initials...",
+   "url": "https://en.wikipedia.org/wiki/Colva"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Colva",
+  "text": "Colva is a town in South Goa, 8 km away from Margao. It is popular for its beach.\n\n\n== See ==\n\n\n== Do ==\n\n\n== Eat ==\nThere are lot beach shacks near Colva resort\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Colva"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

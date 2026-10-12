@@ -1,0 +1,90 @@
+{
+ "query": "Chandor",
+ "found": "Chandor, Salcete, South Goa, Goa, 403714, India",
+ "lat": 15.2614307,
+ "lon": 74.0440025,
+ "fetchedAt": "2026-10-12T19:44:09.684Z",
+ "locality": {
+  "id": "chandor-south-goa-goa",
+  "name": "Chandor",
+  "area": "Salcete, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Menezes Braganza House": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Menezes_Braganza_House_at_Chandor%2C_Goa_Photo_Peter_Benaion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Menezes Braganza House",
+   "credit": "Photo: Peter Benaion, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Menezes_Braganza_House_at_Chandor,_Goa_Photo_Peter_Benaion.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Chandor",
+   "text": "Chandor is a village in Salcete sub-district of South Goa, in the Indian state of Goa. It lies on the southern bank of the Zuari River and western bank of the Kushavati River.\n\n\n== History ==\nThe ancient city of Chandrapura, where Chandor now stands, served as a capital from the Bhoja period to that of the Kadambas. The name comes from Chandreshwar, meaning Lord of the Moon, after the Hindu god Shiva, who wears a crescent in his hair. Chandor has a fort and a temple within its citadel. Located 10 km (6.2 mi) from the inland of Margao, it has both ancient and modern aspects to its history.\nChandor also boasts ancient inscriptions of Bhoja kings, dating back to the 3rd or 4th Century CE. It is thought that by the 3rd century, the Bhojas had ruled over Goa, as well as Shashti, Antruz, Bardez, North Kanara district, part of Belgaum district, and some other areas around Goa with their main power base being Chandrapur (current Chandor).  The earliest piece of evidence being the Siroda plate, found in Shiroda on the banks of a river. It also has a Shiva temple, with old remnants of the fortress walls and forms one of the oldest structural remains in Goa. Chandor’s origins are not exact, which...",
+   "url": "https://en.wikipedia.org/wiki/Chandor"
+  },
+  {
+   "title": "Chandar railway station",
+   "text": "Chandar Railway Station (station code: CNR) is a small railway station in South Goa district, Goa. It serves Chandar village. The station consists of one platform. The platform is not well sheltered. It lacks many facilities including water and sanitation.",
+   "url": "https://en.wikipedia.org/wiki/Chandar_railway_station"
+  },
+  {
+   "title": "Menezes Braganza House",
+   "text": "The Menezes Braganza House, also known as the Braganza Pereira House, the Menezes Braganza Pereira House, or simply as the Braganza House, is a 17th-century Portuguese-style mansion in Chandor, South Goa. It stretches along one side of the village square and is one of the largest colonial-period residences in Goa.",
+   "url": "https://en.wikipedia.org/wiki/Menezes_Braganza_House"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Salcete",
+  "text": "Salcete or Salcette is a taluka in South Goa with the business capital Margao as its centre.\n\n\n== See ==\n\n Ashvek Vintage World, 12/B, Goulloy, NH17, Nuvem, ☏ +91-832-2731312, +91-9822100339. \"dedicated to restore and preserve motoring and motorcycling gems of historical interest in Goa\". You can find cars ranging from Mercedes Benz, to Peugeot, Morris, Chevrolet and Volkswagen. ₹50. \n Ancestral Goa, Big Foot, Loutolim, Goa, India., ☏ +91 832 2777034. Big Foot is an attempt to illustrate and recreate Goa's traditional past. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Salcete"
+ },
+ "sights": [
+  {
+   "name": "Nossa Senhora de Belem Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 15.2614112,
+   "lon": 74.0448616
+  },
+  {
+   "name": "Braganza House",
+   "kind": "museum",
+   "walkMinutes": 1,
+   "lat": 15.2612755,
+   "lon": 74.0435426
+  },
+  {
+   "name": "Mount Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 15.2634181,
+   "lon": 74.0390169
+  },
+  {
+   "name": "St Tiago Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 15.255457,
+   "lon": 74.051
+  },
+  {
+   "name": "Fernandes Heritage Home",
+   "kind": "museum",
+   "walkMinutes": 17,
+   "lat": 15.2556738,
+   "lon": 74.0518532
+  },
+  {
+   "name": "Sailabhatt Childrens Park",
+   "kind": "attraction",
+   "walkMinutes": 18,
+   "lat": 15.25924,
+   "lon": 74.03401
+  }
+ ],
+ "food": [],
+ "errors": []
+}

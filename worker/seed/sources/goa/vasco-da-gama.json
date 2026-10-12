@@ -1,0 +1,250 @@
+{
+ "query": "Vasco da Gama",
+ "found": "Vasco, Mormugao, South Goa, Goa, 403802, India",
+ "lat": 15.3984159,
+ "lon": 73.8128829,
+ "fetchedAt": "2026-10-12T19:45:08.149Z",
+ "locality": {
+  "id": "baina-south-goa-goa",
+  "name": "Baina",
+  "area": "Vasco da Gama, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Baina": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mapa_de_la_parroquia_de_Ba%C3%AD%C3%B1a.svg/1280px-Mapa_de_la_parroquia_de_Ba%C3%AD%C3%B1a.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Baíña",
+   "credit": "Photo: Gavilán de Castilla, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapa_de_la_parroquia_de_Ba%C3%AD%C3%B1a.svg"
+  },
+  "Baíña": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mapa_de_la_parroquia_de_Ba%C3%AD%C3%B1a.svg/1280px-Mapa_de_la_parroquia_de_Ba%C3%AD%C3%B1a.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Baíña",
+   "credit": "Photo: Gavilán de Castilla, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapa_de_la_parroquia_de_Ba%C3%AD%C3%B1a.svg"
+  },
+  "Vasco da Gama, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Goa-Vasco_03-2016_02_Vaddem.jpg/1280px-Goa-Vasco_03-2016_02_Vaddem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vasco da Gama, Goa",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goa-Vasco_03-2016_02_Vaddem.jpg"
+  },
+  "Mormugao": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Mormugao_Harbour_Aerial_View.jpg/1280px-Mormugao_Harbour_Aerial_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mormugao",
+   "credit": "Photo: Trinidade, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mormugao_Harbour_Aerial_View.jpg"
+  },
+  "Tilak Maidan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/I-League_Salgocar_FC_vs_Bengaluru_FC_9_January_2016.jpg/1280px-I-League_Salgocar_FC_vs_Bengaluru_FC_9_January_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tilak Maidan",
+   "credit": "Photo: Coderzombie, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:I-League_Salgocar_FC_vs_Bengaluru_FC_9_January_2016.jpg"
+  },
+  "Vasco da Gama railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Vasco_Railway_Station_Entrance_-_panoramio.jpg/1280px-Vasco_Railway_Station_Entrance_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vasco da Gama railway station",
+   "credit": "Photo: Deepak Patil, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vasco_Railway_Station_Entrance_-_panoramio.jpg"
+  },
+  "Operation Creek": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ehrenfels_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Operation Creek",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ehrenfels_1936.jpg"
+  },
+  "Vasco Da Gama Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Vasco_Da_Gama_constitution.svg/1280px-Vasco_Da_Gama_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vasco Da Gama Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vasco_Da_Gama_constitution.svg"
+  },
+  "Mormugao Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mormugao_constitution.svg/1280px-Mormugao_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mormugao Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mormugao_constitution.svg"
+  },
+  "Mormugao taluka": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Mormugao.png/1280px-Mormugao.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mormugao taluka",
+   "credit": "Photo: Vn14, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mormugao.png"
+  },
+  "Vasco da Gama": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/1280px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vasco da Gama",
+   "credit": "Photo: Sailko, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ignoto_portoghese,_ritratto_di_un_cavaliere_dell%27ordine_di_cristo,_1525-50_ca._02.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Vasco da Gama",
+   "text": "Vasco da Gama ( VAS-koo də GA(H)M-ə, European Portuguese: [ˈvaʃku ðɐ ˈɣɐmɐ]; c. 1460s – 24 December 1524) was a Portuguese mariner, explorer and nobleman. His discovery of the first maritime route between Europe and India—around the Cape of Good Hope, then across the Indian Ocean from Malindi in Kenya to Kozhikode—opened up European exploration of, and commerce with, India, and is considered a landmark event in world history.\nDa Gama's first voyage (1497–1499) was the first to link Europe and Asia using an ocean route that rounded the southern tip of Africa, although he was not the first Portuguese mariner to round the Cape. This route allowed the Portuguese to avoid sailing across the disputed Mediterranean Sea and to trade with Eastern Arab Mediterranean ports that embarked goods from land routes across the dangerous Arabian Peninsula. A milestone in Portuguese maritime exploration, his voyage marked the beginning of a sea-based phase of international eastern trade and an age of global imperialism. His outward and return voyages constituted the longest known ocean voyages ever completed at the time. The Portuguese later established a long-lasting colonial empire along the route from...",
+   "url": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+  },
+  {
+   "title": "Baíña",
+   "text": "Baíña is one of 15 parishes (administrative divisions) in Mieres, a municipality within the province and autonomous community of Asturias, in northern Spain.\n\n\n== Villages ==\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Ba%C3%AD%C3%B1a"
+  },
+  {
+   "title": "Vasco da Gama, Goa",
+   "text": "Vasco da Gama (, Portuguese: [ˈvaʃku ðɐ ˈɣɐmɐ]), often shortened to Vasco, is a city in the state of Goa on the west coast of India. It is named after the Portuguese explorer Vasco da Gama. It is the headquarters of the Mormugão taluka (subdistrict). The city lies on the western tip of the Mormugao peninsula, at the mouth of the Zuari River, about 30 kilometres (20 mi) from Panaji, Goa's capital, 28 kilometres (17 mi) from Margao, the district headquarters and about 5 kilometres (3 mi) from Dabolim Airport. The city is sometimes also referred to as Sambhaji Nagar after the Maratha king Sambhaji, a decision that has been controversial.\nThe city was developed along with the nearby Mormugao Port in 1886 and remained with the Portuguese Empire until the 1961 Indian military operation that annexed Goa. The 1888-constructed Mormugao Port remains a busy shipping route in Asia. It is one of the major ports of independent India. The shipbuilding area of Goa Shipyard Limited that builds Indian Navy and Coast Guard vessels was also built there in 1957 (during the Portuguese era). Initially built around the city's harbour as the 'Estaleiros Navais de Goa', the area has, since the end of Portuguese...",
+   "url": "https://en.wikipedia.org/wiki/Vasco_da_Gama,_Goa"
+  },
+  {
+   "title": "Mormugao",
+   "text": "Mormugao (Portuguese: Mormugão) is a port city situated in the  eponymous subdistrict of Southern  Goa state, India. It has a deep natural harbour and remains Goa's chief port.\nTowards the end of the Indo-Portuguese era in 1917, thirty-one settlements were carved out of the Salcette territory, to form Mormugao with Mormugao seaport as its headquarters. The remaining thirty-five settlements were retained in Salcette which encompass the present-day Salcete taluka with Margao as its headquarters.",
+   "url": "https://en.wikipedia.org/wiki/Mormugao"
+  },
+  {
+   "title": "Tilak Maidan",
+   "text": "Tilak Maidan is a multi-purpose stadium located in Vasco da Gama, Goa, India. It is used mostly for football matches and regularly hosts I-League and Goa Professional League matches. It also hosted the Indian Super League matches from 2020 till 2022 due to COVID-19 pandemic. The goal stands on the stadium are referred to as Harbour End and City End.",
+   "url": "https://en.wikipedia.org/wiki/Tilak_Maidan"
+  },
+  {
+   "title": "Railway Stadium, Vasco da Gama",
+   "text": "Railway Stadium is a cricket ground in Vasco da Gama, Goa, India.  The only recorded match held on the ground was a first-class match between Goa played Kerala in the 1986/87 Ranji Trophy, which Kerala won by 6 wickets.",
+   "url": "https://en.wikipedia.org/wiki/Railway_Stadium,_Vasco_da_Gama"
+  },
+  {
+   "title": "Vasco da Gama railway station",
+   "text": "Vasco da Gama (also known as Vasco-Da-Gama, station code: VSG) is a railway station serving the town of Vasco da Gama in Goa, India.\nType: Terminus\nNumber of Platforms: 3\nNumber of Halting Trains: 0\nNumber of Originating Trains: 12\nNumber of Terminating Trains: 12\n\n",
+   "url": "https://en.wikipedia.org/wiki/Vasco_da_Gama_railway_station"
+  },
+  {
+   "title": "Operation Creek",
+   "text": "Operation Creek, also known as Operation Longshanks, was a covert military operation undertaken by Britain's Special Operations Executive in World War II on 9 March 1943. It involved a nighttime attack by members of the Calcutta Light Horse and the Calcutta Scottish against a German cargo ship, Ehrenfels, which had been transmitting information to U-boats from Mormugão Harbour in neutral Portugal's territory of Goa. The attack was successful, and Ehrenfels and three other Axis cargo ships were sunk, stopping the transmissions to the U-boats.",
+   "url": "https://en.wikipedia.org/wiki/Operation_Creek"
+  },
+  {
+   "title": "Vasco Da Gama Assembly constituency",
+   "text": "Vasco Da Gama Assembly constituency is one of the 40 (Legislative Assembly) constituencies of Goa state in South India. This constituency came into existence in 1989. It is also the most populated constituency of Goa.",
+   "url": "https://en.wikipedia.org/wiki/Vasco_Da_Gama_Assembly_constituency"
+  },
+  {
+   "title": "Mormugao Assembly constituency",
+   "text": "Mormugao Assembly constituency is one of the 40 Goa Legislative Assembly constituencies of the state of Goa in southern India. Mormugao is also one of the 20 constituencies falling under South Goa Lok Sabha constituency. This constituency is the least populated constituency of Goa.",
+   "url": "https://en.wikipedia.org/wiki/Mormugao_Assembly_constituency"
+  },
+  {
+   "title": "Mormugao taluka",
+   "text": "Mormugao taluka is an administrative subdivision of South Goa district in Goa, India, headquartered at Mormugao city. It is the state's only subdistrict to have all four modes of transport—air, road, rail, and sea.",
+   "url": "https://en.wikipedia.org/wiki/Mormugao_taluka"
+  },
+  {
+   "title": "Marmagao railway station",
+   "text": "Marmagao Railway Station (Station code: MRH) is a small railway station in South Goa district, Goa. It serves Marmagao city. The station consists of two platforms, which are not well sheltered and lack many facilities, including water and sanitation.\nThe station was part of the Marmagao and Vasco metre-gauge railway line, which was the main rail line in the state until Konkan Railway was started in 1998. It comes under the jurisdiction of the Hubli division of the South Western Railway zone. There are no trains from the station, as Vasco da Gama railway station serves the purpose and is just 2 kilometres (1.2 mi) from Marmagao station.",
+   "url": "https://en.wikipedia.org/wiki/Marmagao_railway_station"
+  },
+  {
+   "title": "Mormugao Port",
+   "text": "Mormugao Port is a port on the western coast of India, in the coastal state of Goa. Commissioned in 1885 on the site of a natural harbour, it is one of India's oldest ports. The port employs around 2,600 employees and has about 4,000 pensioners.\nThe Mormugao Port Authority (MPA), which operates the port, is the largest employer in the Vasco region and has a complete mini-township in Headland Sada which includes schools, residential complexes and amenities (like a hospital) for employees of the Port. It was renamed from 'Mormugao Port Trust' to 'Mormugao Port Authority' in 2022.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Mormugao_Port"
+  },
+  {
+   "title": "Ravindra Bhavan-Mormugao Port Bridge",
+   "text": "Ravindra Bhavan-Mormugao Port Bridge also known as Vasco Cable Bridge is an elevated road-cum-flyover-cum-rail-over-bridge tri-cable stayed bridge in Mormugao, that starts at Ravindra Bhavan junction and ends at the Varunapuri. It's part of NH-17B highway.The bridge was inaugurated on 21st January 2025.",
+   "url": "https://en.wikipedia.org/wiki/Ravindra_Bhavan-Mormugao_Port_Bridge"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Vasco da Gama",
+  "text": "Vasco da Gama is a port city in the west coast Indian state Goa. Vasco is Goa's most populous overgrown town and the adjoining Mormugao port are busy, dusty and mainly commercial centres. \n\n\n== See ==\n\nThe \"Japanese Garden\" up the hill in a place called Sada. It is in a hill top facing the ocean. The route to the garden from the Vasco station gives a good view of the ships in the ocean in the Goan shipyards on your right hand side. It is seated in a beautiful calm place. You can sit on top and watch the ocean, or walk down to a temple at the shore. There is a sidewalk that takes you to the navy apartments nearby. It is not a usual tourist spot. It is very quiet and calm in the daytime and the ideal time to visit would be early mornings or evenings.\nBeaches: Bogmalo is a small beautiful beach behind the airport. But the water can get very rough here. Velsao is a long fantastic beach a little further from the airport. But it is absolutely lonely most of the time, nobody is around! It is not dangerous, but can be lonely!\n\n1 Naval Aviation Museum. Tue-Sun 10AM-5PM, closed Mon. This is a great place to see vintage aircraft like the Sealands, Doves, Alizes, Seahawks, Vampires and Hughes Helicopters, along with the relatively newer Sea Harriers and a Super Constellation. (updated Mar 2021)\n\n\n== Do ==\nBeing mainly a business town, there isn't much to do for the tourist in Vasco da Gama. However the parks and nearby beaches do provide an option to spend a few hours in complete leisure.\nOne new attraction is the sea walk at Baina beach.\nThe Naval aircraft museum on the way to Bogmalo beach is another must see attraction.\n\n\n== Eat ==\nGinza. Chinese restaurant, with food recommended as being \"good\". Add: At Karma Plaza's ground floor, walking distance from the Vasco Railway Station. Ph 2518928 Extn 48 or 2513776.\nRangoli  offers good food, with live music some evenings. In the same building is Temptation (Ph 2518928, extension 50), a 24-hour fast-food joint and hang out for the younger crowd. Add: Basement at Karma Plaza, on Dr Rajendra Prasad Avenue, ph 2518928 or 2513776.\nLa Paz Place of old-world charm. It restaurants are The Regency (phone 2512125 extn 130 serving Indian, continental, Goan food) and Sweet n Sour (phone 2512125 extn 125, serving exclusively Chinese), which offer interesting food. Also check the fast food joint on the ground floor called Goodyland (Ext 140). Harbour Bar is Ext 124. Ph Hotel La Paz Gardens, 2512121 till 2512125. Add: Swatantra Path, near the Municipal Garden.\nVasco Inn  Specialises in sea-food, Goan, Indian, Chinese. A/c restaurant and bar, preferred for its Goan cuisine. Check its chicken cafreal, and chicken vildalho (or vindaloo). Also xacuti and caldine. Approx one km from the Mormugao Harbour and 3.5 km from the Dabolim airport. Add: Khalap Mansion, Near IOC, Vasco da Gama. Ph 2514725\nCity Shack, is located near the municipal garden, the ambience is interesting. Anantashram is near the municipal garden, the AC counterpart of the City Shack. In both, the food is good. Check the handi biryani, and fish dishes.\nAnnapurna is a vegetarian restaurant Recommended: Panner makhanwala. Biryani. Fried rice.  Add: Near Municipal Market, Opposite the Bata showroom.  Ph 2513745, 2513375.\nCoconut Creek Restaurant on the beach just outside Vasco. Restaurant attached to a boutique resort.  Recommended: chicken cordon bleu, beef wellington and prawns stuffed sole.  Add\n== Drink ==\nThere are various wine shops that sell alcohol and are available quite easily.\nHarbour Bar in Hotel La Paz and all other hotels usually have a bar.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Vasco_da_Gama"
+ },
+ "sights": [
+  {
+   "name": "Vasco da Gama, Goa",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 15.398055555555555,
+   "lon": 73.8111111111111
+  },
+  {
+   "name": "Railway Stadium, Vasco da Gama",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 15.396249901714373,
+   "lon": 73.81187226255076
+  },
+  {
+   "name": "Vasco da Gama railway station",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 15.39611111111111,
+   "lon": 73.81166666666667
+  },
+  {
+   "name": "Tilak Maidan",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.400575,
+   "lon": 73.81511388888889
+  },
+  {
+   "name": "Vasco Da Gama Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 15.4,
+   "lon": 73.82
+  },
+  {
+   "name": "Ravindra Bhavan-Mormugao Port Bridge",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 15.39861111111111,
+   "lon": 73.80527777777777
+  },
+  {
+   "name": "Operation Creek",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 15.405248,
+   "lon": 73.8085068
+  },
+  {
+   "name": "Mormugao Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 15.39,
+   "lon": 73.82
+  },
+  {
+   "name": "Mormugao taluka",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 15.386878,
+   "lon": 73.812971
+  },
+  {
+   "name": "Mormugao",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 15.4,
+   "lon": 73.8
+  },
+  {
+   "name": "Mormugao Port",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 15.4089,
+   "lon": 73.8012
+  },
+  {
+   "name": "Marmagao railway station",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 15.4089,
+   "lon": 73.7992
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,52 @@
+Panaji -> Fontainhas: 16 wiki, voyage, 15 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504
+Fontainhas, Panaji -> Fontainhas: 16 wiki, voyage, 15 sights, 0 food, 13 photos, errors overpass sights: overpass-api.de 504
+Miramar, Panaji -> Miramar: 11 wiki, voyage, 5 sights, 0 food, 7 photos, errors overpass food: overpass-api.de 504
+Dona Paula -> Dona Paula: 6 wiki, voyage, 4 sights, 0 food, 5 photos, errors overpass food: overpass-api.de 504
+Old Goa -> Old Goa: 14 wiki, voyage, 13 sights, 0 food, 14 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Divar Island -> São Matias: 4 wiki, voyage, 3 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Chorao Island -> Chorao: 7 wiki, voyage, 7 sights, 0 food, 7 photos, errors overpass sights: overpass-api.de 504
+Ponda -> Ponda: 6 wiki, voyage, 5 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504
+Calangute -> Baga: 9 wiki, voyage, 10 sights, 0 food, 4 photos
+Baga -> Baga: 7 wiki, voyage, 9 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Candolim -> Candolim: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Sinquerim -> Nerul: 4 wiki, voyage, 3 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Fort Aguada -> Nerul: 4 wiki, voyage, 3 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Anjuna -> Anjuna: 1 wiki, voyage, 12 sights, 0 food, 1 photos
+Vagator -> Anjuna: 3 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: The operation was aborted due to timeout/overpass food: The operation was aborted due to timeout
+Chapora Fort -> Anjuna: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Morjim -> Morjim: 1 wiki, voyage, 5 sights, 0 food, 1 photos
+Ashwem -> Morjim: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
+Mandrem -> Mandrem: 1 wiki, voyage, 4 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Arambol -> Arambol: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Keri -> Keri: 3 wiki, voyage, 2 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504
+Siolim -> Siolim: 5 wiki, voyage, 4 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Assagao -> Assagao: 5 wiki, voyage, 4 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Mapusa -> Ansabhat: 15 wiki, voyage, 15 sights, 0 food, 9 photos, errors overpass sights: overpass-api.de 504
+Saligao -> Saligao: 3 wiki, voyage, 4 sights, 0 food, 2 photos
+Aldona -> Aldona: 3 wiki, voyage, 5 sights, 0 food, 1 photos
+Reis Magos -> Verem: 15 wiki, voyage, 6 sights, 0 food, 9 photos, errors overpass food: overpass-api.de 504
+Bicholim -> Sarmanas: 2 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Margao -> Navelim: 16 wiki, voyage, 15 sights, 0 food, 12 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Benaulim -> Benaulim: 3 wiki, voyage, 2 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504
+Colva -> Colva: 1 wiki, voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
+Majorda -> Majorda: 3 wiki, voyage, 6 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Varca -> Varca: 2 wiki, voyage, 2 sights, 0 food, 0 photos, errors overpass food: overpass-api.de 504
+Cavelossim -> Cavelossim: 2 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
+Mobor -> Betul: 8 wiki, voyage, 1 sights, 0 food, 6 photos
+Betalbatim -> Nuvem: 3 wiki, voyage, 2 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Chandor -> Chandor: 3 wiki, voyage, 6 sights, 0 food, 1 photos
+Loutolim -> Loutolim: 2 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Rachol -> Curtorim: 6 wiki, voyage, 5 sights, 0 food, 5 photos
+Vasco da Gama -> Baina: 14 wiki, voyage, 12 sights, 0 food, 11 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Bogmalo -> Bogmalo: 5 wiki, voyage, 4 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Cabo de Rama -> Gamval: 1 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Agonda -> Agonda: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass food: overpass-api.de 504
+Palolem -> Palolem: 4 wiki, voyage, 3 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504
+Patnem -> Patnam: 5 wiki, voyage, 4 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Galgibaga -> Poinguinim: 1 wiki, voyage, 0 sights, 0 food, 0 photos
+Cotigao -> Cotigao: 1 wiki, voyage, 1 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Canacona -> Chaudi: 6 wiki, voyage, 4 sights, 0 food, 4 photos
+Dudhsagar Falls -> Dharbandora: 5 wiki, voyage, 4 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Mollem -> Mollem: 2 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Netravali -> Neturlim: 1 wiki, voyage, 2 sights, 0 food, 0 photos, errors overpass food: overpass-api.de 504
+Tambdi Surla -> Bolcornem: 1 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504

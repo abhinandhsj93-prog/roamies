@@ -1,0 +1,83 @@
+{
+ "query": "Aldona",
+ "found": "Aldona, Quitla, Bardez, North Goa, Goa, 403508, India",
+ "lat": 15.5896313,
+ "lon": 73.8710503,
+ "fetchedAt": "2026-10-12T19:40:51.894Z",
+ "locality": {
+  "id": "aldona-north-goa-goa",
+  "name": "Aldona",
+  "area": "Bardez, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Aldona Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Aldona_constitution.svg/1280px-Aldona_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aldona Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aldona_constitution.svg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Aldona",
+   "text": "Aldona (or Aldonã) is a village that lies in the Bardez taluka of the Indian coastal state of Goa. It is known for producing several prominent Goans personalities.\n\n\n== Geography ==\nAldona is located at 15°35′23″N 73°52′24″E at an average elevation of 19 metres (62 ft).\nAldona, as a comunidade-village, comprises around 16 wards. Bodiem and Danua wards are separated from the main village area by the Mapusa river, and come under the neighboring village of Tivim's panchayat. Aldona comunidade's other wards are Quitula, Ranoi, Coimawaddo, Gutcoi, Udoi, Cottarbhat, Santerxette, Panarim, Naikawaddo, Castelwaddo, Carona, Lankdem, Panth, Corjuem and Calvim.\n\n\n== Demographics ==\nAs of the 2011 India census, Aldona had a population of 6,320. Males constituted 46% of the population and females 54%. Pin Code of Aldona is 403508 which comes under Goa postal division (Goa-Panaji Region, Maharashtra Circle). The average literacy rate was 79%, higher than the national average of 59.5%. Among the literate, 49% were males and 51% were females. 9% of the population was under 7 years of age.\nAldona is one of the few, if not the only, village which has two comunidades (village communities, or ganvkaria). Following...",
+   "url": "https://en.wikipedia.org/wiki/Aldona"
+  },
+  {
+   "title": "Olaulim",
+   "text": "Olaulim is a scenic village in Bardez sub-district, North Goa, India. The village lies between the lush green hills that separate it off from Bastora and Porvorim on the West and the back waters of the Mandovi River on the East.\nAlso 3 km away is Pomburpa (the springs here are a popular tourist attraction which incidentally haven't been known to run dry even in the worst of summers) to the south and Aldona 6 km away in a north easterly direction. Those are the nearest villages with the Dr. Salim Ali Bird Sanctuary just across the river in Chorao.\nThe village of Olaulim had been home to survivors of the brutal World War 2 attack on Rangoon, Burma where many Goans had flourishing businesses. The Pinto and Rodrigues families are some of the few such surviving families that still exist in Olaulim. (details of the hardships faced by these families when fleeing Rangoon to return to Olaulim, Goa can be found in the book \"Songs of the Survivors\" by Yvonne Vaz Ezdani).",
+   "url": "https://en.wikipedia.org/wiki/Olaulim"
+  },
+  {
+   "title": "Aldona Assembly constituency",
+   "text": "Aldona is one of the 40 Goa Legislative Assembly constituencies of the state of Goa in southern India. Aldona is also one of the 20 constituencies falling under North Goa Lok Sabha constituency.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Aldona_Assembly_constituency"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bardez",
+  "text": "Bardez is a municipality of 237,000 people (2011) in North Goa.\n\n\n== See ==\nChapora Beach\n1 Houses of Goa Museum (Salvador-do-Mundo village of Bardez). Tue-Sun 10AM-7:30PM. An architectural museum by reputed architect Gerard da Cunha, that \"encapsulates for posterity the phenomenal outcome of the amalgamation of eastern and western architectural styles\" \n2 Xavier Centre of Historical Research, B B Borkar Road, Alto-Porvorim, ☏ +91-832-2417772. Mon-Fri 9:30AM-7PM (lunch break: 1-2PM), Sat 9:30AM-1PM. It has a gallery on Christian art named the Xavier Xandev Museum art. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bardez"
+ },
+ "sights": [
+  {
+   "name": "St. Sebastian Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 15.5900126,
+   "lon": 73.8721341
+  },
+  {
+   "name": "St. Thomas Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 15.5884825,
+   "lon": 73.8741452
+  },
+  {
+   "name": "Holy Cross Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 15.5928816,
+   "lon": 73.871295
+  },
+  {
+   "name": "Corjuem Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 15.5884843,
+   "lon": 73.8804041
+  },
+  {
+   "name": "Coimvaddo Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 15.5982742,
+   "lon": 73.8696905
+  }
+ ],
+ "food": [],
+ "errors": []
+}
