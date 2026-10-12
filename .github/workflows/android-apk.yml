@@ -8,6 +8,7 @@ on:
   workflow_dispatch:
   push:
     branches: [expo-scaffold, main]
+    paths-ignore: ['worker/**', '.github/workflows/worker.yml', 'docs/**', '**.md']
 
 concurrency:
   group: android-apk-${{ github.ref }}
