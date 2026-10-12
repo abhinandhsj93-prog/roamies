@@ -1,0 +1,88 @@
+{
+ "query": "Pandharpur",
+ "region": "maharashtra",
+ "name": "Pandharpur",
+ "draft": {
+  "briefing": "Hey, you're in Pandharpur! This pilgrimage town on the Chandrabhaga river is home to the Vithoba Temple, the most visited temple in Maharashtra. During the big yatra in Ashadha, around June and July, about a million pilgrims arrive.",
+  "hungryLine": "Keep it simple and Maharashtrian here, a plate of pohe with tea or a vada pav with garlicky red chutney will see you through.",
+  "moodReplies": {
+   "show-me-around": "The Vithoba Temple is a 12 minute walk from here, and there's a small Vitthala-Rukmini temple in the Isbavi area that's said to be just as old.",
+   "somewhere-to-chill": "Head down to the banks of the Chandrabhaga and watch pilgrims take their dip in the holy river.",
+   "surprise-me": "In 2014 the Vithoba Temple became the first in India to accept women and people from lower castes as priests."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Vithoba Temple",
+     "detail": "12 min walk · The main home of Vithoba and Rakhumai, where every devotee may touch the idol's feet",
+     "status": {
+      "text": "Huge crowds on Ekadashi",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Pandharpur railway station",
+     "detail": "23 min walk · Handy if you're arriving or leaving by train",
+     "status": {
+      "text": "Check train timings",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Chandrabhaga river",
+    "title": "A dip that washes sins",
+    "body": "Devotees believe a dip in the holy Chandrabhaga, right beside the town, has the power to wash away all sins. That's why the riverbank is busy with pilgrims before they head to the temple."
+   },
+   {
+    "where": "Vithoba Temple",
+    "title": "Saints who came to Vithoba",
+    "body": "It's said Vithoba was worshipped by many saints of Maharashtra, from Sant Dnyaneshwar and Sant Tukaram to Sant Namdev and Sant Muktabai. The Bhakti saint Chaitanya Mahaprabhu is said to have spent 7 days at the temple."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around Ashadhi Ekadashi.",
+    "body": "In June and July the Wari arrives, with devotees who have walked for weeks to the temple, so expect massive crowds or come to see it."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly.",
+    "body": "This is first and foremost a pilgrimage town, and the temple is its heart."
+   }
+  ],
+  "story": [
+   {
+    "era": "1108 to 1152 CE",
+    "title": "A Hoysala king builds",
+    "body": "King Vishnuvardhana, also called Bittideva, of the Hoysala Empire built the Vithoba Temple. He was convinced to do it by Pundalik.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1237 CE",
+    "title": "A village for upkeep",
+    "body": "An inscription of the Hoysala king Vira Someshwara in the temple grants it a whole village for its upkeep.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Centuries of saints",
+    "title": "Walking to Vithoba",
+    "body": "Warkaris march from their homes in groups called Dindi to reach Pandharpur on Aashadhi Ekadashi and Kartiki Ekadashi. Saints like Sant Eknath, Sant Chokhamela and Sant Gora Kumbhar all worshipped here.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2014",
+    "title": "Priests for all",
+    "body": "The Vithoba Temple became the first in India to accept women and people from lower castes as priests. It remains the most visited temple in Maharashtra.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

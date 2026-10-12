@@ -1,0 +1,124 @@
+{
+ "query": "Kotagiri",
+ "region": "tamilnadu",
+ "name": "Kotagiri",
+ "draft": {
+  "briefing": "Hey, you're in Kotagiri! The name means mountains of the Kotas, after the tribe whose traditional home is these Nilgiri hills. Sitting at around 1,950 m, it was once a summer resort of the Madras Presidency.",
+  "hungryLine": "Keep it simple at the budget spots around Johnston Square, and in this cool weather grab a hot tea in ginger, ilaichi, lemon or even chocolate.",
+  "moodReplies": {
+   "show-me-around": "St Luke's Church is just a 4 min walk, and Nehru Park in the town centre has a temple of the Kotas inside.",
+   "somewhere-to-chill": "Head to Longwood Forest on Milidhane Road, a quiet evergreen patch where a family of bison grazes outside in the evenings.",
+   "surprise-me": "John Sullivan, the British administrator who came here in 1819, built a bungalow nearby that has been restored and is open to visitors."
+  },
+  "seeFirst": {
+   "caption": "Around town",
+   "spots": [
+    {
+     "name": "St Luke's Church",
+     "detail": "4 min walk · Hill church just near you",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Nehru Park",
+     "detail": "1 km · Town centre park with a temple of the Kotas and the Gandhi Maidanam",
+     "status": {
+      "text": "Open public park",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kodanad Viewpoint",
+     "detail": "16 km away · Views over the Mysore Plateau and the Bhavani River",
+     "status": {
+      "text": "About 30 min by road",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come for roses from March to June.",
+    "body": "A private rose park about 3 km out on Coonoor Road is at its best in those months."
+   },
+   {
+    "icon": "tag",
+    "title": "Look for bison at dusk.",
+    "body": "A resident family of around 20 bison grazes just outside Longwood Forest on Milidhane Road in the evenings."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Land of the Kotas",
+    "body": "The Nilgiri Hills are the traditional home of the Kota tribes. The town was once called Kota-keri or Kota-gherry, the street of Kotas.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1819",
+    "title": "Sullivan arrives",
+    "body": "British administrator John Sullivan reached a village called Dhimbatty, north of Kotagiri, in 1819. He later built a bungalow at Kannerimukku.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "British era",
+    "title": "A summer resort",
+    "body": "Spread over knolls and valleys at about 1,950 m, Kotagiri became one of the summer resorts of the Madras Presidency.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A quiet hill town",
+    "body": "Sullivan's bungalow has been renovated and opened to the public. Kotagiri is now a small municipality about 33 km from Ooty, loved for its walks and tea.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Kasthuri Hotel",
+    "detail": "Johnston Square · Budget vegetarian meals",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Subam Restaurant",
+    "detail": "Johnston Square · Budget non-vegetarian food",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Tandoor Hut",
+    "detail": "Evening spot for tandoor dishes",
+    "status": {
+     "text": "5PM-9:30PM",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

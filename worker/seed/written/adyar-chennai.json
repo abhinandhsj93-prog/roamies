@@ -1,0 +1,98 @@
+{
+ "query": "Adyar, Chennai",
+ "region": "tamilnadu",
+ "name": "Adyar & Besant Nagar",
+ "draft": {
+  "briefing": "Hey, you're in Adyar! This leafy stretch on the south bank of the Adyar River runs right into Besant Nagar and Elliot's Beach, where the Marina shoreline finally ends. It's also home to the Theosophical Society, whose Adyar Library was founded by Henry Steel Olcott back in 1886.",
+  "hungryLine": "Adyar is the headquarters of Adyar Ananda Bhavan, the vegetarian chain that started in Rajapalayam, so a plate of tiffin or a sweet box is the local move.",
+  "moodReplies": {
+   "show-me-around": "Sri Anantha Padmanaba Swamy Temple is just a 3 min walk, and the Sivaji Ganesan Memorial and old Brodie Castle are under 20 minutes away. Head east and you'll hit Besant Nagar and Elliot's Beach.",
+   "somewhere-to-chill": "Do what locals do and take an evening stroll or a picnic dinner on Elliot's Beach in Besant Nagar, just be off the sand by 10PM.",
+   "surprise-me": "Brodie Castle, now called Thenral, was built in 1796 by civil servant James Brodie, and today it's a school of Carnatic music."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Sri Anantha Padmanaba Swamy Temple",
+     "detail": "3 min walk · The closest temple to you, an easy first stop",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Brodie Castle",
+     "detail": "19 min walk · A house built in 1796, now a school of Carnatic music",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Madhya Kailash",
+     "detail": "19 min walk · Temple at the start of Rajiv Gandhi Salai, close to IIT",
+     "status": {
+      "text": "Busy junction, cross carefully",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Varasiddhi Vinayaka Temple, Besant Nagar",
+    "title": "The little Ganesh on top",
+    "body": "Before the temple was extended, the idol was worshipped at a spot opposite, inside the CPWD Quarters compound. That original small Ganesh idol still sits above the main Varasiddhi Vinayakar in the sanctum."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Hit the beach early or after dark.",
+    "body": "Days get very hot and humid, so go to Elliot's Beach around 6 to 8AM for sunrise or 7 to 9PM for the breeze."
+   },
+   {
+    "icon": "tag",
+    "title": "Watch out for cricket balls.",
+    "body": "Elliot's Beach is full of games and lounging dogs in the mornings, so keep your eyes open as you walk."
+   }
+  ],
+  "story": [
+   {
+    "era": "1796",
+    "title": "Brodie's castle",
+    "body": "Civil servant James Brodie built a house that came to be called Brodie Castle. It's now known as Thenral and houses a school of Carnatic music.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1840",
+    "title": "A bridge over the Adyar",
+    "body": "Elphinstone Bridge was built across the Adyar River and named after the Governor-General of the time. It's no longer in use, replaced by the newer Thiru Vi. Ka. Bridge nearby.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1886",
+    "title": "The Theosophists arrive",
+    "body": "Theosophist Henry Steel Olcott founded the Adyar Library and Research Centre at the Theosophical Society here. His name lives on in the Olcott Memorial High School, a free school for about 500 children.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1979",
+    "title": "Ganesha by the beach",
+    "body": "The Varasiddhi Vinayaka Temple in Besant Nagar held its first consecration after being extended. It later added an auditorium for music during Vinayakar Chathurthi.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2008",
+    "title": "The creek comes back",
+    "body": "Adyar Creek, where the river meets the Bay of Bengal around Quibble Island, had been badly polluted. A big restoration that year created the Tholkappia Poonga eco-park.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

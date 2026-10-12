@@ -1,0 +1,101 @@
+{
+ "query": "Yelagiri",
+ "region": "tamilnadu",
+ "name": "Yelagiri",
+ "draft": {
+  "briefing": "Hey, you're in Yelagiri! The road up here climbs 14 hairpin bends, each named after a Tamil poet, like Pari Valaivu and Kamban Valaivu, and at the top the hills hold 14 small tribal hamlets.",
+  "hungryLine": "Look out for jackfruit, it's everywhere in summer and the fruit here is considered very good, plus guava and custard apple in season.",
+  "moodReplies": {
+   "show-me-around": "Climb Swami Malai, the highest peak, about an hour up from the hamlet of Mangalam. If you're up for more, Jalagamparai Waterfalls is a tough 5 km trek downhill.",
+   "somewhere-to-chill": "Stop at the little observatory after the 12th hairpin bend and look out over the plains through its telescope.",
+   "surprise-me": "Near the Swami Malai trekking spot, fruit sellers often surprise you by giving more than you paid for."
+  },
+  "seeFirst": {
+   "caption": "Treks and stops on the hill",
+   "spots": [
+    {
+     "name": "Swami Malai",
+     "detail": "Starts from Mangalam · The highest peak, an easy hour's climb",
+     "status": {
+      "text": "Be back down before 9AM",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jalagamparai Waterfalls",
+     "detail": "5 km trek downhill · Big valley views and a temple next to the falls",
+     "status": {
+      "text": "Often dry in winter and April to May",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Don Bosco Centre",
+     "detail": "Yelagiri Hills · Founded by Fr. Guezou from France, teaching IT to local youth",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Trek early.",
+    "body": "Start your climbs at dawn and be back before 9AM, because once the sun is up it gets uncomfortable fast."
+   },
+   {
+    "icon": "tag",
+    "title": "Don't feed the animals.",
+    "body": "You'll see monkeys, oxen and goats on the way up, but they can be dangerous, so keep your snacks to yourself."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Hill villages",
+    "body": "Yelagiri is made up of 14 hamlets in the Eastern Ghats. The tribal families here farm, grow fruit and work the forests, and their unique houses draw visitors.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Over the years",
+    "title": "The poets' road",
+    "body": "The 14 hairpin bends up the hill were each named after a Tamil poet. A small observatory after the 12th bend points a telescope at the plains.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Year-round hill station",
+    "body": "With a pleasant climate all year, winters don't keep visitors away. The Don Bosco Centre, started by Fr. Guezou from France, trains local youth in IT.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Tandoori Hut",
+    "detail": "Tandoori, Chinese and Indian, right next to the Boat House entrance",
+    "status": {
+     "text": "Boat House Road",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "The Hotel Hills",
+    "detail": "Easy stop on the main road for a proper meal",
+    "status": {
+     "text": "On the main road",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "query": "Gangaikonda Cholapuram",
+ "region": "tamilnadu",
+ "name": "Gangaikonda Cholapuram",
+ "draft": {
+  "briefing": "Hey, you're at Gangaikonda Cholapuram! This quiet village was the capital of the Chola Empire for about 250 years, founded by Rajendra I around 1025. Its name means 'the city of the Chola who took the Ganges', and his great Shiva temple is just a minute's walk away.",
+  "hungryLine": "There's nowhere much to eat in this sleepy village, so have a proper meal before you come and bring water and snacks.",
+  "moodReplies": {
+   "show-me-around": "The Brihadisvara Temple is a 1 min walk from here, and the Viranarayanan Perumal Temple is about 20 minutes away on foot.",
+   "somewhere-to-chill": "Find a shady corner in the temple complex and take in the huge tower and the famous Nandi.",
+   "surprise-me": "Rajendra I brought water all the way from the Ganges to set up his new capital, and that's where the village gets its name."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Brihadisvara Temple",
+     "detail": "1 min walk · Rajendra Chola I's temple, finished in 1035 and a UNESCO World Heritage Site",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Viranarayanan perumal temple",
+     "detail": "20 min walk · A Perumal temple in the same village",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Gangaikonda Cholapuram",
+    "title": "Water from the Ganges",
+    "body": "Locals tell how Rajendra I sent an expedition to bring water from the Ganges to establish his new capital. The village's name, the city of the Chola who took the Ganges, still remembers it."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come at sunrise.",
+    "body": "The temple opens to the sunrise, with its sanctum and halls lined up on an east to west axis."
+   },
+   {
+    "icon": "tag",
+    "title": "Bring your own supplies.",
+    "body": "Apart from the temple, the old capital is a desolate place, so carry water and snacks."
+   }
+  ],
+  "story": [
+   {
+    "era": "c. 1025",
+    "title": "A victory capital",
+    "body": "Rajendra I founded the city to celebrate his win over the Pala dynasty and made it the Chola capital. He named it for his expedition to the Ganges.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1035",
+    "title": "The great temple",
+    "body": "Rajendra Chola I completed the Brihadisvara Temple here. It's similar in design and name to the older Brihadeeswarar Temple in Thanjavur, about 70 km away, smaller but more refined.",
+    "illustration": "palace"
+   },
+   {
+    "era": "The next 250 years",
+    "title": "Seat of an empire",
+    "body": "Gangaikonda Cholapuram stayed the Chola capital for around 250 years. The temple's walls are still covered in sculpture, artwork and inscriptions from that time.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Only the temple remains",
+    "body": "The rest of the capital and its other Chola temples were completely destroyed, leaving a small village. The surviving temple is now a UNESCO World Heritage Site.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "query": "Ranganathittu Bird Sanctuary",
+ "region": "karnataka",
+ "name": "Ranganathittu Bird Sanctuary",
+ "draft": {
+  "briefing": "Hey, you're at Ranganathittu Bird Sanctuary! These six islets in the Kaveri were formed when a king of Mysore built an embankment across the river between 1645 and 1648, and birds soon moved in.",
+  "hungryLine": "I don't have food spots for the sanctuary, so plan a meal in nearby Srirangapattana or Mysore.",
+  "moodReplies": {
+   "show-me-around": "The Obelisk Monument in Srirangapatna, a memorial to the 1799 siege, is a short drive away.",
+   "somewhere-to-chill": "Settle in by the Kaveri and watch the birds on the islets, this is the largest bird sanctuary in Karnataka.",
+   "surprise-me": "It was the ornithologist Salim Ali who persuaded the king of Mysore to protect the islets in 1940."
+  },
+  "seeFirst": {
+   "caption": "Here and nearby",
+   "spots": [
+    {
+     "name": "Ranganathittu Bird Sanctuary",
+     "detail": "Right here · Six islets on the Kaveri full of nesting birds",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Obelisk Monument",
+     "detail": "Short drive · Memorial to the 1799 siege of Srirangapatna",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Ranganathittu",
+    "title": "Pakshi Kashi",
+    "body": "Locals call this place the Pakshi Kashi of Karnataka. It's the biggest bird sanctuary in the state."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Pair it with Srirangapattana.",
+    "body": "The historic town is only 3 km away."
+   },
+   {
+    "icon": "tag",
+    "title": "Mysore is close.",
+    "body": "The sanctuary is 16 km north of Mysore, an easy half-day trip."
+   }
+  ],
+  "story": [
+   {
+    "era": "1640s",
+    "title": "An embankment",
+    "body": "King Kanteerava Narasimharaja Wadiyar built an embankment across the Kaveri between 1645 and 1648. It created 25 islets that soon drew birds.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1799",
+    "title": "The siege nearby",
+    "body": "Close by, the siege of Srirangapatna on 4 May 1799 ended the last Anglo-Mysore war. The Obelisk Monument, built in 1907, remembers those who died.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1940",
+    "title": "Salim Ali steps in",
+    "body": "Salim Ali saw that the islets were a key nesting ground and persuaded the king of Mysore to declare them protected in 1940.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2022",
+    "title": "Ramsar site",
+    "body": "On 15 February 2022 the sanctuary was designated a protected Ramsar site.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Still growing",
+    "body": "The Karnataka Forest Department looks after it and is buying nearby private land to expand it. About 3 lakh people visited in 2016-17.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

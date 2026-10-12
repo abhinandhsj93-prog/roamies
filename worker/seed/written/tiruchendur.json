@@ -1,0 +1,91 @@
+{
+ "query": "Tiruchendur",
+ "region": "tamilnadu",
+ "name": "Tiruchendur",
+ "draft": {
+  "briefing": "Hey, you're in Tiruchendur! This shore town on the Gulf of Mannar is home to the Arulmigu Subramaniya Swamy Temple, one of the Six Abodes of Murugan, and the temple sits right on the seashore.",
+  "hungryLine": "Look out for chillu karuppatti, a candy you only get in Tiruchendur and around, and the boiled palmyra root (panangizhangu) that roadside vendors sell.",
+  "moodReplies": {
+   "show-me-around": "Start at the Subramaniya Swamy Temple on the shore, then walk about half a mile south along the sea to Avathara Pathi, around 10 minutes from here.",
+   "somewhere-to-chill": "Stroll the shoreline between the temple and Avathara Pathi, where the sacred Makara Theertham is.",
+   "surprise-me": "Tiruchendur means 'the Red land'. Legend says the sands turned red with the demon Soorapadman's blood after Murugan's battle."
+  },
+  "seeFirst": {
+   "caption": "Around town and short drives",
+   "spots": [
+    {
+     "name": "Avathara Pathi",
+     "detail": "10 min walk · Ayyavazhi holy site on the shore where Ayya Vaikundar is said to have risen from the sea",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Manapad",
+     "detail": "18 km away · Seaside village called 'Chinna Jerusalem', with an old church linked to St. Xavier",
+     "status": {
+      "text": "Short drive",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Kulasekara Patnam",
+     "detail": "20 km away · Old port village with the Mutharamman temple, famous for its Dasara festival",
+     "status": {
+      "text": "Huge crowds at Navarathiri",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Tiruchendur shore",
+    "title": "The red land",
+    "body": "Locals say Murugan set out with Parvathi's spear to destroy the demon Soorapadman, who turned into a tree to escape. The spear split it into a peacock and a rooster, and the blood turned these sands red, giving Tiruchendur its name."
+   },
+   {
+    "where": "Avathara Pathi",
+    "title": "Rising from the sea",
+    "body": "According to the Ayyavazhi holy text Akilattirattu Ammanai, Lord Narayana incarnated as Ayya Vaikundar and rose from the sea right here. Avatharappathi was built to honour that moment."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around Navarathiri.",
+    "body": "More than 1,500,000 devotees gather at Kulasekara Patnam for Dasara, with folk dancers from across the state, so expect packed roads."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress for the temple.",
+    "body": "This is one of Murugan's six holy abodes, so cover shoulders and knees when you visit."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Murugan's victory",
+    "body": "As the story goes, Murugan defeated the demon Soorapadman here, and his peacock and rooster came from that battle. The temple to him stands right on the sea shore.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Over the centuries",
+    "title": "A coast of many faiths",
+    "body": "Ayyavazhi followers revere Avathara Pathi on the shore just south of the temple. Up the coast, Manapad's church is linked to St. Xavier, and nearby Kulasekara Patnam was once a port.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "Palm country",
+    "body": "The villages around town are red soil land, thick with palm trees and cashew plantations. That's why palmyra treats like karuppatti and panangizhangu are local favourites.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "query": "Dhanushkodi",
+ "region": "tamilnadu",
+ "name": "Rameswaram",
+ "draft": {
+  "briefing": "Hey, you're in Rameswaram! This island town is one of the four Char Dham pilgrimage sites, and its Ramanathaswamy Temple has the longest temple corridor in the world. Out at the tip of Pamban Island lies Dhanushkodi, a town wiped out by the 1964 cyclone and left empty ever since.",
+  "hungryLine": "Eat like the pilgrims do, with good, reasonably priced food at the Marwadi Bojanalays near the temple's west entrance, or homely meals a short walk towards the sea.",
+  "moodReplies": {
+   "show-me-around": "Start at the Sri Ramanathaswamy Temple, then walk about 10 minutes to the House of Dr A. P. J. Abdul Kalam on Mosque Street. Save time for the ghost town of Dhanushkodi at the island's south-eastern tip.",
+   "somewhere-to-chill": "Head out to Dhanushkodi, where the road now runs all the way to Arichal Munai at the very end of the land, and Sri Lanka is just about 24 km across the water.",
+   "surprise-me": "Until 1964 a train called the Boat Mail ran all the way from Chennai Egmore to Dhanushkodi, until the cyclone destroyed the line."
+  },
+  "seeFirst": {
+   "caption": "Around the island",
+   "spots": [
+    {
+     "name": "Sri Ramanathaswamy Temple",
+     "detail": "Town centre · Corridors with massive sculpted pillars and a 38.4 m gopuram",
+     "status": {
+      "text": "Agree guide fees upfront",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "House of Dr A. P. J. Abdul Kalam",
+     "detail": "10 min walk from the temple · The former President's home, now a museum of his life",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Dhanushkodi",
+     "detail": "Tip of Pamban Island · An abandoned town left as the 1964 cyclone found it",
+     "status": {
+      "text": "Reachable by road since 2016",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Sri Ramanathaswamy Temple",
+    "title": "Installed by Rama",
+    "body": "It's believed Lord Rama installed the deity here after the war with Ravana, at the urging of great saints, to rid himself of the Brahma Dosham. Today the temple and town are holy to both Shaivas and Vaishnavas."
+   },
+   {
+    "where": "Five-faced Hanuman Temple",
+    "title": "The floating stone",
+    "body": "This temple, 2 km from the main temple, keeps a floating stone said to come from the bridge between India and Lanka. Idols of Rama, Sita and Hanuman were brought here from Dhanushkodi during the 1964 cyclone."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Settle guide fees first.",
+    "body": "Lots of guides approach you as soon as you enter the temple, so agree on a price before you take one."
+   },
+   {
+    "icon": "sun",
+    "title": "Do the glass boat at midday.",
+    "body": "For the glass-bottom boat near Pamban Bridge, go around noon to 1PM on a sunny day, and check the glass is in good shape before you board."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Rama's bridge",
+    "body": "In the Ramayana, Rama is believed to have built a bridge from near Rameswaram across the sea to Lanka to rescue Sita from Ravana. It's why the town is one of the holiest places in India for Hindus.",
+    "illustration": "flood"
+   },
+   {
+    "era": "From the 1100s",
+    "title": "A temple of many kings",
+    "body": "Different rulers built the Ramanathaswamy Temple as it stands today over several periods from the 12th century. Its corridor, 197 m long, is the longest in the world.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1964",
+    "title": "The cyclone",
+    "body": "The Rameswaram cyclone destroyed Dhanushkodi and the railway branch to it. The town has stayed uninhabited ever since.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1994",
+    "title": "A municipal town",
+    "body": "Rameswaram got its own municipal body. Tourism and fishing are still what most people here do for a living.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2016",
+    "title": "The road returns",
+    "body": "A road was finished from Mukundarayar Chathiram to Dhanushkodi, and on to Arichal Munai. Before that, you had to walk along the shore or take a jeep.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Gujarat Bhavan",
+    "detail": "About 200 m from the temple's East gate towards the sea · Excellent homely meals",
+    "status": {
+     "text": "Expect a long wait",
+     "tone": "warning"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Ram Nivas",
+    "detail": "About 50 m right of the temple from the bus stand side · Indian Chinese food",
+    "status": {
+     "text": "Slow service, worth it",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

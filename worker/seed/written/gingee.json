@@ -1,0 +1,77 @@
+{
+ "query": "Gingee",
+ "region": "tamilnadu",
+ "name": "Gingee",
+ "draft": {
+  "briefing": "Hey, you're in Gingee, also known as Senji! The town sits between three hills just west of the Sankaraparani River, and it was once the seat of the Gingee Nayaks, one of the three great Nayak lines under Vijayanagara alongside Madurai and Tanjore. Its fort goes back to the 11th century.",
+  "hungryLine": "Keep it simple and local with idli, dosai or a pongal breakfast, then a rice meals plate with sambar and rasam for lunch, washed down with a strong filter coffee.",
+  "moodReplies": {
+   "show-me-around": "The Gingee Venkataramana Temple, the largest in town, is a short drive away. Sirukadambur village is about a 22 min walk.",
+   "somewhere-to-chill": "Find a quiet spot at the Venkataramana Temple and look up at the three hills that ring the town.",
+   "surprise-me": "Before it was Gingee or Senji, the town was originally called Singapuri."
+  },
+  "seeFirst": {
+   "caption": "Nearby",
+   "spots": [
+    {
+     "name": "Gingee Venkataramana Temple",
+     "detail": "Short drive · The largest temple in Gingee, built in the 16th century for Venkateshwara",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sirukadambur",
+     "detail": "22 min walk · A nearby village to wander out to",
+     "status": {
+      "text": "Ask locals for directions",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come for Pongal in mid-January.",
+    "body": "Tamil Nadu's four-day harvest festival falls in the Tamil month of Thai, a lovely time to be in a small town like this."
+   },
+   {
+    "icon": "tag",
+    "title": "Order a filter coffee.",
+    "body": "Proper Tamil filter coffee is made with water at a full boil, so it comes out strong and fragrant."
+   }
+  ],
+  "story": [
+   {
+    "era": "1000s to 1100s",
+    "title": "The first fort",
+    "body": "The Gingee fort was first built by Ananda Kon around the 11th century. By around 1123, a Kadava chieftain titled Senjiyar Kon ruled the area.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1200s to 1300s",
+    "title": "Hoysala years",
+    "body": "The Hoysalas ruled Gingee in the later 13th and early 14th centuries. From them it passed to the first rulers of the Vijayanagara Empire.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1490 to 1521",
+    "title": "The Gingee Nayaks",
+    "body": "Vijayanagara split the Tamil country into three Nayak provinces, Madurai, Tanjore and Gingee. Tupakula Krishnappa Nayaka of a Chandragiri family is said to have founded the Gingee line.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1540 to 1550",
+    "title": "A temple for Venkateshwara",
+    "body": "Muthialu Nayakan built the Venkataramana Temple during his reign. It's still the largest temple in Gingee.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

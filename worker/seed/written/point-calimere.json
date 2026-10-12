@@ -1,0 +1,83 @@
+{
+ "query": "Point Calimere",
+ "region": "tamilnadu",
+ "name": "Point Calimere",
+ "draft": {
+  "briefing": "Hey, you're at Point Calimere! This low headland, also called Kodiakkarai, is where the Coromandel Coast takes an almost right-angle turn. Sri Lanka is just 48 km to the south, and the sanctuary here gets big flocks of greater flamingos.",
+  "hungryLine": "Kodiakkarai is a quiet stretch of coast, so stock up on food and water in Vedaranyam, about 9 km north.",
+  "moodReplies": {
+   "show-me-around": "Point Calimere Wildlife and Bird Sanctuary is a 17 min walk away, home to blackbuck and flocks of waterbirds. Look for Ramarpatham, the highest point of the cape, too.",
+   "somewhere-to-chill": "Find a spot by the water where the Palk Strait meets the Bay of Bengal and watch the waterbirds come and go.",
+   "surprise-me": "The highest point of the whole cape, Ramarpatham, is only 4 metres above sea level."
+  },
+  "seeFirst": {
+   "caption": "Around the cape",
+   "spots": [
+    {
+     "name": "Point Calimere Wildlife and Bird Sanctuary",
+     "detail": "17 min walk · Blackbuck, flamingos and lots of waterbirds",
+     "status": {
+      "text": "Keep your distance from wildlife",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Point Calimere",
+     "detail": "Right here · Ramarpatham, the stone with Rama's footprints",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Ramarpatham",
+    "title": "Rama's feet",
+    "body": "A stone slab on the cape carries the impressions of two feet. Locals say this is where Rama stood to scout out Ravana's kingdom in Sri Lanka."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come early for the birds.",
+    "body": "The sanctuary is known for big gatherings of waterbirds, and mornings are the calmest time to watch them."
+   },
+   {
+    "icon": "tag",
+    "title": "Read Ponniyin Selvan.",
+    "body": "Kalki mentions Kodiakkarai in his historical novel, so it's a fun read before you come."
+   }
+  ],
+  "story": [
+   {
+    "era": "Chola times",
+    "title": "Temple and lighthouse",
+    "body": "The Cholas built the Kodi Kuzhagar temple here, along with a lighthouse. Both show how old this corner of the coast is.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1967",
+    "title": "A sanctuary for blackbuck",
+    "body": "Point Calimere Wildlife and Bird Sanctuary was created to protect the blackbuck. It covers about 21 square km where the Palk Strait meets the Bay of Bengal.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2002",
+    "title": "Ramsar site",
+    "body": "Kodiakkarai was named a Ramsar wetland in August 2002. It's also listed as an Important Bird Area.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2004",
+    "title": "The tsunami",
+    "body": "The Indian Ocean tsunami destroyed the old Chola lighthouse. The cape and its wetlands still draw flamingos and other waterbirds today.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

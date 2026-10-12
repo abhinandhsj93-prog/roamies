@@ -1,0 +1,71 @@
+{
+ "query": "Hogenakkal",
+ "region": "tamilnadu",
+ "name": "Hogenakkal",
+ "draft": {
+  "briefing": "Hey, you're in Hogenakkal! The Kaveri river crashes down here right on the border between Tamil Nadu and Karnataka. In Tamil the falls are called Thalaineer aruvi, and the best way to see them is from a round coracle boat.",
+  "hungryLine": "Go for the fresh river fish, fried or in curry, served with rice cooked on the spot and a garlicky rasam, just pick a clean-looking place.",
+  "moodReplies": {
+   "show-me-around": "Hogenakkal Falls is a 9 min walk from here. Hire a coracle and float past lots of little waterfalls along the stream.",
+   "somewhere-to-chill": "Book a round-trip coracle ride so the boatman stays with you the whole way, then get an oil massage by the river after.",
+   "surprise-me": "The coracles here are perfectly round, and each one carries five people plus the boatman."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Hogenakkal",
+     "detail": "1 min walk · The riverside hamlet where the coracle rides and fish fry stalls are",
+     "status": {
+      "text": "Pick a clean stall",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Hogenakkal Falls",
+     "detail": "9 min walk · The Kaveri tumbling over the rocks on the state border",
+     "status": {
+      "text": "Best in daylight",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Book the round trip.",
+    "body": "Pay a bit extra for a round-trip coracle ride and the boatman stays with your group all along."
+   },
+   {
+    "icon": "tag",
+    "title": "Pick a clean fish stall.",
+    "body": "Lots of places fry and curry river fish, but not all are hygienic, so choose carefully."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Thalaineer aruvi",
+    "body": "Hogenakkal is a hamlet in Pennagaram taluk, Dharmapuri district. Locally the falls are called Thalaineer aruvi in Tamil.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Over the years",
+    "title": "A river on the border",
+    "body": "The falls sit right where Dharmapuri district meets Chamrajnagar district in Karnataka. There has even been a dispute over the water here.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Drinking water and coracles",
+    "body": "Tamil Nadu has a drinking water project built around the falls. Meanwhile visitors still come for coracle rides, massages and fried river fish.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

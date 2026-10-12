@@ -1,0 +1,86 @@
+{
+ "query": "Coonoor",
+ "region": "tamilnadu",
+ "name": "Coonoor",
+ "draft": {
+  "briefing": "Hey, you're in Coonoor! This Nilgiris town sits in the Jackatalla valley, ringed by wooded hills, right at the head of the Coonoor Ghat, the main pass between the Nilgiris and the plains. Ooty is only 19 km away, but Coonoor has its own calmer charm.",
+  "hungryLine": "Grab something hot in the town centre, because with temperatures that can drop to around 5°C, a warm meal and a cup of tea hit differently up here.",
+  "moodReplies": {
+   "show-me-around": "Thaandi Mariamman Temple is a 3 min walk and St. Antony's Church is 5 minutes away. Sims Park is about a 20 min walk, past the Louis Pasteur Statue.",
+   "somewhere-to-chill": "Spend a slow afternoon in Sims Park, 12 hectares of rolling garden at 1780 metres above sea level.",
+   "surprise-me": "Field Marshal Sam Manekshaw lived in neighbouring Wellington and died there on 27 June 2008."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Thaandi Mariamman Temple",
+     "detail": "3 min walk · A town temple right by the centre",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Louis Pasteur Statue",
+     "detail": "18 min walk · A memorial statue on the way to Sims Park",
+     "status": {
+      "text": "Quick stop",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sims Park",
+     "detail": "20 min walk · 12 hectares of undulating garden at 1780 m",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack a warm layer.",
+    "body": "At Sims Park the temperature can climb to 28°C but drops as low as 5°C."
+   },
+   {
+    "icon": "tag",
+    "title": "Pair it with Ooty.",
+    "body": "Ooty is just 19 km away, so the two towns make an easy combo."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Head of the ghat",
+    "body": "Coonoor sits at the head of the Coonoor Ghat, the principal pass linking the Nilgiris to the plains. The town is built inside the Jackatalla valley, surrounded by wooded hills.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2008",
+    "title": "The Field Marshal's home",
+    "body": "Wellington, the cantonment town right next to Coonoor, was home to Field Marshal Sam Manekshaw. He died there on 27 June 2008.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2021",
+    "title": "A day of mourning",
+    "body": "On 8 December 2021, an Indian Air Force helicopter carrying Chief of Defence Staff General Bipin Rawat crashed between Coimbatore and Wellington. Everyone on board lost their lives.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "A garden on the slopes",
+    "body": "Sims Park is one of Coonoor's big draws, 12 hectares of undulating land at 1780 metres. About 150 cm of rain a year keeps it green.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

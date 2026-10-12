@@ -1,0 +1,86 @@
+{
+ "query": "Chikhaldara",
+ "region": "maharashtra",
+ "name": "Chikhaldara",
+ "draft": {
+  "briefing": "Hey, you're in Chikhaldara! It's the only hill station in Vidarbha, about 1118 m up, and the only place in Maharashtra that grows coffee. People call it the Kashmir of Vidarbha.",
+  "hungryLine": "There's not much of a food scene up here, so eat where you're staying and keep snacks handy for the viewpoints and safaris.",
+  "moodReplies": {
+   "show-me-around": "The Devi Temple is a 12 minute walk, and from town you can hop between viewpoints like Panchbol Point, Prospects Point and Malviya or Sunrise Point.",
+   "somewhere-to-chill": "Sit by Shakkar Lake or wander the Government Garden and let the forest quiet do its thing.",
+   "surprise-me": "The forests around here hold tigers, panthers, sloth bears and even rarely seen wild dogs, and the Melghat Tiger Project is right next door."
+  },
+  "seeFirst": {
+   "caption": "Around town",
+   "spots": [
+    {
+     "name": "Devi Temple",
+     "detail": "12 min walk · A quiet temple close to the centre",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Gawilgad fort",
+     "detail": "Near town · One of the two forts around Chikhaldara",
+     "status": {
+      "text": "Wear good shoes",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Melghat Tiger Reserve",
+     "detail": "Next door · Over 1676 sq km of Satpuda forest, one of the last tiger homes in Maharashtra",
+     "status": {
+      "text": "Register for safaris first",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Chikhaldara",
+    "title": "Bheema and Keechaka",
+    "body": "Locals say this is where Bheema of the Mahabharata killed the villain Keechaka and threw him into the valley. The spot became Keechakadara, which slowly turned into Chikhaldara."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit between October and June.",
+    "body": "Those are the best months, with temperatures ranging from about 5C in winter to 39C in summer."
+   },
+   {
+    "icon": "tag",
+    "title": "Sign up for a jungle safari.",
+    "body": "Register at the Forest Department Office, then head to Semadoh or Dhakna, where gypsies and safari guides are available."
+   }
+  ],
+  "story": [
+   {
+    "era": "Epic times",
+    "title": "A name from the Mahabharata",
+    "body": "Chikhaldara turns up in the Mahabharata as the place where Bheema defeated Keechaka. The name grew out of Keechakadara, though in Marathi it also reads as mud stream, chikal plus dhara.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Before 1950",
+    "title": "Majkur",
+    "body": "The village now called Manjarkapdi was known as Majkur before 1950. The area is so heavily forested and thinly populated that it never grew the big festivals you see elsewhere in India.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Coffee and tigers",
+    "body": "Chikhaldara is a municipal council and Vidarbha's only hill resort, with Maharashtra's only coffee-growing area. It sits inside the Melghat forests, so wildlife lovers and photographers keep coming back.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

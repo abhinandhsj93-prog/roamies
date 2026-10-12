@@ -1,0 +1,129 @@
+{
+ "query": "Thane",
+ "region": "maharashtra",
+ "name": "Thane",
+ "draft": {
+  "briefing": "Hey, you're in Thane! Its biggest claim to fame is that India's first railway line ran from Bori Bunder to Thane station. You're right by Masunda Lake, one of the biggest lakes in town.",
+  "hungryLine": "Thane loves its snacks, so start with a jumbo vada pav near the station and work your way to a plate of misal.",
+  "moodReplies": {
+   "show-me-around": "Masunda Lake is a 1 minute walk, and Kopineshwar Mandir, one of Thane's oldest temples, is about 6 minutes away.",
+   "somewhere-to-chill": "Come back to Masunda Lake at night, go boating, or grab a bite at the food stalls facing the water.",
+   "surprise-me": "The Shivalinga inside Kopineshwar Mandir is considered one of the largest in Maharashtra, and Shiva here is seen as the patron god of Thane."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Masunda Lake",
+     "detail": "1 min walk · A lake with a Shiv temple on a little island and boating",
+     "status": {
+      "text": "Best at night",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kopineshwar Mandir",
+     "detail": "6 min walk · Thane's patron temple, rebuilt around 1750",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "St. John the Baptist Church",
+     "detail": "Next to Masunda Lake · A church over 400 years old",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Upvan Lake",
+    "title": "A lake full of Ganpatis",
+    "body": "On the last day of Ganeshotsav, thousands of Ganpati idols are brought to Upvan Lake near the Yeoor hills for immersion. The same lake hosts the Sanskruti Arts Festival."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Save Masunda Lake for evening.",
+    "body": "It's one of the best spots in Thane at night, with food stalls and restaurants all along the water."
+   },
+   {
+    "icon": "tag",
+    "title": "Use Kalwa Naka as a meeting point.",
+    "body": "It's been a meetup spot for ages and people still meet there today."
+   }
+  ],
+  "story": [
+   {
+    "era": "15th to 17th century",
+    "title": "The Bimb palace",
+    "body": "The Marathi text Mahikavatichi Bakhar names Panchpakhadi as the site of the royal palace of the Bimb dynasty. The name means five small villages.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Around 1750",
+    "title": "Chimaji Appa rebuilds",
+    "body": "Chimaji Appa reconstructed Shri Kopineshwar Mandir, one of the oldest temples in Thane.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Railway age",
+    "title": "India's first train",
+    "body": "The first railway line laid in India ran from Bori Bunder to Thane station, and it's still the city's biggest claim to fame.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1996 to today",
+    "title": "Thana becomes Thane",
+    "body": "The city was known as Thana until 1996. Today it's part of the Mumbai Metropolitan Region and one of India's most populous cities, with 1,890,000 people in the 2011 census.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Kunjvihar",
+    "detail": "Near Thane railway station · Famous for jumbo vada pav, spicy or very spicy",
+    "status": {
+     "text": "A Thane classic",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Mamledar Misal",
+    "detail": "Opposite the Zilla Parishad Office · Go for the misal",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Goras Upahar Gruh",
+    "detail": "Gokhale Road · Authentic Marathi snacks and sweets",
+    "status": {
+     "text": "Good for a quick bite",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

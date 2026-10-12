@@ -1,0 +1,126 @@
+{
+ "query": "Topslip",
+ "region": "tamilnadu",
+ "name": "Topslip",
+ "draft": {
+  "briefing": "Hey, you're at Topslip! The name comes from a 19th century local practice of sliding timber logs down the hills from right here, and today it's the main visitor base of the Anamalai Tiger Reserve, with the tea town of Valparai up in the same hills.",
+  "hungryLine": "Up here it's all about a hot cup of tea from any small tea stall, and in Valparai town the messes do proper breakfast, lunch and dinner.",
+  "moodReplies": {
+   "show-me-around": "Explore the Anamalai Tiger Reserve from Topslip, then head up to Valparai and drive 15 km out to Chinnakallar's misty forest and roaring falls.",
+   "somewhere-to-chill": "Sit with a hot tea at a small stall in Valparai, surrounded by the town's 56 tea and coffee estates.",
+   "surprise-me": "Chinnakallar, 15 km from Valparai, is the second highest rainfall area in India, and its waterfall is said to sound like a roaring lion."
+  },
+  "seeFirst": {
+   "caption": "Around Topslip and Valparai",
+   "spots": [
+    {
+     "name": "Anamalai Tiger Reserve",
+     "detail": "Right here · Tiger reserve in the Anaimalai Hills, with its tourist facilities at Topslip",
+     "status": {
+      "text": "Follow forest rules",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chinnakallar",
+     "detail": "15 km from Valparai · Wet, misty forest road and a thundering waterfall",
+     "status": {
+      "text": "Carry rain gear",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Grass Hills",
+     "detail": "Valparai hills · Grassland at around 2400 m, home of the Nilgiri Thar",
+     "status": {
+      "text": "Forest permit needed",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Topslip",
+    "title": "Sliding the logs",
+    "body": "Back in the 1800s, timber was sent sliding down the hills from this spot. That old habit is how Topslip got its name."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Get permission for Grass Hills.",
+    "body": "It's a restricted area, so you need prior permission from the Chief Wildlife Warden, Chennai, before you go."
+   },
+   {
+    "icon": "tag",
+    "title": "Leave the alcohol behind.",
+    "body": "Forest officials strictly prohibit alcohol here, so stick to tea and water."
+   }
+  ],
+  "story": [
+   {
+    "era": "1846",
+    "title": "First coffee",
+    "body": "The earliest records of Valparai start in 1846, when K. Ramasamy Mudaliyar started a coffee plantation. By the mid-1800s, much of the plateau was under tea or coffee.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1800s",
+    "title": "Timber slides",
+    "body": "Loggers slid timber down the hills from Topslip, giving the place its name. In 1864 the Karnatic Coffee Company tried its luck here too, but sold off part of its land.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1961",
+    "title": "A prime minister visits",
+    "body": "Indira Gandhi visited the park on 7 October 1961. It was later named Indira Gandhi Wildlife Sanctuary and National Park after her.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2007",
+    "title": "Tiger reserve",
+    "body": "On 27 June 2007, the sanctuary was declared the Anaimalai Tiger Reserve. Its core and buffer areas now cover 1479.87 km2.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Sri Lakshmi Chettinadu Mess",
+    "detail": "Good veg and non-veg meals for breakfast, lunch and dinner in Valparai",
+    "status": {
+     "text": "In Valparai town",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Mary Matha Mess",
+    "detail": "Hearty veg and non-veg plates at all three meals",
+    "status": {
+     "text": "In Valparai town",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Sabari Mess",
+    "detail": "Small vegetarian mess on the market road, tasty and reasonable",
+    "status": {
+     "text": "Best bet for strict vegetarians",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

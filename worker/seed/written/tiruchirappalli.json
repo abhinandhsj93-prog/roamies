@@ -1,0 +1,131 @@
+{
+ "query": "Tiruchirappalli",
+ "region": "tamilnadu",
+ "name": "Tiruchirappalli",
+ "draft": {
+  "briefing": "Hey, you're in Trichy! The city sits almost at the geographic centre of Tamil Nadu, and its recorded history goes all the way back to Chola rule in the 3rd century BC.",
+  "hungryLine": "Trichy does a solid South Indian breakfast, and it's worth chasing with a glass of nanari sarbat on a hot afternoon.",
+  "moodReplies": {
+   "show-me-around": "St. Mary's Cathedral is just a 7 min walk, and the Basilica of the Holy Redeemer is about 19 minutes away. For the big view, head to the Rockfort Temple, 5 km north of the railway junction.",
+   "somewhere-to-chill": "Take a short drive out to Mukkombu, about 15 km from Trichy Junction, where the Kaveri country starts to open up.",
+   "surprise-me": "Kallanai, the dam near Trichy, is around 2,000 years old and was built by Karikala Cholan."
+  },
+  "seeFirst": {
+   "caption": "Walks and a short ride",
+   "spots": [
+    {
+     "name": "St. Mary's Cathedral",
+     "detail": "7 min walk · Gothic and Romanesque cathedral of the 'Mother of Good Health', finished in 1841",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Basilica of the Holy Redeemer",
+     "detail": "19 min walk · One of ten minor basilicas in Tamil Nadu, with roots in the 1600s Madurai Mission",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Rockfort Temple",
+     "detail": "Short ride · 5 km north of the junction, with the Thayumaanavar and Uchchi pillayar temples",
+     "status": {
+      "text": "Bus #1 goes there",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Expect dry heat.",
+    "body": "Trichy's climate is extremely hot, though the humidity is low, so carry water and go out early."
+   },
+   {
+    "icon": "tag",
+    "title": "Ride the city buses.",
+    "body": "The bus network is very well developed and gets you to most of the city cheaply, including bus #1 to the Rockfort."
+   }
+  ],
+  "story": [
+   {
+    "era": "3rd century BC",
+    "title": "Chola beginnings",
+    "body": "Trichy's recorded history starts under the Cholas. Karikala Cholan's Kallanai dam nearby is around 2,000 years old.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Middle ages",
+    "title": "Many rulers",
+    "body": "The city passed through the Mutharayars, Pallavas, Pandyas, the Vijayanagar Empire and the Nayaks. Later it went to the Carnatic state and the British.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1616",
+    "title": "The Madurai Mission",
+    "body": "Jesuit missionaries made the first conversions around Tiruchirappalli in 1616. The Basilica of the Holy Redeemer traces its story back to this time.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1743",
+    "title": "Siege of Trichinopoly",
+    "body": "After a six-month siege, Murari Rao surrendered the city to the Nizam on 29 August 1743. It ended Maratha dominance over the Carnatic.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Tamil Nadu's centre",
+    "body": "With 916,857 people in 2011, Trichy is the state's fourth largest urban area. Srirangam island, formed where the Kaveri splits, is now part of the city.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Sri Saraswathi Cafe",
+    "detail": "Traditional South Indian food since 1964, opposite the Railway Junction",
+    "status": {
+     "text": "Opens early for breakfast",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Khurunji",
+    "detail": "Pure veg restaurant at Hotel Guru, go for the fresh lunch meals",
+    "status": {
+     "text": "Opposite Central Bus Stand",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Birmanda Sarbat Stall",
+    "detail": "Ayurvedic nanari sarbat, served in the city for over three decades",
+    "status": {
+     "text": "Palakarai Main Rd",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

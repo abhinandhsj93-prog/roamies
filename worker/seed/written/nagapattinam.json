@@ -1,0 +1,68 @@
+{
+ "query": "Nagapattinam",
+ "region": "tamilnadu",
+ "name": "Nagapattinam",
+ "draft": {
+  "briefing": "Hey, you're in Nagapattinam! Over a thousand years ago this was the Cholas' big port, the jumping-off point for their trade and naval voyages to the east. Later it served as the capital of Dutch Coromandel for more than a century.",
+  "hungryLine": "Nagapattinam is an old port town on the coast, so ask a local where to find a good meals place near you.",
+  "moodReplies": {
+   "show-me-around": "Nagapattinam is the headquarters of its district and a compact town of about 18 square km, so wander its streets and soak up a port that has seen Cholas, Portuguese, Dutch and British.",
+   "somewhere-to-chill": "Take it slow in town and imagine the ships that once set off from here for lands across the Bay of Bengal.",
+   "surprise-me": "A Buddhist monastery, the Chudamani Vihara, was built here by a Srivijayan king of the Sailendra dynasty from Southeast Asia, with help from Rajaraja Chola I."
+  },
+  "seeFirst": {
+   "caption": "Right here",
+   "spots": [
+    {
+     "name": "Nagapattinam",
+     "detail": "Right here · The old Chola port that later became capital of Dutch Coromandel",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go out early or late.",
+    "body": "This is a coastal plains town, so explore in the cooler morning and evening hours."
+   },
+   {
+    "icon": "tag",
+    "title": "Look up the old names.",
+    "body": "You'll see Nagapattinam on old maps as Nagapatnam or Negapatam, handy if you're digging into its history."
+   }
+  ],
+  "story": [
+   {
+    "era": "800s to 1100s",
+    "title": "The Chola port",
+    "body": "Under the Medieval Cholas, Nagapattinam became their key port for trade and for naval expeditions to the east. The Srivijayan king Sri Mara Vijayattungavarman built the Chudamani Vihara here with help from Rajaraja Chola I.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1660 to 1781",
+    "title": "Dutch capital",
+    "body": "After the Portuguese settled here, the Dutch took over and made Nagapattinam the capital of Dutch Coromandel. They held it for over a hundred years.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1781 to 1845",
+    "title": "Under the British",
+    "body": "The British East India Company conquered the town in November 1781. From 1799 to 1845 it was the capital of Tanjore district in the Madras Presidency.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1991",
+    "title": "A district of its own",
+    "body": "After staying part of Thanjavur district for years, Nagapattinam became headquarters of the new Nagapattinam District. It had about 102,905 people in 2011.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

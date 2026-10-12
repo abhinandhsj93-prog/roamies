@@ -1,0 +1,97 @@
+{
+ "query": "Amboli",
+ "region": "maharashtra",
+ "name": "Amboli",
+ "draft": {
+  "briefing": "Hey, you're in Amboli! This little hill station sits around 700 m up in the Western Ghats, the last one before the hills drop down to the Goa coast. It gets about 7 m of rain a year, the highest in Maharashtra, so the monsoon brings mist and waterfalls everywhere.",
+  "hungryLine": "Do what everyone does here and grab hot kanda bhaji and vada pav from the stalls along the road between the bus stand and the police check post.",
+  "moodReplies": {
+   "show-me-around": "Head 5 km out to the Hiranyakeshi Temple, where a river starts from a cave, then on to Kavleshet Point for big valley views.",
+   "somewhere-to-chill": "Find a spot with a mountain view near Sunset Point and just watch the mist roll through, Amboli is made for slow days.",
+   "surprise-me": "Amboli started life as a staging post on the road from Vengurla port to Belgaum, which the British used to supply their garrisons in south and central India."
+  },
+  "seeFirst": {
+   "caption": "Short drives from the bus stand",
+   "spots": [
+    {
+     "name": "Hiranyakeshi Temple",
+     "detail": "5 km away · The Hiranyakeshi river flows out of a cave right at this Shiva temple",
+     "status": {
+      "text": "Village road, but motorable",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Nangarta Falls",
+     "detail": "10 km away · Water crashes over 40 feet into a narrow ravine",
+     "status": {
+      "text": "Loudest in the monsoon",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kavleshet Point",
+     "detail": "11 km away · Wide valley views and little waterfalls in the rains",
+     "status": {
+      "text": "Last 3 km is a rough road",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Hiranyakeshi Temple",
+    "title": "The cave beside the temple",
+    "body": "Right next to the temple where the river begins there's a cave, and locals say you can go in and explore it. Ask around before you try, the roads out here are quiet."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in June or July.",
+    "body": "The monsoon is the best season here, and outside it the town goes quiet and a bit deserted."
+   },
+   {
+    "icon": "tag",
+    "title": "Shout your name at Kavleshet.",
+    "body": "The valley throws it right back at you, and the signboards there are only in Hindi or Marathi, so keep a map handy."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Where a river is born",
+    "body": "The Hiranyakeshi river rises in the hills around Amboli, and an ancient Shiva temple, Hiranyakeshwar, sits at the cave where the water comes out. Farmers here grow rice along it.",
+    "illustration": "flood"
+   },
+   {
+    "era": "British times",
+    "title": "A stop on the supply road",
+    "body": "Amboli came into being as a staging post on the road from Vengurla port to Belgaum. The British used that road heavily to supply their garrisons in south and central India.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "The rain capital",
+    "body": "Visitors come from Goa and Belgaum on weekends for the huge rainfall, mist and waterfalls. The Western Ghats around here are a biodiversity hotspot, though forest loss is slowly changing them.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Vithal's Kamath",
+    "detail": "Near Sunset Point, with good seating and a mountain view",
+    "status": {
+     "text": "Pricier than the stalls",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

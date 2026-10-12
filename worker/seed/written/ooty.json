@@ -1,0 +1,141 @@
+{
+ "query": "Ooty",
+ "region": "tamilnadu",
+ "name": "Ooty",
+ "draft": {
+  "briefing": "Hey, you're in Ooty! The Queen of hill stations sits at 2,240 m in the Nilgiris, and back in British times it served as the summer capital of the Madras Presidency. Its official name, Udhagamandalam, comes from a Toda word meaning 'house in mountains'.",
+  "hungryLine": "Most places here serve South Indian food, and since the Nilgiris are famous for tea, a hot cup is never a bad idea.",
+  "moodReplies": {
+   "show-me-around": "Holy Trinity Church is just a 2 min walk away, and Adam's fountain at Charring Cross is about 9 minutes. Keep going to the busy Ooty Municipal Market, 11 minutes on foot.",
+   "somewhere-to-chill": "Stroll up to the Government Rose Garden on the slopes of Elk Hill, a 15 min walk. Or head to the lake for a lazy paddle boat ride.",
+   "surprise-me": "Ooty was one of the first places in India to get rid of plastic carry bags, so bring your own reusable bag."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Holy Trinity Church",
+     "detail": "2 min walk · A chapel for Tamil Christians that was dedicated as a church in 1858",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Ooty Municipal Market",
+     "detail": "11 min walk · Built in 1848, one of India's biggest retail markets, great for fresh fruit",
+     "status": {
+      "text": "Expect crowds",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Government Rose Garden",
+     "detail": "15 min walk · Rose park on the slopes of Elk Hill at 2,200 m",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Ooty",
+    "title": "House in the mountains",
+    "body": "The Todas, one of the hill tribes who lived here first, gave the town its name from 'othakal-mund', meaning house in mountains. That became Udhagamandalam, and the British shortened it all the way to Ooty."
+   },
+   {
+    "where": "Near the market",
+    "title": "The goddess of rain",
+    "body": "Mariamman is the local deity of the region, and her temple sits near the market. She's the goddess of rain, which makes a lot of sense up in these misty hills."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Carry a reusable bag.",
+    "body": "Ooty did away with plastic carry bags early, so bring your own for shopping."
+   },
+   {
+    "icon": "sun",
+    "title": "Pack a light layer.",
+    "body": "Days here hover around a pleasant 20 to 25 °C all year, a nice escape from the heat down on the plains."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Hill tribes' home",
+    "body": "The Nilgiri Mountains show up as early as Tamil Sangam literature. The region was home to hill tribes like the Badagas, Todas, Kotas, Irulas and Kurumbas.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1700s to early 1800s",
+    "title": "A sanatorium by a lake",
+    "body": "The East India Company took control in the 18th century. In the early 19th century the British built Ooty up as a sanatorium around an artificial lake.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1840s to 1880s",
+    "title": "A hill town takes shape",
+    "body": "The municipal market opened in 1848, Holy Trinity Church was dedicated in 1858, and Ooty became a municipality in 1866. Adam's fountain went up at Charring Cross in 1886.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Late 1800s",
+    "title": "Summer capital",
+    "body": "Ooty served as the summer capital of the Madras Presidency. Breeks Memorial School opened in 1874 and Sacred Heart Cathedral was built in 1897.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Queen of hill stations",
+    "body": "After independence, Ooty grew into a favourite hill station, living on tourism and farming. The Nilgiri Mountain Railway still links it to the plains.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hotel Sri Velmurugan",
+    "detail": "Walsham Road, Green fields · Traditional South Indian restaurant",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Bismillah Hotel",
+    "detail": "Near Juma Masjid, Upper Bazaar · Meat and fish dishes, Calicut style",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Blue hills",
+    "detail": "Commercial Road · Go for the biriyani, they've been serving it for over a decade",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "query": "Tharangambadi",
+ "region": "tamilnadu",
+ "name": "Tharangambadi",
+ "draft": {
+  "briefing": "Hey, you're in Tharangambadi, the place of the singing waves! On 19 November 1620 this little coastal town became the first Danish trading post in India, and the Danes stayed until they sold it to the British in 1845. Danes still call it Trankebar today.",
+  "hungryLine": "There's basically one place to eat in town, The Bungalow on the Beach on King's Street, serving decent continental food.",
+  "moodReplies": {
+   "show-me-around": "The New Jerusalem Church is a 6 min walk, the Danish Governor Bungalow about 9 minutes, and Fort Dansborg around 12 minutes, right on the shore.",
+   "somewhere-to-chill": "Walk down to the beach by Fort Dansborg and listen to the waves that gave the town its name. The town is also known for its ozone-rich beaches.",
+   "surprise-me": "At The Bungalow on the Beach, your beer shows up on the bill marked as fruit juice."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Fort Dansborg",
+     "detail": "12 min walk · Danish fort on the Bay of Bengal, the second largest after Kronborg, with a small museum inside",
+     "status": {
+      "text": "Listed 10:30AM to 5PM, check locally",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "New Jerusalem Church",
+     "detail": "6 min walk · Ziegenbalg's 1718 church on King Street, with his grave inside",
+     "status": {
+      "text": "Sunday services",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Danish Governor Bungalow",
+     "detail": "9 min walk · The Danish governor's house, opposite the fort",
+     "status": {
+      "text": "Good on a walking tour",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Tharangambadi",
+    "title": "Place of the singing waves",
+    "body": "The town's Tamil name means 'place of the singing waves'. The Danes turned it into Trankebar, and that name is still used in Danish today."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Grab a map and walk.",
+    "body": "Ask for a map at the Bungalow on the Beach on King's Street, and a walking tour of the sights takes only a couple of hours."
+   },
+   {
+    "icon": "sun",
+    "title": "Go early for the fort.",
+    "body": "Fort Dansborg is listed as open 10:30AM to 5PM, so plan your walk around it."
+   }
+  ],
+  "story": [
+   {
+    "era": "1306",
+    "title": "A Pandya temple",
+    "body": "The town goes back to the 14th century. The Masilamani nathar (Shiva) temple was built in 1306 on land given by Maravarman Kulasekara Pandyan.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1620",
+    "title": "The Danes arrive",
+    "body": "King Christian IV of Denmark sent his envoy Ove Gjedde, who struck a deal with Raghunatha Nayak of Thanjavur. Fort Dansborg went up on the land he ceded, and the Danes paid an annual tribute to the Rajah of Tanjore.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1700s",
+    "title": "Missionary churches",
+    "body": "Bartholomaeus Ziegenbalg built the New Jerusalem Church on King Street in 1718. He's believed to be the first Protestant missionary in India.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1845",
+    "title": "Sold to the British",
+    "body": "The colony was sold to the British East India Company in 1845, and the fort lost its importance. After independence it served as an inspection bungalow until the archaeology department took over in 1978.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2004 to today",
+    "title": "After the tsunami",
+    "body": "The 2004 tsunami damaged the New Jerusalem Church, which was renovated and re-consecrated in 2006. Fort Dansborg, renovated in 2001 and 2011, is now a museum of Danish India.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "The Bungalow on the Beach",
+    "detail": "Continental fare and a cold beer, on King's Street",
+    "status": {
+     "text": "The only dining option in town",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

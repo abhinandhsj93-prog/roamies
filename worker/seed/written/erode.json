@@ -1,0 +1,98 @@
+{
+ "query": "Erode",
+ "region": "tamilnadu",
+ "name": "Vaniputhur",
+ "draft": {
+  "briefing": "Hey, you're in Vaniputhur, a small town in Erode district's Gobichettipalayam taluk! This is Kongu Nadu country, ruled by the Cheras back in the Sangam era, and the nearby forests have the largest elephant population in the country.",
+  "hungryLine": "Food around Gobi is rice-based and South Indian, often still served on a banana leaf, so go for idly, dosa, vada-sambar or biryani and finish with Mysorepa or halwa.",
+  "moodReplies": {
+   "show-me-around": "Arrakkankottai is a 14 min walk, on the road between Gobichettipalayam and Sathyamangalam. Kodiveri Dam, 13 km west of Gobi, is the big local outing.",
+   "somewhere-to-chill": "Spend an afternoon at Kodiveri Dam, a popular spot that draws people from all over the state.",
+   "surprise-me": "Kodiveri Dam is no modern project, it was built by the Maharaja of Mysore back in the 17th century."
+  },
+  "seeFirst": {
+   "caption": "A short walk and short drives",
+   "spots": [
+    {
+     "name": "Arrakkankottai",
+     "detail": "14 min walk · Village on the Gobi to Sathyamangalam road",
+     "status": {
+      "text": "Quiet village, go easy",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kodiveri Dam",
+     "detail": "13 km west of Gobichettipalayam · A 17th century dam built by the Maharaja of Mysore",
+     "status": {
+      "text": "Popular day out",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bhavanisagar Dam",
+     "detail": "About 35 km from Gobi · A 1953 dam on the Bhavani River with a large park",
+     "status": {
+      "text": "Draws big crowds",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Pariyur Kondathu Kaliamman Temple",
+    "title": "Walking on fire",
+    "body": "Every January this temple, about 3 km from Gobichettipalayam, holds a fire walking ceremony called Kundam. Its inner sanctum is made of black marble and is said to be around 1500 years old."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in January for Kundam.",
+    "body": "That's when Pariyur's fire walking ceremony draws big crowds from the surrounding towns."
+   },
+   {
+    "icon": "tag",
+    "title": "Keep an eye out for wildlife.",
+    "body": "The Sathyamangalam Wildlife Sanctuary, about 25 km from Gobi, is home to elephants, tigers, leopards and gaur."
+   }
+  ],
+  "story": [
+   {
+    "era": "1st to 4th century",
+    "title": "Chera country",
+    "body": "This area was part of Kongu Nadu, ruled by the Cheras during the Sangam period. The medieval Cholas conquered it in the 10th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1400s to 1600s",
+    "title": "Kings and dams",
+    "body": "The Vijayanagara Empire ruled here, followed by the Nayaks and their Polygar system. In the 17th century the Maharaja of Mysore built Kodiveri Dam.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1799 to 1801",
+    "title": "British rule and a rebel",
+    "body": "After the Anglo-Mysore Wars, the East India Company annexed the region to the Madras Presidency in 1799. In the second Poligar War of 1801, it was Dheeran Chinnamalai's area of operations.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1953",
+    "title": "Bhavanisagar Dam",
+    "body": "A big new dam was completed on the Bhavani River, about 35 km from Gobi. Its park still draws huge crowds.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1979 to today",
+    "title": "Erode district",
+    "body": "Erode became the capital of its own new district in 1979. Vaniputhur, one of its 42 panchayat towns, had about 12,000 people in 2011.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

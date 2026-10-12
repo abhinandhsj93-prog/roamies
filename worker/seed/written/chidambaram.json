@@ -1,0 +1,138 @@
+{
+ "query": "Chidambaram",
+ "region": "tamilnadu",
+ "name": "Chidambaram",
+ "draft": {
+  "briefing": "Hey, you're in Chidambaram! This is the home of Shiva as Nataraja, the cosmic dancer, and the walls of his temple show all 108 karanas from the Natya Shastra, the postures that underpin Bharatanatyam. The town's old name, Thillai, comes from the mangrove trees that still grow out at Pichavaram.",
+  "hungryLine": "The car streets around the temple are where to eat, with simple vegetarian meals on South and West Car Street and a non-veg spot if you want meat.",
+  "moodReplies": {
+   "show-me-around": "Head to the Thillai Nataraja Temple in the heart of town, with the Govindaraja Perumal shrine inside the same complex. Kezha Theru Mariamman Kovil is a 12 min walk from here.",
+   "somewhere-to-chill": "Ride 13 km east to Pichavaram, where the mangrove forest is said to be the world's second largest.",
+   "surprise-me": "It's the only Shiva temple that counts in both the Pancha Sabha Thalam and the Pancha Bhuta Thalam, and here Shiva is said to show himself as the sky."
+  },
+  "seeFirst": {
+   "caption": "In town and nearby",
+   "spots": [
+    {
+     "name": "Thillai Nataraja Temple",
+     "detail": "Heart of town · A 40 acre complex with a golden roof laid by a Chola king",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kezha Theru Mariamman Kovil",
+     "detail": "12 min walk · A neighbourhood Mariamman shrine close by",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Pichavaram",
+     "detail": "13 km east · The Pichavaram Mangrove Forest, said to be the world's second largest",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thillai Nataraja Temple",
+    "title": "The dance duel",
+    "body": "Locals tell of a dance contest between Shiva and Kaali, one of the best known legends tied to Chidambaram. Along with Shiva's cosmic dance, it's a story you'll hear again and again here."
+   },
+   {
+    "where": "Chidambaram",
+    "title": "The lost hymns found",
+    "body": "One of the town's best known stories is the rediscovery of the Tevaram hymns. It's a more recent legend than the cosmic dance, but just as loved."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch Natyanjali in late February.",
+    "body": "This classical dance festival at the end of February draws thousands of people from all over the world."
+   },
+   {
+    "icon": "tag",
+    "title": "Expect huge festival crowds.",
+    "body": "During Margazhi Thiruvaadhirai in December to January and Aani Thirumanjanam in June to July, hundreds of thousands come to watch the procession and anointing."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Thillai forest",
+    "body": "The town was first called Thillai, after the mangrove of Tillai trees that grow here and in the Pichavaram wetlands. A Shiva shrine already stood on the site back then.",
+    "illustration": "flood"
+   },
+   {
+    "era": "900s",
+    "title": "Chola gold",
+    "body": "The Cholas made the town their capital, renamed it Chidambaram and rebuilt the temple for their family deity, Nataraja. Parantaka I laid the golden tiled roof of the Chit Ambalam.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1229 to 1278",
+    "title": "Kali on the outskirts",
+    "body": "Chola King Kopperunchingan, who ruled in these years, built the Thillai Kali Temple at the edge of town.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1564 to 1572",
+    "title": "Govindaraja returns",
+    "body": "The Govindaraja idol had been uprooted from the complex under Kulothunga Chola II. King Krishnappa Nayak found it and put it back, and it's still one of the 108 Divya Desams.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Modern times",
+    "title": "A university town",
+    "body": "Annamalai Chettiar founded Annamalai University in neighbouring Annamalai Nagar, now a 1,500 acre campus. Inside it, the old Chola-built Pasupatheswarar Temple was renovated in stone in 1914.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Shanmuga Restaurant",
+    "detail": "South Car Street · Vegetarian meals close to the temple",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Udippi Krishna Vilas",
+    "detail": "West Car Street · A vegetarian hotel for an easy meal",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Kamala Vilas",
+    "detail": "West Car Street · The non-vegetarian option on the same street",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

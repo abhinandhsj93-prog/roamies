@@ -1,0 +1,103 @@
+{
+ "query": "Courtallam",
+ "region": "tamilnadu",
+ "name": "Courtallam",
+ "draft": {
+  "briefing": "Hey, you're in Courtallam! Everyone here walks around with a towel, because this little town in the Western Ghats foothills is all about bathing under waterfalls on the Chittar River. People even call the falls a medical spa, thanks to the medicinal smell of the water.",
+  "hungryLine": "Food here is traditional South Indian, and the famous stop is a parotta stall on the Sengottai to Tenkasi road that's been drawing queues for over 15 years.",
+  "moodReplies": {
+   "show-me-around": "The Main Falls are just a 4 min walk, near the bus stand, and the Thirukutralam temple is about 8 minutes away. Five Falls is 6 km from the Main Falls and worth the trip.",
+   "somewhere-to-chill": "Get an oil massage, then take a bath at Sittraruvi, the small falls beside the Main Falls, which is very gentle and safe.",
+   "surprise-me": "The Thirukutralam temple is Chitra Sabha, one of the five dance halls of Shiva, alongside Chidambaram, Madurai, Thiruvalangadu and Tirunelveli."
+  },
+  "seeFirst": {
+   "caption": "Short walks and a short drive",
+   "spots": [
+    {
+     "name": "Coutrallam Falls",
+     "detail": "4 min walk · The Main Falls, about 130 feet, where you can bathe 24 hours a day",
+     "status": {
+      "text": "Crowded in season",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Thirukutralam",
+     "detail": "8 min walk · Shiva's Chitra Sabha, close to the Main Falls",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Five Falls",
+     "detail": "6 km from the Main Falls · The water splits into five streams as it drops",
+     "status": {
+      "text": "Separate bathing areas for women",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Agasthiamalai range",
+    "title": "Sage Agastya's hills",
+    "body": "Courtallam sits in the Agasthiamalai range, named after the sage Agastya. Locals believe he once lived right here in these hills."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come July to September.",
+    "body": "The falls are in season with the South West monsoon, and the eight-day Saral Vila festival runs in the Tamil month of Adi, July to August."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip Shenbagadevi at peak season.",
+    "body": "This upstream falls is a 30 min trek, and entry is restricted at peak times because of flash floods and crowds."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Agastya's mountain",
+    "body": "The hills around Courtallam belong to the Agasthiamalai range, named for the sage Agastya, who is believed to have lived in the area.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Ancient times",
+    "title": "A hall for Shiva's dance",
+    "body": "Thirukutralam became one of the five Pancha Sabhas of Nataraja, the Chitra Sabha. It's one of the 276 Paadal Petra Sthalams, where Shiva is worshipped as Kutralanathaswamy.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2001",
+    "title": "A tiny town",
+    "body": "The census counted just 2,368 people living in Courtallam. In season, though, the town fills with visitors who come for the Kuttralam experience.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Poor man's Ooty",
+    "body": "Locals call it the poor man's Ooty, though prices are rising with its popularity. Bathing spots have police and separate areas for women to keep things safe.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Rahmed Porata stall",
+    "detail": "Piranoor, on the Sengottai to Tenkasi bus route via Ilanji · Also known as the Bilal Border Parotta Shop",
+    "status": {
+     "text": "Long queues in season",
+     "tone": "warning"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

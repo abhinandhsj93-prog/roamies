@@ -1,0 +1,86 @@
+{
+ "query": "Kala Ghoda, Mumbai",
+ "region": "maharashtra",
+ "name": "Kala Ghoda",
+ "draft": {
+  "briefing": "Hey, you're in Kala Ghoda! The name means Black Horse, and this crescent-shaped art district packs museums, galleries and heritage buildings into a few short streets. Every February it throws the Kala Ghoda Arts Festival.",
+  "hungryLine": "Art comes first in Kala Ghoda, but you're in the middle of South Mumbai's Fort area, so ask around the lanes for a quick bite between galleries.",
+  "moodReplies": {
+   "show-me-around": "The Knesset Eliyahoo Synagogue is a 1 minute walk, and the Jehangir Art Gallery and David Sassoon Library are just 2 minutes away.",
+   "somewhere-to-chill": "Step into the David Sassoon Library and Reading Room, the heritage library Albert Sassoon dreamed up for the centre of the city.",
+   "surprise-me": "Dalal Street, a 3 minute walk away, takes its name from the Marathi word dalal, which means a broker or go-between."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Knesset Eliyahoo Synagogue",
+     "detail": "1 min walk · Completed in 1884, back in white with bright indigo borders after its 2018-2019 restoration",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Jehangir Art Gallery",
+     "detail": "2 min walk · Four exhibition halls right behind the big museum, built in 1952",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "David Sassoon Library",
+     "detail": "2 min walk · A famous heritage library and reading room",
+     "status": {
+      "text": "Keep your voice down",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in February.",
+    "body": "That's when the area hosts the Kala Ghoda Arts Festival every year."
+   },
+   {
+    "icon": "tag",
+    "title": "Walk to the Oval Maidan.",
+    "body": "The UNESCO-listed Victorian Gothic and Art Deco buildings around it are just a 4 minute walk away."
+   }
+  ],
+  "story": [
+   {
+    "era": "1764 to 1792",
+    "title": "The Admiral's house",
+    "body": "The Great Western Building was the Admiral's residence, and Governor William Hornby also lived there. Around 1800 it became the Supreme Court of Bombay, and in 1883 it turned into the Great Western Hotel.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1875 to 1884",
+    "title": "Brokers and a blue synagogue",
+    "body": "The Bombay Stock Exchange was set up in 1875, the oldest in Asia. In 1884 Jacob Elias Sassoon's Knesset Eliyahoo Synagogue was completed, with its sanctuary facing west towards Jerusalem.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1911 to 1952",
+    "title": "Halls for art",
+    "body": "George Wittet built the Cowasji Jehangir Hall in 1911, and the Art Deco New India Assurance Building went up in 1937. In 1952 Sir Cowasji Jehangir paid for the Jehangir Art Gallery.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1996 to today",
+    "title": "An art district",
+    "body": "The National Gallery of Modern Art opened in the Cowasji Jehangir Hall in 1996. In 2018 the Victorian Gothic and Art Deco Ensembles of Mumbai, including the Bombay High Court, became a UNESCO World Heritage Site.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

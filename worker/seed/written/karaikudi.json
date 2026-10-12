@@ -1,0 +1,77 @@
+{
+ "query": "Karaikudi",
+ "region": "tamilnadu",
+ "name": "Karaikudi",
+ "draft": {
+  "briefing": "Hey, you're in Karaikudi! It's the biggest city in Sivaganga district and the heart of the Chettinad region. Karaikkudi Junction is the main railway junction for all of Chettinad.",
+  "hungryLine": "You're in Chettinad country, so ask locals where to find a proper home-style meal nearby.",
+  "moodReplies": {
+   "show-me-around": "Kattuthalaivasal is a 5 min walk, with its Jamia Masjid as the local landmark.",
+   "somewhere-to-chill": "Take a slow wander through the Kattuthalaivasal neighbourhood and see the Jamia Masjid.",
+   "surprise-me": "Karaikudi only became a municipal corporation in 2024."
+  },
+  "seeFirst": {
+   "caption": "Around here",
+   "spots": [
+    {
+     "name": "Kattuthalaivasal",
+     "detail": "5 min walk · Neighbourhood with the Jamia Masjid, renovated in 2005",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Karaikkudi Junction railway station",
+     "detail": "Short drive · Main rail-head for the whole Chettinad region",
+     "status": {
+      "text": "Check train timings",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Base yourself here for Chettinad.",
+    "body": "Karaikkudi Junction is the major rail junction of the Chettinad region, so it's an easy jumping-off point."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly at the mosque.",
+    "body": "If you visit the Jamia Masjid in Kattuthalaivasal, cover up and follow local customs."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Chettinad's big town",
+    "body": "Karaikudi grew into the largest city in Sivaganga district and the centre of the Chettinad region.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2005",
+    "title": "A renovated mosque",
+    "body": "The Jamia Masjid, the main landmark of Kattuthalaivasal, was renovated in 2005. The area grew busier when it got a new bus stand.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2015",
+    "title": "Picked for renewal",
+    "body": "Karaikudi was chosen as one of the cities for development under the national AMRUT urban scheme.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2024",
+    "title": "A new corporation",
+    "body": "The Karaikudi Municipal Corporation was set up in 2024. The railway junction is also lined up for an upgrade under the Amrit Bharat Station Scheme.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

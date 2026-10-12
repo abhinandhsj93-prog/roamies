@@ -1,0 +1,62 @@
+{
+ "query": "Bandipur",
+ "region": "karnataka",
+ "name": "Bandipur",
+ "draft": {
+  "briefing": "Hey, you're at Bandipur! This national park covers 1,456.3 km2 of Chamarajanagar district and became a tiger reserve under Project Tiger back in 1973.",
+  "hungryLine": "I don't have food spots for the park itself, so pack snacks and water before you head out.",
+  "moodReplies": {
+   "show-me-around": "Bandipur National Park is about a 15 min walk from here.",
+   "somewhere-to-chill": "Find a quiet spot at the forest edge and just listen to the park.",
+   "surprise-me": "In February 2019 forest fires burnt about 10,920 acres here in five days and even spread into Mudumalai National Park in Tamil Nadu."
+  },
+  "seeFirst": {
+   "caption": "Right on your doorstep",
+   "spots": [
+    {
+     "name": "Bandipur National Park",
+     "detail": "15 min walk · A tiger reserve under Project Tiger",
+     "status": {
+      "text": "Keep your distance from wildlife",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Respect the wildlife.",
+    "body": "This is a tiger reserve, so keep your distance and follow forest rules."
+   },
+   {
+    "icon": "sun",
+    "title": "Be fire-careful in the dry months.",
+    "body": "Major forest fires broke out across the park in February 2019, so never drop a lit match or cigarette."
+   }
+  ],
+  "story": [
+   {
+    "era": "1973",
+    "title": "Tiger reserve",
+    "body": "Bandipur was established as a tiger reserve under Project Tiger in 1973.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1986",
+    "title": "A bigger picture",
+    "body": "The park became part of the Nilgiri Biosphere Reserve in 1986.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2019",
+    "title": "The fires",
+    "body": "In February 2019 fires spread across the park. ISRO estimated about 10,920 acres burnt in five days before the main fire was controlled on 24 February.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

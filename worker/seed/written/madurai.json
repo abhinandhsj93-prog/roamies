@@ -1,0 +1,141 @@
+{
+ "query": "Madurai",
+ "region": "tamilnadu",
+ "name": "Madurai",
+ "draft": {
+  "briefing": "Hey, you're in Madurai! This city on the Vaigai has more than 2,500 years of recorded history, and even Megasthenes, the Greek ambassador to the Mauryas, wrote about it. Locals call it Thoongaa Nagaram, the city that never sleeps.",
+  "hungryLine": "Madurai food is the real taste of Tamil Nadu, so try jigarthanda, kuzhi paniyaram and appam with mutton paya, and if you can handle heat, hit an evening mutton stall.",
+  "moodReplies": {
+   "show-me-around": "The Meenakshi Temple is a 15 min walk, Simmakkal with its stone lion is 13 minutes, and the Koodal Azhagar Temple is about 21 minutes away.",
+   "somewhere-to-chill": "Cool off with a tall jigarthanda at the Famous Jigarthanda shop on the way from the Meenakshi Temple to the Thirumalai Nayak Palace.",
+   "surprise-me": "Murugan Idly Shop is so loved here that it has opened branches in the UK and Singapore."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Meenakshi Temple",
+     "detail": "15 min walk · The great Meenakshi Sundareswarar temple on the Vaigai's south bank",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Simmakkal",
+     "detail": "13 min walk · Neighbourhood named after its stone lion statue",
+     "status": {
+      "text": "Busy streets, go early",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Koodal Azhagar Temple",
+     "detail": "21 min walk · One of the 108 Divya Desams, with a five-tiered gopuram",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Simmakkal",
+    "title": "The lion at the gate",
+    "body": "When the British collector pulled down three of the old city walls, the landmark at the North Veli Street gate was replaced with a stone lion found near Thirumalai Naicker Mahal. The whole area around it took its name, Simmakkal, the stone lion."
+   },
+   {
+    "where": "Yanaikkal",
+    "title": "The old night market",
+    "body": "Yanaikkal is named after a stone elephant. Hundreds of years ago this area was called Allankadi, a market busy with trade through the night."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch Brahmotsavam in May to June.",
+    "body": "Koodal Azhagar Temple holds its 14-day Brahmotsavam festival in the Tamil month of Vaikasi."
+   },
+   {
+    "icon": "tag",
+    "title": "Ease into the spice.",
+    "body": "If you're not used to the heat, start with a kotthu parotta made without chillies or pepper before you try the mutton stalls."
+   }
+  ],
+  "story": [
+   {
+    "era": "600 BCE",
+    "title": "Pandyan capital",
+    "body": "The Pandyan capital was at Korkai and was later moved to Koodal, today's Madurai, under Nedunj Cheliyan I. The third Tamil Sangam of scholars is said to have met here.",
+    "illustration": "palace"
+   },
+   {
+    "era": "300 BCE",
+    "title": "Roman trade",
+    "body": "Digs at Keezhadi near Madurai show settlements and Roman trade links going back to 300 BCE. Megasthenes and Kautilya both mention the city.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1100s to 1300s",
+    "title": "The temple rises",
+    "body": "The Pandyas built the early Meenakshi Temple in the 12th and 13th centuries. After the Delhi Sultanate's armies destroyed it, the Vijayanagara Empire rebuilt it in the 14th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s to 1600s",
+    "title": "The Nayaks",
+    "body": "The Madurai Nayaks expanded the temple hugely. Thirumalai Nayak built his palace in the 17th century, though only a quarter of it survives.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1866 to today",
+    "title": "City that never sleeps",
+    "body": "The Madurai Municipal Corporation was set up on 1 November 1866. Today Madurai is called the cultural capital of Tamil Nadu.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Murugan Idly Shop",
+    "detail": "West Masi Street · Super soft idlis with a spread of sides",
+    "status": {
+     "text": "Can get busy",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Kumar Mess",
+    "detail": "Townhall Road · Chettinad mutton biryani, kola urundai and soft parotta with nattukozhi kolumbu",
+    "status": {
+     "text": "Might be crowded",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Famous Jigarthanda",
+    "detail": "94 East Marret Street, near Vilakkuthoon · Madurai's signature cold drink",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

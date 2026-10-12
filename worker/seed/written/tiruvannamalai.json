@@ -1,0 +1,77 @@
+{
+ "query": "Tiruvannamalai",
+ "region": "tamilnadu",
+ "name": "Tiruvannamalai",
+ "draft": {
+  "briefing": "Hey, you're in Tiruvannamalai! The Arulmigu Annamalaiyar Temple sits along the Annamalai hill here, and thousands come every month for Girivalam and every year for the Karthika Deepam festival.",
+  "hungryLine": "Do it the Tamil way: idli or dosai with chutney and sambar for tiffin, then a strong filter coffee.",
+  "moodReplies": {
+   "show-me-around": "Make the Arulmigu Annamalaiyar Temple your first stop, then look up at Annamalai hill rising right behind it.",
+   "somewhere-to-chill": "Find a quiet corner near Annamalai hill and just watch the pilgrims go by.",
+   "surprise-me": "The town's legend begins on Mount Kailash, when Parvati playfully closed Shiva's eyes in a flower garden."
+  },
+  "seeFirst": {
+   "caption": "The heart of town",
+   "spots": [
+    {
+     "name": "Arulmigu Annamalaiyar Temple",
+     "detail": "In town · The great Shiva temple along Annamalai hill",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Annamalai hill",
+     "detail": "Right behind the temple · The hill pilgrims walk around on Girivalam",
+     "status": {
+      "text": "Busy on Girivalam days",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Annamalai hill",
+    "title": "Girivalam",
+    "body": "Every month, pilgrims walk around Annamalai hill in the practice called Girivalam. Thousands turn up, so you won't be walking alone."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around Karthika Deepam.",
+    "body": "The annual Karthika Deepam festival draws thousands, so book early or pick another time if you want it quiet."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress for the temple.",
+    "body": "This is a major pilgrimage town, so cover shoulders and knees at Annamalaiyar."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A playful moment",
+    "body": "The legend behind Tiruvannamalai starts with Parvati playfully closing Shiva's eyes in a flower garden atop Mount Kailash. It's one of the stories tied to the town's name.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1886",
+    "title": "A municipality",
+    "body": "Tiruvannamalai Municipality was set up in 1886. Today it's run as the Tiruvanamalai City Municipal Corporation.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrim city",
+    "body": "The city is a Hindu cultural hub, with retail, resorts and spinning mills too. It's about 150 km from Chennai and 145 km from Bengaluru by road and rail.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "query": "Kovalam, Chengalpattu",
+ "region": "tamilnadu",
+ "name": "Kovalam",
+ "draft": {
+  "briefing": "Hey, you're in Kovalam! This fishing village on the East Coast Road was known to Europeans as Covelong, and in 1719 a Frenchman got permission from the Nawab of the Carnatic to set up a trading post here. Today it's all about the beach, the fishing boats and surfing.",
+  "hungryLine": "This is a fishing village, so ask around for whatever fresh catch the boats brought in today.",
+  "moodReplies": {
+   "show-me-around": "The Malik ibn Dinar Mosque is a 4 min walk, and Fisherman's Cove, built on the ruins of an 18th-century Belgian castle, is about 18 minutes away.",
+   "somewhere-to-chill": "Head down to the beach and watch the fishing boats and surfers, it's what Covelong is known for today.",
+   "surprise-me": "Covelong was one of the early Asian trading posts of the Ostend Company, a trading company from what is now Belgium."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Malik ibn Dinar Mosque",
+     "detail": "4 min walk · Village mosque with the grave of the saint Thameemul Ansari",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Taj Fisherman's Cove Resort & Spa",
+     "detail": "18 min walk · Beach resort on the ramparts of a ruined Belgian castle",
+     "status": {
+      "text": "Private resort",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Respect the mosque.",
+    "body": "The Malik ibn Dinar Mosque holds a saint's grave, so dress modestly and be quiet when you visit."
+   },
+   {
+    "icon": "tag",
+    "title": "Try a surf session.",
+    "body": "Covelong is known for surfing, so it's a good place to get on a board."
+   }
+  ],
+  "story": [
+   {
+    "era": "Early 1700s",
+    "title": "Cabelon",
+    "body": "Covelong grew up as a trading settlement in the early 18th century. Europeans knew it as Cabelon.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1719",
+    "title": "A trading post",
+    "body": "In 1719 Godefroy de la Merveille got permission from Sa'adatullah Khan I, Nawab of the Carnatic, to set up a trading post here.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1700s",
+    "title": "The Ostend Company",
+    "body": "The settlement became linked with the Ostend Company, which made it one of its early Asian trading posts. A castle went up, and its ruined ramparts now carry the Fisherman's Cove resort.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Beach and surf",
+    "body": "Kovalam is now a fishing village about 40 km south of central Chennai. It's known for its beach, its fishing community and surfing.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

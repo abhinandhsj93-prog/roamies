@@ -1,0 +1,135 @@
+{
+ "query": "Tuticorin",
+ "region": "tamilnadu",
+ "name": "Thoothukudi",
+ "draft": {
+  "briefing": "Hey, you're in Thoothukudi, the old Tuticorin! They call it the Pearl City because of the pearl fishing carried out here, and today it's one of the major seaports of India.",
+  "hungryLine": "Thoothukudi is a sweets town, so grab a cashew-packed Thoothukudi macaroon, then go hunting for a proper Parotta Salna Set.",
+  "moodReplies": {
+   "show-me-around": "The Basilica of Our Lady of Snows on Beach Road is a 22 min walk, and the Holy Trinity (CSI) Church, built by the Dutch East India Company, is in town too.",
+   "somewhere-to-chill": "Head to Roche Park by the beach, or try some kayaking or snorkeling along the coast.",
+   "surprise-me": "Thoothukudi has its own macaroon. Unlike the French one, it's made with egg whites, cashew, sugar and yeast."
+  },
+  "seeFirst": {
+   "caption": "In and around town",
+   "spots": [
+    {
+     "name": "Basilica of Our Lady of Snows",
+     "detail": "22 min walk · Beach Road basilica going back to the 16th century, known for its Portuguese architecture",
+     "status": {
+      "text": "Packed on 5 August",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Holy Trinity (CSI) Church",
+     "detail": "In town · Built by the Dutch VOC in 1750, with the VOC monogram over the entrance",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Roche Park",
+     "detail": "By the beach · Tuticorin's seaside park, also called Roach Beach",
+     "status": {
+      "text": "Nice in the evening",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Basilica of Our Lady of Snows",
+    "title": "Maathaa of the coast",
+    "body": "Locals fondly call Our Lady of Snows 'Maathaa', and coastal folk still use her Portuguese name, Santa Maria das Nevis. Hindus light candles to her too, and some keep her portrait among their deities at home."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come for the August festival.",
+    "body": "The Golden Car carries Our Lady of Snows around town every 5 August, so expect huge, happy crowds."
+   },
+   {
+    "icon": "tag",
+    "title": "Ask for karupatti thenkuzhal.",
+    "body": "This floral-ring molasses snack is sold at Alagu Vilas, but you have to ask for it by name."
+   }
+  ],
+  "story": [
+   {
+    "era": "1500s",
+    "title": "The Lady of Snows",
+    "body": "The Basilica of Our Lady of Snows goes back to the 16th century. Its name refers to Santa Maria Maggiore in Rome.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1750",
+    "title": "The Dutch church",
+    "body": "The Dutch East India Company built the Holy Trinity (CSI) Church in 1750. Its floor plan is a Greek cross with equal arms.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1806",
+    "title": "The Golden Car",
+    "body": "Devotees gave a golden car to carry the statue of Our Lady around town. It first rolled out on 2 February 1806, and has come out every 5 August since.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1884",
+    "title": "The oldest school",
+    "body": "St. Xavier's Higher Secondary School was founded in 1884, the oldest school in Tuticorin. Freedom fighter V. O. Chidambaram Pillai studied here.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Pearl City port",
+    "body": "The V.O. Chidambaranar Port is one of India's major ports. Thoothukudi also has the second highest Human Development Index in Tamil Nadu, after Chennai.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Ganesh Bakery",
+    "detail": "On VOC Road, the place for the famous Thoothukudi macaroon",
+    "status": {
+     "text": "Stock up for the road",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Alagu Vilas",
+    "detail": "Traditional sweets, ask for the karupatti thenkuzhal",
+    "status": {
+     "text": "Classic sweet shop",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Gnanam Bakery",
+    "detail": "Near the old bus stand, pick up their ghee-rich Nut Bars",
+    "status": {
+     "text": "Near the old bus stand",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

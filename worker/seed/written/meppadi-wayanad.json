@@ -1,0 +1,80 @@
+{
+ "query": "Meppadi, Wayanad",
+ "region": "kerala",
+ "name": "Meppadi",
+ "draft": {
+  "briefing": "Hey, you're in Meppadi! This little hill town on the highway between Kozhikode and Ooty runs on tea, and most people here work on the estates, where cardamom grows too.",
+  "hungryLine": "Look out for Wayanad's bamboo rice, called mulayari locally, plus local Wayanad tea, coffee and home-made chocolates.",
+  "moodReplies": {
+   "show-me-around": "The Juma Masjid is a 3 min walk and the CSI Church is 8 min away, and Soochipara Falls and Chembra Peak are among the big sights around Meppadi.",
+   "somewhere-to-chill": "Go for a slow walk through the tea estates and enjoy the cool climate that draws visitors here.",
+   "surprise-me": "Bamboo only seeds after a very long time, so people say harvesting bamboo rice is a once-in-a-lifetime thing."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Juma Masjid",
+     "detail": "3 min walk · The mosque just around the corner",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "CSI Church",
+     "detail": "8 min walk · A local church in town",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "St Joseph's church",
+     "detail": "19 min walk · A pleasant stroll through town",
+     "status": {
+      "text": "Listed as open 24/7",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Walk the tea estates.",
+    "body": "Tea is Meppadi's main work, and walking the estates and hiking the hills is the way to see Wayanad."
+   },
+   {
+    "icon": "tag",
+    "title": "Be kind and mindful.",
+    "body": "Meppadi was one of the Wayanad villages worst hit by deadly landslides in July 2024, so tread gently."
+   }
+  ],
+  "story": [
+   {
+    "era": "Over the years",
+    "title": "A tea town",
+    "body": "Tea cultivation became the main work in Meppadi, and most people here work on tea estates where they grow cardamom too.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "July 2024",
+    "title": "The landslides",
+    "body": "Meppadi was one of the villages in Wayanad district most affected by deadly landslides in July 2024.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Hill town stop",
+    "body": "Visitors still come for the climate, with Soochipara Falls, Chembra Peak and Meenmutty Falls among the attractions around.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

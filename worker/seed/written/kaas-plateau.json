@@ -1,0 +1,77 @@
+{
+ "query": "Kaas Plateau",
+ "region": "maharashtra",
+ "name": "Kaas Plateau",
+ "draft": {
+  "briefing": "Hey, you're at Kaas Plateau! Every August and September this volcanic plateau, 1200 m up and about 25 km west of Satara, bursts into seasonal wildflowers. It's been part of a UNESCO World Natural Heritage Site since 2012.",
+  "hungryLine": "Up here it's all about simple Maharashtrian snacks, so look out for kande bhaje, onion fritters everyone wants in the rainy season, or a plate of pohe with tea.",
+  "moodReplies": {
+   "show-me-around": "The flower meadows of the Kas Plateau Reserved Forest start right here, and the three-tier Vajrai Waterfall is a short drive away.",
+   "somewhere-to-chill": "Walk slowly across the plateau and look closely at the ground, the tiny orchids and blooms are the whole show.",
+   "surprise-me": "Kaas has carnivorous plants too, like Drosera indica, growing in soil that's barely 25 mm deep over bare basalt."
+  },
+  "seeFirst": {
+   "caption": "Right here and a short drive away",
+   "spots": [
+    {
+     "name": "Kas Plateau Reserved Forest",
+     "detail": "1 min walk · About 10 sq km of wildflowers, orchids, Karvy shrubs and endemic butterflies",
+     "status": {
+      "text": "Blooms in Aug and Sep",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vajrai Waterfall",
+     "detail": "Short drive · Three tiers dropping a combined 560 m on the Urmodi river",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in August or September.",
+    "body": "That's when the wildflowers bloom and the endemic butterflies come out."
+   },
+   {
+    "icon": "tag",
+    "title": "Stay on the paths.",
+    "body": "The plants here grow in a thin layer of soil on exposed basalt and many grow nowhere else."
+   }
+  ],
+  "story": [
+   {
+    "era": "Around 5th century CE",
+    "title": "An old land grant",
+    "body": "Jaoli, the taluka around here, is identified with Javala-vatika in a grant by the early Rashtrakuta king Avidheya. The inscription handed the hamlet to a Brahmin named Shambhu.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Before 1656",
+    "title": "The More clan",
+    "body": "The area was ruled by the More clan, who were feudatories of the Vijayanagara empire. Around 1656 Shivaji captured Jaoli by defeating Chandrarao More.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2012",
+    "title": "World heritage",
+    "body": "The Kas Plateau became part of a UNESCO World Natural Heritage Site, as part of the Sahyadri sub cluster of the Western Ghats.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A plateau of flowers",
+    "body": "Kaas is a biodiversity hotspot where seasonal wildflowers carpet the volcanic rock every year. Many of its plants are found only in this one spot.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

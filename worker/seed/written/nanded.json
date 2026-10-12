@@ -1,0 +1,88 @@
+{
+ "query": "Nanded",
+ "region": "maharashtra",
+ "name": "Nanded",
+ "draft": {
+  "briefing": "Hey, you're in Nanded! This city on the Godavari is home to Hazur Sahib, one of the five takhts of Sikhism, built where Guru Gobind Singh died. It was here the Gurgaddi passed from him to the Guru Granth Sahib.",
+  "hungryLine": "For a proper sit-down meal, Hotel City Pride on Airport Road does Indian, continental and Chinese food.",
+  "moodReplies": {
+   "show-me-around": "Hazur Sahib is about a 21 minute walk from here on the banks of the Godavari, and it's around 10 minutes from the railway station.",
+   "somewhere-to-chill": "Head out to Kaleshwar temple in Vishnupuri, a Shiva temple on the Godavari where you can float around in a huge saucer-shaped boat.",
+   "surprise-me": "Guru Gobind Singh initiated Madho Das here, and he became Banda Singh Bahadur, one of the famous leaders of the Khalsa Panth."
+  },
+  "seeFirst": {
+   "caption": "Around the city",
+   "spots": [
+    {
+     "name": "Hazur Sahib",
+     "detail": "21 min walk · The gurdwara built over the spot where Guru Gobind Singh was cremated in 1708",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kaleshwar temple",
+     "detail": "Outskirts of Nanded · A riverside Shiva temple with simple saucer-boat rides",
+     "status": {
+      "text": "In Vishnupuri village",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Expect crowds at Hazur Sahib.",
+    "body": "Thousands of Sikhs from all over the country come to Nanded every year to pay their respects."
+   },
+   {
+    "icon": "tag",
+    "title": "Know which side you're on.",
+    "body": "Old Nanded sits on the north bank of the Godavari and New Nanded on the south bank."
+   }
+  ],
+  "story": [
+   {
+    "era": "The Guru's time",
+    "title": "Banda Singh Bahadur",
+    "body": "In Nanded the Guru initiated Madho Das, who became Banda Singh Bahadur. He went on to play a role in the downfall of the Mughal Empire.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1708",
+    "title": "The Guru's last camp",
+    "body": "Guru Gobind Singh set up camp in Nanded and passed the Gurgaddi to the Guru Granth Sahib. He died here and was cremated where the Angitha Sahib now stands.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1832 to 1837",
+    "title": "A takht rises",
+    "body": "Maharaja Ranjit Singh built the gurdwara on the banks of the Godavari. The inner gurdwara is called Sach-Khand, the Realm of Truth.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Marathwada's second city",
+    "body": "Nanded is the second largest city in the Marathwada region and the district headquarters. Pilgrims still pour in all year to Takht Sachkhand Sri Hazur Abchalnagar Sahib.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hotel City Pride",
+    "detail": "Near Hanumangadh Kaman, Airport Road · Indian, continental and Chinese",
+    "status": {
+     "text": "One of the city's top restaurants",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

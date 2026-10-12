@@ -1,0 +1,92 @@
+{
+ "query": "Guindy, Chennai",
+ "region": "tamilnadu",
+ "name": "Guindy",
+ "draft": {
+  "briefing": "Hey, you're in Guindy! Just down the road is the Guindy Race Course, set up in 1777 and the oldest race course in India. Guindy is also where Anna Salai, GST Road and the Inner Ring Road all meet at Kathipara, which makes it one of the city's big traffic hubs.",
+  "hungryLine": "Chennai does everything from tiffin and vegetarian meals to Andhra and Kerala fare, so grab a plate of something hot at a simple place where you share a table with strangers.",
+  "moodReplies": {
+   "show-me-around": "Guindy Race Course is a 9 min walk, and the King Institute, with its heritage red building by the Adyar River, is about 11 minutes away.",
+   "somewhere-to-chill": "Guindy National Park is right here in the neighbourhood, and it's the smallest national park in India.",
+   "surprise-me": "The King Institute down the road was one of the major places in India that made smallpox vaccine and helped wipe the disease out."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Guindy Race Course",
+     "detail": "9 min walk · India's oldest race course, dating to 1777",
+     "status": {
+      "text": "Races in the winter season",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "King Institute of Preventive Medicine and Research",
+     "detail": "11 min walk · Heritage red building on the banks of the Adyar River",
+     "status": {
+      "text": "Working institute, check access",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "ITC Grand Chola Hotel",
+     "detail": "14 min walk · A huge hotel themed on Chola temple architecture",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come between November and February.",
+    "body": "Chennai is very hot and humid, especially in May, so the cooler months are the easiest time to walk around."
+   },
+   {
+    "icon": "tag",
+    "title": "Use the train and metro.",
+    "body": "Guindy railway station, the metro station and the bus stop sit right next to each other, so getting in and out is easy."
+   }
+  ],
+  "story": [
+   {
+    "era": "1777",
+    "title": "Horses at Guindy",
+    "body": "The Guindy Race Course opened in 1777. It's the oldest race course in India and still hosts events every winter.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1899",
+    "title": "A fight against disease",
+    "body": "The King Institute opened on 7 November 1899, named after the Sanitary Commissioner of the Madras Presidency. It became one of the major producers of smallpox vaccine in India.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1960s to 1970s",
+    "title": "Small factories",
+    "body": "The Guindy Thiru Vi Ka Industrial Estate was a busy small-scale industrial area back then. Today it's slowly turning to new economy companies.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1977",
+    "title": "Twin towers of Chennai",
+    "body": "The SPIC building went up in 1977, with an annexe added in 1993, and people called them the twin towers of Chennai. Only one of them still stands as it was.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Metro and big hotels",
+    "body": "Guindy metro station opened in 2016, and the ITC Grand Chola nearby is styled after Chola temples. Kathipara flyover is the largest cloverleaf flyover in South Asia.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

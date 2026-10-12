@@ -1,0 +1,86 @@
+{
+ "query": "Ratnagiri",
+ "region": "maharashtra",
+ "name": "Ratnagiri",
+ "draft": {
+  "briefing": "Hey, you're in Ratnagiri! This Konkan port on the Arabian Sea is the birthplace of Lokmanya Tilak. It's also where the British exiled Thibaw, the last king of Burma, to a brick mansion you can still visit.",
+  "hungryLine": "Ratnagiri is nicknamed the Mango City for its Hapus, the Alphonso mango, so if they're in season, eat as many as you can.",
+  "moodReplies": {
+   "show-me-around": "King Thibaw Palace is a 12 minute walk from here, and Ratnadurga Fort, with the sea on three sides, makes a great next stop.",
+   "somewhere-to-chill": "Head to Bhatyachi Khadi, where the river meets the sea and casuarina trees line the shore.",
+   "surprise-me": "King Thibaw arrived here in exile with his consort Supayalat and their two infant daughters in the late 19th century."
+  },
+  "seeFirst": {
+   "caption": "Around town",
+   "spots": [
+    {
+     "name": "King Thibaw Palace",
+     "detail": "12 min walk · Pagoda-style palace where the last Burmese king was held by the British",
+     "status": {
+      "text": "Part of it is now a polytechnic",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Ratnadurga Fort",
+     "detail": "Nearby · A sea fort with a temple of Goddess Bhagwati inside",
+     "status": {
+      "text": "Wear good shoes",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bhagvati Bundar",
+     "detail": "Nearby · An old harbour that's now a white sand beach",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Visit Tilak's birthplace.",
+    "body": "The Lokmanya Bal Gangadhar Tilak Smarak keeps his home and a monument to the man who set off the Swadeshi Movement."
+   },
+   {
+    "icon": "tag",
+    "title": "Pick your sand colour.",
+    "body": "Bhagvati Bundar has white sand, while Mandvi Bundar is the one to go to for black sand."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A fort in the sea",
+    "body": "Ratnadurga Fort was built with the sea on three sides, with a temple of Goddess Bhagwati inside. Nearby, Bhagvati Bundar was once a working harbour.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Tilak's birth",
+    "title": "A freedom fighter's home",
+    "body": "Lokmanya Bal Gangadhar Tilak was born in Ratnagiri. He went on to set off the Swadeshi Movement and lead the fight against the British Raj.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Late 19th century",
+    "title": "A king in exile",
+    "body": "The British exiled Thibaw, the last king of Burma, to a two-storey brick mansion here, along with his consort Supayalat and their two daughters. Today it's known as Thibaw Palace.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "The Mango City",
+    "body": "Ratnagiri is famous for its Hapus or Alphonso mangoes. Savarkar's Patit Pawan Mandir, which he built for the patit class of people, still stands in town.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

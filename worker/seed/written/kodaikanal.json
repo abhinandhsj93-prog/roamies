@@ -1,0 +1,129 @@
+{
+ "query": "Kodaikanal",
+ "region": "tamilnadu",
+ "name": "Kodaikanal",
+ "draft": {
+  "briefing": "Hey, you're in Kodaikanal! The British set this hill town up in 1845 as an escape from the summer heat and diseases of the plains, and at over 2,000 m up in the Palani Hills it's still way cooler than the rest of Tamil Nadu. People call it the Princess of Hill stations.",
+  "hungryLine": "Kodai eats well for a small town, from homemade chocolate and hot chocolate to café pastas, Tibetan momos and Gujarati thalis.",
+  "moodReplies": {
+   "show-me-around": "Kodaikanal Lake is a 10 min walk, the International School is 6 minutes away, and the Shembaganur Museum of Natural History is about 16 minutes on foot.",
+   "somewhere-to-chill": "Hire a cycle at Kodai Lake and ride around it while the clouds slowly come down onto the water.",
+   "surprise-me": "Kodaikanal International School was the first school in India to offer the International Baccalaureate, back in 1975."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Kodaikanal Lake",
+     "detail": "10 min walk · Star-shaped lake with rowing and pedal boats",
+     "status": {
+      "text": "Lovely at 6 to 7PM",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kodaikanal International School",
+     "detail": "6 min walk · Historic hill school on 43 acres",
+     "status": {
+      "text": "Working school, view from outside",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Shembaganur Museum of Natural History",
+     "detail": "16 min walk · Natural history collection going back to 1895",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Boat the lake on a winter evening.",
+    "body": "In winter, fog settles on Kodai Lake in the evenings and rowing through it is magical, just head back by 7PM as parts of the path get very dark."
+   },
+   {
+    "icon": "tag",
+    "title": "Carry your own water bottle.",
+    "body": "Small bottles of water are hard to find here, so fill up at your stay or the town's water ATMs."
+   }
+  ],
+  "story": [
+   {
+    "era": "1845",
+    "title": "Escape from the plains",
+    "body": "Kodaikanal was set up in 1845 as a refuge from the summer heat and tropical diseases down in the plains. The British and early American missionaries shaped the town.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1863",
+    "title": "A lake is made",
+    "body": "Sir Vere Henry Levinge, Collector of Madurai, created the lake in 1863 right in the middle of town. It's now Kodai's best-known landmark.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1895",
+    "title": "A museum in the hills",
+    "body": "The Shembaganur Museum of Natural History opened in 1895, collecting anthropology, botany, zoology and handicrafts from the region.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1975",
+    "title": "A first for India",
+    "body": "Kodaikanal International School became the first school in India to offer the International Baccalaureate Diploma in 1975.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Princess of Hill stations",
+    "body": "Tourism keeps the town going, with boat pageants and flower shows on the lake every summer. Bryant Park sits right next to the water.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Pine & Petals",
+    "detail": "JC Residency, Convent Road, Naidupuram · Multi-cuisine restaurant right in this area",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "PotLuck",
+    "detail": "PT Road · Little European-style café with a verandah, pastas, quesadillas and waffles, profits fund scholarships",
+    "status": {
+     "text": "10:30AM-7PM",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Astoria Veg Restaurant",
+    "detail": "Near the bus stand · Simple vegetarian meals, with Pastry Corner next door for cake and coffee",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

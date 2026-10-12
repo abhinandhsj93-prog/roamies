@@ -1,0 +1,88 @@
+{
+ "query": "Padmanabhapuram",
+ "region": "tamilnadu",
+ "name": "Padmanabhapuram",
+ "draft": {
+  "briefing": "Hey, you're in Padmanabhapuram! This quiet town was once the capital of the Kingdom of Travancore, until the king moved his court to Thiruvananthapuram in 1795. Its grand palace is in Tamil Nadu, yet it's still owned and looked after by the Kerala Government.",
+  "hungryLine": "For a bite, head to the Thuckalay bus stand area, the local commercial centre with restaurants and bakeries.",
+  "moodReplies": {
+   "show-me-around": "Padmanabhapuram Palace is just a 3 min walk away, tucked inside an old granite fort about four kilometres long. Thuckalay, the busy town next door, has the bus stand and shops.",
+   "somewhere-to-chill": "The palace sits at the foot of the Veli Hills, part of the Western Ghats, with the Valli river flowing nearby. Take your time on the walk around the old fort walls.",
+   "surprise-me": "Padmanabhapuram was part of Travancore-Cochin state until 1956, when it was handed to Madras State along with other Tamil-majority areas."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Padmanabhapuram Palace",
+     "detail": "3 min walk · Travancore-era palace, also called Kalkulam Palace, inside a granite fortress",
+     "status": {
+      "text": "Closed Mondays",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Thakkalai",
+     "detail": "Next door · Thuckalay town, with its bus stand, restaurants and bakeries",
+     "status": {
+      "text": "Busy around the bus stand",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thuckalay",
+    "title": "The poet who stayed",
+    "body": "Sufi philosopher and Tamil poet Peer Mohamed Appa chose to settle permanently in Thuckalay and was close to the Travancore rulers. People of every religion from Kerala and Tamil Nadu come for his anniversary in the Arabic month of Rajab."
+   },
+   {
+    "where": "Peer Mohammed Dargah",
+    "title": "A sacred night's sleep",
+    "body": "Locals say taking a vow to sleep on the dargah premises is a sacred act. The festival day is even a local holiday across Kanyakumari district."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Plan around Monday.",
+    "body": "Padmanabhapuram Palace is listed as open Tuesday to Sunday, so don't turn up on a Monday."
+   },
+   {
+    "icon": "tag",
+    "title": "Use Thuckalay as your base.",
+    "body": "Thuckalay's bus stand has buses all over Kanyakumari district and on to Thiruvananthapuram, Madurai and Chennai."
+   }
+  ],
+  "story": [
+   {
+    "era": "Before 1795",
+    "title": "Capital of Travancore",
+    "body": "Padmanabhapuram was the capital of the Kingdom of Travancore, which back then covered about half of what is now Kerala. The palace complex sits inside an old granite fort.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1795",
+    "title": "The court moves",
+    "body": "King Rama Varma, known as Dharma Raja, shifted the capital from Padmanabhapuram to Thiruvananthapuram. The palace stayed behind as a reminder of the old seat of power.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1949",
+    "title": "Travancore-Cochin",
+    "body": "After independence, Padmanabhapuram became part of the new Travancore-Cochin state on 1 July 1949.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1956",
+    "title": "Over to Tamil Nadu",
+    "body": "When states were redrawn by language, Padmanabhapuram and other Tamil-majority areas went to Madras State, later renamed Tamil Nadu. The palace, though, is still maintained by the Kerala Government.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

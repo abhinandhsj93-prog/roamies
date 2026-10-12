@@ -1,0 +1,136 @@
+{
+ "query": "Mahabalipuram",
+ "region": "tamilnadu",
+ "name": "Mahabalipuram",
+ "draft": {
+  "briefing": "Hey, you're in Mahabalipuram! This was one of the two big port cities of the Pallava kingdom, and in the 7th and 8th centuries its kings had whole temples carved out of the living rock. Those monuments are now a UNESCO World Heritage Site, and you're standing right among them.",
+  "hungryLine": "Grab a cheap big breakfast at the stalls on the road down to the Shore Temple, drink a fresh coconut by the monuments, and pick your own grilled fish for dinner.",
+  "moodReplies": {
+   "show-me-around": "Krishna's Butterball is a 2 min walk, Arjuna's Penance is 3 minutes away, and the Sthalasayana Perumal Temple is about 4 minutes on foot.",
+   "somewhere-to-chill": "Head down and chill on the sandy beach, or catch a morning yoga class in town.",
+   "surprise-me": "The five rathas were never consecrated as temples, because work stopped when King Narasimhavarman I died."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Krishna's Butterball",
+     "detail": "2 min walk · A giant granite boulder balanced on a slope",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Arjuna's Penance",
+     "detail": "3 min walk · One of the largest open-air rock reliefs in the world",
+     "status": {
+      "text": "Entry ends 6PM",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sthalasayana Perumal Temple",
+     "detail": "4 min walk · One of the 108 Divya Desams, said to be the birthplace of the saint Bhoothathalvar",
+     "status": {
+      "text": "6AM-12PM, 3PM-8:30PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Shore Temple",
+    "title": "The Seven Pagodas",
+    "body": "For over eleven centuries people have told of six more temples that once stood by the sea alongside the Shore Temple. That's why the early Europeans nicknamed the town the Seven Pagodas."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Get your tickets before 5:30PM.",
+    "body": "The ticket counter for the Shore Temple, caves and Five Rathas closes at 5:30PM and entry ends at 6PM, and one ticket covers all the monuments for the day."
+   },
+   {
+    "icon": "tag",
+    "title": "Keep the camera down at the old lighthouse.",
+    "body": "Photography is not allowed at the Olakkannesvara Temple because it's in a high-security zone near a nuclear power station."
+   }
+  ],
+  "story": [
+   {
+    "era": "1st century",
+    "title": "A port the Greeks knew",
+    "body": "The earliest mention of the town is in the Periplus of the Erythraean Sea, written by an unknown Greek navigator. Ptolemy called it Malange.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "630 to 680",
+    "title": "Temples cut from rock",
+    "body": "Under Mahendravarman I and his son Narasimhavarman I, also called Mamalla, the rathas were carved from single blocks of granite. The town is named after Mamalla.",
+    "illustration": "palace"
+   },
+   {
+    "era": "c. 725",
+    "title": "The Shore Temple",
+    "body": "Narasimhavarman II built the Shore Temple from granite blocks while this was still a busy port. It's one of the oldest structural stone temples in South India.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s to 1827",
+    "title": "Later hands",
+    "body": "In the 16th century the Vijayanagara Empire enclosed the old Krishna relief inside a mandapa. The British laid out the modern town plan in 1827.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1984 to today",
+    "title": "World Heritage",
+    "body": "The monuments were restored after 1960 and became a UNESCO World Heritage Site in 1984. Today the town is famous for its stone carvings.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Mamalla Bhavan",
+    "detail": "Shore Temple Road, near Raja Street · Cheap, popular veg thali with unlimited vegetables and curries",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Gecko Cafe",
+    "detail": "Othavadai Cross · Family-run, with fresh seafood and a lake view for bird watching",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Sea Shore Garden Beach restaurant",
+    "detail": "Othavadai Cross Street · Everything cooked fresh, with a garden courtyard",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}
