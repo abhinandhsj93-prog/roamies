@@ -17,9 +17,9 @@ Bandra West, Mumbai
 Juhu, Mumbai
 Andheri, Mumbai
 Borivali, Mumbai
-Elephanta Caves
+Elephanta Caves @ 18.9633,72.9315
 Navi Mumbai
-Thane
+Thane @ 19.1931,72.9736
 # Konkan
 Alibag
 Murud-Janjira
@@ -28,7 +28,7 @@ Diveagar
 Harihareshwar
 Dapoli
 Ganpatipule
-Ratnagiri
+Ratnagiri @ 16.9902,73.3120
 Malvan
 Tarkarli
 Sindhudurg Fort
@@ -43,7 +43,7 @@ Panchgani
 Pratapgad
 Raigad Fort
 Bhimashankar
-Malshej Ghat
+Malshej Ghat @ 19.3355,73.7720
 Igatpuri
 Bhandardara
 Amboli
@@ -54,9 +54,9 @@ Deccan Gymkhana, Pune
 Sinhagad
 Lavasa
 Satara
-Kaas Plateau
+Kaas Plateau @ 17.7206,73.8232
 Kolhapur
-Pandharpur
+Pandharpur @ 17.6767,75.3307
 Shirdi
 Nashik
 Trimbakeshwar
@@ -66,7 +66,7 @@ Ellora Caves
 Ajanta Caves
 Daulatabad
 Lonar
-Nanded
+Nanded @ 19.1517,77.3063
 Nagpur
 Tadoba
 Chikhaldara
