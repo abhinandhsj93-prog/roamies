@@ -1,0 +1,57 @@
+{
+ "query": "Murudeshwar",
+ "found": "Murudeshwar (pinned)",
+ "lat": 14.0943,
+ "lon": 74.4848,
+ "fetchedAt": "2026-10-12T18:54:41.159Z",
+ "locality": {
+  "id": "murdeshwar-uttara-kannada-karnataka",
+  "name": "Murdeshwar",
+  "area": "Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Murdeshwar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Shiva_Statue_Murdeshwara_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Murdeshwar",
+   "credit": "Photo: Nkodikal, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shiva_Statue_Murdeshwara_Temple.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Murdeshwar",
+   "text": "Murdeshwar or Murudeshwara is a town in Uttara Kannada district in the state of Karnataka, India, and lies on the coast of the Arabian Sea. It contains the world's third tallest Shiva statue, as well as the Murudeshwara Temple. The town has a railway station on the Mangalore–Mumbai Konkan railway route.\n\n\n== Etymology and Chronicles ==\nThe origin of the name \"Murdeshwar\" dates to the time of Ramayana. The Hindu gods attained immortality and invincibility by worshiping a divine Linga called the Atma-Linga. The Lanka King Ravana wanted to attain immortality by obtaining the Atma-Linga (Soul of Shiva). Since the Atma-Linga belonged to Shiva, Ravana worshipped Shiva with devotion. Pleased by his prayers, Shiva appeared before him and asked him what he wanted. Ravana asked for the Atma-Linga. Shiva agreed to give him the boon on the condition that it should never be placed on the ground before he reaches Lanka. If the Atma-Linga was ever placed on the ground, it would be impossible to move it. Having obtained his boon, Ravana started back on his journey to Lanka.\nLord Vishnu, who learned of this incident, realised that with the Atma-Linga, Ravana may obtain immortality and wreak havoc on Earth...",
+   "url": "https://en.wikipedia.org/wiki/Murdeshwar"
+  },
+  {
+   "title": "Mavalli",
+   "text": "Mavalli is a village in Bhatkal Taluk, located in the coastal Karnataka in Uttar Kannada District.",
+   "url": "https://en.wikipedia.org/wiki/Mavalli"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Murdeshwar",
+  "text": "Murdeshwar is a town in Uttara Kannada region in southern India. The name \"Murdeshwar\" means Shiva or Eeshwara.\n\n\n== See ==\n\nMurdeshwar is a land mass projected into the Arabian Sea in the shape of a Shiva Linga. There are beaches on all the three sides of the land mass.  The beaches are hard sand and drivable.\nMurdeshwar Temple and Raja Gopura: It is a temple dedicated to the Lord Shiva that possesses the 249-foot-tall Raja Gopura. The Murdeshwar temple complex is renowned for the tallest idol of Lord Shiva in the world, which is 123 feet. The latest addition to the temple is the Rajagopuram, which  was opened in 2008. And it is the tallest the tallest Hindu Temple Gopuram in the World. The Rajagopuram of Murdeshwar Temple has 21 floors, including the ground floor. The base measures 105 feet in length and 51 feet breadth. The gopura also possess a lift and visitors can go to the top and have an aerial view of the Arabian Sea and the statue of Lord Shiva. Two life-size elephants in concrete stand guard at the steps leading to the temple. The entire temple and temple complex, including the 249 feet tall Raja Gopura, which is considered the tallest gopura in the world, was constructed to its present form by businessman and philanthropist Mr R N Shetty. The temple complex is open between 6AM-1PM and 3PM-9PM.\nStatue of Lord Shiva: A huge towering statue of Lord Shiva, visible from great distances, is present in the temple complex. It is the tallest statue of Shiva in the world. The statue is 123 feet (37 m) in height, and took about 2 years to build. The statue was built by Shivamogga's Kashinath and several other sculptors, financed by businessman and philanthropist Mr R.N. Shetty, at a cost of approximately ₹50 million. The idol is designed such that it gets the sun light directly and thus appears sparkling. The statue was made four arms, and was adorned in gold paint. However, large wind gusts blew the arm off (the one that held a small drum), and rains dissolved the paint.\nMurdeshwar Fort: A fort behind the temple is said to have been renovated by Tipu Sultan.\nThis tourist place is also famous for making bricks by well known Murdeshwar Tiles factory.\nThere is a small exhibition of statues telling the story of Murdeshwar and Shiva from the epics.  The exhibition is inside a cave built under the Shiva statue.  Tickets ₹10 for adults and ₹5 for children.\nNear the Shiva statue, there is a more beautiful statue representing the discourse of Krishna and Arjuna in a chariot.\n\n\n== Do ==\nBeach: pristine sands, swimming, water sports and boating. If you stroll down the beach there is some good handicraft shopping.\nDiving: For those who want to dive in clear waters, there are organized trips to 1 Netrani Island (also known as Pigeon Island). Netrani Island is about 10 nautical miles off shore from Murdeshwar. Diving shops in Goa can help you in getting you there.\n\n\n== Eat ==\nRNS Restaurant is near the temple. Good to eat.\nGood restaurants are scattered all along the beach.\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Murdeshwar"
+ },
+ "sights": [
+  {
+   "name": "Murudeshwara Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 14.0938676,
+   "lon": 74.4849865
+  },
+  {
+   "name": "Statue of Shiva",
+   "kind": "attraction",
+   "walkMinutes": 2,
+   "lat": 14.0935878,
+   "lon": 74.4837643
+  }
+ ],
+ "food": [],
+ "errors": []
+}

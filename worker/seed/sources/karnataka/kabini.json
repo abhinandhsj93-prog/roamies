@@ -1,0 +1,27 @@
+{
+ "query": "Kabini",
+ "found": "Kabini (pinned)",
+ "lat": 11.9407,
+ "lon": 76.348,
+ "fetchedAt": "2026-10-12T18:53:23.747Z",
+ "locality": {
+  "id": "bidarahalli-mysuru-district-karnataka",
+  "name": "Bidarahalli",
+  "area": "Saraguru taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [
+  {
+   "title": "Bidarahalli",
+   "text": "Bidarahalli is a village located in Mundargi taluk in Gadag district, Karnataka, India.\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Bidarahalli"
+  }
+ ],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

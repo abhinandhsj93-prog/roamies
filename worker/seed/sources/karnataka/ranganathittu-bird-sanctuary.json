@@ -1,0 +1,48 @@
+{
+ "query": "Ranganathittu Bird Sanctuary",
+ "found": "Ranganathittu Bird Sanctuary (pinned)",
+ "lat": 12.4244,
+ "lon": 76.6568,
+ "fetchedAt": "2026-10-12T18:52:58.205Z",
+ "locality": {
+  "id": "palahalli-mandya-karnataka",
+  "name": "Palahalli",
+  "area": "Srirangapattana taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Obelisk Monument": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Obelisk_-_Srirangapatna.jpg/1280px-Obelisk_-_Srirangapatna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Obelisk Monument",
+   "credit": "Photo: ChinyaSuhail, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Obelisk_-_Srirangapatna.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Palahalli",
+   "text": "Palahalli  is a village in the southern state of Karnataka, India. It is located in the Shrirangapattana taluk of Mandya district in Karnataka. It is known for having the first sugar factory being built when it was a British colony.\n\n\n== Demographics ==\nAs of 2001 India census, Palahalli had a population of 6763 with 3478 males and 3285 females.\n\n\n== See also ==\nMandya\nDistricts of Karnataka\n\n\n== References ==\n\n\n== External links ==\nhttp://Mandya.nic.in/",
+   "url": "https://en.wikipedia.org/wiki/Palahalli"
+  },
+  {
+   "title": "Obelisk Monument",
+   "text": "Obelisk Monument, also known as the Siege Monument, is a commemorative edifice built in Srirangapatna in the Indian state of Karnataka. It marks the memory of the British officers and native soldiers who lost their lives during the siege of Srirangapatna on 4 May 1799 during the last Fourth Anglo-Mysore war fought during 1798-99 between the British army and the forces of the Mysore Kingdom led by Tipu Sultan. The British army was led by the British General Harris. The memorial was built during the reign of Krishna Raja Wadiyar IV in 1907 as a mark of gratitude by the Wadiyars for getting back their throne from the Sultans.\nThe Obelisk is a tapering narrow structure of polished stone in the form of a square base with a conical tower supported on four cannon balls. The conically tapering top at the pinnacle is fitted with a cannon ball. At the base, four plaques are fitted, one on each of the square faces of the obelisk, which commemorate not only the siege operations of 4 May 1799 but also the martyrdom of British officers and soldiers of the British army and also the Indian (native) soldiers.",
+   "url": "https://en.wikipedia.org/wiki/Obelisk_Monument"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Obelisk Monument",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 12.425416666666665,
+   "lon": 76.67408333333334
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}
