@@ -1,5 +1,3 @@
-Kala Ghoda, Mumbai -> Fort: 16 wiki, no voyage, 15 sights, 0 food, 16 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
 Elephanta Caves @ 18.9633,72.9315 FAILED no locality
-Malshej Ghat -> Thitbi: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
-Amboli -> Amboli: 3 wiki, voyage, 2 sights, 0 food, 1 photos
-Chikhaldara -> Chikhaldara: 1 wiki, voyage, 1 sights, 0 food, 0 photos
+Pratapgad -> Mahabaleshwar: 2 wiki, voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Satara -> Yashodanagar: 5 wiki, voyage, 5 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
