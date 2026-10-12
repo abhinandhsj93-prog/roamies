@@ -1,0 +1,98 @@
+{
+ "query": "Bijapur",
+ "region": "karnataka",
+ "name": "Bijapur",
+ "draft": {
+  "briefing": "Hey, you're in Bijapur! This was the capital of the Adil Shahi sultans, and their Gol Gumbaz has the second-largest dome in the world. Up in its whispering gallery, you can hear a watch tick from the other side of the dome, more than 200 feet away.",
+  "hungryLine": "The sights are spread around the old citadel, so grab a meal in town between monuments and keep water handy.",
+  "moodReplies": {
+   "show-me-around": "Gagan Mahal is a 5 min walk and the unfinished Bara Kaman is 6 minutes away. Jod Gumbaz is about a 10 min walk, and Gol Gumbaz sits on Station Road.",
+   "somewhere-to-chill": "Hang out on the open lawns of the restored Gagan Mahal, where locals and visitors come to sit and chat.",
+   "surprise-me": "Malik-E-Maidan, the giant cannon on the fort wall, is 4.45 m long and the largest surviving piece of medieval artillery."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Gagan Mahal",
+     "detail": "5 min walk · Ali Adil Shah I's 1561 palace of the skies, now beautifully restored",
+     "status": {
+      "text": "Nice in the evening",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bara Kaman",
+     "detail": "6 min walk · The unfinished tomb of Ali Adil Shah II and his family",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jod Gumbaz",
+     "detail": "10 min walk · Twin tombs, still an active dargah",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Bara Kaman",
+    "title": "The shadow that never fell",
+    "body": "Rumour has it Bara Kaman was left unfinished because, once complete, its shadow would have touched the Gol Gumbaz. Only two of its planned arches ever went up vertically."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go to Gol Gumbaz early.",
+    "body": "It's open 06:00 to 18:00, and an early visit lets you try the whispering gallery before the crowds."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the 8-site tour.",
+    "body": "Autos and tongas offer a package tour of the big eight sites, and drivers carry a leaflet describing each one."
+   }
+  ],
+  "story": [
+   {
+    "era": "900s to 1000s",
+    "title": "City of victory",
+    "body": "The city was founded under the Kalyani Chalukyas and called Vijayapura, city of victory. It passed to the Yadavas after the Chalukyas.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1347",
+    "title": "The sultans arrive",
+    "body": "The Bahmani Sultanate conquered the area. When it split, the Bijapur Sultanate of the Adil Shahis ruled from here.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1560s",
+    "title": "Palace and cannon",
+    "body": "Ali Adil Shah I built the Gagan Mahal in 1561. In 1565 the great cannon Malik-E-Maidan helped Bijapur defeat the Vijayanagar empire at Talikot.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1620s",
+    "title": "A stepwell for a queen",
+    "body": "Ibrahim Adil Shah II built the Taj Bawdi stepwell in 1620 for his wife, Queen Taj Sultana. His own tomb, Ibrahim Rauza, followed in 1626.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1659",
+    "title": "Gol Gumbaz",
+    "body": "Gol Gumbaz was built as the tomb of Mohammed Adil Shah and his family. It's still the largest unsupported dome in the world.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

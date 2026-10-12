@@ -1,0 +1,140 @@
+{
+ "query": "Karwar",
+ "region": "karnataka",
+ "name": "Karwar",
+ "draft": {
+  "briefing": "Hey, you're in Karwar! Right on Rabindranath Tagore Beach sits INS Chapal, a real Indian Navy missile boat turned into a museum ship you can walk through.",
+  "hungryLine": "Karwar is all about seafood, and save room for a \"Gadbad\" ice cream afterwards.",
+  "moodReplies": {
+   "show-me-around": "INS Chapal and the Warship And Aircraft Museum are about a 10 min walk, with the Tupolev TU142 right there too. Sadashivgad fort is up by the Kali river bridge.",
+   "somewhere-to-chill": "Climb the Sadashivgad hill in the evening and watch the sun set over the Arabian Sea.",
+   "surprise-me": "Before the Konkan Railway, buses from Mumbai ran with the route name Bombay Central - Sadashivgad, after the fort here."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "INS Chapal",
+     "detail": "10 min walk · A missile boat turned warship museum on the beach",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Tupolev TU142",
+     "detail": "10 min walk · Part of the Warship And Aircraft Museum area",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Sadashivgad",
+     "detail": "Short drive · Old fort where the Kali river meets the sea",
+     "status": {
+      "text": "Go for sunset",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kadwad",
+    "title": "Where Karwar got its name",
+    "body": "Locals trace the name Karwar back to Kadwad, a village on a tributary of the Kali. It was once a busy trade port, with a big mosque visited by traders from Arabia and Africa."
+   },
+   {
+    "where": "Sadashivgad",
+    "title": "Bombay Central to Sadashivgad",
+    "body": "For Konkani speakers coming home from Mumbai, Sadashivgad was the name everyone knew. The buses on this route carried it as their destination board."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch the sunset from the hill.",
+    "body": "From the top of Sadashivgad hill, the sun setting into the Arabian Sea is an experience in itself."
+   },
+   {
+    "icon": "tag",
+    "title": "Get out on the water.",
+    "body": "Karwar's beaches are good for snorkelling and banana boat rides."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A port at Kadwad",
+    "body": "The British once had a factory at Kadwad, an important trade port up the Kali. Traders from Arabia and Africa came to its large mosque.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1715",
+    "title": "Sadashivgad is born",
+    "body": "Basavlingraj, a chieftain of Sonda, named the fort Sadashivgad after his father in 1715. Material from the old Karwar fort was used to build it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1783",
+    "title": "Pulled down",
+    "body": "East India Company General Matthews tore down most of Sadashivgad in 1783. It has been in ruins ever since.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Bombay Presidency days",
+    "title": "A coastal capital",
+    "body": "Karwar was once part of the Bombay Presidency. It's now the headquarters of Uttara Kannada district, at the mouth of the Kali on the Konkan Coast.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Ships and planes",
+    "body": "The missile boat INS Chapal now sits on a concrete platform on Rabindranath Tagore Beach. Inside, mannequins of the captain and crew and replica missiles bring it to life.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Poornima Restaurant",
+    "detail": "On Main Road. A local favourite for vegetarian food",
+    "status": {
+     "text": "Moderately priced",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Parvati Fish Land",
+    "detail": "Go for the fish and seafood",
+    "status": {
+     "text": "Moderately priced",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Shweta Lunch Home",
+    "detail": "Another local pick for fish and seafood",
+    "status": {
+     "text": "Moderately priced",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

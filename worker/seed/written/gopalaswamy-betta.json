@@ -1,0 +1,77 @@
+{
+ "query": "Gopalaswamy Betta",
+ "region": "karnataka",
+ "name": "Gopalaswamy Betta",
+ "draft": {
+  "briefing": "Hey, you're in Gopalaswamy Betta! At 1450m this is the highest peak in Bandipur National Park, and fog hangs over it all year, which is why it's called Himavad Gopalaswamy Betta.",
+  "hungryLine": "I don't have a named place to eat up here, so bring water and snacks with you.",
+  "moodReplies": {
+   "show-me-around": "The Gopalaswamy Hills and the Venugopalaswamy temple are about a 9 min walk from here.",
+   "somewhere-to-chill": "Find a quiet spot on the wooded slopes and watch the fog roll over the hills.",
+   "surprise-me": "The hill sits right in the core of Bandipur National Park, and wild elephants wander around here."
+  },
+  "seeFirst": {
+   "caption": "Around the hill",
+   "spots": [
+    {
+     "name": "Gopalaswamy Hills",
+     "detail": "9 min walk · Foggy summit with the Venugopalaswamy temple",
+     "status": {
+      "text": "Carry a layer for the fog",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Hangala",
+     "detail": "18 km away · The Gundlupet taluk village nearest the hills",
+     "status": {
+      "text": "Local village, be respectful",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Gopalaswamy Hills",
+    "title": "The hill in the mist",
+    "body": "Fog covers these hills nearly all year round, so locals added Himavad to the name. Put that together with the Venugopalaswamy (Krishna) temple and you get Himavad Gopalaswamy Betta."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Expect fog.",
+    "body": "Dense fog sits on the hills round the year, so views come and go and it can feel cool."
+   },
+   {
+    "icon": "tag",
+    "title": "Stay alert for elephants.",
+    "body": "This is the core area of Bandipur National Park and elephants are frequent visitors."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A temple to Krishna",
+    "body": "On top of the hill is the temple of Venugopalaswamy, a form of Krishna. The hill took its name from him.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2001",
+    "title": "The village below",
+    "body": "Hangala, the Gundlupet taluk village 18 km from the hills, counted 5,597 people in the 2001 census.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Peak of Bandipur",
+    "body": "Gopalaswamy Betta is the highest peak in Bandipur National Park, thickly wooded and wrapped in fog. Elephants and other wildlife roam all around it.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

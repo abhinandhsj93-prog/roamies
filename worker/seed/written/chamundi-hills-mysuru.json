@@ -1,0 +1,92 @@
+{
+ "query": "Chamundi Hills, Mysuru",
+ "region": "karnataka",
+ "name": "Chamundi Hills",
+ "draft": {
+  "briefing": "Hey, you're at Chamundi Hills! Goddess Chamundeshwari's temple sits right on top, and on the road up there's a lookout where the whole white city of Mysuru spreads out below you. Down at the base is India's first sand sculpture museum.",
+  "hungryLine": "There's not much to eat right here at the hills, so grab a meal back in Mysuru city and carry water for the climb.",
+  "moodReplies": {
+   "show-me-around": "The Mysore Sand Sculpture Museum is just a 4 min walk away. Then head up the hill road to the Lookout View Point and on to the Chamundeshwari Temple at the top.",
+   "somewhere-to-chill": "Stop at the Lookout View Point and take in Mysuru and the forest around it from above.",
+   "surprise-me": "Every one of the 150 sculptures in the sand museum at the foot of the hill was made by a single artist, MN Gowri."
+  },
+  "seeFirst": {
+   "caption": "On and around the hill",
+   "spots": [
+    {
+     "name": "Chamundeshwari Temple",
+     "detail": "At the top of the hill · Goddess Chamundi's temple with beautiful architecture",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Lookout View Point",
+     "detail": "On the road up the hill · Aerial view of the whole city",
+     "status": {
+      "text": "Best on a clear day",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mysore Sand Sculpture Museum",
+     "detail": "4 min walk · 150 sand sculptures of Mysuru's heritage, wildlife and religion",
+     "status": {
+      "text": "Quick stop if passing",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Jwalamukhi Tiruparasundari Temple",
+    "title": "Not a single drop",
+    "body": "Mahisasura had a boon that every drop of his spilt blood would become a new demon. So Goddess Chamundi got help from Tripura Sundari, who drank every drop before it hit the ground, and she still guards the town from the foothills."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Take the steps in the cool hours.",
+    "body": "For the stairs, get off buses 203, 205 or 401A at JSS College and walk 800 m to the bottom of the steps."
+   },
+   {
+    "icon": "tag",
+    "title": "Or just ride up.",
+    "body": "AC bus 201 runs from the city bus stand to the hilltop every twenty minutes."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "The goddess wins",
+    "body": "Legend says Goddess Chamundi slew the demon Mahisasura with help from Tripura Sundari. Her temple crowns the hill that carries her name.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1892",
+    "title": "A royal zoo",
+    "body": "Under royal patronage, the Mysore Zoo opened in the city below the hill. It's the oldest zoo in India and one of the oldest in the world.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1995",
+    "title": "Natural history",
+    "body": "The Regional Museum of Natural History opened on the banks of Karanji Lake, with exhibits on the plants, animals and geology of South India.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2014",
+    "title": "Sand at the foothills",
+    "body": "India's first sand sculpture museum opened on one acre at the base of Chamundi Hills. Artist MN Gowri made all 150 sculptures.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

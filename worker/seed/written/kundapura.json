@@ -1,0 +1,127 @@
+{
+ "query": "Kundapura",
+ "region": "karnataka",
+ "name": "Kundapura",
+ "draft": {
+  "briefing": "Hey, you're in Kundapura! This Udupi district town is known for its own dialect of Kannada and its great food, and it's said chicken ghee roast was invented right here.",
+  "hungryLine": "Kundapur means chicken ghee roast, ghee rice and fish fried in coconut oil, with plenty of pure veg spots too.",
+  "moodReplies": {
+   "show-me-around": "Kodi Beach is just 1 km from town, and Sri Laxmi Venkatesha Temple is about a kilometre away too.",
+   "somewhere-to-chill": "Head to Maravanthe Beach, where the sea and the Suparnika River run side by side.",
+   "surprise-me": "At Maravanthe, the Suparnika River flows parallel to the Arabian Sea and then makes a U-turn west to join it."
+  },
+  "seeFirst": {
+   "caption": "Short trips from town",
+   "spots": [
+    {
+     "name": "Kodi Beach",
+     "detail": "1 km from town · White sand and lots of privacy",
+     "status": {
+      "text": "Great at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Maravanthe Beach",
+     "detail": "On the coast · Sea on one side, river on the other",
+     "status": {
+      "text": "Check sea conditions",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Sri Laxmi Venkatesha Temple",
+     "detail": "1 km from town · A local temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kundapur",
+    "title": "Birthplace of ghee roast",
+    "body": "Locals will tell you chicken ghee roast was invented at Shetty Lunch Home. Wikivoyage says it's still the best in the country."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Get to Shetty Lunch Home before 3PM.",
+    "body": "Lunch runs before 3PM, and you can call an hour ahead to have the ghee roast made fresh."
+   },
+   {
+    "icon": "tag",
+    "title": "Catch a Yakshagana show.",
+    "body": "It's the popular local traditional theatre, so ask around for a performance."
+   }
+  ],
+  "story": [
+   {
+    "era": "Tradition",
+    "title": "Yakshagana country",
+    "body": "Yakshagana, the popular local traditional theatrical art, is part of life around Kundapur.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Railway days",
+    "title": "Gateway to Kollur",
+    "body": "Kundapura railway station on the Konkan Railway is the quickest way for pilgrims, many from Kerala, to reach the Kollur Mookambika Temple.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2004",
+    "title": "A college town too",
+    "body": "I. M. Jayarama Shetty founded the Moodlakatte Institute of Technology in 2004, about 200 metres from the station.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Dialect and food",
+    "body": "Kundapur is known for its unique dialect of Kannada and great food.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Shetty Lunch Home",
+    "detail": "Main Road, near Bus Stand · Order the chicken ghee roast",
+    "status": {
+     "text": "Lunch before 3PM",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Venkateshwara Bhavan",
+    "detail": "Centre of town · Authentic vegetarian coastal food",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Parijatha",
+    "detail": "Near Shenoy Park · Pure veg",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

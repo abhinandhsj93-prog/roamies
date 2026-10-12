@@ -1,0 +1,80 @@
+{
+ "query": "Talakadu",
+ "region": "karnataka",
+ "name": "Talakadu",
+ "draft": {
+  "briefing": "Hey, you're in Talakadu! This town on the Kaveri once had over 30 temples, and most of them now lie buried under the sand.",
+  "hungryLine": "My notes don't list eateries here, so carry water and snacks for your walk among the temples.",
+  "moodReplies": {
+   "show-me-around": "The Group of temples at Talakadu is just a 5 min walk, where the river bends and the sand spreads wide along its banks.",
+   "somewhere-to-chill": "Sit by the Kaveri where it changes course and the sand stretches out. It's the setting that gives Talakadu its strange beauty.",
+   "surprise-me": "Excavations in the sand dunes here have turned up several ruined temples from the Western Ganga dynasty."
+  },
+  "seeFirst": {
+   "caption": "Right around the corner",
+   "spots": [
+    {
+     "name": "Group of temples at Talakadu",
+     "detail": "5 min walk · Ganga, Chola and Hoysala temples in the sand",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Talakadu",
+    "title": "Tala and Kadu",
+    "body": "Tradition says twin brothers named Tala and Kadu cut down a tree that wild elephants worshipped, and found an image of Shiva inside. Two stone images said to be the brothers stand in front of the Veerabadra swamy temple."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Be ready for sand.",
+    "body": "Sand covers a wide area around the temples, so wear footwear that's easy to walk in and slip off."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress for a pilgrimage site.",
+    "body": "The temples are a popular Hindu pilgrimage site, so dress modestly."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Lost in time",
+    "body": "The town's origin is lost in antiquity, and tradition names it after the twin brothers Tala and Kadu.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "345 to 999",
+    "title": "Ganga temples",
+    "body": "Several temples were built here under the Western Ganga dynasty, many now ruined under the dunes.",
+    "illustration": "palace"
+   },
+   {
+    "era": "975 to 986",
+    "title": "Two that survived",
+    "body": "The Pataleshvara and Maraleshvara temples, from the reign of Rachamalla Satyavakya IV, are still intact.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1117",
+    "title": "A victory temple",
+    "body": "Hoysala King Vishnuvardhana built the Kirtinarayana temple in 1117 to celebrate beating the Cholas at Talakad.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrims and sand",
+    "body": "The surviving temples, where the Kaveri changes course, draw Hindu pilgrims, and the Vaidyeshvara is the largest and most ornate.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

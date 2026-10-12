@@ -1,0 +1,123 @@
+{
+ "query": "Hubli",
+ "region": "karnataka",
+ "name": "Hubli",
+ "draft": {
+  "briefing": "Hey, you're in Hubli! Its railway station has platform number 1 at 1,507 metres, which made it the longest railway platform in the world as of March 2023.",
+  "hungryLine": "Go for North Karnataka staples like jowar rotti, badanikai palya and red chilli chutney, ideally at a local khanavali.",
+  "moodReplies": {
+   "show-me-around": "Rani Chennamma Circle is a 3 min walk, and the Indira Gandhi Glass House is within walking distance of it. Siddharodh Math is about 3 km out on Karwar Road.",
+   "somewhere-to-chill": "Head to the Venkateshwara temple behind Nrupatunga Betta for some calm, or climb the hill for a panoramic view of the city.",
+   "surprise-me": "Hubli houses the largest number of government offices anywhere in Karnataka outside the state capital."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Rani Chennamma Circle",
+     "detail": "3 min walk · The central landmark many sights are measured from",
+     "status": {
+      "text": "Good starting point",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Indira Gandhi Glass House",
+     "detail": "Walking distance from Chennamma Circle · In Sadashiva Nagar",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Siddharodh Math",
+     "detail": "About 3 km away · On Karwar Road from Chennamma Circle",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Eat at a khanavali.",
+    "body": "These local eateries serve authentic North Karnataka meals, and you'll find plenty of them."
+   },
+   {
+    "icon": "sun",
+    "title": "Grab a fresh juice.",
+    "body": "Sugarcane juice is around all season, and the juice shop opposite Janata Bazar is a local favourite."
+   }
+  ],
+  "story": [
+   {
+    "era": "1972",
+    "title": "Ranji cricket comes",
+    "body": "Nehru Stadium hosted a Ranji Trophy match in 1972, with Mysore playing Kerala. More Ranji games followed in 1976 and 1992.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1997",
+    "title": "A big hospital grows",
+    "body": "Karnataka Medical College became the autonomous KIMS in 1997. It's the largest multi-specialty hospital in North Karnataka.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2016-2017",
+    "title": "A smart twin city",
+    "body": "Hubli-Dharwad was picked for solar city and green city master plans in 2016. A year later it joined the national smart city project.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2023",
+    "title": "World's longest platform",
+    "body": "Hubballi Junction's platform 1, at 1,507 metres, became the longest railway platform in the world. Platforms 1 and 8 actually share the same stretch.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "North Karnataka's big city",
+    "body": "Together with Dharwad, Hubli forms the largest city in North Karnataka. It's a bustling trading centre more than a scenic one.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "New Bombay Hotel",
+    "detail": "An Old Hubli name for a local meal",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Canara Hotel",
+    "detail": "In Hosur. Tasty South and North Indian dishes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Al Taj",
+    "detail": "Near the Jain Temple in Keshwapur. Go for the non-veg food",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

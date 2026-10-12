@@ -1,0 +1,122 @@
+{
+ "query": "Mullayanagiri",
+ "region": "karnataka",
+ "name": "Mullayanagiri",
+ "draft": {
+  "briefing": "Hey, you're at Mullayanagiri! At 1,925 metres, this is the highest peak in Karnataka, with a small temple right at the summit.",
+  "hungryLine": "Head down to Chikmagalur town for a masala dosa. Town Canteen's might even beat Vidyarthi Bhavan in Bengaluru.",
+  "moodReplies": {
+   "show-me-around": "The Mullayyanagiri summit is right here, and Bababudangiri lies to the north of Chikmagalur.",
+   "somewhere-to-chill": "Sit at the top and take in the Chandra Drona hills, with Seethalayyanagiri peak right next door.",
+   "surprise-me": "The summit has a police radio relay station, right beside its little temple."
+  },
+  "seeFirst": {
+   "caption": "Around Chikmagalur",
+   "spots": [
+    {
+     "name": "Mullayyanagiri",
+     "detail": "1 min walk · Karnataka's highest point, with a small temple",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bababudangiri",
+     "detail": "North of Chikmagalur · Where coffee is said to have arrived in India",
+     "status": {
+      "text": "Last bus back by 5PM",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Veera Narayana Temple",
+     "detail": "About 30 km away in Belavadi · A well known temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Bababudangiri",
+    "title": "Baba Budan's coffee",
+    "body": "It's believed that Baba Budan introduced coffee to India at Baba Budangiri, north of town. That's why coffee estates cover these hills."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack a layer.",
+    "body": "Chikmagalur has a cool climate, around 11 to 20 °C in winter."
+   },
+   {
+    "icon": "tag",
+    "title": "Plan the B.B.Hills bus.",
+    "body": "A minibus leaves the private bus stand at 12:30PM and returns by 5PM, so you get about an hour up there."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Kiriya-Muguli",
+    "body": "Chikmagalur was once known as Kiriya-Muguli.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Coffee comes",
+    "title": "Baba Budan's beans",
+    "body": "Baba Budan is believed to have brought coffee to India in the hills just north of the city.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "Coffee and peaks",
+    "body": "Chikmagalur draws visitors for its hill station climate, rainforest and coffee estates, with Karnataka's highest peak on its doorstep.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Town Canteen",
+    "detail": "Ratnagiri Road, Chikmagalur · Don't miss the masala dosa",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Mayura Vegetarian",
+    "detail": "Near Head Post Office, Chikmagalur · Masala dosai",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Food Palace",
+    "detail": "R.G Road, Chikmagalur · Clean and good for breakfast",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

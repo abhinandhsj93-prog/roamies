@@ -1,0 +1,83 @@
+{
+ "query": "Bhagamandala",
+ "region": "karnataka",
+ "name": "Bhagamandala",
+ "draft": {
+  "briefing": "Hey, you're in Bhagamandala! Up here the Kaveri is joined by the Kannike and the mythical Sujyothi, making this a sacred three-river meeting point. Pilgrims take a dip here before heading on to Talakaveri, where the Kaveri is born.",
+  "hungryLine": "This is a small pilgrim town, so keep meals simple and carry water for the temple and river.",
+  "moodReplies": {
+   "show-me-around": "Walk down to the triveni sangama where the rivers meet, then over to the Bhagandeshwara Temple a short distance away.",
+   "somewhere-to-chill": "Sit by the confluence and watch pilgrims doing rituals for their ancestors at the water's edge.",
+   "surprise-me": "Bhagamandala once had its own seat in the Coorg legislature, and it held just one election, in 1952."
+  },
+  "seeFirst": {
+   "caption": "Right around you",
+   "spots": [
+    {
+     "name": "Bhagamandala",
+     "detail": "You're here · The triveni sangama where three rivers meet",
+     "status": {
+      "text": "Careful on wet steps",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Bhagandeshwara Temple",
+     "detail": "Short walk from the sangama · Shiva temple at the heart of the pilgrimage",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Bhagandeshwara Temple",
+    "title": "From Shiva's hair",
+    "body": "Locals believe the Kaveri, which they revere as Dakshina Ganga, flows out of Shiva's matted locks right here. That's why the Bhagandeshwara Temple is so special."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Expect crowds in mid-October.",
+    "body": "Pilgrims gather here in big numbers for Tula Sankramana on 17 or 18 October."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress for the temple.",
+    "body": "This is an active pilgrimage spot, so cover up and be ready to remove footwear."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Sacred confluence",
+    "body": "Bhagamandala sits on the upper Kaveri, about 898 m up, where two tributaries join it. River meetings like this, kudala in Kannada, are held sacred.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1952",
+    "title": "One election",
+    "body": "Bhagamandala Nad had its own seat in the Coorg State legislature, and its only election was held in 1952. The local economy ran on exports of honey and cardamom.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1956",
+    "title": "Coorg joins Mysore",
+    "body": "When states were redrawn along language lines, Coorg was merged into Mysore State. The Bhagamandala seat was abolished on paper that year.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Gateway to Talakaveri",
+    "body": "Pilgrims still dip in the triveni sangama and do rituals for their ancestors here. Then they head on to Talakaveri, the Kaveri's birthplace.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

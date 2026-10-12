@@ -1,0 +1,92 @@
+{
+ "query": "Koramangala, Bengaluru",
+ "region": "karnataka",
+ "name": "Koramangala",
+ "draft": {
+  "briefing": "Hey, you're in Koramangala! Planned as a suburb after independence, it filled up during Bengaluru's late 1990s tech boom and is now one of the city's big startup hubs.",
+  "hungryLine": "Koramangala is packed with places to eat, so wander the tree-lined roads and follow the busiest crowd.",
+  "moodReplies": {
+   "show-me-around": "Balasubramania Swamy Temple is a 2 minute walk, and Nexus Mall on Hosur Road was the first shopping mall in Bengaluru.",
+   "somewhere-to-chill": "Head to Madiwala Lake, one of the biggest in Bengaluru, and look out for pelicans in winter.",
+   "surprise-me": "Srinivagilu, a corner of Koramangala, has a recorded history going back to at least the 8th century, with a hero stone and a Tamil inscription near a Shiva temple."
+  },
+  "seeFirst": {
+   "caption": "Around Koramangala",
+   "spots": [
+    {
+     "name": "Balasubramania Swamy Temple",
+     "detail": "2 min walk · A neighbourhood temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Nexus Mall",
+     "detail": "On Hosur Road · Bengaluru's first mall, with 12 cinema screens",
+     "status": {
+      "text": "Busy on weekends",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Madiwala Lake",
+     "detail": "Next door in BTM Layout · One of the city's biggest lakes",
+     "status": {
+      "text": "Pelicans in Nov and Dec",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit Madiwala Lake in winter.",
+    "body": "Spot-billed pelicans migrate here, especially in November and December."
+   },
+   {
+    "icon": "tag",
+    "title": "Join a frisbee game.",
+    "body": "The Ultimate Frisbee Club plays on Tuesday, Thursday and Saturday mornings from 6:30AM, and all skill levels are welcome."
+   }
+  ],
+  "story": [
+   {
+    "era": "8th century",
+    "title": "Srinivagilu stones",
+    "body": "A hero stone in Kannada script and an incomplete Tamil inscription near a Shiva temple show this area was settled at least 1,200 years ago.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Up to the 1970s",
+    "title": "Sparse fields",
+    "body": "People heading to Bommanahalli usually bypassed Koramangala, and more houses only went up in the late 1970s.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1963",
+    "title": "St. John's arrives",
+    "body": "St. John's Medical College was set up next door in Madiwala in 1963.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Late 1990s",
+    "title": "The tech boom",
+    "body": "Sitting between Bengaluru and Electronic City, Koramangala drew people from across India and grew into a startup hub.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Crowded and green",
+    "body": "Koramangala is split into eight blocks over about 1,800 acres, with over 22,000 people per square km as of 2026.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

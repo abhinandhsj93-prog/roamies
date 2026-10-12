@@ -1,0 +1,86 @@
+{
+ "query": "Horanadu",
+ "region": "karnataka",
+ "name": "Horanadu",
+ "draft": {
+  "briefing": "Hey, you're in Horanadu! This village in the Western Ghats is home to the Annapoorneshwari Temple, where the goddess of food is worshipped, and fittingly, everyone who comes gets fed for free.",
+  "hungryLine": "Eat the free temple meal, lunch or dinner, then cool down with a glass of punarpuli, the kokum juice Horanadu is famous for.",
+  "moodReplies": {
+   "show-me-around": "The Sri Annapurneshwari Temple is a 3 min walk, and the Anjaneya Swamy Temple is about 5 minutes away.",
+   "somewhere-to-chill": "Just stroll the village streets, with mountains wrapping around three sides, and look for the little waterfalls.",
+   "surprise-me": "The original deity here was put in place by Adi Shankaracharya, and the new idol of Annapoorneshwari was only consecrated in 1973."
+  },
+  "seeFirst": {
+   "caption": "Around the village",
+   "spots": [
+    {
+     "name": "Sri Annapurneshwari Temple",
+     "detail": "3 min walk · The goddess of food, by the Bhadra River",
+     "status": {
+      "text": "Dress code applies",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sri Udbava Ganapathi Temple",
+     "detail": "3 km by road, 1.5 km on foot · A nice short trek",
+     "status": {
+      "text": "Wear good shoes for the trail",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bhadra River",
+     "detail": "About 4 km away · On the road towards Kalasa",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Sri Annapurneshwari Temple",
+    "title": "Nobody leaves hungry",
+    "body": "The goddess here is Annapoorna, the giver of food, and the temple lives up to her name. Free lunch and dinner are served to visitors every day."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Mind the dress code.",
+    "body": "Men take off their shirts before entering the temple, and women are expected to wear a saree or salwar kameez."
+   },
+   {
+    "icon": "sun",
+    "title": "Time your temple meal.",
+    "body": "Free lunch runs from noon to 3pm and free dinner from 7pm to 10pm."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Shankaracharya's goddess",
+    "body": "The main deity of the Annapoorneshwari Temple was put in place by Adi Shankaracharya. The temple sits on the banks of the Bhadra, deep in the forests of the Western Ghats.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1973",
+    "title": "A new idol",
+    "body": "In 1973 a new image of goddess Annapoorneshwari was consecrated in the temple. It's the one devotees see today.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A village in the hills",
+    "body": "Horanadu sits at about 831 m, around 100 km from Chikmagalur. Pilgrims come for the temple and stay for the views of the mountains all around.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

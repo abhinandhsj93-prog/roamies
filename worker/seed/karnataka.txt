@@ -11,19 +11,19 @@ Indiranagar, Bengaluru
 Koramangala, Bengaluru
 Jayanagar, Bengaluru
 Whitefield, Bengaluru
-Nandi Hills
+Nandi Hills @ 13.3702,77.6835
 # Mysuru region
 Mysore Palace, Mysuru
 Chamundi Hills, Mysuru
 Srirangapatna
 Brindavan Gardens
-Ranganathittu Bird Sanctuary
+Ranganathittu Bird Sanctuary @ 12.4244,76.6568
 Somanathapura
 Talakadu
-Bandipur
+Bandipur @ 11.6670,76.6340
 Gopalaswamy Betta
 Nagarhole
-Kabini
+Kabini @ 11.9407,76.3480
 # Kodagu and Malnad
 Madikeri
 Kushalnagar
@@ -36,26 +36,26 @@ Sringeri
 Horanadu
 Agumbe
 Shivamogga
-Jog Falls
+Jog Falls @ 14.2293,74.8129
 Sakleshpur
 Belur
-Halebidu
+Halebidu @ 13.2130,75.9945
 Shravanabelagola
-Hassan
+Hassan @ 13.0068,76.0996
 # Coast
 Mangaluru
-Udupi
+Udupi @ 13.3409,74.7421
 Malpe
 Manipal
 Kollur
-Murudeshwar
+Murudeshwar @ 14.0943,74.4848
 Gokarna
 Karwar
 Dandeli
 Yana
 Kundapura
 Dharmasthala
-Kukke Subramanya
+Kukke Subramanya @ 12.6644,75.6150
 Sirsi
 # North Karnataka
 Hampi
@@ -65,11 +65,11 @@ Badami
 Aihole
 Pattadakal
 Bijapur
-Bidar
+Bidar @ 17.9230,77.5274
 Gulbarga
 Hubli
 Dharwad
 Belgaum
 Gokak Falls
-Chitradurga
-Raichur
+Chitradurga @ 14.2187,76.4019
+Raichur @ 16.2076,77.3463

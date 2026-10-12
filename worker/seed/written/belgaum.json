@@ -1,0 +1,136 @@
+{
+ "query": "Belgaum",
+ "region": "karnataka",
+ "name": "Belgaum",
+ "draft": {
+  "briefing": "Hey, you're in Belgaum! People call it Kundanagari after kunda, the sweet this city is famous for. It's also Karnataka's winter capital, where the state legislature holds its winter session at the Suvarna Vidhana Soudha.",
+  "hungryLine": "The food here mixes Marathi and North Indian flavours, so go for chaat, pav bhaji, a glass of solkadi with fish and, of course, kunda.",
+  "moodReplies": {
+   "show-me-around": "The leafy Cantonment, with its old churches and schools, is a 13 min walk away. Kamal Basadi inside the old fort is a short drive.",
+   "somewhere-to-chill": "Head to Killa Lake in front of the fort, then catch the sunset from the fort's watchtower.",
+   "surprise-me": "Kamal Basadi, the Jain temple inside Belgaum Fort, was built by the Ratta dynasty around 1204 under a Jain monk's guidance."
+  },
+  "seeFirst": {
+   "caption": "Around town",
+   "spots": [
+    {
+     "name": "Belgaum Cantonment",
+     "detail": "13 min walk · Green streets with old churches and a 16th-century mosque",
+     "status": {
+      "text": "Nice for a morning walk",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Kamal Basadi",
+     "detail": "Short drive · A splendid Jain temple inside Belgaum Fort",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Killa Lake",
+     "detail": "In front of the fort · A big lake to stroll around",
+     "status": {
+      "text": "Best around sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Belgaum",
+    "title": "Kundanagari",
+    "body": "Locals call their city Kundanagari, named after kunda, the sweet Belgaum is known for. You'll find it in all the big sweet shops."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch sunset at the fort.",
+    "body": "The fort's watchtower and sunset point give the best views of the country around town."
+   },
+   {
+    "icon": "tag",
+    "title": "Order solkadi with fish.",
+    "body": "This kokum drink came over from Goa and goes perfectly with a fish meal."
+   }
+  ],
+  "story": [
+   {
+    "era": "1100s",
+    "title": "The Ratta fort",
+    "body": "Local Ratta rulers built the stone fort in the 12th century. Later rulers kept rebuilding it, so little of the original is left.",
+    "illustration": "palace"
+   },
+   {
+    "era": "About 1204",
+    "title": "Lotus temple",
+    "body": "The Rattas built Kamal Basadi, a Jain temple, inside the fort under a Jain monk's guidance. The ruined Chikki Basadi stands close by.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s",
+    "title": "Masjid-Sata",
+    "body": "The Masjid-Sata mosque goes back to the 16th century. It now sits among the greenery of the Cantonment along with several old churches.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1850s",
+    "title": "Cantonment schools",
+    "body": "St. Mary's School opened in the Cantonment in 1851, and the Jesuits founded St. Paul's High School in 1856. St. Paul's sits next to the Cathedral of Our Lady of the Family Rosary of Fatima.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2012",
+    "title": "A second seat of power",
+    "body": "Suvarna Vidhana Soudha opened on 11 October 2012 as a second state administrative building, built to look much like Bangalore's Vidhana Soudha. The legislature's winter session is held here.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Kalyani Sweets",
+    "detail": "In Camp · Pick up Belgaum's famous kunda",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Ajanta cafe",
+    "detail": "Excellent puri bhaaji, dosas and special chai",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Aadinarayan",
+    "detail": "Kirloskar Road · Famous for fresh seafood",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "query": "Sirsi",
+ "region": "karnataka",
+ "name": "Sirsi",
+ "draft": {
+  "briefing": "Hey, you're in Sirsi! Black pepper prices from Sirsi and Kochi are the only two official price references for pepper in all of India, and the local areca nut, Sirsi Supari, has its own GI tag.",
+  "hungryLine": "Sirsi is known for its vegetarian food, and several places on the Sirsi to Yellapur road are famous for it.",
+  "moodReplies": {
+   "show-me-around": "Marikamba Temple is a 13 min walk. Sahasralinga, with around a thousand lingas carved in the river, is about 14 km away.",
+   "somewhere-to-chill": "Bheemana Gudda is a locally famous sunset point with a big valley view.",
+   "surprise-me": "The Marikamba Temple has rare murals in Kaavi art, a style once popular along the coastal Konkan region of Karnataka."
+  },
+  "seeFirst": {
+   "caption": "Around Sirsi",
+   "spots": [
+    {
+     "name": "Marikamba Temple",
+     "detail": "13 min walk · Built in 1688, with Kaavi murals",
+     "status": {
+      "text": "Daily 6AM-9PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sahasralinga",
+     "detail": "About 14 km away · A thousand lingas carved in the Shalmala river",
+     "status": {
+      "text": "Best 5AM to 6PM",
+      "tone": "neutral"
+     },
+     "illustration": "flood"
+    },
+    {
+     "name": "Unchalli Falls",
+     "detail": "35 km away · A 116 m drop on the Aghanashini river",
+     "status": {
+      "text": "Last 1 km on foot",
+      "tone": "warning"
+     },
+     "illustration": "flood"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Marikamba Temple",
+    "title": "The elder sister",
+    "body": "Sirsi's Marikamba Devi is called the elder sister of all the Durga Devis in Karnataka."
+   },
+   {
+    "where": "Unchalli Falls",
+    "title": "The deafening falls",
+    "body": "Locals also call Unchalli Falls Keppa Joga, because of the deafening sound it makes."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time your sunset at Bheemana Gudda.",
+    "body": "It's inside the Sharavathi Valley Wildlife Sanctuary, so visiting hours are strictly 5AM to 7:30PM."
+   },
+   {
+    "icon": "tag",
+    "title": "Catch the Marikamba Jaathre.",
+    "body": "This fair for the goddess draws nearly a lakh devotees and is one of the biggest festivals in the region."
+   }
+  ],
+  "story": [
+   {
+    "era": "1678 to 1718",
+    "title": "A king's thousand lingas",
+    "body": "Under Sadashivarayavarma, king of the Sirsi kingdom, the Shivalingas of Sahasralinga were carved into the Shalmala river.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1688",
+    "title": "Marikamba's temple",
+    "body": "The Marikamba Temple, also called Marigudi, was built in 1688.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1845",
+    "title": "Lushington's falls",
+    "body": "J. D. Lushington, a British District Collector, came across Unchalli Falls in 1845, so they're also called Lushington Falls.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Spice country",
+    "body": "Areca nut is the main cash crop, along with cardamom, pepper, betel leaves and vanilla, and Sirsi Supari carries a GI tag.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Basaveshwar Khanavali",
+    "detail": "In Vinayak Colony · Uttara Kannada style vegetarian thali",
+    "status": {
+     "text": "10AM-9PM",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

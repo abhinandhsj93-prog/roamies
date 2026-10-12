@@ -1,0 +1,68 @@
+{
+ "query": "Nagarhole",
+ "region": "karnataka",
+ "name": "Nagarhole",
+ "draft": {
+  "briefing": "Hey, you're in Nagarhole! This forest was declared India's 37th Tiger Reserve in 2003, and it's home to Bengal tigers, Indian elephants, leopards and gaur.",
+  "hungryLine": "Out here it's simple food, but around Karnataka look out for bisibele baath, a hot rice and lentil dish, and crisp dosas with fresh chutney.",
+  "moodReplies": {
+   "show-me-around": "Nagarhole National Park starts about a 5 min walk from here, with forest, small streams, hills, valleys and waterfalls.",
+   "somewhere-to-chill": "Find a quiet spot by the forest edge and just listen. This park is all streams, hills and valleys.",
+   "surprise-me": "Karnataka has the largest population of tigers in the world, and Nagarhole is one of its tiger reserves."
+  },
+  "seeFirst": {
+   "caption": "Right on your doorstep",
+   "spots": [
+    {
+     "name": "Nagarhole National Park",
+     "detail": "5 min walk · Tigers, elephants, chital and sambar deer",
+     "status": {
+      "text": "Keep your distance from wildlife",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Watch for big animals.",
+    "body": "The park has Bengal tigers, leopards, gaur and Indian elephants, so stay alert and keep your distance."
+   },
+   {
+    "icon": "sun",
+    "title": "Come after the rains for waterfalls.",
+    "body": "Across Karnataka, waterfalls are at their best from June to October."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A wild forest",
+    "body": "Nagarhole spreads across Kodagu and Mysore districts, with rich forest cover, small streams, hills, valleys and waterfalls.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2003",
+    "title": "A tiger reserve",
+    "body": "The park was declared the 37th Tiger Reserve of India in 2003.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Part of something bigger",
+    "body": "Nagarhole is part of the Nilgiri Biosphere Reserve.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "UNESCO hopes",
+    "body": "The Western Ghats Nilgiri Sub-Cluster, including all of Nagarhole, is under consideration by UNESCO as a World Heritage Site.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

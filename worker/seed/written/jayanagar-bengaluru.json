@@ -1,0 +1,123 @@
+{
+ "query": "Jayanagar, Bengaluru",
+ "region": "karnataka",
+ "name": "Jayanagar",
+ "draft": {
+  "briefing": "Hey, you're in Jayanagar! A 2010 survey ranked it the most liveable place in Bengaluru, a neighbourhood that still keeps the old charm of the city.",
+  "hungryLine": "Jayanagar's 3rd and 4th Blocks are packed with food, from banana-leaf meals and biryani to some of the city's best dosas.",
+  "moodReplies": {
+   "show-me-around": "The Ganesha Temple in Jayanagar 4th Block is a 1 min walk, PARSEC science centre is about 7 minutes away, and the Bengaluru Art Gallery is a 9 min walk.",
+   "somewhere-to-chill": "Lalbagh Botanical Gardens are close by, a perfect spot for a slow walk under the trees.",
+   "surprise-me": "Just south of here, the Ragigudda to Silk Board flyover is Bengaluru's first double decker flyover, with the metro running on top of the road."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Ganesha Temple, Jayanagar 4th Block",
+     "detail": "1 min walk · The neighbourhood temple right next to you",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "PARSEC - Param Science Experience Centre",
+     "detail": "7 min walk · A hands-on science centre",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Bengaluru Art Gallery",
+     "detail": "9 min walk · A quick dose of art",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Get to lunch early.",
+    "body": "Nagarjuna Chimney in Jayanagar 3rd Block always has hordes waiting at lunchtime."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the Green Line.",
+    "body": "Jayanagar and Rashtreeya Vidyalaya Road metro stations are right in the neighbourhood, and RV Road is also an interchange for the Yellow Line."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "An old corner of town",
+    "body": "Neighbouring Thyagarajanagar is one of the oldest localities in Bengaluru, roughly 500 years old. It's dotted with temples.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1973",
+    "title": "A college for women",
+    "body": "NMKRV College for Women opened in Jayanagar in 1973. Today it's co-ed and teaches arts, science and commerce.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2010",
+    "title": "Most liveable",
+    "body": "A DNA Bengaluru survey ranked Jayanagar the most liveable place in the city. Its 3rd and 4th Blocks grew into busy commercial hubs while the rest stayed residential.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2017",
+    "title": "The metro arrives",
+    "body": "On 18 June 2017 the Green Line stations at South End Circle, Jayanagar and Rashtreeya Vidyalaya Road opened to the public.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2025",
+    "title": "Yellow Line opens",
+    "body": "The Yellow Line started running on 10 August 2025, with Rashtreeya Vidyalaya Road as its interchange. Ragigudda station on it is named after the Ragigudda Anjaneya Temple.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Nagarjuna Chimney",
+    "detail": "Jayanagar 3rd Block. Great biryani and meals served on a banana leaf",
+    "status": {
+     "text": "Reach early for lunch",
+     "tone": "warning"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Upaahara Darshini",
+    "detail": "Jayanagar 3rd Block. One of Bengaluru's oldest food joints, go for the dosas",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "The Adiga's",
+    "detail": "A branch in Jayanagar 4th Block, popular across South Bengaluru",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

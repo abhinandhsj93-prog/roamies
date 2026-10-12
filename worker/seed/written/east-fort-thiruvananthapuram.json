@@ -3,7 +3,7 @@
  "region": "kerala",
  "name": "East Fort",
  "draft": {
-  "briefing": "Hey, you're in East Fort! This street has been a busy trading centre ever since Thiruvananthapuram was the capital of the kingdom of Travancore. The old European-style fort gate opens straight onto the Padmanabhaswamy Temple.",
+  "briefing": "Hey, you're at East Fort! This street has been a busy trading centre ever since Thiruvananthapuram was the capital of the kingdom of Travancore. The old European-style fort gate opens straight onto the Padmanabhaswamy Temple.",
   "hungryLine": "I don't have a named place to eat right here, but it's a busy commercial street, so just ask a shopkeeper where they eat.",
   "moodReplies": {
    "show-me-around": "Pazhavangadi Ganapathy Temple is 2 min away, the Methan mani clock tower 3 min, and the Padmanabhaswamy Temple about 7 min on foot.",

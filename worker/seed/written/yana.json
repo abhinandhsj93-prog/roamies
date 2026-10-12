@@ -1,0 +1,62 @@
+{
+ "query": "Yana",
+ "region": "karnataka",
+ "name": "Yana",
+ "draft": {
+  "briefing": "Hey, you're in Yana! Just outside the village rise two huge karst outcrops, Bhairaveshwara Shikhara and Mohini Shikhara, now a National Geological Monument.",
+  "hungryLine": "My notes don't list any eateries in this little village, so carry water and snacks for your visit to the rocks.",
+  "moodReplies": {
+   "show-me-around": "The rocks at Yana are about a 23 min walk from here, on the outskirts of the village.",
+   "somewhere-to-chill": "Take your time around the base of the rocks. It's a village, so the pace here is slow.",
+   "surprise-me": "Yana's rocks are karst formations, and the Geological Survey of India declared the site a National Geological Monument."
+  },
+  "seeFirst": {
+   "caption": "A short walk away",
+   "spots": [
+    {
+     "name": "Yana",
+     "detail": "23 min walk · Two giant karst rock outcrops",
+     "status": {
+      "text": "Carry water",
+      "tone": "neutral"
+     },
+     "illustration": "flood"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly at the temple.",
+    "body": "There's a temple to Bhairaveshwara, a form of Shiva, at the site."
+   },
+   {
+    "icon": "tag",
+    "title": "Bring water and good shoes.",
+    "body": "The rocks are on the outskirts of the village, about a 23 min walk away."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Rocks of karst",
+    "body": "Several karst formations rose in this region, and the two biggest stand on the edge of the village.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Tradition",
+    "title": "A temple to Shiva",
+    "body": "A temple at Yana is dedicated to Bhairaveshwara, a form of Shiva, and one of the outcrops is named after him.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2026",
+    "title": "A national monument",
+    "body": "The Geological Survey of India declared Yana a National Geological Monument in 2026.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

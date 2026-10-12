@@ -1,0 +1,98 @@
+{
+ "query": "Shivamogga",
+ "region": "karnataka",
+ "name": "Shivamogga",
+ "draft": {
+  "briefing": "Hey, you're in Shivamogga! This city on the Tunga River is nicknamed the Gateway to Malnad, since it opens onto the hills of the Western Ghats.",
+  "hungryLine": "My notes don't list restaurants here, but for something different, locals suggest having lunch at one of the temples.",
+  "moodReplies": {
+   "show-me-around": "Start at Shivappa Nayaka Palace by the Tunga, then the Sacred Heart Church in the heart of the city. Tyavarekoppa Lion and Tiger Safari is about 11 km out.",
+   "somewhere-to-chill": "Mandagadde Bird Sanctuary, about 32 km away, has a high platform by the Tunga for watching egrets, cormorants and darters.",
+   "surprise-me": "The Sacred Heart Church here is said to be the second largest church in India, with a prayer hall that holds up to 5000 people."
+  },
+  "seeFirst": {
+   "caption": "In and around the city",
+   "spots": [
+    {
+     "name": "Shivappa Nayaka Palace",
+     "detail": "By the Tunga · A 16th century rosewood palace with a museum",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Elephant Training Camp-Sakrebylu",
+     "detail": "About 14 km away · Watch elephants bathe in the river",
+     "status": {
+      "text": "Get there before 9AM",
+      "tone": "warning"
+     },
+     "illustration": "flood"
+    },
+    {
+     "name": "Tyavarekoppa Lion and Tiger Safari",
+     "detail": "About 11 km away · Lions and tigers in big enclosures",
+     "status": {
+      "text": "Sighting guaranteed",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Shivamogga",
+    "title": "The face of Shiva",
+    "body": "Locals say the name comes from Shiva-mukha, the face of Lord Shiva. That's how Shimoga became Shivamogga."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go early for the elephants.",
+    "body": "At Sakrebylu the elephants bathe in the morning, so get there before 9AM to catch them."
+   },
+   {
+    "icon": "tag",
+    "title": "Try a temple lunch.",
+    "body": "Lunch at a local temple is a very different food experience worth trying."
+   }
+  ],
+  "story": [
+   {
+    "era": "1500s",
+    "title": "A Keladi palace",
+    "body": "Shivappa Naik of Keladi built a palace of rosewood on the banks of the Tunga. Today it holds stone carvings and antiques from the Keladi period.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1792",
+    "title": "The fort falls",
+    "body": "On 3 January 1792, during the Third Anglo-Mysore War, the Maratha leader Purseram Bhow took Shimoga's fort after its walls were breached.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1889",
+    "title": "The railway arrives",
+    "body": "The Birur to Shivamogga line opened on 1 December 1889, making this one of the earliest railway stations in Karnataka.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1987",
+    "title": "A university town",
+    "body": "Kuvempu University was set up in 1987, with its green Jnana Sahyadri campus near the city.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A smart city",
+    "body": "The city was picked for the Smart Cities Mission, ranking fourth in the state as of November 2020.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "query": "Basavanagudi, Bengaluru",
+ "region": "karnataka",
+ "name": "Basavanagudi",
+ "draft": {
+  "briefing": "Hey, you're in Basavanagudi! The name literally means bull temple, after Dodda Basavana Gudi, said to be one of the biggest Nandi temples in the world. It's one of Bengaluru's oldest neighbourhoods, with shops on DVG Road going back to the 1920s.",
+  "hungryLine": "This is old-school Bengaluru food country, so go for dosas on DVG Road in Gandhi Bazaar.",
+  "moodReplies": {
+   "show-me-around": "Bugle Rock is an 11 min walk, and the Bull Temple sits right beside it, about 13 minutes away. Gandhi Bazaar is an 11 min walk too.",
+   "somewhere-to-chill": "Climb up into Bugle Rock park and sit on the old rock looking out over the neighbourhood.",
+   "surprise-me": "Bugle Rock is a hump of peninsular gneiss about 3,000 million years old, and scientists take a real interest in it."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Dodda Basavana Gudi",
+     "detail": "13 min walk · A giant stone Nandi that keeps getting fresh layers of butter",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bugle Rock",
+     "detail": "11 min walk · Ancient rock with a Kempe Gowda watchtower on top",
+     "status": {
+      "text": "Lovely at sunset",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Gandhi Bazaar",
+     "detail": "11 min walk · Flower and condiment stalls along DVG Road",
+     "status": {
+      "text": "Usually 6AM to 9PM",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Bugle Rock",
+    "title": "The sunset bugle",
+    "body": "At sunset a sentry on the watchtower is said to have blown a bugle and held up a torch that the city's other three towers could see. It told people all was safe, and a different call warned of intruders."
+   },
+   {
+    "where": "Dodda Basavana Gudi",
+    "title": "A river from the bull's feet",
+    "body": "Two old inscriptions near the temple say the Vrishabhavati river starts at the feet of the Basava idol. From there it flows west."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch the groundnut fair.",
+    "body": "Kadalekaayi Parishe fills the temple area on the last Monday and Tuesday of Karthika Maasa, with farmers offering their first groundnuts."
+   },
+   {
+    "icon": "tag",
+    "title": "Shop Gandhi Bazaar early.",
+    "body": "The market runs from about 6 a.m. and gets extra crowded before festivals when people buy puja items."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Ancient rock",
+    "body": "Bugle Rock, a sudden rise of gneiss, is reckoned to be about 3,000 million years old. Its hollows were once used to light lamps.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Late 1500s",
+    "title": "Watchtowers",
+    "body": "Kempe Gowda II, who came to power in 1585, is credited with four watchtowers marking Bangalore's limits. One stood on Bugle Rock, the southern edge, with a view across the city.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1920s to 1940s",
+    "title": "DVG Road",
+    "body": "Shops on DVG Road, some of the oldest in the city, date back to the 1920s and 1930s. Vidyarthi Bhavan, a vegetarian restaurant, opened in Gandhi Bazaar in 1943.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1946",
+    "title": "First private engineering college",
+    "body": "B.M.S. College of Engineering opened on Bull Temple Road, diagonally opposite the Bull Temple. It's known as the first private engineering college in India.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2017",
+    "title": "Metro arrives",
+    "body": "Several Green Line metro stations serving Basavanagudi, including National College and Lalbagh, opened on 18 June 2017.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Upaahara Darshini",
+    "detail": "DVG Road, Gandhi Bazaar · One of Bengaluru's oldest food joints, amazing dosas",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "The Adiga's",
+    "detail": "On the road facing BHS First Grade College · South Bengaluru restaurant chain",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

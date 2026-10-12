@@ -1,0 +1,103 @@
+{
+ "query": "Shravanabelagola",
+ "region": "karnataka",
+ "name": "Shravanabelagola",
+ "draft": {
+  "briefing": "Hey, you're in Shravanabelagola! Up on Vindhyagiri stands the Gommateshwara statue of Bahubali, 17 m tall and carved from a single block of granite over a thousand years ago.",
+  "hungryLine": "This is a small temple town and my notes don't list eateries, so keep meals simple and carry water for the climb.",
+  "moodReplies": {
+   "show-me-around": "Akkana Basadi is a 4 min walk, Chandragiri Hill about 7 min, and the Gommateshwara statue on Vindhyagiri about 8 min.",
+   "somewhere-to-chill": "Take the quieter western stairs up Vindhyagiri, they're just as good as the main steps and far more peaceful.",
+   "surprise-me": "The base of the Gommateshwara statue has inscriptions in Kannada and Tamil, plus the oldest evidence of written Marathi, from 981 AD."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Gommateshwara statue",
+     "detail": "8 min walk · The giant Bahubali statue on Vindhyagiri",
+     "status": {
+      "text": "Climb barefoot",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chandragiri Hill",
+     "detail": "7 min walk · Older Jain temples, and fewer crowds",
+     "status": {
+      "text": "Quieter than Vindhyagiri",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Akkana Basadi",
+     "detail": "4 min walk · A Hoysala-era temple built by a devout lady",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Vindhyagiri",
+    "title": "Bahubali's choice",
+    "body": "Jain legend says Bahubali could easily have beaten his older brother Bharatha in a duel, but stopped and gave up his kingdom for meditation. The statue shows him standing still so long that creepers wind up his legs and arms."
+   },
+   {
+    "where": "Chandragiri",
+    "title": "An emperor's last days",
+    "body": "Chandragupta Maurya is said to have died on Chandragiri hill in 298 BCE after becoming a Jain monk. A small basadi on the hill carries his name."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Wear socks for the climb.",
+    "body": "The hill must be climbed barefoot, and in summer the rock gets hot, so two pairs of socks help."
+   },
+   {
+    "icon": "tag",
+    "title": "Give Chandragiri its own day.",
+    "body": "Many people only see Vindhyagiri, but Chandragiri is just as interesting, minus the statue."
+   }
+  ],
+  "story": [
+   {
+    "era": "298 BCE",
+    "title": "Chandragupta's hill",
+    "body": "Chandragupta Maurya is said to have died on Chandragiri after taking up the life of a Jain monk.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Late 900s",
+    "title": "A statue for a mother",
+    "body": "Chavundaraya, a minister and commander of the Ganga kings, had the Gommateshwara statue carved and erected it for his mother.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1181",
+    "title": "The elder sister's temple",
+    "body": "Achiyakka, wife of a Hoysala minister, built Akkana Basadi in 1181 during the rule of Veera Ballala II.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1300s",
+    "title": "A triple shrine",
+    "body": "The Odegal Basadi on Vindhyagiri, held up by stone props, is the only triple shrine here and dates to the 14th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "The great anointing",
+    "body": "Every 12 years the statue is bathed with water, milk, saffron, flowers and more in the Mahamasthakabhisheka. The last one was in 2018.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

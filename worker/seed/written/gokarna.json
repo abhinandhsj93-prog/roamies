@@ -1,0 +1,136 @@
+{
+ "query": "Gokarna",
+ "region": "karnataka",
+ "name": "Gokarna",
+ "draft": {
+  "briefing": "Hey, you're in Gokarna! The Mahabaleshwar Temple here dates to the 4th century and faces straight out onto Gokarna beach, and even Kalidasa wrote about the \"Lord of Gokarna\".",
+  "hungryLine": "Go for a cheap all-you-can-eat thali in town, and try the fish, pomfret, kingfish or seer, fried, roasted or curried.",
+  "moodReplies": {
+   "show-me-around": "The Mahabaleshwar Temple is a 4 min walk, and the Maha Ganapati Temple is just metres away from it. Kudle Beach is about 20 minutes on foot south of Gokarna beach.",
+   "somewhere-to-chill": "Walk the coastal trail to Om Beach, named for its Om-shaped curve, and settle into one of the cafes with a view of the sea.",
+   "surprise-me": "Just up the coast, Sanikatta has been making salt since 1720, which makes it the oldest salt-making village in Karnataka."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Mahabaleshwar Temple",
+     "detail": "4 min walk · 4th-century Shiva temple facing the sea",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Maha Ganapati Temple",
+     "detail": "Metres from the Shiva temple · Visit here first, as locals do",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kudle Beach",
+     "detail": "20 min walk south of Gokarna beach · Lovely views on the hill path",
+     "status": {
+      "text": "Ask about currents before swimming",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Maha Ganapati Temple",
+    "title": "Ganesha and the Atma Linga",
+    "body": "Locals say Lord Ganesha played a hand in taking the Atma Linga from Ravana, which is why he has his own temple right by the Shiva temple. The custom is to pray at Ganapati first, then go on to Mahabaleshwar."
+   },
+   {
+    "where": "Rama temple, on the path to Kudle Beach",
+    "title": "The spring that never stops",
+    "body": "On the hill path from Gokarna beach to Kudle there's a little Rama temple with a natural spring. Locals will tell you it has never stopped running."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come for Shiva Ratri.",
+    "body": "In Feb or Mar thousands of pilgrims pour into town, and it's a tremendous sight."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip the monsoon beach hike.",
+    "body": "The trail from Om to Half-moon and Paradise beaches gets treacherous in the rains, so take a boat in season instead."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Named in the epics",
+    "body": "Gokarna shows up in the Mahabharata. In the 4th century the poet Kalidasa also mentioned the \"Lord of Gokarna\" in his Raghuvamsha.",
+    "illustration": "palace"
+   },
+   {
+    "era": "300s",
+    "title": "A temple by the sea",
+    "body": "The Mahabaleshwar Temple was built in the classical Dravidian style, facing the Arabian Sea. It enshrines the Atmalinga of Shiva.",
+    "illustration": "palace"
+   },
+   {
+    "era": "500s-600s",
+    "title": "Sung by Tamil saints",
+    "body": "The temple is one of the 275 shrines praised in the Tevaram. Those Tamil hymns were written by the Nayanar saints in the 6th and 7th centuries.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1720",
+    "title": "Salt on the coast",
+    "body": "Nearby Sanikatta started making salt in 1720 and has kept at it for nearly 300 years. Neighbouring Torke may even take its name from the Kannada word for a salt maker.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrims and beach trekkers",
+    "body": "Gokarna is still a conservative pilgrim town, but it's also one of India's best-loved beach spots. Trekkers hop from Kudle to Om, Half-moon and Paradise beaches.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Shree Shakti Cold Drinks and Restaurant",
+    "detail": "On Car Street, running for thirty years. Go for ice cream, fresh juice or a lassi",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Pai hotel",
+    "detail": "On Temple Road. Order the leaf idli or the upma",
+    "status": {
+     "text": "Don't mix it up with Pai Restaurant",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Namaste cafe",
+    "detail": "At Om beach. Try the Prawn Masala or King Fish Sizzler",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

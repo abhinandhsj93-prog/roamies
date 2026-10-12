@@ -1,0 +1,138 @@
+{
+ "query": "Srirangapatna",
+ "region": "karnataka",
+ "name": "Srirangapatna",
+ "draft": {
+  "briefing": "Hey, you're in Srirangapatna! This island town in the Kaveri was Tipu Sultan's fortress capital, and it was here, in the siege of 1799, that he fell and the British took Mysore.",
+  "hungryLine": "For a cheap, early breakfast, the small cafes by the KSRTC bus station are your best bet.",
+  "moodReplies": {
+   "show-me-around": "The Ranganathaswamy Temple is a 10 min walk, the Garrison Cemetery about 14 min, and Tipu Sultan Fort about 16 min.",
+   "somewhere-to-chill": "Find the little riverside seats near Wellesley Bridge, by the Anjaneya Swamy Temple. It's a peaceful spot to watch the river for an hour or two.",
+   "surprise-me": "The Garrison Cemetery holds about 307 graves from the 1799 assault, and 80 of them are officers of a Swiss regiment, the de Meuron Regiment."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Ranganathaswamy Temple",
+     "detail": "10 min walk · Vishnu reclining on the serpent Ananta",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Garrison Cemetery",
+     "detail": "14 min walk · Graves from the 1799 siege, by the river",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Tipu Sultan Fort",
+     "detail": "16 min walk · Tipu's fort, with dungeons and the breach",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Colonel Bailey's Dungeon",
+    "title": "Prisoners in the water",
+    "body": "It's said British prisoners here were chained to the stone and kept in water up to their necks. Colonel William Baillie was held here and died in 1782."
+   },
+   {
+    "where": "Scott's Bungalow",
+    "title": "The deserted bungalow",
+    "body": "This riverside house of Colonel Scott, who fought in the 1799 siege, is tied to a local legend and tragedy. An 1875 poem, The Deserted Bungalow, mourns its fate."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Do the summer palace first.",
+    "body": "Daria Daulat Bagh is open 9AM to 4PM, while the Gumbaz stays open until 6PM."
+   },
+   {
+    "icon": "tag",
+    "title": "Time your mosque visit.",
+    "body": "At Masjid-e-Ala, go right after the call to prayer to see the inner hall open, and take off your shoes at the steps."
+   }
+  ],
+  "story": [
+   {
+    "era": "984 CE",
+    "title": "The temple town",
+    "body": "The Ranganathaswamy Temple was consecrated around 984 CE, and the town takes its name from it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1454",
+    "title": "A fort on the island",
+    "body": "Timmanna Nayaka built the fort in 1454. Hyder Ali and Tipu Sultan later strengthened it with help from French architects.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1610",
+    "title": "Mysore takes over",
+    "body": "Raja Wodeyar I defeated the Vijayanagara viceroy here in 1610 and celebrated Navaratri in the town that year.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1799",
+    "title": "The final siege",
+    "body": "The British and their allies breached the walls on 4 May 1799. Tipu Sultan died in the battle, and the Wadiyars were put back on the Mysore throne.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1907",
+    "title": "The Obelisk",
+    "body": "Krishna Raja Wadiyar IV built the Obelisk Monument in 1907 to remember those who died in the siege.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Gowda Mane Cafe",
+    "detail": "Near the KSRTC bus station · Budget place that opens by six am",
+    "status": {
+     "text": "Early breakfast",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Orchid Cafe",
+    "detail": "Beside the bus station · An economy restaurant",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Bhuvaneshwari Restaurant",
+    "detail": "Two km out on Bangalore Road",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

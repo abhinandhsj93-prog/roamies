@@ -1,0 +1,98 @@
+{
+ "query": "Gulbarga",
+ "region": "karnataka",
+ "name": "Kalaburagi",
+ "draft": {
+  "briefing": "Hey, you're in Kalaburagi! Back when it was called Gulbarga, this was the capital of the Bahmani Kingdom from 1347 to 1424, and its fort still holds a Persian-style mosque from 1367.",
+  "hungryLine": "Food here is rich in spices, so try tahari, rice cooked with meat and spices, with sorghum bread and toor dal on the side.",
+  "moodReplies": {
+   "show-me-around": "The Sharana Basaveshwara Temple is a 16 min walk, and Gulbarga Fort with its Jama Masjid is about 18 minutes away.",
+   "somewhere-to-chill": "Head to the Buddha Vihar, a calm Buddhist centre opened in 2007 that feels like an oasis of peace.",
+   "surprise-me": "Inside the fort, the Shor Gumbad, or noisy dome, has such odd acoustics that sound echoes all around its interior."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Sharana Basaveshwara Temple",
+     "detail": "16 min walk · Samadhi of a 12th-century Lingayat reformer, with rich carvings",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Gulbarga Fort",
+     "detail": "18 min walk · The Bahmani citadel, now mostly in ruins",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jama Masjid",
+     "detail": "18 min walk · Persian-style mosque from 1367, fully domed inside",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Chor Gumad (Shor Gumbad)",
+    "title": "The thief's tomb",
+    "body": "Nobody really knows who lies in this single-domed tomb by the fort walls. Legend says a thief once stashed his loot inside, which is how it got the name Chor Gumbad."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in March.",
+    "body": "That's when the Sharana Basaveshwara Temple holds its chariot festival."
+   },
+   {
+    "icon": "tag",
+    "title": "Look for the double tombs.",
+    "body": "At the Haft Gumbaz, some tombs have two chambers, one for the king and one for his family, a feature you won't see elsewhere."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A Hindu king's fort",
+    "body": "The fort was first built by the Hindu monarch Raja Gulchand. Wikivoyage traces it back to the time of the Kakatiya dynasty.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1347",
+    "title": "Bahmani capital",
+    "body": "Ala-ud-Din Bahman Shah broke from the Delhi Sultanate and greatly enlarged the fort in 1347. Gulbarga became the capital of his new Bahmani Kingdom.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1367",
+    "title": "The great mosque",
+    "body": "Sultan Mohammed Shah I built the Jama Masjid inside the fort to mark the new capital. It's fully enclosed with domes and arches in the Persian style.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1400-1424",
+    "title": "Saint and sultans",
+    "body": "Sultan Firoz Shah invited the Sufi saint Banda Nawaz to settle here around 1400, and he died in 1422. Two years later the Bahmanis moved their capital to Bidar for its better climate.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2014",
+    "title": "On UNESCO's list",
+    "body": "The Jama Masjid, the Haft Gumbaz and other buildings here went onto UNESCO's tentative list as part of the Monuments and Forts of the Deccan Sultanate.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

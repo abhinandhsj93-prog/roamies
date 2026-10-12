@@ -1,0 +1,98 @@
+{
+ "query": "Mysore Palace, Mysuru",
+ "region": "karnataka",
+ "name": "Mysore Palace",
+ "draft": {
+  "briefing": "Hey, you're at Mysore Palace! After the old palace burned down, this one was built from 1897 to 1912, and on show nights it lights up with 100,000 bulbs.",
+  "hungryLine": "Wander over to Devaraja Market for fresh fruit, spices and piles of colourful kumkum.",
+  "moodReplies": {
+   "show-me-around": "Mysore Palace is a 3 minute walk, Jaganmohan Palace is 10 minutes away, and Devaraja Market is about 12 minutes on foot.",
+   "somewhere-to-chill": "Find a quiet corner in the Jaganmohan Palace art gallery, full of Raja Ravi Varma paintings.",
+   "surprise-me": "Devaraja Market was built in 1886 right over the Dewan Poornaiah Canal, which supplied drinking water to the palace."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Mysore Palace",
+     "detail": "3 min walk · Rosewood doors, ivory inlay and royal portraits",
+     "status": {
+      "text": "Shoes off inside",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jaganmohan Palace",
+     "detail": "10 min walk · Royal mansion turned art gallery",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Devaraja Market",
+     "detail": "12 min walk · Flowers, spices and sandalwood since 1886",
+     "status": {
+      "text": "Busy and photogenic",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Jwalamukhi Tripurasundari Temple",
+    "title": "Chamundi's sister",
+    "body": "Legend says each drop of the demon Mahisasura's blood would create a new demon. So Chamundi asked Tripura Sundari for help, and she drank every drop before it touched the ground."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Stay for the evening lights.",
+    "body": "The light and sound show starts at 7PM, and the whole palace lights up at the end."
+   },
+   {
+    "icon": "tag",
+    "title": "Be ready to leave your shoes.",
+    "body": "You have to take your shoes off before going into the palace."
+   }
+  ],
+  "story": [
+   {
+    "era": "1399",
+    "title": "The Wadiyars' capital",
+    "body": "The Kingdom of Mysore was founded around 1399, and the city stayed its capital for almost six centuries.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1600s",
+    "title": "The first palace",
+    "body": "The first palace on this spot was built under Kanthirava Narasaraja I, then destroyed and rebuilt several times.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1761 to 1799",
+    "title": "Hyder Ali and Tipu",
+    "body": "The kingdom became a sultanate under Hyder Ali and Tipu, before turning into a princely state under the British.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1897",
+    "title": "Fire and a new start",
+    "body": "After the old palace burned down, Krishnaraja Wodeyar IV commissioned a new one, designed by Henry Irwin.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1912",
+    "title": "The palace today",
+    "body": "The Indo-Saracenic palace was finished in 1912, and the Mysore Dasara festival is held on its grounds every year.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

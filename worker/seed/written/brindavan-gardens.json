@@ -1,0 +1,89 @@
+{
+ "query": "Brindavan Gardens",
+ "region": "karnataka",
+ "name": "Brindavan Gardens",
+ "draft": {
+  "briefing": "Hey, you're at Brindavan Gardens! These terraced gardens were laid out between 1927 and 1932 right beside the Krishna Raja Sagara dam on the Kaveri. Close to 2 million people visit every year.",
+  "hungryLine": "The gardens are about the views, not the food, so eat in Mysuru before or after and bring water along.",
+  "moodReplies": {
+   "show-me-around": "The gardens are a 10 min walk from here, and the big Krishna Raja Sagara dam is about 8 minutes on foot.",
+   "somewhere-to-chill": "Wander the ornamental terraces below the dam and take in the reservoir stretching out behind it.",
+   "surprise-me": "One of the inscriptions found here is in Persian and talks about Tipu's own efforts to build a dam at this very spot, long before KRS."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Brindavan Gardens",
+     "detail": "10 min walk · Ornamental gardens designed by Gustav Hermann Krumbiegel",
+     "status": {
+      "text": "Busy on weekends",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Krishna Raja Sagara",
+     "detail": "8 min walk · The dam locals call Kannambadi Katte, about 130 feet high",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Krishnarajasagara",
+    "title": "The sage's lost temple",
+    "body": "Long before the dam, this place was Kanvapuri, where the sage Kanva is said to have had his ashrama and worshipped Shiva. The Kanveshvara temple that stood here now lies under the reservoir."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in the cooler evening.",
+    "body": "The gardens are open and sunny, so a late afternoon visit is much more comfortable."
+   },
+   {
+    "icon": "tag",
+    "title": "Travel via Mysuru.",
+    "body": "Krishnarajasagar has its own station, but Mysuru Junction, about 20 km away, is the easier option."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Kanvapuri",
+    "body": "The area was once called Kanvapuri after the sage Kanva, and later Kannambadi. About 24 old inscriptions have been found here.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Tipu's time",
+    "title": "A dam dreamed early",
+    "body": "A Persian inscription records Tipu's efforts to build a dam at this same site. It took far longer for one to actually go up.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Famine years",
+    "title": "Building KRS",
+    "body": "Maharaja Krishna Raja Wadiyar IV approved the dam during a famine, when money was tight, and Sir M. Visvesvaraya built it as Chief Engineer. Getting it done took decades of talks with the Madras Presidency over Kaveri water.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1927 to 1932",
+    "title": "A garden by the dam",
+    "body": "Diwan Sir Mirza Ismail, a real garden lover, founded Brindavan Gardens. German botanist Gustav Hermann Krumbiegel designed them.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Two million visitors",
+    "body": "Close to 2 million tourists come every year, making it one of the big draws around Srirangapatna. The old water dispute still carries on between Karnataka and Tamil Nadu.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

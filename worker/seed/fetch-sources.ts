@@ -31,24 +31,25 @@ const outDir = new URL(`sources/${region}/`, here);
 mkdirSync(outDir, { recursive: true });
 const report: string[] = [];
 for (const query of [...queries].filter((q) => !filter || q.toLowerCase().includes(filter.toLowerCase()))) {
-  const file = new URL(`${slug(query)}.json`, outDir);
+  // "Name @ lat,lon" pins a place whose name Nominatim resolves badly.
+  const pin = query.match(/^(.+?)\s*@\s*(-?[\d.]+),\s*(-?[\d.]+)$/);
+  const name = pin ? pin[1] : query;
+  const file = new URL(`${slug(name)}.json`, outDir);
   if (existsSync(file) && !process.env.REFRESH) continue;
   try {
-    const res = await fetch(
-      `https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&countrycodes=in&q=${encodeURIComponent(`${query}, ${state}`)}`,
-      { headers: { 'User-Agent': UA } },
-    );
-    const [hit] = (await res.json()) as { lat: string; lon: string; display_name: string }[];
-    await sleep(1100);
+    const hit = pin
+      ? { lat: pin[2], lon: pin[3], display_name: `${pin[1]} (pinned)` }
+      : await search(query);
     if (!hit) throw new Error('not found by Nominatim');
     const lat = Number(hit.lat);
     const lon = Number(hit.lon);
     const locality = await reverseGeocode(lat, lon);
     await sleep(1100);
     if (!locality) throw new Error('no locality');
+    if (locality.state && locality.state !== state) throw new Error(`resolved to ${locality.name}, ${locality.state}`);
     const s = await gatherSources(lat, lon, locality);
-    writeFileSync(file, JSON.stringify({ query, found: hit.display_name, lat, lon, fetchedAt: new Date().toISOString(), ...s }, null, 1));
-    report.push(`${query} -> ${locality.name}: ${s.wikipedia.length} wiki, ${s.wikivoyage ? 'voyage' : 'no voyage'}, ${s.sights.length} sights, ${s.food.length} food, ${Object.keys(s.photos).length} photos${s.errors.length ? `, errors ${s.errors.join('/')}` : ''}`);
+    writeFileSync(file, JSON.stringify({ query: name, found: hit.display_name, lat, lon, fetchedAt: new Date().toISOString(), ...s }, null, 1));
+    report.push(`${name} -> ${locality.name}: ${s.wikipedia.length} wiki, ${s.wikivoyage ? 'voyage' : 'no voyage'}, ${s.sights.length} sights, ${s.food.length} food, ${Object.keys(s.photos).length} photos${s.errors.length ? `, errors ${s.errors.join('/')}` : ''}`);
     await sleep(2000);
   } catch (e) {
     report.push(`${query} FAILED ${e instanceof Error ? e.message : String(e)}`);
@@ -56,3 +57,13 @@ for (const query of [...queries].filter((q) => !filter || q.toLowerCase().includ
 }
 console.log(report.join('\n'));
 writeFileSync(new URL('fetch-report.txt', outDir), report.join('\n') + '\n');
+
+async function search(query: string) {
+  const res = await fetch(
+    `https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&countrycodes=in&q=${encodeURIComponent(`${query}, ${state}`)}`,
+    { headers: { 'User-Agent': UA } },
+  );
+  const [hit] = (await res.json()) as { lat: string; lon: string; display_name: string }[];
+  await sleep(1100);
+  return hit;
+}

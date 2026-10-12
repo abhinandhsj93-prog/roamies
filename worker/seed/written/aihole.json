@@ -1,0 +1,92 @@
+{
+ "query": "Aihole",
+ "region": "karnataka",
+ "name": "Aihole",
+ "draft": {
+  "briefing": "Hey, you're in Aihole! Over 120 stone and cave temples are spread around this little village, and back in the 6th century this was where builders experimented with how a temple should look. That experimenting led straight to Pattadakal, now a UNESCO World Heritage Site.",
+  "hungryLine": "Aihole is a small village surrounded by farmland, so carry water and snacks for your temple wander.",
+  "moodReplies": {
+   "show-me-around": "Start at the Durga temple, an 11 min walk away, then the very old Lad Khan temple just south of it. Meguti Jain temple sits up on the hill about 17 minutes on foot.",
+   "somewhere-to-chill": "Climb up Meguti Hill and sit by the Jain temple. You get a calm view over the village, farmland and sandstone hills.",
+   "surprise-me": "The Durga temple was never a Durga temple. It was built for Surya, and got its name because a fortified lookout, a durg, was built on top of it after the 13th century."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Durga temple",
+     "detail": "11 min walk · Aihole's star, with a rare rounded apsidal plan and the finest carved panels",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chalukya Shiva Temple",
+     "detail": "13 min walk · Also called Lad Khan, now dated to about the 5th century",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Meguti Jain temple",
+     "detail": "17 min walk · Hilltop temple with the famous 634 CE inscription",
+     "status": {
+      "text": "Uphill walk, carry water",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Start early.",
+    "body": "The temples are spread across open farmland and sandstone hills, so beat the midday sun."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly.",
+    "body": "Many of these are temples, so cover shoulders and knees and take shoes off where asked."
+   }
+  ],
+  "story": [
+   {
+    "era": "About 400s",
+    "title": "One of the oldest",
+    "body": "The Lad Khan temple, also called the Chalukya Shiva Temple, was once thought to be from the 7th or 8th century. It's now dated to around the 5th century, making it one of the oldest Hindu temples around.",
+    "illustration": "palace"
+   },
+   {
+    "era": "500s",
+    "title": "Temple lab",
+    "body": "By the 6th century Aihole and nearby Badami became a cradle of experiments in temple design. Builders here tried out 16 types of free-standing temples and 4 types of rock-cut shrines.",
+    "illustration": "palace"
+   },
+   {
+    "era": "634 CE",
+    "title": "A poet's inscription",
+    "body": "The Jain poet and court official Ravikirti built the Meguti Jain temple during the reign of Pulakeshin II. His Sanskrit inscription praising the king, the Aihole Prashasti, is a key source on the early Chalukyas.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Early 700s",
+    "title": "Temple for the sun",
+    "body": "The Durga temple went up, originally dedicated to Surya. It has the biggest and most decorated relief panels in Aihole.",
+    "illustration": "palace"
+   },
+   {
+    "era": "After 1200s",
+    "title": "A fort on a temple",
+    "body": "During wars between Hindu kingdoms and the Sultanates, a rubble lookout was built on the Surya temple, giving it the name Durga. The lookout survived until the site was rediscovered in the 19th century and has since been removed.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}
