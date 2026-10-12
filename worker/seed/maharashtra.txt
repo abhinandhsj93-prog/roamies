@@ -40,7 +40,7 @@ Karjat
 Matheran
 Mahabaleshwar
 Panchgani
-Pratapgad
+Pratapgad @ 17.9363,73.5781
 Raigad Fort
 Bhimashankar
 Malshej Ghat @ 19.3355,73.7720
@@ -53,7 +53,7 @@ Koregaon Park, Pune
 Deccan Gymkhana, Pune
 Sinhagad
 Lavasa
-Satara
+Satara @ 17.6805,74.0183
 Kaas Plateau @ 17.7206,73.8232
 Kolhapur
 Pandharpur @ 17.6767,75.3307

@@ -1,46 +1,89 @@
 {
-  "query": "Aurangabad",
-  "region": "maharashtra",
-  "name": "Aurangabad",
-  "draft": {
-    "briefing": "Hey, you're in Aurangabad! This city once had 52 gates, each with its own local history, and 13 of them still stand. The oldest and biggest survivor is the Bhadkal Gate, near the Naukhanda Palace of the Nizams.",
-    "hungryLine": "My notes don't name any eateries around Osmanpura, so ask a local where they go for a good meal.",
-    "moodReplies": {
-      "show-me-around": "Go see Qila-e-Ark, the citadel Aurangzeb built as a prince, then hunt down the surviving city gates like Bhadkal Gate.",
-      "somewhere-to-chill": "Take a slow wander through Begampura or Aurang-pura, two of the old walled suburbs that were busiest back in the 19th century.",
-      "surprise-me": "When Aurangzeb made this his capital, the city had 54 suburbs, each walled in just like the city itself."
+ "query": "Aurangabad",
+ "region": "maharashtra",
+ "name": "Aurangabad",
+ "draft": {
+  "briefing": "Hey, you're in Aurangabad! This city once had 52 gates, each with its own local history, and 13 of them still stand. The oldest and biggest survivor is the Bhadkal Gate, near the Naukhanda Palace of the Nizams.",
+  "hungryLine": "My notes don't name any eateries around Osmanpura, so ask a local where they go for a good meal.",
+  "moodReplies": {
+   "show-me-around": "Go see Qila-e-Ark, the citadel Aurangzeb built as a prince, then hunt down the surviving city gates like Bhadkal Gate.",
+   "somewhere-to-chill": "Take a slow wander through Begampura or Aurang-pura, two of the old walled suburbs that were busiest back in the 19th century.",
+   "surprise-me": "When Aurangzeb made this his capital, the city had 54 suburbs, each walled in just like the city itself."
+  },
+  "seeFirst": {
+   "caption": "Around the city",
+   "spots": [
+    {
+     "name": "Qila-e-Ark",
+     "detail": "In the city · Aurangzeb's 17th-century citadel, with the Shahi mosque still standing",
+     "status": {
+      "text": "Ruined, not protected",
+      "tone": "warning"
+     },
+     "illustration": "palace"
     },
-    "seeFirst": {
-      "caption": "Around the city",
-      "spots": [
-        {
-          "name": "Qila-e-Ark",
-          "detail": "In the city · Aurangzeb's 17th-century citadel, with the Shahi mosque still standing",
-          "status": {"text": "Ruined, not protected", "tone": "warning"},
-          "illustration": "palace"
-        },
-        {
-          "name": "Gates in Aurangabad",
-          "detail": "Around the city · Four main and nine smaller gates survive, Bhadkal Gate the biggest",
-          "status": {"text": "Best in daylight", "tone": "neutral"},
-          "illustration": "palace"
-        }
-      ]
-    },
-    "legends": [
-      {"where": "The city gates", "title": "Every gate has a story", "body": "Locals will tell you each of Aurangabad's 52 gates had its own history or a person linked to it. Only 13 survive, so every one still standing carries a tale."}
-    ],
-    "tips": [
-      {"icon": "tag", "title": "Know both names.", "body": "The city and district are officially called Chhatrapati Sambhajinagar now, so you'll see that name on signs too."},
-      {"icon": "sun", "title": "Mark 17 September.", "body": "That's Marathwada Liberation Day, which remembers the region's struggle to join India."}
-    ],
-    "story": [
-      {"era": "1600s", "title": "Aurangzeb's capital", "body": "Aurangzeb built Qila-e-Ark as a prince and lived there as emperor. He made Aurangabad his capital, with 54 walled suburbs around the walled city.", "illustration": "palace"},
-      {"era": "Nizam era", "title": "Part of Hyderabad State", "body": "Marathwada, with Aurangabad as its biggest city, took shape under the Nizam's rule. Bhadkal Gate stands near the Naukhanda Palace of the Nizams.", "illustration": "palace"},
-      {"era": "1800s", "title": "Begampura and Aurang-pura", "body": "By the 19th century, Begampura and Aurang-pura were the chief populated suburbs out of the old walled ones.", "illustration": "warehouses"},
-      {"era": "Integration", "title": "Joining India", "body": "Marathwada is known for its struggle to be integrated into India. People remember it every 17 September as Marathwada Liberation Day.", "illustration": "flood"},
-      {"era": "Today", "title": "Gateway to the caves", "body": "Officially Chhatrapati Sambhajinagar now, the district is a big draw for tourists. The Ajanta and Ellora Caves are both in it.", "illustration": "palace"}
-    ],
-    "food": []
-  }
+    {
+     "name": "Gates in Aurangabad",
+     "detail": "Around the city · Four main and nine smaller gates survive, Bhadkal Gate the biggest",
+     "status": {
+      "text": "Best in daylight",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The city gates",
+    "title": "Every gate has a story",
+    "body": "Locals will tell you each of Aurangabad's 52 gates had its own history or a person linked to it. Only 13 survive, so every one still standing carries a tale."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Know both names.",
+    "body": "The city and district are officially called Chhatrapati Sambhajinagar now, so you'll see that name on signs too."
+   },
+   {
+    "icon": "sun",
+    "title": "Mark 17 September.",
+    "body": "That's Marathwada Liberation Day, which remembers the region's struggle to join India."
+   }
+  ],
+  "story": [
+   {
+    "era": "1600s",
+    "title": "Aurangzeb's capital",
+    "body": "Aurangzeb built Qila-e-Ark as a prince and lived there as emperor. He made Aurangabad his capital, with 54 walled suburbs around the walled city.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Nizam era",
+    "title": "Part of Hyderabad State",
+    "body": "Marathwada, with Aurangabad as its biggest city, took shape under the Nizam's rule. Bhadkal Gate stands near the Naukhanda Palace of the Nizams.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1800s",
+    "title": "Begampura and Aurang-pura",
+    "body": "By the 19th century, Begampura and Aurang-pura were the chief populated suburbs out of the old walled ones.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Integration",
+    "title": "Joining India",
+    "body": "Marathwada is known for its struggle to be integrated into India. People remember it every 17 September as Marathwada Liberation Day.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Gateway to the caves",
+    "body": "Officially Chhatrapati Sambhajinagar now, the district is a big draw for tourists. The Ajanta and Ellora Caves are both in it.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
 }

@@ -1,53 +1,103 @@
 {
-  "query": "Kolhapur",
-  "region": "maharashtra",
-  "name": "Kolhapur",
-  "draft": {
-    "briefing": "Hey, you're in Kolhapur! They call it Dakshin Kashi, the Kashi of the South, because of the ancient Mahalakshmi shrine here, better known to locals as Ambabai.",
-    "hungryLine": "Kolhapur is famous for its spicy cuisine, so look for Kolhapuri mutton, and pick up some Kolhapuri gul (jaggery) while you're at it.",
-    "moodReplies": {
-      "show-me-around": "The Mahalakshmi Temple is about a 13 minute walk from here, and the New Palace with its museum is a short drive away.",
-      "somewhere-to-chill": "Head out to Rankala Lake, or climb Temblai hill where there's a small garden at the top for visitors.",
-      "surprise-me": "Khasbag Stadium seats about 30,000 people around a wrestling ring called the 'Houd', and it's the biggest wrestling stadium in India."
+ "query": "Kolhapur",
+ "region": "maharashtra",
+ "name": "Kolhapur",
+ "draft": {
+  "briefing": "Hey, you're in Kolhapur! They call it Dakshin Kashi, the Kashi of the South, because of the ancient Mahalakshmi shrine here, better known to locals as Ambabai.",
+  "hungryLine": "Kolhapur is famous for its spicy cuisine, so look for Kolhapuri mutton, and pick up some Kolhapuri gul (jaggery) while you're at it.",
+  "moodReplies": {
+   "show-me-around": "The Mahalakshmi Temple is about a 13 minute walk from here, and the New Palace with its museum is a short drive away.",
+   "somewhere-to-chill": "Head out to Rankala Lake, or climb Temblai hill where there's a small garden at the top for visitors.",
+   "surprise-me": "Khasbag Stadium seats about 30,000 people around a wrestling ring called the 'Houd', and it's the biggest wrestling stadium in India."
+  },
+  "seeFirst": {
+   "caption": "Close to here",
+   "spots": [
+    {
+     "name": "Mahalakshmi Temple",
+     "detail": "13 min walk · Ambabai's shrine, one of the three and a half Shaktipeethas",
+     "status": {
+      "text": "No cameras inside",
+      "tone": "warning"
+     },
+     "illustration": "palace"
     },
-    "seeFirst": {
-      "caption": "Close to here",
-      "spots": [
-        {
-          "name": "Mahalakshmi Temple",
-          "detail": "13 min walk · Ambabai's shrine, one of the three and a half Shaktipeethas",
-          "status": {"text": "No cameras inside", "tone": "warning"},
-          "illustration": "palace"
-        },
-        {
-          "name": "Khasbag Wrestling Stadium",
-          "detail": "1 km from the Mahalakshmi Temple · A century-old wrestling arena from Shahu Maharaj's time",
-          "status": {"text": "Check event days locally", "tone": "neutral"},
-          "illustration": "warehouses"
-        },
-        {
-          "name": "New Palace",
-          "detail": "Short drive · Black stone palace with the Shahaji Museum on the ground floor",
-          "status": {"text": "Check timings locally", "tone": "neutral"},
-          "illustration": "palace"
-        }
-      ]
+    {
+     "name": "Khasbag Wrestling Stadium",
+     "detail": "1 km from the Mahalakshmi Temple · A century-old wrestling arena from Shahu Maharaj's time",
+     "status": {
+      "text": "Check event days locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
     },
-    "legends": [
-      {"where": "Mahalakshmi Temple", "title": "The demon Kolhasur", "body": "Devotees believe Mahalakshmi appeared here to kill the demon Kolhasur. That's why the temple carries such weight for pilgrims."},
-      {"where": "Temblai hill", "title": "Two sister goddesses", "body": "Locals say Temlabai helped her sister Mahalakshmi fight the demons, then left in anger when she wasn't given due respect. During Navratri, Mahalakshmi's procession goes up to Temblai so the sisters can meet."}
-    ],
-    "tips": [
-      {"icon": "sun", "title": "Visit the temple on a weekday.", "body": "Weekends and long weekends get very crowded, and Mukh Darshan has a shorter queue if you're short on time."},
-      {"icon": "tag", "title": "Leave the camera behind.", "body": "Cameras aren't allowed inside the Mahalakshmi temple complex."}
-    ],
-    "story": [
-      {"era": "Around 2 CE", "title": "Kuntal to Kolhapur", "body": "Around 2 CE the city was called Kuntal, and it has also gone by Kollagiri and Kollapur. In Hindu mythology it's known as Karvir.", "illustration": "palace"},
-      {"era": "7th to 9th century", "title": "Ambabai's temple rises", "body": "The Chalukya rulers began building the Mahalakshmi Temple in the 7th century. The Yadavas kept beautifying it until the 9th century.", "illustration": "palace"},
-      {"era": "1877 to 1884", "title": "The New Palace", "body": "The New Palace took seven years to build in black polished stone. Its glass panels show scenes from Chhatrapati Shivaji Maharaj's life.", "illustration": "palace"},
-      {"era": "1894 to 1922", "title": "Shahu Maharaj's Kolhapur", "body": "Shahu Maharaj ruled the princely state in these years and worked for its social and educational development. The Khasbag wrestling stadium was built in his time.", "illustration": "warehouses"},
-      {"era": "Today", "title": "Chappals and wrestlers", "body": "The handcrafted Kolhapuri chappal got its Geographical Indication in 2019. In 2012 Khasbag hosted the Hind Kesari championship to mark the arena's centenary.", "illustration": "warehouses"}
-    ],
-    "food": []
-  }
+    {
+     "name": "New Palace",
+     "detail": "Short drive · Black stone palace with the Shahaji Museum on the ground floor",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Mahalakshmi Temple",
+    "title": "The demon Kolhasur",
+    "body": "Devotees believe Mahalakshmi appeared here to kill the demon Kolhasur. That's why the temple carries such weight for pilgrims."
+   },
+   {
+    "where": "Temblai hill",
+    "title": "Two sister goddesses",
+    "body": "Locals say Temlabai helped her sister Mahalakshmi fight the demons, then left in anger when she wasn't given due respect. During Navratri, Mahalakshmi's procession goes up to Temblai so the sisters can meet."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit the temple on a weekday.",
+    "body": "Weekends and long weekends get very crowded, and Mukh Darshan has a shorter queue if you're short on time."
+   },
+   {
+    "icon": "tag",
+    "title": "Leave the camera behind.",
+    "body": "Cameras aren't allowed inside the Mahalakshmi temple complex."
+   }
+  ],
+  "story": [
+   {
+    "era": "Around 2 CE",
+    "title": "Kuntal to Kolhapur",
+    "body": "Around 2 CE the city was called Kuntal, and it has also gone by Kollagiri and Kollapur. In Hindu mythology it's known as Karvir.",
+    "illustration": "palace"
+   },
+   {
+    "era": "7th to 9th century",
+    "title": "Ambabai's temple rises",
+    "body": "The Chalukya rulers began building the Mahalakshmi Temple in the 7th century. The Yadavas kept beautifying it until the 9th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1877 to 1884",
+    "title": "The New Palace",
+    "body": "The New Palace took seven years to build in black polished stone. Its glass panels show scenes from Chhatrapati Shivaji Maharaj's life.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1894 to 1922",
+    "title": "Shahu Maharaj's Kolhapur",
+    "body": "Shahu Maharaj ruled the princely state in these years and worked for its social and educational development. The Khasbag wrestling stadium was built in his time.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Chappals and wrestlers",
+    "body": "The handcrafted Kolhapuri chappal got its Geographical Indication in 2019. In 2012 Khasbag hosted the Hind Kesari championship to mark the arena's centenary.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
 }

@@ -1,59 +1,62 @@
 {
-  "query": "Shirdi",
-  "region": "maharashtra",
-  "name": "Shirdi",
-  "draft": {
-    "briefing": "Hey, you're in Shirdi! This town was home to Sai Baba, the 19th-century saint, and his Samadhi Mandir is just a 3 min walk from here. Millions of devotees come every year, from all over India and abroad.",
-    "hungryLine": "Keep it Maharashtrian with a plate of kanda pohe and tea, or a spicy misal pav or vada pav with garlic chutney.",
-    "moodReplies": {
-      "show-me-around": "Shri Sai Baba Temple, also called the Samadhi Mandir, is a 3 min walk. It's the reason most people come to Shirdi.",
-      "somewhere-to-chill": "Find a quiet corner near the temple complex and just soak in the devotion around you.",
-      "surprise-me": "Shirdi goes by a second name too, Sainagar."
-    },
-    "seeFirst": {
-      "caption": "Short walks from here",
-      "spots": [
-        {
-          "name": "Shri Sai Baba Temple",
-          "detail": "3 min walk · Sai Baba's Samadhi Mandir, one of India's most visited pilgrimage sites",
-          "status": {"text": "Expect big crowds", "tone": "warning"},
-          "illustration": "palace"
-        }
-      ]
-    },
-    "legends": [],
-    "tips": [
-      {
-        "icon": "sun",
-        "title": "Go early to beat the crowds.",
-        "body": "The temple draws millions of devotees every year, so it's rarely quiet."
-      },
-      {
-        "icon": "tag",
-        "title": "Look for both names.",
-        "body": "Signs may say Shirdi or Sainagar, they're the same town in Rahata taluka."
-      }
-    ],
-    "story": [
-      {
-        "era": "1800s",
-        "title": "The saint's home",
-        "body": "Sai Baba, the 19th-century saint, made Shirdi his home. The town in Rahata taluka became known for him.",
-        "illustration": "palace"
-      },
-      {
-        "era": "After Sai Baba",
-        "title": "The Samadhi Mandir",
-        "body": "A temple complex grew up around Sai Baba's samadhi, known as the Shri Saibaba Samadhi Mandir.",
-        "illustration": "palace"
-      },
-      {
-        "era": "Today",
-        "title": "A pilgrim town",
-        "body": "Shirdi is now one of the most visited pilgrimage sites in India, with devotees coming from across the country and abroad.",
-        "illustration": "warehouses"
-      }
-    ],
-    "food": []
-  }
+ "query": "Shirdi",
+ "region": "maharashtra",
+ "name": "Shirdi",
+ "draft": {
+  "briefing": "Hey, you're in Shirdi! This town was home to Sai Baba, the 19th-century saint, and his Samadhi Mandir is just a 3 min walk from here. Millions of devotees come every year, from all over India and abroad.",
+  "hungryLine": "Keep it Maharashtrian with a plate of kanda pohe and tea, or a spicy misal pav or vada pav with garlic chutney.",
+  "moodReplies": {
+   "show-me-around": "Shri Sai Baba Temple, also called the Samadhi Mandir, is a 3 min walk. It's the reason most people come to Shirdi.",
+   "somewhere-to-chill": "Find a quiet corner near the temple complex and just soak in the devotion around you.",
+   "surprise-me": "Shirdi goes by a second name too, Sainagar."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Shri Sai Baba Temple",
+     "detail": "3 min walk · Sai Baba's Samadhi Mandir, one of India's most visited pilgrimage sites",
+     "status": {
+      "text": "Expect big crowds",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go early to beat the crowds.",
+    "body": "The temple draws millions of devotees every year, so it's rarely quiet."
+   },
+   {
+    "icon": "tag",
+    "title": "Look for both names.",
+    "body": "Signs may say Shirdi or Sainagar, they're the same town in Rahata taluka."
+   }
+  ],
+  "story": [
+   {
+    "era": "1800s",
+    "title": "The saint's home",
+    "body": "Sai Baba, the 19th-century saint, made Shirdi his home. The town in Rahata taluka became known for him.",
+    "illustration": "palace"
+   },
+   {
+    "era": "After Sai Baba",
+    "title": "The Samadhi Mandir",
+    "body": "A temple complex grew up around Sai Baba's samadhi, known as the Shri Saibaba Samadhi Mandir.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A pilgrim town",
+    "body": "Shirdi is now one of the most visited pilgrimage sites in India, with devotees coming from across the country and abroad.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
 }

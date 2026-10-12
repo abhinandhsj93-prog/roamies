@@ -1,53 +1,103 @@
 {
-  "query": "Colaba, Mumbai",
-  "region": "maharashtra",
-  "name": "Colaba",
-  "draft": {
-    "briefing": "Hey, you're in Colaba! This was once two separate islands, Colaba and Little Colaba, also called Old Woman's Island. The Colaba Causeway joined them to the mainland in 1838, and the name itself comes from Kolabhat, a word of the Koli people who lived here first.",
-    "hungryLine": "Colaba Causeway is home to the famous Leopold Cafe, and Sassoon Docks is one of the city's biggest fish markets, full of surmai and pomfret.",
-    "moodReplies": {
-      "show-me-around": "Walk 19 min to the Gateway of India on the harbour, then head to Sassoon Docks, the city's first wet dock.",
-      "somewhere-to-chill": "Sit by the water at the Gateway of India and watch the ferries head out to Elephanta.",
-      "surprise-me": "The World Trade Centre tower at Cuffe Parade was the tallest building in South Asia for nearly four decades."
+ "query": "Colaba, Mumbai",
+ "region": "maharashtra",
+ "name": "Colaba",
+ "draft": {
+  "briefing": "Hey, you're in Colaba! This was once two separate islands, Colaba and Little Colaba, also called Old Woman's Island. The Colaba Causeway joined them to the mainland in 1838, and the name itself comes from Kolabhat, a word of the Koli people who lived here first.",
+  "hungryLine": "Colaba Causeway is home to the famous Leopold Cafe, and Sassoon Docks is one of the city's biggest fish markets, full of surmai and pomfret.",
+  "moodReplies": {
+   "show-me-around": "Walk 19 min to the Gateway of India on the harbour, then head to Sassoon Docks, the city's first wet dock.",
+   "somewhere-to-chill": "Sit by the water at the Gateway of India and watch the ferries head out to Elephanta.",
+   "surprise-me": "The World Trade Centre tower at Cuffe Parade was the tallest building in South Asia for nearly four decades."
+  },
+  "seeFirst": {
+   "caption": "Around Colaba",
+   "spots": [
+    {
+     "name": "Gateway of India",
+     "detail": "19 min walk · The 26 m basalt arch on the harbour, finished in 1924",
+     "status": {
+      "text": "Open 24 hours, free",
+      "tone": "open"
+     },
+     "illustration": "palace"
     },
-    "seeFirst": {
-      "caption": "Around Colaba",
-      "spots": [
-        {
-          "name": "Gateway of India",
-          "detail": "19 min walk · The 26 m basalt arch on the harbour, finished in 1924",
-          "status": {"text": "Open 24 hours, free", "tone": "open"},
-          "illustration": "palace"
-        },
-        {
-          "name": "Sassoon Docks",
-          "detail": "In Colaba · Built in 1875, one of Mumbai's oldest docks and a busy fish market",
-          "status": {"text": "Go early for the catch", "tone": "neutral"},
-          "illustration": "warehouses"
-        },
-        {
-          "name": "Afghan Church",
-          "detail": "In Navy Nagar · An Anglican church in Colaba, also called St. John's Church",
-          "status": {"text": "Open dawn to dusk", "tone": "open"},
-          "illustration": "synagogue"
-        }
-      ]
+    {
+     "name": "Sassoon Docks",
+     "detail": "In Colaba · Built in 1875, one of Mumbai's oldest docks and a busy fish market",
+     "status": {
+      "text": "Go early for the catch",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
     },
-    "legends": [
-      {"where": "Colaba", "title": "A Koli name", "body": "Colaba gets its name from Kolabhat, a word in the language of the Kolis, the islands' first people. The Portuguese called it Kolbhat, and the British knew it as Kolio."},
-      {"where": "Dolphin Lighthouse", "title": "A salute for the fleet", "body": "Every time a warship sails out of the harbour with The Admiral of The Fleet, a 21 gun salute is held. The Navy controls this lighthouse near the Gateway."}
-    ],
-    "tips": [
-      {"icon": "sun", "title": "Come in early December.", "body": "Dolphin Lighthouse is lit up for Navy Day celebrations in the first week of December."},
-      {"icon": "tag", "title": "Catch the Elephanta ferry here.", "body": "Ferries to the Elephanta Caves leave from the Gateway of India."}
-    ],
-    "story": [
-      {"era": "1534", "title": "Portuguese islands", "body": "The Portuguese got these islands from the Sultanate of Cambay by the Treaty of Vasai. Colaba was one of the Seven Islands of Mumbai.", "illustration": "palace"},
-      {"era": "1661", "title": "A royal dowry", "body": "Portugal handed the islands to Charles II of England as a dowry when he married Catherine of Braganza. Portuguese officials resisted the handover for years.", "illustration": "palace"},
-      {"era": "1838", "title": "The Causeway", "body": "The Colaba Causeway joined Colaba and Old Woman's Island to the mainland of Mumbai.", "illustration": "flood"},
-      {"era": "1875", "title": "Sassoon Docks", "body": "Sassoon Docks opened as the first wet dock in Bombay. In 2017, street art turned the fishing dock into an exhibition space.", "illustration": "warehouses"},
-      {"era": "1924", "title": "The Gateway", "body": "The Gateway of India was built to mark the 1911 visit of King George V and Queen Mary. George Wittet's design was approved in 1914 and the arch was completed in 1924.", "illustration": "palace"}
-    ],
-    "food": []
-  }
+    {
+     "name": "Afghan Church",
+     "detail": "In Navy Nagar · An Anglican church in Colaba, also called St. John's Church",
+     "status": {
+      "text": "Open dawn to dusk",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Colaba",
+    "title": "A Koli name",
+    "body": "Colaba gets its name from Kolabhat, a word in the language of the Kolis, the islands' first people. The Portuguese called it Kolbhat, and the British knew it as Kolio."
+   },
+   {
+    "where": "Dolphin Lighthouse",
+    "title": "A salute for the fleet",
+    "body": "Every time a warship sails out of the harbour with The Admiral of The Fleet, a 21 gun salute is held. The Navy controls this lighthouse near the Gateway."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in early December.",
+    "body": "Dolphin Lighthouse is lit up for Navy Day celebrations in the first week of December."
+   },
+   {
+    "icon": "tag",
+    "title": "Catch the Elephanta ferry here.",
+    "body": "Ferries to the Elephanta Caves leave from the Gateway of India."
+   }
+  ],
+  "story": [
+   {
+    "era": "1534",
+    "title": "Portuguese islands",
+    "body": "The Portuguese got these islands from the Sultanate of Cambay by the Treaty of Vasai. Colaba was one of the Seven Islands of Mumbai.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1661",
+    "title": "A royal dowry",
+    "body": "Portugal handed the islands to Charles II of England as a dowry when he married Catherine of Braganza. Portuguese officials resisted the handover for years.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1838",
+    "title": "The Causeway",
+    "body": "The Colaba Causeway joined Colaba and Old Woman's Island to the mainland of Mumbai.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1875",
+    "title": "Sassoon Docks",
+    "body": "Sassoon Docks opened as the first wet dock in Bombay. In 2017, street art turned the fishing dock into an exhibition space.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1924",
+    "title": "The Gateway",
+    "body": "The Gateway of India was built to mark the 1911 visit of King George V and Queen Mary. George Wittet's design was approved in 1914 and the arch was completed in 1924.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
 }

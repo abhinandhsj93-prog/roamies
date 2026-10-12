@@ -1,43 +1,77 @@
 {
-  "query": "Lavasa",
-  "region": "maharashtra",
-  "name": "Lavasa",
-  "draft": {
-    "briefing": "Hey, you're in Lavasa! This private, planned city near Pune was styled on the Italian town of Portofino, and a street and several buildings here even carry that town's name.",
-    "hungryLine": "I don't have a named place to eat in my notes for Lavasa, so ask around the lakefront for what's open today.",
-    "moodReplies": {
-      "show-me-around": "Lavasa Lake, the inlet of the Mutha River at the centre of the city, is the main thing to see, and the village of Dasave is about 11 minutes on foot.",
-      "somewhere-to-chill": "Find a spot by Lavasa Lake and watch the Mutha water and the Western Ghats around you.",
-      "surprise-me": "Lavasa was billed as India's first hill station since independence when Ajit Gulabchand unveiled the plans in 2006."
+ "query": "Lavasa",
+ "region": "maharashtra",
+ "name": "Lavasa",
+ "draft": {
+  "briefing": "Hey, you're in Lavasa! This private, planned city near Pune was styled on the Italian town of Portofino, and a street and several buildings here even carry that town's name.",
+  "hungryLine": "I don't have a named place to eat in my notes for Lavasa, so ask around the lakefront for what's open today.",
+  "moodReplies": {
+   "show-me-around": "Lavasa Lake, the inlet of the Mutha River at the centre of the city, is the main thing to see, and the village of Dasave is about 11 minutes on foot.",
+   "somewhere-to-chill": "Find a spot by Lavasa Lake and watch the Mutha water and the Western Ghats around you.",
+   "surprise-me": "Lavasa was billed as India's first hill station since independence when Ajit Gulabchand unveiled the plans in 2006."
+  },
+  "seeFirst": {
+   "caption": "Around here",
+   "spots": [
+    {
+     "name": "Lavasa Lake",
+     "detail": "In the city centre · The Mutha River inlet the whole town is built around",
+     "status": {
+      "text": "Best in daylight",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
     },
-    "seeFirst": {
-      "caption": "Around here",
-      "spots": [
-        {
-          "name": "Lavasa Lake",
-          "detail": "In the city centre · The Mutha River inlet the whole town is built around",
-          "status": {"text": "Best in daylight", "tone": "open"},
-          "illustration": "flood"
-        },
-        {
-          "name": "Dasave",
-          "detail": "11 min walk · A Mulshi taluka village on the edge of the project",
-          "status": {"text": "Check what's open locally", "tone": "neutral"},
-          "illustration": "warehouses"
-        }
-      ]
-    },
-    "legends": [],
-    "tips": [
-      {"icon": "tag", "title": "Expect an unfinished town.", "body": "The city was never completed and the project has been held up by debt and legal trouble, so check ahead what's actually running."},
-      {"icon": "tag", "title": "Know the backstory.", "body": "Lavasa has been in the news for land and environmental disputes, which is why some visitors choose to skip it."}
-    ],
-    "story": [
-      {"era": "2006", "title": "A hill station is planned", "body": "Ajit Gulabchand unveiled plans for this private township, billed as India's first hill station since independence. HCC took on the development.", "illustration": "palace"},
-      {"era": "2010 to 2011", "title": "Construction halted", "body": "In late 2010 the Environment and Forests Ministry ordered building to stop because the project broke environmental laws. The order was rescinded in 2011.", "illustration": "warehouses"},
-      {"era": "2023", "title": "A new bidder", "body": "The National Company Law Tribunal approved a resolution plan, naming Darwin Platform Infrastructure Ltd as the bidder responsible for building the city.", "illustration": "warehouses"},
-      {"era": "Today", "title": "Portofino on the Mutha", "body": "The city still looks like an Italian seaside town by a lake, though much of it stands incomplete. Its future is tied up in debt and environmental questions.", "illustration": "flood"}
-    ],
-    "food": []
-  }
+    {
+     "name": "Dasave",
+     "detail": "11 min walk · A Mulshi taluka village on the edge of the project",
+     "status": {
+      "text": "Check what's open locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Expect an unfinished town.",
+    "body": "The city was never completed and the project has been held up by debt and legal trouble, so check ahead what's actually running."
+   },
+   {
+    "icon": "tag",
+    "title": "Know the backstory.",
+    "body": "Lavasa has been in the news for land and environmental disputes, which is why some visitors choose to skip it."
+   }
+  ],
+  "story": [
+   {
+    "era": "2006",
+    "title": "A hill station is planned",
+    "body": "Ajit Gulabchand unveiled plans for this private township, billed as India's first hill station since independence. HCC took on the development.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2010 to 2011",
+    "title": "Construction halted",
+    "body": "In late 2010 the Environment and Forests Ministry ordered building to stop because the project broke environmental laws. The order was rescinded in 2011.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2023",
+    "title": "A new bidder",
+    "body": "The National Company Law Tribunal approved a resolution plan, naming Darwin Platform Infrastructure Ltd as the bidder responsible for building the city.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Portofino on the Mutha",
+    "body": "The city still looks like an Italian seaside town by a lake, though much of it stands incomplete. Its future is tied up in debt and environmental questions.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
 }

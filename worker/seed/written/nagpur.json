@@ -1,74 +1,131 @@
 {
-  "query": "Nagpur",
-  "region": "maharashtra",
-  "name": "Nagpur",
-  "draft": {
-    "briefing": "Hey, you're in Nagpur! Just a couple of minutes from here stands the Zero Mile Stone, built by the British in 1907 during the Great Trigonometrical Survey to mark the centre of India.",
-    "hungryLine": "Nagpur is a great food town, so try the Saoji chicken, and you're right in Ramdaspeth, home of 10 Downing Street for continental food.",
-    "moodReplies": {
-      "show-me-around": "The Zero Mile Stone is a 2 minute walk, Sitabuldi Fort is 6 minutes, and the Nagpur Central Museum is about 7 minutes away.",
-      "somewhere-to-chill": "Head to Phutala Lake in the evening for snacks with a lake view.",
-      "surprise-me": "Nagpur sits right at the geographic centre of India's nine major metros, from Mumbai and Delhi to Kochi and Kolkata."
+ "query": "Nagpur",
+ "region": "maharashtra",
+ "name": "Nagpur",
+ "draft": {
+  "briefing": "Hey, you're in Nagpur! Just a couple of minutes from here stands the Zero Mile Stone, built by the British in 1907 during the Great Trigonometrical Survey to mark the centre of India.",
+  "hungryLine": "Nagpur is a great food town, so try the Saoji chicken, and you're right in Ramdaspeth, home of 10 Downing Street for continental food.",
+  "moodReplies": {
+   "show-me-around": "The Zero Mile Stone is a 2 minute walk, Sitabuldi Fort is 6 minutes, and the Nagpur Central Museum is about 7 minutes away.",
+   "somewhere-to-chill": "Head to Phutala Lake in the evening for snacks with a lake view.",
+   "surprise-me": "Nagpur sits right at the geographic centre of India's nine major metros, from Mumbai and Delhi to Kochi and Kolkata."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Zero Mile Stone",
+     "detail": "2 min walk · A sandstone pillar with four stucco horses marking the centre of colonial India",
+     "status": {
+      "text": "Open-air monument",
+      "tone": "open"
+     },
+     "illustration": "palace"
     },
-    "seeFirst": {
-      "caption": "Short walks from here",
-      "spots": [
-        {
-          "name": "Zero Mile Stone",
-          "detail": "2 min walk · A sandstone pillar with four stucco horses marking the centre of colonial India",
-          "status": {"text": "Open-air monument", "tone": "open"},
-          "illustration": "palace"
-        },
-        {
-          "name": "Sitabuldi Fort",
-          "detail": "6 min walk · Hilltop fort where the Battle of Sitabuldi was fought in 1817",
-          "status": {"text": "Check access locally", "tone": "neutral"},
-          "illustration": "palace"
-        },
-        {
-          "name": "Nagpur Central Museum",
-          "detail": "7 min walk · 'Ajab Bangala', with dinosaur fossils, coins and tribal artefacts",
-          "status": {"text": "QR guides in many languages", "tone": "open"},
-          "illustration": "palace"
-        }
-      ]
+    {
+     "name": "Sitabuldi Fort",
+     "detail": "6 min walk · Hilltop fort where the Battle of Sitabuldi was fought in 1817",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
     },
-    "legends": [
-      {"where": "Meetha Neem Dargah", "title": "The Sufi of Civil Lines", "body": "Meetha Neem Dargah is the resting place of the Sufi saint Sayyad Jalaluddin Meer Surkh. Locals say he was a disciple of Tajuddin Baba of Nagpur."}
+    {
+     "name": "Nagpur Central Museum",
+     "detail": "7 min walk · 'Ajab Bangala', with dinosaur fossils, coins and tribal artefacts",
+     "status": {
+      "text": "QR guides in many languages",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Meetha Neem Dargah",
+    "title": "The Sufi of Civil Lines",
+    "body": "Meetha Neem Dargah is the resting place of the Sufi saint Sayyad Jalaluddin Meer Surkh. Locals say he was a disciple of Tajuddin Baba of Nagpur."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit Sonegaon Lake in winter.",
+    "body": "That's when migratory birds show up there."
+   },
+   {
+    "icon": "tag",
+    "title": "Use the metro.",
+    "body": "Sitabuldi is the interchange between the Orange and Aqua lines, and Kasturchand Park station is close by."
+   }
+  ],
+  "story": [
+   {
+    "era": "1700s",
+    "title": "Bhonsle capital",
+    "body": "Nagpur was the capital of the Kingdom of Nagpur, ruled by the Maratha Bhonsle dynasty. It was one of the kingdoms of the Maratha Empire.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1817 to 1853",
+    "title": "The British take over",
+    "body": "After the Battle of Sitabuldi, a treaty in 1818 handed the Sitabuldi hills to the British. Nagpur was annexed in 1853 and became Nagpur Province.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1861 to 1912",
+    "title": "Capital of the Central Provinces",
+    "body": "Nagpur became the main winter capital of the new Central Provinces. The Central Museum opened in 1863 and the Zero Mile Stone went up in 1907.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1960",
+    "title": "Winter capital",
+    "body": "When Vidarbha joined Maharashtra, the Nagpur Pact made the city the state's winter capital. The Legislature still holds its winter session at Vidhan Bhavan.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Orange city",
+    "body": "Nagpur is famous for its oranges and its metro now criss-crosses the centre. Sitabuldi station opened in 2019.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "10 Downing Street",
+    "detail": "The best continental food in town, right here in Ramdaspeth",
+    "status": {
+     "text": "In Ramdaspeth",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Pintu Saoji",
+    "detail": "Go for the fiery Saoji cuisine Nagpur is known for",
+    "status": {
+     "text": "Near Vidhan Bhavan",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Indian Coffee House",
+    "detail": "A classic stop for coffee and a simple bite",
+    "status": {
+     "text": "West High Court Road",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
     ],
-    "tips": [
-      {"icon": "sun", "title": "Visit Sonegaon Lake in winter.", "body": "That's when migratory birds show up there."},
-      {"icon": "tag", "title": "Use the metro.", "body": "Sitabuldi is the interchange between the Orange and Aqua lines, and Kasturchand Park station is close by."}
-    ],
-    "story": [
-      {"era": "1700s", "title": "Bhonsle capital", "body": "Nagpur was the capital of the Kingdom of Nagpur, ruled by the Maratha Bhonsle dynasty. It was one of the kingdoms of the Maratha Empire.", "illustration": "palace"},
-      {"era": "1817 to 1853", "title": "The British take over", "body": "After the Battle of Sitabuldi, a treaty in 1818 handed the Sitabuldi hills to the British. Nagpur was annexed in 1853 and became Nagpur Province.", "illustration": "palace"},
-      {"era": "1861 to 1912", "title": "Capital of the Central Provinces", "body": "Nagpur became the main winter capital of the new Central Provinces. The Central Museum opened in 1863 and the Zero Mile Stone went up in 1907.", "illustration": "palace"},
-      {"era": "1960", "title": "Winter capital", "body": "When Vidarbha joined Maharashtra, the Nagpur Pact made the city the state's winter capital. The Legislature still holds its winter session at Vidhan Bhavan.", "illustration": "palace"},
-      {"era": "Today", "title": "Orange city", "body": "Nagpur is famous for its oranges and its metro now criss-crosses the centre. Sitabuldi station opened in 2019.", "illustration": "pepper"}
-    ],
-    "food": [
-      {
-        "name": "10 Downing Street",
-        "detail": "The best continental food in town, right here in Ramdaspeth",
-        "status": {"text": "In Ramdaspeth", "tone": "neutral"},
-        "tags": [],
-        "illustration": "warehouses"
-      },
-      {
-        "name": "Pintu Saoji",
-        "detail": "Go for the fiery Saoji cuisine Nagpur is known for",
-        "status": {"text": "Near Vidhan Bhavan", "tone": "neutral"},
-        "tags": [],
-        "illustration": "warehouses"
-      },
-      {
-        "name": "Indian Coffee House",
-        "detail": "A classic stop for coffee and a simple bite",
-        "status": {"text": "West High Court Road", "tone": "neutral"},
-        "tags": ["cheap"],
-        "illustration": "warehouses"
-      }
-    ]
-  }
+    "illustration": "warehouses"
+   }
+  ]
+ }
 }

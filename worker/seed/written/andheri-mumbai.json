@@ -1,50 +1,92 @@
 {
-  "query": "Andheri, Mumbai",
-  "region": "maharashtra",
-  "name": "Andheri",
-  "draft": {
-    "briefing": "Hey, you're in Andheri! Just an 11 min walk away is Gilbert Hill, a 200 ft column of black basalt pushed up by molten lava about 66 million years ago. It's a slice of deep geological time right in the middle of the suburbs.",
-    "hungryLine": "Fun fact for your sweet tooth: Andheri is where the local ice cream brand Pastonji got its start.",
-    "moodReplies": {
-      "show-me-around": "Walk 11 min to Gilbert Hill and the Gaodevi Temple beside it, then 15 min on to Saint Blaise Church.",
-      "somewhere-to-chill": "Amboli in Andheri West has a playground at its heart called Joe and Helen Ground.",
-      "surprise-me": "The SPJIMR business school here was inaugurated in 1981 by British Prime Minister Margaret Thatcher."
+ "query": "Andheri, Mumbai",
+ "region": "maharashtra",
+ "name": "Andheri",
+ "draft": {
+  "briefing": "Hey, you're in Andheri! Just an 11 min walk away is Gilbert Hill, a 200 ft column of black basalt pushed up by molten lava about 66 million years ago. It's a slice of deep geological time right in the middle of the suburbs.",
+  "hungryLine": "Fun fact for your sweet tooth: Andheri is where the local ice cream brand Pastonji got its start.",
+  "moodReplies": {
+   "show-me-around": "Walk 11 min to Gilbert Hill and the Gaodevi Temple beside it, then 15 min on to Saint Blaise Church.",
+   "somewhere-to-chill": "Amboli in Andheri West has a playground at its heart called Joe and Helen Ground.",
+   "surprise-me": "The SPJIMR business school here was inaugurated in 1981 by British Prime Minister Margaret Thatcher."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Gilbert Hill",
+     "detail": "11 min walk · A 61 m basalt monolith with a sheer vertical face",
+     "status": {
+      "text": "Grade II heritage site",
+      "tone": "open"
+     },
+     "illustration": "palace"
     },
-    "seeFirst": {
-      "caption": "Short walks from here",
-      "spots": [
-        {
-          "name": "Gilbert Hill",
-          "detail": "11 min walk · A 61 m basalt monolith with a sheer vertical face",
-          "status": {"text": "Grade II heritage site", "tone": "open"},
-          "illustration": "palace"
-        },
-        {
-          "name": "Gaodevi Temple",
-          "detail": "11 min walk · A temple right next to Gilbert Hill",
-          "status": {"text": "Dress modestly", "tone": "neutral"},
-          "illustration": "palace"
-        },
-        {
-          "name": "Saint Blaise Church",
-          "detail": "15 min walk · A neighbourhood church in Andheri",
-          "status": {"text": "Check timings locally", "tone": "neutral"},
-          "illustration": "synagogue"
-        }
-      ]
+    {
+     "name": "Gaodevi Temple",
+     "detail": "11 min walk · A temple right next to Gilbert Hill",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
     },
-    "legends": [],
-    "tips": [
-      {"icon": "sun", "title": "Dodge the rush hour.", "body": "The Jogeshwari–Vikhroli Link Road nearby usually jams up during peak hours."},
-      {"icon": "tag", "title": "Use the skywalk.", "body": "Andheri metro station links to the railway station's foot-over bridge by a skywalk, handy at one of Mumbai's busiest stations."}
-    ],
-    "story": [
-      {"era": "66 million years ago", "title": "Lava turns to rock", "body": "Molten lava squeezed out of the Earth's clefts and cooled into the black basalt column of Gilbert Hill. The same eruptions spread lava across much of Maharashtra, Gujarat and Madhya Pradesh.", "illustration": "flood"},
-      {"era": "Around 400s CE", "title": "Caves next door", "body": "In neighbouring Jogeshwari, the Jogeshwari Caves were carved around the 5th century. They're among the oldest and biggest Hindu cave temples.", "illustration": "palace"},
-      {"era": "1400s to 1600s", "title": "Andhaka-giri", "body": "A Marathi text called the Mahikavatichi Bakhar mentions Andheri by a form of its Sanskrit name, Andhaka-giri.", "illustration": "palace"},
-      {"era": "1928", "title": "The station rises", "body": "Andheri station gained prominence once the Salsette–Trombay Railway services arrived in 1928. Today it's called one of the busiest stations in Mumbai.", "illustration": "warehouses"},
-      {"era": "2014", "title": "Metro arrives", "body": "Andheri metro station on Blue Line 1 opened on 8 June 2014. Its murals were designed by three architecture students.", "illustration": "warehouses"}
-    ],
-    "food": []
-  }
+    {
+     "name": "Saint Blaise Church",
+     "detail": "15 min walk · A neighbourhood church in Andheri",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Dodge the rush hour.",
+    "body": "The Jogeshwari–Vikhroli Link Road nearby usually jams up during peak hours."
+   },
+   {
+    "icon": "tag",
+    "title": "Use the skywalk.",
+    "body": "Andheri metro station links to the railway station's foot-over bridge by a skywalk, handy at one of Mumbai's busiest stations."
+   }
+  ],
+  "story": [
+   {
+    "era": "66 million years ago",
+    "title": "Lava turns to rock",
+    "body": "Molten lava squeezed out of the Earth's clefts and cooled into the black basalt column of Gilbert Hill. The same eruptions spread lava across much of Maharashtra, Gujarat and Madhya Pradesh.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Around 400s CE",
+    "title": "Caves next door",
+    "body": "In neighbouring Jogeshwari, the Jogeshwari Caves were carved around the 5th century. They're among the oldest and biggest Hindu cave temples.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1400s to 1600s",
+    "title": "Andhaka-giri",
+    "body": "A Marathi text called the Mahikavatichi Bakhar mentions Andheri by a form of its Sanskrit name, Andhaka-giri.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1928",
+    "title": "The station rises",
+    "body": "Andheri station gained prominence once the Salsette–Trombay Railway services arrived in 1928. Today it's called one of the busiest stations in Mumbai.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2014",
+    "title": "Metro arrives",
+    "body": "Andheri metro station on Blue Line 1 opened on 8 June 2014. Its murals were designed by three architecture students.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
 }

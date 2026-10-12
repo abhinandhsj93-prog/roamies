@@ -1,60 +1,112 @@
 {
-  "query": "Lonavala",
-  "region": "maharashtra",
-  "name": "Lonavala",
-  "draft": {
-    "briefing": "Hey, you're in Lonavala! This hill station sits about 64 km west of Pune and 96 km east of Mumbai, and it's famous all over for its chikki, the hard sweet candy.",
-    "hungryLine": "Grab hot masala chai with a vada pav or bhajiyas at any roadside stall, nothing beats them, and for something heartier try the misal pav at Buvachi Misal.",
-    "moodReplies": {
-      "show-me-around": "Lonavla Lake is about 1.6 km from town and Valvan Dam about 2 km, and Siddheshwar Mandir is just an 8 minute walk from here.",
-      "somewhere-to-chill": "Valvan Dam has a garden at its foot and it's a favourite evening spot, or sit on the steps of Bhushi Dam and feel the water rush past.",
-      "surprise-me": "Tiger's Leap is a cliff-top with a sheer drop of over 650 m, and in the monsoon a little waterfall runs right next to it."
+ "query": "Lonavala",
+ "region": "maharashtra",
+ "name": "Lonavala",
+ "draft": {
+  "briefing": "Hey, you're in Lonavala! This hill station sits about 64 km west of Pune and 96 km east of Mumbai, and it's famous all over for its chikki, the hard sweet candy.",
+  "hungryLine": "Grab hot masala chai with a vada pav or bhajiyas at any roadside stall, nothing beats them, and for something heartier try the misal pav at Buvachi Misal.",
+  "moodReplies": {
+   "show-me-around": "Lonavla Lake is about 1.6 km from town and Valvan Dam about 2 km, and Siddheshwar Mandir is just an 8 minute walk from here.",
+   "somewhere-to-chill": "Valvan Dam has a garden at its foot and it's a favourite evening spot, or sit on the steps of Bhushi Dam and feel the water rush past.",
+   "surprise-me": "Tiger's Leap is a cliff-top with a sheer drop of over 650 m, and in the monsoon a little waterfall runs right next to it."
+  },
+  "seeFirst": {
+   "caption": "Close to town",
+   "spots": [
+    {
+     "name": "Lonavla Lake",
+     "detail": "1.6 km away · A lake ringed by green hills",
+     "status": {
+      "text": "Dries up in winter",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
     },
-    "seeFirst": {
-      "caption": "Close to town",
-      "spots": [
-        {
-          "name": "Lonavla Lake",
-          "detail": "1.6 km away · A lake ringed by green hills",
-          "status": {"text": "Dries up in winter", "tone": "warning"},
-          "illustration": "flood"
-        },
-        {
-          "name": "Valvan Dam",
-          "detail": "2 km away · A garden at the foot of the dam, lovely in the evening",
-          "status": {"text": "Best at sunset", "tone": "open"},
-          "illustration": "flood"
-        },
-        {
-          "name": "Karla Caves",
-          "detail": "Short drive · Buddhist cave shrines from around the 3rd to 2nd century BC",
-          "status": {"text": "Wear good shoes", "tone": "neutral"},
-          "illustration": "palace"
-        }
-      ]
+    {
+     "name": "Valvan Dam",
+     "detail": "2 km away · A garden at the foot of the dam, lovely in the evening",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
     },
-    "legends": [
-      {"where": "Duke's Nose", "title": "A cliff with a nose", "body": "The cliff near Khandala is named after the Duke of Wellington, because locals thought it looked just like his ample nose. You can spot it from the highway heading towards Mumbai."}
+    {
+     "name": "Karla Caves",
+     "detail": "Short drive · Buddhist cave shrines from around the 3rd to 2nd century BC",
+     "status": {
+      "text": "Wear good shoes",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Duke's Nose",
+    "title": "A cliff with a nose",
+    "body": "The cliff near Khandala is named after the Duke of Wellington, because locals thought it looked just like his ample nose. You can spot it from the highway heading towards Mumbai."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in the monsoon for waterfalls.",
+    "body": "The falls near Tiger's Leap, Bhushi Dam and Tungarli Lake all come alive in the rains."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the train.",
+    "body": "Lonavala is a major stop on the Mumbai to Pune line, and local trains run here from Pune Junction."
+   }
+  ],
+  "story": [
+   {
+    "era": "3rd to 2nd century BC",
+    "title": "Monks in the hills",
+    "body": "Buddhist monks cut the cave shrines at Karla, near Lonavala. They're the oldest landmarks around here.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Medieval times",
+    "title": "Yadavas, Mughals and Mavalas",
+    "body": "The area was part of the Seuna (Yadava) dynasty, then the Mughals held it for its strategic value. Its forts and Mavala warriors later mattered to the Maratha Empire and the Peshwas.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1871",
+    "title": "A hill station is born",
+    "body": "Lord Elphinstone, the Governor of Bombay, established the Lonavala and Khandala hill stations. The British-era Tungarli dam still supplies the town's water.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1924",
+    "title": "Yoga meets science",
+    "body": "Swami Kuvalayananda founded Kaivalyadhama here to study yoga with modern science. It now takes around 250 students a year from India and abroad.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1945",
+    "title": "The Navy arrives",
+    "body": "HMIS Shivaji was commissioned on 16 February 1945. As INS Shivaji, it's still the Indian Navy's premier technical training base.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Buvachi Misal",
+    "detail": "Many kinds of misal pav, plus bhajjis and Mumbai street food",
+    "status": {
+     "text": "Behind Fariya's Resort, Parshwapuram",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
     ],
-    "tips": [
-      {"icon": "sun", "title": "Come in the monsoon for waterfalls.", "body": "The falls near Tiger's Leap, Bhushi Dam and Tungarli Lake all come alive in the rains."},
-      {"icon": "tag", "title": "Take the train.", "body": "Lonavala is a major stop on the Mumbai to Pune line, and local trains run here from Pune Junction."}
-    ],
-    "story": [
-      {"era": "3rd to 2nd century BC", "title": "Monks in the hills", "body": "Buddhist monks cut the cave shrines at Karla, near Lonavala. They're the oldest landmarks around here.", "illustration": "palace"},
-      {"era": "Medieval times", "title": "Yadavas, Mughals and Mavalas", "body": "The area was part of the Seuna (Yadava) dynasty, then the Mughals held it for its strategic value. Its forts and Mavala warriors later mattered to the Maratha Empire and the Peshwas.", "illustration": "palace"},
-      {"era": "1871", "title": "A hill station is born", "body": "Lord Elphinstone, the Governor of Bombay, established the Lonavala and Khandala hill stations. The British-era Tungarli dam still supplies the town's water.", "illustration": "flood"},
-      {"era": "1924", "title": "Yoga meets science", "body": "Swami Kuvalayananda founded Kaivalyadhama here to study yoga with modern science. It now takes around 250 students a year from India and abroad.", "illustration": "palace"},
-      {"era": "1945", "title": "The Navy arrives", "body": "HMIS Shivaji was commissioned on 16 February 1945. As INS Shivaji, it's still the Indian Navy's premier technical training base.", "illustration": "warehouses"}
-    ],
-    "food": [
-      {
-        "name": "Buvachi Misal",
-        "detail": "Many kinds of misal pav, plus bhajjis and Mumbai street food",
-        "status": {"text": "Behind Fariya's Resort, Parshwapuram", "tone": "neutral"},
-        "tags": ["vegetarian", "cheap"],
-        "illustration": "warehouses"
-      }
-    ]
-  }
+    "illustration": "warehouses"
+   }
+  ]
+ }
 }

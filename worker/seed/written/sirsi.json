@@ -29,7 +29,7 @@
       "text": "Best 5AM to 6PM",
       "tone": "neutral"
      },
-     "illustration": "flood"
+     "illustration": "warehouses"
     },
     {
      "name": "Unchalli Falls",
@@ -38,7 +38,7 @@
       "text": "Last 1 km on foot",
       "tone": "warning"
      },
-     "illustration": "flood"
+     "illustration": "warehouses"
     }
    ]
   },
