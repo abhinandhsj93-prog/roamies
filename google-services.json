@@ -12,7 +12,20 @@
           "package_name": "app.roamies"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "86643263890-m1b3sgcl08jdn6ajie2t065e7mvuhkbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.roamies",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "86643263890-3gisduhsnnv3gr10874ab84softo1hoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBj-QPvQ3secdx0ACyRGvLkH-OZ9D2dENg"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86643263890-3gisduhsnnv3gr10874ab84softo1hoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
