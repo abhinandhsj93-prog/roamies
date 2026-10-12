@@ -35,7 +35,12 @@ export type Sources = {
 };
 
 async function getJson<T>(url: string, init?: RequestInit): Promise<T> {
-  const res = await fetch(url, { ...init, headers: { 'User-Agent': USER_AGENT, ...(init?.headers ?? {}) } });
+  // Every source is optional, so a slow one is cut off rather than holding up the guide.
+  const res = await fetch(url, {
+    ...init,
+    headers: { 'User-Agent': USER_AGENT, ...(init?.headers ?? {}) },
+    signal: AbortSignal.timeout(15_000),
+  });
   if (!res.ok) throw new Error(`${new URL(url).host} ${res.status}`);
   return (await res.json()) as T;
 }

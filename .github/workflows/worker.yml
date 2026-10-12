@@ -50,9 +50,9 @@ jobs:
         if: env.CLOUDFLARE_API_TOKEN != ''
         run: |
           sleep 20
-          debug=$(curl -sS -m 60 "${{ steps.deploy.outputs.url }}/debug?lat=9.9658&lng=76.2421" | jq -c '{locality: .locality.name, wikipedia: (.wikipedia|length), wikivoyage, sights: .sights[0:5], food: .food[0:5], errors}')
+          debug=$(curl -sS -m 90 "${{ steps.deploy.outputs.url }}/debug?lat=9.9658&lng=76.2421" | jq -c '{locality: .locality.name, wikipedia: (.wikipedia|length), wikivoyage, sights: .sights[0:5], food: .food[0:5], errors}' || echo 'debug call failed')
           echo "::notice title=Sources::$(printf '%s' "$debug" | tr -d ':' | head -c 1500)"
-          code=$(curl -sS -m 150 -o body.json -w '%{http_code}' "${{ steps.deploy.outputs.url }}/place?lat=9.9658&lng=76.2421")
+          code=$(curl -sS -m 150 -o body.json -w '%{http_code}' "${{ steps.deploy.outputs.url }}/place?lat=9.9658&lng=76.2421" || echo timeout)
           summary=$(jq -rc '{status, error: (.error // null | if . then .[0:300] else null end), name: .place.name, area: .place.area, model: .place.model, spots: [.place.seeFirst.spots[]?.name], food: [.place.food[]?.name], slides: (.place.story | length?), briefing: .place.briefing}' body.json 2>/dev/null || head -c 300 body.json)
           echo "HTTP $code $summary"
           echo "::notice title=Smoke test::HTTP $code $(printf '%s' "$summary" | tr -d ':' | head -c 1500)"
