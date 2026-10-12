@@ -1,0 +1,42 @@
+{
+  "query": "Khandala",
+  "region": "maharashtra",
+  "name": "Khandala",
+  "draft": {
+    "briefing": "Hey, you're in Khandala! It's one half of the twin hill stations of Lonavala and Khandala, and the Kune Falls close by is counted as the 14th highest waterfall in India.",
+    "hungryLine": "I don't have a named place to eat in my notes for Khandala, so ask around near the station for whatever's fresh today.",
+    "moodReplies": {
+      "show-me-around": "Khandala railway station is barely a minute's walk away, and Kune Falls is about 16 minutes on foot.",
+      "somewhere-to-chill": "Walk over to Kune Falls and just sit and watch the water come down the hillside for a while.",
+      "surprise-me": "Khandala station is where the Khandala Ghat begins, the climb down the hills towards Mumbai starts right after it."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Kune Falls",
+          "detail": "16 min walk · The 14th highest waterfall in India",
+          "status": {"text": "Watch your footing near wet rocks", "tone": "warning"},
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Khandala railway station",
+          "detail": "1 min walk · The little station at the top of the Khandala Ghat",
+          "status": {"text": "Check train timings locally", "tone": "neutral"},
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {"icon": "tag", "title": "Use the train from Lonavala.", "body": "Khandala is the very next station towards Pune from Lonavala, where the Pune Suburban Service starts."},
+      {"icon": "sun", "title": "Keep the waterfall for daylight.", "body": "Kune Falls is a waterfall on a hillside, so go while it's light and you can see the path."}
+    ],
+    "story": [
+      {"era": "The hills", "title": "Twin hill stations", "body": "Khandala sits in Pune district, paired with Lonavala as twin hill stations. The two towns share the same stretch of the Western Ghats.", "illustration": "palace"},
+      {"era": "The railway", "title": "Top of the ghat", "body": "Khandala railway station, code KAD, has three platforms. Heading towards Mumbai, the Khandala Ghat starts right after it.", "illustration": "warehouses"},
+      {"era": "Today", "title": "Waterfall country", "body": "Kune Falls at Khandala is ranked the 14th highest waterfall in India. It's the big natural draw of the town.", "illustration": "flood"}
+    ],
+    "food": []
+  }
+}

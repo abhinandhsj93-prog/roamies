@@ -1,0 +1,128 @@
+{
+ "query": "Dapoli",
+ "region": "maharashtra",
+ "name": "Dapoli",
+ "draft": {
+  "briefing": "Hey, you're in Dapoli! The British once set up camp here, which is why people still call it Camp Dapoli, and you can find old British officers' graves and an abandoned Raj-era church around town. Beyond it runs a 50 km coastline thick with coconut farms.",
+  "hungryLine": "This is Konkan seafood country, so think fish, prawns, crabs and oysters, with solkadhi-rice on the side and a glass of kokum sarbat.",
+  "moodReplies": {
+   "show-me-around": "The Old church and the New Church are both about 5 min walk away, and the Ichchhaapurti Ganesh Mandir is around 13 minutes on foot.",
+   "somewhere-to-chill": "Head to Tamas Teertha beach at Ladghar for the sunset, people say it's unforgettable.",
+   "surprise-me": "Maharshi Dhondo Keshav Karve, who started the movement for women, came from Murud village right here in Dapoli taluka."
+  },
+  "seeFirst": {
+   "caption": "Short walks and drives from here",
+   "spots": [
+    {
+     "name": "Old church",
+     "detail": "5 min walk · A quiet start to a stroll around old Camp Dapoli",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Ichchhaapurti Ganesh Mandir",
+     "detail": "13 min walk · The neighbourhood Ganesh temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Anjarle",
+     "detail": "A few km away · Climb 250 steps to the clifftop Ganapati temple above the beach",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Anjarle",
+    "title": "Temples lost to the sea",
+    "body": "Folks here say there were once two temples standing in the sea, one for Aanjarleshwar and one for Ganapati, and both drowned. The Ganapati temple was rebuilt high up on the cliff, which is why locals call him the Ganapati of Kadyawar."
+   },
+   {
+    "where": "Murud",
+    "title": "The Ganapati in the lake",
+    "body": "Murud has a Ganapati idol that sits in a lake. In summer, when the water drops, devotees can walk out and visit him."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch the evening fish auction.",
+    "body": "Go to Harnai Beach in the evening, when the fish auction is on."
+   },
+   {
+    "icon": "tag",
+    "title": "Pack snacks for Unhavare.",
+    "body": "Bathing in the Unhavare hot springs makes you hungry, so carry food with you."
+   }
+  ],
+  "story": [
+   {
+    "era": "Over 1,000 years ago",
+    "title": "Caves by the Kotjai",
+    "body": "At Panhalekaji, around 29 rock-cut caves line the banks of the Kotjai river. Their walls are covered in Hindu and Buddhist sculptures.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Shivaji's time",
+    "title": "An island fortress",
+    "body": "Shivaji built Suvarnadurg, off the coast of Harnai, to counter the Siddi. It later became a base for the Maratha navy's shipbuilding.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Peshwa era",
+    "title": "Temples on the coast",
+    "body": "The Mahalaxmi Temple at Kelshi was built under the Peshwas, and the clifftop Ganapati temple at Anjarle is believed to date from Madhavrao Peshwa's period.",
+    "illustration": "palace"
+   },
+   {
+    "era": "British Raj",
+    "title": "Camp Dapoli",
+    "body": "The British made their camps here, giving the town its other name. Officers' graves and an abandoned church still remain.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "Weekend by the sea",
+    "body": "Dapoli shows up in Marathi classics like Garambicha Bappu and Shyamchi aai. Now it's a favourite weekend escape for people from Mumbai and Pune, and it's famous for its Agricultural College.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Jagdish Lunch Home",
+    "detail": "A local spot known for its non-vegetarian Konkan cooking, try the seafood",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Sonali Lunch Home",
+    "detail": "Another non-veg favourite in town, good for fish and prawns",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

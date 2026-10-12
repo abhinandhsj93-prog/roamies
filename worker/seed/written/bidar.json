@@ -1,0 +1,103 @@
+{
+ "query": "Bidar",
+ "region": "karnataka",
+ "name": "Bidar",
+ "draft": {
+  "briefing": "Hey, you're in Bidar! Of the 61 monuments listed by the state here, about 30 are tombs, which is why it's called the \"City of Whispering Monuments\". The Bahmani sultans made it their capital in 1427 and built the great fort right next to you.",
+  "hungryLine": "Look out for ghanada unde, Bidar's own sweet, a laddu made with sugarcane juice, jaggery, groundnuts, cashews and almonds.",
+  "moodReplies": {
+   "show-me-around": "Bidar Fort is a 3 min walk and the Solah Khamba Mosque inside it is 4 minutes away. The Mahmud Gawan Madrasa is a 16 min walk, with the Chaubara watchtower just past it.",
+   "somewhere-to-chill": "Bidar Fort holds over 30 monuments, so pick a quiet corner inside the walls and just take it all in.",
+   "surprise-me": "Bidar is home to the second biggest Indian Air Force training centre in the country, where future fighter pilots train on Hawk jets."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Bidar Fort",
+     "detail": "3 min walk · The Bahmani citadel with over 30 monuments inside",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Solah Khamba Mosque",
+     "detail": "4 min walk · The mosque inside the fort",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mahmud Gawan Madrasa",
+     "detail": "16 min walk · A 15th-century college, now partly ruined",
+     "status": {
+      "text": "Monument of National Importance",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Gurdwara Nanak Jhira Sahib",
+    "title": "A spring from a rock",
+    "body": "Sikh pilgrims say Guru Nanak made a spring of drinking water flow here by touching a rock with his toe. It's one of the most popular historical gurdwaras in south India."
+   },
+   {
+    "where": "Papnash Temple",
+    "title": "Rama's stop",
+    "body": "It's believed Lord Rama stopped here on the way back to Ayodhya from Lanka. The temple is said to wash away his act of killing Ravana, who was a devotee of Shiva."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Pick up some Bidri work.",
+    "body": "Bidar is known for its Bidri handicrafts, and you'll find Bidri art materials in the Old City."
+   },
+   {
+    "icon": "sun",
+    "title": "Catch the Kamthana car festival.",
+    "body": "The Jain tirtha at Kamthana, about 10 km away, holds a three-day car festival, usually in February."
+   }
+  ],
+  "story": [
+   {
+    "era": "1427",
+    "title": "A new capital",
+    "body": "Sultan Ahmad Shah I of the Bahmani dynasty moved his capital from Gulbarga to Bidar and built his fort along with a number of Islamic monuments.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1453 to 1472",
+    "title": "Mahmud Gawan's madrasa",
+    "body": "Mahmud Gawan, a Persian trader from Gilan, moved to Bidar in 1453 and became prime minister. He reportedly paid for the madrasa himself, completed around 1471 to 1472, and it ran like a residential university.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1461",
+    "title": "The Gajapati invasion",
+    "body": "Kapilendra Deva of the Gajapati Empire marched on Bidar after Humayun Shah Bahmani died, but the Bahmani forces under Muhibullah defeated him.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1657",
+    "title": "Aurangzeb takes the fort",
+    "body": "After the Barid Shahi and Adil Shahi dynasties held it, the fort finally fell to the Mughal emperor Aurangzeb in the blockade of Bidar.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2014",
+    "title": "World Heritage hopes",
+    "body": "UNESCO put Bidar Fort and the madrasa on its tentative list as part of the Monuments and Forts of the Deccan Sultanate.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

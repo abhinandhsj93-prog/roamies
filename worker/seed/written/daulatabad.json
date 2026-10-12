@@ -1,0 +1,92 @@
+{
+ "query": "Daulatabad",
+ "region": "maharashtra",
+ "name": "Daulatabad",
+ "draft": {
+  "briefing": "Hey, you're in Daulatabad! Back when it was called Devagiri, Sultan Muhammad bin Tughluq renamed it in 1327, moved his capital here from Delhi and ordered Delhi's people to migrate with him, only to move it all back in 1334.",
+  "hungryLine": "My notes don't name a place to eat in Daulatabad, so grab something simple in the village and save your energy for the fort climb.",
+  "moodReplies": {
+   "show-me-around": "Daulatabad Fort is about 13 minutes on foot, the Open Air Canon Gallery is 9 minutes away, and the tall Chand Minar stands right by the fort complex.",
+   "somewhere-to-chill": "Find a spot on the ramparts and look out over the town, the fort sits right on top of the hill.",
+   "surprise-me": "The Chand Minar is 63 metres tall, so tall you can see it from every corner of Daulatabad Fort."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Daulatabad Fort",
+     "detail": "13 min walk · A 12th-century hilltop fortress with a 5 km wall and layers of ramparts",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chand Minar",
+     "detail": "By the fort complex · A 1445 victory tower, inspired by Delhi's Qutb Minar",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Open Air Canon Gallery",
+     "detail": "9 min walk · Old cannons out in the open air",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Start the climb early.",
+    "body": "The fort sits on top of a hill behind layers of ramparts, so give yourself time and go in the cooler hours."
+   },
+   {
+    "icon": "tag",
+    "title": "Don't skip the bat cave.",
+    "body": "The route to the very top of the fort goes through the bat cave, and it's the best part."
+   }
+  ],
+  "story": [
+   {
+    "era": "1187",
+    "title": "Devagiri rises",
+    "body": "Devagiri had been an uplands town on caravan routes since around the 6th century. The first Yadava king, Bhillama V, built the triangular fortress here around 1187.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1308",
+    "title": "Taken by Delhi",
+    "body": "Alauddin Khalji of the Delhi Sultanate annexed the city, ending the Yadavas' rule from their capital.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1327",
+    "title": "Capital for seven years",
+    "body": "Muhammad bin Tughluq renamed Devagiri as Daulatabad and moved the whole capital here from Delhi. In 1334 he reversed the decision and went back.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1445",
+    "title": "Tower of the Moon",
+    "body": "A Bahmani slave put up the Chand Minar to honour Sultan Alau'd-din Ahmad Shah's 1443 victory over the Vijayanagara Empire.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1499",
+    "title": "Second capital",
+    "body": "Daulatabad became part of the Ahmadnagar Sultanate and served as its secondary capital until 1636.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

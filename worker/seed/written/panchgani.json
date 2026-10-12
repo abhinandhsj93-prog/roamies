@@ -1,0 +1,83 @@
+{
+  "query": "Panchgani",
+  "region": "maharashtra",
+  "name": "Panchgani",
+  "draft": {
+    "briefing": "Hey, you're in Panchgani! The British laid out this hill station in the 1860s on a nameless patch between five villages, which is where the name comes from. Just up the road is Table Land, a 4,500 ft plateau said to be the second largest in Asia.",
+    "hungryLine": "You can't leave without a strawberry cream, fresh cream and strawberry slices with a scoop of strawberry ice cream on top, sold everywhere from fancy restaurants to roadside stalls.",
+    "moodReplies": {
+      "show-me-around": "Table Land is about a 10 min walk, with horse rides, snack stalls and huge views. Sydney Point looks out over Dhom Lake and the Krishna valley.",
+      "somewhere-to-chill": "Grab a bench at Sydney Point, some of them are solar powered so you can even charge your phone while you watch the paragliders.",
+      "surprise-me": "Freddie Mercury went to school here, at St. Peter's School, which opened in 1904 as the European Boys' School."
+    },
+    "seeFirst": {
+      "caption": "Close to town",
+      "spots": [
+        {
+          "name": "Table Land",
+          "detail": "10 min walk · A huge 4,500 ft plateau with sunrise and sunset views, horse rides and snacks",
+          "status": {"text": "Great at sunrise or sunset", "tone": "open"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Sydney Point",
+          "detail": "In Panchgani · Views of Dhom Lake, the Krishna valley and Kamalgad Fort, plus a hanging bridge",
+          "status": {"text": "Watch for paragliders", "tone": "open"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Parsi Point",
+          "detail": "In Panchgani · Once a Parsi meeting spot, now a viewpoint over the cliffs and Dhom lake with food stalls",
+          "status": {"text": "Check timings locally", "tone": "neutral"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Devil's Kitchen",
+        "title": "The Pandavas' kitchen",
+        "body": "Just south of Table Land is a spot locals call Devil's Kitchen. It's believed the Pandavas cooked here during their exile."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Come in the monsoon for waterfalls.",
+        "body": "The area's many waterfalls only flow during the monsoon."
+      },
+      {
+        "icon": "tag",
+        "title": "Pick your horse ride at Table Land.",
+        "body": "There are short rounds, big rounds and multi-point rounds, plus a horse carriage that takes four people."
+      }
+    ],
+    "story": [
+      {
+        "era": "1860s",
+        "title": "Land between five villages",
+        "body": "Lord John Chesson surveyed these hills with Rustomji Dubash and chose a nameless area around Dandeghar, Godavali, Ambral, Khingar and Taighat. It was named Panchgani, and Chesson became its superintendent.",
+        "illustration": "palace"
+      },
+      {
+        "era": "British Raj",
+        "title": "A town takes shape",
+        "body": "Chesson invited tailors, dhobis, butchers, vegetable sellers and builders to settle below the bazaar, an area now called the gaothan. He's also credited with planting western trees like silver oak.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "1904",
+        "title": "Boarding school town",
+        "body": "St. Peter's School opened as the European Boys' School on a 58 acre hill campus. Panchgani is still known for its many boarding schools.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Today",
+        "title": "Strawberries and viewpoints",
+        "body": "Panchgani and Mahabaleshwar are twin hill stations, and strawberries grow all over the region. Visitors come all year for the cliffs, lakes and viewpoints.",
+        "illustration": "pepper"
+      }
+    ],
+    "food": []
+  }
+}

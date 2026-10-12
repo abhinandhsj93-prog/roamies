@@ -1,0 +1,49 @@
+{
+  "query": "Matheran",
+  "region": "maharashtra",
+  "name": "Matheran",
+  "draft": {
+    "briefing": "Hey, you're in Matheran! Its name means 'forest on the forehead' of the mountains, and it's one of India's smallest hill stations, where cars aren't allowed in.",
+    "hungryLine": "I don't have a named place to eat in my notes for Matheran, so ask at your hotel or one of the old bungalows about what's good today.",
+    "moodReplies": {
+      "show-me-around": "Madhavji Point is just a 7 minute walk, Khandala Point about 12, and Echo Point around 17 minutes away.",
+      "somewhere-to-chill": "Walk the red laterite paths out to Maria Point or Honeymoon Point, both about 15 minutes away, and enjoy the quiet.",
+      "surprise-me": "Matheran is so close to the city it's part of the Mumbai Metropolitan Region, about 90 km from Mumbai."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Madhavji Point",
+          "detail": "7 min walk · A viewpoint over the Western Ghats",
+          "status": {"text": "Best early morning", "tone": "open"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Khandala Point",
+          "detail": "12 min walk · Another lookout along the edge",
+          "status": {"text": "Mind the edge", "tone": "warning"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Echo Point",
+          "detail": "17 min walk · A viewpoint on the western side",
+          "status": {"text": "Go in daylight", "tone": "neutral"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {"icon": "tag", "title": "Leave the car behind.", "body": "No automobiles are allowed in Matheran, so walk, ride a horse, or take the Aman Lodge shuttle train from the parking area."},
+      {"icon": "sun", "title": "The shuttle runs in the monsoon.", "body": "The Aman Lodge to Matheran service keeps going through the rains, saving you the 3 km walk."}
+    ],
+    "story": [
+      {"era": "Long ago", "title": "Forest on the forehead", "body": "Matheran sits at about 800 m in the Western Ghats. Its Marathi name means the forest on the forehead of the mountains.", "illustration": "palace"},
+      {"era": "Colonial era", "title": "Bungalows on red earth", "body": "Hotels and Parsi bungalows came up along roads of red laterite earth. The town still keeps its British colonial architecture.", "illustration": "palace"},
+      {"era": "The railway", "title": "The Hill Railway", "body": "The narrow gauge Matheran Hill Railway climbs up from Neral. Matheran station is its fifth and last stop.", "illustration": "warehouses"},
+      {"era": "Today", "title": "An eco-sensitive escape", "body": "The Ministry of Environment has declared Matheran an eco-sensitive region. It's a favourite weekend getaway from Mumbai and Pune.", "illustration": "palace"}
+    ],
+    "food": []
+  }
+}

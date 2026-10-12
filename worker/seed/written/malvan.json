@@ -1,0 +1,52 @@
+{
+  "query": "Malvan",
+  "region": "maharashtra",
+  "name": "Malvan",
+  "draft": {
+    "briefing": "Hey, you're in Malvan! This fishing port is best known for Sindhudurg, the sea fort Chhatrapati Shivaji had built on an offshore island between 1664 and 1667.",
+    "hungryLine": "Malvan is all about seafood, fish curry and rice is what locals live on, so head to Hotel Chaitnya for fresh fried fish, and save room for Malvani Khaja or Malvani Ladoos.",
+    "moodReplies": {
+      "show-me-around": "Take the ferry out to Sindhudurg Fort, then wander the rock garden nearby, and Tarkarli beach is 6 km south of town.",
+      "somewhere-to-chill": "Watch the sunset from the rocks at the rock garden near Sindhudurg Fort.",
+      "surprise-me": "At Tarkarli, on a clear day the water is so clear you can see the sea bed 20 feet down."
+    },
+    "seeFirst": {
+      "caption": "Around Malvan",
+      "spots": [
+        {
+          "name": "Sindhudurg Fort",
+          "detail": "Short ferry ride · Shivaji's 17th century sea fort on Kurte island",
+          "status": {"text": "Ferries run in daylight only", "tone": "warning"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Tarkarli",
+          "detail": "6 km south · A long, narrow beach with very clear water",
+          "status": {"text": "Snorkelling nearby", "tone": "open"},
+          "illustration": "flood"
+        }
+      ]
+    },
+    "legends": [
+      {"where": "Malvan", "title": "Dashavtar nights", "body": "Dashavtar is a folk drama telling the stories of Vishnu's ten incarnations. It's a big part of life and culture around Malvan."}
+    ],
+    "tips": [
+      {"icon": "sun", "title": "Catch an early ferry to the fort.", "body": "Boats to Sindhudurg start in the morning and the last one leaves around 5 pm, so check timings locally."},
+      {"icon": "tag", "title": "Take some masala home.", "body": "Vidyadhar Padawe's shop near the fish market sells home made Malvani and Sunday masala."}
+    ],
+    "story": [
+      {"era": "1664 to 1667", "title": "A fort in the sea", "body": "Chhatrapati Shivaji commissioned Sindhudurg on the island of Kurte, just off Malvan. Today it's protected by the Archaeological Survey of India.", "illustration": "palace"},
+      {"era": "Through the ages", "title": "Fish, rice and mangoes", "body": "Fishing and farming have always been Malvan's work. The town grows Alphonso mangoes and makes its own sweets.", "illustration": "pepper"},
+      {"era": "Today", "title": "Queen Beach of the Konkan", "body": "Nearby Tarkarli was declared a Queen Beach of the Konkan. MTDC runs a resort there and snorkelling near Sindhudurg.", "illustration": "flood"}
+    ],
+    "food": [
+      {
+        "name": "Hotel Chaitnya",
+        "detail": "Fresh seafood run by Mr. and Mrs. Walke, try the fried fish",
+        "status": {"text": "Near Malvan Bharad", "tone": "neutral"},
+        "tags": ["seafood"],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "query": "Byculla, Mumbai",
+  "region": "maharashtra",
+  "name": "Byculla",
+  "draft": {
+    "briefing": "Hey, you're in Byculla! Jijamata Udyaan, the zoo and garden everyone still calls Victoria Gardens, is the oldest public garden in Mumbai. Lady Frere opened it to the public on 19 November 1862, and it now spreads over 50 acres.",
+    "hungryLine": "My notes don't name any eateries in Byculla, so ask around the neighbourhood for a local favourite.",
+    "moodReplies": {
+      "show-me-around": "Walk 9 min to the Khada Parsi statue, then 13 min to the Hasnabad Dargah, the Aga Khan's mausoleum.",
+      "somewhere-to-chill": "Spend a slow hour under the trees at Jijamata Udyaan, 50 acres of green in the heart of the city.",
+      "surprise-me": "The Aga Khan's mausoleum here seems to have been inspired by the Taj Mahal, with three blue domes and two 90-foot minarets."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Jijamata Udyaan",
+          "detail": "Close by · Mumbai's oldest public garden, with the city zoo inside",
+          "status": {"text": "Check timings locally", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Khada Parsi",
+          "detail": "9 min walk · A life-sized cast iron statue on a pillar, ringed by mermaid fountains",
+          "status": {"text": "Grade 1 heritage", "tone": "open"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Aga Khan's Maqbara",
+          "detail": "13 min walk · The mausoleum of Aga Khan I, also called the Hasanabad Monument",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {"where": "Khada Parsi", "title": "The Standing Parsi", "body": "Locals call this fountain Khada Parsi, or Ubha Parsi, which means Standing Parsi. The man up top is Cursetjee Manockjee, a Parsi businessman and philanthropist."},
+      {"where": "Aga Khan's Maqbara", "title": "A wish to rest here", "body": "Aga Khan I first visited this spot in 1840 and was given the land by Mukhi Ladakbhai Haji. He said he wanted to be buried here, and he was."}
+    ],
+    "tips": [
+      {"icon": "tag", "title": "Ask for Victoria Gardens.", "body": "Jijamata Udyaan is the official name, but locals still use Victoria Gardens or Byculla Zoo."},
+      {"icon": "sun", "title": "Give the garden a few hours.", "body": "At 50 acres, Jijamata Udyaan is big enough that you'll want to take it slowly."}
+    ],
+    "story": [
+      {"era": "1835", "title": "The first Victoria Gardens", "body": "The British gave land in Sewri for a botanical garden named after Queen Victoria. That land was later taken over for a European burial ground.", "illustration": "palace"},
+      {"era": "1862", "title": "A new garden in Byculla", "body": "Work began in 1861 on 33 acres of the Mount Estate, and the Sewri plants moved here. Lady Frere opened the garden to the public on 19 November 1862.", "illustration": "palace"},
+      {"era": "1867", "title": "The Standing Parsi", "body": "The Cursetjee Fountain went up with its cast iron statue of Cursetjee Manockjee. It's one of the oldest Parsi statues in Mumbai.", "illustration": "palace"},
+      {"era": "1880s", "title": "Blue domes rise", "body": "Building of the Aga Khan's mausoleum began in 1881, right after Aga Khan I's funeral, and finished in 1884. The Khoja Muslims' jamaatkhana looks after it.", "illustration": "palace"},
+      {"era": "1890", "title": "Room for a zoo", "body": "The garden grew by 15 acres in 1890, especially for the zoo. After independence it was renamed after Jijamata, the mother of Shivaji.", "illustration": "palace"}
+    ],
+    "food": []
+  }
+}

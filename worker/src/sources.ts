@@ -162,6 +162,13 @@ async function extracts(host: string, params: string, chars?: number): Promise<A
     .map((p) => ({ title: p.title, text: p.extract!, url: p.fullurl ?? `https://${host}/wiki/${encodeURIComponent(p.title)}` }));
 }
 
+/** One Wikipedia article by title (redirects followed), e.g. the named sight a seed place is about. */
+export async function wikipediaArticle(title: string): Promise<Article | undefined> {
+  const [a] = await extracts('en.wikipedia.org', `titles=${encodeURIComponent(title)}&redirects=1`, 4000);
+  // Disambiguation pages are lists of other places, not about this one.
+  return a && !/may refer to:/.test(a.text) ? a : undefined;
+}
+
 // Nearby Wikipedia articles, plus the geotagged ones as landmark "sights" for when OpenStreetMap is unavailable.
 export async function wikipediaNearby(lat: number, lon: number, locality: Locality): Promise<{ articles: Article[]; landmarks: Poi[] }> {
   const geo = await getJson<WikiQuery>(

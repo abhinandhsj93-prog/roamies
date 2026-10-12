@@ -1,0 +1,104 @@
+{
+  "query": "Shaniwar Wada, Pune",
+  "region": "maharashtra",
+  "name": "Shaniwar Wada",
+  "draft": {
+    "briefing": "Hey, you're at Shaniwar Wada! Built in 1732, this was the seat of the Peshwas of the Maratha Confederacy until 1818. In 1828 most of it burned down in a fire nobody has ever explained, and what survived is what you see today.",
+    "hungryLine": "You're in the old Peth area, which is misal country, so go for a plate of spicy misal at one of the famous local joints if you can take the heat.",
+    "moodReplies": {
+      "show-me-around": "Kasba Ganapati, Pune's presiding deity, is a 3 min walk. Appa Balwant Chowk with its bookshops is 5 minutes, and Dagadusheth Halwai Ganapati Temple is 6 minutes away.",
+      "somewhere-to-chill": "Wander over to Appa Balwant Chowk, known as ABC, and browse the bookshops packed around the crossroads.",
+      "surprise-me": "The main idol at Dagadusheth Halwai Ganapati Temple is insured for ₹10 million."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Kasba Ganapati",
+          "detail": "3 min walk · The gramadevata of Pune, in the ancient Kasba Peth area",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Appa Balwant Chowk",
+          "detail": "5 min walk · Bookshop crossroads, home to the 15th century Tambdi Jogeshwari temple",
+          "status": {"text": "Great for book lovers", "tone": "open"},
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Dagadusheth Halwai Ganapati Temple",
+          "detail": "6 min walk · Pune's best known Ganesha temple, huge during Ganeshotsav",
+          "status": {"text": "Crowded during festivals", "tone": "warning"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Kasba Ganapati",
+        "title": "A Ganesha the size of a grain",
+        "body": "Locals say the Kasba Ganapati idol is self-made and was once as small as a grain of rice. It has grown because of a coating of red sandalwood."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Plan around Ganeshotsav.",
+        "body": "Around September, the ten-day Ganesh festival leaves the old city's inner streets almost blocked, so expect crowds and slow going."
+      },
+      {
+        "icon": "tag",
+        "title": "Take the metro in.",
+        "body": "PMC Bhavan metro station on the Aqua Line is a 7 min walk, and its design is inspired by the old wadas of the peths."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "Many rulers",
+        "body": "Before the Peshwas, Pune was ruled at different times by the Rashtrakutas, the Ahmadnagar Sultanate, the Mughals and the Adil Shahis. This ward, Shaniwar Peth, was once known as Murtuzabad.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1732",
+        "title": "Home of the Peshwas",
+        "body": "Shaniwar Wada was built in 1732 and became the seat of the Peshwas, the prime ministers of the Maratha Confederacy, until 1818.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Early 1800s",
+        "title": "The last Peshwa",
+        "body": "Baji Rao II, the last Peshwa, lived at Vishrambaug Wada, a 20,000 sq ft mansion famous for its carved wooden balcony. Today it holds a post office and a small museum of Maratha artifacts.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1828",
+        "title": "The great fire",
+        "body": "In 1828 an unexplained fire destroyed most of Shaniwar Wada. The structures that survived are now kept as a tourist site.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Today",
+        "title": "The old city lives on",
+        "body": "Around the wada, the peths still buzz with temples, bookshops and Ganesh mandals. The PMC Bhavan metro station, opened in 2023, even borrows its look from the wadas.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": [
+      {
+        "name": "Shree Uphar Gruha",
+        "detail": "Tulsi Baug · A small joint for tasty misal and fritters",
+        "status": {"text": "Check timings locally", "tone": "neutral"},
+        "tags": ["vegetarian", "cheap"],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Bedekar Misal",
+        "detail": "In the Peth areas · One of Pune's must-visit misal spots",
+        "status": {"text": "Check timings locally", "tone": "neutral"},
+        "tags": ["cheap"],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

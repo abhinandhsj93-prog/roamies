@@ -1,0 +1,111 @@
+{
+ "query": "Halebidu",
+ "region": "karnataka",
+ "name": "Halebidu",
+ "draft": {
+  "briefing": "Hey, you're in Halebidu! Back when it was called Dwarasamudra, this was the royal capital of the Hoysala Empire. Its name now literally means \"old capital\" or \"ruined city\", because the Delhi Sultanate's armies looted it twice in the 14th century.",
+  "hungryLine": "Food options are thin here, so the KSTDC Restaurant opposite the main temple is your safest bet for north and south Indian plates.",
+  "moodReplies": {
+   "show-me-around": "The Hoysaleswara Temple and the Museum of Halebidu Ruins are both a minute's walk away. Stroll another 8 to 10 minutes and you reach the Jain basadis and the Kedareswara Temple.",
+   "somewhere-to-chill": "The Hoysaleswara Temple sits on the bank of a big man-made lake, so find some shade near the water once you've done the carvings.",
+   "surprise-me": "The Hoysaleswara Temple is actually a twin temple, with two Shiva lingas named for the masculine and feminine aspects, equal and joined in the middle."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Hoysaleswara Temple",
+     "detail": "1 min walk · 12th-century twin Shiva temple covered in carved Mahabharata scenes",
+     "status": {
+      "text": "Pooja once, in the morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Museum of Halebidu Ruins",
+     "detail": "1 min walk · Sculptures, wood carvings, old maps and photos on the temple grounds",
+     "status": {
+      "text": "Closed Fridays",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Parsvanatha Basadi",
+     "detail": "8 min walk · One of three 12th-century Jain basadis near the Hulikere step well",
+     "status": {
+      "text": "Grab the museum's free map",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Hoysaleswara Temple",
+    "title": "One for the king, one for the queen",
+    "body": "Locals will tell you the temple's two Shiva sanctums were built one for the king and one for the queen. Two huge Nandi bulls sit out front, one facing each."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Bring a cap and water.",
+    "body": "Most of the carvings are on the outside walls, and the afternoon sun here can really dry you out."
+   },
+   {
+    "icon": "tag",
+    "title": "Ask for the free brochure.",
+    "body": "The museum ticket office hands out a brochure with a map showing how to walk to the Jain basadis."
+   }
+  ],
+  "story": [
+   {
+    "era": "1000s",
+    "title": "Dwarasamudra rises",
+    "body": "In the 11th century this town, then called Dwarasamudra or Dorasamudra, became the regal capital of the Hoysala Empire.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1121 to 1160",
+    "title": "The great temple",
+    "body": "King Vishnuvardhana sponsored the Hoysaleswara Temple on the banks of a big man-made lake. Work started around 1121 and finished in 1160.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1100s",
+    "title": "Jain basadis",
+    "body": "Three Jain basadis for Parshvanatha, Shantinatha and Adinatha went up in the same century, near the Kedareshwara temple and the Hulikere step well.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1300s",
+    "title": "Sacked twice",
+    "body": "Armies of the Delhi Sultanate plundered the capital twice in the early 14th century. The town was left damaged and deserted, and people started calling it Halebidu, the old or ruined city.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Must-see heritage",
+    "body": "The Archaeological Survey of India lists all three basadis as \"Must See\" heritage, and the main temple is the largest monument in town.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "KSTDC Restaurant",
+    "detail": "Inside the Government Hotel opposite the main temple, with north and south Indian dishes on the patio or in the garden",
+    "status": {
+     "text": "Open from breakfast",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

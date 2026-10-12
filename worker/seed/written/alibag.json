@@ -1,0 +1,66 @@
+{
+  "query": "Alibag",
+  "region": "maharashtra",
+  "name": "Alibag",
+  "draft": {
+    "briefing": "Hey, you're in Alibag! Kolaba Fort sits about 1 km out in the sea, and at low tide you can actually walk across to it. The town is known for its old marine forts, fine beaches and clean water.",
+    "hungryLine": "This is seafood country, so get a fish thali with pomfret or surmai, rice bhakri and a glass of pink solkadhi.",
+    "moodReplies": {
+      "show-me-around": "Walk out to Kolaba Fort at low tide, then head to Revdanda Fort on Revdanda beach for more history.",
+      "somewhere-to-chill": "Kihim Beach is calm and unpolluted, a proper weekend getaway spot for Mumbaikars.",
+      "surprise-me": "Raigad district, which Alibag heads, used to be called Colaba district."
+    },
+    "seeFirst": {
+      "caption": "Forts and beaches close by",
+      "spots": [
+        {
+          "name": "Kolaba Fort",
+          "detail": "About 1 km off the shore · A sea fort you can reach on foot at low tide",
+          "status": {"text": "Not walkable in monsoon", "tone": "warning"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Kihim Beach",
+          "detail": "Short drive · Calm coastal village with seasonal parasailing",
+          "status": {"text": "Parasailing is seasonal", "tone": "neutral"},
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Revdanda Fort",
+          "detail": "Short drive · Historic fort right on Revdanda beach",
+          "status": {"text": "Enter from the south side", "tone": "open"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {"where": "Alibag", "title": "Home of the Konkan goddess", "body": "Alibag is a holy place for Padmakshi Renuka. Locals know her as the goddess of Konkan."}
+    ],
+    "tips": [
+      {"icon": "sun", "title": "Check the tide first.", "body": "You can only walk to Kolaba Fort at low tide, and not at all during the monsoon."},
+      {"icon": "tag", "title": "Take the ferry from Mumbai.", "body": "Mandwa Beach has direct ferry services to and from Mumbai."}
+    ],
+    "story": [
+      {"era": "Long ago", "title": "Forts by the sea", "body": "Alibag grew up around its marine forts. Kolaba Fort stands in the sea off the shore, and Revdanda Fort guards Revdanda beach.", "illustration": "palace"},
+      {"era": "Earlier", "title": "Colaba district", "body": "The district around Alibag was once called Colaba district. Today it's Raigad district, in the Konkan division of Maharashtra.", "illustration": "warehouses"},
+      {"era": "Today", "title": "District headquarters", "body": "Alibag is the headquarters of Raigad district and a municipal council. It's part of the Mumbai Metropolitan Region, about 96 km from Mumbai.", "illustration": "warehouses"},
+      {"era": "Today", "title": "Mumbai's weekend escape", "body": "Mumbaikars come for beaches like Kihim and Mandwa. Mandwa even has its own ferry link to the city.", "illustration": "flood"}
+    ],
+    "food": [
+      {
+        "name": "Sanman restaurant",
+        "detail": "Fish thalis with pomfret or surmai, one fried piece and one curry, plus rice bhakri and solkadhi",
+        "status": {"text": "Seafood specialist", "tone": "neutral"},
+        "tags": ["seafood"],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Fulora",
+        "detail": "On Alibaug Rewas Rd, PNP Nagar. Seafood is the speciality, with veg and non-veg options too",
+        "status": {"text": "Check timings locally", "tone": "neutral"},
+        "tags": ["seafood"],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

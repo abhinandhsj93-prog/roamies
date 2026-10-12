@@ -1,0 +1,112 @@
+{
+  "query": "Sevagram",
+  "region": "maharashtra",
+  "name": "Wardha",
+  "draft": {
+    "briefing": "Hey, you're in Wardha! Mahatma Gandhi came here in 1936 and lived at Sevagram Ashram, on the edge of town, until his death in 1948. His spectacles, telephone and notebook are still kept in the huts he used.",
+    "hungryLine": "Wardha keeps it simple, think fresh bread and cookies from the town's favourite bakery, or hot samosas and aloo bonda with a badam shake.",
+    "moodReplies": {
+      "show-me-around": "Sevagram Ashram is 8 km from Wardha. In town, Magan Sangrahalaya is a museum Gandhiji opened himself in 1938, and Gitai Mandir sits next to the white Vishwa Shanti Stupa.",
+      "somewhere-to-chill": "Sevagram Ashram has a really calming feel, and the walled park inside Gitai Mandir is a peaceful spot too.",
+      "surprise-me": "Gitai Mandir is a temple with no deity and no roof, just granite walls carved with all 18 chapters of the Gita in Marathi."
+    },
+    "seeFirst": {
+      "caption": "Gandhian Wardha",
+      "spots": [
+        {
+          "name": "Sevagram Ashram",
+          "detail": "8 km from Wardha · The huts where Gandhiji, Kasturba and his disciples lived from 1936",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Magan Sangrahalaya",
+          "detail": "In Maganwadi · Charkhas, khadi and rural crafts in a museum Gandhiji opened in 1938",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Gitai Mandir",
+          "detail": "In Gopuri · A roofless temple of granite slabs carved with the Gita in Marathi",
+          "status": {
+            "text": "Stupa is right beside it",
+            "tone": "open"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Know your station.",
+        "body": "Sevagram Junction, once called Wardha East, sits on the Howrah to Mumbai and Delhi to Chennai lines and serves Wardha city."
+      },
+      {
+        "icon": "tag",
+        "title": "Pair Gitai Mandir with the stupa.",
+        "body": "Vishwa Shanti Stupa, with its four Buddha statues and a small Japanese Buddhist temple, is right next to Gitai Mandir."
+      }
+    ],
+    "story": [
+      {
+        "era": "100s to 400s",
+        "title": "A Vakataka capital",
+        "body": "Pravarapura, today's Pavnar, was once the capital of the Vakataka dynasty. Their queen Prabhavatigupta was the daughter of the Gupta emperor Chandragupta II.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1866",
+        "title": "A cotton town",
+        "body": "Wardha town was founded in 1866 and grew into an important centre for the cotton trade. It takes its name from the Wardha River.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "1934",
+        "title": "Vinoba's ashram",
+        "body": "Acharya Vinoba Bhave set up Paramdham Ashram on the Dham river in 1934 and later started the Bhoodan movement from there. In 1980 he opened Gitai Mandir in Gopuri.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1936",
+        "title": "Gandhiji arrives",
+        "body": "After leaving Sabarmati, Gandhiji stayed briefly at Jamnalal Bajaj's bungalow in Wardha. Then an ashram was built for him at Shegaon, the old name of Sevagram, and he lived there until 1948.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": [
+      {
+        "name": "Nirmal Bakery",
+        "detail": "Called the best bakery in town · Oven fresh breads, cookies and cakes",
+        "status": {
+          "text": "Check timings locally",
+          "tone": "neutral"
+        },
+        "tags": [
+          "cheap"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Samadhan",
+        "detail": "Snack shop · Samosas and aloo bonda, with a juice shop next door for badam shake",
+        "status": {
+          "text": "Check timings locally",
+          "tone": "neutral"
+        },
+        "tags": [
+          "vegetarian",
+          "cheap"
+        ],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

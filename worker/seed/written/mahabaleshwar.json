@@ -1,0 +1,74 @@
+{
+  "query": "Mahabaleshwar",
+  "region": "maharashtra",
+  "name": "Mahabaleshwar",
+  "draft": {
+    "briefing": "Hey, you're in Mahabaleshwar! The sacred Krishna River begins right here along with five of its tributaries, and under the British this hill town was the summer capital of the Bombay Presidency.",
+    "hungryLine": "Strawberries are the thing here, so get a strawberry cream, and try the local corn, roasted or boiled, and a vada pav from the vendor by the Hanuman Temple in the main market.",
+    "moodReplies": {
+      "show-me-around": "Venna Lake is about a 22 minute walk, and the old temples of Old Mahabaleshwar are 7 km away, where the Krishna Temple marks the river's source.",
+      "somewhere-to-chill": "Take a rowing boat out on Venna Lake, or catch the sunset from Bombay Point or Elphinstone Point.",
+      "surprise-me": "Lodwick Point is named after Peter Lodwick, a British officer who first climbed the hill in April 1824, and his son put up a 25 foot column there that still stands."
+    },
+    "seeFirst": {
+      "caption": "Start with these",
+      "spots": [
+        {
+          "name": "Venna Lake",
+          "detail": "22 min walk · Boat rides and horse rides on a tree-lined lake from 1842",
+          "status": {"text": "Boating is cash only", "tone": "warning"},
+          "illustration": "flood"
+        },
+        {
+          "name": "Wilson Point",
+          "detail": "Short drive · At 1439 m, the highest point in Mahabaleshwar",
+          "status": {"text": "Go for sunrise", "tone": "open"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Old Mahabaleshwar",
+          "detail": "7 km away · The Panchganga, Mahabaleshwar and Krishna temples",
+          "status": {"text": "No photos inside the temples", "tone": "warning"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {"where": "Old Mahabaleshwar", "title": "Where five rivers begin", "body": "An old Shiva temple in the forest is held to be the source of five rivers, the Krishna among them. The Krishna Temple a few yards from the main complex marks exactly where the river starts."}
+    ],
+    "tips": [
+      {"icon": "sun", "title": "Plan for the monsoon.", "body": "Paddle boats on Venna Lake stop from June to September, so you'll only get the rowing boats then."},
+      {"icon": "tag", "title": "Use the restrooms at Mapro Garden.", "body": "Most of the viewpoints have hardly any restrooms, and clean ones are rare."}
+    ],
+    "story": [
+      {"era": "Long ago", "title": "Temples at the source", "body": "The temples of Old Mahabaleshwar date back centuries before colonial times, topped with pyramidal spires. Pilgrims came for the source of the Krishna.", "illustration": "palace"},
+      {"era": "1659", "title": "Battle of Pratapgad", "body": "At Pratapgad fort nearby, the Marathas fought the Sultanate of Bijapur. You can see the fort from Lodwick Point.", "illustration": "palace"},
+      {"era": "1824 to 1842", "title": "The British find the hills", "body": "Peter Lodwick climbed the hill in April 1824, and Kate's Point is named for the daughter of Governor John Malcolm. In 1842 Shahaji, the last raja of Satara, built Venna Lake.", "illustration": "flood"},
+      {"era": "Colonial era", "title": "Summer capital", "body": "The British developed Mahabaleshwar as a hill station and made it the summer capital of the Bombay Presidency. Wilson Point is named after a 1920s Governor of Bombay.", "illustration": "palace"},
+      {"era": "Today", "title": "Strawberry country", "body": "It's now the largest hill station in the Western Ghats of Maharashtra and a weekend escape from Pune and Mumbai. Strawberry farms and around 25 viewpoints keep people coming.", "illustration": "pepper"}
+    ],
+    "food": [
+      {
+        "name": "Hotel Panorama",
+        "detail": "Good vegetarian food at a reasonable cost, just behind the bus stand",
+        "status": {"text": "Near the bus stand", "tone": "neutral"},
+        "tags": ["vegetarian"],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Mapro Garden",
+        "detail": "Pizza, sandwiches and ice cream, plus Mapro crushes and jams to take home",
+        "status": {"text": "On the way into town", "tone": "neutral"},
+        "tags": [],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Hotel Templeview",
+        "detail": "Vegetarian place in Old Mahabaleshwar for parathas and Rajasthani favourites",
+        "status": {"text": "In Old Mahabaleshwar", "tone": "neutral"},
+        "tags": ["vegetarian"],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

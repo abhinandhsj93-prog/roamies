@@ -6,7 +6,8 @@
 
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 
-import { gatherSources, reverseGeocode, slug } from '../src/sources.ts';
+import { gatherSources, reverseGeocode, slug, wikipediaArticle } from '../src/sources.ts';
+import { wikiPhotos } from '../src/photos.ts';
 
 const UA = 'Roamies seeding (https://github.com/abhinandhsj93-prog/roamies)';
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -48,6 +49,12 @@ for (const query of [...queries].filter((q) => !filter || q.toLowerCase().includ
     if (!locality) throw new Error('no locality');
     if (locality.state && locality.state !== state) throw new Error(`resolved to ${locality.name}, ${locality.state}`);
     const s = await gatherSources(lat, lon, locality);
+    // The place's own article ("Jog Falls"), which a search around the point can miss.
+    const own = await wikipediaArticle(name.split(',')[0].trim()).catch(() => undefined);
+    if (own && !s.wikipedia.some((a) => a.title === own.title)) {
+      s.wikipedia.unshift(own);
+      Object.assign(s.photos, await wikiPhotos([own.title]).catch(() => ({})));
+    }
     writeFileSync(file, JSON.stringify({ query: name, found: hit.display_name, lat, lon, fetchedAt: new Date().toISOString(), ...s }, null, 1));
     report.push(`${name} -> ${locality.name}: ${s.wikipedia.length} wiki, ${s.wikivoyage ? 'voyage' : 'no voyage'}, ${s.sights.length} sights, ${s.food.length} food, ${Object.keys(s.photos).length} photos${s.errors.length ? `, errors ${s.errors.join('/')}` : ''}`);
     await sleep(2000);

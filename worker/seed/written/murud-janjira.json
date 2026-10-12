@@ -1,0 +1,37 @@
+{
+  "query": "Murud-Janjira",
+  "region": "maharashtra",
+  "name": "Murud-Janjira",
+  "draft": {
+    "briefing": "Hey, you're at Murud-Janjira! This island fort just off the town of Murud let the Siddis hold out against the Marathas, the Mughals and the Portuguese, none of whom ever managed to take it.",
+    "hungryLine": "I don't have a named place to eat in my notes for Murud, so ask around town for the day's fresh catch.",
+    "moodReplies": {
+      "show-me-around": "The fort itself is right here, sitting on its island just off Murud's coast.",
+      "somewhere-to-chill": "Find a spot on the Murud shore and look out at the fort's walls rising from the water.",
+      "surprise-me": "In 1682 Sambhaji teamed up with Prince Akbar, Aurangzeb's rebel son, to besiege Janjira, and even then the fort didn't fall."
+    },
+    "seeFirst": {
+      "caption": "Right here",
+      "spots": [
+        {
+          "name": "Murud-Janjira",
+          "detail": "1 min walk · The island fort that held off every siege",
+          "status": {"text": "Check crossing times locally", "tone": "neutral"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {"icon": "tag", "title": "Plan for the crossing.", "body": "The fort stands on an island just off Murud, so leave time to get across and back."},
+      {"icon": "sun", "title": "Go in daylight.", "body": "You'll want good light to explore the walls and take in the sea views."}
+    ],
+    "story": [
+      {"era": "1567", "title": "A fort on the island", "body": "Janjira Fort was built off the coast of Murud, with Malik Ambar credited for its construction. It became the stronghold of the Siddis.", "illustration": "palace"},
+      {"era": "1600s", "title": "Allies of the Mughals", "body": "After the Ahmadnagar Sultanate fell, the Siddis of Janjira allied with the Mughal Empire. They were a constant threat to the Marathas of the Konkan.", "illustration": "palace"},
+      {"era": "Shivaji's reign", "title": "Attempts that failed", "body": "Shivaji made several attempts to capture Janjira, the Siddi capital. Every one of them failed.", "illustration": "palace"},
+      {"era": "1682", "title": "Sambhaji's siege", "body": "Sambhaji besieged the fort with help from Prince Akbar and the Rajputs of Marwar. Mughal attacks on the Konkan pulled him away, and the Siddis chased the retreating Marathas.", "illustration": "palace"}
+    ],
+    "food": []
+  }
+}

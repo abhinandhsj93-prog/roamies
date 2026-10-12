@@ -1,0 +1,105 @@
+{
+  "query": "Navi Mumbai",
+  "region": "maharashtra",
+  "name": "Navi Mumbai",
+  "draft": {
+    "briefing": "Hey, you're in Navi Mumbai! This whole city was planned from scratch, founded in 1971 as New Bombay to take the pressure off Mumbai. You're at Seawoods, right next to Nerul, where the DY Patil Stadium hosted the 2008 IPL final.",
+    "hungryLine": "Palm Beach Road in Nerul is your food street, with everything from barbecue to quick chaat, so try some sev puri or ragda patties and finish with an ice gola in kalakhatta flavour.",
+    "moodReplies": {
+      "show-me-around": "Jama Masjid, the oldest and largest mosque in Nerul, is a 7 min walk. The Belapur Fort ruins are about 2 km north of Seawoods station.",
+      "somewhere-to-chill": "Head up Parsik Hill in Belapur for an evening walk, it's where locals go to just hang out, though it's often closed in the rains because of landslides.",
+      "surprise-me": "The 2008 IPL final here was won by Shane Warne's Rajasthan Royals off the very last ball, beating Chennai by three wickets."
+    },
+    "seeFirst": {
+      "caption": "Close by in Seawoods and Nerul",
+      "spots": [
+        {
+          "name": "Jama Masjid, Nerul",
+          "detail": "7 min walk · The oldest and largest mosque in Nerul, one of the main mosques of Navi Mumbai",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Belapur Fort ruins",
+          "detail": "About 2 km north of Seawoods station · A fort built by the Siddis of Janjira, later held by the Portuguese, Marathas and British",
+          "status": {"text": "Ruins, go in daylight", "tone": "neutral"},
+          "illustration": "warehouses"
+        },
+        {
+          "name": "DY Patil Stadium",
+          "detail": "In Nerul · The cricket ground that hosted the 2008 and 2010 IPL finals, plus concerts",
+          "status": {"text": "Check event schedules", "tone": "neutral"},
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Save Parsik Hill for the evening.",
+        "body": "It's best in the evening, and right when the monsoon starts you might catch the Pandavakhada waterfall, but it's often shut later in the rains."
+      },
+      {
+        "icon": "tag",
+        "title": "Take the local train.",
+        "body": "Seawoods-Darave-Karave and Nerul stations are on the Harbour line, and Nerul is also the end point of the Trans-Harbour and Port lines."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "A fort by the creek",
+        "body": "The Siddis of Janjira built a fort at Belapur. It later fell to the Portuguese and then the Marathas.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Early 1800s",
+        "title": "The British take over",
+        "body": "In the early 19th century the British captured Belapur Fort. The deliberate damage done to it ended its days as a strategic spot.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "1971",
+        "title": "New Bombay is born",
+        "body": "Navi Mumbai was founded in 1971 as a planned satellite township, meant to ease the crowding in Mumbai. It was first called New Bombay.",
+        "illustration": "palace"
+      },
+      {
+        "era": "2008",
+        "title": "A last ball thriller",
+        "body": "On 1 June 2008 the DY Patil Stadium in Nerul hosted the 2008 IPL final. Rajasthan Royals beat Chennai Super Kings on the very last ball.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Today",
+        "title": "Station, mall, sea bridge",
+        "body": "Seawoods station was rebuilt with a mall on top, opened in 2017 and now called Nexus Seawoods. Atal Setu, India's longest sea bridge, now links Navi Mumbai to Sewri in Mumbai.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": [
+      {
+        "name": "Snack Attack",
+        "detail": "Palm Beach Road, Nerul-Sanpada · Loads of snacks and little cups of Oreo juice in an arty space",
+        "status": {"text": "Check timings locally", "tone": "neutral"},
+        "tags": ["cheap"],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Jaslok",
+        "detail": "At Nerul station · Pani puri, vada pav, rasmalai and jamun",
+        "status": {"text": "Check timings locally", "tone": "neutral"},
+        "tags": ["cheap"],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Barbeque Nation",
+        "detail": "Nerul, Palm Beach · For a big barbecue meal",
+        "status": {"text": "Check timings locally", "tone": "neutral"},
+        "tags": [],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+ "query": "Raichur",
+ "region": "karnataka",
+ "name": "Raichur",
+ "draft": {
+  "briefing": "Hey, you're in Raichur! This city sits between the Krishna and Tungabhadra rivers, and the district's recorded history goes back to the third century BCE. Three of Emperor Ashoka's minor rock edicts were found around here.",
+  "hungryLine": "Raichur doesn't make a fuss about its restaurants, so ask a local where they go for a good meal near the fort.",
+  "moodReplies": {
+   "show-me-around": "The Ek Minar Mosque is a 14 min walk, and the old Raichur Fort with its double walls and many gateways is right in the city.",
+   "somewhere-to-chill": "Head out to Maliabad, 5 km away, to see its fort and two life-size elephants carved in white granite.",
+   "surprise-me": "Raichur Fort's walls were built without any cementing material at all."
+  },
+  "seeFirst": {
+   "caption": "Around the city",
+   "spots": [
+    {
+     "name": "Ek Minar Mosque",
+     "detail": "14 min walk · The one-minaret mosque, a state protected monument",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Raichur Fort",
+     "detail": "In the city · Hill fort with seven gateways and old mosques inside",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Maliabad Fort",
+     "detail": "5 km away · Fort, Vishnu temple and two white granite elephants",
+     "status": {
+      "text": "Short drive",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Look for the inscriptions.",
+    "body": "Several buildings and mosques inside Raichur Fort carry inscriptions from the later Bahmani and Adil Shahi periods."
+   },
+   {
+    "icon": "tag",
+    "title": "Count the gateways.",
+    "body": "The inner wall has the Sailani and Sikandari Darwazas, and the outer wall has five more, including the Mecca Darwaza on the west."
+   }
+  ],
+  "story": [
+   {
+    "era": "200s BCE",
+    "title": "Ashoka's edicts",
+    "body": "Rock edicts at Maski and near Koppal show this area was part of Emperor Ashoka's dominions, run by one of his viceroys.",
+    "illustration": "palace"
+   },
+   {
+    "era": "200s to 400s",
+    "title": "Dynasties come and go",
+    "body": "The Satavahanas came next, then the Vakatakas held sway in the 3rd and 4th centuries, before the region passed to the Kadambas.",
+    "illustration": "palace"
+   },
+   {
+    "era": "600s",
+    "title": "Badami Chalukyas",
+    "body": "An inscription at Aihole says Pulakeshin II beat the Pallavas, took this area and made it a province governed by his son Adityavarma.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Bahmani and Adil Shahi times",
+    "title": "Building the fort",
+    "body": "Inscriptions inside Raichur Fort record buildings and mosques put up in the later Bahmani and Adil Shahi periods.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2016",
+    "title": "Making way for a road",
+    "body": "Some old structures in the grounds of the Ek Minar Mosque were knocked down to widen the road, but the minaret still stands.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -20,7 +20,7 @@ Sasthamcotta, Kollam
 Punalur, Kollam
 Karunagappally, Kollam
 # Pathanamthitta
-Pathanamthitta
+Pathanamthitta @ 9.2648,76.7870
 Aranmula, Pathanamthitta
 Konni, Pathanamthitta
 Gavi, Pathanamthitta
@@ -32,7 +32,7 @@ Kainakary, Alappuzha
 Ambalappuzha, Alappuzha
 Kayamkulam, Alappuzha
 Cherthala, Alappuzha
-Haripad, Alappuzha
+Haripad, Alappuzha @ 9.2853,76.4561
 # Kottayam
 Kottayam
 Kumarakom, Kottayam
@@ -46,7 +46,7 @@ Munnar, Idukki
 Kumily, Idukki
 Cheruthoni, Idukki
 Thodupuzha, Idukki
-Peerumade, Idukki
+Peerumade, Idukki @ 9.5717,76.9741
 Marayoor, Idukki
 Kattappana, Idukki
 Ramakkalmedu, Idukki
@@ -93,7 +93,7 @@ Kadalundi, Malappuram
 Kozhikode Beach, Kozhikode
 Mananchira, Kozhikode
 Beypore, Kozhikode
-Kappad, Kozhikode
+Kappad, Kozhikode @ 11.3826,75.7160
 Vadakara, Kozhikode
 Thamarassery, Kozhikode
 Kakkayam, Kozhikode
@@ -114,7 +114,7 @@ Parassinikadavu, Kannur
 Payyanur, Kannur
 Iritty, Kannur
 # Kasaragod
-Kasaragod
+Kasaragod @ 12.4996,74.9869
 Bekal Fort, Kasaragod
 Nileshwar, Kasaragod
 Kanhangad, Kasaragod

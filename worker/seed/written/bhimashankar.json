@@ -1,0 +1,53 @@
+{
+  "query": "Bhimashankar",
+  "region": "maharashtra",
+  "name": "Bhimashankar",
+  "draft": {
+    "briefing": "Hey, you're in Bhimashankar! The black stone Shiva temple a minute away holds one of the 12 Jyotirlingas, and it dates back to the 13th century. The Bhima River starts right here in this village too.",
+    "hungryLine": "My notes don't name any eateries here, so if you're trekking up, pack your snacks and plenty of water.",
+    "moodReplies": {
+      "show-me-around": "The Bhimashankar Temple is a 1 min walk, Rokda Hanuman Mandir is 14 min, and the Nagphani viewpoint is 18 min away.",
+      "somewhere-to-chill": "Walk out to the Nagphani viewpoint, 18 min from here, and take in the forest range around you.",
+      "surprise-me": "The temple's central hall and dome were improved in the 18th century by Nana Phadnavis."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Bhimashankar Temple",
+          "detail": "1 min walk · Black stone temple with one of Maharashtra's three Jyotirlingas",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Nagphani",
+          "detail": "18 min walk · A viewpoint over the hills",
+          "status": {"text": "Best early morning", "tone": "neutral"},
+          "illustration": "flood"
+        },
+        {
+          "name": "Bhimshankar Wildlife Sanctuary",
+          "detail": "All around the temple · Semi-evergreen forest spread over Pune, Raigad and Thane",
+          "status": {"text": "Carry water", "tone": "warning"},
+          "illustration": "pepper"
+        }
+      ]
+    },
+    "legends": [
+      {"where": "Bhimashankar", "title": "In the saints' footsteps", "body": "The medieval saint Namdev wrote that Saint Jnaneshwar travelled to Tryambakeshwar and then on to Bhimashankar. Namdev came here himself too."},
+      {"where": "Manmad hills", "title": "Gods in the rock", "body": "On the hills of Manmad village nearby, there are old rock carvings of the God Bhimashankar, Bhootings and Amba-Ambika."}
+    ],
+    "tips": [
+      {"icon": "sun", "title": "Carry three litres of water.", "body": "Outside the monsoon, the trek has long stretches under the sun and dehydration is a real risk."},
+      {"icon": "tag", "title": "Dress for the temple.", "body": "This is one of the holiest pilgrimage spots in India, so cover up when you visit the shrine."}
+    ],
+    "story": [
+      {"era": "1200s", "title": "Black stone shrine", "body": "Writings mention the Bhimashankaram shrine and the Bhimarathi river as far back as the 13th century. The temple itself is carved in black stone.", "illustration": "palace"},
+      {"era": "Medieval era", "title": "Saints on the road", "body": "Saint Namdev recorded that Jnaneshwar visited Bhimashankar after Tryambakeshwar. Namdev made the trip as well.", "illustration": "palace"},
+      {"era": "1700s", "title": "Nana Phadnavis builds", "body": "In the 18th century, Nana Phadnavis improved the sabhamandap, the central hall, and the shikhara, the dome.", "illustration": "palace"},
+      {"era": "1974", "title": "A protected forest", "body": "The forest around the temple became a wildlife sanctuary in 1974. It sits between 2100 and 3800 feet and covers parts of three districts.", "illustration": "pepper"},
+      {"era": "Today", "title": "Pilgrims and trekkers", "body": "Bhimashankar is a key pilgrimage centre and a popular trek, about 100 km from Pune. The forest here still holds rare plants and animals.", "illustration": "pepper"}
+    ],
+    "food": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+ "query": "Udupi",
+ "region": "karnataka",
+ "name": "Udupi",
+ "draft": {
+  "briefing": "Hey, you're in Udupi! Most of India knows the name from Udupi vegetarian restaurants, but it all started here at the Krishna temple. Its kitchens still serve free lunch to everyone, and that cooking tradition is what made the cuisine famous.",
+  "hungryLine": "This is the home of Udupi cuisine, satvik vegetarian food cooked without onion or garlic, and the Krishna temple serves a free lunch in its dining halls.",
+  "moodReplies": {
+   "show-me-around": "The Udupi Sri Krishna Matha is a 17 min walk, with the Anantheshwara and Chandramouleshwara temples and the eight mutts all on Ratha Beedi around it. The old Nagabana at Bannanje is just 11 minutes away.",
+   "somewhere-to-chill": "Catch the sunset at Malpe beach, with St Mary's Island out in the water behind it.",
+   "surprise-me": "The Krishna idol here faces west, away from the devotees, so you have to peek through a small window called Kanakana Kindi to see it."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Udupi Sri Krishna Matha",
+     "detail": "17 min walk · The temple and Dvaita matha at the heart of the town",
+     "status": {
+      "text": "Free lunch for all",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kanakana Kindi",
+     "detail": "At the Krishna temple · The famous window you look through to see the deity",
+     "status": {
+      "text": "Open 24 hours",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Saarvajanika Nagabrahmastana Moodanidambooru, Bannanje",
+     "detail": "11 min walk · One of Udupi's oldest Nagabanas for snake worship",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kanakana Kindi",
+    "title": "Krishna turned around",
+    "body": "A devotee named Kanakadasa was refused entry to the temple, so he prayed from a small window outside. The story goes that Krishna was so pleased he turned around to face him, and the window has carried Kanaka's name ever since."
+   },
+   {
+    "where": "Chandramouleshwara temple",
+    "title": "Where the moon prayed",
+    "body": "Right next to the Krishna temple is this Shiva temple. Legend says the moon, Chandra, prayed to Shiva at this very spot."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Watch for Paryaya in January.",
+    "body": "On 18 January in even-numbered years, the Krishna temple changes hands to a new mutt head, with big celebrations and ceremonies."
+   },
+   {
+    "icon": "sun",
+    "title": "Do St Mary's Island early or late.",
+    "body": "There's little shade on the island at noon, so take a boat from Malpe beach in the morning or evening."
+   }
+  ],
+  "story": [
+   {
+    "era": "700s",
+    "title": "Parashurama's temple",
+    "body": "The Anantheshwara temple, dedicated to Parashurama, dates back to the 8th century and is over a thousand years old.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Madhvacharya's time",
+    "title": "Temple and eight mutts",
+    "body": "Madhvacharya founded the Krishna temple and set up eight monasteries around Ratha Beedi, whose heads would run the temple in turn for two months each.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s",
+    "title": "Two-year turns",
+    "body": "Vadiraja of Sode Matha changed each head's tenure from two months to two years, and that Paryaya rotation still continues.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1997",
+    "title": "A district of its own",
+    "body": "On 25 August 1997, Udupi, Kundapur and Karkala were split from Dakshina Kannada to form Udupi district.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "The temple city",
+    "body": "Udupi is one of Karnataka's fastest-growing cities and a big draw for visitors, still known everywhere for its food.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}
