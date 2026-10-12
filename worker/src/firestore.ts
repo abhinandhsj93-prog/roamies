@@ -48,7 +48,10 @@ async function accessToken(env: FirestoreEnv): Promise<string> {
 const docUrl = (env: FirestoreEnv, path: string) =>
   `https://firestore.googleapis.com/v1/projects/${env.FIREBASE_PROJECT_ID}/databases/(default)/documents/${path}`;
 
-type Fields = Record<string, { stringValue?: string; timestampValue?: string; booleanValue?: boolean }>;
+type Fields = Record<string, { stringValue?: string; timestampValue?: string; booleanValue?: boolean; integerValue?: string }>;
+
+// Bump when the guide format or sources change; older stored guides are then written again on next visit.
+export const PLACE_VERSION = 2;
 
 async function request(env: FirestoreEnv, url: string, init: RequestInit = {}) {
   return fetch(url, {
@@ -63,6 +66,7 @@ export async function getPlaceJson(env: FirestoreEnv, id: string): Promise<strin
   if (res.status === 404) return null;
   if (!res.ok) throw new Error(`firestore get ${res.status}`);
   const doc = (await res.json()) as { fields?: Fields };
+  if (Number(doc.fields?.version?.integerValue ?? 1) < PLACE_VERSION) return null;
   return doc.fields?.json?.stringValue ?? null;
 }
 
@@ -71,6 +75,7 @@ export async function savePlace(env: FirestoreEnv, id: string, json: string, met
     json: { stringValue: json },
     name: { stringValue: meta.name },
     lang: { stringValue: 'en' },
+    version: { integerValue: String(PLACE_VERSION) },
     model: { stringValue: meta.model },
     factChecked: { booleanValue: false },
     generatedAt: { timestampValue: new Date().toISOString() },

@@ -83,38 +83,26 @@ const OVERPASS_ENDPOINTS = ['https://overpass-api.de/api/interpreter', 'https://
 
 type OverpassElement = { lat?: number; lon?: number; center?: { lat: number; lon: number }; tags?: Record<string, string> };
 
-export async function nearbyPois(lat: number, lon: number): Promise<{ sights: Poi[]; food: Poi[] }> {
-  const query = `[out:json][timeout:25];
-(
-  nwr(around:1200,${lat},${lon})[name][tourism~"^(attraction|museum|viewpoint|gallery)$"];
-  nwr(around:1200,${lat},${lon})[name][historic];
-  nwr(around:1200,${lat},${lon})[name][amenity=place_of_worship];
-  nwr(around:1200,${lat},${lon})[name][leisure~"^(park|beach_resort)$"];
-  nwr(around:900,${lat},${lon})[name][amenity~"^(restaurant|cafe|fast_food)$"];
-);
-out center tags 120;`;
-  let r: { elements: OverpassElement[] } | undefined;
-  let lastError: unknown;
-  for (const endpoint of OVERPASS_ENDPOINTS) {
-    try {
-      r = await getJson<{ elements: OverpassElement[] }>(endpoint, { method: 'POST', body: new URLSearchParams({ data: query }) });
-      break;
-    } catch (e) {
-      lastError = e;
-    }
-  }
-  if (!r) throw lastError;
-  const sights: Poi[] = [];
-  const food: Poi[] = [];
+// Asks every Overpass mirror at once and takes the first answer; they are often slow or busy.
+async function overpass(query: string): Promise<OverpassElement[]> {
+  const r = await Promise.any(
+    OVERPASS_ENDPOINTS.map((endpoint) =>
+      getJson<{ elements: OverpassElement[] }>(endpoint, { method: 'POST', body: new URLSearchParams({ data: query }) }),
+    ),
+  );
+  return r.elements;
+}
+
+function toPois(elements: OverpassElement[], lat: number, lon: number): Poi[] {
   const seen = new Set<string>();
-  for (const e of r.elements) {
+  const pois: Poi[] = [];
+  for (const e of elements) {
     const t = e.tags ?? {};
     const pLat = e.lat ?? e.center?.lat;
     const pLon = e.lon ?? e.center?.lon;
     if (!t.name || pLat === undefined || pLon === undefined || seen.has(t.name)) continue;
     seen.add(t.name);
-    const isFood = /^(restaurant|cafe|fast_food)$/.test(t.amenity ?? '');
-    const poi: Poi = {
+    pois.push({
       name: t['name:en'] ?? t.name,
       kind: t.tourism ?? t.historic ?? t.amenity ?? t.leisure ?? 'place',
       cuisine: t.cuisine,
@@ -123,14 +111,37 @@ out center tags 120;`;
       walkMinutes: walkMinutes(lat, lon, pLat, pLon),
       lat: pLat,
       lon: pLon,
-    };
-    (isFood ? food : sights).push(poi);
+    });
   }
-  const byDistance = (a: Poi, b: Poi) => a.walkMinutes - b.walkMinutes;
-  return { sights: sights.sort(byDistance).slice(0, 15), food: food.sort(byDistance).slice(0, 15) };
+  return pois.sort((a, b) => a.walkMinutes - b.walkMinutes).slice(0, 15);
 }
 
-type WikiQuery = { query?: { geosearch?: { pageid: number; title: string }[]; pages?: Record<string, { title: string; extract?: string; fullurl?: string }> } };
+export async function nearbySights(lat: number, lon: number): Promise<Poi[]> {
+  const around = `around:1200,${lat},${lon}`;
+  return toPois(
+    await overpass(`[out:json][timeout:10];
+(
+  nwr(${around})[name][tourism~"^(attraction|museum|viewpoint|gallery)$"];
+  nwr(${around})[name][historic~"^(fort|monument|memorial|building|church|castle|ruins)$"];
+  nwr(${around})[name][amenity=place_of_worship];
+);
+out center tags 60;`),
+    lat,
+    lon,
+  );
+}
+
+export async function nearbyFood(lat: number, lon: number): Promise<Poi[]> {
+  return toPois(
+    await overpass(`[out:json][timeout:10];
+node(around:900,${lat},${lon})[name][amenity~"^(restaurant|cafe|fast_food)$"];
+out tags 60;`),
+    lat,
+    lon,
+  );
+}
+
+type WikiQuery = { query?: { geosearch?: { pageid: number; title: string; lat: number; lon: number }[]; pages?: Record<string, { title: string; extract?: string; fullurl?: string }> } };
 
 async function extracts(host: string, params: string, chars: number): Promise<Article[]> {
   const url = `https://${host}/w/api.php?action=query&format=json&prop=extracts|info&inprop=url&explaintext=1&exlimit=20&exchars=${chars}&${params}`;
@@ -140,35 +151,52 @@ async function extracts(host: string, params: string, chars: number): Promise<Ar
     .map((p) => ({ title: p.title, text: p.extract!, url: p.fullurl ?? `https://${host}/wiki/${encodeURIComponent(p.title)}` }));
 }
 
-export async function wikipediaNearby(lat: number, lon: number, locality: Locality): Promise<Article[]> {
+// Nearby Wikipedia articles, plus the geotagged ones as landmark "sights" for when OpenStreetMap is unavailable.
+export async function wikipediaNearby(lat: number, lon: number, locality: Locality): Promise<{ articles: Article[]; landmarks: Poi[] }> {
   const geo = await getJson<WikiQuery>(
-    `https://en.wikipedia.org/w/api.php?action=query&format=json&list=geosearch&gscoord=${lat}|${lon}&gsradius=2000&gslimit=12`,
+    `https://en.wikipedia.org/w/api.php?action=query&format=json&list=geosearch&gscoord=${lat}|${lon}&gsradius=2000&gslimit=15`,
   );
-  const ids = (geo.query?.geosearch ?? []).map((g) => g.pageid);
+  const hits = geo.query?.geosearch ?? [];
   const [nearby, own] = await Promise.all([
-    ids.length ? extracts('en.wikipedia.org', `pageids=${ids.join('|')}`, 1200) : Promise.resolve([]),
+    // exintro: the API only returns whole-article extracts for one page at a time.
+    hits.length ? extracts('en.wikipedia.org', `exintro=1&pageids=${hits.map((g) => g.pageid).join('|')}`, 1200) : Promise.resolve([]),
     extracts('en.wikipedia.org', `titles=${encodeURIComponent(locality.name)}&redirects=1`, 4000).catch(() => []),
   ]);
   const all = [...own, ...nearby];
-  return all.filter((a, i) => all.findIndex((b) => b.title === a.title) === i);
+  const landmarks = hits
+    .filter((g) => g.title.toLowerCase() !== locality.name.toLowerCase())
+    .map((g) => ({ name: g.title.replace(/ \(.*\)$/, ''), kind: 'landmark', walkMinutes: walkMinutes(lat, lon, g.lat, g.lon), lat: g.lat, lon: g.lon }));
+  return { articles: all.filter((a, i) => all.findIndex((b) => b.title === a.title) === i), landmarks };
 }
 
+// The neighbourhood's own Wikivoyage article, else the city's (Fort Kochi is covered under Kochi).
 export async function wikivoyage(locality: Locality): Promise<Article | undefined> {
-  const [a] = await extracts('en.wikivoyage.org', `titles=${encodeURIComponent(locality.name)}&redirects=1`, 6000).catch(
-    () => [] as Article[],
-  );
-  return a;
+  const city = locality.area.split(',')[0]?.trim();
+  for (const title of [locality.name, city].filter(Boolean) as string[]) {
+    const [a] = await extracts('en.wikivoyage.org', `titles=${encodeURIComponent(title)}&redirects=1`, 6000).catch(() => [] as Article[]);
+    if (a) return a;
+  }
+  return undefined;
 }
 
 export async function gatherSources(lat: number, lon: number, locality: Locality): Promise<Sources> {
   const errors: string[] = [];
-  const note = (what: string) => (e: unknown) => {
-    errors.push(`${what}: ${e instanceof Error ? e.message : String(e)}`);
+  const failed = (what: string) => (e: unknown) => {
+    const err = e instanceof AggregateError ? e.errors[0] : e;
+    errors.push(`${what}: ${err instanceof Error ? err.message : String(err)}`);
   };
-  const [wiki, voyage, pois] = await Promise.all([
-    wikipediaNearby(lat, lon, locality).catch((e) => (note('wikipedia')(e), [] as Article[])),
+  const [wiki, voyage, sights, food] = await Promise.all([
+    wikipediaNearby(lat, lon, locality).catch((e) => (failed('wikipedia')(e), { articles: [] as Article[], landmarks: [] as Poi[] })),
     wikivoyage(locality),
-    nearbyPois(lat, lon).catch((e) => (note('overpass')(e), { sights: [], food: [] })),
+    nearbySights(lat, lon).catch((e) => (failed('overpass sights')(e), [] as Poi[])),
+    nearbyFood(lat, lon).catch((e) => (failed('overpass food')(e), [] as Poi[])),
   ]);
-  return { locality, wikipedia: wiki, wikivoyage: voyage, ...pois, errors };
+  return {
+    locality,
+    wikipedia: wiki.articles,
+    wikivoyage: voyage,
+    sights: sights.length ? sights : wiki.landmarks,
+    food,
+    errors,
+  };
 }
