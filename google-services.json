@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86643263890",
+    "project_id": "roamies-99c10",
+    "storage_bucket": "roamies-99c10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86643263890:android:f1df1cd32db592554e594b",
+        "android_client_info": {
+          "package_name": "app.roamies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-QPvQ3secdx0ACyRGvLkH-OZ9D2dENg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

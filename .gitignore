@@ -41,5 +41,4 @@ yarn-error.*
 /android
 
 # Firebase config: download from the Firebase console (see docs/SETUP.md)
-google-services.json
 .env
