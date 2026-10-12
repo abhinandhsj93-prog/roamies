@@ -1,0 +1,306 @@
+{
+ "query": "Kala Ghoda, Mumbai",
+ "found": "Kala Ghoda, Mumbai (pinned)",
+ "lat": 18.9285,
+ "lon": 72.8318,
+ "fetchedAt": "2026-10-12T19:13:12.879Z",
+ "locality": {
+  "id": "fort-mumbai-city-district-maharashtra",
+  "name": "Fort",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg/1280px-Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fortification",
+   "credit": "Photo: John Scofield, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg"
+  },
+  "Fortification": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg/1280px-Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fortification",
+   "credit": "Photo: John Scofield, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg"
+  },
+  "Bombay High Court": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mumbai_03-2016_41_Bombay_High_Court.jpg/1280px-Mumbai_03-2016_41_Bombay_High_Court.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bombay High Court",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_41_Bombay_High_Court.jpg"
+  },
+  "Bombay Stock Exchange": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/BSE_logo.svg/1280px-BSE_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bombay Stock Exchange",
+   "credit": "Photo: BSE Limited, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BSE_logo.svg"
+  },
+  "Kala Ghoda": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kala_Ghoda_Statue.jpg/1280px-Kala_Ghoda_Statue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kala Ghoda",
+   "credit": "Photo: Pradeep717, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kala_Ghoda_Statue.jpg"
+  },
+  "Dalal Street": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/DalalStreetSign.jpg/1280px-DalalStreetSign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dalal Street",
+   "credit": "Photo: Homieg340, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:DalalStreetSign.jpg"
+  },
+  "Jehangir Art Gallery": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/JAG_From_Outside.jpg/1280px-JAG_From_Outside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jehangir Art Gallery",
+   "credit": "Photo: Thatsrichie6, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:JAG_From_Outside.jpg"
+  },
+  "Cowasji Jehangir Hall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sir_Cowasji_Jhangir_Pub%3Bic_Hall.jpg/1280px-Sir_Cowasji_Jhangir_Pub%3Bic_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cowasji Jehangir Hall",
+   "credit": "Photo: Ramesh lalwani, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Cowasji_Jhangir_Pub;ic_Hall.jpg"
+  },
+  "David Sassoon Library": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/David_Sassoon_Library_in_May_2023.jpg/1280px-David_Sassoon_Library_in_May_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "David Sassoon Library",
+   "credit": "Photo: JSW Group, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Sassoon_Library_in_May_2023.jpg"
+  },
+  "Knesset Eliyahoo Synagogue": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Keneseth_Eliyahoo_Synagogue_1.jpg/1280px-Keneseth_Eliyahoo_Synagogue_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Knesset Eliyahoo Synagogue",
+   "credit": "Photo: Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keneseth_Eliyahoo_Synagogue_1.jpg"
+  },
+  "Great Western Building": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Great_Western_Building%2C_1890.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Great Western Building",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Western_Building,_1890.jpg"
+  },
+  "New India Assurance Building": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/NewIndiaAssuranceBdg.jpg/1280px-NewIndiaAssuranceBdg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "New India Assurance Building",
+   "credit": "Photo: Colin Rose from Montreal, Canada, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:NewIndiaAssuranceBdg.jpg"
+  },
+  "Siddharth College of Law, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Oriental_building_and_Siddharth_College%2C_Mumbai.jpg/1280px-Oriental_building_and_Siddharth_College%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Siddharth College of Law, Mumbai",
+   "credit": "Photo: Aleksandr Zykov from Russia, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oriental_building_and_Siddharth_College,_Mumbai.jpg"
+  },
+  "National Gallery of Modern Art, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/National_Gallery_of_modern_art.jpg/1280px-National_Gallery_of_modern_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "National Gallery of Modern Art, Mumbai",
+   "credit": "Photo: Balajijagadesh, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_modern_art.jpg"
+  },
+  "Victorian Gothic and Art Deco Ensembles of Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mumbai_03-2016_41_Bombay_High_Court.jpg/1280px-Mumbai_03-2016_41_Bombay_High_Court.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_41_Bombay_High_Court.jpg"
+  },
+  "Siddharth College of Arts, Science and Commerce": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Siddharth_College%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Siddharth College of Arts, Science and Commerce",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siddharth_College,_Mumbai.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Fortification",
+   "text": "A fortification (also called a fort, fortress, fastness, or stronghold) is a military construction designed for the defense of territories in warfare, and is used to establish rule in a region during peacetime. The term is derived from Latin fortis (\"strong\") and facere (\"to make\").\n\nFrom very early history to modern times, defensive walls have often been necessary for cities to survive in an ever-changing world of invasion and conquest. Some settlements in the Indus Valley Civilization were the first small cities to be fortified. In ancient Greece, large cyclopean stone walls fitted without mortar had been built in Mycenaean Greece, such as the ancient site of Mycenae. A Greek phrourion was a fortified collection of buildings used as a military garrison, and is the equivalent of the Roman castellum or fortress. These constructions mainly served the purpose of a watch tower, to guard certain roads, passes, and borders. Though smaller than a real fortress, they acted as a border guard rather than a real strongpoint to watch and maintain the border.\nThe art of setting out a military camp or constructing a fortification traditionally has been called \"castrametation\" since the time of the...",
+   "url": "https://en.wikipedia.org/wiki/Fortification"
+  },
+  {
+   "title": "Bombay High Court",
+   "text": "The Bombay High Court is the high court of the states of Maharashtra and Goa in India, and the union territory of Dadra and Nagar Haveli and Daman and Diu. It is seated primarily at Mumbai, also known as Bombay, and is one of the oldest high courts in India. The High Court has circuit benches at Nagpur, Aurangabad and Kolhapur in Maharashtra and at Porvorim in Goa.\nThe first Chief Justice, the Attorney General and the Solicitor General of independent India were from this court. Since India's independence, 27 judges from this court have been elevated to the Supreme Court and 10 have been appointed to the office of Chief Justice of India.\nThe court has original jurisdiction in addition to its appellate jurisdiction. Judgments issued by this court can be appealed only to the Supreme Court of India. The Bombay High Court has a sanctioned strength of 94 judges (71 permanent, 23 additional). The building is part of The Victorian and Art Deco Ensemble of Mumbai, which was added to the list of World Heritage Sites in 2018.",
+   "url": "https://en.wikipedia.org/wiki/Bombay_High_Court"
+  },
+  {
+   "title": "Bombay Stock Exchange",
+   "text": "BSE Limited, also known as the Bombay Stock Exchange (BSE), is an Indian stock exchange based in Mumbai. Established in 1875, it is the oldest stock exchange in Asia, and also the tenth oldest in the world.\nOn 3 February 2017, BSE Ltd. was listed on the National Stock Exchange (NSE). As of 2026, BSE ranks among the top ten largest publicly traded stock exchange operators globally by market capitalization.",
+   "url": "https://en.wikipedia.org/wiki/Bombay_Stock_Exchange"
+  },
+  {
+   "title": "Kala Ghoda",
+   "text": "Kala Ghoda (IPA:Kāḷā Ghōḍālit. 'Black Horse') is a crescent-shaped art district/neighborhood in Mumbai, India. It hosts several of the city's heritage buildings including museums, art galleries and educational institutions like the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, the Jehangir Art Gallery, the National Gallery of Modern Art, and The Arts Trust - Institute of Contemporary Indian Art.\nThe area hosts the Kala Ghoda Arts Festival annually in February. The area is sandwiched between Mumbai Port's docklands to the east, Regal Cinema to the south, Hutatma Chowk and Flora Fountain to the north and Oval Maidan to the west. The Bombay Stock Exchange is to its north east.",
+   "url": "https://en.wikipedia.org/wiki/Kala_Ghoda"
+  },
+  {
+   "title": "Dalal Street",
+   "text": "Dalal Street (Marathi: dalāl gallī), (Hindi: dalāl path) is the metonym for the financial markets of India, the Indian financial services industry of the country as a whole, or the actual financial district itself. It is located in the Financial District of Fort in Mumbai and is the address of the Bombay Stock Exchange and several other major financial institutions of the world. The Marathi word dalāl means \"a broker\", \"a go-between\".\n\nIn 2008, there was a proposal to rename the street after Nagarmal Saraf, a broker who worked at the BSE for 25 years.",
+   "url": "https://en.wikipedia.org/wiki/Dalal_Street"
+  },
+  {
+   "title": "Jehangir Art Gallery",
+   "text": "Jehangir Art Gallery is an art gallery in Mumbai (India). It was founded by Sir Cowasji Jehangir at the urging of K. K. Hebbar and Homi J. Bhabha. It was built in 1952. Managed by the Committee of Management, the entire cost of this mansion was donated by Cowasji Jehangir. This gallery is situated at Kala Ghoda, behind the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, in South Mumbai near the Gateway of India, and has four exhibition halls. The gallery was designed by G.M. Bhuta for G.M. Bhuta & Associates. The gallery closed for 11 months as a part of the COVID-19 lockdown in India and was partially re-opened on 16 February 2021. It has since been fully re-opened.",
+   "url": "https://en.wikipedia.org/wiki/Jehangir_Art_Gallery"
+  },
+  {
+   "title": "Cowasji Jehangir Hall",
+   "text": "Sir Cowasji Jehangir Public Hall is a museum of modern art and was part of the Institute of Science prior to 1996. The hall was built in 1911 by George Wittet and funded by Cowasji Jehangir. It is located in Colaba area of Mumbai, India.",
+   "url": "https://en.wikipedia.org/wiki/Cowasji_Jehangir_Hall"
+  },
+  {
+   "title": "David Sassoon Library",
+   "text": "The David Sassoon Library and Reading Room is a famous library and heritage structure in Mumbai, India. The idea for a library to be situated in the center of the city came from Albert Sassoon, son of the famous Baghdadi Jewish philanthropist and businessman of the Sino-Indian opium trade, David Sassoon.",
+   "url": "https://en.wikipedia.org/wiki/David_Sassoon_Library"
+  },
+  {
+   "title": "Knesset Eliyahoo Synagogue",
+   "text": "The Knesset Eliyahoo Synagogue (Hebrew: בית הכנסת אליהו, lit. 'Gathering of Elijah'), also Knesset Eliyahu and the Blue Synagogue, is a synagogue, located at 55, Dr. V.B. Gandhi Marg, in the Kala Ghoda neighborhood, Fort, in downtown Mumbai, in the state of Maharashtra, India. Completed in 1884, it is the second oldest Sephardic synagogue in Mumbai. The Taj Mahal Palace Hotel, and Oberoi Trident are nearby.\nThe synagogue was established by Jacob Elias Sassoon and the building is maintained by the Jacob Sassoon Trust. The building's significance is attributed to its Jewish traditions as well as Indian and English colonial influences. It was designed by the British architectural firm Gostling & Morris of Bombay. The basement part of the edifice is built in stone masonry and the superstructure is built in brick masonry. The exterior facade of the synagogue was painted turquoise, was returned to its original colour of white, with bright indigo boarders during a restoration process in 2018–2019. The sanctuary within the interior of the building is in western direction, towards Jerusalem.",
+   "url": "https://en.wikipedia.org/wiki/Knesset_Eliyahoo_Synagogue"
+  },
+  {
+   "title": "Great Western Building",
+   "text": "The Great Western Building is a building in Mumbai, the capital of Maharashtra, India. \nThe building was used for residence of the Governor of Bombay. William Hornby, a former governor who was instrumental in initiating the Hornby Vellard project which bunded the breach at Mahalaxmi, lived here for a few years of his term in office. It was the residence of the Admiral between 1764 and 1792\n\nLachlan Macquarie, who was later the Governor of New South Wales (1810-1821), lived at Admiralty House. Around 1800, it was purchased by the Government and transformed into the chief court of Bombay known as Supreme Court of Bombay. From 1899, it started functioning as Bombay High Court. In 1883, it was sold again and converted into a hotel known as the Great Western Hotel. Later a new five-storied wing was added in the early 1890s by renowned architect S. M. N. Chandabhoy. In time, the hotel closed, and the rooms have been divided and further subdivided for optimum rental.",
+   "url": "https://en.wikipedia.org/wiki/Great_Western_Building"
+  },
+  {
+   "title": "New India Assurance Building",
+   "text": "The New India Assurance Building is an Art Deco office building made of reinforced concrete and designed by Master, Sathe and Bhuta, with artistic designer N. G. Pansare. It was constructed in 1937 in Mumbai, India  for New India Assurance Co. Ltd., an Indian insurance company which was founded by Sir Dorabji Tata in 1919.\nThe building stands on Mahatma Gandhi Road in the Fort neighborhood of south Mumbai, close to Flora Fountain and other 1930s commercial office blocks in the historic business district. It has been noted in surveys of Mumbai's inter-war commercial architecture as a prominent landmark of the city's Art Deco business streets along Mahatma Gandhi Road and the adjoining D. N. Road–Sir Pherozeshah Mehta Road axis.\nThe New India Assurance Building is frequently cited as one of the key commercial examples within Mumbai's Victorian Gothic and Art Deco Ensembles, which were inscribed on the World Heritage List by UNESCO in 2018. Contemporary overviews of Indian Art Deco architecture describe the building as a representative Indo-Deco office block, noting its reinforced-concrete construction, vertical emphasis and sculptural programme as characteristic of Bombay's adaptation...",
+   "url": "https://en.wikipedia.org/wiki/New_India_Assurance_Building"
+  },
+  {
+   "title": "Siddharth College of Law, Mumbai",
+   "text": "Siddharth College of Law was founded in Mumbai in 1956. It is run by the People's Education Society which was formed by Dr. Babasaheb Ambedkar on 8 July 1945. The college is affiliated to the University of Mumbai.  The college was formed with a vision to spread legal education amongst all sections of society. The college is housed at the Anand Bhavan which has been declared as a heritage structure by the Heritage society of the MMRDA.",
+   "url": "https://en.wikipedia.org/wiki/Siddharth_College_of_Law,_Mumbai"
+  },
+  {
+   "title": "National Gallery of Modern Art, Mumbai",
+   "text": "National Gallery of Modern Art, Mumbai was opened to the public in 1996. It hosts various exhibitions and art collections of famous artists, sculptors and different civilizations. It is situated in the Cowasji Jehangir Hall, near Regal Cinema in Colaba.",
+   "url": "https://en.wikipedia.org/wiki/National_Gallery_of_Modern_Art,_Mumbai"
+  },
+  {
+   "title": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+   "text": "The Victorian Gothic and Art Deco Ensembles of Mumbai is a collection of 19th-century Victorian Revival public and 20th-century Mumbai Art Deco private buildings in the Fort precinct of Mumbai. This ensemble was declared a UNESCO World Heritage Site in 2018.\nThese buildings are set around the Oval Maidan, a large recreational ground that was once known as the Esplanade. The east of the Oval is flanked by the Victorian Gothic public buildings and the western side is flanked by the Art Deco buildings of Back bay Reclamation and Marine Drive. This nomination aims to safeguard a total of 94 buildings.\n\nThe 19th century Victorian Gothic buildings that lie to the east of the Oval are mainly the Bombay High Court, The University of Mumbai (Fort Campus) and The City Civil and Sessions Court (Housed in the Old Secretariat Building). This stretch also houses one of the landmarks of Mumbai, the Rajabai Clock Tower. The 20th century Art Deco buildings flank the western stretch of the Oval and consist mainly of privately owned residential buildings and the Eros Cinema among others.\nThis ensemble of Victorian Gothic and Art Deco buildings was added to the list of United Nations Educational, Scientific...",
+   "url": "https://en.wikipedia.org/wiki/Victorian_Gothic_and_Art_Deco_Ensembles_of_Mumbai"
+  },
+  {
+   "title": "Mughal Museum",
+   "text": "The Chhatrapati Shivaji Maharaj Museum, previously known as Mughal Museum, is a museum planned to be built in the city of Agra, India. The museum was announced by then-Chief Minister of Uttar Pradesh, Akhilesh Yadav in 2015, and construction began in 2017. As of September 2020, the museum is still under construction. In September 2020 Uttar Pradesh Chief Minister Yogi Adityanath renamed the Mughal Museum after the Maratha king Shivaji.",
+   "url": "https://en.wikipedia.org/wiki/Mughal_Museum"
+  },
+  {
+   "title": "Siddharth College of Arts, Science and Commerce",
+   "text": "Siddharth College of Arts, Science and Commerce is a college in Mumbai offering undergraduate and postgraduate courses in Arts, Science, and Commerce fields. The college is affiliated with the University of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Siddharth_College_of_Arts,_Science_and_Commerce"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Knesset Eliyahoo Synagogue",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 18.928108333333334,
+   "lon": 72.83256944444445
+  },
+  {
+   "name": "David Sassoon Library",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 18.927976,
+   "lon": 72.831105
+  },
+  {
+   "name": "Jehangir Art Gallery",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 18.9274559,
+   "lon": 72.831703
+  },
+  {
+   "name": "Dalal Street",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.929466666666666,
+   "lon": 72.83308888888888
+  },
+  {
+   "name": "Mughal Museum",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.9269,
+   "lon": 72.8327
+  },
+  {
+   "name": "Great Western Building",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.928686,
+   "lon": 72.833739
+  },
+  {
+   "name": "New India Assurance Building",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 18.9304161,
+   "lon": 72.8316503
+  },
+  {
+   "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 18.929444444444446,
+   "lon": 72.83
+  },
+  {
+   "name": "Bombay Stock Exchange",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 18.9298,
+   "lon": 72.8334
+  },
+  {
+   "name": "Kala Ghoda",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 18.9307,
+   "lon": 72.8331
+  },
+  {
+   "name": "Siddharth College of Law, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 18.930972222222223,
+   "lon": 72.83061111111111
+  },
+  {
+   "name": "Siddharth College of Arts, Science and Commerce",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 18.930972222222223,
+   "lon": 72.83061111111111
+  },
+  {
+   "name": "National Gallery of Modern Art, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 18.9258,
+   "lon": 72.8313
+  },
+  {
+   "name": "Bombay High Court",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 18.931183333333333,
+   "lon": 72.8304611111111
+  },
+  {
+   "name": "Cowasji Jehangir Hall",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 18.9285838,
+   "lon": 72.8284582
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

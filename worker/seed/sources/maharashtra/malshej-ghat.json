@@ -1,0 +1,22 @@
+{
+ "query": "Malshej Ghat",
+ "found": "Malshej Ghat (pinned)",
+ "lat": 19.3355,
+ "lon": 73.772,
+ "fetchedAt": "2026-10-12T19:13:33.241Z",
+ "locality": {
+  "id": "thitbi-thane-maharashtra",
+  "name": "Thitbi",
+  "area": "Murbad Subdistrict, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}
