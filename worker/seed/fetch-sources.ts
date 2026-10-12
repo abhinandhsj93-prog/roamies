@@ -24,7 +24,8 @@ for (const line of list.split('\n')) {
 }
 if (region === 'kerala') {
   for (const f of readdirSync(new URL('written/', here)).filter((f) => f.endsWith('.json'))) {
-    queries.add(JSON.parse(readFileSync(new URL(`written/${f}`, here), 'utf8')).query);
+    const w = JSON.parse(readFileSync(new URL(`written/${f}`, here), 'utf8'));
+    if ((w.region ?? 'kerala') === 'kerala') queries.add(w.query);
   }
 }
 
