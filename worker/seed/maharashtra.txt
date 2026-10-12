@@ -7,7 +7,7 @@ Fort, Mumbai
 Marine Drive, Mumbai
 Girgaon Chowpatty, Mumbai
 Malabar Hill, Mumbai
-Kala Ghoda, Mumbai
+Kala Ghoda, Mumbai @ 18.9285,72.8318
 Crawford Market, Mumbai
 Byculla, Mumbai
 Worli, Mumbai
@@ -46,7 +46,7 @@ Bhimashankar
 Malshej Ghat @ 19.3355,73.7720
 Igatpuri
 Bhandardara
-Amboli
+Amboli @ 15.9580,73.9990
 # Pune region
 Shaniwar Wada, Pune
 Koregaon Park, Pune
@@ -69,5 +69,5 @@ Lonar
 Nanded @ 19.1517,77.3063
 Nagpur
 Tadoba
-Chikhaldara
+Chikhaldara @ 21.4000,77.3270
 Sevagram

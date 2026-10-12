@@ -1,0 +1,77 @@
+{
+ "query": "Harihareshwar",
+ "region": "maharashtra",
+ "name": "Harihareshwar",
+ "draft": {
+  "briefing": "Hey, you're in Harihareshwar! Locals call this town Dev-ghar, the house of God, and Dakshin Kashi, because its temple of Lord Harihareshwar is said to have been blessed by Lord Shiva.",
+  "hungryLine": "No named eateries in my notes, but this is Maharashtra, so look for kande bhaje, especially in the rains, or a plate of pohe with tea.",
+  "moodReplies": {
+   "show-me-around": "The Harihareshwar Temple is towards the north of town, with the smaller Kalbhairav temple right beside it, and there's a beach on either side.",
+   "somewhere-to-chill": "Pick one of the two beaches, north or south of the temple, and watch the Savitri river meet the Arabian Sea.",
+   "surprise-me": "The town is ringed by three hills, Harihareshwar, Harshinachal and Pushpadri."
+  },
+  "seeFirst": {
+   "caption": "Around town",
+   "spots": [
+    {
+     "name": "Harihareshwar Temple",
+     "detail": "North of town · The temple said to be blessed by Lord Shiva",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kalbhairav temple",
+     "detail": "In the temple complex · The smaller of the two adjacent temples",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Harihareshwar Temple",
+    "title": "The house of God",
+    "body": "The temple of Lord Harihareshwar is said to have been blessed by Lord Shiva. That's why the town is called Dev-ghar, and also Dakshin Kashi."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Know what the MTDC resort is like.",
+    "body": "The MTDC resort on the south beach has a great location, but service and food at government-run resorts aren't the best."
+   },
+   {
+    "icon": "tag",
+    "title": "Make it a beach trio.",
+    "body": "Harihareshwar pairs with Shrivardhan and Diveagar for a weekend, about 190 km from Pune and 210 km from Mumbai."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Dakshin Kashi",
+    "body": "The temple of Lord Harihareshwar, said to be blessed by Shiva, made the town a pilgrimage centre known as the house of God.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Janjira days",
+    "title": "A festival for Kalbhairav",
+    "body": "Yashawant Balawant Nagle, a Sardar of the Queen of Janjira who administered the village, began the Kalbhairav Jayanti Utsav and gave much of his property to run the temple.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrims and beach-goers",
+    "body": "Harihareshwar is both a major pilgrimage centre and a beach resort, with Shrivardhan and Diveagar making it a weekend favourite from Pune and Mumbai.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

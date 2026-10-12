@@ -1,0 +1,89 @@
+{
+  "query": "Worli, Mumbai",
+  "region": "maharashtra",
+  "name": "Worli",
+  "draft": {
+    "briefing": "Hey, you're in Worli! This was once a separate island, one of the Seven Islands of Bombay, and a Koli fishing village before the city swallowed it up. Today it's one of Mumbai's four peninsulas, tied to Bandra by the Bandra-Worli Sea Link.",
+    "hungryLine": "Worli started out as a Koli fishing village, so think seafood, and the podium at Three Sixty West next door has restaurants if you want something fancier.",
+    "moodReplies": {
+      "show-me-around": "The red and white Mumbai Television Tower is a 9 min walk. Prabhadevi Temple is 17 minutes away, and Siddhivinayak Temple is about 23 minutes on foot.",
+      "somewhere-to-chill": "Wander over to Siddhivinayak Temple in the evening, when its dome lights up in changing colours.",
+      "surprise-me": "The Mumbai Television Tower stands 300 metres tall, the fourth-tallest man-made structure in the Indian subcontinent."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Mumbai Television Tower",
+          "detail": "9 min walk · The 300 m Doordarshan tower you can see from most of South Mumbai",
+          "status": {"text": "View from outside", "tone": "neutral"},
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Prabhadevi Temple",
+          "detail": "17 min walk · Built in 1715, with an idol of Prabhavati Devi from the 12th century",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Siddhivinayak Temple",
+          "detail": "23 min walk · One of Mumbai's most popular temples, with a gold-plated inner roof",
+          "status": {"text": "Lovely in the evening", "tone": "open"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Siddhivinayak Temple",
+        "title": "The wish-granting Ganesha",
+        "body": "Siddhi Vinayak means the Ganesha who grants your wish, and thousands of devotees come every day. The sanctum doors are carved with the eight Ashtavinayaka forms of Ganesha."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Ride the Aqua Line.",
+        "body": "Worli metro station on Mumbai Metro Line 3 is a 6 min walk, and Siddhivinayak station is near the temple."
+      },
+      {
+        "icon": "sun",
+        "title": "See Siddhivinayak after dark.",
+        "body": "The temple dome is lit up in different colours in the evenings, changing every few hours."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "A Koli island",
+        "body": "Worli was a fishing village of the Koli community, on its own island, one of the Seven Islands of Bombay. Old spellings include Warli, Worlee, Varli and Varel.",
+        "illustration": "flood"
+      },
+      {
+        "era": "1661",
+        "title": "Handed to England",
+        "body": "In 1661 the Portuguese ceded the Seven Islands, Worli among them, to England. In the 19th century the islands were joined up into one.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "1700s to 1800s",
+        "title": "Temples next door",
+        "body": "Prabhadevi Temple was built in 1715, giving the neighbourhood its name. In 1801 Laxman Vithu and Deubai Patil built the Siddhivinayak Temple.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1972",
+        "title": "A tower on the skyline",
+        "body": "The Mumbai Television Tower topped out in 1972. At 300 metres, it's still visible from most parts of South Mumbai.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Today",
+        "title": "Towers and a metro",
+        "body": "Skyscrapers like World One, built on the site of the old Shrinivas Mill, now rise over the area. In May 2025 Worli got its own underground metro station on the Aqua Line.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": []
+  }
+}

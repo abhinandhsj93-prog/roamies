@@ -1,0 +1,83 @@
+{
+  "query": "Trimbakeshwar",
+  "region": "maharashtra",
+  "name": "Trimbakeshwar",
+  "draft": {
+    "briefing": "Hey, you're in Trimbakeshwar! The Shiva temple here is one of the twelve Jyotirlingas, and the sacred Godavari River begins right nearby, at the Kusavarta kunda in the temple grounds. Families come here to look up their ancestors in the Hindu genealogy registers kept in town.",
+    "hungryLine": "Fuel up the Maharashtrian way, with kanda pohe and tea, a bowl of misal pav, or a vada pav with red garlic chutney.",
+    "moodReplies": {
+      "show-me-around": "Trimbakeshwar Temple is a 1 min walk. Trymbakgad, also called Brahmagiri Fort, is on the hill right next to the temple.",
+      "somewhere-to-chill": "Sit by the Kusavarta kunda inside the temple grounds, where the Godavari is said to begin.",
+      "surprise-me": "The name Trimbak comes from the Sanskrit Tryambaka, meaning three eyes, a name for Shiva and his third eye."
+    },
+    "seeFirst": {
+      "caption": "Close to the temple",
+      "spots": [
+        {
+          "name": "Trimbakeshwar Temple",
+          "detail": "1 min walk · One of the twelve Jyotirlingas, with the Godavari's source in its grounds",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Trymbakgad",
+          "detail": "On the hill next to the temple · Also called Brahmagiri Fort, an important fort of Nashik district",
+          "status": {
+            "text": "Start early",
+            "tone": "open"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Trimbak",
+        "title": "The true Kumbh Mela site",
+        "body": "The Simhastha Kumbh Mela was first held at Trimbak, until the Vaishnavites' bathing was moved to Ramkund in Nashik. Shaivites still say Trimbak is the proper place for the Mela."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Bring your family details.",
+        "body": "Hindu genealogy registers are kept at Trimbakeshwar, so knowing your family and village names helps."
+      },
+      {
+        "icon": "tag",
+        "title": "Find the kunda.",
+        "body": "The Kusavarta kunda in the temple grounds is the source of the Godavari, look for the bust of Sardar Fadnavis and his wife on its edge."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "Source of the Godavari",
+        "body": "Trimbak sits about 720 metres up in the Western Ghats, with Brahmagiri Hill to the west. The sacred Godavari River begins near the town.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Mughal times",
+        "title": "Destroyed and rebuilt",
+        "body": "An earlier temple was destroyed by the Mughal ruler Aurangzeb. The temple you see today was built by Peshwa Balaji Baji Rao.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1789",
+        "title": "A clash at the Mela",
+        "body": "In 1789 Vaishnavites and Shaivites clashed over who would bathe first at the Kumbh Mela. The Maratha Peshwa moved the Vaishnavites' bathing place to Ramkund in Nashik.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Today",
+        "title": "Pilgrims from everywhere",
+        "body": "Pilgrims travel from all over India for rituals at Trimbakeshwar. The Kusavarta kunda, built by Sardar Raosaheb Parnerkar of Indore State, still marks the Godavari's source.",
+        "illustration": "palace"
+      }
+    ],
+    "food": []
+  }
+}

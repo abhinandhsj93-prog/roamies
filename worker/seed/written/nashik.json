@@ -1,0 +1,74 @@
+{
+  "query": "Nashik",
+  "region": "maharashtra",
+  "name": "Nashik",
+  "draft": {
+    "briefing": "Hey, you're in Nashik! According to the Ramayana, this is where Lakshmana cut off the demoness Surpanakha's nose on the banks of the Godavari, and it's one of the cities that hosts the Kumbh Mela every 12 years.",
+    "hungryLine": "You're right in Panchavati, so sit down to a traditional thali at Pangat Thali, and don't leave town without some famous Kondaji Chivda.",
+    "moodReplies": {
+      "show-me-around": "The Kalaram Temple is a 12 minute walk, and Ramkunda on the Ganga Ghat and the Sita Gufaa caves are right here in Panchavati too.",
+      "somewhere-to-chill": "Sit by the river at Goda Ghat and watch the Godavari go by.",
+      "surprise-me": "Nashik is also called the Wine Capital of India."
+    },
+    "seeFirst": {
+      "caption": "Around Panchavati",
+      "spots": [
+        {
+          "name": "Kalaram Temple",
+          "detail": "12 min walk · Named for its black statue of Rama, with Sita and Lakshmana beside him",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Ganga Ghat",
+          "detail": "In Panchavati · Ramkunda, the holy bathing spot on the Godavari",
+          "status": {"text": "Best early morning", "tone": "open"},
+          "illustration": "flood"
+        },
+        {
+          "name": "Sita Gufaa",
+          "detail": "In Panchavati · Caves where Rama and Sita are said to have worshipped Shiva",
+          "status": {"text": "Can get crowded", "tone": "warning"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {"where": "Sita Gufaa", "title": "Where Sita was taken", "body": "Devotees believe Rama and Sita worshipped Shiva in these caves during their exile, and the shivlinga is still there. It's also said that Ravana kidnapped Sita from this very spot."},
+      {"where": "Tapovan", "title": "Surpanakha's nose", "body": "Locals say Tapovan is where Surpanakha's nose fell, back when this was part of the sacred Dandakaranya forest. Try the tasty guavas while you're there."}
+    ],
+    "tips": [
+      {"icon": "sun", "title": "Come in the monsoon for waterfalls.", "body": "Anjaneri Parvat, near Trimbakeshwar, is known for its waterfalls in the rainy season."},
+      {"icon": "tag", "title": "Bring home some chivda.", "body": "Kondaji Chivda is the snack Nashik is famous for."}
+    ],
+    "story": [
+      {"era": "The yugas", "title": "A city of many names", "body": "Hindu tradition says Nashik was Padmanagar, then Trikantak, then Janasthana, and finally Navashikh or Nashik. Panchavati is named for its five sacred banyan trees.", "illustration": "palace"},
+      {"era": "2nd century BCE", "title": "Caves on the hill", "body": "Buddhist and Jain monks carved the Nashik Caves, also called Pandav Leni, into a hilltop outside the city. The climb still rewards you with views over Nashik.", "illustration": "palace"},
+      {"era": "Mughal period", "title": "Gulshanabad", "body": "Under the Mughals the city was known as Gulshanabad. It stayed a major centre on the Godavari.", "illustration": "palace"},
+      {"era": "Today", "title": "Pilgrims and vineyards", "body": "Nashik is now Maharashtra's fourth largest city and the Wine Capital of India. Every 12 years, the Kumbh Mela brings huge crowds of pilgrims.", "illustration": "pepper"}
+    ],
+    "food": [
+      {
+        "name": "Pangat Thali",
+        "detail": "Traditional thali inside Hotel Panchavati Yatri, a local favourite",
+        "status": {"text": "On MG Road, Panchavati", "tone": "neutral"},
+        "tags": ["vegetarian"],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Sukh Sagar",
+        "detail": "Popular vegetarian restaurant in the same hotel",
+        "status": {"text": "Open 24 hours", "tone": "open"},
+        "tags": ["vegetarian"],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Chetana dining hall",
+        "detail": "Traditional vegetarian thali meals near the old bus stand",
+        "status": {"text": "Lunch and dinner", "tone": "neutral"},
+        "tags": ["vegetarian"],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

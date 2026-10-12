@@ -16,34 +16,76 @@
         {
           "name": "Ajanta Caves",
           "detail": "2 min walk · Painted monasteries and worship halls cut straight into the rock",
-          "status": {"text": "Check timings locally", "tone": "neutral"},
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
           "illustration": "palace"
         },
         {
           "name": "Ghatotkach fort",
           "detail": "Near Soegaon · One of the old historical spots around the Ajanta hills",
-          "status": {"text": "Ask locally for the route", "tone": "neutral"},
+          "status": {
+            "text": "Ask locally for the route",
+            "tone": "neutral"
+          },
           "illustration": "palace"
         },
         {
           "name": "Vetalvadi dam",
           "detail": "Near Soegaon · Scenery in the Soegaon area at the base of the Ajanta hills",
-          "status": {"text": "Best in daylight", "tone": "neutral"},
-          "illustration": "flood"
+          "status": {
+            "text": "Best in daylight",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
         }
       ]
     },
     "legends": [],
     "tips": [
-      {"icon": "tag", "title": "Read the gestures.", "body": "The paintings tell their stories through gesture, pose and form, so take your time on the faces and hands."},
-      {"icon": "sun", "title": "Plan around February.", "body": "The Ellora Ajanta Festival of classical dance and music usually happens in February, with dates that vary by year."}
+      {
+        "icon": "tag",
+        "title": "Read the gestures.",
+        "body": "The paintings tell their stories through gesture, pose and form, so take your time on the faces and hands."
+      },
+      {
+        "icon": "sun",
+        "title": "Plan around February.",
+        "body": "The Ellora Ajanta Festival of classical dance and music usually happens in February, with dates that vary by year."
+      }
     ],
     "story": [
-      {"era": "2nd century BCE", "title": "The first caves", "body": "The first phase of carving started around the second century BCE. Monks cut monasteries and worship halls into a 75 m wall of rock.", "illustration": "palace"},
-      {"era": "400s CE", "title": "A second burst", "body": "Older accounts put the second phase between 400 and 650 CE. Later scholarship says it happened in a short window, around 460 to 480 CE.", "illustration": "palace"},
-      {"era": "Monsoon seasons", "title": "A rainy-season retreat", "body": "Texts suggest monks stayed here through the monsoon. Merchants and pilgrims also stopped to rest along the way.", "illustration": "flood"},
-      {"era": "1953", "title": "Soegaon gets its taluka", "body": "Soegaon, the town at the base of the Ajanta hills, became the headquarters of a new tahsil in 1953. Villages from Sillod and Kannad talukas were moved into it.", "illustration": "warehouses"},
-      {"era": "Today", "title": "World Heritage", "body": "Ajanta is now a UNESCO World Heritage Site. Its paintings and sculptures are seen as masterpieces of Buddhist religious art.", "illustration": "palace"}
+      {
+        "era": "2nd century BCE",
+        "title": "The first caves",
+        "body": "The first phase of carving started around the second century BCE. Monks cut monasteries and worship halls into a 75 m wall of rock.",
+        "illustration": "palace"
+      },
+      {
+        "era": "400s CE",
+        "title": "A second burst",
+        "body": "Older accounts put the second phase between 400 and 650 CE. Later scholarship says it happened in a short window, around 460 to 480 CE.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Monsoon seasons",
+        "title": "A rainy-season retreat",
+        "body": "Texts suggest monks stayed here through the monsoon. Merchants and pilgrims also stopped to rest along the way.",
+        "illustration": "flood"
+      },
+      {
+        "era": "1953",
+        "title": "Soegaon gets its taluka",
+        "body": "Soegaon, the town at the base of the Ajanta hills, became the headquarters of a new tahsil in 1953. Villages from Sillod and Kannad talukas were moved into it.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Today",
+        "title": "World Heritage",
+        "body": "Ajanta is now a UNESCO World Heritage Site. Its paintings and sculptures are seen as masterpieces of Buddhist religious art.",
+        "illustration": "palace"
+      }
     ],
     "food": []
   }

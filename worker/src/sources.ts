@@ -191,13 +191,21 @@ export async function wikipediaNearby(lat: number, lon: number, locality: Locali
 // the sights and named places to eat that travellers care about.
 export function travelSections(text: string, maxChars = 9000) {
   const parts = text.split(/\n(?===+ [^=]+ =+)/);
+  // Group subsections under their top-level section, then give each kept section a fair share
+  // of the budget, so a long See list can't push Eat and Drink out.
+  const sections: string[][] = [[]];
   let keeping = true; // the intro
-  const keep = parts.filter((part) => {
+  for (const part of parts) {
     const top = part.match(/^== ([^=]+?) ==(?!=)/); // a top-level section; deeper ones follow their parent
-    if (top) keeping = /^(See|Do|Eat|Drink)\b/i.test(top[1]);
-    return keeping;
-  });
-  return keep.join('\n').slice(0, maxChars);
+    if (top) {
+      keeping = /^(See|Do|Eat|Drink)\b/i.test(top[1]);
+      if (keeping) sections.push([]);
+    }
+    if (keeping) sections[sections.length - 1].push(part);
+  }
+  const kept = sections.filter((s) => s.length).map((s) => s.join('\n'));
+  const share = Math.floor(maxChars / Math.max(1, kept.length));
+  return kept.map((s) => s.slice(0, share)).join('\n');
 }
 
 // The neighbourhood's own Wikivoyage article, else the city's (Fort Kochi is covered under Kochi).

@@ -1,0 +1,92 @@
+{
+ "query": "Juhu, Mumbai",
+ "region": "maharashtra",
+ "name": "Juhu",
+ "draft": {
+  "briefing": "Hey, you're in Juhu! On 15 October 1932, J. R. D. Tata landed his little Puss Moth at Juhu carrying mail from Karachi, starting India's first scheduled commercial mail service.",
+  "hungryLine": "My notes don't name a place to eat in Juhu, but Mumbai's beaches fill up with food stalls in the evenings.",
+  "moodReplies": {
+   "show-me-around": "St. Joseph's Church is 2 minutes away, Vile Parle is about 13 minutes on foot, and Juhu Aerodrome is around 20 minutes away.",
+   "somewhere-to-chill": "Head to Juhu Beach in the evening and watch how locals spend their Sunday, with food and game stalls everywhere.",
+   "surprise-me": "In 1972 a Japan Air Lines DC-8 landed at Juhu Aerodrome instead of the much larger Santacruz airport and overran the runway. All 122 people on board survived."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "St. Joseph's Church, Juhu",
+     "detail": "2 min walk · Juhu's neighbourhood Catholic church",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Vile Parle",
+     "detail": "13 min walk · The suburb where the first Parle factory stood",
+     "status": {
+      "text": "Busy streets",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Juhu Aerodrome",
+     "detail": "20 min walk · One of India's first civil airports, from 1928",
+     "status": {
+      "text": "View from outside",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Stay out of the water in the rains.",
+    "body": "The currents don't look strong, but many people drown off Mumbai's beaches, especially in the monsoon."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress for a city beach.",
+    "body": "Mumbai beaches aren't the place for swimsuits, so keep it casual and covered."
+   }
+  ],
+  "story": [
+   {
+    "era": "1100s",
+    "title": "Captured by a general",
+    "body": "The Marathi text Mahikavatichi Bakhar says Juhu was captured by king Pratap Bimb's general Balkrishnrao Somvanshi in the 12th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1800s",
+    "title": "A sandbar island",
+    "body": "In the 19th century Juhu was an island, a long narrow sand bar rising just a metre or two above the sea.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1932",
+    "title": "The mail flight",
+    "body": "J. R. D. Tata landed at Juhu Aerodrome with a load of mail, launching India's first scheduled commercial mail service.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1948",
+    "title": "Airport moves east",
+    "body": "Commercial flights moved to the bigger Santa Cruz airport, built 2 km east during the war. Juhu now handles Mumbai's helicopters.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Beach of the stars",
+    "body": "Juhu is one of the city's most affluent areas and home to many Bollywood celebrities.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

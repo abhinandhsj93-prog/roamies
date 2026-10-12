@@ -1,0 +1,86 @@
+{
+ "query": "Karjat",
+ "region": "maharashtra",
+ "name": "Karjat",
+ "draft": {
+  "briefing": "Hey, you're in Karjat! Sitting about 100 km from both Mumbai and Pune on the Ulhas River, this town is one of the starting points for treks into the Western Ghats, including the climb to Rajmachi.",
+  "hungryLine": "Karjat keeps it simple, the small eateries around town and at the station will sort you out.",
+  "moodReplies": {
+   "show-me-around": "Take a rickshaw from Karjat Bridge to Kondivde or Khandpe village, the base of the Rajmachi trek.",
+   "somewhere-to-chill": "Visit the farm fields around town, farming is the main way of life here and you can learn about the local culture.",
+   "surprise-me": "At Kondhane Caves a big waterfall pours over the caves, and you can watch it from inside."
+  },
+  "seeFirst": {
+   "caption": "Short drives and treks",
+   "spots": [
+    {
+     "name": "Khandpe",
+     "detail": "Rickshaw from Karjat Bridge · The base village for the Rajmachi trek",
+     "status": {
+      "text": "Start early",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kondhane Caves",
+     "detail": "On the Rajmachi trail · Caves behind a curtain of waterfall",
+     "status": {
+      "text": "Best in the rains",
+      "tone": "open"
+     },
+     "illustration": "flood"
+    },
+    {
+     "name": "Rajmachi",
+     "detail": "7 km climb from Khandpe · Base for the Manaranjan and Srivardhan forts",
+     "status": {
+      "text": "About 2.5 hours up",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in the rainy season.",
+    "body": "That's when Karjat's waterfalls are at their best."
+   },
+   {
+    "icon": "tag",
+    "title": "Take a rickshaw to the trailhead.",
+    "body": "From Karjat Bridge, ride to Kondivde, then it's a 15 minute walk to Khandpe."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Forts on the ridge",
+    "body": "Above Rajmachi village stand two forts, Manaranjan (also called Manoranjan) and Srivardhan, with a lake and a temple.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Always",
+    "title": "A farming town",
+    "body": "Farming is a major occupation around Karjat, with green plains rising into hilly terrain.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2011",
+    "title": "A growing town",
+    "body": "The 2011 census counted 29,663 people in Karjat, with literacy above the state average.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Gateway to the Ghats",
+    "body": "Karjat is part of the Mumbai Metropolitan Region, run by a Municipal Council, and a favourite starting point for trekkers.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

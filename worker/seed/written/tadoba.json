@@ -1,0 +1,68 @@
+{
+  "query": "Tadoba",
+  "region": "maharashtra",
+  "name": "Tadoba",
+  "draft": {
+    "briefing": "Hey, you're in Tadoba! The reserve is named after Tadoba, or Taru, a god worshipped by the tribal people of these forests, and the Andhari river winds right through it. Together, Tadoba National Park and Andhari Wildlife Sanctuary make up the Tadoba Andhari Tiger Reserve.",
+    "hungryLine": "I don't have a named place to eat around the reserve, so stock up on water and snacks before you head into the forest.",
+    "moodReplies": {
+      "show-me-around": "The Tadoba Andhari Tiger Reserve is all around you, with over 577 sq km of reserved forest. Look out for the shrine to Taru under a big tree by Tadoba Lake.",
+      "somewhere-to-chill": "Spend some quiet time by the banks of Tadoba Lake, where the old shrine to Taru sits beneath a large tree.",
+      "surprise-me": "Hunting was banned in these forests back in 1935, two decades before the national park was even declared."
+    },
+    "seeFirst": {
+      "caption": "Right here",
+      "spots": [
+        {
+          "name": "Tadoba Andhari Tiger Reserve",
+          "detail": "All around you · Tadoba National Park and Andhari Wildlife Sanctuary in one reserve",
+          "status": {
+            "text": "Follow reserve rules",
+            "tone": "neutral"
+          },
+          "illustration": "pepper"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Tadoba Lake",
+        "title": "Taru and the tiger",
+        "body": "Legend says Taru was a village chief who was killed in an encounter with a tiger. He was deified, and his shrine now sits beneath a large tree on the banks of Tadoba Lake."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Know the two parts.",
+        "body": "The reserve joins Tadoba National Park with Andhari Wildlife Sanctuary, which is named after the Andhari river."
+      },
+      {
+        "icon": "tag",
+        "title": "Visit the Taru shrine.",
+        "body": "The shrine to Taru, the deified village chief, is under a large tree on the banks of Tadoba Lake."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "Gond forests",
+        "body": "The Gondi people once ruled these forests near the Chimur hills. The tribal people here worshipped a god called Tadoba or Taru.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "1935 to 1955",
+        "title": "From hunting ground to park",
+        "body": "Hunting in these forests was banned in 1935. Two decades later, in 1955, 116.54 sq km of the forest was declared a national park.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "1986 to 1995",
+        "title": "Sanctuary and reserve",
+        "body": "Andhari Wildlife Sanctuary was created in the next door forests in 1986. In 1995 the park and the sanctuary were joined to form the tiger reserve you're in now.",
+        "illustration": "pepper"
+      }
+    ],
+    "food": []
+  }
+}

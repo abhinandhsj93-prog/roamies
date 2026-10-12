@@ -16,55 +16,105 @@
         {
           "name": "Wilson dam",
           "detail": "Short drive · Built in 1910, with Umbrella falls just below",
-          "status": {"text": "Falls run in monsoon", "tone": "neutral"},
-          "illustration": "flood"
+          "status": {
+            "text": "Falls run in monsoon",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
         },
         {
           "name": "Randha falls",
           "detail": "10 km from Shendi Village · Water drops a full 45 m",
-          "status": {"text": "Best in daylight", "tone": "neutral"},
-          "illustration": "flood"
+          "status": {
+            "text": "Best in daylight",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
         },
         {
           "name": "Amruteshwar temple",
           "detail": "17 km away · An intricately carved 9th-century Shiva temple in Ratanwadi",
-          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
           "illustration": "palace"
         }
       ]
     },
     "legends": [
-      {"where": "Ratangad fort", "title": "Shivaji's favourite", "body": "Ratangad, above the town, is said to have been Chhatrapati Shivaji's favourite fort. Today it's a trekkers' delight."}
+      {
+        "where": "Ratangad fort",
+        "title": "Shivaji's favourite",
+        "body": "Ratangad, above the town, is said to have been Chhatrapati Shivaji's favourite fort. Today it's a trekkers' delight."
+      }
     ],
     "tips": [
-      {"icon": "sun", "title": "Come in the monsoon for the falls.", "body": "Umbrella falls only shows up in the monsoon or when the dam gates are opened."},
-      {"icon": "tag", "title": "Order your thali ahead.", "body": "Off-peak, Hotel Kaka wants thali orders by phone in advance, and you might wait up to an hour."}
+      {
+        "icon": "sun",
+        "title": "Come in the monsoon for the falls.",
+        "body": "Umbrella falls only shows up in the monsoon or when the dam gates are opened."
+      },
+      {
+        "icon": "tag",
+        "title": "Order your thali ahead.",
+        "body": "Off-peak, Hotel Kaka wants thali orders by phone in advance, and you might wait up to an hour."
+      }
     ],
     "story": [
-      {"era": "9th century", "title": "Shilahara stonework", "body": "Rulers of the Shilahara dynasty built the carved Amruteshwar temple in Ratanwadi. It's one of twelve Shiva temples built by King Jhanjha.", "illustration": "palace"},
-      {"era": "Maratha era", "title": "Forts on the hills", "body": "Ratangad and Harishchandragad forts stand above the town. Ratangad is remembered as Shivaji's favourite fort.", "illustration": "palace"},
-      {"era": "1910", "title": "Wilson dam", "body": "Wilson dam went up on the Pravara river in 1910. Arthur Lake and the Umbrella falls are part of what it created.", "illustration": "flood"},
-      {"era": "Today", "title": "Holiday village", "body": "Bhandardara is now a holiday resort village about 185 km from Mumbai and 73 km from Nashik. People come for boating, birdwatching, trekking and pilgrimage.", "illustration": "warehouses"}
+      {
+        "era": "9th century",
+        "title": "Shilahara stonework",
+        "body": "Rulers of the Shilahara dynasty built the carved Amruteshwar temple in Ratanwadi. It's one of twelve Shiva temples built by King Jhanjha.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Maratha era",
+        "title": "Forts on the hills",
+        "body": "Ratangad and Harishchandragad forts stand above the town. Ratangad is remembered as Shivaji's favourite fort.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1910",
+        "title": "Wilson dam",
+        "body": "Wilson dam went up on the Pravara river in 1910. Arthur Lake and the Umbrella falls are part of what it created.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Today",
+        "title": "Holiday village",
+        "body": "Bhandardara is now a holiday resort village about 185 km from Mumbai and 73 km from Nashik. People come for boating, birdwatching, trekking and pilgrimage.",
+        "illustration": "warehouses"
+      }
     ],
     "food": [
       {
         "name": "Hotel Vaibhav",
         "detail": "Close to the MTDC resort, popular with tourists for typical local dishes",
-        "status": {"text": "Check timings locally", "tone": "neutral"},
+        "status": {
+          "text": "Check timings locally",
+          "tone": "neutral"
+        },
         "tags": [],
         "illustration": "warehouses"
       },
       {
         "name": "Hotel Yashanjali",
         "detail": "Inside the MTDC resort, veg and non-veg food with local flavour and purified drinking water",
-        "status": {"text": "Safe drinking water", "tone": "open"},
+        "status": {
+          "text": "Safe drinking water",
+          "tone": "open"
+        },
         "tags": [],
         "illustration": "warehouses"
       },
       {
         "name": "Hotel Kaka",
         "detail": "In the market area, the cleanest spot in town, serving only Gujarati thali",
-        "status": {"text": "Order ahead off-peak", "tone": "warning"},
+        "status": {
+          "text": "Order ahead off-peak",
+          "tone": "warning"
+        },
         "tags": [],
         "illustration": "warehouses"
       }
