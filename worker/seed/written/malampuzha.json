@@ -1,0 +1,115 @@
+{
+ "query": "Malampuzha Dam, Palakkad",
+ "draft": {
+  "briefing": "Hey, you're at Malampuzha! The dam here was finished in 1955, and its gardens became one of Kerala's favourite day trips. Look for the giant Yakshi sculpture, a famous piece of modern art.",
+  "hungryLine": "Food here is snacky: ice cream, fried bites and tea around the gardens.",
+  "moodReplies": {
+   "show-me-around": "Walk the gardens, see the Yakshi sculpture, then ride the ropeway over the park.",
+   "somewhere-to-chill": "Sit by the reservoir in the evening as the garden lights come on.",
+   "surprise-me": "The Yakshi, a reclining nude woman, caused a storm when Kanayi Kunhiraman made it in 1969."
+  },
+  "seeFirst": {
+   "caption": "Around the dam",
+   "spots": [
+    {
+     "name": "Malampuzha Gardens",
+     "detail": "In front of you · Lawns and fountains",
+     "status": {
+      "text": "Lights in the evening",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Yakshi sculpture",
+     "detail": "In the gardens · Kanayi Kunhiraman's famous work",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Palakkad Fort",
+     "detail": "20 min drive · Tipu Sultan's fort",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Yakshi",
+    "title": "The sculpture that shocked Kerala",
+    "body": "Kanayi Kunhiraman made the Yakshi in 1969. People argued about her for years, and now she's a landmark."
+   },
+   {
+    "where": "Palakkad Fort",
+    "title": "Built for Hyder Ali",
+    "body": "The fort in town was built in 1766 for Hyder Ali of Mysore, Tipu Sultan's father."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come late afternoon.",
+    "body": "The gardens are lit up in the evening."
+   },
+   {
+    "icon": "tag",
+    "title": "Weekends are busy.",
+    "body": "Go on a weekday if you can."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "The Palakkad Gap",
+    "body": "Palakkad sits in a gap in the Western Ghats, the easiest way into Kerala from Tamil Nadu.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1766",
+    "title": "A fort",
+    "body": "Hyder Ali built Palakkad Fort to control the gap.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1955",
+    "title": "The dam",
+    "body": "The Malampuzha dam was finished, bringing water to Palakkad's rice fields.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1969",
+    "title": "The Yakshi",
+    "body": "Kanayi Kunhiraman's Yakshi gave the gardens a famous, and controversial, artwork.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Gardens, Yakshi, ropeway, then the fort. Tell me what you thought of her.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Snack stalls in the gardens",
+    "detail": "Ice cream and fried bites · ₹ · in the gardens",
+    "status": {
+     "text": "Daytime",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

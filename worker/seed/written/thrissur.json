@@ -1,0 +1,127 @@
+{
+ "query": "Swaraj Round, Thrissur",
+ "draft": {
+  "briefing": "Hey, you're on Swaraj Round in Thrissur! The whole city circles the Vadakkunnathan Temple in the middle. Once a year, Thrissur Pooram fills this ground with elephants and fireworks.",
+  "hungryLine": "Thrissur loves its vegetarian meals and its strong filter coffee. Here's where to find both.",
+  "moodReplies": {
+   "show-me-around": "Walk around Vadakkunnathan Temple, then visit the cathedral and the tall Puthanpally church tower.",
+   "somewhere-to-chill": "Sit in the shade of Thekkinkadu Maidan, the big ground around the temple.",
+   "surprise-me": "During Pooram, two temples face off with dozens of decorated elephants and a contest of colourful umbrellas."
+  },
+  "seeFirst": {
+   "caption": "Around the Round",
+   "spots": [
+    {
+     "name": "Vadakkunnathan Temple",
+     "detail": "In the middle · Hindus only inside",
+     "status": {
+      "text": "Grounds open to all",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Our Lady of Lourdes Cathedral",
+     "detail": "5 min walk · An underground shrine",
+     "status": {
+      "text": "Open daily",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Puthanpally Church",
+     "detail": "10 min walk · A very tall tower",
+     "status": {
+      "text": "Climb the tower",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thrissur Pooram",
+    "title": "A festival from a king",
+    "body": "Raja Sakthan Thampuran started Thrissur Pooram in the late 1700s. It's still the biggest temple festival in Kerala."
+   },
+   {
+    "where": "Vadakkunnathan",
+    "title": "A temple of wood and murals",
+    "body": "The temple's old wood carvings and murals won a UNESCO award for conservation."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Walk the Round in the evening.",
+    "body": "It's cooler, and the shops light up."
+   },
+   {
+    "icon": "tag",
+    "title": "Pooram crowds are huge.",
+    "body": "Book a stay early if you're here in April or May."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient",
+    "title": "A temple on a hill",
+    "body": "Vadakkunnathan Temple sits on a small hill. Legend says Parashurama founded it.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1790s",
+    "title": "The king who built the city",
+    "body": "Raja Rama Varma, known as Sakthan Thampuran, cleared the forest around the temple and laid out the Round.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Late 1700s",
+    "title": "Pooram begins",
+    "body": "He brought neighbouring temples together for one great festival: Thrissur Pooram.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1800s to 1900s",
+    "title": "A city of churches and commerce",
+    "body": "Christian traders and churches grew alongside the temple, and Thrissur became a busy market town.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Walk the Round, see the temple, climb the church tower. Tell me which view you liked.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": [
+   {
+    "name": "Vegetarian meals on the Round",
+    "detail": "Kerala meals · ₹ · on the Round",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   },
+   {
+    "name": "Coffee houses near the Round",
+    "detail": "Filter coffee and cutlets · ₹ · nearby",
+    "status": {
+     "text": "All day",
+     "tone": "open"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

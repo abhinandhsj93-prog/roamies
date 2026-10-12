@@ -1,0 +1,114 @@
+{
+ "query": "Nelliyampathy, Palakkad",
+ "draft": {
+  "briefing": "Hey, you're in Nelliyampathy! Hills of tea, coffee and orange groves rise above the plains here, about 1,500 metres at the top. The road up from Nenmara has ten hairpin bends.",
+  "hungryLine": "Food up here is simple estate fare. Carry snacks and eat at the few local eateries.",
+  "moodReplies": {
+   "show-me-around": "Stop at Pothundi Dam on the way up, then head to Seetharkundu viewpoint.",
+   "somewhere-to-chill": "Stand at Seetharkundu and look down at the plains of Palakkad spread out below.",
+   "surprise-me": "Seetharkundu is named after Sita. Legend says she bathed in the stream here during her exile."
+  },
+  "seeFirst": {
+   "caption": "Around Nelliyampathy",
+   "spots": [
+    {
+     "name": "Seetharkundu Viewpoint",
+     "detail": "Short drive · A sheer drop with a view",
+     "status": {
+      "text": "Clear mornings",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kesavanpara",
+     "detail": "Short drive · A rocky viewpoint",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Pothundi Dam",
+     "detail": "At the foot of the hills · A reservoir",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Seetharkundu",
+    "title": "Sita's pool",
+    "body": "Legend says Sita, Rama and Lakshmana stopped here during their exile, and Sita bathed in the stream."
+   },
+   {
+    "where": "The estates",
+    "title": "Oranges in Kerala",
+    "body": "Nelliyampathy is one of the few places in Kerala where oranges grow."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go up in the morning.",
+    "body": "Clouds often hide the views by afternoon."
+   },
+   {
+    "icon": "tag",
+    "title": "Fuel up below.",
+    "body": "There are few petrol pumps in the hills."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Forest hills",
+    "body": "These hills are part of the Western Ghats, home to elephants and hornbills.",
+    "illustration": "flood"
+   },
+   {
+    "era": "The Ramayana",
+    "title": "Sita's stop",
+    "body": "Legend links the stream at Seetharkundu to Sita's time in exile.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1800s to 1900s",
+    "title": "Estates arrive",
+    "body": "Planters cleared the slopes for tea, coffee and oranges.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Later",
+    "title": "A quiet escape",
+    "body": "Nelliyampathy stayed quieter than Munnar, loved by people who wanted calm.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Dam, hairpins, then Seetharkundu. Tell me if the plains looked like a map.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Estate canteens and eateries",
+    "detail": "Simple Kerala meals · ₹ · in the hills",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

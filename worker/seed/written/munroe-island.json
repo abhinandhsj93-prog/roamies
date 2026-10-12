@@ -1,0 +1,114 @@
+{
+ "query": "Munroe Island, Kollam",
+ "draft": {
+  "briefing": "Hey, you're on Munroe Island! It's a cluster of small islands where Ashtamudi Lake meets the Kallada river. Narrow canals run between the houses, so the best way around is by canoe.",
+  "hungryLine": "Munroe Island eats from the water: karimeen, prawns and crab.",
+  "moodReplies": {
+   "show-me-around": "Take a canoe through the narrow canals at sunrise, past coir makers and prawn farms.",
+   "somewhere-to-chill": "Sit by the water at sunset and watch the canoes go home.",
+   "surprise-me": "The island is named after Colonel John Munro, a British Resident of Travancore in the early 1800s."
+  },
+  "seeFirst": {
+   "caption": "Around the island",
+   "spots": [
+    {
+     "name": "Canoe tours of the canals",
+     "detail": "On the island · Narrow green waterways",
+     "status": {
+      "text": "Best at sunrise",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Ashtamudi Lake",
+     "detail": "Around the island · A huge eight-armed lake",
+     "status": {
+      "text": "Calm mornings",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Coir-making homes",
+     "detail": "On the island · Coir spun by hand",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The island",
+    "title": "An island that's sinking",
+    "body": "Parts of Munroe Island are slowly sinking, and some homes now flood at high tide. Scientists are studying why."
+   },
+   {
+    "where": "Ashtamudi",
+    "title": "A lake with eight arms",
+    "body": "Ashtamudi means 'eight braids'. The lake spreads out in eight long arms."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Canoe at sunrise.",
+    "body": "The light is golden and the canals are still."
+   },
+   {
+    "icon": "tag",
+    "title": "Agree the canoe price first.",
+    "body": "Ask how long the tour lasts."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Where river meets lake",
+    "body": "The Kallada river and Ashtamudi Lake built up these low islands with silt.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Early 1800s",
+    "title": "Named by a Resident",
+    "body": "Colonel John Munro, British Resident of Travancore, gave the islands to a church seminary. His name stayed.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1900s",
+    "title": "Coir and fishing",
+    "body": "Families here lived by coir making, fishing and farming prawns.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Recent years",
+    "title": "Rising water",
+    "body": "Parts of the island began to sink, and life here started to change.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Canoe the canals at sunrise and eat fresh karimeen. Tell me what birds you saw.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Homestay meals on the island",
+    "detail": "Karimeen and prawns · ₹₹ · on the island",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "seafood"
+   }
+  ]
+ }
+}

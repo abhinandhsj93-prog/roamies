@@ -1,0 +1,128 @@
+{
+ "query": "Munnar, Idukki",
+ "draft": {
+  "briefing": "Hey, you're in Munnar! Three rivers meet here, which is where the name comes from: 'moonu aar', three rivers. Every hill you see is stitched with tea bushes, planted by hand since the 1880s.",
+  "hungryLine": "Munnar runs on tea and something fried to go with it. Here's where to get both.",
+  "moodReplies": {
+   "show-me-around": "Start at the Tea Museum to see how the leaves are processed, then drive up to Eravikulam to meet the Nilgiri tahr.",
+   "somewhere-to-chill": "Find a bench above Mattupetty Dam, order a hot chai and watch the mist roll over the water.",
+   "surprise-me": "Anamudi, the peak you see from Eravikulam, is the highest point in India south of the Himalayas."
+  },
+  "seeFirst": {
+   "caption": "Short drives from town",
+   "spots": [
+    {
+     "name": "Eravikulam National Park",
+     "detail": "30 min drive · Home of the Nilgiri tahr",
+     "status": {
+      "text": "Closes for the calving season around Feb to Mar",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Tata Tea Museum",
+     "detail": "10 min drive · See tea made start to finish",
+     "status": {
+      "text": "Closed Mondays",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mattupetty Dam",
+     "detail": "25 min drive · Boating on a hill lake",
+     "status": {
+      "text": "Best in the morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Eravikulam",
+    "title": "A flower that waits twelve years",
+    "body": "Neelakurinji covers these hills in blue once every twelve years. The last big bloom was in 2018, so the next is due around 2030."
+   },
+   {
+    "where": "Kundala Valley",
+    "title": "The railway that a flood took",
+    "body": "A little railway once carried tea down these hills. The great flood of 1924 washed it away, and it was never rebuilt."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack a jacket.",
+    "body": "Mornings can drop below 10°C, even when Kochi is sweating."
+   },
+   {
+    "icon": "tag",
+    "title": "Buy tea at the factory outlets.",
+    "body": "Fresher and cheaper than the shops on the highway."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Forests and the Muthuvans",
+    "body": "Before any tea, these hills were thick shola forest. The Muthuvan people lived here, and legend says they carried their kings' children up into these hills on their backs.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1870s",
+    "title": "A planter arrives",
+    "body": "John Daniel Munro, a British resident, leased this land from the Raja of Poonjar. Within a few years, planters were clearing slopes for coffee and then for tea.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1900s",
+    "title": "A tea town grows",
+    "body": "Factories, a ropeway and even a small railway moved the leaves. Munnar became one of the biggest tea districts in South India.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1924",
+    "title": "The great flood",
+    "body": "Monsoon rains in Malayalam year 1099 flooded the valley and swept away the railway. People here still call it the flood of '99.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Walk a tea trail early, when the pickers start. Then come down for a hot chai and a banana fritter. Tell me if you spot a tahr.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Tea stalls in Munnar Bazaar",
+    "detail": "Chai and pazham pori · ₹ · in town",
+    "status": {
+     "text": "Busy from early morning",
+     "tone": "open"
+    },
+    "tags": [
+     "cheap",
+     "vegetarian"
+    ],
+    "illustration": "leafMeal"
+   },
+   {
+    "name": "Kerala meals in Munnar town",
+    "detail": "Rice on a banana leaf · ₹ · in town",
+    "status": {
+     "text": "Lunchtime",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

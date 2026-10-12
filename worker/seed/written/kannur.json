@@ -1,0 +1,125 @@
+{
+ "query": "Payyambalam Beach, Kannur",
+ "draft": {
+  "briefing": "Hey, you're in Kannur! This is the land of Theyyam, where dancers become gods in firelit rituals through the winter. Down the coast, St Angelo Fort has guarded the sea since 1505.",
+  "hungryLine": "Kannur is famous for its biryani and its seafood. Here's where to start.",
+  "moodReplies": {
+   "show-me-around": "Visit St Angelo Fort, then the Arakkal Museum, then end at Payyambalam Beach.",
+   "somewhere-to-chill": "Sit on Payyambalam Beach at sunset. It's long, wide and rarely crowded.",
+   "surprise-me": "From December to April, villages around Kannur hold Theyyam performances through the night. Ask locals where one is on."
+  },
+  "seeFirst": {
+   "caption": "Around Kannur",
+   "spots": [
+    {
+     "name": "St Angelo Fort",
+     "detail": "10 min drive · A Portuguese fort from 1505",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Arakkal Museum",
+     "detail": "10 min drive · Kerala's only Muslim royal family",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Payyambalam Beach",
+     "detail": "In front of you · Long sunset beach",
+     "status": {
+      "text": "Evenings",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Arakkal",
+    "title": "Kerala's only Muslim kingdom",
+    "body": "The Arakkal family ruled Kannur and, for a time, the Lakshadweep islands. Their palace is now a museum."
+   },
+   {
+    "where": "Theyyam",
+    "title": "When dancers become gods",
+    "body": "In a Theyyam, the performer is believed to become the god. People come to them with their worries, and the god answers."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Theyyam season is December to April.",
+    "body": "Most performances start late and run until dawn."
+   },
+   {
+    "icon": "tag",
+    "title": "Kannur handloom is famous.",
+    "body": "Buy straight from weaving cooperatives in town."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient",
+    "title": "Port of the north",
+    "body": "Kannur traded spices with Arabs and Persians long before Europeans arrived.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1505",
+    "title": "The Portuguese fort",
+    "body": "Francisco de Almeida built St Angelo Fort, the first Portuguese viceroy's foothold on this coast.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1600s to 1700s",
+    "title": "The Arakkal kingdom",
+    "body": "The Arakkal family ruled from Kannur and controlled sea trade.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1800s",
+    "title": "The British cantonment",
+    "body": "The British made Kannur a military base, and its weavers became known for their cloth.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Fort by day, beach at sunset and, if you're lucky, a Theyyam at night. Tell me what the god said.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": [
+   {
+    "name": "Biryani houses in Kannur town",
+    "detail": "Kannur biryani · ₹₹ · 10 min drive",
+    "status": {
+     "text": "Lunch and dinner",
+     "tone": "open"
+    },
+    "tags": [],
+    "illustration": "biryani"
+   },
+   {
+    "name": "Seafood near the beach",
+    "detail": "Fish fry and meals · ₹ · near Payyambalam",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood",
+     "cheap"
+    ],
+    "illustration": "seafood"
+   }
+  ]
+ }
+}

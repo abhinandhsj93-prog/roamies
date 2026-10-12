@@ -1,0 +1,128 @@
+{
+ "query": "Guruvayur Temple, Thrissur",
+ "draft": {
+  "briefing": "Hey, you're in Guruvayur! This is one of the most important Krishna temples in India, and pilgrims come day and night. More weddings happen here in a day than in most towns in a month.",
+  "hungryLine": "Guruvayur eats vegetarian. Look for a simple meals hotel near the temple.",
+  "moodReplies": {
+   "show-me-around": "See the temple's east gate, then visit Punnathur Kotta, where the temple's elephants live.",
+   "somewhere-to-chill": "Sit by the Rudratheertham tank in the evening as the lamps are lit.",
+   "surprise-me": "The temple has dozens of elephants of its own. A race of them opens the temple festival each year."
+  },
+  "seeFirst": {
+   "caption": "Close to the temple",
+   "spots": [
+    {
+     "name": "Guruvayur Temple",
+     "detail": "In town · Hindus only inside, strict dress code",
+     "status": {
+      "text": "Busy early morning",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Punnathur Kotta",
+     "detail": "10 min drive · The temple elephants' home",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Rudratheertham Tank",
+     "detail": "Next to the temple · Evening lamps",
+     "status": {
+      "text": "Evenings",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Punnathur Kotta",
+    "title": "An elephant who became a legend",
+    "body": "Guruvayur Kesavan was the temple's most famous elephant. A statue of him stands near the temple."
+   },
+   {
+    "where": "The temple",
+    "title": "A god brought by a guru",
+    "body": "The story says Guru, Brihaspati, and Vayu, the wind god, carried the idol here. That's where Guru-vayu-ur gets its name."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Darshan queues are shortest early or late.",
+    "body": "Avoid weekends and auspicious wedding days."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress code.",
+    "body": "Men wear a mundu and no shirt inside, women a sari, salwar or long skirt."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient",
+    "title": "An idol from Dwaraka",
+    "body": "Legend says the idol was rescued from Krishna's city of Dwaraka as it sank into the sea.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Centuries ago",
+    "title": "A temple town grows",
+    "body": "Pilgrims came from across Kerala, and the town grew around the temple.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1930s",
+    "title": "A fight for entry",
+    "body": "The Guruvayur Satyagraha campaigned for people of all castes to be allowed into the temple.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Later",
+    "title": "Elephants and music",
+    "body": "Punnathur Kotta became the elephants' home, and Chembai music festival brought singers here every year.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Temple at dawn, elephants by day, lamps at the tank by night. Tell me if you saw a wedding.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": [
+   {
+    "name": "Vegetarian meals near the temple",
+    "detail": "Rice meals and payasam · ₹ · 5 min walk",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   },
+   {
+    "name": "Tea and snack shops",
+    "detail": "Chai and pazham pori · ₹ · near the east gate",
+    "status": {
+     "text": "All day",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

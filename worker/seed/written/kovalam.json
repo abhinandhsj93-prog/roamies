@@ -1,0 +1,127 @@
+{
+ "query": "Lighthouse Beach, Kovalam",
+ "draft": {
+  "briefing": "Hey, you're in Kovalam! The red-and-white lighthouse on the rocks has watched these three curved beaches since 1972. In the 1970s this was a stop on the hippie trail.",
+  "hungryLine": "Kovalam's beach restaurants lay out the day's catch on ice. Point, pick and they'll grill it.",
+  "moodReplies": {
+   "show-me-around": "Climb the lighthouse for the view over all three beaches, then walk to Hawa Beach.",
+   "somewhere-to-chill": "Pick a beach café at sunset and let the waves do the talking.",
+   "surprise-me": "Vizhinjam, just south of here, was a busy port of the Ay kings well over a thousand years ago."
+  },
+  "seeFirst": {
+   "caption": "Along the beach",
+   "spots": [
+    {
+     "name": "Vizhinjam Lighthouse",
+     "detail": "5 min walk · Steps to the top",
+     "status": {
+      "text": "Afternoons, check at the gate",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Lighthouse Beach",
+     "detail": "In front of you · Swimming and sunsets",
+     "status": {
+      "text": "Swim near the lifeguards",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Hawa Beach",
+     "detail": "10 min walk · Fishing boats in the morning",
+     "status": {
+      "text": "Best early",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Hawa Beach",
+    "title": "The beach that shocked Kerala",
+    "body": "In the 1970s this was one of the first beaches in India where foreign visitors sunbathed topless. The name stuck, though the practice didn't."
+   },
+   {
+    "where": "Halcyon Castle",
+    "title": "A royal summer house",
+    "body": "The old palace on the hill was built in the 1920s for a Travancore royal. It later became part of a hotel."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Respect the red flags.",
+    "body": "Monsoon seas here are rough from June to August."
+   },
+   {
+    "icon": "tag",
+    "title": "Fish is priced by weight.",
+    "body": "Ask for the price before it goes on the grill."
+   }
+  ],
+  "story": [
+   {
+    "era": "Over 1,000 years ago",
+    "title": "The Ay port",
+    "body": "Vizhinjam, next door, was a port of the Ay kingdom. Traders sailed in from across the Arabian Sea.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1800s",
+    "title": "A royal retreat",
+    "body": "The Travancore royal family came to these quiet coves to escape the heat of the capital.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1970s",
+    "title": "The hippie trail",
+    "body": "Travellers heading across Asia found Kovalam, and its beaches became famous around the world.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1972",
+    "title": "The lighthouse",
+    "body": "The Vizhinjam lighthouse was built on the rocks, and its stripes became Kovalam's postcard picture.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Lighthouse first, a swim, then grilled fish at sunset. Tell me what you picked off the ice.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Lighthouse Beach seafood restaurants",
+    "detail": "Grilled catch of the day · ₹₹ · on the beach",
+    "status": {
+     "text": "Evenings",
+     "tone": "open"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "seafood"
+   },
+   {
+    "name": "Kerala meals near Kovalam junction",
+    "detail": "Rice meals · ₹ · 10 min walk",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

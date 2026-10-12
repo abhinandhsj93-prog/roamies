@@ -1,0 +1,127 @@
+{
+ "query": "Athirappilly Falls, Thrissur",
+ "draft": {
+  "briefing": "Hey, you're at Athirappilly! The Chalakudy river drops about 25 metres here, and in the monsoon the falls go wide and roaring. People call it the Niagara of India.",
+  "hungryLine": "Food here is roadside and simple: tea, snacks and meals on the way to the falls.",
+  "moodReplies": {
+   "show-me-around": "Walk to the top of the falls, then take the path down to the bottom for the full view.",
+   "somewhere-to-chill": "Sit on the rocks above the falls and just listen.",
+   "surprise-me": "Four kinds of hornbill live in these forests. Look up when you hear a heavy wingbeat."
+  },
+  "seeFirst": {
+   "caption": "All within a short drive",
+   "spots": [
+    {
+     "name": "Athirappilly Falls",
+     "detail": "Short walk · Top and bottom viewpoints",
+     "status": {
+      "text": "Daytime only",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vazhachal Falls",
+     "detail": "10 min drive · Wide cascades by the road",
+     "status": {
+      "text": "Daytime only",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Charpa Falls",
+     "detail": "5 min drive · Right beside the road",
+     "status": {
+      "text": "Best in monsoon",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The falls",
+    "title": "Famous on film",
+    "body": "These falls have starred in many films. If they look familiar, you may have seen them in Baahubali."
+   },
+   {
+    "where": "The forest",
+    "title": "The bird of the forest",
+    "body": "The great hornbill is Kerala's state bird. The forests around here are one of the best places to spot one."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Monsoon is the big show.",
+    "body": "July to September is the loudest, but the path is slippery."
+   },
+   {
+    "icon": "tag",
+    "title": "Keep the plastic.",
+    "body": "The area is plastic-free. Bags may be checked at the gate."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A river in the forest",
+    "body": "The Chalakudy river runs down from the Western Ghats through some of Kerala's richest forest.",
+    "illustration": "flood"
+   },
+   {
+    "era": "For generations",
+    "title": "The Kadar people",
+    "body": "The Kadar community has lived in these forests for generations, gathering honey and forest produce.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Later",
+    "title": "A popular escape",
+    "body": "Families from Thrissur and Kochi began driving out for a day by the falls.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Recent years",
+    "title": "A fight for the river",
+    "body": "A hydroelectric dam was proposed just above the falls. Many people campaigned against it to protect the river and the forest.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Top of the falls, bottom of the falls, then Vazhachal. Tell me how wet you got.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Roadside tea stalls",
+    "detail": "Chai and snacks · ₹ · near the entrance",
+    "status": {
+     "text": "Daytime",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   },
+   {
+    "name": "Meals on the Chalakudy road",
+    "detail": "Kerala meals · ₹ · on the way back",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

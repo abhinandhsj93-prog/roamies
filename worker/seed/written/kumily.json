@@ -1,0 +1,126 @@
+{
+ "query": "Kumily, Idukki",
+ "draft": {
+  "briefing": "Hey, you're in Kumily, the gateway to Thekkady! The lake inside Periyar Tiger Reserve isn't natural. It was made in 1895 by a dam, and dead tree stumps still stand in the water.",
+  "hungryLine": "Kumily smells of cardamom and pepper. Try a spice-garden lunch while you're here.",
+  "moodReplies": {
+   "show-me-around": "Take the morning boat on Periyar Lake, when elephants come down to drink.",
+   "somewhere-to-chill": "Walk a spice plantation slowly and taste everything the guide hands you.",
+   "surprise-me": "Kumily sits right on the Tamil Nadu border. Walk a few minutes and the signs change language."
+  },
+  "seeFirst": {
+   "caption": "In and around Thekkady",
+   "spots": [
+    {
+     "name": "Periyar Tiger Reserve",
+     "detail": "10 min drive · Boat rides on the lake",
+     "status": {
+      "text": "Book the early boat",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Spice plantations",
+     "detail": "Short drives · Cardamom, pepper, vanilla",
+     "status": {
+      "text": "Guided walks",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kumily spice market",
+     "detail": "In town · Buy cardamom by the bag",
+     "status": {
+      "text": "Busy in the evening",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Periyar Lake",
+    "title": "Trees that refuse to fall",
+    "body": "When the dam flooded the valley, the forest went under. The tree stumps you see from the boat have stood in the water for over a century."
+   },
+   {
+    "where": "Mullaperiyar",
+    "title": "The engineer who sold his things",
+    "body": "Colonel John Pennycuick built the dam. Locals say that when money ran short he sold his own property in England to finish it. In Tamil Nadu, villages still honour him."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Take the first boat.",
+    "body": "Animals are out early, and the light is soft."
+   },
+   {
+    "icon": "tag",
+    "title": "Check cardamom grades.",
+    "body": "The bigger, greener pods cost more and are worth it."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient times",
+    "title": "Spice hills",
+    "body": "These hills have grown pepper and cardamom for thousands of years. Traders from far away came looking for exactly what still grows in these gardens.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1895",
+    "title": "A dam across the Periyar",
+    "body": "The British built the Mullaperiyar dam to send water east to the dry plains of Madurai. It flooded a valley and created the lake.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1934",
+    "title": "A protected forest",
+    "body": "The forest around the lake became a game sanctuary. In 1978 it became a tiger reserve.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Recent years",
+    "title": "Forest guards from the forest",
+    "body": "Some of the reserve's guides and protectors come from local tribal communities who once lived inside the forest. Their knowledge shapes how visitors walk it today.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Boat in the morning, spice garden after lunch and a Kathakali show at night. Tell me which spice you liked best.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Spice garden lunches",
+    "detail": "Kerala meals with fresh spices · ₹₹ · outside town",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "leafMeal"
+   },
+   {
+    "name": "Kumily town eateries",
+    "detail": "Parotta and curry · ₹ · in town",
+    "status": {
+     "text": "Open late",
+     "tone": "open"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "biryani"
+   }
+  ]
+ }
+}

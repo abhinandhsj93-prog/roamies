@@ -1,0 +1,114 @@
+{
+ "query": "Vythiri, Wayanad",
+ "draft": {
+  "briefing": "Hey, you're in Vythiri! Just up the road at Lakkidi, a chain hangs from a tree, and there's a ghost story behind it. Wayanad is one of the rainiest places in Kerala.",
+  "hungryLine": "Wayanad eats bamboo rice, chicken curry and lots of coffee. Here's where to start.",
+  "moodReplies": {
+   "show-me-around": "Stop at the Lakkidi viewpoint, see the chain tree, then go boating on Pookode Lake.",
+   "somewhere-to-chill": "Paddle around Pookode Lake and listen to the forest.",
+   "surprise-me": "The road up to Wayanad has nine hairpin bends. People call it the Thamarassery churam."
+  },
+  "seeFirst": {
+   "caption": "Short drives from Vythiri",
+   "spots": [
+    {
+     "name": "Pookode Lake",
+     "detail": "5 min drive · Boating in the forest",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Chain Tree, Lakkidi",
+     "detail": "10 min drive · A tree in chains",
+     "status": {
+      "text": "By the road",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Lakkidi Viewpoint",
+     "detail": "10 min drive · Views over the ghat road",
+     "status": {
+      "text": "Clear mornings",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Lakkidi",
+    "title": "The ghost in chains",
+    "body": "Karinthandan, a tribal man, is said to have guided a British engineer up this pass. The engineer killed him to take the credit. His restless spirit was chained to this tree."
+   },
+   {
+    "where": "Pookode",
+    "title": "A lake shaped like a map",
+    "body": "Locals say Pookode Lake, seen from above, is shaped a bit like India."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack a raincoat.",
+    "body": "Wayanad rains are heavy from June to September."
+   },
+   {
+    "icon": "tag",
+    "title": "Buy coffee and spices from farms.",
+    "body": "Wayanad grows coffee, pepper and cardamom."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Forest people",
+    "body": "Wayanad's hills have been home to tribal communities like the Paniya and the Kurichiya for centuries.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Ancient",
+    "title": "Carved in stone",
+    "body": "At Edakkal, south of here, people carved figures into cave walls thousands of years ago.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1800s",
+    "title": "A pass through the ghats",
+    "body": "The British built a road up the steep pass at Lakkidi to reach the Wayanad plateau.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1900s",
+    "title": "Coffee and tea",
+    "body": "Planters cleared land for coffee, tea and pepper, which still cover the hills.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Lakkidi view, the chain tree, then a boat on Pookode Lake. Tell me if you felt the ghost.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Vythiri roadside eateries",
+    "detail": "Kerala meals and chai · ₹ · in town",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "query": "Edakkal Caves, Wayanad",
+ "draft": {
+  "briefing": "Hey, you're near the Edakkal Caves! Inside, people carved figures, animals and symbols into the rock at least six thousand years ago. It's a steep climb, but worth every step.",
+  "hungryLine": "Food around here is simple. Grab a meal in Ambalavayal before or after the climb.",
+  "moodReplies": {
+   "show-me-around": "Climb to Edakkal Caves early, then visit the Wayanad Heritage Museum in Ambalavayal.",
+   "somewhere-to-chill": "Sit at the top of Ambukuthi Mala after the climb and look out over Wayanad.",
+   "surprise-me": "The caves were rediscovered by a British police officer, Fred Fawcett, while he was out hunting in the 1890s."
+  },
+  "seeFirst": {
+   "caption": "Around Ambalavayal",
+   "spots": [
+    {
+     "name": "Edakkal Caves",
+     "detail": "Steep climb · Ancient rock carvings",
+     "status": {
+      "text": "Entry is capped each day, go early",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Wayanad Heritage Museum",
+     "detail": "10 min drive · Tribal history",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Phantom Rock",
+     "detail": "10 min drive · A rock shaped like a skull",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Edakkal",
+    "title": "A cave made by an arrow",
+    "body": "Edakkal means 'a stone in between'. A boulder fell into a crack in the hill and made the roof of the cave."
+   },
+   {
+    "where": "Ambukuthi Mala",
+    "title": "The hill of the arrow",
+    "body": "Legend says Rama's sons shot an arrow into this hill, and that's how the cave began."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Start the climb early.",
+    "body": "The path is steep, and the sun gets strong by noon."
+   },
+   {
+    "icon": "tag",
+    "title": "Wear good shoes.",
+    "body": "The last part of the climb is on rock and ladders."
+   }
+  ],
+  "story": [
+   {
+    "era": "6,000+ years ago",
+    "title": "Carvings in the rock",
+    "body": "Neolithic people carved human figures, animals and symbols into the cave walls.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Later centuries",
+    "title": "More carvings",
+    "body": "Later visitors added inscriptions in old scripts, layer on top of layer.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1890s",
+    "title": "Rediscovered",
+    "body": "Fred Fawcett, a police officer in Malabar, found the caves and wrote about them.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Recent years",
+    "title": "Protecting the caves",
+    "body": "To protect the carvings, the number of daily visitors is now limited.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Climb up, find the oldest carving you can, then rest at the top. Tell me which figure you liked.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Ambalavayal eateries",
+    "detail": "Kerala meals · ₹ · in town",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

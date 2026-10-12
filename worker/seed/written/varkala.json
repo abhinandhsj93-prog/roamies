@@ -1,0 +1,127 @@
+{
+ "query": "Varkala Beach, Thiruvananthapuram",
+ "draft": {
+  "briefing": "Hey, you're in Varkala! This is one of the few places in Kerala where red cliffs meet the sea. Natural springs trickle out of the rock right onto the beach.",
+  "hungryLine": "The cliff is lined with cafés serving fresh fish, pancakes and everything between. Here's a start.",
+  "moodReplies": {
+   "show-me-around": "Walk the North Cliff path from end to end, then take the steps down to the beach.",
+   "somewhere-to-chill": "Pick a cliff-top café, order a fresh juice and watch the sun drop into the sea.",
+   "surprise-me": "People believe a dip at Papanasam beach washes away your sins. That's what the name means."
+  },
+  "seeFirst": {
+   "caption": "Along the cliff",
+   "spots": [
+    {
+     "name": "North Cliff",
+     "detail": "Cliff-top walk · Cafés and views",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Janardhana Swamy Temple",
+     "detail": "10 min walk · An old Vishnu temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Sivagiri Mutt",
+     "detail": "10 min drive · Sree Narayana Guru's ashram",
+     "status": {
+      "text": "Open to visitors",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Papanasam",
+    "title": "The beach that washes sins",
+    "body": "Hindus come to this beach to perform rites for their ancestors. The name Papanasam means 'destroyer of sins'."
+   },
+   {
+    "where": "The temple bell",
+    "title": "A gift from a grateful captain",
+    "body": "People say the bell at Janardhana Swamy Temple came from a Dutch ship. Its captain gave it after he was saved from a storm."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Swim near the lifeguard flags.",
+    "body": "The currents here can be strong."
+   },
+   {
+    "icon": "tag",
+    "title": "Compare café menus.",
+    "body": "Prices on the cliff vary a lot between neighbours."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A cliff by the sea",
+    "body": "These red laterite cliffs are rare on Kerala's flat coast. Springs seep out of them onto the sand below.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Ancient times",
+    "title": "Pilgrims come",
+    "body": "Janardhana Swamy Temple drew pilgrims to Varkala long before tourists did. Its beach became a place for rituals for ancestors.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1904",
+    "title": "A guru settles",
+    "body": "Sree Narayana Guru, the great social reformer, founded Sivagiri Mutt here. His samadhi is still visited by thousands.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1970s onwards",
+    "title": "Travellers find the cliff",
+    "body": "Backpackers found Varkala's quiet cliff, and cafés slowly lined the edge.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Walk the cliff at sunset, then find dinner with a sea view. Tell me which café you'd come back to.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Cliff-top cafés on North Cliff",
+    "detail": "Fresh fish and juices · ₹₹ · on the cliff",
+    "status": {
+     "text": "Busy at sunset",
+     "tone": "open"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "seafood"
+   },
+   {
+    "name": "Kerala meals near the temple",
+    "detail": "Rice meals · ₹ · near the temple junction",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

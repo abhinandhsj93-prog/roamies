@@ -1,6 +1,8 @@
 // Open data for one location: the locality name (Nominatim), nearby Wikipedia articles,
 // the Wikivoyage article if there is one, and named sights and food spots from OpenStreetMap.
 
+import { wikiPhotos, type Photo } from './photos.ts';
+
 const USER_AGENT = 'Roamies/0.1 (travel guide app; https://github.com/abhinandhsj93-prog/roamies)';
 
 export type Locality = {
@@ -30,6 +32,8 @@ export type Sources = {
   wikivoyage?: Article;
   sights: Poi[];
   food: Poi[];
+  // Free-licensed photos keyed by Wikipedia article title (the locality's and nearby articles').
+  photos: Record<string, Photo>;
   // Fetch failures, kept so a thin guide can be explained (shown by /debug).
   errors: string[];
 };
@@ -211,8 +215,12 @@ export async function gatherSources(lat: number, lon: number, locality: Locality
     nearbySights(lat, lon).catch((e) => (failed('overpass sights')(e), [] as Poi[])),
     nearbyFood(lat, lon).catch((e) => (failed('overpass food')(e), [] as Poi[])),
   ]);
+  const photos = await wikiPhotos([locality.name, ...wiki.articles.map((a) => a.title)]).catch(
+    (e) => (failed('photos')(e), {} as Record<string, Photo>),
+  );
   return {
     locality,
+    photos,
     wikipedia: wiki.articles,
     wikivoyage: voyage,
     sights: sights.length ? sights : wiki.landmarks,

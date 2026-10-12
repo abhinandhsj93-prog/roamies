@@ -1,0 +1,115 @@
+{
+ "query": "Vagamon",
+ "draft": {
+  "briefing": "Hey, you're in Vagamon! Rolling green meadows, a pine forest and cool air, all about 1,100 metres up. Monks, Sufis and Hindu pilgrims have each claimed a hill here.",
+  "hungryLine": "Vagamon is a small hill town, so food is simple and warm. Here's where to look.",
+  "moodReplies": {
+   "show-me-around": "Walk the pine forest, roll down the meadows, then drive to Kurisumala for the view.",
+   "somewhere-to-chill": "Find a quiet spot on the meadows and watch the clouds blow past at eye level.",
+   "surprise-me": "Three hills here are holy: Kurisumala for Christians, Murugan Mala for Hindus and Thangal Para for Muslims."
+  },
+  "seeFirst": {
+   "caption": "Short drives around Vagamon",
+   "spots": [
+    {
+     "name": "Vagamon Pine Forest",
+     "detail": "10 min drive · Tall, quiet pines",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vagamon Meadows",
+     "detail": "10 min drive · Grassy hills",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kurisumala Ashram",
+     "detail": "20 min drive · A hilltop monastery",
+     "status": {
+      "text": "Visit quietly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kurisumala",
+    "title": "A monastery that makes cheese",
+    "body": "Two monks founded Kurisumala Ashram in 1958. They started a dairy that still sells milk and cheese."
+   },
+   {
+    "where": "Thangal Para",
+    "title": "A rock for a saint",
+    "body": "Thangal Para is a huge rock where a Sufi saint is said to have prayed and is buried."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Mornings are clearest.",
+    "body": "Fog often rolls in by afternoon."
+   },
+   {
+    "icon": "tag",
+    "title": "Paragliding season.",
+    "body": "Tandem flights run in the drier months. Book with a licensed operator."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Grass and shola",
+    "body": "These hills have always been grassland and patches of dense shola forest.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1900s",
+    "title": "Tea arrives",
+    "body": "British planters brought tea to the slopes, and estates still surround the town.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1958",
+    "title": "The monks come",
+    "body": "Fr Francis Mahieu and Bede Griffiths founded Kurisumala Ashram on the hilltop.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Recent years",
+    "title": "Paragliders and travellers",
+    "body": "Vagamon became known for paragliding and as a cooler escape from the plains.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Pine forest, meadows, then sunset from a hill. Tell me which hill you climbed.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Tea shops in Vagamon town",
+    "detail": "Chai and fritters · ₹ · in town",
+    "status": {
+     "text": "All day",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

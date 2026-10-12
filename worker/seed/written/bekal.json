@@ -1,0 +1,115 @@
+{
+ "query": "Bekal Fort, Kasaragod",
+ "draft": {
+  "briefing": "Hey, you're at Bekal Fort! This is the biggest fort in Kerala, a huge circle of laterite walls standing right in the sea. It was built in the 1600s by the Keladi Nayakas.",
+  "hungryLine": "Kasaragod cooking mixes Kerala and Karnataka. Try fish curry and rice dumplings.",
+  "moodReplies": {
+   "show-me-around": "Walk the walls all the way round, then climb the observation tower.",
+   "somewhere-to-chill": "Sit on the walls facing the sea and wait for the sunset.",
+   "surprise-me": "The song 'Uyire' from the film Bombay was shot right here, on these walls in the rain."
+  },
+  "seeFirst": {
+   "caption": "In and around the fort",
+   "spots": [
+    {
+     "name": "Bekal Fort walls",
+     "detail": "In front of you · Walk the whole circle",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Observation tower",
+     "detail": "Inside the fort · Views down the coast",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bekal Beach",
+     "detail": "Next to the fort · Palm-lined sand",
+     "status": {
+      "text": "Evenings",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The walls",
+    "title": "Holes for spying",
+    "body": "Look closely at the walls. They're full of small holes, angled so defenders could fire at ships on the sea and the shore."
+   },
+   {
+    "where": "The gate",
+    "title": "A temple at the door",
+    "body": "A Hanuman temple stands at the fort's entrance, and an old mosque from Tipu Sultan's time is nearby."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Late afternoon is best.",
+    "body": "The heat drops and the sunset lights up the walls."
+   },
+   {
+    "icon": "tag",
+    "title": "Keep your ticket.",
+    "body": "You may need it to re-enter after a walk on the beach."
+   }
+  ],
+  "story": [
+   {
+    "era": "1650",
+    "title": "The Nayakas build",
+    "body": "Shivappa Nayaka of Keladi built the fort to guard this stretch of coast.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1700s",
+    "title": "Tipu Sultan",
+    "body": "Tipu Sultan took Bekal as he pushed into Malabar, and used it as a base.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1799",
+    "title": "The British arrive",
+    "body": "After Tipu's defeat, the East India Company took over the fort.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1995",
+    "title": "A film star",
+    "body": "The rain song in Mani Ratnam's film Bombay made Bekal famous all over India.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Walk the walls, climb the tower, then watch the sunset from the beach. Tell me what you could see from the top.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Fish curry meals near the fort",
+    "detail": "Fish curry and rice · ₹ · 5 min drive",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood",
+     "cheap"
+    ],
+    "illustration": "seafood"
+   }
+  ]
+ }
+}

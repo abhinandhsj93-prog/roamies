@@ -1,0 +1,126 @@
+{
+ "query": "Jatayu Earth's Center, Kollam",
+ "draft": {
+  "briefing": "Hey, you're at Jatayu Earth's Center! The giant bird on the rock is one of the largest bird sculptures in the world. It marks the spot where, in the Ramayana, Jatayu fell fighting Ravana.",
+  "hungryLine": "There's food at the park, and simple meals back in Chadayamangalam town.",
+  "moodReplies": {
+   "show-me-around": "Take the cable car up, see the sculpture up close, then walk the rocky hilltop.",
+   "somewhere-to-chill": "Find a shady spot on the hilltop and look out over the green Kollam countryside.",
+   "surprise-me": "The sculpture took around a decade to make, and the artist, Rajiv Anchal, is also a film director."
+  },
+  "seeFirst": {
+   "caption": "On the hill",
+   "spots": [
+    {
+     "name": "Jatayu sculpture",
+     "detail": "On the hilltop · A giant fallen bird",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Cable car",
+     "detail": "To the top · Views over the hills",
+     "status": {
+      "text": "Check timings",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Jatayu rock trails",
+     "detail": "On the hilltop · Short walks",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The rock",
+    "title": "Where Jatayu fell",
+    "body": "In the Ramayana, the bird Jatayu fought Ravana to save Sita and fell, wounded, onto a rock. People here say this is that rock."
+   },
+   {
+    "where": "The footprint",
+    "title": "A mark in the stone",
+    "body": "A hollow on the hilltop is said to be where Jatayu's beak struck the rock."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go early.",
+    "body": "The rock gets hot by midday."
+   },
+   {
+    "icon": "tag",
+    "title": "Book online.",
+    "body": "Tickets often include the cable car."
+   }
+  ],
+  "story": [
+   {
+    "era": "The Ramayana",
+    "title": "A bird's last fight",
+    "body": "The bird Jatayu tried to stop Ravana from carrying Sita away. He lost his wings and fell.",
+    "illustration": "flood"
+   },
+   {
+    "era": "For centuries",
+    "title": "A sacred hill",
+    "body": "People in Chadayamangalam have long linked their hill with Jatayu.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "2000s",
+    "title": "An artist's dream",
+    "body": "Rajiv Anchal began building the huge sculpture on the rock.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2018",
+    "title": "The park opens",
+    "body": "Jatayu Earth's Center opened with the sculpture, a cable car and trails.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Ride up, stand under the giant wing, then walk the hilltop. Tell me how small you felt.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Cafés at Jatayu Earth's Center",
+    "detail": "Snacks and drinks · ₹₹ · on the hill",
+    "status": {
+     "text": "Daytime",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "leafMeal"
+   },
+   {
+    "name": "Meals in Chadayamangalam town",
+    "detail": "Kerala meals · ₹ · 10 min drive",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

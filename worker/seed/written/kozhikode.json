@@ -1,0 +1,139 @@
+{
+ "query": "Kozhikode Beach, Kozhikode",
+ "draft": {
+  "briefing": "Hey, you're in Kozhikode! In 1498 Vasco da Gama landed just up the coast at Kappad, and the sea route between Europe and India began here. This city was ruled by the Zamorins, kings of the spice trade.",
+  "hungryLine": "Kozhikode is famous for biryani and halwa. Don't leave without trying both.",
+  "moodReplies": {
+   "show-me-around": "Walk the beach at sunset, then head to SM Street for halwa.",
+   "somewhere-to-chill": "Sit on the beach in the evening with a plate of fried snacks from the carts.",
+   "surprise-me": "SM Street stands for Sweet Meat Street, a name the British gave it because of all the halwa shops."
+  },
+  "seeFirst": {
+   "caption": "Short trips from the beach",
+   "spots": [
+    {
+     "name": "SM Street",
+     "detail": "10 min drive · Halwa and old shops",
+     "status": {
+      "text": "Busy in the evening",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mishkal Mosque, Kuttichira",
+     "detail": "10 min drive · A wooden mosque from the 1300s",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Mananchira Square",
+     "detail": "10 min drive · A park around an old royal pond",
+     "status": {
+      "text": "Evenings",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kuttichira",
+    "title": "A mosque that survived a fire",
+    "body": "The Portuguese set fire to Mishkal Mosque in 1510. Its upper floors still show the repairs."
+   },
+   {
+    "where": "Mananchira",
+    "title": "The king's bathing pond",
+    "body": "Mananchira pond was dug for the Zamorin's royal bath, and it still sits in the middle of the city."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go to the beach after 5 pm.",
+    "body": "The breeze picks up and the food carts come out."
+   },
+   {
+    "icon": "tag",
+    "title": "Halwa is sold by weight.",
+    "body": "Ask for a taste of a few colours before you buy."
+   }
+  ],
+  "story": [
+   {
+    "era": "1200s to 1700s",
+    "title": "City of the Zamorins",
+    "body": "The Zamorin kings made Kozhikode one of the richest ports on the Indian Ocean, trading pepper with Arabs and Chinese.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1498",
+    "title": "Vasco da Gama lands",
+    "body": "The Portuguese explorer landed at Kappad, a few kilometres north. Europe's sea route to India began.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1500s",
+    "title": "A century of conflict",
+    "body": "The Zamorins' navy, led by the Kunjali Marakkars, fought the Portuguese at sea for decades.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1700s to 1900s",
+    "title": "Calico and trade",
+    "body": "Kozhikode cloth gave English its word 'calico'. The city stayed a trading hub under the British.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Beach at sunset, halwa on SM Street, biryani for dinner. Tell me which halwa won.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Paragon Restaurant",
+    "detail": "Malabar biryani and fish · ₹₹ · 10 min drive",
+    "status": {
+     "text": "Busy at dinner",
+     "tone": "open"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "biryani"
+   },
+   {
+    "name": "Rahmath Hotel",
+    "detail": "Beef biryani · ₹ · 10 min drive",
+    "status": {
+     "text": "Lunch",
+     "tone": "open"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "biryani"
+   },
+   {
+    "name": "Halwa shops on SM Street",
+    "detail": "Kozhikodan halwa · ₹ · 10 min drive",
+    "status": {
+     "text": "Evenings",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

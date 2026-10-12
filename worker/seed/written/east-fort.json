@@ -1,0 +1,128 @@
+{
+ "query": "East Fort, Thiruvananthapuram",
+ "draft": {
+  "briefing": "Hey, you're at East Fort in Thiruvananthapuram! The temple tower in front of you belongs to Sree Padmanabhaswamy Temple. In 2011, vaults beneath it were found to hold one of the largest treasures ever recorded.",
+  "hungryLine": "Around the fort, food is simple and fast: vegetarian meals, chai and banana chips by the kilo.",
+  "moodReplies": {
+   "show-me-around": "See the temple tower from the tank, walk to Kuthira Malika palace, then wander into Chalai Market.",
+   "somewhere-to-chill": "Sit by the Padmanabhaswamy temple tank in the late afternoon and watch the tower glow.",
+   "surprise-me": "Kuthira Malika means 'horse palace': 122 wooden horses hold up its roof."
+  },
+  "seeFirst": {
+   "caption": "All within 10 min",
+   "spots": [
+    {
+     "name": "Sree Padmanabhaswamy Temple",
+     "detail": "2 min walk · Hindus only inside, strict dress code",
+     "status": {
+      "text": "Check darshan times",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Kuthira Malika Palace",
+     "detail": "3 min walk · Swathi Thirunal's palace",
+     "status": {
+      "text": "Closed Mondays",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chalai Market",
+     "detail": "5 min walk · Spices, flowers, gold",
+     "status": {
+      "text": "Busy all day",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kuthira Malika",
+    "title": "A king who wrote music",
+    "body": "Maharaja Swathi Thirunal built this palace in the 1840s. He was also a composer, and his songs are still sung at concerts here."
+   },
+   {
+    "where": "The temple vaults",
+    "title": "The vault nobody opens",
+    "body": "Most of the temple's vaults were opened in 2011 and their treasure counted. One, Vault B, is still closed, and stories say it's guarded by serpents."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go early.",
+    "body": "The temple area is cooler and calmer before 9 am."
+   },
+   {
+    "icon": "tag",
+    "title": "Temple dress code.",
+    "body": "Men wear a mundu, women a sari or long skirt. Both can be rented near the gate."
+   }
+  ],
+  "story": [
+   {
+    "era": "Centuries ago",
+    "title": "A city named for a god",
+    "body": "Thiruvananthapuram means 'city of the sacred serpent Ananta', the snake that Vishnu reclines on inside the temple.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1750",
+    "title": "A king gives his kingdom away",
+    "body": "Marthanda Varma, king of Travancore, dedicated his kingdom to Padmanabha and ruled as the god's servant.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1795",
+    "title": "The capital moves here",
+    "body": "The Travancore capital moved to Thiruvananthapuram, and the fort and palaces grew around the temple.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1840s",
+    "title": "A music-loving king",
+    "body": "Swathi Thirunal built Kuthira Malika and filled the court with music.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Temple tower, horse palace, then lose yourself in Chalai Market. Tell me what smelled the best.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Vegetarian meals near East Fort",
+    "detail": "Kerala sadya-style meals · ₹ · 5 min walk",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   },
+   {
+    "name": "Chalai Market snack shops",
+    "detail": "Banana chips and halwa · ₹ · 5 min walk",
+    "status": {
+     "text": "All day",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

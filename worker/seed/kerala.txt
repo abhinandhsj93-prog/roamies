@@ -1,0 +1,122 @@
+# state: Kerala
+# Major Kerala places to pre-write guides for. One search query per line (resolved with
+# OpenStreetMap Nominatim), grouped by district. The guide is stored under whatever
+# locality the app finds at that spot, so a visitor there gets it straight away.
+# Thiruvananthapuram
+East Fort, Thiruvananthapuram
+Kovalam, Thiruvananthapuram
+Varkala, Thiruvananthapuram
+Poovar, Thiruvananthapuram
+Ponmudi, Thiruvananthapuram
+Neyyar Dam, Thiruvananthapuram
+Kazhakoottam, Thiruvananthapuram
+Vizhinjam, Thiruvananthapuram
+# Kollam
+Kollam Beach, Kollam
+Munroe Island, Kollam
+Jatayu Earth's Center, Kollam
+Thenmala, Kollam
+Sasthamcotta, Kollam
+Punalur, Kollam
+Karunagappally, Kollam
+# Pathanamthitta
+Pathanamthitta
+Aranmula, Pathanamthitta
+Konni, Pathanamthitta
+Gavi, Pathanamthitta
+Thiruvalla, Pathanamthitta
+# Alappuzha
+Alappuzha Beach, Alappuzha
+Mararikulam, Alappuzha
+Kainakary, Alappuzha
+Ambalappuzha, Alappuzha
+Kayamkulam, Alappuzha
+Cherthala, Alappuzha
+Haripad, Alappuzha
+# Kottayam
+Kottayam
+Kumarakom, Kottayam
+Vagamon
+Ettumanoor, Kottayam
+Pala, Kottayam
+Changanassery, Kottayam
+Erumely, Kottayam
+# Idukki
+Munnar, Idukki
+Kumily, Idukki
+Cheruthoni, Idukki
+Thodupuzha, Idukki
+Peerumade, Idukki
+Marayoor, Idukki
+Kattappana, Idukki
+Ramakkalmedu, Idukki
+# Ernakulam
+Kadamakkudy, Ernakulam
+Kakkanad, Ernakulam
+Aluva, Ernakulam
+Angamaly, Ernakulam
+Perumbavoor, Ernakulam
+Muvattupuzha, Ernakulam
+Kalady, Ernakulam
+Kothamangalam, Ernakulam
+Bhoothathankettu, Ernakulam
+Cherai Beach, Ernakulam
+Kumbalangi, Ernakulam
+Vyttila, Ernakulam
+Kaloor, Ernakulam
+# Thrissur
+Swaraj Round, Thrissur
+Guruvayur, Thrissur
+Athirappilly, Thrissur
+Chalakudy, Thrissur
+Kodungallur, Thrissur
+Irinjalakuda, Thrissur
+Cheruthuruthy, Thrissur
+Vadanappally, Thrissur
+# Palakkad
+Palakkad Fort, Palakkad
+Malampuzha, Palakkad
+Nelliyampathy, Palakkad
+Mukkali, Palakkad
+Ottapalam, Palakkad
+Kollengode, Palakkad
+Parambikulam, Palakkad
+# Malappuram
+Malappuram
+Kottakkal, Malappuram
+Nilambur, Malappuram
+Ponnani, Malappuram
+Tirur, Malappuram
+Perinthalmanna, Malappuram
+Kadalundi, Malappuram
+# Kozhikode
+Kozhikode Beach, Kozhikode
+Mananchira, Kozhikode
+Beypore, Kozhikode
+Kappad, Kozhikode
+Vadakara, Kozhikode
+Thamarassery, Kozhikode
+Kakkayam, Kozhikode
+# Wayanad
+Kalpetta, Wayanad
+Sulthan Bathery, Wayanad
+Mananthavady, Wayanad
+Vythiri, Wayanad
+Ambalavayal, Wayanad
+Padinjarathara, Wayanad
+Meppadi, Wayanad
+# Kannur
+Kannur
+Thalassery, Kannur
+Payyambalam Beach, Kannur
+Muzhappilangad, Kannur
+Parassinikadavu, Kannur
+Payyanur, Kannur
+Iritty, Kannur
+# Kasaragod
+Kasaragod
+Bekal Fort, Kasaragod
+Nileshwar, Kasaragod
+Kanhangad, Kasaragod
+Ranipuram, Kasaragod
+Valiyaparamba, Kasaragod

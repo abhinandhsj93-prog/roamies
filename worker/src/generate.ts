@@ -197,7 +197,14 @@ const nonEmpty = (s: unknown): s is string => typeof s === 'string' && s.trim().
 const tone = (t: string): Status['tone'] => pick(t, ['neutral', 'open', 'warning'] as const);
 
 // Checks the draft and assembles the Place document. Throws when the draft is unusable.
-export function assemblePlace(s: Sources, d: Draft, lat: number, lon: number) {
+// trustNames: keep every named place (for hand-written seed guides, which have no source lists).
+export function assemblePlace(
+  s: Sources,
+  d: Draft,
+  lat: number,
+  lon: number,
+  options: { trustNames?: boolean; sourcesText?: string } = {},
+) {
   if (!nonEmpty(d.briefing) || !Array.isArray(d.story) || d.story.length < 3) throw new Error('draft missing briefing or story');
   const { locality } = s;
   const near = (list: Poi[], name: string) => list.find((p) => p.name.toLowerCase() === name.toLowerCase());
@@ -205,9 +212,19 @@ export function assemblePlace(s: Sources, d: Draft, lat: number, lon: number) {
 
   // Only keep places named in the sources (OSM lists or the Wikivoyage text), so every card is real.
   const voyageText = s.wikivoyage?.text.toLowerCase() ?? '';
-  const inSources = (list: Poi[], name: string) => Boolean(near(list, name)) || voyageText.includes(name.toLowerCase());
+  const inSources = (list: Poi[], name: string) =>
+    options.trustNames || Boolean(near(list, name)) || voyageText.includes(name.toLowerCase());
   const spots = (d.seeFirst?.spots ?? []).filter((x) => nonEmpty(x.name) && inSources(s.sights, x.name)).slice(0, 3);
   const food = (d.food ?? []).filter((x) => nonEmpty(x.name) && inSources(s.food, x.name)).slice(0, 5);
+
+  // Photos: the locality's own article for the hero, and a matching article for each sight.
+  const plain = (t: string) => t.toLowerCase().replace(/\s*\(.*\)$/, '').replace(/,.*$/, '').trim();
+  const photoList = Object.values(s.photos ?? {});
+  const photoFor = (name: string) => {
+    const n = plain(name);
+    return photoList.find((p) => plain(p.article) === n) ?? photoList.find((p) => n.length > 4 && (plain(p.article).includes(n) || n.includes(plain(p.article))));
+  };
+  const heroPhoto = s.photos?.[locality.name] ?? photoFor(locality.name) ?? photoList[0];
 
   const credits = ['OpenStreetMap contributors'];
   if (s.wikipedia.length) credits.unshift('Wikipedia');
@@ -221,6 +238,7 @@ export function assemblePlace(s: Sources, d: Draft, lat: number, lon: number) {
     area: locality.area,
     coords: { latitude: lat, longitude: lon },
     hero: 'mattancherrySunset',
+    ...(heroPhoto ? { photo: heroPhoto } : {}),
     briefing: d.briefing,
     hungryLine: nonEmpty(d.hungryLine) ? d.hungryLine : "Here's what's good to eat nearby.",
     moodReplies: d.moodReplies,
@@ -234,6 +252,7 @@ export function assemblePlace(s: Sources, d: Draft, lat: number, lon: number) {
         mapsQuery: mapsQuery(x.name),
         illustration: pick(x.illustration, SPOT_ART),
         cardColor: CARD_COLORS[i % CARD_COLORS.length],
+        ...(photoFor(x.name) ? { photo: photoFor(x.name) } : {}),
       })),
     },
     legends: (d.legends ?? []).slice(0, 2).map((x, i) => ({ id: `legend-${i}`, ...x })),
@@ -256,7 +275,7 @@ export function assemblePlace(s: Sources, d: Draft, lat: number, lon: number) {
       iconColor: CARD_COLORS[(i + 1) % CARD_COLORS.length],
       tags: (x.tags ?? []).filter((t) => (FOOD_TAGS as readonly string[]).includes(t)),
     })),
-    sources: `AI-written by Meera from ${credits.join(', ')}.`,
+    sources: options.sourcesText ?? `AI-written by Meera from ${credits.join(', ')}.`,
     sourceLinks: [...(s.wikivoyage ? [s.wikivoyage.url] : []), ...s.wikipedia.map((a) => a.url)],
     factChecked: false,
     aiGenerated: true,

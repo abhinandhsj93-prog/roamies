@@ -1,0 +1,114 @@
+{
+ "query": "Cherai Beach, Ernakulam",
+ "draft": {
+  "briefing": "Hey, you're at Cherai Beach! It's a long, golden beach on Vypin island, with the sea on one side and backwaters on the other. Sometimes dolphins swim close to the shore.",
+  "hungryLine": "Cherai eats fish, prawns and crab, fresh from both the sea and the backwaters.",
+  "moodReplies": {
+   "show-me-around": "Walk the beach, then cross to the backwater side to see the Chinese fishing nets.",
+   "somewhere-to-chill": "Find a chair on the sand and stay for the sunset over the sea.",
+   "surprise-me": "Pallipuram Fort, just up the road, was built by the Portuguese in 1503. It's one of the oldest European buildings in India."
+  },
+  "seeFirst": {
+   "caption": "Around Cherai",
+   "spots": [
+    {
+     "name": "Cherai Beach",
+     "detail": "In front of you · A long, golden beach",
+     "status": {
+      "text": "Swim near the lifeguards",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Pallipuram Fort",
+     "detail": "10 min drive · A Portuguese fort from 1503",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Backwater-side fishing nets",
+     "detail": "5 min drive · Chinese nets on the lagoon",
+     "status": {
+      "text": "Evenings",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Pallipuram",
+    "title": "A fort with six sides",
+    "body": "Pallipuram Fort is a small six-sided tower. The Portuguese built it to guard the way into Kochi."
+   },
+   {
+    "where": "The beach",
+    "title": "Dolphins by the shore",
+    "body": "On calm mornings, dolphins are sometimes spotted just beyond the waves."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go on a weekday.",
+    "body": "Weekends bring crowds from Kochi."
+   },
+   {
+    "icon": "tag",
+    "title": "Fresh crab is priced by weight.",
+    "body": "Ask before they start cooking."
+   }
+  ],
+  "story": [
+   {
+    "era": "1341",
+    "title": "An island is born",
+    "body": "The great Periyar flood that opened Kochi's harbour also shaped Vypin island.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1503",
+    "title": "The Portuguese fort",
+    "body": "The Portuguese built Pallipuram Fort, one of the oldest European buildings still standing in India.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Centuries",
+    "title": "Fishing villages",
+    "body": "Families fished the sea on one side and the backwaters on the other.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Recent years",
+    "title": "A favourite beach",
+    "body": "Cherai became the go-to beach for Kochi families.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Beach, fort, then the fishing nets at sunset. Tell me if you saw a dolphin.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Seafood shacks at Cherai",
+    "detail": "Crab and fish fry · ₹₹ · on the beach",
+    "status": {
+     "text": "Lunch and dinner",
+     "tone": "open"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "seafood"
+   }
+  ]
+ }
+}

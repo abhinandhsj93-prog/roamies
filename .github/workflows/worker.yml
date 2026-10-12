@@ -9,16 +9,26 @@ name: Deploy places API
 on:
   workflow_dispatch:
     inputs:
-      seed:
-        description: 'Also write guides for the Kochi seed list'
-        type: boolean
-        default: false
+      task:
+        description: 'What to run'
+        type: choice
+        default: deploy
+        options: [deploy, seed-kochi, fetch-sources, upload-written]
+      region:
+        description: 'Region list for fetch-sources (worker/seed/<region>.txt)'
+        type: choice
+        default: kerala
+        options: [kerala, karnataka, maharashtra, tamilnadu, goa]
   push:
     branches: [expo-scaffold, main]
     paths: ['worker/**', '.github/workflows/worker.yml']
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
+    if: github.event_name == 'push' || inputs.task == 'deploy' || inputs.task == 'seed-kochi'
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -62,7 +72,7 @@ jobs:
           echo "HTTP $code $summary"
           echo "::notice title=Smoke test::HTTP $code $(printf '%s' "$summary" | tr -d ':' | head -c 1500)"
       - name: Seed Kochi places
-        if: env.CLOUDFLARE_API_TOKEN != '' && inputs.seed
+        if: env.CLOUDFLARE_API_TOKEN != '' && inputs.task == 'seed-kochi'
         run: |
           while IFS='|' read -r name lat lng; do
             [ -z "$name" ] && continue
@@ -70,3 +80,54 @@ jobs:
             got=$(jq -rc '[.status, .place.name, (.place.seeFirst.spots|length), (.place.food|length), (.error // "" | .[0:120])] | join(" / ")' seed.json 2>/dev/null)
             echo "::notice title=Seed $name::HTTP $code $(printf '%s' "$got" | tr -d ':')"
           done < ../.github/seed-places.txt
+
+  # Pulls Wikipedia, Wikivoyage, OpenStreetMap and Wikimedia photo data for every place on a
+  # region list and commits it to worker/seed/sources/<region>/, so guides can be written from it.
+  fetch-sources:
+    if: inputs.task == 'fetch-sources'
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: worker
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - name: Fetch sources
+        env:
+          REGION: ${{ inputs.region }}
+        run: |
+          node --experimental-strip-types seed/fetch-sources.ts
+          report=seed/sources/$REGION/fetch-report.txt
+          ok=$(grep -vc FAILED "$report" || true)
+          failed=$(grep FAILED "$report" | cut -c1-60 | tr '\n' ';' | tr -d ':' | head -c 900)
+          echo "::notice title=Fetched $REGION::$ok places ok. Failed $failed"
+      - name: Commit sources
+        run: |
+          git config user.name 'roamies-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add seed/sources
+          git diff --cached --quiet && exit 0
+          git commit -m "Seed sources for ${{ inputs.region }}"
+          for i in 1 2 3; do git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && break; sleep 5; done
+
+  # Writes the reviewed guides in worker/seed/written/ to Firestore.
+  upload-written:
+    if: inputs.task == 'upload-written'
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: worker
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - name: Upload guides
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          FIREBASE_PROJECT_ID: roamies-99c10
+        run: node --experimental-strip-types seed/upload.ts

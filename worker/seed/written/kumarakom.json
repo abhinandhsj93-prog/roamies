@@ -1,0 +1,126 @@
+{
+ "query": "Kumarakom, Kottayam",
+ "draft": {
+  "briefing": "Hey, you're in Kumarakom! You're on the edge of Vembanad, the biggest lake in Kerala. The bird sanctuary here began as a rubber estate owned by an English planter.",
+  "hungryLine": "Karimeen pollichathu, pearl spot fish grilled in banana leaf, is the dish to eat here.",
+  "moodReplies": {
+   "show-me-around": "Go to the bird sanctuary at sunrise, then drift on Vembanad Lake by country boat.",
+   "somewhere-to-chill": "Take a slow sunset cruise on the lake and watch the fishing canoes come home.",
+   "surprise-me": "Ask a boatman to take you past Pathiramanal, a small island in the lake whose name means 'midnight sand'."
+  },
+  "seeFirst": {
+   "caption": "Around the lake",
+   "spots": [
+    {
+     "name": "Kumarakom Bird Sanctuary",
+     "detail": "Near the lake · Herons, egrets, cormorants",
+     "status": {
+      "text": "Best at dawn",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vembanad Lake",
+     "detail": "In front of you · Houseboats and canoes",
+     "status": {
+      "text": "Calm in the morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Pathiramanal Island",
+     "detail": "Boat ride · A small forest island",
+     "status": {
+      "text": "Go by boat only",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Pathiramanal",
+    "title": "The island that rose at midnight",
+    "body": "A story says a young Brahmin dove into the lake for his evening prayers, and the waters parted to make an island for him at midnight. That's how Pathiramanal got its name."
+   },
+   {
+    "where": "The sanctuary",
+    "title": "Baker's estate",
+    "body": "The bird sanctuary was once Alfred George Baker's rubber plantation. His old bungalow still stands nearby."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Birds before 8 am.",
+    "body": "By mid-morning most of them have gone quiet."
+   },
+   {
+    "icon": "tag",
+    "title": "Day cruise or overnight?",
+    "body": "A day cruise gives you the lake for much less."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A great lake",
+    "body": "Vembanad is fed by several rivers and meets the sea near Kochi. Fishing villages have lived along its edges for centuries.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1800s",
+    "title": "A planter's land",
+    "body": "Alfred George Baker, an English planter, reclaimed land here and planted rubber and coconut.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1970s",
+    "title": "The sanctuary",
+    "body": "Baker's estate became a bird sanctuary, where herons and migratory birds now nest.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1990s",
+    "title": "Houseboats",
+    "body": "Old rice barges called kettuvallam were rebuilt as houseboats, and Kumarakom became one of Kerala's favourite lake escapes.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Birds at sunrise, karimeen for lunch and the lake at sunset. Tell me if you spot a kingfisher.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Toddy shops near the lake",
+    "detail": "Karimeen pollichathu · ₹₹ · short ride",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "seafood"
+   },
+   {
+    "name": "Kerala meals in Kumarakom",
+    "detail": "Rice and fish curry · ₹ · in the village",
+    "status": {
+     "text": "Lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

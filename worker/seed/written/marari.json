@@ -1,0 +1,114 @@
+{
+ "query": "Marari Beach, Alappuzha",
+ "draft": {
+  "briefing": "Hey, you're at Marari Beach! It's a quiet fishing beach, where wooden boats still head out at dawn. Mararikulam village behind it is lined with coconut palms and coir makers.",
+  "hungryLine": "Marari eats fish from the morning catch. Ask a homestay or beach shack what came in.",
+  "moodReplies": {
+   "show-me-around": "Watch the boats come in at dawn, then cycle through the village lanes.",
+   "somewhere-to-chill": "Lie under the palms and let the day go slowly. That's what Marari is for.",
+   "surprise-me": "The Mararikulam Mahadeva temple is said to be over a thousand years old."
+  },
+  "seeFirst": {
+   "caption": "Around Marari",
+   "spots": [
+    {
+     "name": "Marari Beach",
+     "detail": "In front of you · Quiet sand and fishing boats",
+     "status": {
+      "text": "Swim with care",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mararikulam Mahadeva Temple",
+     "detail": "10 min drive · An old Shiva temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Coir-making villages",
+     "detail": "Nearby lanes · Coir spun by hand",
+     "status": {
+      "text": "Daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The beach",
+    "title": "A beach for fishers",
+    "body": "Marari is a working beach first. Give the fishermen room when they haul in the nets."
+   },
+   {
+    "where": "Coir",
+    "title": "Rope from a husk",
+    "body": "Women in these villages soak coconut husks for months, then beat and spin them into rope."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go at dawn.",
+    "body": "That's when the boats come in and the light is best."
+   },
+   {
+    "icon": "tag",
+    "title": "Ask before photographing.",
+    "body": "Fishermen are friendly but busy."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Coconut coast",
+    "body": "This coast has lived on fishing and coconuts for centuries.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Centuries ago",
+    "title": "The temple",
+    "body": "The Mahadeva temple became the heart of the village.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1800s",
+    "title": "Coir",
+    "body": "Coir spinning spread through the villages and became a main source of work.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Recent years",
+    "title": "Quiet travel",
+    "body": "Small homestays and resorts brought travellers looking for a calmer beach.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Dawn boats, a cycle through the village, then the hammock. Tell me how many boats you counted.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Beach shacks at Marari",
+    "detail": "Fresh fish fry · ₹₹ · on the beach",
+    "status": {
+     "text": "Lunch and dinner",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "seafood"
+   }
+  ]
+ }
+}

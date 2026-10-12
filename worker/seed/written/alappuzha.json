@@ -1,0 +1,127 @@
+{
+ "query": "Alappuzha Beach, Alappuzha",
+ "draft": {
+  "briefing": "Hey, you're in Alappuzha! Canals run through this town like streets, which is why people call it the Venice of the East. Out on the beach, the posts of an old pier still stand in the sea.",
+  "hungryLine": "Alappuzha is about fish from the backwaters: karimeen, prawns and duck roast. Here's where to look.",
+  "moodReplies": {
+   "show-me-around": "Walk the beach to the lighthouse, then take a canoe into the narrow canals.",
+   "somewhere-to-chill": "Watch the sunset from the beach while the old pier posts go dark.",
+   "surprise-me": "Every August, snake boats with over a hundred rowers race on Punnamada Lake for the Nehru Trophy."
+  },
+  "seeFirst": {
+   "caption": "All close to the beach",
+   "spots": [
+    {
+     "name": "Alappuzha Lighthouse",
+     "detail": "5 min walk · Climb for the view",
+     "status": {
+      "text": "Check timings at the gate",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Alappuzha Beach and old pier",
+     "detail": "In front of you · Sunset spot",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Punnamada Lake houseboats",
+     "detail": "10 min drive · Backwaters by boat",
+     "status": {
+      "text": "Book a day cruise",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Punnamada Lake",
+    "title": "A race that started with a prime minister",
+    "body": "In 1952, Jawaharlal Nehru watched a snake-boat race here and was so thrilled he jumped into a winning boat. The trophy he sent later is still raced for every August."
+   },
+   {
+    "where": "The beach",
+    "title": "A pier with no deck",
+    "body": "The rows of posts in the sea are what's left of a pier from the 1860s, when this was a busy port."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Canoe early.",
+    "body": "The small canals are calm and shaded in the morning."
+   },
+   {
+    "icon": "tag",
+    "title": "Agree houseboat prices first.",
+    "body": "Ask what meals and hours are included before you board."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Land made by water",
+    "body": "Alappuzha sits on land shaped by rivers, lakes and the sea. Much of Kuttanad, next door, lies below sea level and is farmed behind mud walls.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1700s",
+    "title": "A port is planned",
+    "body": "Raja Kesavadas, the dewan of Travancore, built canals, warehouses and a port here. Ships came for pepper, coir and spices.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1800s",
+    "title": "Coir town",
+    "body": "Coir from coconut husks made Alappuzha famous. Factories along the canals spun mats and ropes for the world.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1952",
+    "title": "Snake boats",
+    "body": "The Nehru Trophy race turned the old village boat races into a festival that now draws huge crowds every August.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Take a canoe through the canals, eat karimeen for lunch, then catch the sunset on the beach. Tell me how many kingfishers you count.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Toddy shops by the canals",
+    "detail": "Karimeen fry and duck roast · ₹₹ · short ride",
+    "status": {
+     "text": "Lunch and evening",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "seafood"
+   },
+   {
+    "name": "Beach-side snack carts",
+    "detail": "Bhel, corn and sharbath · ₹ · on the beach",
+    "status": {
+     "text": "Evenings",
+     "tone": "open"
+    },
+    "tags": [
+     "cheap",
+     "vegetarian"
+    ],
+    "illustration": "leafMeal"
+   }
+  ]
+ }
+}

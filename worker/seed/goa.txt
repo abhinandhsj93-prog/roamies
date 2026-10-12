@@ -1,0 +1,56 @@
+# state: Goa
+# Major Goa places. One Nominatim search query per line, grouped by region.
+# North Goa
+Panaji
+Fontainhas, Panaji
+Miramar, Panaji
+Dona Paula
+Old Goa
+Divar Island
+Chorao Island
+Ponda
+Calangute
+Baga
+Candolim
+Sinquerim
+Fort Aguada
+Anjuna
+Vagator
+Chapora Fort
+Morjim
+Ashwem
+Mandrem
+Arambol
+Keri
+Siolim
+Assagao
+Mapusa
+Saligao
+Aldona
+Reis Magos
+Bicholim
+# South Goa
+Margao
+Benaulim
+Colva
+Majorda
+Varca
+Cavelossim
+Mobor
+Betalbatim
+Chandor
+Loutolim
+Rachol
+Vasco da Gama
+Bogmalo
+Cabo de Rama
+Agonda
+Palolem
+Patnem
+Galgibaga
+Cotigao
+Canacona
+Dudhsagar Falls
+Mollem
+Netravali
+Tambdi Surla

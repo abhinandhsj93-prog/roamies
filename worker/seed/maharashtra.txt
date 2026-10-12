@@ -1,0 +1,73 @@
+# state: Maharashtra
+# Major Maharashtra places. One Nominatim search query per line, grouped by region.
+# Mumbai
+Colaba, Mumbai
+Gateway of India, Mumbai
+Fort, Mumbai
+Marine Drive, Mumbai
+Girgaon Chowpatty, Mumbai
+Malabar Hill, Mumbai
+Kala Ghoda, Mumbai
+Crawford Market, Mumbai
+Byculla, Mumbai
+Worli, Mumbai
+Dadar, Mumbai
+Mahim, Mumbai
+Bandra West, Mumbai
+Juhu, Mumbai
+Andheri, Mumbai
+Borivali, Mumbai
+Elephanta Caves
+Navi Mumbai
+Thane
+# Konkan
+Alibag
+Murud-Janjira
+Kashid
+Diveagar
+Harihareshwar
+Dapoli
+Ganpatipule
+Ratnagiri
+Malvan
+Tarkarli
+Sindhudurg Fort
+Vengurla
+# Hill stations and Western Ghats
+Lonavala
+Khandala
+Karjat
+Matheran
+Mahabaleshwar
+Panchgani
+Pratapgad
+Raigad Fort
+Bhimashankar
+Malshej Ghat
+Igatpuri
+Bhandardara
+Amboli
+# Pune region
+Shaniwar Wada, Pune
+Koregaon Park, Pune
+Deccan Gymkhana, Pune
+Sinhagad
+Lavasa
+Satara
+Kaas Plateau
+Kolhapur
+Pandharpur
+Shirdi
+Nashik
+Trimbakeshwar
+# Marathwada and Vidarbha
+Aurangabad
+Ellora Caves
+Ajanta Caves
+Daulatabad
+Lonar
+Nanded
+Nagpur
+Tadoba
+Chikhaldara
+Sevagram
