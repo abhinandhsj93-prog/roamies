@@ -1,0 +1,121 @@
+{
+  "query": "Mandrem",
+  "region": "goa",
+  "name": "Mandrem",
+  "draft": {
+    "briefing": "Hey, you're in Mandrem! At high tide the sea rushes into Mandrem Creek, which runs right alongside the beach. This quiet white-sand stretch between Morjim and Arambol is also a notified turtle nesting site.",
+    "hungryLine": "Mandrem's beach shacks do fresh fish, and a few cafes in Junas Waddo are worth the walk.",
+    "moodReplies": {
+      "show-me-around": "Bhumika Devi Temple is a 2 minute walk, Holy Cross Chapel about 7, and Our Lady of the Rosary Church about 16.",
+      "somewhere-to-chill": "Laze on the beach and watch local fishermen haul in their catch.",
+      "surprise-me": "The village was first called Manjrey. The Portuguese turned it into Mandrem, because in Portuguese the D was said like a J."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Bhumika Devi Temple",
+          "detail": "2 min walk · The village temple, close by",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Holy Cross Chapel",
+          "detail": "7 min walk · A small village chapel",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "synagogue"
+        },
+        {
+          "name": "Our Lady of the Rosary Church",
+          "detail": "16 min walk · The village church",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Catch the high tide.",
+        "body": "Mandrem looks its best at high tide, when seawater floods into the creek beside the beach."
+      },
+      {
+        "icon": "tag",
+        "title": "Swim with care.",
+        "body": "The water off Mandrem gets surprisingly deep."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "Manjrey",
+        "body": "The village was originally called Manjrey. It had a small fishing community that still works the beach today.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Portuguese era",
+        "title": "A new name and a fort",
+        "body": "The Portuguese renamed it Mandrem and left a small fort nearby. The fort is now a high-class hotel with views to Maharashtra.",
+        "illustration": "palace"
+      },
+      {
+        "era": "2011",
+        "title": "Turtles protected",
+        "body": "Mandrem Beach was notified as a turtle nesting site under the 2011 coastal rules.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "Today",
+        "title": "Quiet by choice",
+        "body": "With Junas and Ashvem beaches and 11 wards, Mandrem is a calm spot 21 km from Panaji.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": [
+      {
+        "name": "End of the World Café",
+        "detail": "Beach shack for fish, and eating here gets you a lounger for the day",
+        "status": {
+          "text": "On the beach",
+          "tone": "neutral"
+        },
+        "tags": [
+          "seafood"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Oasis",
+        "detail": "Go for the tandoori chicken, prawns and bread",
+        "status": {
+          "text": "Check timings locally",
+          "tone": "neutral"
+        },
+        "tags": [
+          "seafood"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Mango Tree Beer Garden",
+        "detail": "Relaxed garden spot in Junas Waddo",
+        "status": {
+          "text": "Opposite Mandarin",
+          "tone": "neutral"
+        },
+        "tags": [],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

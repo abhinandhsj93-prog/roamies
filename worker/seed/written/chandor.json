@@ -1,0 +1,92 @@
+{
+  "query": "Chandor",
+  "region": "goa",
+  "name": "Chandor",
+  "draft": {
+    "briefing": "Hey, you're in Chandor! This quiet village sits where the ancient city of Chandrapura once stood, a capital from the time of the Bhoja kings right through to the Kadambas. Its Bhoja inscriptions go back to the 3rd or 4th century CE.",
+    "hungryLine": "Chandor is a sleepy village with no eateries in my notes, so plan to eat in Margao, about 10 km away.",
+    "moodReplies": {
+      "show-me-around": "Start at the village square, where the huge Braganza House and Nossa Senhora de Belem Church are both a minute's walk away, then stroll up to Mount Chapel.",
+      "somewhere-to-chill": "Wander down toward the Zuari, since the village sits right on its southern bank and the western bank of the Kushavati.",
+      "surprise-me": "The name comes from Chandreshwar, Lord of the Moon, a name for Shiva, who wears a crescent moon in his hair."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Braganza House",
+          "detail": "1 min walk · A 17th-century Portuguese-style mansion, one of the largest colonial-era homes in Goa",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Nossa Senhora de Belem Church",
+          "detail": "1 min walk · The village church, right by the square",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Mount Chapel",
+          "detail": "9 min walk · A little chapel just outside the village centre",
+          "status": {
+            "text": "Best early morning",
+            "tone": "neutral"
+          },
+          "illustration": "synagogue"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Chandor",
+        "title": "Lord of the Moon",
+        "body": "Locals trace the village name to Chandreshwar, Lord of the Moon, after Shiva with the crescent in his hair. The old Shiva temple, with bits of fortress wall around it, is among the oldest structural remains in Goa."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Carry water on the train.",
+        "body": "Chandar railway station has a single platform with little shelter and no water or toilets."
+      },
+      {
+        "icon": "tag",
+        "title": "Start at the village square.",
+        "body": "The Braganza House stretches along one whole side of the square, so it's the easiest place to get your bearings."
+      }
+    ],
+    "story": [
+      {
+        "era": "3rd century CE",
+        "title": "Bhoja capital",
+        "body": "By the 3rd century the Bhojas ruled Goa and nearby lands from Chandrapur, today's Chandor. Their inscriptions found here are some of the oldest records in Goa.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Long ago",
+        "title": "A Kadamba city",
+        "body": "Chandrapura stayed a capital into the Kadamba period. A fort and a Shiva temple stood inside its citadel.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1600s",
+        "title": "The great mansion",
+        "body": "The Menezes Braganza House went up in the 17th century in Portuguese style. It remains one of the largest colonial-period homes in all of Goa.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Today",
+        "title": "A riverside village",
+        "body": "Chandor is now a quiet village in Salcete, about 10 km from Margao. It has a small railway station called Chandar.",
+        "illustration": "flood"
+      }
+    ],
+    "food": []
+  }
+}

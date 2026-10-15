@@ -1,0 +1,49 @@
+{
+  "query": "Aldona",
+  "region": "goa",
+  "name": "Aldona",
+  "draft": {
+    "briefing": "Hey, you're in Aldona! This Bardez village is known for producing several prominent Goan personalities. It's also one of the few villages, maybe the only one, with two comunidades, the old village communities that ran local land.",
+    "hungryLine": "Aldona is a quiet residential village, so ask around locally for home-style Goan food.",
+    "moodReplies": {
+      "show-me-around": "St. Sebastian Chapel is just 2 minutes away, and St. Thomas Church and Holy Cross Chapel are both about a 6 minute walk.",
+      "somewhere-to-chill": "Take a slow walk to Corjuem Church, about 16 minutes away, and enjoy the village wards along the way.",
+      "surprise-me": "Two of Aldona's wards, Bodiem and Danua, sit across the Mapusa river and actually come under neighbouring Tivim's panchayat."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "St. Sebastian Chapel",
+          "detail": "2 min walk · A village chapel right on your doorstep",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "St. Thomas Church",
+          "detail": "6 min walk · The main church of the village",
+          "status": {"text": "Check timings locally", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Corjuem Church",
+          "detail": "16 min walk · A pleasant stroll out to the Corjuem ward",
+          "status": {"text": "Best early morning", "tone": "open"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {"icon": "tag", "title": "Dress modestly for the chapels.", "body": "Aldona is dotted with churches and chapels, so cover up a bit if you step inside."},
+      {"icon": "sun", "title": "Plan museum visits off Mondays.", "body": "The Houses of Goa Museum elsewhere in Bardez opens Tuesday to Sunday, so skip it on a Monday."}
+    ],
+    "story": [
+      {"era": "Long ago", "title": "A comunidade village", "body": "Aldona grew as a comunidade village of around 16 wards, with names like Quitula, Carona, Corjuem and Calvim. It's one of the few villages anywhere with two comunidades.", "illustration": "pepper"},
+      {"era": "Over time", "title": "Split by the river", "body": "The Mapusa river cuts off the Bodiem and Danua wards from the main village. Today those two wards fall under Tivim's panchayat.", "illustration": "flood"},
+      {"era": "2011", "title": "A village of six thousand", "body": "The 2011 census counted 6,320 people in Aldona. Literacy here was well above the national average.", "illustration": "warehouses"},
+      {"era": "Today", "title": "Home of notable Goans", "body": "Aldona is known for producing several prominent Goan personalities. It also gives its name to one of Goa's 40 assembly constituencies.", "illustration": "palace"}
+    ],
+    "food": []
+  }
+}

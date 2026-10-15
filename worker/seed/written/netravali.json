@@ -1,0 +1,80 @@
+{
+ "query": "Netravali",
+ "region": "goa",
+ "name": "Netravali",
+ "draft": {
+  "briefing": "Hey, you're in Netravali! It's a quiet census town in Sanguem taluka, part of Goa's Kushavati district, and the curiously named Bubbling Lake is just a 15 min walk away.",
+  "hungryLine": "Netravali is a small place with no real restaurant scene, so carry water and snacks for your wander.",
+  "moodReplies": {
+   "show-me-around": "Our Lady Of Pilar Chapel is a 6 min walk, and Bubbling Lake is about 15 min away on foot.",
+   "somewhere-to-chill": "Take the 15 min walk out to Bubbling Lake and just sit for a while.",
+   "surprise-me": "Salaulim Dam in Sanguem taluka took from 1976 to 2000 to build, and its irrigation side reached a potential of 9,537 hectares by 2007."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Bubbling Lake",
+     "detail": "15 min walk · A lake with a name that makes you want to go and look",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Our Lady Of Pilar Chapel",
+     "detail": "6 min walk · The little chapel close to the centre",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Salaulim Dam",
+     "detail": "About 5 km from Sanguem town · A 42.7 m high dam on the Salaulim River",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Use the forest taxi for Dudhsagar.",
+    "body": "The only way to reach Dudhsagar Falls is with the Bhagwan Mahavir Wildlife Sanctuary taxi near Molem village."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly at the chapel.",
+    "body": "Our Lady Of Pilar Chapel is a working place of worship, so cover up a little."
+   }
+  ],
+  "story": [
+   {
+    "era": "Kadamba times",
+    "title": "Ancient temples",
+    "body": "The Bhagwan Mahaveer Sanctuary and Mollem National Park area of Sanguem holds several important temples dating to the Kadamba Dynasty.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1976 to 2000",
+    "title": "Building Salaulim Dam",
+    "body": "Work on Salaulim Dam, on a tributary of the Zuari River, started in 1976 and finished in 2000. Its water spread covers 24 square km.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "A small forest town",
+    "body": "Netravali is a census town in Sanguem taluka, now in Kushavati district. Sanguem's parkland is also home to the Dhangar, a community of nomadic buffalo herders.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

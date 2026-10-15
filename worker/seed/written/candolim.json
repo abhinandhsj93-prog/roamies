@@ -1,0 +1,114 @@
+{
+  "query": "Candolim",
+  "region": "goa",
+  "name": "Candolim",
+  "draft": {
+    "briefing": "Hey, you're in Candolim! Sitting just south of Calangute and north of Sinquerim, this was the first village in Bardez to become entirely Christian, converted by the Franciscans in the late 16th century. Today it's a soft-sand beach town made for a relaxing holiday.",
+    "hungryLine": "Candolim eats well, from garden restaurants in old Goan houses to whole tandoori kingfish on the main road.",
+    "moodReplies": {
+      "show-me-around": "Head south to Fort Aguada, and stop at Sinquerim on the way for water sports at that end of the beach.",
+      "somewhere-to-chill": "Find a beach shack, grab a cold drink and a sunbed, there's not much to do here but relax, and that's the point.",
+      "surprise-me": "On 13 August 1604, a migrant from Loutolim named Naru Sinay bought the fifth vangodd, or clan share, of Candolim's comunidade."
+    },
+    "seeFirst": {
+      "caption": "Short drives from here",
+      "spots": [
+        {
+          "name": "Fort Aguada",
+          "detail": "Short drive · The fort at the south end of this coast",
+          "status": {
+            "text": "Best early morning",
+            "tone": "open"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Sinquerim",
+          "detail": "Short drive · Village at the end of the beach, base for parasailing and wildlife trips",
+          "status": {
+            "text": "Busy at weekends",
+            "tone": "warning"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Mind the monsoon closures.",
+        "body": "Most Candolim restaurants close during the monsoon, though Flambee stays open all year."
+      },
+      {
+        "icon": "tag",
+        "title": "Say a polite but firm no.",
+        "body": "Hawkers and masseurs work the beach, and a friendly no always works."
+      }
+    ],
+    "story": [
+      {
+        "era": "Late 1500s",
+        "title": "A Franciscan village",
+        "body": "In the late 16th century the Franciscans converted all of Candolim, the first Bardez village to become entirely Christian. Their church here was Our Lady of Hope.",
+        "illustration": "synagogue"
+      },
+      {
+        "era": "1580s",
+        "title": "Santu Sinay becomes Salvador Pinto",
+        "body": "Santu Sinay, a Brahmin ganvkar's son born in 1577, was converted with his family at age 8. He took the name Salvador Pinto and founded the Pinto family.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1604",
+        "title": "A share of the comunidade",
+        "body": "His father Naru Sinay had moved here from Loutolim. On 13 August 1604 he bought the fifth vangodd of Candolim's comunidade.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "Today",
+        "title": "Sun and sand",
+        "body": "Candolim is now a busy tour-operator beach town, packed with locals at weekends. Erosion has narrowed the beach in places, but the shacks keep coming.",
+        "illustration": "flood"
+      }
+    ],
+    "food": [
+      {
+        "name": "After 7",
+        "detail": "Mainly European food and wine in a beautiful garden, very romantic",
+        "status": {
+          "text": "Opposite Pedro Martina Resort",
+          "tone": "neutral"
+        },
+        "tags": [
+          "mild"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Coconut Inn",
+        "detail": "Good food in an old Goan house garden at reasonable prices",
+        "status": {
+          "text": "Live Goan music on Tuesdays",
+          "tone": "open"
+        },
+        "tags": [
+          "cheap"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Flambee",
+        "detail": "Order the whole tandoori kingfish if you're in a group",
+        "status": {
+          "text": "Open all year",
+          "tone": "open"
+        },
+        "tags": [
+          "seafood"
+        ],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "query": "Anjuna",
+  "region": "goa",
+  "name": "Anjuna",
+  "draft": {
+    "briefing": "Hey, you're in Anjuna! This village landed on the hippie trail in the late 1960s, and along with Vagator next door it's still closely tied to Goa's rave and trance culture. Its name may come from the Arabic 'Hanjuman', meaning merchant guild.",
+    "hungryLine": "Anjuna eats from everywhere, Goan, Israeli, Italian and French, and you can try cashew fenny, the local spirit.",
+    "moodReplies": {
+      "show-me-around": "Walk 8 minutes to the Sunset Viewpoint, then head up to Chapora Fort, which looks across the river to Morjim.",
+      "somewhere-to-chill": "Try Vagator Beach just north, with black rock cliffs and three little beaches split by a headland.",
+      "surprise-me": "Some say Anjuna's name comes from an Arabic word for 'change', because people arrived from the sea looking to change money."
+    },
+    "seeFirst": {
+      "caption": "Around Anjuna and Vagator",
+      "spots": [
+        {
+          "name": "Sunset Viewpoint",
+          "detail": "8 min walk · Catch the sun going down over the sea",
+          "status": {
+            "text": "Best at sunset",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Anjuna Flea Market",
+          "detail": "In Anjuna · Stalls selling pretty much anything, haggling expected",
+          "status": {
+            "text": "Wednesdays only",
+            "tone": "warning"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Chapora Fort",
+          "detail": "Short drive · Fort high above the Chapora River with views to Morjim",
+          "status": {
+            "text": "Best early morning",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Anjuna",
+        "title": "The money changers' beach",
+        "body": "One story says Anjuna's name comes from an Arabic word for 'change'. People used to land here from the sea looking to change money."
+      },
+      {
+        "where": "Chapora Fort",
+        "title": "Shahpoora becomes Chapora",
+        "body": "The fort was first called Shahpoora after Adil Shah. The Malvankars, Shivaji's naval men who stayed on in nearby villages, changed it to Shapora at the Portuguese's request."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Hit the flea market early.",
+        "body": "Go early on Wednesday for bargains, rest through the hot noon hours and come back later in the day."
+      },
+      {
+        "icon": "tag",
+        "title": "Time it with a feast.",
+        "body": "St. Michael's Church celebrates Saint Michael on 29 September and Nossa Senhora Advogada in the second week of January."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "A merchant guild's name",
+        "body": "Historian Teresa Albuquerque traces Anjuna's name to the Arabic 'Hanjuman', meaning merchant guild. Anjuna became one of the twelve comunidades of Bardez.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Adil Shahi era",
+        "title": "A fort on the river",
+        "body": "Adil Shah built a fort called Shahpoora high above the Chapora River. Its name later became Shapora, and today we call it Chapora Fort.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1595",
+        "title": "St. Michael's Church",
+        "body": "St. Michael's Church was founded in 1595, during the long Portuguese rule. In the twentieth century the Vagator chapel became a parish church of its own, dedicated to St. Antonio.",
+        "illustration": "synagogue"
+      },
+      {
+        "era": "Late 1960s",
+        "title": "The hippie trail",
+        "body": "Anjuna became a stop on the hippie trail in the late 1960s. The village grew from 5,688 people in 1950 to 9,636 by 2011.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "Today",
+        "title": "Trance and markets",
+        "body": "Anjuna and Vagator are closely linked to rave and trance culture. The Wednesday flea market and beach shacks like Curlies keep the old spirit going.",
+        "illustration": "flood"
+      }
+    ],
+    "food": [
+      {
+        "name": "Avalon Sunset",
+        "detail": "Multi-cuisine spot by the rocks, great for an afternoon drink",
+        "status": {
+          "text": "On the main street to the beach",
+          "tone": "neutral"
+        },
+        "tags": [
+          "mild"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Bean Me Up",
+        "detail": "Popular organic restaurant with loads of vegetarian, vegan and salad options",
+        "status": {
+          "text": "Next to the petrol station",
+          "tone": "neutral"
+        },
+        "tags": [
+          "vegetarian"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "The German bakery",
+        "detail": "Relaxed breakfasts and good quality bread",
+        "status": {
+          "text": "No beer served",
+          "tone": "neutral"
+        },
+        "tags": [
+          "mild"
+        ],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

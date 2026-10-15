@@ -1,0 +1,62 @@
+{
+ "query": "Tambdi Surla",
+ "region": "goa",
+ "name": "Tambdi Surla",
+ "draft": {
+  "briefing": "Hey, you're at Tambdi Surla! The Mahadev Temple here is a 13th century Shiva temple built in the Kadamba style, and people still come to worship in it today.",
+  "hungryLine": "There's no food scene out here, so bring snacks and water with you.",
+  "moodReplies": {
+   "show-me-around": "The Mahadev Temple is about a 15 min walk from here.",
+   "somewhere-to-chill": "Find a quiet spot near the old Mahadev Temple and take in the stonework.",
+   "surprise-me": "The temple reminds many people of the temples at Aihole in neighbouring Karnataka."
+  },
+  "seeFirst": {
+   "caption": "A short walk from here",
+   "spots": [
+    {
+     "name": "Mahadev Temple",
+     "detail": "15 min walk · A 13th century Kadamba style Shiva temple, still in worship",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly.",
+    "body": "The Mahadev Temple is an active place of Hindu worship, so cover up and be respectful."
+   },
+   {
+    "icon": "tag",
+    "title": "Treat it gently.",
+    "body": "It's an ASI protected Monument of National Importance, so treat the old stones with care."
+   }
+  ],
+  "story": [
+   {
+    "era": "1200s",
+    "title": "Built for Shiva",
+    "body": "The Mahadev Temple at Tambdi Surla was built in the 13th century and dedicated to Lord Shiva.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Kadamba style",
+    "title": "A Kadamba design",
+    "body": "It was built in the Kadamba style and is reminiscent of the temples at Aihole in Karnataka.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "Protected and alive",
+    "body": "The Archaeological Survey of India protects it as a Monument of National Importance in Goa, and it is still an active place of worship.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": []
+ }
+}

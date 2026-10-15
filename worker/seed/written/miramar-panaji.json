@@ -1,0 +1,86 @@
+{
+ "query": "Miramar, Panaji",
+ "region": "goa",
+ "name": "Miramar Beach",
+ "draft": {
+  "briefing": "Hey, you're at Miramar Beach! It sits right where the Mandovi River meets the Arabian Sea, and its name literally means sea-view, though the Portuguese first called it Porta de Gaspar Dias.",
+  "hungryLine": "There's a popular café near the beach, close to Clube Gaspar de Dias, for a quick bite after your walk.",
+  "moodReplies": {
+   "show-me-around": "Stella Maris Chapel is a 7 min walk and the Science Center is about 9 min away.",
+   "somewhere-to-chill": "Walk down to Miramar Beach, just 5 min from here, and watch the river run into the sea.",
+   "surprise-me": "Miramar Beach hosted the beach volleyball events of the 2014 Lusofonia Games."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Miramar Beach",
+     "detail": "5 min walk · Panjim's own beach, where the Mandovi meets the sea",
+     "status": {
+      "text": "Busy with visitors daily",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Stella Maris Chapel",
+     "detail": "7 min walk · A small chapel close to the beach",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Science Center",
+     "detail": "9 min walk · An easy stop near the beach",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Expect company on the sand.",
+    "body": "Miramar is one of the most visited beaches in Goa and lots of people come every single day."
+   },
+   {
+    "icon": "tag",
+    "title": "See what's on at Kala Academy.",
+    "body": "The Kala Academy at nearby Campal promotes music, dance, drama and folk art, and its building was designed by Charles Correa."
+   }
+  ],
+  "story": [
+   {
+    "era": "Portuguese era",
+    "title": "Porta de Gaspar Dias",
+    "body": "The Portuguese originally named this stretch Porta de Gaspar Dias. Later it became Miramar, from the Spanish and Portuguese for sea-view.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1600s to 1800s",
+    "title": "St Inez Creek",
+    "body": "The nearby Santa Inês creek runs 3.7 km into the Mandovi. A Portuguese plaque dates it to 1829, but historian Percival Noronha traces it back to 1647.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1970",
+    "title": "A home for the arts",
+    "body": "The Government of Goa set up the Kala Academy at Campal on 28 February 1970 to promote music, dance, drama and literature.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2014",
+    "title": "Games on the beach",
+    "body": "Miramar Beach was the venue for beach volleyball at the 2014 Lusofonia Games. Today it is one of only two beaches in Panjim, the other being Caranzalem.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

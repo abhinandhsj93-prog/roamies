@@ -1,0 +1,86 @@
+{
+  "query": "Majorda",
+  "region": "goa",
+  "name": "Majorda",
+  "draft": {
+    "briefing": "Hey, you're in Majorda! This small Salcete village north-west of Margao is famous for its beaches. Among its notable people is the Bollywood music composer Anthony Gonsalves.",
+    "hungryLine": "No eateries in my notes for Majorda, so ask around for the day's fresh fish.",
+    "moodReplies": {
+      "show-me-around": "Christ Rei Chapel is a 9 minute walk, and the parish Mother of God Church is about 19 minutes away.",
+      "somewhere-to-chill": "Head to the beach, it's what Majorda is famous for.",
+      "surprise-me": "Majorda has a literacy rate of 93.23%, well above Goa's average of 88.70%."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Christ Rei Chapel",
+          "detail": "9 min walk · A small village chapel",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "synagogue"
+        },
+        {
+          "name": "Capela de Nossa Senhora da Piedade",
+          "detail": "18 min walk · Chapel of Our Lady of Piety",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "synagogue"
+        },
+        {
+          "name": "Mother of God Church",
+          "detail": "19 min walk · Majorda's parish church, Mae de Deus",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Come by train.",
+        "body": "Majorda Junction is a small two-platform station near the village."
+      },
+      {
+        "icon": "tag",
+        "title": "Dress modestly at church.",
+        "body": "The village is dotted with chapels and its parish church, so cover up when you step inside."
+      }
+    ],
+    "story": [
+      {
+        "era": "1927 to 2012",
+        "title": "A composer's village",
+        "body": "Bollywood music composer Anthony Gonsalves, who lived from 1927 to 2012, is counted among Majorda's notable people.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "2011",
+        "title": "A small, bookish village",
+        "body": "The 2011 census counted 2,813 people in Majorda, with a literacy rate of 93.23%.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "2014",
+        "title": "Hollywood comes to the beach",
+        "body": "Planet Hollywood Beach Resort opened in December 2014, India's first Hollywood-themed beach resort.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Today",
+        "title": "Beaches and chapels",
+        "body": "Majorda is still best known for its beaches, with the Mother of God Church as its parish church.",
+        "illustration": "flood"
+      }
+    ],
+    "food": []
+  }
+}

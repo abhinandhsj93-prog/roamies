@@ -1,0 +1,49 @@
+{
+  "query": "Ashwem",
+  "region": "goa",
+  "name": "Morjim",
+  "draft": {
+    "briefing": "Hey, you're in Morjim! This stretch on the north bank of the Chapora River estuary is a nesting site for olive ridley sea turtles. So many Russians have settled here that people call it 'Little Russia'.",
+    "hungryLine": "The beach restaurants here do pizzas, Goan and North Indian food, and a few Russian joints even serve borscht by the sea.",
+    "moodReplies": {
+      "show-me-around": "Walk 9 minutes to Milagres Church, then carry on to Santa Cruz Chapel and the Morje Kuladevta temple.",
+      "somewhere-to-chill": "The beach here is quiet and untraveled compared to Goa's resort strips, and in season the water is pleasant for wading.",
+      "surprise-me": "Morjim is pronounced 'Morji', the second m is silent."
+    },
+    "seeFirst": {
+      "caption": "Short walks around Morjim",
+      "spots": [
+        {
+          "name": "Milagres Church",
+          "detail": "9 min walk · A local church in the village",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Santa Cruz Chapel",
+          "detail": "10 min walk · A small village chapel",
+          "status": {"text": "Check timings locally", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Morje Kuladevta",
+          "detail": "13 min walk · The village's family deity temple",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {"icon": "sun", "title": "Swim while lifeguards are on.", "body": "Lifeguards are on duty from sunrise to sunset, so stick to those hours for a dip."},
+      {"icon": "tag", "title": "Give kitesurfing a go.", "body": "The shallow sea and very wide beach make it a kitesurfing favourite, and rentals are available right on the beach."}
+    ],
+    "story": [
+      {"era": "Long ago", "title": "Birds and turtles", "body": "Morjim sits on the northern bank of the Chapora River estuary. It has long been home to a variety of birds and to nesting olive ridley turtles.", "illustration": "flood"},
+      {"era": "Recent years", "title": "Little Russia", "body": "A boom in Russian visitors and settlers earned the village the nickname 'Little Russia'. Some local politicians have objected to the Russian presence.", "illustration": "warehouses"},
+      {"era": "2011", "title": "A census town", "body": "The 2011 census counted 6,760 people in Morjim. Literacy here was higher than the Goa state average.", "illustration": "pepper"},
+      {"era": "Today", "title": "Kites over the sand", "body": "Far from Goa's main resorts, the beach stays relatively quiet. Kitesurfers love its shallow water and wide sands.", "illustration": "flood"}
+    ],
+    "food": []
+  }
+}

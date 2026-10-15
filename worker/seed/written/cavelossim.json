@@ -1,0 +1,83 @@
+{
+  "query": "Cavelossim",
+  "region": "goa",
+  "name": "Cavelossim",
+  "draft": {
+    "briefing": "Hey, you're in Cavelossim! This village sits at the very southern tip of the Salcete beach stretch that runs all the way from Majorda, right where the Sal River meets the Arabian Sea. Legend says a defeated prince found refuge here.",
+    "hungryLine": "Cavelossim is a quiet village, so ask locals where to find good Goan home cooking.",
+    "moodReplies": {
+      "show-me-around": "Walk out to the beach at the southern tip of Salcete, then drive north to neighbouring Carmona along the Sal River.",
+      "somewhere-to-chill": "Sit by the mouth of the Sal River and watch it flow into the sea.",
+      "surprise-me": "Before the church of Santa Cruz, the village's only attraction was a small Shantadurga temple, believed to have stood about 100 metres behind the church's current spot."
+    },
+    "seeFirst": {
+      "caption": "Short drives from here",
+      "spots": [
+        {
+          "name": "Carmona",
+          "detail": "Short drive · Neighbouring village between the Sal River and the sea",
+          "status": {
+            "text": "Best early morning",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Ancestral Goa",
+          "detail": "Short drive · In Loutolim, a recreation of Goa's traditional past",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Cavelossim",
+        "title": "The prince in exile",
+        "body": "It's said a usurped Raja, Prince Rama of the Nayaka line, wandered here after defeat and was given asylum. Some say he came from the Nayakas of Keladi as late as the 1500s, with his loyal soldiers in tow."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Look for the old temple site.",
+        "body": "The Shantadurga temple of old is believed to have stood about 100 metres behind the Santa Cruz church."
+      },
+      {
+        "icon": "tag",
+        "title": "Don't mix up your villages.",
+        "body": "The big Shantadurga temple is in Quelossim, a similarly named village between Mormugao and Salcete, not here."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "A goddess by the river",
+        "body": "Cavelossim's only attraction was once a small temple to the goddess Shantadurga. It's believed to have stood just behind where the Santa Cruz church is now.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1500s",
+        "title": "A prince finds refuge",
+        "body": "Tradition says a defeated Nayaka prince, Prince Rama, was granted asylum here. He may have arrived with his remaining loyal soldiers and officers.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Later",
+        "title": "Families of soldiers",
+        "body": "Several Cavelossim families trace their lineage to Nayaka and Vijayanagara officers. The village's vaddos, or wards, grew around them.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "Today",
+        "title": "End of the Salcete coast",
+        "body": "Today Cavelossim's beach is well known as the southern end of the Salcete stretch. The Sal River closes it off to the south.",
+        "illustration": "flood"
+      }
+    ],
+    "food": []
+  }
+}

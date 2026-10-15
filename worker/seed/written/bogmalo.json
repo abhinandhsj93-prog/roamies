@@ -1,0 +1,46 @@
+{
+  "query": "Bogmalo",
+  "region": "goa",
+  "name": "Bogmalo",
+  "draft": {
+    "briefing": "Hey, you're in Bogmalo! This little village sits in a small bay with about a mile of curving sand, just 4 km from Dabolim Airport. It's generally very quiet, which makes it a lovely spot to rest before or after a flight.",
+    "hungryLine": "A handful of restaurants line the beachfront, and some of the smaller ones will set up a candlelit table on the sand for you.",
+    "moodReplies": {
+      "show-me-around": "The Naval Aviation Museum is about 10 minutes away, with decommissioned military aircraft outside and a two-storey gallery inside.",
+      "somewhere-to-chill": "Grab a seat at a beachfront restaurant for the sunset, Bogmalo is known for beautiful ones.",
+      "surprise-me": "Half a dozen cows turn up on the beach mid-afternoon and wander back up the road as soon as the sun sets."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Naval Aviation Museum",
+          "detail": "10 min walk · History of India's Naval Air Arm, with real aircraft on show",
+          "status": {"text": "Souvenirs at the navy shop", "tone": "open"},
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Dabolim Airport",
+          "detail": "22 min walk · Goa's first airport, inside the INS Hansa naval base",
+          "status": {"text": "Allow time for flights", "tone": "neutral"},
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {"icon": "sun", "title": "Stay for sunset.", "body": "Bogmalo is famous for its sunsets, best watched from one of the beachfront bars."},
+      {"icon": "tag", "title": "Book boat trips at Full Moon.", "body": "Trips to the islands and for dolphin spotting can be booked at the Full Moon restaurant at the south end of the beach."}
+    ],
+    "story": [
+      {"era": "Since Independence", "title": "Navy wings", "body": "The Indian Navy's air arm has flown from nearby INS Hansa, India's biggest naval airbase. The Naval Aviation Museum tells that story with aircraft used since Independence.", "illustration": "warehouses"},
+      {"era": "Over the years", "title": "Goa's first airport", "body": "Dabolim Airport, the first airport in Goa, runs as a civil enclave inside INS Hansa. Its integrated terminal opened in December 2013.", "illustration": "palace"},
+      {"era": "2023", "title": "A quieter sky", "body": "In 2023 some big UK flights moved to Goa's new second airport. Since then traffic at Dabolim has been declining.", "illustration": "warehouses"},
+      {"era": "Today", "title": "A sleepy bay", "body": "Bogmalo stays a small, quiet beach village despite the airport next door. It even hosts AIESEC India conferences every June or July.", "illustration": "flood"}
+    ],
+    "food": [
+      {"name": "Joets", "detail": "A bit more upmarket, at the north end of the beach", "status": {"text": "Slightly pricier", "tone": "neutral"}, "tags": ["seafood"], "illustration": "warehouses"},
+      {"name": "Full Moon", "detail": "Upmarket spot at the south end, also books boat trips", "status": {"text": "Slightly pricier", "tone": "neutral"}, "tags": ["seafood"], "illustration": "warehouses"}
+    ]
+  }
+}

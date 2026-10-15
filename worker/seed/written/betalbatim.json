@@ -1,0 +1,86 @@
+{
+  "query": "Betalbatim",
+  "region": "goa",
+  "name": "Nuvem",
+  "draft": {
+    "briefing": "Hey, you're in Nuvem! Once a village on the outskirts of Margao, it's now a town of its own on National Highway 17, about 5 km from Margao. Football and Konkani tiatrs, the local musical plays, are what people here love most.",
+    "hungryLine": "Margao's huge covered food market is just 5 km away, a great place to see what Salcete eats.",
+    "moodReplies": {
+      "show-me-around": "Check out Ashvek Vintage World for its old Mercedes, Morris and Volkswagen cars, then head to Majorda, a village famous for its beaches.",
+      "somewhere-to-chill": "Make your way to Majorda's beaches, a short ride from here.",
+      "surprise-me": "Nuvem once had a go-kart track up on the hill top."
+    },
+    "seeFirst": {
+      "caption": "Around Nuvem",
+      "spots": [
+        {
+          "name": "Ashvek Vintage World",
+          "detail": "On NH17 · Classic cars and motorcycles lovingly restored",
+          "status": {
+            "text": "Small entry fee",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Majorda",
+          "detail": "Short drive · A village famous for its beaches",
+          "status": {
+            "text": "Best early morning",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Majorda Junction railway station",
+          "detail": "23 min walk · Small two-platform junction near Majorda",
+          "status": {
+            "text": "Check train times locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Catch a tiatr.",
+        "body": "Konkani tiatrs are hugely popular here, so look out for a show while you're around."
+      },
+      {
+        "icon": "tag",
+        "title": "Use the highway.",
+        "body": "Nuvem sits on NH17, 5 km from Margao, 24 km from Vasco da Gama and 29 km from Panjim."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "Margao's outskirts",
+        "body": "Nuvem began as a village on the edge of Margao. Its neighbours are Verna, Majorda and Seraulim.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "Later years",
+        "title": "A college town",
+        "body": "Nuvem became home to Carmel College for Women and IAM Institute of Hotel Management. The Verna complex of Agnel institutions sits nearby.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "2011",
+        "title": "A census town",
+        "body": "By the 2011 census Nuvem had grown to 9,288 people. It's now a census town in South Goa.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Today",
+        "title": "Football and theatre",
+        "body": "Football is the top sport here and tiatrs pack the crowds in. New hobbies keep turning up too, like a paintball-style game called MILSIM GOA.",
+        "illustration": "pepper"
+      }
+    ],
+    "food": []
+  }
+}

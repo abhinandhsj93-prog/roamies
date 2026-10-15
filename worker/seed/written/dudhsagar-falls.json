@@ -1,0 +1,86 @@
+{
+  "query": "Dudhsagar Falls",
+  "region": "goa",
+  "name": "Dudhsagar Falls",
+  "draft": {
+    "briefing": "Hey, you're at Dudhsagar Falls! The name means 'Sea of Milk', and this four-tiered waterfall on the Mahadayi River drops 310 metres, making it one of India's tallest. It sits at the top of a crescent-shaped valley wrapped in forest.",
+    "hungryLine": "There's nothing to eat out here in my notes, so pack some food, ideally Goa's favourite, rice and fish curry.",
+    "moodReplies": {
+      "show-me-around": "The falls are just a 5 minute walk from here, and Dudh Sagar Water Falls railway station is only a minute beyond.",
+      "somewhere-to-chill": "Find a rock, look up at the 30-metre-wide curtain of water and just let the forest noise take over.",
+      "surprise-me": "There are three tiny railway stations in the Braganza Ghats around here, and one of them exists just to serve the falls."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Dudhsagar Falls",
+          "detail": "5 min walk · A 310 m, four-tiered waterfall on the Mahadayi",
+          "status": {
+            "text": "Watch your footing",
+            "tone": "warning"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Dudh Sagar Water Falls railway station",
+          "detail": "6 min walk · Single-platform station built to serve the falls",
+          "status": {
+            "text": "No water or toilets",
+            "tone": "warning"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Dudh Sagar railway station",
+          "detail": "14 min walk · Another small Braganza Ghats station, for Dudh Sagar village",
+          "status": {
+            "text": "Little shelter",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Carry water and snacks.",
+        "body": "The little stations here lack water and sanitation, so bring what you need."
+      },
+      {
+        "icon": "tag",
+        "title": "Come by rail or road.",
+        "body": "The falls are on the Belagavi to Vasco da Gama line, about 46 km east of Madgaon, or 60 km from Panaji by road."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "Sea of Milk",
+        "body": "The Mahadayi River tumbles down four tiers at the head of a crescent-shaped valley. The name Dudhsagar literally means Sea of Milk.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Railway days",
+        "title": "Stations in the ghats",
+        "body": "The Belagavi to Vasco da Gama line climbs through the Braganza Ghats past the falls. Three small stations, Sonalium, Dudh Sagar and Dudhsagar Waterfalls, serve the area.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "2010",
+        "title": "A new taluka announced",
+        "body": "On 25 March 2010 the Chief Minister announced a new Dharbandora taluka, Goa's 12th, in his budget speech.",
+        "illustration": "palace"
+      },
+      {
+        "era": "2011",
+        "title": "Dharbandora is born",
+        "body": "Dharbandora taluka came into being on 4 April 2011, drawing villages such as Colem and Molem from Sanguem taluka.",
+        "illustration": "pepper"
+      }
+    ],
+    "food": []
+  }
+}

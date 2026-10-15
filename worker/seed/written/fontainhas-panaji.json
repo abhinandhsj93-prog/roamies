@@ -1,0 +1,130 @@
+{
+  "query": "Fontainhas, Panaji",
+  "region": "goa",
+  "name": "Panaji",
+  "draft": {
+    "briefing": "Hey, you're in Panaji! You're standing by Fontainhas, the old Latin quarter, with winding lanes, projecting balconies and houses painted pale yellow, green or blue under red-tiled roofs. This city was once the capital of all of Portuguese India.",
+    "hungryLine": "Try the native vindaloo with fish or chicken, it's hot, along with Goan sausages and fish curry rice.",
+    "moodReplies": {
+      "show-me-around": "Walk 4 minutes to the Our Lady of the Immaculate Conception Church above the main square, then on to the Adil Shah Palace, the oldest colonial-era building in town.",
+      "somewhere-to-chill": "Take a slow sunset cruise on the Mandovi from beside the Captain of Ports jetty, or just wander the alleys of Fontainhas.",
+      "surprise-me": "Panaji's Central Library, founded in 1832, says it was the first public library set up in India."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Our Lady of the Immaculate Conception Church",
+          "detail": "4 min walk · Baroque church first built in 1541, with Mass in English, Konkani and Portuguese",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Adil Shah Palace",
+          "detail": "8 min walk · Old summer palace of the Adil Shahi rulers, later the Old Secretariat",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Mhamai Kamat House",
+          "detail": "7 min walk · 18th-century family home that was once a bead factory",
+          "status": {
+            "text": "Private home, view from outside",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Catch the sunset cruise.",
+        "body": "River cruises leave from beside the Captain of Ports jetty from around sunset."
+      },
+      {
+        "icon": "tag",
+        "title": "Explore on foot.",
+        "body": "The best way to see Panaji is walking its alleys and taking in the Portuguese architecture."
+      }
+    ],
+    "story": [
+      {
+        "era": "Before the Portuguese",
+        "title": "A sultan's summer palace",
+        "body": "The Adil Shah Palace began as a summer palace for the ruler of the Adil Shahi dynasty. It's now the oldest surviving colonial-era building in the city.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1541",
+        "title": "A hillside chapel",
+        "body": "A chapel went up on a hillside overlooking Panaji in 1541. A larger church replaced it in the 1600s, and it holds a bell brought from the ruins of Old Goa.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1832",
+        "title": "India's first public library",
+        "body": "The Central Library opened in the early 1830s. It says it was the first public library in India.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "1946",
+        "title": "The 18th of June",
+        "body": "Ram Manohar Lohia called a meeting on 18 June 1946 to end Portuguese rule. One of Panaji's busiest shopping streets, 18th June Road, is named after that day.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "Today",
+        "title": "Goa's capital",
+        "body": "After about 451 years, Portuguese rule ended in December 1961. Panaji, once Nova Goa, is now the capital of Goa.",
+        "illustration": "flood"
+      }
+    ],
+    "food": [
+      {
+        "name": "Avanti Bar & Restaurant",
+        "detail": "Right in Fontainhas, go for the vindaloo, sausages or Goan fish curry and rice",
+        "status": {
+          "text": "Near Panaji bus stand",
+          "tone": "neutral"
+        },
+        "tags": [
+          "seafood"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Cafe Real Tea Room",
+        "detail": "Hot vegetarian snacks near Azad Maidan, try the bhaaji pao and onion bojjea with tea",
+        "status": {
+          "text": "On Mahatma Gandhi Road",
+          "tone": "neutral"
+        },
+        "tags": [
+          "vegetarian",
+          "cheap"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Gujarat Lodge",
+        "detail": "Snacks and sweets on 18th June Road, with hot samosas in the evening",
+        "status": {
+          "text": "Busy in the evening",
+          "tone": "neutral"
+        },
+        "tags": [
+          "cheap"
+        ],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

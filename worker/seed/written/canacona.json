@@ -1,0 +1,134 @@
+{
+  "query": "Canacona",
+  "region": "goa",
+  "name": "Canacona",
+  "draft": {
+    "briefing": "Hey, you're in Canacona, or Kankon as locals say! This is Goa's southernmost taluka, and Chaudi is its headquarters. Its beach belt, including Palolem, Patnem and Agonda, was only 'discovered' after the 1990s.",
+    "hungryLine": "Head to Palolem beach, where Goan dishes, fish tandoor and fresh juices are the local favourites.",
+    "moodReplies": {
+      "show-me-around": "Visit Mallikarjun Temple, 2.5 km from Chaudi, then the five centuries old Parthagal math.",
+      "somewhere-to-chill": "Seek out one of Canacona's nearly 20 lesser-known beaches, no hotels, no restaurants, just quiet.",
+      "surprise-me": "Chaudi gets its name from the chavdi, the hall where each comunidade's village elders met to make big decisions."
+    },
+    "seeFirst": {
+      "caption": "Short drives from town",
+      "spots": [
+        {
+          "name": "Mallikarjun Temple",
+          "detail": "2.5 km from Chaudi · Devotees come for advice from the oracles",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Parthagal math",
+          "detail": "Short drive · A monastery five centuries old",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Cotigao Wildlife Sanctuary",
+          "detail": "Short drive · Forest sanctuary in the Canacona area",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Mallikarjun Temple",
+        "title": "Answers in the petals",
+        "body": "Devotees come to Mallikarjun Temple for advice from the oracles. The answer is read from where the flower petals drop."
+      },
+      {
+        "where": "Canacona",
+        "title": "The sage Kanva's town",
+        "body": "Some traditional accounts link the region to the name Kanvapura and the sage Kanva. Goa University research calls this one of several traditions about how Kankon got its name."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Get your own wheels.",
+        "body": "Public buses are few and far between, so a bike or car makes reaching the beaches and fort much easier."
+      },
+      {
+        "icon": "sun",
+        "title": "Time an Anjediva trip.",
+        "body": "Visits to Anjediva Island usually happen around October or February, during local feasts."
+      }
+    ],
+    "story": [
+      {
+        "era": "7th century",
+        "title": "Betal of Loliem",
+        "body": "In Loliem, a statue of Betal, possibly a pre-Hindu deity, goes back to the seventh century if not earlier. The village also has centuries-old 'hero' stones recording old events.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Long ago",
+        "title": "Village halls",
+        "body": "Each comunidade had a hall called a chavdi or chaudi, where elders made important decisions. Chaudi kept its importance and became the taluka's main town.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Portuguese era",
+        "title": "Kankon becomes Canacona",
+        "body": "Kankon is the local form of the name. Canacona is the form the Portuguese used, and it stuck in later administration.",
+        "illustration": "synagogue"
+      },
+      {
+        "era": "After the 1990s",
+        "title": "The beach belt",
+        "body": "Canacona's beaches were 'discovered' only after the 1990s. Palolem and Agonda remain not overdeveloped, with dolphin-watching and fishing trips drawing visitors.",
+        "illustration": "flood"
+      }
+    ],
+    "food": [
+      {
+        "name": "Palolem Beach Resort",
+        "detail": "Dilip Gaitonde's place right on the beach, Goan dishes are the favourites",
+        "status": {
+          "text": "On Palolem beach",
+          "tone": "neutral"
+        },
+        "tags": [
+          "seafood"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Fernandes Restaurant",
+        "detail": "Goan food and fresh juices",
+        "status": {
+          "text": "On Palolem beach",
+          "tone": "neutral"
+        },
+        "tags": [
+          "seafood"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Silver Star",
+        "detail": "Go for the fish tandoor or a sizzler",
+        "status": {
+          "text": "On Palolem beach",
+          "tone": "neutral"
+        },
+        "tags": [
+          "seafood"
+        ],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

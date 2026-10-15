@@ -1,0 +1,130 @@
+{
+ "query": "Palolem",
+ "region": "goa",
+ "name": "Palolem",
+ "draft": {
+  "briefing": "Hey, you're in Palolem! The beach is a mile-long crescent with rocks at both ends, and the sea slopes so gently that you can walk up to 100 m out from the shore.",
+  "hungryLine": "Fishing is one of the two big trades here, so your fish dinner really is from the sea, and Fernandes near the church is a favourite with old regulars.",
+  "moodReplies": {
+   "show-me-around": "At low tide, walk across the rocks to Butterfly Island on the right end of the beach, or ride the coastal road north to Agonda and Cabo da Rama.",
+   "somewhere-to-chill": "Grab one of the free sun loungers with an umbrella on the beach, or take a boat to tiny Honeymoon Beach for total quiet.",
+   "surprise-me": "Butterfly Beach, a boat ride away, is so steep you can dive in right from the water's edge if you time it well."
+  },
+  "seeFirst": {
+   "caption": "Day trips from the beach",
+   "spots": [
+    {
+     "name": "Agonda beach",
+     "detail": "20 km north · A very quiet beach along a beautiful coastal road",
+     "status": {
+      "text": "Best with your own transport",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Cabo da Rama",
+     "detail": "Further north past Agonda · A ruined fort on a cliff with big views",
+     "status": {
+      "text": "Best with your own transport",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Cotigao wildlife sanctuary",
+     "detail": "Good day trip · A wildlife sanctuary in Canacona",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Canacona",
+    "title": "The sage Kanva",
+    "body": "Some traditional accounts link this region with the name Kanvapur and the sage Kanva. Goa University calls it one of several traditions about where the name Kankon came from."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Take the boat at 7AM or 5PM.",
+    "body": "Early morning or around 5PM is the best time for the island boat ride, and the evening one gets you the sunset."
+   },
+   {
+    "icon": "tag",
+    "title": "Watch the tide for Butterfly Island.",
+    "body": "You can only walk across at low tide, so carry water and go carefully, as people have hurt themselves on those rocks."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Kingdom of Soonda",
+    "body": "Canacona was one of the districts of the Kingdom of Soonda, itself a remnant of the Vijayanagara Empire. Its name is a corruption of Konkan.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1700s",
+    "title": "Handed to Portugal",
+    "body": "When Hyder Ali of Mysore invaded Soonda, the heirless Raja ceded the rest to Portugal. Canacona joined Goa in 1794.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Since then",
+    "title": "Lightly Portuguese",
+    "body": "Canacona's culture is an Indo-Portuguese mix, but it saw less Portuguese influence than the central Old Conquests of Goa.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "Fishers and travellers",
+    "body": "Palolem's shore is shared by local fishermen and foreign visitors who stay in shacks along the beach or in the village.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Fernandes",
+    "detail": "Just past the church on the right side of the beach · Indian food, tandoori and fairly cheap fresh fish",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Cool Breeze",
+    "detail": "A jazz café popular with locals, with great food",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Sameer Restaurant",
+    "detail": "Right on the beach · Good breakfasts with ocean views",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

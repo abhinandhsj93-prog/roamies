@@ -1,0 +1,103 @@
+{
+  "query": "Dona Paula",
+  "region": "goa",
+  "name": "Dona Paula",
+  "draft": {
+    "briefing": "Hey, you're in Dona Paula! This headland is named after Dona Paula de Souto Maior, a kind woman whose family once owned everything from Cabo Raj Nivas to Caranzalem. After she died in 1782, grateful villagers renamed the place, which used to be called Oddavell, after her.",
+    "hungryLine": "Caranzalem beach next door has hotels, restaurants and shacks serving Goan food and drinks.",
+    "moodReplies": {
+      "show-me-around": "Stroll out to Dona Paula Pier, about 13 minutes away, then go up to Caranzalem Bay View Point for the coastline.",
+      "somewhere-to-chill": "Grab a spot by the water and look out over the Zuari river and Mormugao Harbour.",
+      "surprise-me": "Dona Paula's tomb is inside the Cabo Chapel at Cabo Raj Niwas, the Governor's House."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Dona Paula Pier",
+          "detail": "13 min walk · Out over the water, with views of the Zuari and Mormugao Harbour",
+          "status": {
+            "text": "Best early morning",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Caranzalem Bay View Point",
+          "detail": "11 min walk · Viewpoint over Caranzalem bay",
+          "status": {
+            "text": "Open 24/7",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Cabo Raj Niwas",
+          "detail": "Half a km from the National Oceanography Institute · Governor's House, with Dona Paula's tomb in its chapel",
+          "status": {
+            "text": "Official residence, check access locally",
+            "tone": "warning"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Dona Paula",
+        "title": "Lovers' Paradise",
+        "body": "Dona Paula has a nickname, the Lovers' Paradise. It's the spot where two of Goa's rivers meet the Arabian Sea."
+      },
+      {
+        "where": "Dona Paula",
+        "title": "Named out of thanks",
+        "body": "Dona Paula was known for her charity and for working for the villagers. When she died, they renamed their neighbourhood after her."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Come in November.",
+        "body": "The beach holds a water sports festival in November, with water scooter races, cycle races and surfing."
+      },
+      {
+        "icon": "tag",
+        "title": "Try the water sports.",
+        "body": "The Dona Paula Sports Club offers water scooter, cycle and motorboat rides, plus parasailing and kayaking nearby."
+      }
+    ],
+    "story": [
+      {
+        "era": "1500s to 1600s",
+        "title": "Palace of the Cape",
+        "body": "The Palacio do Cabo was built on the cape facing the Arabian Sea. Today it is Lok Bhavan, the governor's 88-acre home.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1744",
+        "title": "The Souto Maior family",
+        "body": "Dona Paula and her wealthy family arrived in Goa in 1744, and she married a Spanish hidalgo in 1756.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1782",
+        "title": "A new name",
+        "body": "Dona Paula died on 21 December 1782. The villagers renamed Oddavell after her to honour her charity.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "1966",
+        "title": "Ocean science",
+        "body": "The National Institute of Oceanography was founded on 1 January 1966. It runs a Marine Biology Museum.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "1996",
+        "title": "Thinkers' meeting place",
+        "body": "The International Centre Goa opened in Dona Paula on 18 June 1996. It hosts talks, lectures and workshops.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": []
+  }
+}

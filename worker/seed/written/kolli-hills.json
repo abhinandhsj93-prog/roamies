@@ -1,0 +1,79 @@
+{
+  "query": "Kolli Hills",
+  "region": "tamilnadu",
+  "name": "Kolli Hills",
+  "draft": {
+    "briefing": "Hey, you're in Kolli Hills! These hills are named after the goddess Kollipavai, also called Etukkai Amman, who is believed to guard them. Around 200 CE they were ruled by Valvil Ori, praised as one of the seven great philanthropists of ancient Tamil Nadu.",
+    "hungryLine": "Kolli Hills is a quiet hill taluk, so ask locals in Semmedu where to find a good home-style meal.",
+    "moodReplies": {
+      "show-me-around": "Start in Semmedu, the headquarters of the Kolli Hills block, and explore the hills from there.",
+      "somewhere-to-chill": "Take it slow in the hills, the sages of legend picked this place for its peace.",
+      "surprise-me": "Valvil Ori is said to have killed a lion, a bear, a deer and a boar with a single arrow."
+    },
+    "seeFirst": {
+      "caption": "Around the hills",
+      "spots": [
+        {
+          "name": "Semmedu",
+          "detail": "You're here · The block headquarters, founded in the early 1900s",
+          "status": {
+            "text": "Good base for exploring",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Kolli Hills",
+        "title": "The guardian goddess",
+        "body": "Legend says sages chose Kolli Hills as a peaceful place for their penance. Kollipavai, the local deity, is said to guard the hills to this day."
+      },
+      {
+        "where": "Kolli Hills",
+        "title": "Ori's single arrow",
+        "body": "Poets sang of Valvil Ori's valour and marksmanship. Folklore says one arrow from his bow brought down a lion, a bear, a deer and a boar."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Know the local goddess.",
+        "body": "Kollipavai, also called Etukkai Amman, is the hills' guardian deity, so show respect at her shrines."
+      },
+      {
+        "icon": "tag",
+        "title": "Base yourself in Semmedu.",
+        "body": "Semmedu is the headquarters of the Kolli Hills block, the handiest place to start."
+      }
+    ],
+    "story": [
+      {
+        "era": "Sangam age",
+        "title": "Hills in the poems",
+        "body": "Kolli Hills appears in classic Tamil works like Silappathigaram, Manimekalai, Purananuru and Akananuru. Scholar R. Raghava Iyengar concluded that Kollipavai's image is here.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Around 200 CE",
+        "title": "Valvil Ori's reign",
+        "body": "Valvil Ori ruled the region and was praised as one of the seven great philanthropists of ancient Tamil Nadu. His exploits are still a popular part of folklore.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Early 1900s",
+        "title": "Semmedu is founded",
+        "body": "Vellakinar Chinnappa Gounder bought 500 acres from an Australian and founded Semmedu. He brought in settlers of many castes and creeds, and his sons kept building the village.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "Today",
+        "title": "A hill taluk",
+        "body": "Kolli Malai is now a hill station and taluk in Namakkal district. Semmedu serves as its block headquarters.",
+        "illustration": "flood"
+      }
+    ],
+    "food": []
+  }
+}
