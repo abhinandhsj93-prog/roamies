@@ -1,0 +1,71 @@
+{
+ "query": "Mollem",
+ "region": "goa",
+ "name": "Mollem",
+ "draft": {
+  "briefing": "Hey, you're in Mollem! This small village at the foot of the Sahyadri mountains is the main way into Bhagwan Mahaveer Sanctuary and Mollem National Park.",
+  "hungryLine": "Mollem is a small village on the highway, so keep meals simple before you head into the forest.",
+  "moodReplies": {
+   "show-me-around": "The village sits at the start of Anmod Ghat, right where you enter Bhagwan Mahaveer Sanctuary and Mollem National Park.",
+   "somewhere-to-chill": "Slow down in the village itself, about a 7 min walk from here, with the Sahyadri foothills all around.",
+   "surprise-me": "The name is said 'mole', because the final m is silent."
+  },
+  "seeFirst": {
+   "caption": "Right here",
+   "spots": [
+    {
+     "name": "Mollem",
+     "detail": "7 min walk · The village at the start of Anmod Ghat",
+     "status": {
+      "text": "Small village, few facilities",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Bhagwan Mahaveer Sanctuary and Mollem National Park",
+     "detail": "Starts here · Mollem is the main entry point to the sanctuary",
+     "status": {
+      "text": "Check entry rules locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Say it like a local.",
+    "body": "It's pronounced 'mole', since the last m is silent."
+   },
+   {
+    "icon": "tag",
+    "title": "Start your forest trip here.",
+    "body": "Mollem is the primary entry point for Bhagwan Mahaveer Sanctuary and Mollem National Park."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Sahyadri foothills",
+    "body": "Mollem grew up in the foothills of the Sahyadri mountain range, near what is now the border with Karnataka.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "The ghat road",
+    "title": "Gateway to Anmod Ghat",
+    "body": "The village sits on NH4 right where the road begins its climb up Anmod Ghat towards Karnataka.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Into the wild",
+    "body": "Mollem falls under the Dharbandora block and is the main entry point for Bhagwan Mahaveer Sanctuary and Mollem National Park.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

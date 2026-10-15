@@ -1,0 +1,93 @@
+{
+ "query": "Sindhudurg Fort",
+ "region": "maharashtra",
+ "name": "Sindhudurg Fort",
+ "draft": {
+  "briefing": "Hey, you're at Sindhudurg Fort! Chhatrapati Shivaji commissioned this sea fort on Kurte island off Malvan, and it was built between 1664 and 1667. Today it's a protected monument under the Archaeological Survey of India.",
+  "hungryLine": "Malvan is famous for seafood, so go straight for fresh fried fish.",
+  "moodReplies": {
+   "show-me-around": "Catch the ferry out to Sindhudurg Fort, then come back for the rock garden near the fort. Tarkarli beach is 6 km south of Malvan.",
+   "somewhere-to-chill": "The rock garden near Sindhudurg Fort is the spot for sunset, sitting right on the rocks.",
+   "surprise-me": "At Tarkarli, just down the coast, the water is so clear that on a good day you can see the sea bed 20 ft down."
+  },
+  "seeFirst": {
+   "caption": "Around Malvan",
+   "spots": [
+    {
+     "name": "Sindhudurg Fort",
+     "detail": "By ferry from Malvan · Shivaji's sea fort on an offshore island",
+     "status": {
+      "text": "Ferries run in daytime, check locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Rock garden",
+     "detail": "Near Sindhudurg Fort · Sunset views from the rocks",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Tarkarli",
+     "detail": "6 km south of Malvan · A long, narrow beach with very clear water",
+     "status": {
+      "text": "Snorkelling on offer",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go out early.",
+    "body": "Ferries to the fort have run from 8 in the morning with the last boat at 5PM, so check today's timings and don't miss the boat back."
+   },
+   {
+    "icon": "tag",
+    "title": "Try snorkelling.",
+    "body": "The MTDC quarters offer snorkelling near Sindhudurg."
+   }
+  ],
+  "story": [
+   {
+    "era": "1664",
+    "title": "A fort in the sea",
+    "body": "Shivaji began building this ocean fort on Kurte island in 1664, to the glory of the Maratha Empire. Work finished in 1667.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Long after",
+    "title": "Malvan's landmark",
+    "body": "Malvan grew as a fishing port town of about 19,000 people, but it's still best known for this fort just offshore.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Protected monument",
+    "body": "Sindhudurg Fort is now protected by the Archaeological Survey of India. Boats carry visitors across from Malvan through the day.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hotel Chaitnya",
+    "detail": "Near Malvan Bharad · Fresh seafood, the fried fish is worth trying",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

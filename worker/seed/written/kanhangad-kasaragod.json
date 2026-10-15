@@ -1,0 +1,111 @@
+{
+ "query": "Kanhangad, Kasaragod",
+ "region": "kerala",
+ "name": "Kanhangad",
+ "draft": {
+  "briefing": "Hey, you're in Kanhangad! It's the most populous city in Kasaragod district, and its old fort is called Hosdurg, which simply means 'new fort'.",
+  "hungryLine": "Kanhangad has lots of places doing proper Malabar meat and fish dishes.",
+  "moodReplies": {
+   "show-me-around": "Hosdurg Fort is an 8 min walk, and the Nithyananda Ashram with its caves is right in town.",
+   "somewhere-to-chill": "Ananda Ashramam has the Panchavati Garden, a raised seat under five sprawling trees that's made for daydreaming.",
+   "surprise-me": "The Nithyananda Ashram near the fort has 45 caves."
+  },
+  "seeFirst": {
+   "caption": "Around Kanhangad",
+   "spots": [
+    {
+     "name": "Hosdurg Fort",
+     "detail": "8 min walk · Built by the Keladi Nayakas",
+     "status": {
+      "text": "Good for photos",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Nithyananda Ashram",
+     "detail": "In town · Underground caves and meditation",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Ananda Ashramam",
+     "detail": "On Mavungal Road · Gardens and a library",
+     "status": {
+      "text": "Lectures 3:30PM-4:30PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time it for theyyam.",
+    "body": "At the Madiyan Koolam temple, theyyam is performed during the festival in May/June and December/January."
+   },
+   {
+    "icon": "tag",
+    "title": "Stay for a lecture.",
+    "body": "Ananda Ashramam holds a free lecture every afternoon and offers free food to visitors."
+   }
+  ],
+  "story": [
+   {
+    "era": "Nayaka times",
+    "title": "A new fort",
+    "body": "Somashekara Nayaka of the Keladi Nayaka dynasty built Hosdurg Fort, and the Nayaks also built the Shiva temple south-west of it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2013",
+    "title": "A taluk splits",
+    "body": "Hosdurg taluk was split into Hosdurg and Vellarikundu, with Kanhangad as Hosdurg's headquarters.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Fort walls, quiet ashrams and theyyam season. Tell me which one pulled you in.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Indian Coffee House",
+    "detail": "In Naya Bazar · A classic coffee and snack stop",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Akshaya Hotel",
+    "detail": "In Hosdurg, close to the fort",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Carre Food Court",
+    "detail": "Opposite the railway station",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

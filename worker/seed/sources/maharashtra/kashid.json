@@ -1,0 +1,58 @@
+{
+ "query": "Kashid",
+ "found": "Kashid, Murud Taluka, Raigad, Maharashtra, India",
+ "lat": 18.446166,
+ "lon": 72.9055592,
+ "fetchedAt": "2026-10-12T18:52:18.093Z",
+ "locality": {
+  "id": "kashid-raigad-maharashtra",
+  "name": "Kashid",
+  "area": "Murud Taluka, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Kashid": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kashid_Beach_1.jpg/1280px-Kashid_Beach_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kashid",
+   "credit": "Photo: Unknown, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kashid_Beach_1.jpg"
+  },
+  "Nagaon, Raigad District": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/NagaonBeach.JPG/1280px-NagaonBeach.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nagaon, Raigad District",
+   "credit": "Photo: KuwarOnline, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:NagaonBeach.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kashid",
+   "text": "Kashid is a beach village in Murud taluka on the shores of the Arabian Sea, in the North Konkan region of Maharashtra, India.  It is located 15 km from Murud City and 135 km from Mumbai on the Alibag-Murud road. The beach is wedged between two rocky hills in a semi circular arch and is located in between the stretch of the sea in North Konkan between Mandwa and Murud-Janjira. Water sports activities are available on the beach during peak hours. Hotels and homestays are available all along the State highway which runs close to the beach. There are some places to visit and in around Kashid like the Phansad Bird sanctuary, the Korlai fort and the Datta Mandir at Revdanda. A Ro-Ro ferry service started about two years ago, allows one to drive down to Kashid on a ship from Ferry Wharf to Mandwa and then by road from there on.However prior reservations are a must especially on week-ends\n\n\n== External links ==\n Kashid travel guide from Wikivoyage",
+   "url": "https://en.wikipedia.org/wiki/Kashid"
+  },
+  {
+   "title": "Nagaon, Raigad District",
+   "text": "Nagaon is a beach town on the shores of the Arabian Sea, in the North Konkan region of Maharashtra, India.  It is located 9 km from Alibag and 114 km from Mumbai.\nNagaon beach is popular mainly because of its cleanliness, water sport activities. The beach is around 3 km long. There are a few small hotels in Nagaon as the rest of the area is privately owned. Best option to stay here to stay in cottages owned by local people.",
+   "url": "https://en.wikipedia.org/wiki/Nagaon,_Raigad_District"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kashid",
+  "text": "Kashid is a city near Alibag, India.\n\n\n== See ==\nThe vast stretches of beach would probably be the only best thing to see in Kashid. Some beach areas are really deserted with no humans in sight. However they are quite safe to be walked on during the evening.\nMany people rent bicycles to ride along the long strip of road. It's a beautiful sight during the early mornings because you get to see the most beautiful lush greenery on either side of\n\n\n== Do ==\nThis is a paradise closest to Mumbai, also called \"poor man's Goa\". It is the ideal place for a beach getaway from Mumbai and Pune. Even though there is not much you can do there in terms of activities but a suitable place for folk who like to runaway from the hustle bustle of the metro. Its virgin beaches always have something to explore and the enchanting atmosphere always is very welcoming.\n\n\n== Eat ==\nKashid has small stalls which serve snacks like eggs (omelette) and poha (made from flattened rice or beaten rice cooked in oil and spiced with turmeric and mustard seeds). These stalls are open from 8 AM in the morning till dusk. If you travel 1 km ahead of Kashid towards Murud, there are places where one can find sea fish preparations.\n\n\n== Drink ==\nWe can get cold drinks and famous Coconut Water near beach stalls.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Kashid"
+ },
+ "sights": [
+  {
+   "name": "Nagaon, Raigad District",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 18.441666666666666,
+   "lon": 72.90555555555557
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "query": "Marayoor, Idukki",
+ "region": "kerala",
+ "name": "Marayoor",
+ "draft": {
+  "briefing": "Hey, you're in Marayoor! This is the only place in Kerala with natural sandalwood forests. The hills around you also hold ancient dolmens and rock paintings from the Stone Age.",
+  "hungryLine": "I don't have a named eatery to send you to up here, so find a small Kerala meals place in town and ask what's fresh today.",
+  "moodReplies": {
+   "show-me-around": "Look around Marayoor for the sandalwood forests and the old dolmens, then take SH 17 to Munnar, 42 km south.",
+   "somewhere-to-chill": "Find a quiet spot near the sandalwood trees. At about 990 metres up, it's a calm place to sit.",
+   "surprise-me": "Marayoor claims to be part of a Stone Age civilisation going back as far as 10,000 BC."
+  },
+  "seeFirst": {
+   "caption": "Around Marayoor",
+   "spots": [
+    {
+     "name": "Marayur",
+     "detail": "All around you · Sandalwood forests, dolmens and rock paintings",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Munnar",
+     "detail": "42 km away · The state's most popular hill station",
+     "status": {
+      "text": "Drive via SH 17",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Marayoor",
+    "title": "As old as 10,000 BC",
+    "body": "Marayoor claims to belong to a Stone Age civilisation that's as old as 10,000 BC. Later came an age of large-scale dolmen building."
+   },
+   {
+    "where": "The Anju Nadu",
+    "title": "Five villages",
+    "body": "Migrants from the old Pandya lands founded five villages here: Kanthalloor, Keezhanthur, Karayur, Marayur and Kottakudi. Together they were called the Anju Nadu."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Expect rain.",
+    "body": "Kerala gets rain for at least seven to eight months a year, so keep a rain jacket handy in the hills."
+   },
+   {
+    "icon": "tag",
+    "title": "Use SH 17.",
+    "body": "Marayoor sits on the state highway that links Munnar with Udumalpet in Tamil Nadu."
+   }
+  ],
+  "story": [
+   {
+    "era": "10,000 BC",
+    "title": "Stone Age roots",
+    "body": "Marayoor claims to be part of a Stone Age civilisation. Its rock paintings and dolmens date back to that age.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Later",
+    "title": "The dolmen builders",
+    "body": "A later period saw dolmens built here on a large scale. They are part of what makes Marayoor so old.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1700s",
+    "title": "The Anju Nadu",
+    "body": "When the Madurai king Bangaru Thirumala Nayak was defeated by Chanda Saheb, people from ancient Tamilakam moved here. They set up five villages, the Anju Nadu.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2011",
+    "title": "A small panchayat",
+    "body": "Marayoor panchayat had 12,399 people in 3,307 households, and Marayoor is its only village.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Your turn",
+    "title": "Smell the sandalwood",
+    "body": "Walk near the sandalwood forests and look for a dolmen. Tell me how old you think it is.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

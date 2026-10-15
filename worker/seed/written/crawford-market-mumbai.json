@@ -1,0 +1,103 @@
+{
+ "query": "Crawford Market, Mumbai",
+ "region": "maharashtra",
+ "name": "Crawford Market",
+ "draft": {
+  "briefing": "Hey, you're at Crawford Market! In 1882 this building became the first in India to be lit up by electricity. It was finished in 1869 and is still one of South Mumbai's most famous markets.",
+  "hungryLine": "This is a classic spot for fruits and vegetables, so grab something fresh from the stalls as you wander.",
+  "moodReplies": {
+   "show-me-around": "Look for the old fountain inside the market, then walk 4 min to Mangaldas Market and 11 min to the Mumba Devi Temple.",
+   "somewhere-to-chill": "Find a quieter corner by the Crawford Market Fountain, which was first built as a social space for merchants.",
+   "surprise-me": "The river goddess carvings on the fountain are by John Lockwood Kipling, father of novelist Rudyard Kipling."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Crawford Market Fountain",
+     "detail": "Inside the market · An 1874 fountain with carvings of river goddesses and native birds",
+     "status": {
+      "text": "Restored in 2016–17",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mangaldas Market",
+     "detail": "4 min walk · The old market for silk and cloth",
+     "status": {
+      "text": "Expect crowds",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Shree Mumbadevi Temple",
+     "detail": "11 min walk · The temple of the goddess Mumbai is named after",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Mumba Devi Temple",
+    "title": "The city's own goddess",
+    "body": "Mumba Devi was the patron goddess of the Koli people, the first people of the Seven Islands of Bombay. Mumbai takes its name from her."
+   },
+   {
+    "where": "Masjid station",
+    "title": "A station named for a synagogue",
+    "body": "Masjid station nearby is named after the Gate of Mercy Synagogue. In local Marathi, a synagogue is called a mashid, just like a mosque."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Know its official name.",
+    "body": "The market is officially the Mahatma Jyotiba Phule Mandai, though everyone says Crawford Market."
+   },
+   {
+    "icon": "sun",
+    "title": "Brace for busy trains.",
+    "body": "Masjid station is packed because of all the wholesale markets around it, so travel light."
+   }
+  ],
+  "story": [
+   {
+    "era": "1700s",
+    "title": "A Jewish quarter",
+    "body": "Nearby Mandvi had a small but thriving Jewish community in the 18th and 19th centuries. The Gate of Mercy Synagogue there is about 300 years old.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1869",
+    "title": "The market opens",
+    "body": "The building was finished in 1869 and donated to the city by Cowasji Jehangir. It was named after Arthur Crawford, the city's first Municipal Commissioner.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1874",
+    "title": "Kipling's fountain",
+    "body": "William Emerson, who designed the market, also designed its fountain. John Lockwood Kipling carved the river goddesses and birds on it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1882",
+    "title": "Lights on",
+    "body": "Crawford Market became the first building in India to be lit up by electricity.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1996",
+    "title": "Wholesale moves out",
+    "body": "It was Mumbai's main wholesale fruit market until March 1996, when the traders moved to Navi Mumbai. Today it carries the name of social reformer Mahatma Jotirao Phule.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

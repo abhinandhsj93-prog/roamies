@@ -1,0 +1,287 @@
+{
+ "query": "Margao",
+ "found": "Margao, Salcete, South Goa, Goa, 403600, India",
+ "lat": 15.272923,
+ "lon": 73.9583159,
+ "fetchedAt": "2026-10-12T19:41:52.851Z",
+ "locality": {
+  "id": "navelim-south-goa-goa",
+  "name": "Navelim",
+  "area": "Margao, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Navelim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/GOA_Navelim_Church_-_panoramio.jpg/1280px-GOA_Navelim_Church_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Navelim",
+   "credit": "Photo: Tanya Dedyukhina, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GOA_Navelim_Church_-_panoramio.jpg"
+  },
+  "Margao": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Front_Elevation_of_Margao_Municipal_Council_%28cropped%29.jpg/1280px-Front_Elevation_of_Margao_Municipal_Council_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Margao",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Margao_Municipal_Council_(cropped).jpg"
+  },
+  "South Goa district": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/South_Goa_district.png/1280px-South_Goa_district.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "South Goa district",
+   "credit": "Photo: Vn14, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Goa_district.png"
+  },
+  "Jawaharlal Nehru Stadium (Margao)": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Fatorda_Stadium%2C_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Jawaharlal Nehru Stadium (Margao)",
+   "credit": "Photo: Donkey335, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fatorda_Stadium,_Goa.jpg"
+  },
+  "Comba, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Datta_Naik%2C_Goan_author_and_businessman.jpg/1280px-Datta_Naik%2C_Goan_author_and_businessman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Comba, Goa",
+   "credit": "Photo: Fredericknoronha, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Datta_Naik,_Goan_author_and_businessman.jpg"
+  },
+  "Dr Francisco Luis Gomes District Library": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dr._Francisco_Luis_Gomes_District_Library%2C_Navelim_salcette%2C_Goa.jpg/1280px-Dr._Francisco_Luis_Gomes_District_Library%2C_Navelim_salcette%2C_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dr Francisco Luis Gomes District Library",
+   "credit": "Photo: Carissa Pereira, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._Francisco_Luis_Gomes_District_Library,_Navelim_salcette,_Goa.jpg"
+  },
+  "Govind Ramnath Kare College of Law": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Govind_Ramnath_Kare_College.jpg/1280px-Govind_Ramnath_Kare_College.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Govind Ramnath Kare College of Law",
+   "credit": "Photo: Rejoy2003, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Govind_Ramnath_Kare_College.jpg"
+  },
+  "Fatorda Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Fatorda_constitution.svg/1280px-Fatorda_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fatorda Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fatorda_constitution.svg"
+  },
+  "Navelim Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Navelim_constitution.svg/1280px-Navelim_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Navelim Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Navelim_constitution.svg"
+  },
+  "Gomant Vidya Niketan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Gomant_Vidya_Niketan.jpg/1280px-Gomant_Vidya_Niketan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gomant Vidya Niketan",
+   "credit": "Photo: Joegoauk Goa, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gomant_Vidya_Niketan.jpg"
+  },
+  "Ravindra Bhavan, Margao": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ravindra_Bhavan.jpg/1280px-Ravindra_Bhavan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ravindra Bhavan, Margao",
+   "credit": "Photo: Joegoauk Goa, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ravindra_Bhavan.jpg"
+  },
+  "Holy Spirit Church, Margao": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Holy_Spirit_Church%2C_Margao.jpg/1280px-Holy_Spirit_Church%2C_Margao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Holy Spirit Church, Margao",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holy_Spirit_Church,_Margao.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Navelim",
+   "text": "Navelim is a census town and suburb of the city of Margao located in the Salcete sub-district of South Goa district, Goa, India.\n\n\n== History ==\nNavelim's church was first built by the Jesuits in the 1590s; the present, Portuguese-style whitewashed structure was constructed later on when the older building became too small. The reconstruction was apparently financed by a local merchant \"Barreto\" who was saved from bankruptcy through the intercession of Our Lady of the Rosary.\nAccording to legend, this church was built in mud similar to the other churches in Salcete between 1594 and 1598. The builders were Jesuits and it was financed by the villagers. The first parish priest of Navelim Church was a French Jesuit Fr. John Sena. (Mitras Lusitanas no Oriente)\nAs time passed, the church became too small for the growing population. Later on, it was reconstructed with laterite stones on a larger scale by a rich Goan merchant, whose name is not given.\nThis merchant, according to legend, while passing through the main road running in front of the above church, received the message that he would lose a substantial amount of money in his business. As soon as he received this message, he entered...",
+   "url": "https://en.wikipedia.org/wiki/Navelim"
+  },
+  {
+   "title": "Margao",
+   "text": "Margao (Goan Konkani: Modgaum, IPA: [mɵɖɡãʋ]; Portuguese: Margão, IPA: [mɐɾɡɐ̃ũ]) is the commercial capital of the Indian state of Goa. It stands on the banks of the river Sal. It is the district headquarters of South Goa, and administrative headquarters of Salcete sub-district. It is Goa's second largest city by population after Mormugao.",
+   "url": "https://en.wikipedia.org/wiki/Margao"
+  },
+  {
+   "title": "South Goa district",
+   "text": "South Goa district is one of the three districts that together constitute within the state of Goa, India, within the region known as the Konkan. It is bounded by North Goa district to the north, while the Arabian Sea forms its western coast. It ranks among the top 25 developed districts of India. The district capital city is Margao, which also serves as the commercial capital of Goa.",
+   "url": "https://en.wikipedia.org/wiki/South_Goa_district"
+  },
+  {
+   "title": "Jawaharlal Nehru Stadium (Margao)",
+   "text": "Fatorda Stadium, officially known as Jawaharlal Nehru Stadium, is a multi-purpose stadium in Margao, Goa, India. The venue has been used to host both football and cricket matches.\nIt is Goa's only international stadium and has a seating capacity of 19,000. It has hosted 9 One Day Internationals (ODIs) in cricket and hosted various football tournaments, including multiple Indian Super League finals, I-League, I-League 2, AFC Cup, and AFC Champions League. The venue was established in 1989 and is owned and operated by the Sports Authority of Goa. It is currently the home stadium of FC Goa. In the 2020–21 Indian Super League, it was used as one of the centralized home grounds because of the COVID-19 pandemic.",
+   "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium_(Margao)"
+  },
+  {
+   "title": "Loyola High School (Goa)",
+   "text": "Loyola High School is a private Catholic primary and secondary school for boys, located in the heart of Margao in the South Goa district of Goa, India. Founded in 1899 as the Union High School, the Christian minority school is managed by the Jesuits. Affiliated with the Goa Board of Secondary and Higher Secondary Education, the school's students take the Secondary School Certificate examinations.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Loyola_High_School_(Goa)"
+  },
+  {
+   "title": "Borda, Goa",
+   "text": "Borda is a town and suburb of the city of Margao in South Goa district in the state of Goa, India close to the city of Margao.",
+   "url": "https://en.wikipedia.org/wiki/Borda,_Goa"
+  },
+  {
+   "title": "Gogol, Goa",
+   "text": "Gogol is a town and suburb of the city of Margao in South Goa district in the state of Goa, India. Gogol is a well connected suburb with good infrastructure such as schools, colleges, post office, banks, public transport, shopping areas close to Margao city.",
+   "url": "https://en.wikipedia.org/wiki/Gogol,_Goa"
+  },
+  {
+   "title": "Comba, Goa",
+   "text": "Comba (Komb) is a town and suburb of the city of Margao in South Goa district in the state of Goa, India close to the city of Margao.\nComba is famous for Margao's well-known temple-hall \"Dambaab Saal\".It has Damodar Temple along with Ram temple. The initial settlement of Margao grew from the site of the ancient Damodar Temple.At the centre of Comba there is a famous Vithal Mandir.\nDedicated to the deity - Shree Vithal Rakhumayi Dindi (festival) has been celebrated in Margao since 1909, starting from Kartikein Maha-ekadashi, coinciding with the  Pandharpur zatra held in Maharashtra the hometown of the deity. The Dindi festival at the Vithal Rakhumai temple in Comba occurs on the second day after Diwali. The main celebration of Dindi to be held includes the annual procession of the palanquin with the deity, commencing from Shree Hari Mandir Devasthan (Margao) and slowly passing through the entire Margao town, to reach the Shree Vithal-Rakhumayi temple at Comba.\nThe feast of the Holy Spirit Church, Margao (located at Comba), locally known as Purumetache fest occurs just before the monsoons set in. People from all over Goa congregate at the special market to buy spices and dried fish to...",
+   "url": "https://en.wikipedia.org/wiki/Comba,_Goa"
+  },
+  {
+   "title": "Dr Rajendra Prasad Stadium",
+   "text": "Dr Rajendra Prasad Stadium is situated in Margao, Goa, India. It is the home ground of the Goa cricket team. It has a capacity of 5,000 people and was opened in 1954.",
+   "url": "https://en.wikipedia.org/wiki/Dr_Rajendra_Prasad_Stadium"
+  },
+  {
+   "title": "Dr Francisco Luis Gomes District Library",
+   "text": "The Dr Francisco Luis Gomes District Library is the major library in the district of South Goa, Goa, India. It is run and funded by the Government of Goa and was set up on 21 November 2010. The Library covers area of above 8000 square metres, comprising five floors, providing various services to the users. It is the second-largest library in Goa, after the Krishnadas Shama Goa State Central Library at Panjim, the state headquarters. This library is located just outside the city of Margao, which is also the headquarters of the South Goa district.",
+   "url": "https://en.wikipedia.org/wiki/Dr_Francisco_Luis_Gomes_District_Library"
+  },
+  {
+   "title": "Govind Ramnath Kare College of Law",
+   "text": "The Govind Ramnath Kare College of Law, popularly known as the G.R. Kare College of Law, and also as the Kare Law College, is a law college located at Comba in Margao, Goa.\nKare College is the only centre of legal education in the district of South Goa. It was established by the \"Vidya Vikas Mandal\" in 1979.  The college is managed by the \"Vidya Vikas Mandal\" and is affiliated to the Goa University. It has been recognised by the University Grants Commission and Bar Council of India. Kare College has been accredited with 'B' grade by the National Assessment and Accreditation Council. The current edifice of the institution was inaugurated on 21 September 2001 by the then Union Minister of Law and Justice, Arun Jaitley.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Govind_Ramnath_Kare_College_of_Law"
+  },
+  {
+   "title": "Fatorda Assembly constituency",
+   "text": "Fatorda Assembly constituency is one of the 40 Goa Legislative Assembly constituencies of the state of Goa in southern India. Fatorda is also one of the 20 constituencies falling under South Goa Lok Sabha constituency.",
+   "url": "https://en.wikipedia.org/wiki/Fatorda_Assembly_constituency"
+  },
+  {
+   "title": "Navelim Assembly constituency",
+   "text": "Navelim Assembly constituency is one of the 40 Goa Legislative Assembly constituencies of the state of Goa in southern India. Navelim is also one of the 20 constituencies falling under South Goa Lok Sabha constituency.",
+   "url": "https://en.wikipedia.org/wiki/Navelim_Assembly_constituency"
+  },
+  {
+   "title": "Gomant Vidya Niketan",
+   "text": "The Gomant Vidya Niketan (GVN) is a private cultural center based in Comba, Goa, India. Established in 1912, it was originally founded as the Saraswat Brahman Samaj, a small library. Over time, the organization has expanded its scope and focus. Following the annexation of Goa, the organization was renamed to its current appellation in 1962. This change in name coincided with an elevation in the center's status, transforming it from a library into a broader cultural hub. The primary activities of the organization revolve around the promotion and hosting of cultural events and programs related to the Konkani and Marathi heritage. Gomant Vidya Niketan  stands out as the longest-standing socio-cultural establishment in South Goa.",
+   "url": "https://en.wikipedia.org/wiki/Gomant_Vidya_Niketan"
+  },
+  {
+   "title": "Ravindra Bhavan, Margao",
+   "text": "The Ravindra Bhavan, Margao (RBM) is a cultural center situated in Fatorda, Goa, India. It is administered by the Directorate of Art and Culture, which is part of the Government of Goa. The center was founded in July 2008 and was inaugurated under the governance of the Congress party in Goa at the time. It serves as a venue for a diverse range of cultural activities and events, featuring programs and performances in languages such as Konkani, English, Hindi, and Marathi. In addition to hosting local cultural programming, the center serves as a prominent venue that hosts a variety of important national and international events. It functions as a central nexus for a wide range of cultural events and activities within the Salcete taluka district of South Goa.",
+   "url": "https://en.wikipedia.org/wiki/Ravindra_Bhavan,_Margao"
+  },
+  {
+   "title": "Holy Spirit Church, Margao",
+   "text": "Holy Spirit Church, also referred to as the Espirito Santo Church, is a church located in Margao, Goa. Built between 1564 and 1565, it was the second church to be constructed in the Salcete region.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Holy_Spirit_Church,_Margao"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Margao",
+  "text": "Margao is the second largest city in the Indian state of Goa, 33 km from the state capital Panaji. It is Goa's cultural and commercial capital, and is close to the central coast. The long white-sand beach stretch was rated by an early-1970s UNDP study as potentially one of the ten best beaches in the world.\n\n\n== See ==\nSome landmarks in Margao include the Presentation Convent (Holy Spirit Church area) and the Fatima Convent (near the municipal square). They are two of Margao's oldest unisex high schools started and being run by Catholic religious congregations, for girls.\nClergy Home along arterial Padre (Pe.) Miranda Road was among the first shelters for retiring priests built by the Goa Archdiocese. Today you can see the reconstructed version. It is near today's district hospital, Hospicio, which is a unique edifice in its own right. It was founded by Rev. Antonio Joao de Miranda, a humble Catholic clergyman, after whom the thoroughfare outside is named.\nClube Harmonia was originally called the Clube de Margao (subsequently renamed as Teatro de Harmonia) operating from a house at the Borda locality. The idea of a modern building for the Teatro de Harmonia was mooted by its members in 1936. The present structure was built 1955. Together with Bernado Peres da Silva (BPS) Club, Clube ABC and Margao Cricket Club, Harmonia is today a leading social club of the town.\nHindu Mathagramasth Sabha: As the 'mathagram' in the name suggests, it's a Brahmin institution. It has provided yeoman's service in education, irrespective of creed or caste, to Margaoites. It runs the Damodar Arts & Science Higher Secondary School (not to be mixed up with Damodar College, that's run by Vidhya Vikas Mandal, a different ball game), one of the best higher secondary schools in Goa, if one goes by Std. XII science board exam results.\nAga Khan's Children's Park: Few would be aware that the northern half of the Margao municipal garden was actually developed by a businessman, Abdul Javerbhai Mavany, hailing from Margao's minuscule Agakhani community. He did that after two young sons were lost to cancer and\n== Do ==\nSee the musical fountain on weekend evenings, near Nanutel hotel\nWatch an Indian movie at one of the several cinemas\nIf you go around May/June, there is a feast of the Holy Spirit church. To celebrate this, there is a huge street side sale of everything from clothes to furniture to kitchen utensils. It's near the KTC bus stand along the road.\nTry to lay your hands on the inexpensively priced \"Margao Heritage Walk Map\", that has been researched by architect-urban planner Ashish K Sinai Rege of Altinho Panjim. This is a creatively crafted map that offers suggestions for three 'heritage walks' around Margao. Each is of 20, to 35 and 45 minutes.\n\n\n== Eat ==\nMargao isn't as rich in decent eating places as the touristic coast nearby. But because Margao is a town rather than a tourist destination, the restaurants are open year-round.\nCheck some on these list: the restaurant at Hotel Nanutel (Indian/Chinese/mixed). Longuinhos (Goan/Indian/Chinese). Hotel Woodlands' bar. The restaurant of Hotel Saaj (Malayalee specialities). Shahi Durbar along FL Gomes (Old Station) Road for Mughlai/Indian, with nice cuisine even if a crowded area. Gaylin along Varde Valaulikar Road (behind the Collectorate) and Rice Bowl at Reliance Park, along the Margao-Colva Road, just beyond the municipal limits (Chinese), which is worthy of a recommendation.\n\nTato's (Apna Bazaar Complex)\nMainLand China (behind Loyola High School)\nKamat Hotel (Colva bus stand)\nShalimar\nGolden Chariot's Relish: multi cuisine restaurant,but specialists in seafood (GOGOL)\nBhel Puri stands around the park\nChina Gate (west of the police station)\nKandeel is very popular with locals, including retired couples. The ambience is very plain but the Goan food (fish curry thali) and cocktails are inexpensive and excellent (as of 2011).\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Margao"
+ },
+ "sights": [
+  {
+   "name": "South Goa district",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 15.2724,
+   "lon": 73.9583
+  },
+  {
+   "name": "Margao",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 15.273611111111112,
+   "lon": 73.95805555555556
+  },
+  {
+   "name": "Gomant Vidya Niketan",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 15.274886111111112,
+   "lon": 73.95715833333334
+  },
+  {
+   "name": "Loyola High School",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 15.273888888888889,
+   "lon": 73.95583333333333
+  },
+  {
+   "name": "Comba, Goa",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 15.2763,
+   "lon": 73.9544
+  },
+  {
+   "name": "Govind Ramnath Kare College of Law",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 15.2743,
+   "lon": 73.9514
+  },
+  {
+   "name": "Dr Rajendra Prasad Stadium",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 15.2669,
+   "lon": 73.9641
+  },
+  {
+   "name": "Holy Spirit Church, Margao",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 15.281683,
+   "lon": 73.959325
+  },
+  {
+   "name": "Ravindra Bhavan, Margao",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 15.285311111111112,
+   "lon": 73.96251111111111
+  },
+  {
+   "name": "Jawaharlal Nehru Stadium",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 15.289166666666667,
+   "lon": 73.96222222222222
+  },
+  {
+   "name": "Gogol, Goa",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 15.28795,
+   "lon": 73.96595
+  },
+  {
+   "name": "Dr Francisco Luis Gomes District Library",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 15.25906,
+   "lon": 73.96829
+  },
+  {
+   "name": "Navelim Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 15.26,
+   "lon": 73.97
+  },
+  {
+   "name": "Fatorda Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 15.29,
+   "lon": 73.96
+  },
+  {
+   "name": "Borda, Goa",
+   "kind": "landmark",
+   "walkMinutes": 32,
+   "lat": 15.286691,
+   "lon": 73.96978
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

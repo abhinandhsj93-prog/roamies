@@ -1,0 +1,80 @@
+{
+ "query": "Malpe",
+ "region": "karnataka",
+ "name": "Malpe",
+ "draft": {
+  "briefing": "Hey, you're in Malpe! This fishing port at the mouth of the Malpe River is so old that the Greek geographer Ptolemy mentioned it back in the second century.",
+  "hungryLine": "Malpe is the biggest fishing harbour in Udupi district, so fresh fish is the thing to eat here.",
+  "moodReplies": {
+   "show-me-around": "The Malpe Seawalk is a 15 minute walk, and the ferry to St. Mary's Island is about 14 minutes away.",
+   "somewhere-to-chill": "Walk out on the Sea Walkway at Malpe Beach and look across to St. Mary's Island and Bhadargad Island.",
+   "surprise-me": "Malpe even shows up in an ancient Greek farce, written on papyri from the second century or earlier."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Ferry St. Mary's Island",
+     "detail": "14 min walk · Boats out to St. Mary's Island",
+     "status": {
+      "text": "Check boat timings",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Malpe Seawalk",
+     "detail": "15 min walk · Sea views of the islands",
+     "status": {
+      "text": "Great at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Sri Vadabhanda Balarama",
+     "detail": "19 min walk · A local temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Watch out for the monsoon.",
+    "body": "This stretch of coast gets heavy rain from June to October."
+   },
+   {
+    "icon": "tag",
+    "title": "Walk the Sea Walkway.",
+    "body": "It gives you a view of St. Mary's Island, Bhadargad Island and the coastline."
+   }
+  ],
+  "story": [
+   {
+    "era": "2nd century",
+    "title": "Ptolemy's port",
+    "body": "The Greek geographer Ptolemy mentioned Malpe, an ancient port where Karnataka traded with the western world.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Ancient times",
+    "title": "In a Greek play",
+    "body": "An old Greek farce on papyri, later published in The Oxyrhynchus Papyri Part III, also mentions the place.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A fishing town",
+    "body": "Malpe is the largest fishing harbour in Udupi district, and many people here work in the fishing industry. It's home to the Mogaveera fishing community.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

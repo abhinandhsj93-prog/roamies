@@ -1,0 +1,77 @@
+{
+ "query": "Pichavaram",
+ "region": "tamilnadu",
+ "name": "Pichavaram",
+ "draft": {
+  "briefing": "Hey, you're in Pichavaram! You're at the edge of one of the largest mangrove forests in India, about 45 square km of islands and channels where the trees stay rooted in a few feet of water. A sand bar is all that keeps it apart from the Bay of Bengal.",
+  "hungryLine": "Pichavaram is a small village, so carry snacks and water for your boat trip, and save the proper meal for Chidambaram, 15 km away.",
+  "moodReplies": {
+   "show-me-around": "The Pichavaram Boathouse is just a 3 min walk away, the starting point for gliding through the mangrove channels. The Watch Tower is right next to it for a view from above.",
+   "somewhere-to-chill": "Climb the Watch Tower, 3 minutes on foot, and look out over the islands and water of the Killai backwater.",
+   "surprise-me": "These mangroves sit between two river mouths, the Vellar estuary to the north and the Coleroon to the south, which together form the Killai backwater."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Pichavaram Boathouse",
+     "detail": "3 min walk · Hop on a boat into the mangrove channels",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Watch Tower",
+     "detail": "3 min walk · A high view over the mangrove islands",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go early.",
+    "body": "Head out on the water in the morning before the coastal sun gets strong."
+   },
+   {
+    "icon": "tag",
+    "title": "Base yourself in Chidambaram.",
+    "body": "Chidambaram is just 15 km away and has plenty of places to eat and stay."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Two rivers meet the sea",
+    "body": "The Vellar and Coleroon rivers reach the sea on either side of Pichavaram. Their estuaries form the Killai backwater, where the mangroves took root.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Trading days",
+    "title": "Parangipettai's coast",
+    "body": "Pichavaram is one of the villages of Parangipettai, long a major trading centre on the Coromandel Coast, especially for Arab and Yemeni traders. The Portuguese, Dutch and English later took turns colonising the area.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2019",
+    "title": "A huge mangrove forest",
+    "body": "The Pichavaram mangroves covered about 45 square km, with trees like Avicennia and Rhizophora. They also shelter rare shells and fish that local people depend on.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Planting for the future",
+    "body": "Tamil Nadu has been planting mangroves in Cuddalore district and nine other districts. The aim is to soften cyclones, tidal surges and coastal erosion while supporting wildlife and local livelihoods.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "query": "Egmore, Chennai",
+ "region": "tamilnadu",
+ "name": "Egmore",
+ "draft": {
+  "briefing": "Hey, you're in Egmore! Just a few minutes away is the Government Museum, started in 1851 and the second oldest museum in India, with one of the largest collections of Roman coins outside Europe. Its neighbour, the Connemara Public Library, gets a copy of every book, newspaper and periodical published in India.",
+  "hungryLine": "Swing by Alsa Mall in the evening, where the street food vendors make it a favourite hangout, or grab tiffin and a meal at any of the vegetarian places around.",
+  "moodReplies": {
+   "show-me-around": "The Government Museum is a 3 min walk and the Connemara Public Library is 4 minutes away, both in the same complex on Pantheon Road. The Tamil Nadu Police Museum is about 9 minutes away.",
+   "somewhere-to-chill": "Spend a quiet hour among the bronzes and paintings of the Government Museum, a good way to dodge the midday heat.",
+   "surprise-me": "The Egmore Eye Hospital, set up in 1819, is considered the oldest eye hospital in Asia, second only to Moorfields in the UK."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Government Museum",
+     "detail": "3 min walk · Bronzes, Roman coins and Raja Ravi Varma paintings",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Connemara Public Library",
+     "detail": "4 min walk · One of India's four National Depository Libraries",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Srinivasa Perumal Temple, Egmore",
+     "detail": "7 min walk · A 600 year old temple on Lakshmi Narayana Perumal Street",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Srinivasa Perumal Temple, Egmore",
+    "title": "Where sages prayed",
+    "body": "Locals say sages like Visvamithra, Gowthama and Sthuthi worshipped at this temple. It was once called Lakshmi Narayana Perumal Temple, which is how its street got its name."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit November to February.",
+    "body": "Chennai is extremely hot and humid, especially in May, and those cooler months help you dodge the worst of it."
+   },
+   {
+    "icon": "tag",
+    "title": "Don't plan around the Art Gallery.",
+    "body": "The National Art Gallery in the museum complex has been closed since 2002 after part of the building was damaged."
+   }
+  ],
+  "story": [
+   {
+    "era": "1070 to 1120",
+    "title": "A Chola mention",
+    "body": "Egmore was probably lived in as far back as the Megalithic period. Its earliest inscriptions date to the reign of the Chola king Kulothunga I.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1819",
+    "title": "Asia's first eye hospital",
+    "body": "The Egmore Eye Hospital opened, now considered the oldest eye hospital in Asia. Only Moorfields in the United Kingdom is older.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1851 to 1896",
+    "title": "Museum and library",
+    "body": "The Government Museum started in 1851. The Connemara Public Library was set up in 1890 and opened to the public in 1896.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1906",
+    "title": "The red stone gallery",
+    "body": "The National Art Gallery was built in Indo-Saracenic style from red stone brought from Satyavedu. It held paintings from Thanjavur, Rajasthan, Kangra and the Deccan.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2021",
+    "title": "A police museum",
+    "body": "The Tamil Nadu Police Museum opened on Pantheon Road in September 2021. It traces the state's police from the British Raj to today.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

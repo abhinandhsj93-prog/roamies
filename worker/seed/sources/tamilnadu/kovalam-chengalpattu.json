@@ -1,0 +1,90 @@
+{
+ "query": "Kovalam, Chengalpattu",
+ "found": "Kovalam, Chennai Metropolitan Area, Thiruporur, Chengalpattu, Tamil Nadu, 603112, India",
+ "lat": 12.7877434,
+ "lon": 80.2509334,
+ "fetchedAt": "2026-10-12T19:16:26.101Z",
+ "locality": {
+  "id": "muttukaadu-chengalpattu-tamil-nadu",
+  "name": "Muttukaadu",
+  "area": "Chennai Metropolitan Area, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Covelong": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Covelong_beach.jpg/1280px-Covelong_beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Covelong",
+   "credit": "Photo: Kmanoj, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Covelong_beach.jpg"
+  },
+  "Kovalam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kovalam_beach_trivandrum_kerala.jpg/1280px-Kovalam_beach_trivandrum_kerala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kovalam",
+   "credit": "Photo: Georgeumartin, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kovalam_beach_trivandrum_kerala.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kovalam",
+   "text": "Kovalam (Malayalam: [koːʋɐɭɐm]) is a beach and seaside resort in the city of Thiruvananthapuram in Kerala, India. Kovalam is located 12.6 km (7.8 mi) southeast of the city center. The beaches around Kovalam are popular vacation destinations for both domestic and international travellers.\n\n\n== Etymology ==\nKovalam means \"coconut grove\", after the coconut trees which are common there.\n\n\n== History ==\nKovalam first received attention when the Regent Maharani Sethu Lakshmi Bayi of Travancore constructed her beach resort, Halcyon Castle, here towards the end of the 1920s. Thereafter, the place was brought to the public eye by her nephew, the Maharaja of Travancore. The European guests of the then Travancore kingdom discovered the potential of Kovalam beach as a tourist destination in the 1930s. In the early 1970s, many hippies came on their way to Ceylon via the hippie trail, beginning the transformation of a casual fishing village in Kerala into a significant tourist destination.\n\n\n== Geography ==\n\n\n=== Beaches ===\nKovalam has three beaches separated by rocky outcroppings in its 17 km coastline, the three together form the crescent of the Kovalam beach.\n\nLighthouse Beach – the southernmost beach...",
+   "url": "https://en.wikipedia.org/wiki/Kovalam"
+  },
+  {
+   "title": "Covelong",
+   "text": "Kovalam (கோவளம்), historically known as Covelong, is a coastal fishing village in Thiruporur taluk, Chengalpattu district, Tamil Nadu, India. It lies on the Coromandel Coast along the East Coast Road (ECR), about 40 kilometres (25 mi) south of central Chennai and north of Mamallapuram.\nKovalam developed as a trading settlement during the early eighteenth century. In 1719, Godefroy de la Merveille obtained permission from Sa'adatullah Khan I, Nawab of the Carnatic, to establish a trading post at the site, then known to Europeans as Cabelon. The settlement subsequently became associated with the Ostend Company, which established one of its early Asian trading posts at Covelong. Today, the village is particularly associated with its beach, fishing community and surfing.",
+   "url": "https://en.wikipedia.org/wiki/Covelong"
+  },
+  {
+   "title": "Chemman Cherry",
+   "text": "Chemman Cherry, also known as Semmancheri, is a panchayat town of Chengalpattu district in the Indian state of Tamil Nadu located in the southern part of the Chennai Metropolitan Area.\nIt is close to Siruseri IT Park and next to Sholinganallur on IT highway (Rajiv Gandhi salai) chennai-600119. Prime location which has Sathyabama University, National Maritime University, and Semmancheri Slum Clearance Board. New high-rise towers in gated-community by DLF (Garden city), Appasamy's Splendour, Bollineni (Hillside) and AWHO (Army Welfare Housing Organization) are here.  Semmanchery has a small ancient temple (Srinivasa Perumal temple). Also upcoming Metro train station(Line 3) and has star hotels such as The Elite Grand, Marriott and Sheraton.A mini mall \"Superette\" which has Punjabi Restaurant PiND and Bhatinda Express, Thea Spa, Sublime Boutique and Orange Play house.",
+   "url": "https://en.wikipedia.org/wiki/Chemman_Cherry"
+  },
+  {
+   "title": "Taj Fisherman's Cove Resort & Spa",
+   "text": "Taj Fisherman's Cove Resort & Spa, commonly called Fisherman's Cove, is a luxury beach resort near the coast of the Bay of Bengal in Chennai, India. Categorized as a 5-star deluxe resort by Ministry of Tourism, Government of India, it is a part of the chain of Taj Hotels, Resorts and Palaces and is classified under the group's leisure/resort hotels section. Owned by the Covelong Beach Hotels Limited, an associate of the Taj Group, the hotel is built on the ramparts of a ruined 18th-century Belgian castle.",
+   "url": "https://en.wikipedia.org/wiki/Taj_Fisherman%27s_Cove_Resort_%26_Spa"
+  },
+  {
+   "title": "Malik ibn Dinar Mosque",
+   "text": "The Malik ibn Dinar Mosque is a mosque situated in the village of Covelong, in the Chengalpattu district of the state of Tamil Nadu, India. The mosque contains the grave of Muslim saint Thameemul Ansari.",
+   "url": "https://en.wikipedia.org/wiki/Malik_ibn_Dinar_Mosque"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Malik ibn Dinar Mosque",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 12.789655104383847,
+   "lon": 80.25165479484019
+  },
+  {
+   "name": "Chemman Cherry",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.784444444444444,
+   "lon": 80.24805555555555
+  },
+  {
+   "name": "Covelong",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 12.7925,
+   "lon": 80.253
+  },
+  {
+   "name": "Taj Fisherman's Cove Resort & Spa",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 12.797531,
+   "lon": 80.248287
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

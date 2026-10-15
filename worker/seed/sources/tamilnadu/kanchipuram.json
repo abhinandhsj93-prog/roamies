@@ -1,0 +1,32 @@
+{
+ "query": "Kanchipuram",
+ "found": "Kanchipuram, Tamil Nadu, India",
+ "lat": 12.9647163,
+ "lon": 79.9839686,
+ "fetchedAt": "2026-10-12T19:16:46.493Z",
+ "locality": {
+  "id": "pillaipakkam-chennai-metropolitan-area-tamil-nadu",
+  "name": "Pillaipakkam",
+  "area": "Chennai Metropolitan Area, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Kanchipuram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Parameswara_Vinnagaram.JPG/1280px-Parameswara_Vinnagaram.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kanchipuram",
+   "credit": "Photo: Sridhar.selvaraj, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parameswara_Vinnagaram.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kanchipuram",
+   "text": "Kanchipuram (IAST: kāñcipuram; [kaːɲdʑipuɾam]), also known as Kanjeevaram or Kancheepuram, is a city in the Indian state of Tamil Nadu in the Chennai metropolitan area. Known as the City of Thousand Temples, Kanchipuram is known for its temple architectures, 1000-pillared halls, huge temple towers, and silk saris. Kanchipuram serves as an important domestic and international tourist destination. The city covers an area of 36.14 km2 (13.95 sq mi) and an estimated population of 232,816 in 2011. It is the administrative capital of Kanchipuram district. Kanchipuram is well-connected by road and rail.\nKanchipuram is a Tamil name formed by combining two words, \"kanchi\" and \"puram,\" together meaning \"the city of kanchi flowers\" (due to the abundance of kanchi flowers in those regions). The city is located on the banks of the Vegavathy River and Palar Rivers. Kanchipuram has been ruled by the Pallavas, the Medieval Cholas, the Later Cholas, the Later Pandyas, the Vijayanagara Empire, the Carnatic kingdom, and the British, who called the city \"Conjeeveram\". The city's historical monuments include the Kailasanathar Temple and the Vaikunta Perumal Temple. Historically, Kanchipuram was a centre...",
+   "url": "https://en.wikipedia.org/wiki/Kanchipuram"
+  }
+ ],
+ "sights": [],
+ "food": [],
+ "errors": []
+}

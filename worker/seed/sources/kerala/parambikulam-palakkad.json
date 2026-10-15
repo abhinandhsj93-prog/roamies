@@ -1,0 +1,69 @@
+{
+ "query": "Parambikulam, Palakkad",
+ "found": "Parambikulam Dam, Parambikkulam, Chittur, Palakkad, Kerala, 678661, India",
+ "lat": 10.3874713,
+ "lon": 76.7690569,
+ "fetchedAt": "2026-10-12T17:58:25.105Z",
+ "locality": {
+  "id": "chittur-palakkad-kerala",
+  "name": "Chittur",
+  "area": "Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Chittur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Anikode%2C_Chittur.jpg/1280px-Anikode%2C_Chittur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chittur-Thathamangalam",
+   "credit": "Photo: Shafeeq basheer, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anikode,_Chittur.jpg"
+  },
+  "Chittur-Thathamangalam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Anikode%2C_Chittur.jpg/1280px-Anikode%2C_Chittur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chittur-Thathamangalam",
+   "credit": "Photo: Shafeeq basheer, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anikode,_Chittur.jpg"
+  },
+  "Parambikulam Dam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Parambikulam_Reservoir_112.JPG/1280px-Parambikulam_Reservoir_112.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Parambikulam Dam",
+   "credit": "Photo: PP Yoonus, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parambikulam_Reservoir_112.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Chittur-Thathamangalam",
+   "text": "Chittur-Thathamangalam is a town and municipality in the Palakkad district of Kerala State, India. It is the headquarters of Chittur taluk, 13 km (8.1 mi) southeast of Palakkad, on the banks of the Kannadipuzha, a major headstream of the Bharathapuzha, the second-longest river in Kerala. A mini civil station is also located here, which provides government-related services. It consists of two areas, Chittur and Thathamangalam, which together form the municipality.\n\n\n== Etymology ==\n\n\n== Temples ==\nChittur-Thathamangalam town consists of the famous Chittur Bhagavathi temple, which is under the Cochin Devaswom board. The other major temples are the Pazhayannur Bhagavathi temple, Durga temple, and Sivakshethram (in Lankeswaram agraharam). \n\n\n== Economy and society ==\nAgriculture is the main occupation of the district's people. The town is home to some of the major Menon tharavads of Kerala. There are also many agraharams (communities of Iyers) and Moothan communities.\n\n\n== History ==\nThe Sokanashini river flows through Chittur, and it is on the banks of this river that Thunjathu Ramanujan Ezuthachan, the father of the Malayalam language, spent his last days. His final resting place is famous for...",
+   "url": "https://en.wikipedia.org/wiki/Chittur-Thathamangalam"
+  },
+  {
+   "title": "Parambikulam Dam",
+   "text": "Parambikulam Dam is an embankment dam on the Parambikulam River,\n located in the Palakkad district in the Western Ghats of Kerala, India, ranks number one in India as well as in the top ten embankment dams in the world in volume in the year 2000.\n\nThis Dam was built at the time of Kamarajar. This is one of the Major irrigation schemes were planned in Kamaraj's period. The dam is operated and maintained by Tamil Nadu but the ownership rests with Kerala, Per the agreement with Tamil Nadu, Kerala was supposed to receive 7.25 TMC feet of water (out of effective storage of 13.41 Tmcft) per year from the Parambikulam-Aliyar Project of which the Parambikulam Dam is a part. In 2004, Kerala did not receive any water after February 10, resulting in the drying up of paddy in thousands of acres in Chittur taluk. Since this claus of agreement was not  met as of July 2006, Kerala Water Resources Minister called for a review of the project agreement.\nOn 17 October 2012, Kerala and Tamil Nadu reached an accord on Parambikulam-Aliyar water.",
+   "url": "https://en.wikipedia.org/wiki/Parambikulam_Dam"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Chittur",
+  "text": "Chittur is a small town in Palakkad District in Malabar, Kerala, India. \n\n\n== See ==\n1 Bhagavathi Temple, Chittur.  (updated May 2015)\n2 Chittur Kavu, Anikode.  (updated May 2015)\n3 Durga temple, Chittur.  (updated May 2015)\n4 Muniyappan Temple, Bunglowparambu.  (updated May 2015)\n\n5 Parambikulam Wildlife Sanctuary (Parambikulam Tiger Reserve), Chittur. Six tribal colonies, new Tiger reserve. (updated Jun 2015)\n Shiva Kshethram, Lankeswaram Agrahara.  (updated May 2015)\n6 Vettaikoru Makan temple, Anikode.  (updated May 2015)\n\n\n== Do ==\n\n\n== Eat ==\n\n Casino Hotel, Near Devadas Clinic, Tatamangalam.  (updated May 2015)\n Mohammed Ali Restaurant, Tattamangalam.  (updated May 2015)\n Nair Tea shop, Meenakshipuram.  (updated May 2015)\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Chittur"
+ },
+ "sights": [
+  {
+   "name": "Parambikulam Aliyar Project Memorial",
+   "kind": "memorial",
+   "walkMinutes": 16,
+   "lat": 10.3929245,
+   "lon": 76.7757783
+  },
+  {
+   "name": "Total Tribal Literacy Declaration Parambikulam",
+   "kind": "monument",
+   "walkMinutes": 16,
+   "lat": 10.3931745,
+   "lon": 76.7758558
+  }
+ ],
+ "food": [],
+ "errors": []
+}

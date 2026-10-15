@@ -1,0 +1,40 @@
+{
+ "query": "Kabini",
+ "found": "Kabini (pinned)",
+ "lat": 11.9407,
+ "lon": 76.348,
+ "fetchedAt": "2026-10-12T19:12:31.361Z",
+ "locality": {
+  "id": "bidarahalli-mysuru-district-karnataka",
+  "name": "Bidarahalli",
+  "area": "Saraguru taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Kabini River": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kabani_River.jpg/1280px-Kabani_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kabini River",
+   "credit": "Photo: Vinodnellackal at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kabani_River.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kabini River",
+   "text": "The Kabini River is one of the major tributaries of the river Cauvery in southern India, It originates in Wayanad district of Kerala state by the confluence of the Panamaram River and the Mananthavady River. It flows eastward through Wayanad district, entering Mysore district of Karnataka,  to join the Kaveri River in Mysore district of Karnataka.\nClose to the town of Sargur it forms the huge Kabini Reservoir. The backwaters of the Kabini reservoir are very rich in wildlife especially in summer when the water level recedes to form rich grassy meadows. The Kabini dam is 2,284 ft (696 m) in length with an original gross storage of 19.52 tmcft. The Kabini  Dam is situated between villages Bichanahalli and Bidarahalli having distance of 17 km (11 mi) 6 km away from Sargur town in Heggadadevana kote taluk, Mysore district, Karnataka.\n\n\n== Wildlife ==\nThe Kabini Forest Reserve is one of the most popular wildlife destinations of Karnataka, due to its accessibility, green landscape surrounding a large lake, and sightings of herds of elephants and tigers. It is 61 km (38 mi) away from Mysuru and 205 km (127 mi) from Bengaluru, and comprises the south-eastern part of Nagarahole National Park. The...",
+   "url": "https://en.wikipedia.org/wiki/Kabini_River"
+  },
+  {
+   "title": "Bidarahalli",
+   "text": "Bidarahalli is a village located in Mundargi taluk in Gadag district, Karnataka, India.\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Bidarahalli"
+  }
+ ],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

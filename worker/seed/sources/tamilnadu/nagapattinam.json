@@ -1,0 +1,35 @@
+{
+ "query": "Nagapattinam",
+ "found": "Nagapattinam, Tamil Nadu, India",
+ "lat": 10.6026203,
+ "lon": 79.7619348,
+ "fetchedAt": "2026-10-12T19:22:22.963Z",
+ "locality": {
+  "id": "thenpathi-nagapattinam-district-tamil-nadu",
+  "name": "Thenpathi",
+  "area": "Kilvelur, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Nagapattinam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Nagapattinam_Documentary.jpg/1280px-Nagapattinam_Documentary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nagapattinam",
+   "credit": "Photo: Aspandi007, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagapattinam_Documentary.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Nagapattinam",
+   "text": "Nagapattinam (nākappaṭṭinam, previously spelt Nagapatnam or Negapatam) is a city in the Indian state of Tamil Nadu and the administrative headquarters of Nagapattinam district. The town came to prominence during the period of Medieval Cholas (9th–12th century CE) and served as their important port for commerce and east-bound naval expeditions. The Chudamani Vihara in Nagapattinam constructed by the Srivijayan king Sri Mara Vijayattungavarman of the Sailendra dynasty with the help of Rajaraja Chola I was an important Buddhist structure in those times. Nagapattinam was settled by the Portuguese and, later, the Dutch under whom it served as the capital of Dutch Coromandel from 1660 to 1781. In November 1781, the town was conquered by the British East India Company. It served as the capital of Tanjore district from 1799 to 1845 under Madras Presidency of the British. It continued to be a part of Thanjavur district in Independent India. In 1991, it was made the headquarters of the newly created Nagapattinam District. Nagapattinam is administered by a Special grade municipality covering an area of 17.92 km2 (6.92 sq mi) and had a population of 102,905 as of 2011.\nA majority of the people...",
+   "url": "https://en.wikipedia.org/wiki/Nagapattinam"
+  }
+ ],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "query": "Nandi Hills",
+ "found": "Nandi Hills (pinned)",
+ "lat": 13.3702,
+ "lon": 77.6835,
+ "fetchedAt": "2026-10-12T19:11:34.603Z",
+ "locality": {
+  "id": "sultanapete-chikkaballapura-karnataka",
+  "name": "Sultanapete",
+  "area": "Chikkaballapura taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Yoga Nandeeshwara Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/00/SreeYoganandeeswaraSwamyTemple.JPG/1280px-SreeYoganandeeswaraSwamyTemple.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Yoga Nandeeshwara Temple",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SreeYoganandeeswaraSwamyTemple.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Yoga Nandeeshwara Temple",
+   "text": "Yoga Nandeeshwara Temple is a Hindu temple in Nandi Hills or Nandidurg, Chikkaballapur district, Karnataka, India, is a dedicated to the Lord Shiva. It dates back to the Chola's Period.",
+   "url": "https://en.wikipedia.org/wiki/Yoga_Nandeeshwara_Temple"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Yoga Nandeeshwara Temple",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 13.3686,
+   "lon": 77.6837
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

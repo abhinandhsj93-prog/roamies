@@ -1,0 +1,128 @@
+{
+ "query": "Mararikulam, Alappuzha",
+ "region": "kerala",
+ "name": "Mararikulam",
+ "draft": {
+  "briefing": "Hey, you're in Mararikulam! This coastal village once handed V. S. Achuthanandan a shock defeat in 1996, in a seat seen as a Communist stronghold, and it cost him the Chief Minister's chair for another decade. It's also home to former international volleyball player K. Udayakumar.",
+  "hungryLine": "This is seafood and tender coconut country, and Cherthala town nearby has good budget spots for kuzhimanthi and Kerala snacks.",
+  "moodReplies": {
+   "show-me-around": "Walk through Mararikulam North, then head down to Marari Beach and over to Andhakaranazhy Beach for the evening.",
+   "somewhere-to-chill": "Pick one of the quieter beaches, like Chethi, Thykkal or Ottamassery, where you'll barely see a crowd.",
+   "surprise-me": "Coconut climbers here will pluck a tender coconut right in front of you and slice a hole in the top so you can drink it."
+  },
+  "seeFirst": {
+   "caption": "Around the village",
+   "spots": [
+    {
+     "name": "Mararikulam North",
+     "detail": "9 min walk · The village panchayat on the Arabian Sea",
+     "status": {
+      "text": "Village lanes",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Marari Beach",
+     "detail": "Short drive · The village's famous stretch of sand",
+     "status": {
+      "text": "Free to visit",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Andhakaranazhy Beach",
+     "detail": "10 km from Cherthala town · The best sunset spot around",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thankey Church",
+    "title": "The miraculous statue",
+    "body": "Thousands come to Thankey every year for a statue of the Passion of Our Lord that's believed to be miraculous. It's a pilgrimage of repentance and fresh starts."
+   },
+   {
+    "where": "Arthunkal",
+    "title": "A Portuguese shrine",
+    "body": "The shrine at Arthunkal Basilica was made by the Portuguese and is still kept intact. It's one of six basilicas in Kerala for Catholics."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Mind temple etiquette.",
+    "body": "The local temples, like Cherthala Karthyayani, are lovely to visit, but don't break any cultural practices."
+   },
+   {
+    "icon": "sun",
+    "title": "Stay for sunset.",
+    "body": "Andhakaranazhy Beach is the best place around Cherthala to watch the sun go down."
+   }
+  ],
+  "story": [
+   {
+    "era": "1957",
+    "title": "A seat is born",
+    "body": "The Mararikulam Assembly constituency was created. It became one of seven seats in the Alleppey Lok Sabha constituency.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1991",
+    "title": "A veteran arrives",
+    "body": "Communist leader V. S. Achuthanandan won Mararikulam and represented it until 1996.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1996",
+    "title": "The shock defeat",
+    "body": "Achuthanandan lost here, in a seat seen as a Communist bastion, and missed out on becoming Chief Minister. He finally made it in 2006, elected from Malampuzha.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2008",
+    "title": "Lines redrawn",
+    "body": "The constituency stopped existing after the 2008 delimitation. Mararikulam North carries on as a gram panchayat by the sea.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Your turn",
+    "title": "Beach hop",
+    "body": "Grab a tender coconut, walk to Marari Beach and end the day at Andhakaranazhy. Tell me which beach you'd come back to.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Onion Restaurant",
+    "detail": "Next to Cherthala KSRTC bus station · Kuzhimanthi, biriyani and fish curries, plus kilikkoodu and madakku from the bakery",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Four Brothers",
+    "detail": "Opposite Cherthala KSRTC bus station · A decent bakery for snacks and shakes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

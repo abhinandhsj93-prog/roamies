@@ -1,0 +1,282 @@
+{
+ "query": "Kumbakonam",
+ "found": "Kumbakonam, Thanjavur, Tamil Nadu, 612001, India",
+ "lat": 10.9604108,
+ "lon": 79.3820861,
+ "fetchedAt": "2026-10-12T19:20:09.111Z",
+ "locality": {
+  "id": "chekkankanni-thanjavur-tamil-nadu",
+  "name": "Chekkankanni",
+  "area": "Kumbakonam, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Kumbakonam": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kumbakonam_Mahamaham_Tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kumbakonam",
+   "credit": "Photo: Trawell.in, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumbakonam_Mahamaham_Tank.jpg"
+  },
+  "Ramaswamy Temple, Kumbakonam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ramaswamy_temple1.jpg/1280px-Ramaswamy_temple1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ramaswamy Temple, Kumbakonam",
+   "credit": "Photo: Ssriram mt, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramaswamy_temple1.jpg"
+  },
+  "Nageswaraswamy Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nageswaran1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Nageswaraswamy Temple",
+   "credit": "Photo: பா.ஜம்புலிங்கம், CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nageswaran1.jpg"
+  },
+  "Someswarar Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Someswaran_Temple.jpg/1280px-Someswaran_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Someswarar Temple",
+   "credit": "Photo: Shanze1, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Someswaran_Temple.jpg"
+  },
+  "Kasi Viswanathar Temple, Kumbakonam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Kasiviswanathar1.jpg/1280px-Kasiviswanathar1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kasi Viswanathar Temple, Kumbakonam",
+   "credit": "Photo: Ssriram mt, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasiviswanathar1.jpg"
+  },
+  "Chakrapani Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Chakrapani_Temple%2C_Kumbakonam.JPG/1280px-Chakrapani_Temple%2C_Kumbakonam.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chakrapani Temple",
+   "credit": "Photo: Rsmn, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chakrapani_Temple,_Kumbakonam.JPG"
+  },
+  "Mahamaham stampede": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Mahamaham_Festival_in_Kumbakonam.jpg/1280px-Mahamaham_Festival_in_Kumbakonam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mahamaham stampede",
+   "credit": "Photo: Wiele &amp; Klein, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahamaham_Festival_in_Kumbakonam.jpg"
+  },
+  "Banapuriswarar Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Banupurisvarar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Banapuriswarar Temple",
+   "credit": "Photo: பா.ஜம்புலிங்கம், CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banupurisvarar.jpg"
+  },
+  "Gauthameswarar Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gowtamesvar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Gauthameswarar Temple",
+   "credit": "Photo: பா.ஜம்புலிங்கம், CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gowtamesvar.jpg"
+  },
+  "Abimukeswarar Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Abimukesvarar.jpg/1280px-Abimukesvarar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Abimukeswarar Temple",
+   "credit": "Photo: பா.ஜம்புலிங்கம், CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abimukesvarar.jpg"
+  },
+  "Kalahasteeswarar Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kalahastisvarar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kalahasteeswarar Temple",
+   "credit": "Photo: பா.ஜம்புலிங்கம், CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalahastisvarar.jpg"
+  },
+  "Ekambeswarar Temple, Kumbakonam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ekambareswarar_temple.JPG/1280px-Ekambareswarar_temple.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ekambeswarar Temple, Kumbakonam",
+   "credit": "Photo: பா.ஜம்புலிங்கம், CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ekambareswarar_temple.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kumbakonam",
+   "text": "Kumbakonam or Kudanthai is a city municipal corporation in the Thanjavur district, Tamil Nadu, India. Located 40 km (25 mi) from Thanjavur and 282 km (175 mi) from Chennai and it is the headquarters of the Kumbakonam taluk. It is the second-largest city in the district after Thanjavur and is bounded by two rivers: the Kaveri to the north and Arasalar to the south. Kumbakonam is known as temple city due to its high concentration of Hindu shrines and it hosts Mahamaham festival every 12 years, attracting pilgrims from all over the country.\nKumbakonam dates back to the Sangam period and was historically ruled by the Early Cholas, Pallavas, Mutharaiyars, Medieval Cholas, Later Cholas, Pandyas, the Vijayanagara Empire, the Madurai and Thanjavur Nayaks and the Thanjavur Marathas. It was the seat of medieval Cholas between the 7th and 8th centuries CE. During the British Raj, the city developed into a major center for Hindu scholarship and Western education, earning the name, the \"Cambridge of South India\". Kumbakonam was initially constituted as a municipality in 1866, it was upgraded to a municipal corporation on 24 August 2021 and comprises 48 wards.",
+   "url": "https://en.wikipedia.org/wiki/Kumbakonam"
+  },
+  {
+   "title": "Diocese of Kumbakonam",
+   "text": "The Diocese of Kumbakonam (Latin: Kumbakonamen(sis)) is a Latin Church ecclesiastical jurisdiction or diocese of the Catholic Church in India. Its episcopal see is Kumbakonam. The Diocese of Kumbakonam is a suffragan in the ecclesiastical province of the metropolitan Archdiocese of Pondicherry and Cuddalore.",
+   "url": "https://en.wikipedia.org/wiki/Diocese_of_Kumbakonam"
+  },
+  {
+   "title": "Government Arts College, Kumbakonam",
+   "text": "The Government Arts College, previously known as the Government Arts College for Men, is an autonomous college based in the town of Kumbakonam in Tamil Nadu, India. This college is functioning under Bharathidasan University. Dr. M. Selvam is the vice-chancellor of the university. Dr. K. Duraiarasan has been the principal of this college since 2020. He is a former examination control officer of Bharathidasan University and assistant director of Tamil Nadu Government's Tamil Internet Education Institute. The college is ranked 71st among colleges in India by the National Institutional Ranking Framework (NIRF) in 2025.",
+   "url": "https://en.wikipedia.org/wiki/Government_Arts_College,_Kumbakonam"
+  },
+  {
+   "title": "Ramaswamy Temple, Kumbakonam",
+   "text": "Ramaswamy Temple is a Hindu temple dedicated to Rama, an incarnation of Vishnu located in Kumbakonam, Tamil Nadu, India. It is one of the prominent temples in the town and also one of the most prominent temples dedicated to Rama in India. This temple is also counted as a temple located on the banks of river Kaveri.\nThe temple was built during the period of Thanjavur Nayaks king Achuthappa Nayak (1560–1614) and completed during the reign of Raghunatha Nayak (1600–34). The temple is enshrined within a huge granite wall and the complex contains all the shrines and the water bodies of the temple. The rajagopuram (the main gateway) has five tiers. There are exquisite sculptures on the pillars of the temple depicting various Hindu legends. Ramayanam is depicted in pictorial format in three segments in the first precinct.\nThe temple has six daily rituals at various times from 6:30 a.m. to 9 p.m., and twelve yearly festivals on its calendar. The major festival in the temple is Rama Navami during the Tamil month of Panguni (March–April).",
+   "url": "https://en.wikipedia.org/wiki/Ramaswamy_Temple,_Kumbakonam"
+  },
+  {
+   "title": "Nageswaraswamy Temple",
+   "text": "Nageswaraswamy Temple is a Hindu temple dedicated to Shiva located in Kumbakonam in Thanjavur district, Tamil Nadu, India. The presiding deity is revered in the 7th-century Tamil Saiva canonical work, the Tevaram, written by Tamil poet saints known as the nayanars and classified as Paadal Petra Sthalam. The temple is counted as the earliest of all Chola temples. Shiva in the guise of Nagaraja, the serpent king.\nThere are many inscriptions associated with the temple indicating contributions from Cholas, Thanjavur Nayaks and Thanjavur Maratha kingdom. The oldest parts of the present masonry structure were built during the Chola dynasty in the 9th century, while later expansions, including the towering gopuram gatehouses, are attributed to later periods, up to the Thanjavur Nayaks during the 16th century.\nThe temple complex is one of the largest in the state and it houses three gateway towers known as gopurams. The temple has numerous shrines, with those of Nageswarar, Pralayamkathanathar and Periyanayagi being the most prominent. The temple complex houses many halls and three precincts; the most notable is the second precinct built during the Vijayanagar period that has many sculptures...",
+   "url": "https://en.wikipedia.org/wiki/Nageswaraswamy_Temple"
+  },
+  {
+   "title": "Someswarar Temple",
+   "text": "Someswarar Temple is a Hindu temple dedicated to the deity Shiva, located in Kumbakonam, Tamil Nadu, India. Shiva is worshipped as Someswarar and is represented by the lingam. His consort Parvati is depicted as Somasundari. The presiding deity is revered in the 7th century Tamil Saiva canonical work, the Tevaram, written by Tamil saint poets known as the nayanars and classified as Paadal Petra Sthalam.\nThe temple complex covers two acres and is located close to the Sarangapani temple. It houses two gateway towers known as gopurams. The tallest is the western tower, with five stories and a height of 72 feet (22 m). The temple has numerous shrines, with those of Someswarar, Somasundari and being the most prominent.\nThe temple has six daily rituals at various times from 6:00 a.m. to 9 p.m., and twelve yearly festivals on its calendar. The Masi Magam festival is celebrated during the day of the Magam (February - March) is the most prominent festival.\nThe present masonry structure was built during the Nayak during the 16th century. In modern times, the temple is maintained and administered by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu.",
+   "url": "https://en.wikipedia.org/wiki/Someswarar_Temple"
+  },
+  {
+   "title": "Kasi Viswanathar Temple, Kumbakonam",
+   "text": "Kasi Viswanathar Temple, Kumbakonam is a Hindu temple dedicated to Lord Shiva, located in Kumbakonam, Tamil Nadu, India. Here, Lord Shiva is worshipped as Kasi Viswanathar, and  His consort Parvati is depicted as Visalakshi. The presiding deity is revered in the 7th-century Tamil Saiva canonical work, the Tevaram, written by Tamil saint poets known as the nayanars and classified as Paadal Petra Sthalam.\nThe temple complex covers two acres and is located close to the Mahamaham tank. It houses two gateway towers known as gopurams. The tallest is the western tower, with seven stories and a height of 72 feet (22 m). The temple has numerous shrines, with those of Kasi Viswanathar, Visalakshi and Navakanniyar being the most prominent.\nThe temple has six daily rituals at various times from 6:00 a.m. to 9 p.m., and twelve yearly festivals on its calendar. The Masi Magam festival is celebrated during the day of the Magam (February–March) is the most prominent festival.\nThe present masonry structure was built during the Nayak during the 16th century. In modern times, the temple is maintained and administered by the Hindu Religious and Charitable Endowments Department of the Government of Tamil...",
+   "url": "https://en.wikipedia.org/wiki/Kasi_Viswanathar_Temple,_Kumbakonam"
+  },
+  {
+   "title": "Chakrapani Temple",
+   "text": "Chakrapani Temple is a Hindu temple dedicated to God Vishnu located in Kumbakonam, Tamil Nadu, India. This temple is located 2 km, away towards North West from the Kumbakonam Railway Station. Vishnu appears in the form of a discus or Chakra to put down the pride of Surya (the Sun), who subsequently became his devotee. Like Shiva, Lord Chakrapani has a third eye on His forehead. The temple is one of the prominent Vishnu temples in Kumbakonam.",
+   "url": "https://en.wikipedia.org/wiki/Chakrapani_Temple"
+  },
+  {
+   "title": "Mahamaham stampede",
+   "text": "The Mahamaham stampede was a crowd crush  disaster that occurred during the Mahamaham festival on 18 February 1992, around Mahamaham tank located in the town of Kumbakonam in the South Indian state of Tamil Nadu. An estimated 50 people were killed in the  crush that left another 74 injured. The crush was triggered by mismanagement of large number of people visiting the festival, which was also attended by the then Chief Minister of Tamil Nadu, Jayalalithaa, who had a holy dip in the tank.",
+   "url": "https://en.wikipedia.org/wiki/Mahamaham_stampede"
+  },
+  {
+   "title": "Banapuriswarar Temple",
+   "text": "Banapuriswarar Temple is a Hindu temple located in the town of Kumbakonam in Tamil Nadu, India. It is dedicated to the Hindu god Shiva. According to Hindu mythology, the site was the place from where Shiva took his aim at a pot of amrita with his bow and arrow.",
+   "url": "https://en.wikipedia.org/wiki/Banapuriswarar_Temple"
+  },
+  {
+   "title": "Gauthameswarar Temple",
+   "text": "Gauthameswarar Temple is a Hindu temple dedicated to Shiva located at Kumbakonam in Thanjavur district, Tamil Nadu, India.",
+   "url": "https://en.wikipedia.org/wiki/Gauthameswarar_Temple"
+  },
+  {
+   "title": "Abimukeswarar Temple",
+   "text": "Abimukeswarar Temple is a Hindu temple dedicated to Shiva located in Kumbakonam in Thanjavur district, Tamil Nadu, India. The temple is one of 12 Shiva temples connected with the Mahamaham festival, which takes place in Kumbakonam every 12 years.",
+   "url": "https://en.wikipedia.org/wiki/Abimukeswarar_Temple"
+  },
+  {
+   "title": "Kalahasteeswarar Temple",
+   "text": "Kalahasteeswarar Temple is a Hindu temple dedicated to Shiva located at Kumbakonam in Thanjavur district, Tamil Nadu, India.",
+   "url": "https://en.wikipedia.org/wiki/Kalahasteeswarar_Temple"
+  },
+  {
+   "title": "Ekambeswarar Temple, Kumbakonam",
+   "text": "Ekambeswarar Temple is a Hindu temple dedicated to Lord Shiva located at Kumbakonam in Thanjavur district, Tamil Nadu, India.",
+   "url": "https://en.wikipedia.org/wiki/Ekambeswarar_Temple,_Kumbakonam"
+  },
+  {
+   "title": "Central Bus Station Kumbakonam",
+   "text": "Central Bus Station, popularly known as Central Bus Stand or Arignar Anna Moffusil Bus Stand is one of the main bus terminus of Kumbakonam, a town in Thanjavur district of Tamil Nadu, India. The bus terminus is classified as \"A\" category bus station. The other bus stand is Town bus stand.\nThe prominent Mahamaham tank is 3 km away from the Central Bus Station. There are two bus stands one for mofussil services and one for town services opposite to moffusil bus stand. In future Kumbakonam need a Integrated bus stand at Chennai bypass road considering the four laning of Thanjavur Kumbakonam Vikravandi NH 36. The present bus stand is well inside the town as it was proposed in 1980s and started to function from 1989.",
+   "url": "https://en.wikipedia.org/wiki/Central_Bus_Station_Kumbakonam"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kumbakonam",
+  "text": "Kumbakonam is a town in the Thanjavur district of Tamil Nadu. The town is popular for the Betal Leaf Combination (Vettrilai Cheeval) and for the thick-strong coffee. Nearby Darasuram is famous for Airavatesvara Temple, a  UNESCO World Heritage Site.\n\n\n== See ==\n1 Adi Kumbeswarar Temple. A temple dedicated to Lord Shiva, where he is worshipped as Adi Kumbeswarar. (updated Jan 2024)\n2 Airavatesvara Temple, Darasuram. A temple dedicated to Lord Shiva and a  UNESCO World Heritage Site. Built during the Chola era, the temple is named after Lord Indra's elephant Airavata. (updated Jan 2024)\n3 Kasi Viswanathar Temple. Named after the famous temple in Varanasi, this temple worships Lord Shiva as Vishvanatha and his consort Parvati as Vishalakshi. (updated Jan 2024)\n\n\n== Do ==\n\n\n== Eat ==\nThere are lots of budget restaurants in Kumbakonam. Although food in general will be tastier all around the city, it might not be hygienic. Check out the hotels around as some also have good restaurants. Hotel Raayas is better for Non Vegetarian and if you are after some quality Parottas and tasty Non-Veg, Hotel SHANMUGA seems to be the place as it is the LOCAL'S Favourite. Hotel Meenatchi Bhavan, Archanas and Venkatramana are all good for a veggie.\nSterling Resorts provide excellent food for the rich. But if a simple home style food of the local cuisine is what you want, try out one of the 'mess'.\n\n Gowrishankar Hotels, Upstairs to New Bus Stand (New Bus Stand Shopping Complex), ☏ +91 435-2401220. 05:30-22:30. A Vegetarian Restaurant in the premises of Kumbakonam New Bus Stand \n Indeco Hotels, Thimmakudi (Swamimali Road). 7AM-10PM. Multi cuisine vegetarian food. ₹350. \n Murali, No 40 Narasojee Rao st (Walajapet), ☏ +91 4172-645261. Kavitha Hotel - Thirumanjana Veethi Near Kumbeswarar temple \n Meenatchi Restaurant. Good veggie food. \n Paradise Resort. Try it for over the top stuff. ₹420/- Lunch. \n\n\n== Drink ==\nCoffee. You'll be missing the essence of the trip if you didn't taste the coffee here. Kumbakonam filter coffee is one of the best in India.\n\n Kannan Cafe, Near SRVS (after nall road).  \n Mangalambiga Coffee & Tiffin Center, 99.kumbeswarar north st, ☏ +91 4352400228. good vegetarian hotel \n Taj Samudra Hotel & Restaurant, No:80 Nageswaran south st (Near Nageswaran Temple), ☏ +91 435-2401332-2332. Lunch Meal ₹60/- \n\n",
+  "url": "https://en.wikivoyage.org/wiki/Kumbakonam"
+ },
+ "sights": [
+  {
+   "name": "Ekambeswarar Temple, Kumbakonam",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 10.958446,
+   "lon": 79.380827
+  },
+  {
+   "name": "Kumbakonam",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 10.9602,
+   "lon": 79.3845
+  },
+  {
+   "name": "Nageswaraswamy Temple",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 10.9587475,
+   "lon": 79.37865916666667
+  },
+  {
+   "name": "Kasi Viswanathar Temple, Kumbakonam",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 10.956627777777777,
+   "lon": 79.3822
+  },
+  {
+   "name": "Banapuriswarar Temple",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 10.964657,
+   "lon": 79.381689
+  },
+  {
+   "name": "Mahamaham stampede",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 10.9558,
+   "lon": 79.3817
+  },
+  {
+   "name": "Abimukeswarar Temple",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 10.955127,
+   "lon": 79.382802
+  },
+  {
+   "name": "Central Bus Station Kumbakonam",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 10.959,
+   "lon": 79.3878
+  },
+  {
+   "name": "Gauthameswarar Temple",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 10.954854,
+   "lon": 79.379797
+  },
+  {
+   "name": "Someswarar Temple",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 10.9591,
+   "lon": 79.3751
+  },
+  {
+   "name": "Diocese of Kumbakonam",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 10.9562,
+   "lon": 79.388
+  },
+  {
+   "name": "Kalahasteeswarar Temple",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 10.966319,
+   "lon": 79.377602
+  },
+  {
+   "name": "Ramaswamy Temple, Kumbakonam",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 10.957208,
+   "lon": 79.373659
+  },
+  {
+   "name": "Chakrapani Temple",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 10.963351,
+   "lon": 79.37317
+  },
+  {
+   "name": "Government Arts College, Kumbakonam",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 10.970819,
+   "lon": 79.381515
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: The operation was aborted due to timeout",
+  "overpass food: overpass-api.de 504"
+ ]
+}

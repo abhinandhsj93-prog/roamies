@@ -1,0 +1,133 @@
+{
+  "query": "Mapusa",
+  "region": "goa",
+  "name": "Mapusa",
+  "draft": {
+    "briefing": "Hey, you're in Mapusa! Its Municipal Market, built in 1960, was the first planned market in Goa and now has more than a thousand shops. Come on a Friday and the famous Friday Market runs from early morning to late evening.",
+    "hungryLine": "Mapusa is the place for traditional Goan food, cooked both Catholic and Hindu style, and for cold kokum juice by the taxi stand.",
+    "moodReplies": {
+      "show-me-around": "The Mapusa Municipal Market is a 7 minute walk, and St. Jerome Church, with its shrine of Our Lady of Miracles, is about 14 minutes away.",
+      "somewhere-to-chill": "Browse the off-the-beaten-track shelves at the Other India Bookstore, or catch a Konkani play at Hanuman Natyagraha.",
+      "surprise-me": "St. Xavier's College here is the largest and oldest college in Goa."
+    },
+    "seeFirst": {
+      "caption": "Short walks from here",
+      "spots": [
+        {
+          "name": "Mapusa Municipal Market",
+          "detail": "7 min walk · Goa's first planned market, famous for its Friday Market",
+          "status": {
+            "text": "Busiest on Fridays",
+            "tone": "warning"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "St. Jerome Church",
+          "detail": "14 min walk · Home of the shrine of Our Lady of Miracles",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Hanuman Natyagraha",
+          "detail": "2 min walk · Theatre for Konkani and Marathi plays",
+          "status": {
+            "text": "Check show timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "St. Jerome Church",
+        "title": "A feast for everyone",
+        "body": "The feast of Our Lady of Miracles draws thousands of devotees every year. Locals see it as an example of Catholic and Hindu amity."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Go on a Friday.",
+        "body": "The weekly Friday Market runs from early morning till late evening."
+      },
+      {
+        "icon": "tag",
+        "title": "Take home a plant.",
+        "body": "Buy a plant or tree at the Friday Market and help keep Goa green."
+      }
+    ],
+    "story": [
+      {
+        "era": "Portuguese era",
+        "title": "Mapuçá",
+        "body": "Under Portuguese rule the town was known as Mapuçá. It grew into the headquarters of Bardez taluka.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1911",
+        "title": "A school is born",
+        "body": "The Saraswat Education Society founded Saraswat Vidyalaya as a Marathi primary school in March 1911.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "1946",
+        "title": "St. Britto's",
+        "body": "The Jesuits founded St. Britto High School for boys in Mapusa in 1946.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "1960",
+        "title": "Goa's first planned market",
+        "body": "The Mapusa Municipal Market was built in 1960, the first planned market in Goa.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Today",
+        "title": "North Goa's shopping town",
+        "body": "Mapusa is the main commercial centre of North Goa, and its Friday Market draws more tourists every year.",
+        "illustration": "pepper"
+      }
+    ],
+    "food": [
+      {
+        "name": "Cafe Xavier",
+        "detail": "Traditional Goan cooking right inside the market",
+        "status": {
+          "text": "In the market",
+          "tone": "neutral"
+        },
+        "tags": [
+          "cheap"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Babaji's",
+        "detail": "Cold drinks and snacks, a favourite with the younger crowd",
+        "status": {
+          "text": "Check timings locally",
+          "tone": "neutral"
+        },
+        "tags": [
+          "cheap"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "The Pub",
+        "detail": "A first-floor spot overlooking the market",
+        "status": {
+          "text": "Across from the market",
+          "tone": "neutral"
+        },
+        "tags": [],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

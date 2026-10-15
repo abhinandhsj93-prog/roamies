@@ -1,0 +1,138 @@
+{
+ "query": "Tirur, Malappuram",
+ "region": "kerala",
+ "name": "Tirur",
+ "draft": {
+  "briefing": "Hey, you're in Tirur! Its railway station, built in 1861, is the oldest in Kerala. Tirur is also the birthplace of Thunchath Ezhuthachan, the Father of Malayalam literature.",
+  "hungryLine": "Tirur trades in seafood, so eat fish while you're here. Here are a few local favourites.",
+  "moodReplies": {
+   "show-me-around": "Visit Thunchan Parambu, 1.5 km away, where Ezhuthachan was born, then walk to Thrikkandiyur Mahadeva temple.",
+   "somewhere-to-chill": "Head to Thirunavaya on the banks of the River Nila and sit by the water.",
+   "surprise-me": "The medieval Kerala school of astronomy and mathematics was centred mainly in and around today's Tirur Taluk."
+  },
+  "seeFirst": {
+   "caption": "Short walks and drives from here",
+   "spots": [
+    {
+     "name": "Thrikkandiyur Mahadeva temple",
+     "detail": "20 min walk · One of the 108 Shiva temples",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Thunchan Parambu",
+     "detail": "1.5 km · Birthplace of Thunchath Ezhuthachan",
+     "status": {
+      "text": "Literary festival in Feb",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Thirunavaya Banks",
+     "detail": "8 km southeast · Riverbank of the old Mamankam festival",
+     "status": {
+      "text": "Rituals happen here, be respectful",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thirunavaya",
+    "title": "The Mamankam warriors",
+    "body": "This riverbank was home to Mamankam, once the biggest Hindu festival of South India. Tales of Malabar soldiers and the Valluvanad suicide squad are still told here."
+   },
+   {
+    "where": "Vairankode Bhagavathy Temple",
+    "title": "An old Bhadrakaali shrine",
+    "body": "Vairankode is one of the oldest Bhadrakaali temples in Kerala. Its yearly Vairankode Vela is one of the most loved festivals in the area."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in early Feb.",
+    "body": "The Thunchan Utsavam literary festival is held at Thunchan Parambu in the first week of February."
+   },
+   {
+    "icon": "tag",
+    "title": "Arrive by train.",
+    "body": "Tirur sits on the Shoranur to Mangalore rail line, about 52 km south of Kozhikode."
+   }
+  ],
+  "story": [
+   {
+    "era": "Medieval times",
+    "title": "Stargazers and mathematicians",
+    "body": "The Kerala school of astronomy and mathematics was centred mainly in and around Tirur Taluk.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Before 1792",
+    "title": "The Tanur principality",
+    "body": "Puthiyangadi in Tirur was the headquarters of the Tanur principality, which often allied with the Zamorins of Calicut.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1700s",
+    "title": "Mamankam ends",
+    "body": "The great Mamankam festival at Thirunavaya died out in the 18th century after the British annexed Malabar.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1861",
+    "title": "Kerala's first station",
+    "body": "Tirur railway station was built, and it is the oldest railway station in Kerala.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Fish, betel and gadgets",
+    "body": "Tirur is a major trading centre for seafood, betel and electronic devices in northern Kerala.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Thazhe Palam Vegetarian Restaurant",
+    "detail": "Vegetarian meals at Thazhe Palam, about 1 km away",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Khaja Cafe",
+    "detail": "Kuttan beef biriyani, at Kattachira about 5 km away",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Karthyayani Cafe",
+    "detail": "Fish dishes in nearby Tanur",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

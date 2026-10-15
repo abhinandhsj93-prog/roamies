@@ -1,0 +1,103 @@
+{
+ "query": "Bandra West, Mumbai",
+ "region": "maharashtra",
+ "name": "Bandra West",
+ "draft": {
+  "briefing": "Hey, you're in Bandra West! St. Andrew's Church, an 11 min walk away, was built by Portuguese Jesuits in 1575 and is one of the oldest churches in Mumbai. For about half a century it was the only church in Bandra.",
+  "hungryLine": "Wander down to Pali Market at the foot of Pali Hill, where Jude Bakery has sold bread and eggs for years and restaurants and pubs fill the lanes.",
+  "moodReplies": {
+   "show-me-around": "Walk up Hill Road past St. Peter's Church and the Tata Agiary, then on to St. Andrew's Church by the sea.",
+   "somewhere-to-chill": "Jogger's Park is a seaside park at the southern end of Carter Road, with a 400 m jogging track.",
+   "surprise-me": "Jogger's Park used to be a dumping ground. Film stars Dilip Kumar and Sunil Dutt helped raise funds to turn it into a park."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "St. Andrew's Church",
+     "detail": "11 min walk · Built in 1575 on the Bandra sea-shore",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Tata Agiary",
+     "detail": "9 min walk · The Tata Parsi agiary from 1873, a Hill Road landmark",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "St. Peter's Church",
+     "detail": "7 min walk · Right next to the old St. Stanislaus school on Hill Road",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Khar Danda",
+    "title": "The salty village",
+    "body": "Next-door Khar gets its name from khāra, Marathi for salty. A couple of centuries ago, locals farmed salt in pans near the Khar Danda shore."
+   },
+   {
+    "where": "Bandra Talao",
+    "title": "A lake with no known owner",
+    "body": "Locals say this lake was built by an unknown rich Konkani Muslim from nearby Navpada. It was once called Lotus Tank, and also Motha Sarovar."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Skip Hill Road on Friday.",
+    "body": "The shops on Hill Road are closed on Fridays."
+   },
+   {
+    "icon": "tag",
+    "title": "Know its other name.",
+    "body": "Hill Road was officially renamed Ramdas Nayak Road, so you may see that on signs."
+   }
+  ],
+  "story": [
+   {
+    "era": "1575",
+    "title": "The first church",
+    "body": "Portuguese Jesuits built St. Andrew's Church on the Bandra sea-shore. It stayed the only church here until the first quarter of the 17th century.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "About 200 years ago",
+    "title": "Salt and a lake",
+    "body": "Bandra Talao was dug about 200 years ago and spreads over 7.5 acres. Around then, locals also farmed salt near the Khar Danda shore.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1863",
+    "title": "An orphanage becomes a school",
+    "body": "German Jesuit priests started St. Stanislaus as an orphanage. Today it's a boys' school with one of the largest campuses in Mumbai.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1873",
+    "title": "The agiary",
+    "body": "The Tata Parsi agiary went up on Hill Road. It's still one of the road's best-known landmarks.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1990",
+    "title": "From dump to park",
+    "body": "Jogger's Park opened on 27 May 1990 on a former dumping ground. In 2022 the BMC passed a proposal to rename it Sir Oliver Andrade Park, after the hockey coach behind it.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

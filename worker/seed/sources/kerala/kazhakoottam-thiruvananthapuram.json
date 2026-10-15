@@ -1,0 +1,155 @@
+{
+ "query": "Kazhakoottam, Thiruvananthapuram",
+ "found": "Kazhakuttam, FCI Road, Vilayilkulam, Kazhakkoottam, Thiruvananthapuram, Kerala, 695001, India",
+ "lat": 8.556815,
+ "lon": 76.8727534,
+ "fetchedAt": "2026-10-12T17:38:29.114Z",
+ "locality": {
+  "id": "kazhakkoottam-thiruvananthapuram-kerala",
+  "name": "Kazhakkoottam",
+  "area": "Thiruvananthapuram, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kazhakkoottam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Night_View_of_Technopark_Trivandrum.jpg/1280px-Night_View_of_Technopark_Trivandrum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kazhakoottam",
+   "credit": "Photo: Vivek Narayanan, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night_View_of_Technopark_Trivandrum.jpg"
+  },
+  "Kazhakoottam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Night_View_of_Technopark_Trivandrum.jpg/1280px-Night_View_of_Technopark_Trivandrum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kazhakoottam",
+   "credit": "Photo: Vivek Narayanan, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night_View_of_Technopark_Trivandrum.jpg"
+  },
+  "Technopark, Trivandrum": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Technopark_kerala_logo.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Technopark, Trivandrum",
+   "credit": "Photo: Regierung des indischen Bundesstaates Kerala, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Technopark_kerala_logo.gif"
+  },
+  "University College of Engineering, Kariavattom": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ugc_mmttc_IMG_0342.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "University College of Engineering, Kariavattom",
+   "credit": "Photo: John D Clark 5678, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ugc_mmttc_IMG_0342.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kazhakoottam",
+   "text": "Kazhakkoottam is a major urban area in the city of Thiruvananthapuram, India. The largest IT park in the country in terms of developed area, Technopark, along with Technocity-an upcoming integrated IT township-is situated at 6km North of Kazhakoottam. Hence, it is known as the Information Technology capital of Kerala. It is one of the fastest-growing areas of the state.\n\n\n== History ==\nKazhakkoottam was the centre of power for Kazhakuttathu Ugran Pillai who was prominent among the so-called Ettuveetil Pillamar (Pillais from Eight Houses) who rebelled against Travancore King Marthanda Varma in the late 18th century. After defeating Pillai, Varma destroyed his palace and replaced it with a pond. To redeem himself, he built a temple to Krishna nearby. Both the pond and the temple survive. The Kazhakuttom Mahadeva Temple is believed to be 1000 years old.\n\n\n== Administration ==\nKazhakootam is the 1st ward in Thiruvananthapuram Corporation which is administered by the Mayor.\nKazhakoottam assembly constituency is one of the 140 assemblies of the Kerala Legislative Assembly.  It is represented by V. Muraleedharan from BJP 2026 onwards. The Kazhakootam constituency also belongs to the greater Thiruvananthapuram...",
+   "url": "https://en.wikipedia.org/wiki/Kazhakoottam"
+  },
+  {
+   "title": "Technopark, Trivandrum",
+   "text": "Technopark is a technology park in Thiruvananthapuram in the state of Kerala, India. Conceptualized in 1990 by the Government of Kerala, under chief minister E K Nayanar, it is the largest information technology (IT) park in Asia in terms of area.\nLate Kerala Chief Minister K. Karunakaran is considered a key architect and driving force behind the establishment and development of Technopark, India's first IT park located in Thiruvananthapuram. While the project was conceptualized during the E.K. Nayanar-led LDF government in 1990, it was Karunakaran who took initiative to make it a reality during his subsequent tenure as Chief Minister. \nKey details of their relationship include:\nFoundation Stone (1991): K. Karunakaran laid the foundation stone for the first building of Technopark on March 31, 1991.\nImplementation & Realization: Despite initial challenges, Karunakaran played a crucial role in building Technopark in record time.\nOfficial Launch (1994): He officially launched the park on July 28, 1994, along with then IT & Industries Minister P.K. Kunhalikutty.\nInauguration (1995): The park was formally dedicated to the nation on November 18, 1995, in the presence of then Prime Minister...",
+   "url": "https://en.wikipedia.org/wiki/Technopark,_Trivandrum"
+  },
+  {
+   "title": "Pallithura",
+   "text": "Pallithura is the north-west portion of Trivandrum city the capital of Kerala state in India. Literally translated from Malayalam, it means 'the beach (Thura) besides the church (Palli). Although most churches in this region where beside the Arabian Sea, the etymology is significant because Pallitura is one of the places where St. Francis Xavier established a church. This church has now been transformed to the space museum of Vikram Sarabhai Space Centre. The villagers of Pallithura are now famous for their sacrifice in 1962 of most of their village for creating the Thumba Equatorial Rocket Launching Station (TERLS), which was the basis for the formation of Indian Space Research Organization.  The revival of interest in the history of Pallithura resulted as a result of President Abdul Kalam's mentioning of it in his books and speeches.",
+   "url": "https://en.wikipedia.org/wiki/Pallithura"
+  },
+  {
+   "title": "Kariavattom",
+   "text": "Kariavattom is an area of Trivandrum city the capital of Kerala, India. Trivandrum International Stadium the largest international stadium of Kerala is situated in Karyavattom.",
+   "url": "https://en.wikipedia.org/wiki/Kariavattom"
+  },
+  {
+   "title": "University College of Engineering, Kariavattom",
+   "text": "University College of Engineering, Kariavattom abbreviated as UCEK, is a Government of Kerala controlled Engineering College, directly managed by the University of Kerala. The institute was established in 2000 by Government of Kerala, under the ownership of University of Kerala in Kariavattom Campus, Thiruvananthapuram. Foundation stone of this campus was laid by Sarvepalli Radhakrishnan, former President of India on 30 September 1963.It is the one and only constituent college of the University of Kerala.The Administration Panel of this college includes Governor of Kerala as Chancellor(University of Kerala), Minister in Government of Kerala for Higher education as Pro-chancellor(University of Kerala), Vice-chancellor of the University of Kerala,   Registrar of the University of Kerala, Principal of the College.The 77th session of the Indian History Congress was held in this college in 2016. It was inaugurated by former President of India, Pranab Mukherjee.\nAs per Indian institutional ranking framework, In 2023 UCEK ranked in the 8th position among the best Government Engineering colleges in Kerala. After the establishment of APJ Abdul Kalam Technological University (formerly, Kerala...",
+   "url": "https://en.wikipedia.org/wiki/University_College_of_Engineering,_Kariavattom"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Thiruvananthapuram",
+  "text": "Near the southern tip of mainland India, Thiruvananthapuram (Malayalam: തിരുവനന്തപുരം Tiruvanantapuraṁ), formerly and often still known as Trivandrum, is the capital city of Kerala in Southern India. It is the headquarters of the district with the same name, which is one of the 14 districts of Kerala. Referred to by Mahatma Gandhi as the \"Evergreen City of India\", the city is characterised by its undulating terrain of low coastal hills and busy commercial alleys.\nThiruvananthapuram is built on hills by the seashore and sandwiched between the Western Ghats and the Arabian Sea, Thiruvananthapuram is ranked first in the number of foreign tourists visiting Kerala and is a fascinating destination for holidaymakers.\n\n\n== See ==\n\nThiruvananthapuram is a historical city, dotted with many historical structures, parks, museums, tourist centers and palaces. It's also famous for its distinctive greenery, present all over, a rare site in any bustling Indian city. Most ticketed museums are closed on Mondays, so do check online/by phone before visiting. Visit the official website of Kerala Tourism for more details.\n\n Attingal Palace. The headquarters of Travancore Queens who ruled the small province of Attingal. The large palace also houses one of the royal family temples. Much of the palace is off-limits to public, however its durbar hall and public areas are open to the public. \n Kerala Art College. Affiliated with Kerala University and easy to find, it is directly opposite the unmissable Chandrasekharan Nair (Football) Stadium. It is housed in an old colonial building with sprawling grounds behind. There are occasional art shows (e.g. after graduation, circa early June) held upstairs, and the downstairs offers a large library with world art books. The grounds have many impressive sculptures from students who are friendly and may be keen to show you around the workshops. \n1 Koyikkal Palace, Nedumangad. This palace was built in the 16th century and showcases the traditional palace architectural style of Kerala. It features a folklore museum and a numismatics (Coins and currency) museum. \n2 Neyyar Dam. A surprising scenic local, the Neyyar Dam is an excellent picnic spot. There is also a yoga center and several temples near this dam, if you are interested in making a day-trip of it. \n3 Ponmudi. A hill station nestled within a tropical forest. It offers hiking and trekking opportunities. \n4 Thiruvananthapuram Zoo. 10AM–5PM (closed Mon). This is the first zoo India opened in 1843, as a concept of Palace for wildlife. Situated in the Museum compound, this area has a rich botanical garden. There are a wide variety of animals, plants and birds. It has a separate reptile park and butterfly garden. \n5 Vikram Sarabhai Space Centre (VSSC), Thumba. One of the main space research and development establishments in India. It is home to Thumba Equatorial Rocket Launching Station (TERLS), which is used to launch sounding rockets for meteorological and upper atmospheric research. It has a space museum. (updated Oct 2023)\n\n\n=== Monuments and museums ===\n\n Chacha Nehru Children's Museum. A good children's museum with a large collection of dolls, masks, and paintings. A mini aquarium and water play area is set here. Located in Thycuad, in the heart of city, it is a good evening spot for families. \n6 East Fort. An old fort around Sree Padmanabhaswamy temple. Today most of fortifications have been dismantled, except the Eastern side. The fort will sometimes be referred to as the East Fort because of this. The Fort Gate opens directly before Sree Padmanabha Temple and is designed in a European style. The illumination of the East Fort Gate in the evenings is a major attraction. \n7 HH Uthradam Thirunal Marthanda Varma Chithralayam (Royal art gallery) (same entrance as Kuthiramalika and one ticket counter for both (but separate tickets)). 9:00-12:30 and 14:00-16:45. Has an exhibition of portrais and pictures of memorable scenes from the life of the last Maharaja of Travancore. Adults ₹30, foreigners ₹75. (updated Feb 2023)\n8 Kanaka Kunnu Palace (Golden Hill Palace in Malayalam). The cultural hotspot of ancient Thiruvananthapuram. The large palace and its sprawling gardens was once the banquet palace for visiting State guests of Travancore. Today, it has engaging galleries and the grand lawns serve as open-air auditoriums for regular concerts and evening dance programs. \n Kerala Science and Technology Museum (near Priyadarshini Planetarium). This large science museum features a timeline of various technologies. On display are galleries on Electrical Engineering, Biomedical, and Mechanical Engineering. It has a collection of electronic equipments and a 3D theatre with regular shows. \n9 Keralan Museum (Opposite of Napier Museum's garden-complex, south of Museum Rd). Housed in a beautiful colonial building, this newly developed museum (circa 2008 vintage) presents a periodised history of Kerala. It's the first 'interactive' museum in the country, featuring touchscreen terminals. Like so many museums and historical texts in India, there are no maps inside to provide visual aid to the topics. Regardless, the museum is very pleasant, clean, modern and well presented when compared to others. Displays begin in the stone age and advance through rock art and stone tools to pottery, bronze sculptures, folk art and architecture, with a few latter-day items to boot. A small canteen behind the museum for staff of the adjacent tourist department offers good value fish or vegetable curry. Entry is ₹200 for foreigners, extra for a camera. \n10 Kowdiar Palace. In Kowdiar, this is the current, official residence of the Travancore Maharajas and royal family. It is off-the-limits for public. However, a friendly guard may let you inside to have a glimpse of this large architectural wonder built in mixture of Saxon-Travancore styles. The public however can enter into Panchavadi, the resting place of Late HH Maharaja Chitra Thirunal, the last and popular king of Travancore. \n11 Kuthiramalika Palace (Puthen Maliga Palace) (close to Padmanabhaswamy temple). 9:00-12:30 and 14:00-16:45. A unique palace designed by Maharaja Swathi Thirunal (a famous musical genius Maharaja of Travancore), this palace is famous for its horse shaped windows and decor. Has a good collection of many antique items from the Travancore era kings. Thrones, paintings and many belongings are kept in a very good condition, housed in an erstwhile royal building. This palace is the location of the Swathi Thirunal Music Festival and other musical concerts patronized by the Royal family. Adults ₹50, foreigners ₹150. (updated Feb 2023)\n12 Legislature Museum (Adjacent to Legislature). This museum depicts the history of South Asian Legislature assemblies. The building was once the headquarters of Travancore Royal Nair Brigade (Travancore Army). Today its galleries can give a detailed look into history of South Asian legislature activities and process. \n13 Napier Museum (Art Gallery). Tue Thu-Sun 10AM-5PM, Wed noon-5PM. Named after former Madras governor, Lord Napier (Francis Napier, 10th Lord Napier and 1st Baron Ettrick), this museum is a beautiful building in the museum (read: park) compound. This masterpiece was designed by Madras Government architect Robert Chisholm in Indo-Saracenic style. The museum displays rare archaeological and historical artifacts including bronze idols, ceramics, an impressive carved wooden cart, Buddhist statues from various parts of the country and neighbouring places, ivory carvings, chests, Balinese shadow puppets, various old coins, Hindu puja items, and more. Quite a few objects are foreign, and of those quite a few are Chinese. Unfortunately most are lacking labels, have labels only in Malayalam, or are very vague. Look up at the impressive roof when you enter! No photography is allowed. There is no sign saying \"Napier Museum\", just \"Art Gallery\" and it's the big building in the park to the north of Museum Road. ₹5 for tickets. \n14 Sree Chithra Art Gallery. closed Mon. An art gallery in the Museum compound and displays a rare collection of mainly Indian paintings. The main attractions are paintings by Kerala painter Raja Ravi Varma and other famous painters Raja raja Varma and Nicholas Roerich. Also featured are miniature paintings from around the world, Kerala mural paintings, and Tanjore miniature paintings. \n\n\n=== Government buildings ===\n\n15 Kerala Government Secretariat (കേരള സംസ്ഥാന ഭരണ സിരാ കേന്ദ്രം Saṁsthāna Sarkkār Sirākēndraṁ). Built as Huzur Kacheri (Secretarial Offices in Malayalam) in 1860 to serve as the Royal Durbar Hall of Travancore Kingdom, this building has an imposing structure. The building was designed by the British Royal Engineers Corps combining international architectural styles and is a testimony to past influences from Roman, Dutch and English styles on Kerala. The old Legislature Assembly Hall inside the complex (Asia's first native legislative assembly) has a good mus",
+  "url": "https://en.wikivoyage.org/wiki/Thiruvananthapuram"
+ },
+ "sights": [
+  {
+   "name": "Sri Ganapathi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 8.5571197,
+   "lon": 76.8730026
+  },
+  {
+   "name": "St Josephs Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 8.5592632,
+   "lon": 76.8747283
+  },
+  {
+   "name": "St.Joseph's church",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 8.5606653,
+   "lon": 76.874306
+  },
+  {
+   "name": "The Pentacostal Mission",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 8.5622856,
+   "lon": 76.8724037
+  },
+  {
+   "name": "Shiva temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 8.5527209,
+   "lon": 76.8776039
+  },
+  {
+   "name": "Fathima Matha Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 8.5539556,
+   "lon": 76.8674088
+  },
+  {
+   "name": "St. Joseph Kurishadi",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 8.5541939,
+   "lon": 76.8673977
+  },
+  {
+   "name": "Attinkuzhy Devi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 8.5500868,
+   "lon": 76.875624
+  },
+  {
+   "name": "hanuman temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 8.5510982,
+   "lon": 76.8780779
+  },
+  {
+   "name": "Krishna Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 8.5644125,
+   "lon": 76.8744988
+  },
+  {
+   "name": "medavathukkal muslim jamaath kazhakuttom town masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 8.5658249,
+   "lon": 76.8732763
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "query": "Kazhakoottam, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "Kazhakoottam",
+ "draft": {
+  "briefing": "Hey, you're in Kazhakoottam! With Technopark close by, it's called the IT capital of Kerala. But it was once the power base of Ugran Pillai, who rebelled against King Marthanda Varma.",
+  "hungryLine": "I don't have a named place to eat here, so ask a local where the Technopark crowd goes.",
+  "moodReplies": {
+   "show-me-around": "Sri Ganapathi Temple is a minute away, Attinkuzhy Devi Temple is about 13 min, and a Krishna Temple is around 14 min on foot.",
+   "somewhere-to-chill": "Head toward Pallithura, where the name means 'the beach beside the church'.",
+   "surprise-me": "In 1962 the villagers of nearby Pallithura gave up most of their village for the Thumba rocket launching station, which led to ISRO."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Sri Ganapathi Temple",
+     "detail": "1 min walk · Right next to you",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Attinkuzhy Devi Temple",
+     "detail": "13 min walk · A local Devi temple",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Krishna Temple",
+     "detail": "14 min walk · A Krishna shrine",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kazhakoottam",
+    "title": "A thousand-year-old temple",
+    "body": "The Kazhakuttom Mahadeva Temple is believed to be 1000 years old."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Check museum days.",
+    "body": "Most ticketed museums in Thiruvananthapuram are closed on Mondays."
+   },
+   {
+    "icon": "tag",
+    "title": "See the space museum.",
+    "body": "The old Pallithura church, founded by St. Francis Xavier, is now the Vikram Sarabhai Space Centre's space museum."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "An old temple",
+    "body": "The Kazhakuttom Mahadeva Temple is believed to date back a thousand years.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1700s",
+    "title": "The rebel's palace",
+    "body": "Marthanda Varma defeated Ugran Pillai, destroyed his palace and put a pond in its place. He built a Krishna temple nearby, and both still survive.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1962",
+    "title": "Rockets next door",
+    "body": "Pallithura villagers gave up their land for the Thumba Equatorial Rocket Launching Station.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1990s",
+    "title": "Technopark",
+    "body": "Technopark was planned in 1990 and dedicated to the nation on 18 November 1995.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Old temples, rockets and tech parks. Tell me which one surprised you most.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

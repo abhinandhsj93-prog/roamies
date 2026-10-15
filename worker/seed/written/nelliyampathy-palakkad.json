@@ -1,0 +1,97 @@
+{
+ "query": "Nelliyampathy, Palakkad",
+ "region": "kerala",
+ "name": "Nelliyampathy",
+ "draft": {
+  "briefing": "Hey, you're in Nelliyampathy! You're up in Kaikatty, the first town of the Nelliampathi hills, and the only way up is the 26 km road from Nemmara. It winds up 17 km of hairpin turns from Pothundi Dam, straight into tea country.",
+  "hungryLine": "My notes don't name any eateries up in the hills, so this is tea country first. Try a cup from the estates around you.",
+  "moodReplies": {
+   "show-me-around": "Nelliampathi is about a 19 min walk from here. Look out for the big tea gardens at Manalaroo and Chandramala estates on the way.",
+   "somewhere-to-chill": "Find a quiet spot above the tea gardens and enjoy the cool climate the planters came up here for.",
+   "surprise-me": "The Kaikatty Industrial Cooperative Tea Factory, set up in 1976, has been working to cut its carbon footprint."
+  },
+  "seeFirst": {
+   "caption": "Up in the hills",
+   "spots": [
+    {
+     "name": "Nelliampathi",
+     "detail": "19 min walk · A hill station 60 km from Palakkad",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kaikatty",
+     "detail": "You're here · The first town up the hill, all about tea",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Parambikulam Wildlife Sanctuary",
+     "detail": "In Chittur area · A tiger reserve with six tribal colonies",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The estates",
+    "title": "Gardens the British left",
+    "body": "Locals will tell you every tea and coffee plantation up here was started by the British for the cool climate. Later they were sold to the people of the region."
+   },
+   {
+    "where": "Pothundi Dam",
+    "title": "Water for the rice fields",
+    "body": "At the 9th km of the road up sits Pothundi Dam, a small irrigation dam at the foot of the hills. It feeds the rice fields in the plains around it, and the forest begins right after."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Come up from Nemmara.",
+    "body": "It's the only route, 26 km with many hairpin turns, so take it slow."
+   },
+   {
+    "icon": "sun",
+    "title": "Bring a layer.",
+    "body": "The climate up here is cool, which is exactly why the planters chose it."
+   }
+  ],
+  "story": [
+   {
+    "era": "British times",
+    "title": "Planting the hills",
+    "body": "The British started all the tea and coffee plantations here, choosing the hills for their cool climate.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Later",
+    "title": "In local hands",
+    "body": "The plantations were later sold to the natives. A.V. Thomas and Company now runs a large tea garden at Manalaroo Estate, and Veekay Tea Company is at Chandramala Estate.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1976",
+    "title": "A cooperative factory",
+    "body": "The Kaikatty Industrial Cooperative Tea Factory opened in 1976 to process the area's tea. It has since worked to reduce its carbon footprint.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A hill station",
+    "body": "Nelliyampathy is now a hill station 60 km from Palakkad, with a tea based economy. Tell me how many hairpins you counted on the way up.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

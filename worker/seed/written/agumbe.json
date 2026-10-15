@@ -1,0 +1,118 @@
+{
+ "query": "Agumbe",
+ "region": "karnataka",
+ "name": "Agumbe",
+ "draft": {
+  "briefing": "Hey, you're in Agumbe! It gets so much rain that people call it the Cherrapunji of South India, and the reserved forest here gets over 7,000 mm a year. This rainforest is also king cobra country, and there's a research station set up as a sanctuary for them.",
+  "hungryLine": "It's a small village, so keep it simple: local food at the bus stand hotel or Hotel Sri Ganesh, and vanilla tea with hot vadas at Bhattara tea.",
+  "moodReplies": {
+   "show-me-around": "The Agumbe Rainforest Research Station is about a 22 min walk away, and Jogigundi, a small waterfall, is just 10 to 15 minutes from the village.",
+   "somewhere-to-chill": "Head to the sunset view point. On a clear day you can watch the sun drop into the Arabian Sea from 826 m up.",
+   "surprise-me": "Barkana Falls near here drops 259 m, which makes it the 10th highest waterfall in India."
+  },
+  "seeFirst": {
+   "caption": "Close to the village",
+   "spots": [
+    {
+     "name": "Agumbe Rainforest Research Station",
+     "detail": "22 min walk · The king cobra sanctuary and research base inside the reserved forest",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Jogigundi",
+     "detail": "10 to 15 min away · A small waterfall right next to Agumbe",
+     "status": {
+      "text": "Slippery in the rains",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Koodlu theertha falls",
+     "detail": "20 km away · A 3 to 4 km trek to a gorgeous waterfall",
+     "status": {
+      "text": "Go with a guide",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Onake Abbi Falls",
+    "title": "The pounding stick falls",
+    "body": "In Kannada, onake means the pounding stick villagers use to pound grain. That's the name locals gave this waterfall near Agumbe."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack for serious rain.",
+    "body": "Agumbe gets the highest rainfall in South India, so carry rain gear and expect wet trails."
+   },
+   {
+    "icon": "tag",
+    "title": "Stock up before you arrive.",
+    "body": "Food and drink options in the village are very limited, so bring what you need."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Malenadu forest",
+    "body": "Agumbe sits in the thick forests of the Malenadu region of the Western Ghats, at about 660 m. It's part of a long forest corridor linking Kudremukh National Park and several wildlife sanctuaries.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Rainy seasons",
+    "title": "Cherrapunji of the South",
+    "body": "The rain here is so heavy that Agumbe earned the nickname Cherrapunji of South India. The reserved forest gets more than 7,000 mm in a year.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Research station",
+    "title": "Home of the king cobra",
+    "body": "The Agumbe Rainforest Research Station was set up inside the reserved forest as a sanctuary for the king cobra, Agumbe's flagship species. It works on research and conservation.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Treks and waterfalls",
+    "body": "Today Agumbe is known for rainforest conservation, documenting medicinal plants, cottage industry and trekking. Visitors come for the falls and the sunset over the sea.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hotel Sri Ganesh",
+    "detail": "On the main Shimoga to Udupi road · Simple local food with tea or coffee",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Bhattara tea",
+    "detail": "Near the checkpost · Vanilla flavoured tea and hot vadas",
+    "status": {
+     "text": "Small roadside stall",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

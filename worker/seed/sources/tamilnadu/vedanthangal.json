@@ -1,0 +1,49 @@
+{
+ "query": "Vedanthangal",
+ "found": "Vedanthangal, Maduranthakam, Chengalpattu, Tamil Nadu, 603303, India",
+ "lat": 12.5608537,
+ "lon": 79.8618404,
+ "fetchedAt": "2026-10-12T19:17:06.707Z",
+ "locality": {
+  "id": "vedanthangal-chengalpattu-tamil-nadu",
+  "name": "Vedanthangal",
+  "area": "Maduranthakam, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Vedanthangal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Vedanthangal_Lake.JPG/1280px-Vedanthangal_Lake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vedanthangal Bird Sanctuary",
+   "credit": "Photo: Phoenix bangalore, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vedanthangal_Lake.JPG"
+  },
+  "Vedanthangal Bird Sanctuary": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Vedanthangal_Lake.JPG/1280px-Vedanthangal_Lake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vedanthangal Bird Sanctuary",
+   "credit": "Photo: Phoenix bangalore, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vedanthangal_Lake.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Vedanthangal Bird Sanctuary",
+   "text": "Vedanthangal Bird Sanctuary is a bird sanctuary in the Madurantakam taluk of the Chengalpattu district in the Indian state of Tamil Nadu. Established in 1936, it is the oldest wildlife sanctuary in India. It has been designated as a protected Ramsar site since 2022. More than 40,000 birds have been recorded in the sanctuary during the migratory season every year.\n\n\n== History ==\nThe Vedanthangal freshwater lake attracts water birds, and the area was protected by the local people, who benefited from the\nmanure-rich water from the lake. The guano of the birds increased the agriculture yield of the surrounding fields. The area was later used as hunting grounds for sport hunting of birds by the rich in the early 17th century. Vedanthangal literally means the 'hamlet of the hunter' in Tamil language. Towards the end of the 18th century, locals complained to the District Collector of Chingleput district about the British soldiers shooting the birds and obtained a cowle (a written acceptance) from the collector to protect the birds. Due to its ecological importance, the British Government initiated further steps to develop it into a bird sanctuary in 1798. Several accounts of the area being...",
+   "url": "https://en.wikipedia.org/wiki/Vedanthangal_Bird_Sanctuary"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Vedanthangal Bird Sanctuary",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 12.545555555555556,
+   "lon": 79.85583333333332
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

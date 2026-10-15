@@ -1,0 +1,103 @@
+{
+ "query": "Dadar, Mumbai",
+ "region": "maharashtra",
+ "name": "Dadar",
+ "draft": {
+  "briefing": "Hey, you're in Dadar! This is Mumbai's first planned area and a hub for the city's Marathi culture. A 16 min walk gets you to Shivaji Park, 28 acres of open ground known as a cradle of cricket in India.",
+  "hungryLine": "My notes don't name any eateries in Dadar, but it's a busy shopping neighbourhood, so ask a local where they like to eat.",
+  "moodReplies": {
+   "show-me-around": "Walk 9 min to Rajgruha, B. R. Ambedkar's home, then 11 min to the Portuguese Church and 16 min to Shivaji Park.",
+   "somewhere-to-chill": "Shivaji Park is the largest park in the island city, with cricket nets, a football pitch and a Mallakhamba area to watch.",
+   "surprise-me": "Ambedkar collected more than 50,000 books at Rajgruha, one of the largest personal libraries in the world when he died."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Rajgruha",
+     "detail": "9 min walk · Ambedkar's home, with a heritage museum on the ground floor",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Portuguese Church",
+     "detail": "11 min walk · One of Mumbai's oldest churches, rebuilt to a Charles Correa design",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Shivaji Park",
+     "detail": "16 min walk · The island city's largest park and a cradle of Indian cricket",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Dadar T.T. Circle",
+    "title": "The tram that left its name",
+    "body": "Locals still call this busy junction T.T. Circle. The letters come from the tram terminus that stood here in the British era."
+   },
+   {
+    "where": "Rajgruha",
+    "title": "The 6 December walk",
+    "body": "Every 6 December, millions of people visit Rajgruha before going on to the Chaitya Bhoomi in Shivaji Park. It's a special place for Ambedkarite Buddhists and Dalits."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Expect huge crowds on 6 December.",
+    "body": "Millions visit Rajgruha and Chaitya Bhoomi that day, so plan around it or go to be part of it."
+   },
+   {
+    "icon": "tag",
+    "title": "Use Dadar as your hub.",
+    "body": "It's a major railway and bus hub with local and national connections."
+   }
+  ],
+  "story": [
+   {
+    "era": "1500s",
+    "title": "Lower Mahim",
+    "body": "In the 16th century this area was called Lower Mahim, on Mahim island, one of the Seven Islands of Mumbai. Mahim was the most important island after Bombay through the Portuguese period.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1596",
+    "title": "Our Lady of Salvation",
+    "body": "Portuguese Franciscans built the church of Nossa Senhora de Salvação here. Today everyone knows it as the Portuguese Church.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1899",
+    "title": "Mumbai's first plan",
+    "body": "After the plague epidemics of the 1890s, the Bombay Improvement Trust drew up the Dadar-Matunga-Wadala-Sion scheme to ease crowding in the city centre. It was the first planned scheme in Mumbai.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1930s",
+    "title": "Ambedkar's home",
+    "body": "B. R. Ambedkar built Rajgruha in Hindu Colony and lived there for 15 to 20 years. In 2013 it became a heritage monument.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1974 to 1977",
+    "title": "A new old church",
+    "body": "The Portuguese Church got its present building, designed by the architect Charles Correa.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": []
+ }
+}

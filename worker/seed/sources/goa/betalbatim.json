@@ -1,0 +1,65 @@
+{
+ "query": "Betalbatim",
+ "found": "Betalbatim, Salcete, South Goa, Goa, 403713, India",
+ "lat": 15.300881,
+ "lon": 73.9203,
+ "fetchedAt": "2026-10-12T19:44:00.245Z",
+ "locality": {
+  "id": "nuvem-south-goa-goa",
+  "name": "Nuvem",
+  "area": "Salcete, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Majorda": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Majorda_Beach..JPG/1280px-Majorda_Beach..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Majorda",
+   "credit": "Photo: Stacey2591, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Majorda_Beach..JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Nuvem",
+   "text": "Nuvem (formerly a village on the outskirts of Margao) is a town that is part of the Salcete sub-district of South Goa district, Goa, India.\n\n\n== Geography ==\nNuvem is situated along the National Highway 17. Neighboring villages include Verna, Majorda, and Seraulim. It is located 5 kilometers from its district headquarters Margão, 24 kilometers from Vasco da Gama, and 29 kilometers from the state capital, Panjim.\n\n\n== Demographics ==\nNuvem is a census town in the district of South Goa, Goa. It has a population of 9,288, of which 4,450 are males and 4,838 are females, as per a report released by the Census India 2011.\n\n\n== Education ==\nNuvem is home to two educational institutions: Carmel College for Women and IAM Institute of Hotel Management. In its vicinity is the Verna complex of Agnel institutions, which includes an engineering college.\n\n\n== Government and politics ==\nNuvem is part of Nuvem (Goa Assembly constituency) and South Goa (Lok Sabha constituency).\n\n\n== Culture ==\n\nFootball is the most popular sport in Nuvem. Konkani tiatrs are also very popular. Nuvem had a go-kart track located on the hill top. A new sporting activity called MILSIM GOA, a variation of paintball, has just started...",
+   "url": "https://en.wikipedia.org/wiki/Nuvem"
+  },
+  {
+   "title": "Majorda",
+   "text": "Majorda is a village in Salcete, Goa. It is located in South Goa district, north-west of Margão. The village is famous for its beaches.",
+   "url": "https://en.wikipedia.org/wiki/Majorda"
+  },
+  {
+   "title": "Majorda Junction railway station",
+   "text": "Majorda Junction Railway Station (Station code: MJO) a small Junction station in South Goa district, Goa. It is located near Majorda village. The station consists of two platforms.",
+   "url": "https://en.wikipedia.org/wiki/Majorda_Junction_railway_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Salcete",
+  "text": "Salcete or Salcette is a taluka in South Goa with the business capital Margao as its centre.\n\n\n== See ==\n\n Ashvek Vintage World, 12/B, Goulloy, NH17, Nuvem, ☏ +91-832-2731312, +91-9822100339. \"dedicated to restore and preserve motoring and motorcycling gems of historical interest in Goa\". You can find cars ranging from Mercedes Benz, to Peugeot, Morris, Chevrolet and Volkswagen. ₹50. \n Ancestral Goa, Big Foot, Loutolim, Goa, India., ☏ +91 832 2777034. Big Foot is an attempt to illustrate and recreate Goa's traditional past. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Salcete"
+ },
+ "sights": [
+  {
+   "name": "Majorda Junction railway station",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 15.3137,
+   "lon": 73.922
+  },
+  {
+   "name": "Majorda",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 15.316111111111113,
+   "lon": 73.91972222222223
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

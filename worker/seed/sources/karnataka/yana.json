@@ -1,0 +1,42 @@
+{
+ "query": "Yana",
+ "found": "Yana, Kumata taluk, Uttara Kannada, Karnataka, India",
+ "lat": 14.5786094,
+ "lon": 74.5598169,
+ "fetchedAt": "2026-10-12T18:39:07.589Z",
+ "locality": {
+  "id": "holebail-uttara-kannada-karnataka",
+  "name": "Holebail",
+  "area": "Kumata taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Yana, India": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Yana_Rocks.jpg/1280px-Yana_Rocks.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Yana, India",
+   "credit": "Photo: Amithkk, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yana_Rocks.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Yana, India",
+   "text": "Yana is a village and a geological site in Uttara Kannada district of the Indian state of Karnataka. There are several karst formations in the region, and prominent among them are the two rocky outcrops on the outskirts of the village, known as Bhairaveshwara Shikhara and the Mohini Shikhara. The site was declared as National Geological Monument by the Geological Survey of India in 2026. There is a temple dedicated to Bhaireveshwara, a form of Shiva in Hinduism.",
+   "url": "https://en.wikipedia.org/wiki/Yana,_India"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Yana, India",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 14.5897,
+   "lon": 74.56625
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,83 @@
+{
+  "query": "Divar Island",
+  "region": "goa",
+  "name": "Divar Island",
+  "draft": {
+    "briefing": "Hey, you're in Divar Island! The name comes from Dipavati, Konkani for 'small island', and it sits in the Mandovi about 10 km upriver from Panjim. Its Sao Mathias church was built by the Portuguese more than 400 years ago.",
+    "hungryLine": "I don't have any eateries on the island in my notes, so carry something along on the ferry.",
+    "moodReplies": {
+      "show-me-around": "Walk over to Sao Matias, about 16 minutes away, for its 400-year-old church, then head to Naroa on the eastern tip to find the old fort ruins.",
+      "somewhere-to-chill": "Take a ferry ride, Divar is linked by boat to Old Goa, Ribandar, Vanxim and Narva.",
+      "surprise-me": "Naroa, on the island's eastern tip, has barely a thousand people in about 80 houses, yet it holds three parish churches."
+    },
+    "seeFirst": {
+      "caption": "Around the island",
+      "spots": [
+        {
+          "name": "São Matias",
+          "detail": "16 min walk · Village also called Malar, with a church over 400 years old",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Naroa",
+          "detail": "Eastern tip of the island · Tiny village with three churches and fort ruins in the north",
+          "status": {
+            "text": "Check ferry timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Naroa",
+        "title": "Two revered images",
+        "body": "Naroa has a chapel holding two images of Christ. The Catholics of the village hold them in great veneration."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Plan around the ferries.",
+        "body": "Ferries connect the island to Old Goa, Ribandar, Vanxim and Narva, and the nearest mainland train stop is Carambolim."
+      },
+      {
+        "icon": "sun",
+        "title": "Expect humid weather.",
+        "body": "The island is close to the Arabian Sea, so the air can feel muggy."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "A small island",
+        "body": "The island took its name from Dipavati, meaning small island, and was once known as Piedade. It is one of six major islands in the Mandovi.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Over 400 years ago",
+        "title": "Sao Mathias church",
+        "body": "The Portuguese built the Sao Mathias Church in the village also known as Malar.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Later",
+        "title": "Home of grand families",
+        "body": "Many dignified Goan families came to live on the island. Naroa gained three parish churches, and a fort once stood in its north.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Today",
+        "title": "Ferries and trains",
+        "body": "Divar is still reached by ferry, and the Konkan Railway passes through Sao Mathias. Naroa remains a village of about 80 houses.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": []
+  }
+}

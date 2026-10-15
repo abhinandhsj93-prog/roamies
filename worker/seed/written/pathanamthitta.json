@@ -1,0 +1,103 @@
+{
+ "query": "Pathanamthitta",
+ "region": "kerala",
+ "name": "Pathanamthitta",
+ "draft": {
+  "briefing": "Hey, you're in Pathanamthitta! As the main transport hub for Sabarimala, this town is known as the Pilgrim Capital of Kerala.",
+  "hungryLine": "Pilgrims here love the Sabarimala offerings, appam, a sweet dumpling, and aravana, a thick black sweet made with jaggery.",
+  "moodReplies": {
+   "show-me-around": "Sree Dharma Shastha Temple is a 3 min walk, St.mary's Jacobite Syrian Cathedral is 8 min, and St Stephen's Orthodox Cathedral is 14 min away.",
+   "somewhere-to-chill": "Kodumthara is just 2 km out, a village with an ancient Subrahmanya Temple by the Achankovil river.",
+   "surprise-me": "Valamchuzhy gets its name from valam, go round, and chuzhy, eddy, because the Achankovil river flows around its temple."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Sree Dharma Shastha Temple",
+     "detail": "3 min walk · A temple right in the town centre",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "St.mary's Jacobite Syrian Cathedral",
+     "detail": "8 min walk · One of the town's big churches",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "St Stephen's Orthodox Cathedral",
+     "detail": "14 min walk · An Orthodox cathedral in town",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Valamchuzhy",
+    "title": "The river that circles a temple",
+    "body": "The Achankovil river flows around the Shri Bhuvaneswari temple here. That's where the village name comes from, valam for going round and chuzhy for eddy."
+   },
+   {
+    "where": "Mylapra",
+    "title": "A church that kept moving",
+    "body": "People in Mylapra once walked miles to Thumpamon or Omalloor for Mass, so they decided to build their own church. In about 150 years St. George's has stood on six different sites."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Mind the Sabarimala season.",
+    "body": "The temple opens for 41 days from 16 or 17 November to mid-January, and the crowds are huge, so tourists may prefer the first days of a Malayalam month."
+   },
+   {
+    "icon": "tag",
+    "title": "Catch Padayani in April or May.",
+    "body": "Malayalapuzha Devi Temple holds ten days of Padayani performances during its annual festival."
+   }
+  ],
+  "story": [
+   {
+    "era": "52 AD",
+    "title": "Faith arrives",
+    "body": "Kerala's Christians hold dear the year 52 AD, when Apostle Thomas is said to have brought the Gospel to India. That story still shapes churches like Mylapra's.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1952",
+    "title": "A college opens",
+    "body": "Catholicate College was founded in 1952 by the Malankara Orthodox Church, with Daniel Philoxenos Metropolitan as its first principal.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1982",
+    "title": "A new district",
+    "body": "Pathanamthitta District was formed on 1 November 1982, the thirteenth in Kerala, with the town as its headquarters.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2010",
+    "title": "A new eparchy",
+    "body": "Pope Benedict XVI created the Syro-Malankara Catholic Eparchy of Pathanamthitta on 25 January 2010.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrim Capital",
+    "body": "The town is the main transport hub to Sabarimala, and the district also hosts the Maramon Convention, Asia's largest Christian convention.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

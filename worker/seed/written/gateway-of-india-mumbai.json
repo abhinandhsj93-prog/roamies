@@ -1,0 +1,92 @@
+{
+ "query": "Gateway of India, Mumbai",
+ "region": "maharashtra",
+ "name": "Gateway of India",
+ "draft": {
+  "briefing": "Hey, you're at the Gateway of India! This 26-metre basalt arch was put up to mark King George V's landing in 1911, and in 1948 it was the spot from where the last British troops left India.",
+  "hungryLine": "Bademiya, which started in 1946 as a makeshift seekh kabab counter, is a Colaba food landmark worth hunting down.",
+  "moodReplies": {
+   "show-me-around": "The Taj Mahal Palace Hotel is right opposite, the National Gallery of Modern Art is about 9 minutes on foot, and the Art Deco Dhanraj Mahal is close by too.",
+   "somewhere-to-chill": "Try the Mumbai Port Trust Garden, off a side street of Colaba Causeway, for views of the port, the naval yards and the sunset.",
+   "surprise-me": "The Maharashtra Police Headquarters nearby started life as the Royal Alfred Sailors' Home for sick European sailors, and later housed the state legislature until 1982."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Taj Mahal Palace Hotel",
+     "detail": "Right opposite · The 1903 Indo-Saracenic landmark facing the Gateway",
+     "status": {
+      "text": "Great photo stop",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "National Gallery of Modern Art",
+     "detail": "9 min walk · Exhibitions inside the old Cowasji Jehangir Hall",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Dhanraj Mahal",
+     "detail": "Near the Gateway · A 1930s Art Deco palace in pale pink sandstone",
+     "status": {
+      "text": "View from outside",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Stroll Churchgate to Colaba.",
+    "body": "The wide, clean pavements from Churchgate down to Colaba are the best way to see the old city centre, ideally in the cooler hours."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip the Yacht Club plans.",
+    "body": "The Royal Bombay Yacht Club next door is for members only, so admire it from outside."
+   }
+  ],
+  "story": [
+   {
+    "era": "1903",
+    "title": "The Taj opens",
+    "body": "The Taj Mahal Hotel opened on the waterfront in the Indo-Saracenic style, and was long counted among the finest hotels in the East.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1911",
+    "title": "A king lands",
+    "body": "King George V landed here for his coronation as Emperor of India, the first British monarch to visit India.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1913-1924",
+    "title": "Building the arch",
+    "body": "The foundation stone went in in 1913, George Wittet's design was approved in 1914, and the basalt arch was finished in 1924.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1948",
+    "title": "The last troops leave",
+    "body": "A year after independence, the last British troops left India through the Gateway.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2008",
+    "title": "26/11",
+    "body": "The Taj Mahal Palace Hotel was one of the main targets of the 2008 Mumbai attacks, along with nearby Leopold Cafe.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

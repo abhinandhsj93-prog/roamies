@@ -1,0 +1,130 @@
+{
+ "query": "Edakkal Caves, Wayanad",
+ "region": "kerala",
+ "name": "Edakkal Caves",
+ "draft": {
+  "briefing": "Hey, you're at Edakkal Caves! The carvings on these rock walls are believed to date to at least 6,000 BCE, and they're among the only Stone Age carvings known in South India.",
+  "hungryLine": "Look out for bamboo rice payasam stalls along the cave walkway, and for proper meals head into Sulthan Bathery.",
+  "moodReplies": {
+   "show-me-around": "The caves are a 4 min walk, then steep but solid steps take you up. Back in Sulthan Bathery, 12 km away, there's the old Jain temple.",
+   "somewhere-to-chill": "Find the vertical cleft near one corner of the cave. It gives you a rare view out over Wayanad.",
+   "surprise-me": "Edakkal isn't really a cave. It's a cleft in the rock about 96 ft long, roofed over by a huge fallen boulder weighing several tonnes."
+  },
+  "seeFirst": {
+   "caption": "Near the caves",
+   "spots": [
+    {
+     "name": "Edakkal caves",
+     "detail": "4 min walk · Neolithic carvings of people, animals and symbols",
+     "status": {
+      "text": "9AM to 4PM last entry",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Jain Temple, Sulthan Bathery",
+     "detail": "12 km away · Believed to date to the 13th century",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Edakkal caves",
+    "title": "The hunting axe",
+    "body": "The story goes that police superintendent Fred Fawcett found a hunting axe up here in 1894. That find is what led him to the caves."
+   },
+   {
+    "where": "Wayanad",
+    "title": "Once-in-a-lifetime rice",
+    "body": "Bamboo is said to seed only after a very long time, so harvesting bamboo rice, or mulayari, is called a once-in-a-lifetime event. Try it as payasam by the cave walkway."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Get there before 4PM.",
+    "body": "The caves open at 9AM and the last entry is at 4PM."
+   },
+   {
+    "icon": "tag",
+    "title": "Hunt for the woman with the jug.",
+    "body": "Also look for the carvings people read as the sun, the chieftain, the animal and the peacock."
+   }
+  ],
+  "story": [
+   {
+    "era": "6,000 BCE",
+    "title": "Carvings in the rock",
+    "body": "Neolithic people etched human and animal figures, tools and symbols into the walls. It shows there was a settlement up here in prehistoric times, near an old route from Mysore to the Malabar ports.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "930 AD",
+    "title": "The land of swamps",
+    "body": "Emperor Erayappa of the Ganga dynasty conquered this region and called it Bayalnad, the land of swamps.",
+    "illustration": "palace"
+   },
+   {
+    "era": "13th century",
+    "title": "Temple to battery",
+    "body": "A Jain temple went up in what's now Sulthan Bathery. Later Tipu Sultan's army stored its ammunition there, and the town became Sultan's Battery.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1894",
+    "title": "Found again",
+    "body": "English police superintendent Fred Fawcett discovered the caves. Jain monks are said to have used them long before him.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1984",
+    "title": "Protected at last",
+    "body": "The Archaeological Survey of India finally took over the caves. That's why you'll spot some old vandalism on the walls.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Bamboo Mess Restaurant",
+    "detail": "Sulthan Bathery, near the private bus station signal · Go for the kappa biriyani",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Jubilee Restaurant",
+    "detail": "Main Road, Sulthan Bathery · Biriyani and chicken dishes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Indian Coffee House",
+    "detail": "Main Road, Sulthan Bathery · Comfortable, with a non-veg section",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap",
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

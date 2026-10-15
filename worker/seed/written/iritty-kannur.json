@@ -1,0 +1,124 @@
+{
+ "query": "Iritty, Kannur",
+ "region": "kerala",
+ "name": "Iritty",
+ "draft": {
+  "briefing": "Hey, you're in Iritty! The town's icon is Iritty Bridge, built by the British about 100 years ago. Head east and you soon reach the Karnataka border.",
+  "hungryLine": "Iritty has lots of small restaurants, from homely rice porridge with fish fry to a cold kulukki sarbath by the bridge.",
+  "moodReplies": {
+   "show-me-around": "Start at Iritty Bridge, then drive out to Kottiyoor Temple, 33 km away, or Periya Forest on the Wayanad road.",
+   "somewhere-to-chill": "Grab a kulukki sarbath at Iritty Bridge Cafe and watch the town go by.",
+   "surprise-me": "Periya Forest has an orchid, Epipogium roseum, that lives for only one day."
+  },
+  "seeFirst": {
+   "caption": "In town and further out",
+   "spots": [
+    {
+     "name": "Iritty Bridge",
+     "detail": "In town · The 100 year old British-built bridge, Iritty's icon",
+     "status": {
+      "text": "Watch the traffic",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kottiyoor Temple",
+     "detail": "33 km away · Famous for its Vysakha festival",
+     "status": {
+      "text": "Busiest in June",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Periya Forest",
+     "detail": "42 km away · 136 bird species and 109 kinds of butterfly",
+     "status": {
+      "text": "Watch for snakes",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kottiyoor Temple",
+    "title": "The Vysakha festival",
+    "body": "Every year in June, Kottiyoor Temple holds its famous Vysakha festival. It's the big temple event of the area."
+   },
+   {
+    "where": "Periya Forest",
+    "title": "The one-day orchid",
+    "body": "The forest is home to Epipogium roseum, an orchid that lives for only a single day. Lucky timing is the only way to see one."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan for June at Kottiyoor.",
+    "body": "The Vysakha festival is held every year in June, so expect crowds then."
+   },
+   {
+    "icon": "tag",
+    "title": "Watch your step in Periya.",
+    "body": "Periya Forest is home to 11 species of poisonous snakes."
+   }
+  ],
+  "story": [
+   {
+    "era": "About 100 years ago",
+    "title": "The British bridge",
+    "body": "The British built Iritty Bridge, which became the symbol of the town. It still stands today.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Through the years",
+    "title": "Farming country",
+    "body": "Nearby Aralam runs mainly on farming. Coconut, cashew, pepper, rubber and areca nut are the big crops.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2018",
+    "title": "The floods",
+    "body": "Aralam was one of the worst hit areas in Kannur district during the 2018 Kerala floods.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "A border town",
+    "body": "Aralam, right next to Iritty, borders Karnataka to the east. Iritty is the stop for roads heading out to Kottiyoor and Wayanad.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hameediya Hotel",
+    "detail": "Behind Kabeer Bakery, Payancheri Signal Junction · Rice porridge with vegetable fries, pickles and fish fry",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap",
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Iritty Bridge Cafe",
+    "detail": "Kulukki sarbath with green chilli, ginger, lime and kanthari",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

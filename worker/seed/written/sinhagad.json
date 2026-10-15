@@ -1,0 +1,62 @@
+{
+ "query": "Sinhagad",
+ "region": "maharashtra",
+ "name": "Sinhagad",
+ "draft": {
+  "briefing": "Hey, you're at Sinhagad! The Lion's Fort, once called Kondhana, has seen many battles, the most famous being the Battle of Sinhagad in 1670. It's one of the highest points around Pune and a favourite weekend escape for Punekars.",
+  "hungryLine": "I don't have a named place to eat up here, so carry water and a snack, especially if you're doing the trek up.",
+  "moodReplies": {
+   "show-me-around": "You're right at the fort. Walk around the summit and take in the views, it's about 28 km southwest of Pune.",
+   "somewhere-to-chill": "Find a quiet corner of the summit and enjoy being on one of the highest peaks around Pune.",
+   "surprise-me": "Before it was the Lion's Fort, this place was called Kondhana."
+  },
+  "seeFirst": {
+   "caption": "Right here",
+   "spots": [
+    {
+     "name": "Sinhagad",
+     "detail": "Right here · The old Kondhana fort, scene of the 1670 Battle of Sinhagad",
+     "status": {
+      "text": "Busy on weekends",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come on a weekday if you can.",
+    "body": "Sinhagad is a popular weekend outing for people from Pune, so weekdays are calmer."
+   },
+   {
+    "icon": "tag",
+    "title": "Pick your way up.",
+    "body": "Trek 2.7 km one way from the base with about 600 m of climbing, or take the road or a shared taxi to the summit."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Kondhana",
+    "body": "This ancient hill fortress was first known as Kondhana. It sits about 28 km southwest of Pune.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1670",
+    "title": "The Battle of Sinhagad",
+    "body": "The fort saw many battles, but the best known is the Battle of Sinhagad in 1670. Today it's known as the Lion's Fort.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Pune's weekend trek",
+    "body": "A road now runs straight to the summit, and shared taxis go to the base and the top. Plenty of hikers still prefer the 2.7 km climb.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

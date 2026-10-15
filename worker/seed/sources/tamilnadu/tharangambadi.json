@@ -1,0 +1,299 @@
+{
+ "query": "Tharangambadi",
+ "found": "Tharangambadi, Mayiladuthurai, Tamil Nadu, India",
+ "lat": 11.029929,
+ "lon": 79.852196,
+ "fetchedAt": "2026-10-12T19:22:43.891Z",
+ "locality": {
+  "id": "tranquebar-mayiladuthurai-tamil-nadu",
+  "name": "Tranquebar",
+  "area": "Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Tranquebar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Fort_Dansborg.JPG/1280px-Fort_Dansborg.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tharangambadi",
+   "credit": "Photo: Esben Agersnap, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Dansborg.JPG"
+  },
+  "Tharangambadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Fort_Dansborg.JPG/1280px-Fort_Dansborg.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tharangambadi",
+   "credit": "Photo: Esben Agersnap, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Dansborg.JPG"
+  },
+  "Fort Dansborg": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Fort_Dansborg.JPG/1280px-Fort_Dansborg.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fort Dansborg",
+   "credit": "Photo: Esben Agersnap, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Dansborg.JPG"
+  },
+  "Danish Governor Bungalow": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Governors_Bungalow.jpg/1280px-Governors_Bungalow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Danish Governor Bungalow",
+   "credit": "Photo: Shyamal L., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Governors_Bungalow.jpg"
+  },
+  "New Jerusalem Church, Tranquebar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/New_Jerusalem_Church%2C_Tranquebar_1.jpg/1280px-New_Jerusalem_Church%2C_Tranquebar_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "New Jerusalem Church, Tranquebar",
+   "credit": "Photo: Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Jerusalem_Church,_Tranquebar_1.jpg"
+  },
+  "Zion Church, Tharangambadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Zion_Church_in_tranquebar.JPG/1280px-Zion_Church_in_tranquebar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Zion Church, Tharangambadi",
+   "credit": "Photo: Mukulfaiz, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zion_Church_in_tranquebar.JPG"
+  },
+  "Cattle War": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/VAUPELL%281870%29_p2_087%2C_Motiv_zum_Jahr_1750_%28Cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Cattle War",
+   "credit": "Photo: Tinkaer1991, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:VAUPELL(1870)_p2_087,_Motiv_zum_Jahr_1750_(Cropped).png"
+  },
+  "Siege of Dansborg (1644)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Dansborg_1777.jpg/1280px-Dansborg_1777.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Siege of Dansborg (1644)",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dansborg_1777.jpg"
+  },
+  "Willem Leyel's siege of Dansborg": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Danish_Fort.JPG/1280px-Danish_Fort.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Willem Leyel's siege of Dansborg",
+   "credit": "Photo: Abhinav Sigatia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Danish_Fort.JPG"
+  },
+  "Siege of Tranquebar (1699)": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Tranquebar_Map_1798.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Siege of Tranquebar (1699)",
+   "credit": "Photo: Peter Anker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tranquebar_Map_1798.png"
+  },
+  "Sieges of Tranquebar (1655–1669)": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tranquebars_fortifications_in_1671.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Sieges of Tranquebar (1655–1669)",
+   "credit": "Photo: Tinkaer1991, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tranquebars_fortifications_in_1671.png"
+  },
+  "Capture of Tranquebar (1801)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Tranquebar_1790_-_Peter_Anker_%281744%E2%80%931832%29_-_Kulturhistorisk_museum%2C_UiO_-_UEM4452_%28cropped%29.jpg/1280px-Tranquebar_1790_-_Peter_Anker_%281744%E2%80%931832%29_-_Kulturhistorisk_museum%2C_UiO_-_UEM4452_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Capture of Tranquebar (1801)",
+   "credit": "Photo: Ann Christine Eek / Museum of Cultural History, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tranquebar_1790_-_Peter_Anker_(1744%E2%80%931832)_-_Kulturhistorisk_museum,_UiO_-_UEM4452_(cropped).jpg"
+  },
+  "Tranquebar Rebellion": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Painting_of_Tranquebar.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Tranquebar Rebellion",
+   "credit": "Photo: Tinkaer1991, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Painting_of_Tranquebar.png"
+  },
+  "Surrender of Tranquebar (1808)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Tranquebar_1790_-_Peter_Anker_%281744%E2%80%931832%29_-_Kulturhistorisk_museum%2C_UiO_-_UEM4452_%28cropped%29.jpg/1280px-Tranquebar_1790_-_Peter_Anker_%281744%E2%80%931832%29_-_Kulturhistorisk_museum%2C_UiO_-_UEM4452_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Surrender of Tranquebar (1808)",
+   "credit": "Photo: Ann Christine Eek / Museum of Cultural History, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tranquebar_1790_-_Peter_Anker_(1744%E2%80%931832)_-_Kulturhistorisk_museum,_UiO_-_UEM4452_(cropped).jpg"
+  },
+  "Uppanar River": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Uppanar_River.jpg/1280px-Uppanar_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Uppanar River",
+   "credit": "Photo: E.Saravanan, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uppanar_River.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Tharangambadi",
+   "text": "Tharangambadi (Tamil: [t̪aɾaŋgambaːɖi]), formerly Tranquebar (Danish: Trankebar, pronounced [ˈtsʰʁɑŋkəˌpɑˀ]), is a town in the Mayiladuthurai district of the Indian state of Tamil Nadu on the Coromandel Coast. It lies 15 kilometres (9.3 mi) north of Karaikal, near the mouth of a distributary named Uppanar of the Kaveri River. It was established on 19 November 1620 as the first Danish trading post in India. King Christian IV had sent his envoy Ove Gjedde who established contact with Raghunatha Nayak of Thanjavur. An annual tribute was paid by the Danes to the Rajah of Tanjore until the colony was sold to the British East India Company in 1845.\nTharangambadi is the headquarters of Tharangambadi taluk. Its name means \"place of the singing waves\"; the old designation Trankebar remains current in modern Danish. Tharangambadi is located at the distance of 285 km from Chennai. The nearest airport is Tiruchirappalli International Airport, 172 km away and the nearest port is at Karaikal at 26 km. It is served by Tharangambadi railway station.\n\n\n== History ==\nThe place dates back to the 14th century. Masilamani nathar (Shiva) temple was built in 1306, in a land given by Maravarman Kulasekara Pandyan...",
+   "url": "https://en.wikipedia.org/wiki/Tharangambadi"
+  },
+  {
+   "title": "Fort Dansborg",
+   "text": "Fort Dansborg, locally called Danish Fort, is a Danish fort located in the shores of Bay of Bengal in Tranquebar (Tharangambadi) in the Mayiladuthurai District, state of Tamil Nadu. Fort Dansborg was built in the land ceded by Thanjavur king Ragunatha Nayak in an agreement with Danish Admiral Ove Gjedde in 1620 and acted as the base for Danish settlement in the region during the early 17th century. The fort is the second largest Danish fort after Kronborg. The fort was sold to the British in 1845 and along with Tranquebar, the fort lost its significance as the town was not an active trading post for the British. After India's independence in 1947, the fort was used as an inspection bungalow by the state government until 1978 when its archaeology department took control of the fort. The fort is now used as a museum where the major artifacts of the fort and the Danish colonial empire in India are displayed.\nThe fort was renovated twice in modern times, by the Tranquebar Association with the help of the Danish royal family and the state's archaeology department in 2001 and by the state's tourism department in 2011.",
+   "url": "https://en.wikipedia.org/wiki/Fort_Dansborg"
+  },
+  {
+   "title": "Danish Governor Bungalow",
+   "text": "The Danish Governor Bungalow, is a 17th-century Danish colonial house which has belonged to the Governor of Danish India. The House was called Black Court, and was used as a consideration to the ethnic people taking into account the customs and traditions of the Indiens, after the exit of the Danes in 1845, the house was used by the British administrator of the colony. Built in the 18th century, opposite Fort Dansborg, by the Danish East India Company in what was once a pepper trading post of Tranquebar, now known as Tharangambadi, in Tamil Nadu, India. Tranquebar is a Danish term that comes from the native Tamil word Tarangambadi, which means 'place of the singing waves'.",
+   "url": "https://en.wikipedia.org/wiki/Danish_Governor_Bungalow"
+  },
+  {
+   "title": "Nandalar River",
+   "text": "Nandalar  (நண்டலாறு) is a branch river of Cauvery River and flowing between Tiruvarur district and Mayiladuthurai district of the Indian state of Tamil Nadu. It act as a border line for Thiruvarur and Mayiladuthurai Districts.",
+   "url": "https://en.wikipedia.org/wiki/Nandalar_River"
+  },
+  {
+   "title": "New Jerusalem Church, Tranquebar",
+   "text": "The New Jerusalem Church (Tamil: புதிய எருசலேம் தேவாலயம், தரங்கம்பாடி) was built in 1718 by the Royal Danish missionary Bartholomaeus Ziegenbalg in the coastal town of Tranquebar, India, which was at that time a Danish India colony. The church is located on King Street, and church services are conducted every Sunday. The church, along with other buildings of the Tranquebar Mission, was damaged during the tsunami of 2004, and were renovated at a cost of INR 7 million, and re-consecrated in 2006.",
+   "url": "https://en.wikipedia.org/wiki/New_Jerusalem_Church,_Tranquebar"
+  },
+  {
+   "title": "Zion Church, Tharangambadi",
+   "text": "Zion Church is one of the oldest churches in Tharangambadi (Tranquebar), a Danish settlement in Mayiladuthurai district in the South Indian state of Tamil Nadu. It is in the premises of Fort Dansborg, built with the help of Danish king Christian IV in an agreement with Danish Admiral Ove Gjedde in 1717 and acted as the base for Danish settlement in the region during the early 17th century. The Church was built in 1717 Rev Bartholomew zigenbalg by  A.D by Rev. Bartholomaus Ziegenbalg and has records from the 18th and 19th centuries. He is believed to be the first Protestant missionary in India and the Church is believed to be the first Protestant Church in India.\nNew Jerusalem Church is a working church with hourly prayer and daily services and follows Protestant sect of Christianity. In modern times, it is under the dominion of Tamil evajalical Lutheran Church  It is one of the most prominent landmarks of Tranquebar (Tharangambadi).",
+   "url": "https://en.wikipedia.org/wiki/Zion_Church,_Tharangambadi"
+  },
+  {
+   "title": "Cattle War",
+   "text": "The Cattle War (Danish: Kvægkrigen) also commonly referred to as the Perumal War or the Perumal Naik-War (Danish: Perumalkrigen/Perumal Naik-krigen) was a colonial conflict between the Danish East India Company and the Thanjavur Maratha kingdom over the Danish governor Hans Georg Krog's expansionistic foreign policy. The conflict started over the raiding of Danish cattle by the local supervisor of a small land district, Perumal Naik.",
+   "url": "https://en.wikipedia.org/wiki/Cattle_War"
+  },
+  {
+   "title": "Siege of Dansborg (1644)",
+   "text": "The siege of Dansborg (Danish; belejringen af Dansborg) or the siege of Fort Dansborg (Danish; belejringen af Fort Dansborg), was a short siege lasting from 20 to 30 December 1644, between general Tiagepule of Thanjavur and the Danish command at Fort Dansborg. The conflict started over the Danish rejection of the general's demand to tax Tranquebar, and as a result, a series of confrontations followed. The confrontations had no major result, and an armistice may have been signed.",
+   "url": "https://en.wikipedia.org/wiki/Siege_of_Dansborg_(1644)"
+  },
+  {
+   "title": "Willem Leyel's siege of Dansborg",
+   "text": "The siege of Dansborg (Danish; belejringen af Dansborg) alternatively the siege of Fort Dansborg (Danish; belejringen af Fort Dansborg) sometimes also referred to as Willem Leyel's siege of Dansborg (Danish; William Leyels belejring af Dansborg), was a siege initiated by traveler and seafarer, Willem (Danish; William) Leyel, against the men loyal to governor Bernt Pessart. The siege was concluded after the men at Dansborg opened the gates for Willem Leyel, surrendered, and accepted Leyel as the new governor.",
+   "url": "https://en.wikipedia.org/wiki/Willem_Leyel%27s_siege_of_Dansborg"
+  },
+  {
+   "title": "Siege of Tranquebar (1699)",
+   "text": "The siege of Tranquebar (Danish: Belejringen af Tranquebar) was a siege of the Danish colony of Tranquebar by Shahuji I of the Thanjavur Maratha kingdom in 1699. Despite the dire situation of the besieged Danes, the English at Madras came to relieve the Danes, and the Thanjavurians would eventually retreat.",
+   "url": "https://en.wikipedia.org/wiki/Siege_of_Tranquebar_(1699)"
+  },
+  {
+   "title": "Sieges of Tranquebar (1655–1669)",
+   "text": "The sieges of Tranquebar (Danish: Belejringerne af Trankebar) refer to the warfare between the Thanjavur Nayak kingdom and the Danish East India Company from 1655 to 1669. The Thanjavurian Nayak besieged the Danish colony of Tranquebar on multiple occasions; however, they were repelled due to the new fortifications being built around the city. A peace agreement was issued in 1669, ceding four Thanjavurian villages to the Danes.",
+   "url": "https://en.wikipedia.org/wiki/Sieges_of_Tranquebar_(1655%E2%80%931669)"
+  },
+  {
+   "title": "Capture of Tranquebar (1801)",
+   "text": "The Capture of Tranquebar (Danish: Overtagelsen af Trankebar) or the Surrender of Tranquebar (Danish: Overgivelsen af Trankebar) was a British takeover of the capital of Danish India, Tranquebar. The capture was quick and successful, with the Dano-Norwegian governor, Peter Anker, surrendering with the arrival of the British.",
+   "url": "https://en.wikipedia.org/wiki/Capture_of_Tranquebar_(1801)"
+  },
+  {
+   "title": "Tranquebar Rebellion",
+   "text": "The Tranquebar Rebellion (Danish: Trankebar oprøret), also known as the Tranquebar Mutiny (Danish: Trankebar opstanden), was a bloodless mutiny and uprising against the governor of Tranquebar, Willem Leyel, at Tranquebar in 1648. The mutineers succeeded in arresting Leyel, and he would be replaced by the leader of the rebellion, Poul Hansen Korsør.",
+   "url": "https://en.wikipedia.org/wiki/Tranquebar_Rebellion"
+  },
+  {
+   "title": "Surrender of Tranquebar (1808)",
+   "text": "The Surrender of Tranquebar (Danish: Overgivelsen af Trankebar) or the Capture of Tranquebar (Danish: Overtagelsen af Trankebar) was a surrender of the capital of Danish India, Tranquebar, in 1808 to the British East India Company as a result of the English Wars. The capital surrendered almost immediately after the arrival of a British force.",
+   "url": "https://en.wikipedia.org/wiki/Surrender_of_Tranquebar_(1808)"
+  },
+  {
+   "title": "Uppanar River",
+   "text": "The Uppanar River, is a significant distributary of the Cauvery River in  flowing through the coastal Sirkazhi and Tharangambadi taluks of Mayiladuthurai district, in the southern state of Tamil Nadu, India.\nThe Uppanar distributary system includes several engineered branches, often designated as A, B, C, and D in government and hydrological records. The Uppanar Rivers A, C, and D flow through the Mayiladuthurai district, whereas Uppanar River B flows through the Cuddalore district.\nIt forms part of the Cauvery delta system and supports irrigation, agriculture, and traditional fisheries. Several branches of the river exist, which are largely man-made canals used for irrigation in the delta. The river ultimately drains into the Bay of Bengal.",
+   "url": "https://en.wikipedia.org/wiki/Uppanar_River"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Tranquebar",
+  "text": "Tranquebar or Tharangambadi is a small coastal town in Tamil Nadu 120 km south of the former  French colony Pondicherry (Puducherry). Tharangambadi literally means the land of the singing waves. From 1620 to 1845 it served as a Danish trading post in India and came to be known as Tranquebar. Tranquebar is also known for its ozone-rich beaches. \n\n\n== See ==\n\n1 Fort Dansborg. 10:30AM–5PM. A Danish 17th-century fort facing the coast. The construction of the fort began immediately after the arrival of the first Danish trading expedition and the establishment of a treaty regulating trading rights between the Nayak Raghunatha in Thanjavur and the Danish East India Company in 1620. Until the end of the 17th century the fort was used for residential and storage purposes; subsequent increase in population forced the Danes to move out and occupy surrounding areas as well. While it used to be crumbling away, the Fort has been renovated by Indian volunteers and Danish non-profit organisations. It houses a small museum inside that has some artifacts and a history of the Danish Settlement. ₹5 per person. (updated Oct 2019)\n2 New Jerusalem Church, King Street. The New Jerusalem Church was built in 1718 by the German missionary Bartholomäus Ziegenbalg. It replaced the old Jerusalem Church which proved too small for the growing local Christian population. The church has a cross-like floor plan. The Danish coat of arms is inscribed on the top of the gateway leading to the interiors of the church. The interior contains several memorial plaques and even a few graves including that of Ziegenbalg. The church is housed in a large compound which also has several graves. \n3 The Old Danish Cemetery, Kavalamettu Street. Small cemetery that holds the whitewashed graves of several Danish colonial officials and tradesmen. Don't expect a Danish style cemetery as found in Copenhagen. It is a small compound with a locked gate and several headstones standing forlornly in a barren patch of land. \n4 The Town Gate, King's Street. 'Landporten' as the Town Gate is called in Danish forms part of the fortifications that were built around Tranquebar in \n== Do ==\n Arts and Craft Centre. This centre is being developed for presenting the traditional arts and crafts of this region. The centre is located in a set of restored Tamil houses that were taken up by some NGOs after the tsunami. \n Take a Walking Tour. A good place to start is the Bungalow on the Beach on King's Street. Ask for a map there and set out to see the sights. At a comfortable pace the tour should not take more than a couple of hours. You can end the tour with a beer at the Bungalow! \n\n\n== Eat ==\n The Bungalow on the Beach, King's Street. The only dining option in Tranquebar. They serve a fairly decent continental fare with main course at the range of ₹200. \n\n\n== Drink ==\n The Bungalow on the Beach. You can order a beer here, just that it comes marked as fruit juice in your bill. ₹150 for a bottle of Kingfisher. \n\n",
+  "url": "https://en.wikivoyage.org/wiki/Tranquebar"
+ },
+ "sights": [
+  {
+   "name": "Tharangambadi",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 11.0325,
+   "lon": 79.85305555555556
+  },
+  {
+   "name": "Sieges of Tranquebar",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 11.029166666666667,
+   "lon": 79.84944444444444
+  },
+  {
+   "name": "Tranquebar Rebellion",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 11.029166666666667,
+   "lon": 79.84944444444444
+  },
+  {
+   "name": "Siege of Tranquebar",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 11.029166666666667,
+   "lon": 79.84944444444444
+  },
+  {
+   "name": "Cattle War",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 11.029166666666667,
+   "lon": 79.84944444444444
+  },
+  {
+   "name": "Surrender of Tranquebar",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 11.029166666666667,
+   "lon": 79.84944444444444
+  },
+  {
+   "name": "Capture of Tranquebar",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 11.029166666666667,
+   "lon": 79.84944444444444
+  },
+  {
+   "name": "New Jerusalem Church, Tranquebar",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 11.0271658,
+   "lon": 79.8542758
+  },
+  {
+   "name": "Zion Church, Tharangambadi",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 11.025833333333335,
+   "lon": 79.85472222222222
+  },
+  {
+   "name": "Danish Governor Bungalow",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 11.02586894904417,
+   "lon": 79.85532961046106
+  },
+  {
+   "name": "Fort Dansborg",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 11.0246,
+   "lon": 79.8558
+  },
+  {
+   "name": "Uppanar River",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 11.018663,
+   "lon": 79.855439
+  },
+  {
+   "name": "Nandalar River",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 11.018611111111111,
+   "lon": 79.85555555555555
+  },
+  {
+   "name": "Willem Leyel's siege of Dansborg",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 11.03,
+   "lon": 79.84
+  },
+  {
+   "name": "Siege of Dansborg",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 11.03,
+   "lon": 79.84
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

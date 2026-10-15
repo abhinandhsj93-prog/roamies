@@ -1,0 +1,58 @@
+{
+ "query": "Nelliyampathy, Palakkad",
+ "found": "Nelliyampathy, Chittur, Palakkad, Kerala, India",
+ "lat": 10.534929,
+ "lon": 76.6932696,
+ "fetchedAt": "2026-10-12T17:57:06.617Z",
+ "locality": {
+  "id": "kaikatty-palakkad-kerala",
+  "name": "Kaikatty",
+  "area": "Chittur, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kaikatty": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaikatty_Viewpoint_%282026%29.jpg/1280px-Kaikatty_Viewpoint_%282026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kaikatty",
+   "credit": "Photo: WikiSantaClaus, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaikatty_Viewpoint_(2026).jpg"
+  },
+  "Nelliampathi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/The_Western_Ghats003.jpg/1280px-The_Western_Ghats003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nelliampathi",
+   "credit": "Photo: Shagil Kannur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Western_Ghats003.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kaikatty",
+   "text": "Kaikatty is a geographic area in Palakkad district of Kerala state, south India. It is 26 km from Nemmara village. The area is known for its tea based economy.\n\n\n== Tourism ==\nKaikatty is home to the Nelliampathi mountains.  The only route is from Nemmara; the first town of Nelliampathi, namely Kaikatty junction, is at a distance of 26 km. At the 9th kilometre, is the Pothundi Dam, a small irrigation dam which provides water for the rice fields in the surrounding area. The dam is at the foot of the Nelliampathi hills. From here, the road winds up for the next 17 km, with many hairpin turns on the way. Immediately after Pothundy dam, starts the government forest area.  \n\n\n== Tea estates ==\nNear the village, the tea producer A.V.Thomas and Company has a large tea garden in Manalaroo Estate. The Veekay Tea Company is in Chandramala Estate. All the tea and coffee plantations were originally started by the British.  These were later sold to the natives. The plantations took into account the cool climate of the region.\nTea in the area is processed at the Kaikatty Industrial Cooperative Tea Factory which was established in 1976 and has made efforts to reduce its carbon footprint. They are a supplier...",
+   "url": "https://en.wikipedia.org/wiki/Kaikatty"
+  },
+  {
+   "title": "Nelliampathi",
+   "text": "Nelliyampathy (also spelled as Nelliampathi) is a hill station, located 60 kilometres (37 mi) from Palakkad district in the state of Kerala, India.",
+   "url": "https://en.wikipedia.org/wiki/Nelliampathi"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Chittur",
+  "text": "Chittur is a small town in Palakkad District in Malabar, Kerala, India. \n\n\n== See ==\n1 Bhagavathi Temple, Chittur.  (updated May 2015)\n2 Chittur Kavu, Anikode.  (updated May 2015)\n3 Durga temple, Chittur.  (updated May 2015)\n4 Muniyappan Temple, Bunglowparambu.  (updated May 2015)\n\n5 Parambikulam Wildlife Sanctuary (Parambikulam Tiger Reserve), Chittur. Six tribal colonies, new Tiger reserve. (updated Jun 2015)\n Shiva Kshethram, Lankeswaram Agrahara.  (updated May 2015)\n6 Vettaikoru Makan temple, Anikode.  (updated May 2015)\n\n\n== Do ==\n\n\n== Eat ==\n\n Casino Hotel, Near Devadas Clinic, Tatamangalam.  (updated May 2015)\n Mohammed Ali Restaurant, Tattamangalam.  (updated May 2015)\n Nair Tea shop, Meenakshipuram.  (updated May 2015)\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Chittur"
+ },
+ "sights": [
+  {
+   "name": "Nelliampathi",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 10.529627,
+   "lon": 76.684012
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

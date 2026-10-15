@@ -1,0 +1,113 @@
+{
+ "query": "Vellore",
+ "region": "tamilnadu",
+ "name": "Vellore",
+ "draft": {
+  "briefing": "Hey, you're in Vellore! The big draw here is the 16th century Vellore Fort, built under the Vijayanagara Empire and known for its grand ramparts, wide moat and robust masonry.",
+  "hungryLine": "Vellore is famous for its biryani made with jeera sambha rice, so make that your first meal here.",
+  "moodReplies": {
+   "show-me-around": "Start at Vellore Fort and the Jalagandeswarar Temple with its carved gopuram, then head to Sripuram for the Golden Temple.",
+   "somewhere-to-chill": "Drive about 25 km out to Amirthi Forest near Javathu mountain for the Amirthi Falls and a slow walk among the trees.",
+   "surprise-me": "At the Golden Temple in Sripuram, you reach the shrine by walking a star-shaped path over 1.8 km long, past spiritual messages along the way."
+  },
+  "seeFirst": {
+   "caption": "Around the city",
+   "spots": [
+    {
+     "name": "Vellore Fort",
+     "detail": "In the city · Grand 16th century fort with a wide moat and robust masonry",
+     "status": {
+      "text": "Go early to beat the heat",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jalagandeswarar Temple",
+     "detail": "In the city · Vijayanagara-era Shiva temple with richly carved pillars and gopuram",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Golden Temple, Sripuram",
+     "detail": "Sripuram · Maha Lakshmi temple covered in gold, reached by a star-shaped path",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Know your limits at Sajra and Gojra.",
+    "body": "These clifftop forts are reachable only on foot, so plan when and how you climb."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress for the temples.",
+    "body": "Between Jalagandeswarar, the Golden Temple and the Murugan hill temples, you'll want covered shoulders and knees."
+   }
+  ],
+  "story": [
+   {
+    "era": "800s",
+    "title": "Chola beginnings",
+    "body": "Vellore's early history goes back to the Chola period in the 9th century CE. It then passed through various empires in the Middle Ages.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s",
+    "title": "Fort and temple",
+    "body": "The Vellore Fort and the Jalakandeswarar Temple went up under the Vijayanagara Empire. The temple is a fine example of Vijayanagara architecture.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1700s",
+    "title": "Caught in the Carnatic Wars",
+    "body": "In the 18th century, Vellore was drawn into the Carnatic Wars between the British and the French.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2007",
+    "title": "The Golden Temple",
+    "body": "The gold-covered temple at Sripuram was dedicated to Sri Lakshmi Narayani in 2007. Every detail was made by hand by artisans who specialise in gold temple art.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "City of healing",
+    "body": "Christian Medical College draws students, doctors and patients from all over India. The city sits on the Palar River, ringed by the Javadi Hills.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "The Vellore Kitchen",
+    "detail": "South Indian chicken and mutton dishes, plus seafood",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Zaitoon Katpadi",
+    "detail": "Middle Eastern style restaurant at Selvam Square, Katpadi",
+    "status": {
+     "text": "In Katpadi",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

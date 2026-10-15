@@ -1,0 +1,129 @@
+{
+ "query": "Ellora Caves",
+ "region": "maharashtra",
+ "name": "Ellora Caves",
+ "draft": {
+  "briefing": "Hey, you're at Ellora Caves! Cave 16 here, the Kailasa temple, is the largest single monolithic rock excavation in the world, a whole Shiva temple carved out of one cliff.",
+  "hungryLine": "Hotel Kailash is the old-timer near the caves, and the road back towards Aurangabad is lined with more Indian restaurants.",
+  "moodReplies": {
+   "show-me-around": "The caves start right here, the Kailasa temple is about 6 minutes on foot, and Ghrishneshwar Temple is around 13 minutes away.",
+   "somewhere-to-chill": "Find the little waterfall next to Dhumar Lena (Cave 29) and cool off for a bit.",
+   "surprise-me": "Unlike most temples, which are built from the base up, the Kailasa temple was carved starting from the top and the sides, and it took over a century."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Kailasa Temple, Ellora",
+     "detail": "6 min walk · The world's largest monolith, a chariot-shaped temple to Shiva",
+     "status": {
+      "text": "Closed on Tuesdays",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Ghrishneshwar Temple",
+     "detail": "13 min walk · One of the 12 Jyotirlinga temples of Shiva",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jain Group of Ellora Caves",
+     "detail": "About a mile from Kailasa · Fine carvings, with a lotus on the roof of Cave 32",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Khuldabad",
+    "title": "The pleasing well",
+    "body": "The Sufi saint Zar Zari Zar Baksh came here with 700 disciples and is said to have converted a Hindu princess near a well at Khuldabad. That well is now called Sohan baoli, the pleasing well, and the princess is buried close to the saint."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Don't come on a Tuesday.",
+    "body": "The caves are open from 9 AM to 5:30 PM and closed every Tuesday."
+   },
+   {
+    "icon": "tag",
+    "title": "Bring your camera.",
+    "body": "Still photography inside the caves is free, so snap away."
+   }
+  ],
+  "story": [
+   {
+    "era": "AD 600-1000",
+    "title": "Three faiths, one cliff",
+    "body": "Hindu, Buddhist and Jain caves were cut side by side into the basalt of the Charanandri Hills, a sign of the religious harmony of the time.",
+    "illustration": "palace"
+   },
+   {
+    "era": "700s",
+    "title": "Kailasa is carved",
+    "body": "Most of the Kailasa temple is credited to the Rashtrakuta king Krishna I, who ruled around 756 to 773. Its top stands 32.6 metres above the courtyard.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1300s",
+    "title": "A Sufi saint arrives",
+    "body": "Zar Zari Zar Baksh, one of the earliest Chishti Sufis, was sent to the Deccan and settled near Khuldabad. He died in 1309, and his dargah still draws thousands for his Urs.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1626",
+    "title": "Malik Ambar's tomb",
+    "body": "Malik Ambar, prime minister of the Ahmadnagar Sultanate, built his own tomb at Khuldabad and was buried there when he died in 1626.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "World Heritage",
+    "body": "Ellora is a UNESCO World Heritage Site with over 100 caves, 34 of them open to visitors. Every March there's a classical dance and music festival here.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hotel Kailash",
+    "detail": "An older hotel near the caves, with an attached beer bar",
+    "status": {
+     "text": "Spice levels can run high",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Manor",
+    "detail": "On the road from Ellora towards Aurangabad",
+    "status": {
+     "text": "Check hygiene and spice",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Ambience",
+    "detail": "Another stop on the Aurangabad road",
+    "status": {
+     "text": "Check hygiene and spice",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

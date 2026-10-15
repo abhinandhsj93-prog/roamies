@@ -1,0 +1,98 @@
+{
+ "query": "Igatpuri",
+ "region": "maharashtra",
+ "name": "Igatpuri",
+ "draft": {
+  "briefing": "Hey, you're in Igatpuri! This hill town sits at the head of the Thal Ghat, and its station is a technical halt for every train going in or out of the Mumbai region.",
+  "hungryLine": "Igatpuri station is famous for its wada pav, idli and coffee, so grab some if you're passing through.",
+  "moodReplies": {
+   "show-me-around": "Look for the Golden Pagoda of Dhamma Giri, it's the town's landmark, then head out to Camel Valley and the Five Waterfalls.",
+   "somewhere-to-chill": "Arthur Lake, a few km from Igatpuri, is huge and placid, surrounded by dense greenery.",
+   "surprise-me": "The top of Tringalwadi Fort is shaped like a turban."
+  },
+  "seeFirst": {
+   "caption": "Short drives from town",
+   "spots": [
+    {
+     "name": "Dhamma Giri Meditation Centre",
+     "detail": "Short drive · The Golden Pagoda and Vipassana courses founded by S.N. Goenka",
+     "status": {
+      "text": "Check course details",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Camel Valley",
+     "detail": "Short drive · A rain-fed waterfall over a slope of more than 1,000 ft",
+     "status": {
+      "text": "Best in the rains",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kalsubai Peak",
+     "detail": "35 km away · The highest peak in the Sahyadri ranges",
+     "status": {
+      "text": "Start early",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Ghatandevi Temple",
+    "title": "Protector of the Ghats",
+    "body": "Locals believe Ghatandevi is the protector of the Ghats. Her temple sits just past Camel Valley, with Tringalwadi Fort behind it."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come for the rains.",
+    "body": "Waterfalls like the one at Camel Valley are fed by rainwater, so they're at their best in the wet season."
+   },
+   {
+    "icon": "tag",
+    "title": "Lace up your boots.",
+    "body": "Trekking, hiking and birdwatching are the main reasons people come, with treks like Kulang gadh, Bitangad and Sandhan Valley."
+   }
+  ],
+  "story": [
+   {
+    "era": "2,500 years ago",
+    "title": "The Buddha's technique",
+    "body": "Vipassana, the insight meditation taught at Dhamma Giri, goes back to a technique the Buddha taught in India 2,500 years ago.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Old days",
+    "title": "Egutpoora",
+    "body": "Igatpuri was once known as Egutpoora.",
+    "illustration": "palace"
+   },
+   {
+    "era": "The Great War",
+    "title": "A hillside cemetery",
+    "body": "On a hillock north of town lies the Igatpuri Cemetery, where soldiers who died fighting in the great war are buried.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Railway days",
+    "title": "Changing engines",
+    "body": "Igatpuri station used to be where trains swapped locomotives on the way in and out of Mumbai. Trains still detach banker locomotives or check emergency brakes here.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "The Golden Pagoda",
+    "body": "S.N. Goenka's Dhamma Giri centre, with its large Golden Pagoda, now draws people from across India and abroad.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

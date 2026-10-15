@@ -1,0 +1,48 @@
+{
+ "query": "Yelagiri",
+ "found": "Yelagiri, Tirupathur, Tirupattur, Tamil Nadu, 635853, India",
+ "lat": 12.589316,
+ "lon": 78.6323577,
+ "fetchedAt": "2026-10-12T19:31:35.512Z",
+ "locality": {
+  "id": "punganur-tirupattur-tamil-nadu",
+  "name": "Punganūr",
+  "area": "Yelagiri, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Yelagiri": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/01Yelagiri_Hills.jpg/1280px-01Yelagiri_Hills.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Yelagiri",
+   "credit": "Photo: mckaysavage, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:01Yelagiri_Hills.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Yelagiri",
+   "text": "Yelagiri (Tamil: [jeːlaɡiɾi]), also spelled Elagiri, is a hill station located in Tirupathur district of Tamil Nadu, India. Located at an altitude of 1,410 m (4,630 ft), it forms a part of the Eastern Ghats mountain range. The hills consist of 14 hamlets spread across an area of 72 km2 (28 sq mi).",
+   "url": "https://en.wikipedia.org/wiki/Yelagiri"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Yelagiri",
+  "text": "Yelagiri (also spelt Elagiri on some signboards) is a town in Tamil Nadu, a state in the south of India.\n\nYelagiri, at a height of 920 metres above sea level, stands majestically amidst four mountains. This is a hill station with a salubrious climate prevailing throughout the year so that winters do not keep visitors away. The main inhabitants of the area are the tribals who live in the 14 small villages which comprise Yelagiri. These tribals are engaged in agriculture, horticulture, forestry, etc. - all the occupations of rural hill folk. Their customs and habits, and especially the structure of their houses is unique and attracts a number of tourists to this hill station.\n\n\n== See ==\nThere are 14 hairpin bends named after Tamil poets (Pari Valaivu, Ori Valaivu, Kamban Valaivu, etc.); they lead to the Yelagiri Hills. There is a sort of an observatory, after 12th bend with a telescope pointing towards the plains. It is difficult to park a car here owing to the narrow roads. Bikes should be fine.\nOn the way to the hills, you can see lots of small animals like monkeys, oxen, goats, etc.  Do not feed these animals as they can be dangerous. Don't forget to carry binoculars with you.\n\n Don Bosco Centre. Yellagiri Hills. Fr. Guezou, who is the founder of this Don Bosco Center has come from France and has been helping the poor people for many years. This center helps the poor and illterate youth to identify their future by providing IT education. They have the IGNOU Study center, IT Training Center and Software Development Center. \n\n\n== Do ==\n\n\n==== Trekking ====\nSwami Malai, (not to be confused with the town of Swamimalai, near Kumbakonam) the highest peak, soaring to 4,338 ft from Mangalam, a hamlet at its base, takes the cake. It's an easy climb of about an hour with infrequent breaks (about a 1000-foot climb). Smaller peaks like Javadu Hills, Palamathi Hills and others are an easier climb. Start early though and be back before 9AM, for once the sun climbs up it can get rather uncomfortable.\nJalagamparai Waterfalls - a 5-km trek from Yelagiri downhill. It's a tough trek, but the view from the sides of the mountain, of the valley, is truly rewarding. Winter and April-May are probably not good times to visit the falls, as there may be no water this time of the year. The tourist taxi operator may give you false information that there has been rain in this area and there may be water in the falls. His objective is to get money for the number of kilometres he runs the vehicle and not tourists' interest and pleasure. Just check this with somebody before you make a trip to this place. Otherwise it is a wasted trip. Especially if you go in the hot sun between 10AM to 12:30PM you will get headache. At the same time if one is interested in seeing the villages and the green pastures it may be fine. Next to the falls there is a temple at the top.\nUphill for 4 km can be fun when in groups. Don’t forget to carry water, you will not find a drop of water to drink once you reach the hilltop.  You can see the clouds touching the lush green hills in early morning- an amazing sight. Make sure you wear sneakers as the trek can be a treacherous climb. You can hire locals from the village to help you as guide on your trek for around ₹300. It takes 2-3 hr to climb the top of the hill, depending on your speed and agility\n== Eat ==\nFood is not a problem in Yelagiri, except if you are trekking. Otherwise there are a number of eateries offering south/north Indian food at reasonable rates. Branded soft drinks and water bottles are available.\nLook out for jackfruit - this area has plenty of it available especially in the summer months, and the fruit here is considered very good.  Also, there are lots of fruits available each season like guava, custard apple, etc.  Try to bargain as much as possible as the locals are very keen. On the contrary, you will also get some fruits near Swamimalai trekking spot where the locals will surprise you by giving you more than what you expect.\nA few food joints serve authentic Tandoori/Chinese/Indian food\n\nTandoori Hut on Boat House Road (Next to Boat House Main Entrance)\nThe Hotel Hills on the main Rd\n\n\n== Drink ==\nThere is a TASMAC (Tamil Nadu State Marketing Corporation) liquor outlet just opposite the entrance to the lake. So have no fears and you do not have to carry your liquor unless and until you are travelling from Bangalore where you have the option of more varieties and you would not want limit yourselves to the limited options available at the TASMAC Wine Shops in Tamil Nadu. Also, immediately after you take the right at Ponneri, you have another TASMAC Wine Shop on the right hand side.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Yelagiri"
+ },
+ "sights": [
+  {
+   "name": "Yelagiri",
+   "kind": "landmark",
+   "walkMinutes": 25,
+   "lat": 12.5781,
+   "lon": 78.6407
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

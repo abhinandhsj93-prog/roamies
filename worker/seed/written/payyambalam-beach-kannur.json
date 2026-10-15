@@ -1,0 +1,139 @@
+{
+ "query": "Payyambalam Beach, Kannur",
+ "region": "kerala",
+ "name": "Payyambalam Beach",
+ "draft": {
+  "briefing": "Hey, you're at Payyambalam Beach! It's one of the five beaches that make up Kannur Beach, and it's where the locals come. Kannur itself is called the Land of Looms and Lore, for its fabric industry and its Theyyam temple dance festivals.",
+  "hungryLine": "Kannur eats Malabar style, so think biriyani, puttu, appam and seafood, and try the stuffed mussels, arikkadukka, from a local vendor.",
+  "moodReplies": {
+   "show-me-around": "Kannur Beach is a 23 min walk. In town, Arakkal Palace & Museum has pre-colonial art and architecture, and St. Angelo's Fort, built by the Portuguese in 1505, has a lovely garden looking out to sea.",
+   "somewhere-to-chill": "Pay the small entry to the little park by Payyambalam Beach. It's less crowded than the sand, and you can sit and watch the sunset.",
+   "surprise-me": "Inside the beach park there's a very big statue of a sleeping woman made of grass."
+  },
+  "seeFirst": {
+   "caption": "Around Kannur",
+   "spots": [
+    {
+     "name": "Payyambalam Beach",
+     "detail": "2 km from town · Sunset park and a cliff walk",
+     "status": {
+      "text": "Crowded with locals",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "St. Angelo's Fort",
+     "detail": "3 km from town · Portuguese fort from 1505, sea views",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Arakkal Palace & Museum",
+     "detail": "1 km from town, near the beach · Pre-colonial art and architecture",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Muthappan Temple, Parassinikkadavu",
+    "title": "A god with no idol",
+    "body": "This riverside temple has no idol at all, it worships through Muthappan Theyyam, and it has many legends. Muthappan is believed to be a form of Lord Shiva, a god for everyone, and visitors are given free food."
+   },
+   {
+    "where": "All over Kannur",
+    "title": "Land of Looms and Lore",
+    "body": "Kannur got this nickname from its weaving and from all the Theyyam temple dance festivals held here. Here, a Theyyam performance is something sacred, not a show."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Watch the sunset from the park.",
+    "body": "The beach park charges an entrance ticket, which keeps it calmer than the sand at sunset."
+   },
+   {
+    "icon": "tag",
+    "title": "Walk the cliff.",
+    "body": "There's a perfectly formed cliff near the beach that's prettier and less crowded than the beach itself, with a lighthouse museum of old lamps close by."
+   }
+  ],
+  "story": [
+   {
+    "era": "1505",
+    "title": "The Portuguese fort",
+    "body": "The Portuguese built St. Angelo's Fort in 1505, looking out over the sea. A short footpath still runs into the sea nearby.",
+    "illustration": "palace"
+   },
+   {
+    "era": "About 300 years ago",
+    "title": "The Arakkal mosque",
+    "body": "Mohyidheen Juma Masjid at Ayikara, the Moideen Palli, was built under the patronage of the Arakkal Royal Dynasty. Their palace is now a museum near the beach.",
+    "illustration": "palace"
+   },
+   {
+    "era": "British empire",
+    "title": "Pallikunnu's prison",
+    "body": "In nearby Pallikunnu, leaders of the freedom struggle and of local peasant revolts were jailed or executed at the Central Prison. The Superintendent's bungalow is now a women's college.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1957",
+    "title": "A district is born",
+    "body": "Kannur district, once anglicised as Cannanore, was established in 1957. Kannur Cantonment is still the only Cantonment Board in Kerala.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Beaches and Theyyam",
+    "body": "Kannur is a seaside city of beaches, looms and Theyyam. Fort by day, Payyambalam at sunset, and tell me how it went.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Cita Pani",
+    "detail": "Right on Payyambalam Rd, the closest pick",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Pulari Restaurant",
+    "detail": "Biriyani parcels on banana leaves, big portions",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Odhens Restaurant",
+    "detail": "Famous for lunch with fish fry",
+    "status": {
+     "text": "Lunch spot",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

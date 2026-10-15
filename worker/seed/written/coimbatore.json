@@ -1,0 +1,133 @@
+{
+ "query": "Coimbatore",
+ "region": "tamilnadu",
+ "name": "Coimbatore",
+ "draft": {
+  "briefing": "Hey, you're in Coimbatore, or Kovai as everyone here says! Back in the Sangam era this was the eastern gateway to the Palakkad Gap, the main trade route between the west coast and Tamil Nadu. Today it's an engineering city often called the Manchester of South India, famous for motor-pump sets.",
+  "hungryLine": "Kovai does great idli, dosa and veg meals, a serious biriyani scene, and Krishna Sweets started right here, so wash it all down with a glass of famous Siruvani water.",
+  "moodReplies": {
+   "show-me-around": "Koniamman Temple is a 15 min walk, the old Athar Jamaath Masjid is 16 minutes away, and the Clock Tower is about 14. Wander the narrow lanes of Sukrawarpet around the Town Hall area on the way.",
+   "somewhere-to-chill": "Go for an evening walk at the Race Course, or visit VOC park in the evening, which is the best time for its zoo and gardens.",
+   "surprise-me": "Siruvani water, Coimbatore's drinking water, is considered one of the tastiest natural unprocessed waters on the planet."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Koniamman Temple",
+     "detail": "15 min walk · A busy city-centre Amman temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Athar Jamaath Masjid",
+     "detail": "16 min walk · The Big Mosque, one of the oldest in Coimbatore",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Clock Tower",
+     "detail": "14 min walk · A handy landmark to get your bearings",
+     "status": {
+      "text": "Crowded streets, go slow",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thandu Mariamman Temple, Uppilipalayam",
+    "title": "The goddess who healed soldiers",
+    "body": "Locals say Thandu Mariamman cured the soldiers of the ruler of Kongu Nadu of chicken pox. Her car festival every April is one of the big religious events in the region."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Do parks in the evening.",
+    "body": "VOC park is best visited in the evening, and the Race Course is ideal for a morning or evening walk."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip the GD Museums on Mondays.",
+    "body": "The GD Museums on Avinashi Road, with G.D. Naidu's inventions and the Gedee Car Museum, are closed on Mondays."
+   }
+  ],
+  "story": [
+   {
+    "era": "1st to 4th century",
+    "title": "Chera trade gate",
+    "body": "The Cheras ruled here during the Sangam period. Coimbatore sat on the Rajakesari Peruvazhi, an old trade route from Muziris to Arikamedu.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "900s to 1400s",
+    "title": "Cholas and Vijayanagara",
+    "body": "The medieval Cholas conquered Kongu Nadu in the 10th century. The Vijayanagara Empire followed, then the Nayaks, who split the region into 24 Palayams.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1791",
+    "title": "The siege",
+    "body": "During the Third Anglo-Mysore War, Mysore forces besieged a British and Travancorean garrison in the fort here. The garrison surrendered on 2 November, and Tipu Sultan broke the terms and held its officers prisoner.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1892",
+    "title": "Victoria Town Hall",
+    "body": "A neoclassical town hall named after Queen Victoria went up in the city centre. The whole Townhall area is named after it, and it's now the seat of the Municipal Corporation.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Manchester of the South",
+    "body": "Coimbatore is now Tamil Nadu's second largest city, built on engineering and motor-pump sets. Its oldest bazaar, Sukrawarpet, still has narrow lanes and vintage buildings.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Ajmir",
+    "detail": "Near Town Hall, Manikundu · Mutton, chicken fry and mutta poriyal",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Krishna Sweets",
+    "detail": "The sweets chain that started in Coimbatore",
+    "status": {
+     "text": "Several branches in town",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Annapoorna",
+    "detail": "Veg chain for idli, dosa, vada and rice meals",
+    "status": {
+     "text": "Several branches in town",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

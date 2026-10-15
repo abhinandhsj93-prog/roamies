@@ -1,0 +1,191 @@
+{
+ "query": "Hampi",
+ "found": "Hampi, Hosapete taluk, Vijayanagara, Karnataka, 583239, India",
+ "lat": 15.3358,
+ "lon": 76.4610201,
+ "fetchedAt": "2026-10-12T18:40:34.184Z",
+ "locality": {
+  "id": "hampi-vijayanagara-karnataka",
+  "name": "Hampi",
+  "area": "Hosapete taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Hampi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/1280px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Hampi",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide_angle_of_Galigopuram_of_Virupaksha_Temple,_Hampi_(04)_(cropped).jpg"
+  },
+  "Vijayanagara": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/View_of_the_Virupaksha_temple_complex_from_Hemakuta_hill.JPG/1280px-View_of_the_Virupaksha_temple_complex_from_Hemakuta_hill.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vijayanagara",
+   "credit": "Photo: Dineshkannambadi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_the_Virupaksha_temple_complex_from_Hemakuta_hill.JPG"
+  },
+  "Virupaksha Temple, Hampi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg/1280px-Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Virupaksha Temple, Hampi",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Complex_of_Virupaksha_Temple,_Hampi_(04).jpg"
+  },
+  "Hampi (town)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Hampi%2C_India%2C_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg/1280px-Hampi%2C_India%2C_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Hampi (town)",
+   "credit": "Photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hampi,_India,_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg"
+  },
+  "Zenana Mahal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Queen%27s_Palace_and_northeast_watch_tower%2C_Hampi.jpg/1280px-Queen%27s_Palace_and_northeast_watch_tower%2C_Hampi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Zenana Mahal",
+   "credit": "Photo: Rohit14400, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen%27s_Palace_and_northeast_watch_tower,_Hampi.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Hampi",
+   "text": "Hampi or Hampe (Kannada: [hɐmpe]), also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the Ramayana and the Puranas of Hinduism as Pampa Devi Tirtha Kshetra. Hampi continues as a religious centre, with the Virupaksha Temple, an active Adi Shankara-linked monastery and various monuments belonging to the old city.\nHampi was the capital of the Vijayanagara (Karnata) Empire from 1336 to 1565 (as Vijayanagara), when it was abandoned. It was a fortified city. Chronicles left by Persian and European travellers, particularly the Portuguese, say that Hampi was a prosperous, wealthy and grand city near the Tungabhadra River, with numerous temples, farms and trading markets. Hampi-Vijayanagara is estimated to be the world's second-largest city by 1500, after Beijing, and probably India's richest at that time, attracting traders from Persia and Portugal. The Vijayanagara Empire was defeated by a coalition of Muslim sultanates; its capital was conquered, pillaged and destroyed by Muslim armies in 1565, after which Hampi...",
+   "url": "https://en.wikipedia.org/wiki/Hampi"
+  },
+  {
+   "title": "Vijayanagara",
+   "text": "Vijayanagara (transl. 'City of Victory') was the capital city of the historic Vijayanagara Empire. Located on the banks of the Tungabhadra River, it spread over a large area and included sites in the Vijayanagara district, the Ballari district, and others around these districts. A part of Vijayanagara ruins known as the Group of Monuments at Hampi has been designated as a UNESCO World Heritage Site.\nHampi, an ancient human settlement mentioned in Hindu texts, houses pre-Vijayanagara temples and monuments. In the early 14th century, the dominant Kakatiyas, Seuna Yadavas, Hoysalas, and the  short-lived Kampili kingdom, who inhabited the Deccan region, were invaded and plundered by armies of Khalji and later Tughlaq dynasties of the Delhi Sultanate.\nVijayanagara was founded from these ruins by the Sangama brothers, who were working as soldiers in the Kampili Kingdom under Kampalidevaraya. The city grew rapidly. The Vijayanagara-centred empire functioned as a barrier to the Muslim sultanates in the north, leading to the reconstruction of Hindu life and scholarship, multi-religious activity, rapid infrastructure improvements, and economic activity. Along with Hinduism, Vijayanagara accepted...",
+   "url": "https://en.wikipedia.org/wiki/Vijayanagara"
+  },
+  {
+   "title": "Virupaksha Temple, Hampi",
+   "text": "The Virūpaksha Temple is located in Hampi in the Vijayanagara district of Karnataka, India, situated on the banks of the river Tungabhadra. Built in the 7th-century, it is dedicated to Virupaksha, a form of Shiva. It is part of the Group of Monuments at Hampi, designated as a UNESCO World Heritage Site. The temple was expanded by Lakkan Dandesha, a nayaka (chieftain) under the ruler Deva Raya II, also known as Prauda Deva Raya of the Vijayanagara Empire.\nThe Virupaksha Temple is the main center of pilgrimage at Hampi, and has been considered a sacred sanctuary over the centuries.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Virupaksha_Temple,_Hampi"
+  },
+  {
+   "title": "Hampi (town)",
+   "text": "Hampe also known as Hampi is a city in the Vijayanagara district in the Indian state of Karnataka. Located along the Tungabhadra River in the eastern and central parts of the state, Hampi is near the city of Hospet. It is famous for hosting the Hampi Group of Monuments with the Virupaksha Temple, a UNESCO World Heritage Site. The city was possibly known as Kishkindha in the Ramayana age.\nHampi is mentioned in Ashokan epigraphy and texts such as the Ramayana and the Puranas of Hinduism as Pampaa Devi Tirtha Kshetra. Hampi was a part of Vijayanagara, the capital of the Hindu Vijayanagara Empire in the 14th-century. It became the centre of economic and administrative activity of the Deccan region kingdom founded in opposition to the Islamic sultanates in South India. After over two centuries of rule, the Empire was defeated and abandoned. Since the 19th century, its ruins have been an important site for archaeologists and historians.",
+   "url": "https://en.wikipedia.org/wiki/Hampi_(town)"
+  },
+  {
+   "title": "Zenana Mahal",
+   "text": "The Zenana Mahal (also known as the Zenana Enclosure) is a palace complex located in the city of Hampi, which was the capital of the Vijayanagara Dynasty.",
+   "url": "https://en.wikipedia.org/wiki/Zenana_Mahal"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Hampi",
+  "text": "Hampi, in the state of Karnataka, India,  is the site of the once-magnificent capital of the Vijayanagara Empire. The ruins are a UNESCO World Heritage site.\n\n\n== See ==\n\nHampi is a visual delight, especially due to its stark contrast from most other places. Rocks are all you see whichever direction you look. Vegetation is visible in the wet months; but again it never dominates the landscape. It is an ideal spot for people who are interested in history and/or nature.\nThere are many sites of interest in and around Hampi. The following list of must-visits is sorted by the number on the map you see in the temples (from 1 to over 80 sites!): 1 to 35 being around Hampi; 40s to 70s in the southern part towards Kamalapura. Most sites are free, but the Vithala temple, the Lotus Mahal (incl. Zanana enclosure and Elephant Stables) as the Archeological museum have a combined ticket (₹600) valid for one day, so you have to plan your journey a bit! For instance, if you rent bicycles and start early in the morning, you can cover the southern temples in the morning, spend the hot hours of midday in the museum and go in the late afternoon to the Vithala temple! And eventually keep all sites closest to Hampi for a second day.\n\n1 Hemakuta Hill temples. 4 (updated Jan 2023)\n2 Virupaksha Temple. 5. Contrary to most other temples, this one is still a sacred place, so you will have to deposit your shoes in the shoe area left of the big entrance gate (putting them in your bag is not accepted if noticed). (updated Jan 2023)\n3 Monolith Bull. 6 (updated Jan 2023)\n4 Matanga Hill. 7. From where you can see the most beautiful sunsets. (updated Jan 2023)\n5 Achyutaraya temple. 8. Built in 1534, it was the last temple executed in the city, before the fall of the fall of Vijayanagara Empire at the Battle of Talikota in the early 1565. (updated Jan 2023)\n6 Vithala Temple. 23. Dedicated to Vithoba, an avatar (incarnation) of the gods Vishnu and Krishna. The famous Stone Chariot is here as well as the Musical Pillars. ₹600 for foreigners (incl. Lotus Mahal and the Archeologic Museum). (updated Jan 2023)\n7 Badavilinga Temple. 30. The largest monolithic linga (Shiva shrine) in Hampi. (updated Jan 2023)\n8 Lakshmi Narasimha temple. 31 (updated Jan 2023)\n9 Zanana Enclosure. 46. Also houses the Lotus Mahal and the Elephant Stables. ₹600 for foreigners (incl. Vithala temple and the Archeologic Museum). (updated Jan 2023)\n10 Elephant Stables. 55. Part of the Zanana Enclosures included in the entrance fee of Zanana enclosure. (updated Mar 2018)\n11 Hazara Rama Temple. 59 (updated Jan 2023)\n12 Royal Enclosures. 61. Also referred to as the Royal Palace, in this area you'll find the Mahanavmi Dibba, Pushkarani step well and the Queen's bath. (updated Jan 2023)\n13 Mahanavmi Dibba. 62 (updated Jan 2023)\n14 Pushkarani step wells. 66 (updated Jan 2023)\n15 Queen's Bath. 68 (updated Jan 2023)\nAll these places are towards Hampi Bus Stand area and you don't need to cross river.\nYou can buy a local map for ₹15, and cover all the places on your own taking a bike/Scooty on rent. Otherwise, you can hire an auto to do local sightseeing. It would cost you around ₹400-500.\n\nTungabhadra Dam, 16 km from Hampi and its associated gardens are nice. It has got a nice dancing fountain too. Visiting the Tungabhadra Dam can be a nice filler instead of just waiting for the bus/train (typically at 10/11PM at night). Auto-rickshaw can go directly from Hampi to Tungabhadra dam at a cost of ₹200 (as of 2009). Aanother option is to take a bus from the gate for ₹20 per person for a half an hour visit to the dam. If you have plans to catch your train/bus back from Hospet, you could see Tungbhadra dam and return from Hospet. It takes 45 to 60 min to see Tungbhadra dam. You need to park your vehicles at the entrance and take a government bus to the top and return. It costs ₹20 return.\n\nThere are several \"Shivalings\" along the river which the boatman will guide you to. The old capital called Anegundi, across the river from Hampi, also has many sites. You can also go to Anegundi from Virupapur Gadde by road. There is a road alongside the old broken bridge (Bukka's Aqueduct). The Hanuman Temple on Anjenaya Hill (involves climbing up 572 steps, is believed to be the birthplace of Hanuman) and the Pampa Sarovar are worth a visit. Both of these places are around 7-8 km from the Old broken bridge.\nThere is Daroji bear sanctuary around 16 km from Hampi, opposite side of Kamalapura/Hospet. It opens between 1PM to 6PM. Not a must see but you can go there for a nice drive or ride if you have some time to kill.\nTo do justice to all the sites, one needs a minimum of 3 full days of sightseeing. To discover all the ruins, it may take much more than 3 days. Maybe months.\nA new feature introduced by the tourist department of Karnataka called the Hampi By Night is magnificent where in the monuments are lit in bright varying colours in the night. For more information, contact the tourism department of Karnataka.\nHampi specifically is a small settlement on the river (Hampi Bazaar, Virupaksha Temple, etc.). The old city of Vijayanagara encompassed an area of 25 km² and ruins, monuments, structures, etc. lie scattered across the area. In fact, when arriving at Hampi from Hospet, one will pass many of these things.\nIf one sets base at Hampi Bazaar, one can get a manageable, navigable orientation of the entire area, one can look at four main zones.\n\n Anegundi (north-east of Hampi Bazaar). Crossing the river to the north and heading east, one can reach Anegundi whose history goes back, according to local legends, to the Ramayana (the Hindu epic). \n Hampi Bazaar (Hampi Bus Stand). This is the main village of Hampi as defined on the map and on the local administration files. It is essentially two clumps of settlements on either side of the Virupaksha Temple. Within walking distance is the river and the structures along the river bank, Virupaksha Temple, a still in use sacred area, at the western end of the Hampi Bazaar, the Hampi Bazaar itself which is one long \"main street\" (now in ruins) running east-west and the Hemakunta hill (with a number of structures on it and under it). \n The Royal Enclosure (Old City Citadel) (4 km south of Hampi Bazaar). This, according to the official ASI literature, was the center of the city, the downtown. There is the Mahanavami Dibba, a large platform, almost three stories tall, which gives a brilliant view of the country side. This platform was used as a base for various religious functions involving the royal family with the general population standing down. Apart from this, there is a stepped well, an underground shrine, lots of smaller platforms (meant for assembly and public meetings), etc. There is the Hazaar Rama temple on one side and the Queen's bath on the other side. A little further away from the central area of the Royal Enclosure is the Pan Supari Bazaar (opposite the Hazaar Rama temple). \n The Sacred Enclosure (Towards the Vithala Temple) (1.75 km east of Hampi Bazaar). At the eastern end of the Hampi Bazaar, there are two paths. One goes up the hill while the other goes left towards the river. Either path takes you through lines of temples, extant and in ruins. If one takes the hill path, on the right is the Matanga, Elephant hill. Going up straight, one will see the Achyutarama Temple. This can also be reached by following the stone path along the river bank. Next to the Achyutarama Temple is a long market area called Courtesan's Street. Apparently, it was a market for jewels, precious stones, etc. Walking further along the river, one passes various small structures, essentially different temples. One kilometre or so from the Courtesan's Street is the majestic Vithala Temple inside which is the iconic Stone Chariot. This trail can be done by a mix of walking and cycling. There are rocks (with steps cut into the rocks) to climb so at some point the cycles will have to be left behind. The Vithala Temple can be reached by road as well. It is a winding route and requires a detour to Kamalapur. \nApart from all this, between Hospet and Hampi, there are a number of small towns and villages like Kamalapur, and Kadirampura, which are various parts of the old Vijayanagara city and which have now become fragmented settlements and small towns.\n\n16 Sanapur Lake. Exploring the hidden gems in the Gangavathi taluk, Sanapur Lake is a reservoir fed by Tungabhadra Dam canal. The unique thing about this place is experiencing the boat ride in a huge round, wooden bowl called Coracle. The Coracle gives a little adventurous feel. For a short ride it's usually ₹150 and for a long ride, it's ₹200 per person. (updated Jan 2023)\n\n\n== Do ==\n\n\n=== Bouldering & sport climbing ===\nSince more than 30 years, rock climbers from all over flock to Hampi to scale the boulders and can often be seen around with their crash pads. Since bouldering was banned in Hampi proper, the scene is now gathered on the Virupapura Gadde sid",
+  "url": "https://en.wikivoyage.org/wiki/Hampi"
+ },
+ "sights": [
+  {
+   "name": "100-columned hall",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 15.3348408,
+   "lon": 76.4593131
+  },
+  {
+   "name": "Gopura",
+   "kind": "building",
+   "walkMinutes": 3,
+   "lat": 15.3351175,
+   "lon": 76.459217
+  },
+  {
+   "name": "Parameshwara Temple",
+   "kind": "ruins",
+   "walkMinutes": 4,
+   "lat": 15.3355299,
+   "lon": 76.4587842
+  },
+  {
+   "name": "Shankeshwara temple",
+   "kind": "ruins",
+   "walkMinutes": 4,
+   "lat": 15.3354454,
+   "lon": 76.4587829
+  },
+  {
+   "name": "Durga Temple",
+   "kind": "ruins",
+   "walkMinutes": 4,
+   "lat": 15.3356624,
+   "lon": 76.4587381
+  },
+  {
+   "name": "Temple Complex",
+   "kind": "place_of_worship",
+   "openingHours": "Mo-Su 06:00-13:00, 14:00-20:30",
+   "walkMinutes": 4,
+   "lat": 15.3350176,
+   "lon": 76.4591495
+  },
+  {
+   "name": "Virupaksha Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 15.3351712,
+   "lon": 76.4586822
+  },
+  {
+   "name": "Vara Durgadevi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 15.3353666,
+   "lon": 76.4586399
+  },
+  {
+   "name": "4 Pillar Structure",
+   "kind": "ruins",
+   "walkMinutes": 4,
+   "lat": 15.3341071,
+   "lon": 76.4597561
+  },
+  {
+   "name": "Kadalekalu Ganesha",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 15.3328544,
+   "lon": 76.4611581
+  },
+  {
+   "name": "Ragalingeshwara Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 15.3338812,
+   "lon": 76.4588017
+  },
+  {
+   "name": "Trikuta Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 15.3339436,
+   "lon": 76.4592518
+  },
+  {
+   "name": "Harihara Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 15.3329247,
+   "lon": 76.4607516
+  },
+  {
+   "name": "Sunset Point",
+   "kind": "viewpoint",
+   "walkMinutes": 6,
+   "lat": 15.3326761,
+   "lon": 76.4594093
+  },
+  {
+   "name": "Temple Elephant Bathing",
+   "kind": "attraction",
+   "openingHours": "08:00-08:30",
+   "walkMinutes": 6,
+   "lat": 15.3369688,
+   "lon": 76.4579636
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

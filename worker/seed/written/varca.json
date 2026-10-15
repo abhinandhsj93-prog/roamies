@@ -1,0 +1,77 @@
+{
+ "query": "Varca",
+ "region": "goa",
+ "name": "Varca",
+ "draft": {
+  "briefing": "Hey, you're in Varca! The row of wooden fishing boats you see lined up on its beach belongs to the local Christian fishing community.",
+  "hungryLine": "With the fishing boats pulled up right on the beach, this is a place for fresh fish.",
+  "moodReplies": {
+   "show-me-around": "Varca Church is a 2 min walk, and Our Lady of Piety is about 17 min away.",
+   "somewhere-to-chill": "Walk down to the beach Varca is known for and watch the wooden fishing boats.",
+   "surprise-me": "Most men in Varca work as seafarers or in the Gulf, especially Kuwait, the UAE and Bahrain."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Varca Church",
+     "detail": "2 min walk · Our Lady of Gloria, one of the oldest buildings in Varca",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Our Lady of Piety",
+     "detail": "17 min walk · Another place of worship in the village",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly at church.",
+    "body": "Our Lady of Gloria is still in use, with locals and visitors attending its services."
+   },
+   {
+    "icon": "tag",
+    "title": "Visit Ashvek Vintage World.",
+    "body": "At Nuvem in Salcete, this collection restores and keeps old cars like Mercedes Benz, Peugeot, Morris and Volkswagen."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Orlim's converts",
+    "body": "The people of nearby Orlim, made up of five clans of the Chardos, were the first of their caste in Salcete to convert to Christianity.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Old days",
+    "title": "Our Lady of Gloria",
+    "body": "The Our Lady of Gloria church is considered one of the oldest buildings in Varca. St Mary's High School next to it is run by the church.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "2001",
+    "title": "A small town",
+    "body": "The 2001 census counted 4,859 people in Varca, mostly Catholics and Hindus.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Seafarers and fishers",
+    "body": "The population is now about 25,000. Many men work at sea or in the Gulf, while the fishing boats still line the beach.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

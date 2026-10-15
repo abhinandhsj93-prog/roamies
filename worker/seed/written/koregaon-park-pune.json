@@ -1,0 +1,103 @@
+{
+ "query": "Koregaon Park, Pune",
+ "region": "maharashtra",
+ "name": "Koregaon Park",
+ "draft": {
+  "briefing": "Hey, you're at Koregaon Park! Once known as Koregaon Road Estate, it's a green residential pocket that people now call Pune's Restaurant Suburb, playing the role Bandra plays for Mumbai.",
+  "hungryLine": "You're in the right place to eat, North Main Road alone has more than 50 restaurants doing everything from Italian and Thai to local Indian food.",
+  "moodReplies": {
+   "show-me-around": "Bund Garden and the old Fitzgerald Bridge are both under 20 minutes on foot, and the Pune Tribal Museum is about 18 minutes away.",
+   "somewhere-to-chill": "Walk to Bund Garden by the Mula river, it's named after the bandh, or dam, right there.",
+   "surprise-me": "The National War Memorial Southern Command nearby is the only war memorial in South Asia built with contributions from citizens."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Fitzgerald Bridge",
+     "detail": "19 min walk · Pune's first spandrel arch bridge, from 1867, with a Medici lion at each end",
+     "status": {
+      "text": "Closed to cars, open to walkers",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Bund Garden",
+     "detail": "18 min walk · A riverside garden next to Fitzgerald Bridge",
+     "status": {
+      "text": "Nice in the evening",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Pune Tribal Museum",
+     "detail": "18 min walk · Displays on the culture of Maharashtra's tribes",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come hungry in the evening.",
+    "body": "Most Pune restaurants keep similar hours, and the bars here in Koregaon Park stay open till at least midnight."
+   },
+   {
+    "icon": "tag",
+    "title": "Go to ABC Farms if you can't decide.",
+    "body": "It has many restaurants in one place, so everyone in your group finds something."
+   }
+  ],
+  "story": [
+   {
+    "era": "1867",
+    "title": "A bridge over the Mula-Mutha",
+    "body": "Captain Robert S. Sellon of the Royal Engineers built the Fitzgerald Bridge, named for the then Governor of Bombay. It linked Bund Garden to the Chima garden.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1868",
+    "title": "Rowing on the river",
+    "body": "The Royal Connaught Boat Club was founded just upstream, with a boathouse and slipway on the Mula-Mutha. It sits just below where the Mula and Mutha rivers meet.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1942 to 1945",
+    "title": "Gandhi at the Aga Khan Palace",
+    "body": "In nearby Kalyani Nagar, Mahatma Gandhi was imprisoned at the Aga Khan Palace. His wife Kasturba Gandhi died there.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1962 to 1998",
+    "title": "Museums and memorials",
+    "body": "The Pune Tribal Museum was set up in 1962 and opened its displays in 1965. In 1998 the National War Memorial Southern Command was unveiled, with a Kargil-era MiG-23BN on show.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Restaurant Suburb",
+    "body": "Koregaon Park is turning from leafy homes into a dining and nightlife hub, with art galleries and live music bars. The Pune Metro Aqua Line reached Bund Garden in 2024.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "ABC Farms",
+    "detail": "Lots of restaurants in one spot, good when the group can't agree",
+    "status": {
+     "text": "Best for dinner",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

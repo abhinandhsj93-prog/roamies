@@ -1,0 +1,235 @@
+{
+ "query": "Aranmula, Pathanamthitta",
+ "found": "Aranmula, Kozhenchery, Pathanamthitta, Kerala, 689533, India",
+ "lat": 9.32681,
+ "lon": 76.6856956,
+ "fetchedAt": "2026-10-12T17:41:26.776Z",
+ "locality": {
+  "id": "aranmula-pathanamthitta-kerala",
+  "name": "Aranmula",
+  "area": "Kozhencherry, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Aranmula": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aranmula_Temple.JPG/1280px-Aranmula_Temple.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aranmula",
+   "credit": "Photo: Sudhirn, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aranmula_Temple.JPG"
+  },
+  "Maramon": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/MaramonMarthomaChurch.jpg/1280px-MaramonMarthomaChurch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Maramon",
+   "credit": "Photo: Binu Mathew, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MaramonMarthomaChurch.jpg"
+  },
+  "Aranmula Boat Race": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kerala_boatrace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Aranmula Boat Race",
+   "credit": "Photo: Arun Sinha from India, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerala_boatrace.jpg"
+  },
+  "Maramon Convention": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Maramon_speech.JPG/1280px-Maramon_speech.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Maramon Convention",
+   "credit": "Photo: Noblevmy at Malayalam Wikipedia, CC BY-SA 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maramon_speech.JPG"
+  },
+  "Aranmula Parthasarathy Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aranmula_Temple.JPG/1280px-Aranmula_Temple.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aranmula Parthasarathy Temple",
+   "credit": "Photo: Sudhirn, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aranmula_Temple.JPG"
+  },
+  "Neervilakom": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Neervilakom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Neervilakom",
+   "credit": "Photo: Ajirajem, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neervilakom.jpg"
+  },
+  "Aranmula Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Aranmula_mirror_high_quality_bronze_mirror.jpg/1280px-Aranmula_mirror_high_quality_bronze_mirror.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aranmula Assembly constituency",
+   "credit": "Photo: rajaraman sundaram, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aranmula_mirror_high_quality_bronze_mirror.jpg"
+  },
+  "Aranmula Mangattu Palace": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Mangattu_Palace_%28%E0%B4%AE%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D_%E0%B4%95%E0%B5%8A%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BE%E0%B4%B0%E0%B4%82%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Aranmula Mangattu Palace",
+   "credit": "Photo: Arjunvishnu2000, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mangattu_Palace_(%E0%B4%AE%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D_%E0%B4%95%E0%B5%8A%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BE%E0%B4%B0%E0%B4%82).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Aranmula",
+   "text": "Aranmula is a temple town located in Pathanamthitta district in Kerala, India.\n\n\n== Temples ==\nThe Aranmula Parthasarathy Temple is one of the major temples in Kerala and has a great antiquity. It is one of the venerated 108 Vaishnava temples in India and finds mention in Tamil classics. Spread over a vast area, the temple is on the banks of the Pampa and the whole temple complex is at a high elevation. Main idol is of Lord Krishna, who is the charioteer of warrior Arjuna in Kurukshetra War. The temple has a flight of 18 steps that lead to the Eastern Tower while 57 descending steps from the Northern tower reaches the Pampa. The temple here has fine murals from the 18th century.\"Thanka Anki\", the golden ornaments of Lord Ayyappa at Sabarimala is kept in Aranmula sri parthasarathy temple.\n\n\n== Aranmula Panchayat ==\nShija T Toji was the president of the panchayat while N S Kumar was the vice-president from 2020 to 2025. The new president and vice-president will take charge following election in December 2025.\n\n\n== Environmental Movements ==\nThe Ministry of Civil Aviation of the Government of India has issued a letter dated 25 May 2015 withdrawing the 'in-principle' approval to the proposed...",
+   "url": "https://en.wikipedia.org/wiki/Aranmula"
+  },
+  {
+   "title": "Maramon",
+   "text": "Maramon is a small village on the Pampa River in Thiruvalla taluk & Thiruvalla Revenue Division of Pathanamthitta district in the state of Kerala, India.",
+   "url": "https://en.wikipedia.org/wiki/Maramon"
+  },
+  {
+   "title": "Aranmula Boat Race",
+   "text": "The Aranmula Boat Race the oldest river boat festival in Kerala, the south western State of India is held during Onam (August–September). It takes place at Aranmula, near Sri Parthasarady Temple dedicated to Lord Krishna and Arjuna in Pathanamthitta district of Kerala State. The snake boats move in pairs to the rhythm of full-throated singing and shouting watched by an exciting crowd.",
+   "url": "https://en.wikipedia.org/wiki/Aranmula_Boat_Race"
+  },
+  {
+   "title": "Maramon Convention",
+   "text": "The  Maramon Convention, is the largest Christian convention in Asia,  held at Maramon, Kozhencherry, Pathanamthitta, Kerala, India annually in February on the vast sand-bed of the Pampa River next to the Kozhencherry Bridge. It is organised by Mar Thoma Evangelistic Association, the missionary wing of the Malankara Mar Thoma Syrian Church.\nThe origin and growth of this annual get-together for one week at a stretch can be traced to the great revival movement which gathered momentum during the reformation period in the Syrian Churches of Kerala under the pioneering leadership of Abraham Malpan in the latter part of the 19th century. This brought about the transformation in resurgence of the ancient apostolic Churches in Kerala founded by St. Thomas the Apostle approximately in AD 52.",
+   "url": "https://en.wikipedia.org/wiki/Maramon_Convention"
+  },
+  {
+   "title": "Aranmula Parthasarathy Temple",
+   "text": "The Aranmula Parthasarathy Temple is a Hindu temple located in Aranmula, a village in Pathanamthitta District, Kerala, South India, on the southern bank of Pamba river, the third longest river in Kerala. It is dedicated to the Lord Krishna, who is worshipped as Parthasarathy (Arjuna's charioteer). Constructed in the Kerala style of architecture, it is one of the \"Divya Desams\", the 108 temples of Vishnu revered by the Alvar saints.\nIt is one of the most important Krishna temples in Kerala and is one of the five ancient shrines in Kerala, connected with the legend of the Mahabharata, where the five Pandavas are believed to have built one temple each; Aranmula is built by the Pandava prince Arjuna.\nThe sacred jewels, called Thiruvabharanam of Ayyappan are taken in procession to Sabarimala each year from Pandalam, and Aranmula Temple is one of the stops on the way. Also, the Thanka Anki, golden attire of Ayyappan, donated by the king of Travancore, is stored here and taken to Sabarimala during the Mandala season of late December.\nAranmula is also known for snake boat race held every year during Onam linked to the legends of the Mahabharata. The temple has four towers over its entrances...",
+   "url": "https://en.wikipedia.org/wiki/Aranmula_Parthasarathy_Temple"
+  },
+  {
+   "title": "Mallappuzhassery",
+   "text": "Mallappuzhassery is a village situated in Kozhencherry taluk of  Pathanamthitta district in Kerala, India. Its border starts in the middle of the temple grounds running north–south: the eastern part is Mallappuzhassery and the western part is Edasserimala. Edasserimala is part of Aranmula Panchayath and Mallappuzhassery is of Mallappuzhassery Panchayath. The northern border of the village is the Pamba River.",
+   "url": "https://en.wikipedia.org/wiki/Mallappuzhassery"
+  },
+  {
+   "title": "Kozhippalam",
+   "text": "Kozhippalam is a village near Aranmula in the Pathanamthitta district of Kerala, India. It lies on the bank of the Pamba river, about 1 kilometre (0.62 mi) from Aranmula on the Chengannur–Kozhencherry road, along the route used for the annual Aranmula Boat Race. In 2018, floods on the Pamba exposed a terracotta archaeological site on the riverbank at the village.",
+   "url": "https://en.wikipedia.org/wiki/Kozhippalam"
+  },
+  {
+   "title": "Thottapuzhassery",
+   "text": "Thottapuzhassery is a village in Thiruvalla taluk, Pathanamthitta district in Kerala, India. It is situated opposite Aranmula.",
+   "url": "https://en.wikipedia.org/wiki/Thottapuzhassery"
+  },
+  {
+   "title": "Neervilakom",
+   "text": "Neervilakom (or alternatively spelled as Neervilakam, Neervilakem, Nirvilakam, Nirvilakom, and Nirvilakem), is a remote village situated 7 km (4 mi) away from Aranmula and 5 km (3 mi) from Chengannur. Neervilakom serves as a suburb of Aranmula panchayath, located in the far western region of the Pathanamthitta district in the state of Kerala, South India. It marks the geographical boundary between Alappuzha and Pathanamthitta districts. Neervilakom shares its borders with neighbouring villages such as Malakkara and Arattupuzha to the north, Puthencavu and Piralassery to the west, Kurichumuttam to the east, and Ezikkadu and a portion of Piraliassery to the south. Neervilakom is known for the Bangalore Road Viewpoint.",
+   "url": "https://en.wikipedia.org/wiki/Neervilakom"
+  },
+  {
+   "title": "Aranmula Puncha",
+   "text": "Aranmula Puncha is the vast Paddy fields in Aranmula with an area of approximately 5.36 km2.\nAs part of Haritha Keralam programme, Government of Kerala relaunched cultivation in Aranmula Puncha in November 2016 following the abandonment of the Aranmula Airport project.\nIn February 2017, Government conducted a Harvest festival and launched Aranmula Rice brand at the function.",
+   "url": "https://en.wikipedia.org/wiki/Aranmula_Puncha"
+  },
+  {
+   "title": "Aranmula Assembly constituency",
+   "text": "Aranmula State assembly constituency is one of the 140 state legislative assembly constituencies in Kerala in southern India. It is also one of the seven state legislative assembly constituencies included in Pathanamthitta Lok Sabha constituency. As of the 2026 assembly elections, the current MLA is Adv Abin Varkey of the Indian National Congress.",
+   "url": "https://en.wikipedia.org/wiki/Aranmula_Assembly_constituency"
+  },
+  {
+   "title": "Aranmula Mangattu Palace",
+   "text": "Aranmula Mangattu Palace (Malayalam: ആറന്മുള മങ്ങാട്ട് കൊട്ടാരം) , locally known as Aranmula Kottaram, is a historic royal palace situated in Kerala, India. Built over a century ago, the palace holds cultural and historical significance. It is closely linked with the ceremonial traditions of the region, particularly those centered around historical and religious practices. The current royal families of Aranmula Palace continue to reside there, maintaining its legacy and connection to the region's heritage.",
+   "url": "https://en.wikipedia.org/wiki/Aranmula_Mangattu_Palace"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Aranmula",
+  "text": "Aranmula is a city in Kerala in India.\n\n\n== See ==\n Aranmula Valamkali. During Onam. \n Vijnana Kala Vedi (on the way to Kozhencherry). A school of traditional art founded by French artist Louba Schild.  It imparts training in the traditional arts like Kathakali, classical dances, classical music, as well as Kalaripayattu. \n\n\n== Do ==\n\n\n== Eat ==\nAranmula Valla Sadhya, a feast served at Aranmula temple mainly during Onam season.\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Aranmula"
+ },
+ "sights": [
+  {
+   "name": "Aranmula Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 9.3280449,
+   "lon": 76.6877746
+  },
+  {
+   "name": "Dheera Javan Smarakam",
+   "kind": "monument",
+   "walkMinutes": 5,
+   "lat": 9.3276809,
+   "lon": 76.6829223
+  },
+  {
+   "name": "Kadakal DeviKshetram",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 9.3274396,
+   "lon": 76.6812992
+  },
+  {
+   "name": "Kadakkal Devi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 9.3276375,
+   "lon": 76.6807151
+  },
+  {
+   "name": "Managattu palace",
+   "kind": "castle",
+   "walkMinutes": 9,
+   "lat": 9.3289496,
+   "lon": 76.6900308
+  },
+  {
+   "name": "Moorthitta Ganapathy Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 9.3282151,
+   "lon": 76.6909236
+  },
+  {
+   "name": "Moorthitta Ganapathi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 9.3282301,
+   "lon": 76.6909409
+  },
+  {
+   "name": "Kurumilakavu Devi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 9.3299718,
+   "lon": 76.6911131
+  },
+  {
+   "name": "Aranmula Parthasarathy Temple",
+   "kind": "attraction",
+   "openingHours": "5:00 AM - 9:00 PM",
+   "walkMinutes": 12,
+   "lat": 9.3333,
+   "lon": 76.6833
+  },
+  {
+   "name": "Aranmula Boat Race",
+   "kind": "attraction",
+   "openingHours": "8:00 AM - 6:00 PM",
+   "walkMinutes": 12,
+   "lat": 9.3333,
+   "lon": 76.6833
+  },
+  {
+   "name": "Poozikunnu devi temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 9.3316906,
+   "lon": 76.6805567
+  },
+  {
+   "name": "St. Thomas church Aranmula",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 9.3189515,
+   "lon": 76.6842821
+  },
+  {
+   "name": "Maramon Marthamariyam Orthodox Pazhaya Suriyani Pally",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 9.3343722,
+   "lon": 76.6924048
+  },
+  {
+   "name": "Maramon Marthoma Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 9.3348144,
+   "lon": 76.6920311
+  }
+ ],
+ "food": [],
+ "errors": []
+}

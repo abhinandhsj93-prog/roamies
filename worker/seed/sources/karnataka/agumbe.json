@@ -1,0 +1,56 @@
+{
+ "query": "Agumbe",
+ "found": "Agumbe, Tirthahalli taluk, Shimoga, Karnataka, 577411, India",
+ "lat": 13.5084827,
+ "lon": 75.0962575,
+ "fetchedAt": "2026-10-12T18:34:17.249Z",
+ "locality": {
+  "id": "agumbe-shimoga-karnataka",
+  "name": "Agumbe",
+  "area": "Tirthahalli taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Agumbe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Agumbe_View_point.jpg/1280px-Agumbe_View_point.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Agumbe",
+   "credit": "Photo: Shashidhara halady, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agumbe_View_point.jpg"
+  },
+  "Agumbe Rainforest Research Station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Agumbe_Rainforest_Research_Station.jpg/1280px-Agumbe_Rainforest_Research_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Agumbe Rainforest Research Station",
+   "credit": "Photo: Vaikoovery, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agumbe_Rainforest_Research_Station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Agumbe",
+   "text": "Agumbe is a village situated in the Thirthahalli taluka of Shivamogga district, Karnataka, India. It is nestled in the thickly forested Malenadu region of the Western Ghats mountain range. Owing to its high rainfall, it has received the epithet of \"The Cherrapunji of South India\", after Cherrapunji, one of the rainiest places in India.\nAgumbe is associated with rainforest conservation efforts, documentation of medicinal plants, tourism (trekking and photography), and the promotion of cottage industry. The Agumbe Rainforest Research Station was established as a sanctuary for the king cobra, Agumbe's flagship species.\n\n\n== Location ==\nAgumbe in Shivamogga district lies on the south-western coast of India, approximately 98 km (61 mi) north-east of Mangaluru and 357 km (222 mi) north-west of Bengaluru, the state capital of Karnataka in Southern India. It is approximately 24 km (15 mi) from Shringeri and 55 km (34 mi) from the Arabian Sea. The coastal town of Udupi hosts the nearest major railway station approximately 50 km (31 mi). The nearest airport is at Bajpe near Mangaluru which lies at a distance of approximately 94 km (58 mi). The elevation of Agumbe is 660 m (2,165 ft) above mean...",
+   "url": "https://en.wikipedia.org/wiki/Agumbe"
+  },
+  {
+   "title": "Agumbe Rainforest Research Station",
+   "text": "The Agumbe Rainforest Research Station (ARRS) is a field based conservation and research organisation situated inside the Agumbe Reserved Forest at Agumbe in the central Western Ghats of southern India.  The  Agumbe Reserved Forests receives an annual rainfall in excess of 7,000 mm (280 in) and is at an elevation of about 823 m (2,700 ft) above sea level. It forms a part of the Malnad-Kodagu corridor, which also includes the Someshwara, Mookambika, Bhadra, and Sharavati Wildlife Sanctuaries, Kudremukh National Park, and various other forest tracts and reserve forests around Kundapur, Shankaranarayana, Hosanagara, Sringeri, and Thirthahalli.",
+   "url": "https://en.wikipedia.org/wiki/Agumbe_Rainforest_Research_Station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Agumbe",
+  "text": "Agumbe is a small village in Central Karnataka. Agumbe is well known for two things. Firstly, it records the highest rainfall in Southern India. And secondly, for its scenic outlook and Sunset view point.\n\n\n== See ==\nAgumbe is well known for its scenic beauty and rain forest with many beautiful falls. The sunset view point is famous place and on a clear day one can view sun setting in Arabian sea from a view point 826 M(2710 ft) above sea level.\nBarkana Falls\nBarkana Falls is the 10th highest waterfall in India with a height of 850 ft/259 mts. It is formed by the Seeta River.\n\nOnake Abbi Falls\nThis is another waterfall near Agumbe. In the Kannada language, \"Onake\" means a pounding stick which is used to pound grains in villages.\nJogigundi\nThis is a small water fall which is very near to Agumbe, it takes about 10 to 15 min to reach this place.\nKoodlu theertha falls\nA beautiful waterfall just 20 km from Agumbe, includes a Trek of 3-4 km and you will reach the most beautiful falls in the entire state.\n\n\n== Do ==\nAgumbe being part of the western ghats offers some good places for hiking/trekking with scenic beauty around. One can visit any of falls around or go for trekking in the nearby hills.\n\n1 Kundadri, Agumbe,Thirthahalli (On the way to agumbe from thirthahalli). Kundadri is a hill station and a good place for trekking. At the top one can see a Jain temple. \n\n\n== Eat ==\nAgumbe is a small place and may not get much option to eat. However one can eat local food and drink tea/coffee at bus stand hotel and also at Hotel Sri Ganesh on the main road that connect to Shimoga and Udupi. Don't forget to visit small tea stall (popularly known as Bhattara tea) near to checkpost. The speciality of the stall is vanilla flavoured tea and hot vadas.\n\n\n== Drink ==\nIt is better to stock up beforehand\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Agumbe"
+ },
+ "sights": [
+  {
+   "name": "Agumbe Rainforest Research Station",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 13.5181141,
+   "lon": 75.0888169
+  }
+ ],
+ "food": [],
+ "errors": []
+}

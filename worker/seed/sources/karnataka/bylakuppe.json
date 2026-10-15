@@ -1,0 +1,45 @@
+{
+ "query": "Bylakuppe",
+ "found": "Bylakuppe, Piriyapattana taluk, Mysuru District, Karnataka, 571104, India",
+ "lat": 12.4292508,
+ "lon": 75.9953435,
+ "fetchedAt": "2026-10-12T18:32:14.580Z",
+ "locality": {
+  "id": "bylakuppe-mysuru-district-karnataka",
+  "name": "Bylakuppe",
+  "area": "Piriyapattana taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Bylakuppe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Bylakuppe._Mysore_%285%29.jpg/1280px-Bylakuppe._Mysore_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bylakuppe",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bylakuppe._Mysore_(5).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Bylakuppe",
+   "text": "Bylakuppe is a region in Karnataka which is home to the Indian town Bylakuppe and several Tibetan settlements, established by Lugsum Samdupling (in 1961) and Dickyi Larsoe (in 1969). It is located in Periyapatna Taluk of Mysore district in the Indian state of Karnataka.\nThere are a number of monasteries and temples representing the major Tibetan Buddhist traditions, including the large educational monastic institution Sera Monastery, the smaller Tashi Lhunpo Monastery (both in the Gelug tradition) and Namdroling Monastery (in the Nyingma tradition). It also has Buddhist universities for advanced Buddhist practices.\n\n\n== History ==\nIn 1960, the Government of Mysore (as Karnataka was called at that time) allotted nearly 3,000 acres (12 km2) of land at Bylakuppe in Mysore district in Karnataka and the first ever Tibetan exile settlement, Lugsung Samdupling was established in 1961.\n\n\n== Population ==\nThe town is mainly inhabited by Tibetans who, according to a demographic survey carried out by the Central Tibetan Administration's Planning Commission in 1998, accounted for 50,727 individuals at that time.\n\n\n== Image gallery ==\n\n\n== Climate ==\nThe Köppen-Geiger climate classification system classifies...",
+   "url": "https://en.wikipedia.org/wiki/Bylakuppe"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bylakuppe",
+  "text": "Bylakuppe, often called Indian Tibet, is a small town located in the west of Mysore district. Twin town Kushalanagar is 6 km away.\n\n\n== See ==\n Namdroling Monastery. Is located at 4th camps, and with around 3,000 monks is the largest Nyingma monastery outside of Tibet. Nyingma Monastry is also known as Golden Temple; this name was given by the tourists. It is especially famous for its three copper and gold plated statues of Buddha (one 60 Ft. high and the other two 58 Ft. high) located in the Golden Temple. In accordance with the Vajrayana Buddhist tradition, sacred scriptures and stupas have been placed inside these statues as a means of consectration. This monastery is popular with local Tibetans who attend rituals ceremonies (pujas), and visitors are very welcome to stroll around the monastery grounds and may freely turn the prayer wheels and circumambulate the stupas. According to Tibetan belief, turning prayer wheels disseminates the prayers to the five directions. 'Wind Horses' (lungta), which are flags enscribed with prayers, have the same function. \nSera - This monastic community is comprised of two monasteries, Sera Jey and Sera Mey, and with a combined population of almost 5,000 it is one of the largest Tibetan Buddhist monastic communities outside of Tibet. A \"Welcome to Sera\" booklet (₹15) in available from the shop opposite Siddhartha guesthouse and at the Tibet Network internet café.\n Debate/\"Question answer\" sessions, At Sera the monasteries. These sessions are a great sight to watch. The students have 2 question answer sessions every day, one in the morning at around 9:30 AM, other in the evening. The debates are 1-to-1 and the sight of all the students(pairs of students) debating parallely is really a thing to see, especially the clapping action that the questioning student does. (updated Sep 2016)\n Science center at Sera Jey Monastery (In the Sera Jey Monastic complex). It is an interesting science center if you get somebody to explain it (Search for somebody called Khechok, he manages the science center and is a great person to talk to). This is a great attempt to bridge the said gap between \"modern\" technology and the age old traditions of Buddhism (updated Sep 2016)\n\n\n== Do ==\nPrayer wheels. Those with enough stamina can rotate the prayer wheels that surround the monastery compound. The wheels contain consecrated mantras and prayers, and it is believed that those who turn them in a clockwise direction and with a pure motivation of benefiting others are creating the causes and conditions that will eventually place them in a position where they themselves can help relieve others of their suffering. Although turning the wheels is considered an alternative to chanting mantras, most devotees combine the two activities.\n\n\n== Eat ==\nThere are a few hotels right outside the Namdroling Monastery complex, where one can take in a meal combined with a shopping jaunt as well.\nBeside the restaurants you can also have at the monasteries during the normal meal time of the monks(Breakfast: ~0630, Lunch: ~1130, Dinner: ~1730)\n\nNamdroling Monastery Restaurant This is where monks usually have their meals, and is especially recommended for travelers with light wallets.\n1 Olive Restaurant, Near 3 road junction, Camp 3 (a few hundred metres outside the Namdroling Monastery gate). Has a friendly proprietor who will recommend food suitable for your palate while engaging you in casual conversation. \n Green Land, Near Post office, Kushal Nagar (10 km), ☏ +91 9980735820, +91 8276274445. Kerala style meat and fish dishes. Spacious upstairs section. Fish curry lunchː ₹120. (updated Oct 2016)\n Sera Monastries. Breakfast: 0630, Lunch: 1100, Dinner: 1730. You can have food along with the monks during their normal meal times. (updated Sep 2016)\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bylakuppe"
+ },
+ "sights": [
+  {
+   "name": "Jamiya Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 12.4277128,
+   "lon": 75.9967446
+  }
+ ],
+ "food": [],
+ "errors": []
+}

@@ -1,0 +1,77 @@
+{
+ "query": "Kukke Subramanya",
+ "region": "karnataka",
+ "name": "Kukke Subramanya",
+ "draft": {
+  "briefing": "Hey, you're in Kukke Subramanya! The temple here sits on the banks of the Kumaradhara River, and Kartikeya is worshipped as Subramanya, lord of all serpents. The village itself was originally called Kukke Pattana.",
+  "hungryLine": "This is a temple village, so ask around near the temple for a simple vegetarian meal.",
+  "moodReplies": {
+   "show-me-around": "The Kukke Subramanya Temple is a 12 min walk from here, right on the Kumaradhara River.",
+   "somewhere-to-chill": "Wander down to the banks of the Kumaradhara beside the temple and take a quiet moment by the river.",
+   "surprise-me": "The temple's priests are Shivalli Madhwa Brahmins, and the daily poojas follow Madhvacharya's Tantra Sara Sangraha."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Kukke Subramanya Temple",
+     "detail": "12 min walk · Riverside temple to Subramanya, lord of serpents",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Subramanya",
+     "detail": "1 min walk · The temple village, once known as Kukke Pattana",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kukke Subramanya Temple",
+    "title": "Shelter for the serpents",
+    "body": "The epics say the divine serpent Vasuki and the other serpents took refuge under Subramanya when Garuda threatened them. That's why he's worshipped here as lord of all serpents."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Come by train or road.",
+    "body": "Subramanya is about 105 km from Mangaluru and is connected to it by both train and road."
+   },
+   {
+    "icon": "sun",
+    "title": "Check pooja times locally.",
+    "body": "Daily poojas and rituals run to a set tradition, so ask at the temple what's happening when you arrive."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Kukke Pattana",
+    "body": "The village that grew up around the temple was originally named Kukke Pattana, on the banks of the Kumaradhara River.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Ikkeri Nayaka times",
+    "title": "The Kattemane family",
+    "body": "From the Ikkeri Nayakas period onwards, the Koojugodu Kattemane family served for generations as the temple's chief administrators.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A Madhwa tradition",
+    "body": "Subramanya is now in Kadaba taluk, previously Sullia, and the temple's rituals are performed by Shivalli Madhwa priests.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

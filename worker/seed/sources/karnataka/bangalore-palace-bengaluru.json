@@ -1,0 +1,251 @@
+{
+ "query": "Bangalore Palace, Bengaluru",
+ "found": "Bangalore Palace, Jayamahal Road, Rajamahal, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560006, India",
+ "lat": 12.9985954,
+ "lon": 77.5920086,
+ "fetchedAt": "2026-10-12T18:25:29.141Z",
+ "locality": {
+  "id": "rajamahal-bengaluru-urban-karnataka",
+  "name": "Rajamahal",
+  "area": "Bengaluru, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Sadashivanagar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sankey_Tank_%28Sankey_Lake%29_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Sadashivanagar",
+   "credit": "Photo: Eric Phelps, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sankey_Tank_(Sankey_Lake)_-_panoramio.jpg"
+  },
+  "Shivajinagar, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Commercial_st.jpg/1280px-Commercial_st.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shivajinagar, Bengaluru",
+   "credit": "Photo: Unknown, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commercial_st.jpg"
+  },
+  "Karnataka Chitrakala Parishath": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Citrakala_Parishat.jpg/1280px-Citrakala_Parishat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Karnataka Chitrakala Parishath",
+   "credit": "Photo: Rajesh_dangi (talk) (Uploads), CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citrakala_Parishat.jpg"
+  },
+  "Bengaluru Cantonment railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Bengaluru_Cantonment_railway_station_%28Dec_%2723%29.jpg/1280px-Bengaluru_Cantonment_railway_station_%28Dec_%2723%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bengaluru Cantonment railway station",
+   "credit": "Photo: Sameer2905, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengaluru_Cantonment_railway_station_(Dec_%2723).jpg"
+  },
+  "Cunningham Road": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Grand_Sigma_Mall_front_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Cunningham Road",
+   "credit": "Photo: Eric Phelps, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Sigma_Mall_front_-_panoramio.jpg"
+  },
+  "Jayamahal Palace Hotel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jayamahal_Palace_Hotel_P_20170221_080900_%28cropped%29.jpg/1280px-Jayamahal_Palace_Hotel_P_20170221_080900_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jayamahal Palace Hotel",
+   "credit": "Photo: Sumita Roy Dutta, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jayamahal_Palace_Hotel_P_20170221_080900_(cropped).jpg"
+  },
+  "Gandhi Bhavan, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gandhi_Bhavan_Bangalore.jpg/1280px-Gandhi_Bhavan_Bangalore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gandhi Bhavan, Bengaluru",
+   "credit": "Photo: Shanze1, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandhi_Bhavan_Bangalore.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Sadashivanagar",
+   "text": "Sadashivanagar is an affluent residential neighbourhood in the north western part of Bangalore in the Indian state of Karnataka. It is bounded by Malleshwaram to the west,Vyalikaval and Palace Guttahalli to the south, Palace grounds to the east and  Hebbal to the north. The neighbourhood houses plush homes and mansions of several famous celebrities, businessmen and politicians. It is part of the Bangalore North Lok Sabha constituency and the Malleshwaram.",
+   "url": "https://en.wikipedia.org/wiki/Sadashivanagar"
+  },
+  {
+   "title": "Shivajinagar, Bengaluru",
+   "text": "Shivajinagar, previously known as Blackpally and Tasker Town or Dandu, is a locality in Bengaluru, India located in the Central Business District. It was named after the 17th century Maratha Emperor Shivaji, by Shivaji Nagar two time independent Councillor Sri N R Murthy who was opposition leader, in the Bangalore City Corporation, in the year 1956.",
+   "url": "https://en.wikipedia.org/wiki/Shivajinagar,_Bengaluru"
+  },
+  {
+   "title": "Karnataka Chitrakala Parishath",
+   "text": "Karnataka Chitrakala Parishath is a visual art complex in Bangalore, India. It has 18 galleries, 13 of which have a permanent collection of paintings, sculptures and folk art. The other galleries are rented out for exhibitions. The folk art collection showcases Mysore paintings and leather puppets. The Parishat runs the College of Fine Arts, a visual arts college. Each January it organizes Chitra Santhe, a cultural event showcasing affordable art. The motto of the event is \"Art for All\".",
+   "url": "https://en.wikipedia.org/wiki/Karnataka_Chitrakala_Parishath"
+  },
+  {
+   "title": "Mount Carmel University",
+   "text": "Mount Carmel University (MCU),officially Mount Carmel (Deemed to be University) is a private deemed university in Bengaluru, Karnataka, India. It was established by  Carmelite Sisters of Saint Teresa, Kerala to empower women through education and remained a women's college for over 75 years. In 2021, it admitted male students to postgraduate courses, became fully co-educational in 2024, and was granted deemed university status in 2026.",
+   "url": "https://en.wikipedia.org/wiki/Mount_Carmel_University"
+  },
+  {
+   "title": "Anugraha",
+   "text": "Anugraha is the official residence of the Chief Minister of Karnataka. It is located on Kumarakrupa Road, in its capital city Bangalore, and occupies 60 squares adjacent to the Chief Minister's home office.\nAnugraha is heavily guarded and is considered to be one of the safest homes in Bangalore. There is also a belief that Anugraha has vaastu fault, leading several chief ministers to require renovations to the home before occupying the building.\nThe current occupant of Anugraha is Siddaramaiah.",
+   "url": "https://en.wikipedia.org/wiki/Anugraha"
+  },
+  {
+   "title": "M. P. Birla Institute of Fundamental Research",
+   "text": "The  M. P. Birla Institute of Fundamental Research, is a natural and applied sciences research institute and society headquartered in Kolkata, West Bengal, India. Its director is astrophysicist Dr. G. S. D. Babu.\nThe institute is involved in research in conjunction with the Birla Planetarium, also located in Kolkata, which is one of the world's largest planetariums.\nThe institute has conducted courses in astrobiology for undergraduate students, in which certificates of completion are awarded after course completion.",
+   "url": "https://en.wikipedia.org/wiki/M._P._Birla_Institute_of_Fundamental_Research"
+  },
+  {
+   "title": "Bengaluru Cantonment railway station",
+   "text": "Bengaluru Cantonment railway station, also known as Bengaluru Cant (station code: BNC) is one of the four important railway stations serving the city of Bengaluru and it is located in the locality of Vasanth Nagar and adjoins Fraser Town, Benson Town and Shivajinagar. The Station started operations in 1864, with the launch of the Bengaluru Cantonment – Jolarpettai train services by the Madras Railway. The train line was broad-gauge and 149 km long, connecting the Bengaluru Cantonment with Vellore district.\nA total of 119 passenger trains start/end/pass through Bengaluru Cantonment railway station.\nTotal 499 stations are directly connected to Bengaluru Cantonment railway station via these 269 passenger trains.",
+   "url": "https://en.wikipedia.org/wiki/Bengaluru_Cantonment_railway_station"
+  },
+  {
+   "title": "National Military Memorial",
+   "text": "National Military Memorial (Rashtriya Sainika Smaraka) is a memorial park located in Bengaluru and established by the Government of Karnataka in 2013 to honour the men and families of martyrs who died in the service of the nation.",
+   "url": "https://en.wikipedia.org/wiki/National_Military_Memorial"
+  },
+  {
+   "title": "Cunningham Road",
+   "text": "Cunningham Road is one of the busiest commercial streets of Bangalore, the state capital of Karnataka, India. It is located in the Vasanthnagar area of the city. The road is named after Francis Cunningham, who was an officer in the Madras Army and a member of the Mysore Commission. The road was also called Sampangi Ramaswamy Temple Road for some time.\n1. Sampangi Ramaswamy Temple Road is the present name of Cunningham Road.\n2. The Grand Sigma Mall was demolished recently (1 to 2 years back) to make way for another commercial complex.",
+   "url": "https://en.wikipedia.org/wiki/Cunningham_Road"
+  },
+  {
+   "title": "Jayamahal Palace Hotel",
+   "text": "Jayamahal Palace was earlier known as Arni Hall and originally owned by the Jagirdar of Arni in Tamil Nadu around 1892. \nJayamahal Palace Hotel is a 4-star heritage luxury hotel.",
+   "url": "https://en.wikipedia.org/wiki/Jayamahal_Palace_Hotel"
+  },
+  {
+   "title": "Gandhi Bhavan, Bengaluru",
+   "text": "Gandhi Bhavan is a museum dedicated to Mahatma Gandhi situated in Bengaluru, Karnataka. It was inaugurated in 1965 by then President of India Dr. S. Radhakrishnan. The museum consists of a gallery with rare photographs of Mahatma Gandhi and letters written by him, a library and an auditorium. It serves as a venue for meetings organised on Gandhian values in Bengaluru.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Gandhi_Bhavan,_Bengaluru"
+  },
+  {
+   "title": "Jayamahal Assembly constituency",
+   "text": "Jayamahal Assembly constituency was one of the 224 constituencies in the Karnataka Legislative Assembly of Karnataka a south state of India. It was a part of Bangalore North Lok Sabha constituency. It was replaced by Hebbal Assembly constituency in the 2008 delimitation.",
+   "url": "https://en.wikipedia.org/wiki/Jayamahal_Assembly_constituency"
+  },
+  {
+   "title": "Devara Jeevanahalli",
+   "text": "Devara Jeevanahalli (or spelled as Devarajeevanahalli and popularly known as DJ Halli) is a locality in North Bengaluru, India, adjoining Bangalore Cantonment and R. T. Nagar. The locality is part of Pulakeshinagar Assembly constituency and Bangalore North Lok Sabha constituency. It is one of the largest slums in Bangalore.\nOften referred to as a sensitive area having seen its share of communal tension, the locality saw violence in Bangalore when a police station and other public property were damaged during the riots in 2020. The first police station in the area was inaugurated in 2016. In 2016, over 350 school children at the Government Urdu Higher Primary School from Devara Jeevanahalli complained of food poisoning and were hospitalized after having mid-day meals.",
+   "url": "https://en.wikipedia.org/wiki/Devara_Jeevanahalli"
+  },
+  {
+   "title": "Cantonment Railway Station metro station",
+   "text": "Cantonment Railway Station is an upcoming important underground metro station on the North-South corridor of the Pink Line of Namma Metro in Bengaluru, India. This metro station will consist of the main Bengaluru Cantonment railway station for passengers heading towards the city (KSR Bengaluru), Kengeri, Krishnarajapuram, Hosur or Bangarapet Junction. It will also include many prime locations such as the main Coles Park, Karnataka Badminton Association, St. Mary's Basilica and residential suburban areas like Fraser Town, Shivajinagar and Richards Town. \nAs per the latest updates, this metro station, under the second phase, covering the total underground distance of 13.8 km (Dairy Circle - Nagawara) is expected to be operational around December 2026.",
+   "url": "https://en.wikipedia.org/wiki/Cantonment_Railway_Station_metro_station"
+  },
+  {
+   "title": "Broadway Assembly constituency",
+   "text": "Broadway Assembly constituency was one of the vidhana sabha constituencies in the state assembly of Mysore State, in India. It was part of Bangalore City Lok Sabha constituency.",
+   "url": "https://en.wikipedia.org/wiki/Broadway_Assembly_constituency"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bengaluru",
+  "text": "Bengaluru (Kannada: ಬೆಂಗಳೂರು Bengaḷūru), formerly Bangalore, is the largest city in southern India and the capital of the state of Karnataka. A cosmopolitan city, Bengaluru was developed around what was once a mud fort of a feudal lord. The city has a population of nearly 13 million (2025), making it India's fourth-largest city.\nKnown worldwide as the \"Silicon Valley of India\", Bengaluru is at the core of India's information technology (IT) industry. In addition, the city is nicknamed the \"Garden City\" for its large array of parks and greenery.\n\n\n== See ==\nIndividual listings can be found in Bengaluru's district articles\n\nThere are city tours that can show you the city efficiently if you are short on time. Typically, tours do not include entry fees into the attractions. Bengaluru, like the rest of India, has a habit of charging foreigners a lot more than locals for attractions. For example, Tipu Sultan's Summer Palace, which is on the half-day tour, charges ₹15 for Indians/SAARC and ₹200 for non-Indians.\n\n\n== Do ==\nIndividual listings can be found in Bengaluru's district articles\n\n\n=== Outdoor activities ===\nBengaluru is bestowed with rock climbers, aqua sportsmen and aero sportsmen. There are several clubs, including Nature Admire, Care, Spark, KMA, Capture, Mars, Angel, Wildcraft and Adventure Works.\nCamping facilities are available at Savandurga, Gunjoor Lake, Bhimeshwari, Rangaswamy betta.\nThe Art of Bicycle Trips organises bicycle tours in and around the city, which combine cycling with art and heritage.\nThe Koramangala Club in Koramangala, and the Swimming club at the National Games Village (NGV), have facilities such as swimming pools and tennis courts.\nBalahalli Reserved Forest is a  UNESCO World Heritage Site\nCricket\nBengaluru is also popular for playing cricket. Bengaluru also has the M Chinaswamy Stadium and is home to the Royal Challengers Bengaluru in the Indian Premier League and Women's Premier League. Chinaswamy Stadium also hosts international matches against teams. Chinaswamy Stadium is also known for its energetic crowd in cheering the Royal Challengers Bengaluru former captain Virat Kohli and the rest of the team, especially when they win. Book tickets early especially for IPL matches because when Royal Challengers Bengaluru is playing, the tickets get sold out within seconds. If you arrive in January or February, book tickets for the Women's Premier League as it takes place in those months and is often less crowded than the IPL matches. Always carry a water bottle while travelling to Chinaswamy Stadium. \n\n\n=== Movies ===\nTake in a movie at one of the innumerable theaters around the city. Some multiplexes:\n\n Cinemax (Bengaluru Central, Bellandur).   \n Cinepolis, Royal Meenakshi Mall, Bannerghatta Rd; ETA Mall, Binny Pete; Forum Shantiniketan, Whitefield.  \n Gopalan Cinemas, Arch Mall, Mysore Rd,. Gopalan Mall, Mysore Road; Gopalan Mall, Near Jayadeva Hospital, Bannerghatta Road ; Gopalan Mal;, Old Madras Road, Near Baiyappanhalli Metro Station \n Inox theatre, Bengaluru Central, JP Nagar, Fame Cinemas, MG Road, Forum Value Mall, Whitefield, Garuda Mall, Magrath Road, Lido Mall, Ulsoor, Mantri Square, Malleshwaram, Garuda Swagath Mall, Jayanagar.   \n PVR Cinemas, Nexus Mall, Koramangala, Orion Mall, Malleshwaram, The Phoenix Market City Mall, Whitefield; Vega Mall, JD Mara signal.   \n Bangalore Film Society. A club membership (around ₹500/year) is typically required for entrance. Foreign film series and cultural events. \n\n\n=== Spas ===\nSpas and massages are very much a part of Bengaluru's east-meets-west culture, new ones spring up across the city all the time. Beware that many of the \"massage\" classifieds in local newspapers may be fronts for prostitution. Prostitution is illegal and if caught in a raid, you may end up spending a night in the cooler before being eligible for bail. Most legitimate spas and massage parlours have detailed websites and are run professionally.\n\n\n== Eat ==\nIndividual listings can be found in Bengaluru's district articles\nBengaluru has a wide variety of food options. Foreigners will want to look for cleanliness in choosing a place to eat. Also don't expect the exterior to be too fancy, observe the cleanliness of the inside and the servers when choosing a place to eat! Eating options include high end restaurants to chains to temples to mom and pop shops and of course street vendors! Restaurants usually label if they serve only vegetarian (veg or pure veg) or both veg and non-veg cuisine. If you haven't been in India long, it is safer to take bottled water. But juices and other drinks are usually OK.\nThere are also hundreds of young coconut and sugarcane juice stands! A nice refresher as you go around town! Both are good for keeping cool and energized. A coconut goes for ₹25-30 (some stands may have smaller coconuts for ₹10-15). Sugar cane juice runs ₹10-15 per cup.\nBengaluru is far from the sea, and as such the quality of seafood can vary. Some of the higher end and popular seafood places manage this well, but foreign travellers may want to tread a bit carefully.\nForeigners might want to only drink bottled water and eat only chutneys that are made with bottled or filtered water. Also, beef is forbidden to be on the menu in Karnataka restaurants.\nThe 80 Feet Road is the Eat Street of Koramangala. Pizza Hut, Domino's, KFC, Taco Bell, Au Bon Pain are all found here. There are also many non-chains serving local Indian cuisine. Chandni Chowk is a great option if you want the rural Punjabi dhaba experience.\nWisdom Cafe, near the AlienWare showroom is a really cosy place to have some snacks or lunch. So is the Hole in the Wall cafe, on the back street behind Maharaja Hotel. Serves great coffee and English breakfast. So does Cafe Terra, near Wipro park crossing. Adjacent to it is a really popular food joint called Little Home. It serves nice North Indian food at a very reasonable price. It's really popular with the young working populace. Naturals Ice cream parlour is a hit with the hip crowd; on weekend nights you may find queues outside.\n\n\n=== Chains ===\n\n The Adiga's chain. Restaurants to the south of Bengaluru. Prominent among them are in: Jayanagar 4th Block, take the road facing BHS First Grade College, Basavanagudi. \n Beijing Bites. 11AM-3:30PM, 7PM-11PM. Chain restaurant inspired by Chinese & Thai cuisines, spread across Bengaluru. ₹200-₹400. \n Kamat Yatrinivas, Majestic; All around the city. Authentic Mangalorean meals. \n Mast Kalandar, All around the city. Very nice North India cuisine. It is very reasonably priced. \n Nagarjuna Chimney, Residency Rd; Jayanagar 3rd Block (near Old Galaxy Theatre; near ICICI Bank). Possibly have a few more branches elsewehere in Bengaluru. The biryani is great, as are their meals which are served ritually on a banana leaf. Reach early for lunch, for there are always hordes waiting. \n Upaahara Darshini, Jayanagar 3rd Block; DVG Road, Gandhi Bazaar. One of Bengaluru's oldest food joints. Amazing dosas. \n Corner House, Residency Rd, BTM Rd, Koramangala, Airport Rd, Whitefield Rd, Marthahalli and Shivananda Circle, ☏ +91 80 2558 3262. One of the best ice cream parlours offering a variety of treats. Their famed 'Death by Chocolate' (popularly known as DBC) is a must for all chocolate lovers and has attained a cult status. Can be tricky to find a spot during peak times and you may find yourself being 'encouraged' by the staff to leave quickly once you do. \n Kanti Sweets. KG Rd, Majestic, Malleswaram Circle, RT Nagar. Very good samosas, kachoris and North Indian sweets like rasmalai. Rapidly expanding chain, so there are plenty of branches all over the city now, which serve parathas and other food items as well. The main branch in Majestic is the best, and serves only samosas, kachoris and sweets. ₹10-50 per head. \n Nandini. The Andhra fast food chain serves some excellent biriyani and chicken dishes. \n New Shanti Sagar, 80 Foot Rd. This is a reasonably reliable chain of vegetarian south Indian restaurants. Branches scattered all over the city, notably in Koramangala Jayanagar, Domlur. ₹50-200. \n The Rameshwaram Cafe. A well-known restaurant chain famous for its extra crispy ghee dosas. Standing room only and hugely popular, all food is made to order so at peak meal times you may need to wait for an hour or longer. (updated Sep 2024)\n Savera Tea Shop. 24 hr tea shops near Russell Market in Shivajinagar and on MG Rd. Good place to go for a cup of tea in the dead of the night. Serves tea, Suleimani (honey+lemon) tea and a variety of biscuits. ₹3-15 \n Shezan, Lavelle Rd and Cunningham Rd, ☏ +91 80 2224 9319, +91 80 2224 9667. Indian, Chinese and Continental cuisines with a good menu choice where beef, fish, prawn, mutton and chicken meat are available. Excellent steaks. \n SLV chain. Prominent among them are in: Banashankari 2nd stage, opposite BDA park and the one in J.P.Nagar 2nd Phase near Ragigudda Temple \n Sree Krishna. Fast food a little further from the r",
+  "url": "https://en.wikivoyage.org/wiki/Bengaluru"
+ },
+ "sights": [
+  {
+   "name": "Jayamahal Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.003,
+   "lon": 77.589
+  },
+  {
+   "name": "Jayamahal Palace Hotel",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.997,
+   "lon": 77.5974
+  },
+  {
+   "name": "Mount Carmel University",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 12.993194444444443,
+   "lon": 77.58816666666667
+  },
+  {
+   "name": "Anugraha",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 12.9951375,
+   "lon": 77.5842882
+  },
+  {
+   "name": "Bengaluru Cantonment railway station",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 12.99,
+   "lon": 77.59
+  },
+  {
+   "name": "Cunningham Road",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 12.987694,
+   "lon": 77.594465
+  },
+  {
+   "name": "Shivajinagar, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 12.99,
+   "lon": 77.6
+  },
+  {
+   "name": "National Military Memorial",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 12.985521,
+   "lon": 77.590458
+  },
+  {
+   "name": "Devara Jeevanahalli",
+   "kind": "landmark",
+   "walkMinutes": 25,
+   "lat": 13.01,
+   "lon": 77.6
+  },
+  {
+   "name": "Karnataka Chitrakala Parishath",
+   "kind": "landmark",
+   "walkMinutes": 26,
+   "lat": 12.98918,
+   "lon": 77.58053
+  },
+  {
+   "name": "Broadway Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 12.988271,
+   "lon": 77.60315
+  },
+  {
+   "name": "M. P. Birla Institute of Fundamental Research",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 12.9842,
+   "lon": 77.5867
+  },
+  {
+   "name": "Cantonment Railway Station metro station",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 12.99142,
+   "lon": 77.60606
+  },
+  {
+   "name": "Sadashivanagar",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 13.009325,
+   "lon": 77.58055555555555
+  },
+  {
+   "name": "Gandhi Bhavan, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 12.988117,
+   "lon": 77.579826
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

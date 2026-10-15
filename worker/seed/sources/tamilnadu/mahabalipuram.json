@@ -1,0 +1,299 @@
+{
+ "query": "Mahabalipuram",
+ "found": "Mahabalipuram, Chennai Metropolitan Area, Tirukalukundram, Chengalpattu, Tamil Nadu, 603104, India",
+ "lat": 12.6195981,
+ "lon": 80.1936497,
+ "fetchedAt": "2026-10-12T19:16:03.221Z",
+ "locality": {
+  "id": "mahabalipuram-chengalpattu-tamil-nadu",
+  "name": "Mahabalipuram",
+  "area": "Chennai Metropolitan Area, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Mahabalipuram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/A_collage_of_Mamallapuram_town_Tamil_Nadu_India.jpg/1280px-A_collage_of_Mamallapuram_town_Tamil_Nadu_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mamallapuram",
+   "credit": "Photo: Ms Sarah Welch, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_collage_of_Mamallapuram_town_Tamil_Nadu_India.jpg"
+  },
+  "Mamallapuram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/A_collage_of_Mamallapuram_town_Tamil_Nadu_India.jpg/1280px-A_collage_of_Mamallapuram_town_Tamil_Nadu_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mamallapuram",
+   "credit": "Photo: Ms Sarah Welch, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_collage_of_Mamallapuram_town_Tamil_Nadu_India.jpg"
+  },
+  "Thirukadalmallai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Thirukadalmallai_%283%29.jpg/1280px-Thirukadalmallai_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thirukadalmallai",
+   "credit": "Photo: Ssriram mt, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thirukadalmallai_(3).jpg"
+  },
+  "Group of Monuments at Mahabalipuram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Mamallapuram_view.jpg/1280px-Mamallapuram_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Group of Monuments at Mahabalipuram",
+   "credit": "Photo: https://www.flickr.com/photos/pnglife/, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mamallapuram_view.jpg"
+  },
+  "Varaha Cave Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Vsvarahacave.jpg/1280px-Vsvarahacave.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Varaha Cave Temple",
+   "credit": "Photo: Vsundar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vsvarahacave.jpg"
+  },
+  "Shore Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg/1280px-Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shore Temple",
+   "credit": "Photo: Swarna1311, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg"
+  },
+  "Arjuna Ratha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Arjuna%27s_ratha.jpg/1280px-Arjuna%27s_ratha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Arjuna Ratha",
+   "credit": "Photo: Xcibaangel, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arjuna%27s_ratha.jpg"
+  },
+  "Draupadi Ratha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ratha1.JPG/1280px-Ratha1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Draupadi Ratha",
+   "credit": "Photo: Av.kumar85 at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ratha1.JPG"
+  },
+  "Descent of the Ganges (Mahabalipuram)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Descent_of_the_Ganges_01.jpg/1280px-Descent_of_the_Ganges_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Descent of the Ganges (Mahabalipuram)",
+   "credit": "Photo: Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Descent_of_the_Ganges_01.jpg"
+  },
+  "Nakula Sahadeva Ratha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mamallapuram_104.jpg/1280px-Mamallapuram_104.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nakula Sahadeva Ratha",
+   "credit": "Photo: Tfi2010, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mamallapuram_104.jpg"
+  },
+  "Mahishasuramardini Mandapa": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Mahabalipuram_Mahishasura_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mahishasuramardini Mandapa",
+   "credit": "Photo: Baldiri, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahabalipuram_Mahishasura_2.jpg"
+  },
+  "Ganesha Ratha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ganesha_Ratha_Mahabalipuram_Sep22_A7C_02582.jpg/1280px-Ganesha_Ratha_Mahabalipuram_Sep22_A7C_02582.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ganesha Ratha",
+   "credit": "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ganesha_Ratha_Mahabalipuram_Sep22_A7C_02582.jpg"
+  },
+  "Olakkannesvara Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Olakkanesvara_Temple.jpg/1280px-Olakkanesvara_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Olakkannesvara Temple",
+   "credit": "Photo: Freakyyash, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olakkanesvara_Temple.jpg"
+  },
+  "Krishna Mandapam, Mahabalipuram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Krishna_Mandapa_Exterior_NE_Mahabalipuram_Sep22_A7C_02520.jpg/1280px-Krishna_Mandapa_Exterior_NE_Mahabalipuram_Sep22_A7C_02520.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Krishna Mandapam, Mahabalipuram",
+   "credit": "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krishna_Mandapa_Exterior_NE_Mahabalipuram_Sep22_A7C_02520.jpg"
+  },
+  "Krishna's Butterball": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Krishna_Butterball_Below_Mahabalipuram_Sep22_A7C_02490.jpg/1280px-Krishna_Butterball_Below_Mahabalipuram_Sep22_A7C_02490.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Krishna's Butterball",
+   "credit": "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krishna_Butterball_Below_Mahabalipuram_Sep22_A7C_02490.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mamallapuram",
+   "text": "Mamallapuram (also known as Mahabalipuram) is a town in Chengalpattu district in the southeastern Indian state of Tamil Nadu, best known for the UNESCO World Heritage Site of 7th- and 8th-century Hindu Group of Monuments at Mahabalipuram. It is one of the famous tourist sites in India. The ancient name of the place is Thirukadalmallai. It is a part of Chennai Metropolitan Area. It is a satellite town of Chennai.\nMamallapuram was one of two major port cities in the Pallava kingdom. The town was named after Pallava king Narasimhavarman I, who was also known as Mamalla. Along with economic prosperity, it became the site of a group of royal monuments, many carved out of the living rock. These are dated to the 7th and 8th centuries: rathas (temples in the form of chariots), mandapas (cave sanctuaries), the giant open-air rock relief the Descent of the Ganges, and the Shore Temple dedicated to Shiva. The contemporary town plan was established by the British Raj in 1827.\n\n\n== Etymology ==\nThe earliest mention of the city  is found in the 1st century work called Periplus of the Erythraean Sea by an unknown Greek navigator. Ptolemy, the Greek geographer refers this place as Malange. Mahabalipuram...",
+   "url": "https://en.wikipedia.org/wiki/Mamallapuram"
+  },
+  {
+   "title": "Seven Pagodas of Mahabalipuram",
+   "text": "\"Seven Pagodas\" has served as a nickname for the southern Indian city of Mamallapuram, also called Mahabalipuram (old name), since the first European explorers reached it. The phrase \"Seven Pagodas\" refers to a belief that has circulated in India, Europe, and other parts of the world for over eleven centuries. The group of Monuments at Mahabalipuram, including the Shore Temple built in the 8th century under the reign of Narasimhavarman II, stand at the shore of the Bay of Bengal. Legend has it that six other temples once stood with it.",
+   "url": "https://en.wikipedia.org/wiki/Seven_Pagodas_of_Mahabalipuram"
+  },
+  {
+   "title": "Thirukadalmallai",
+   "text": "Sthalasayana Perumal Temple, (also called Thirukadalmallai) is located in Mahabalipuram, India. Constructed in the Pallavan style of architecture, the temple is glorified in the Naalayira Divya Prabandham, the early medieval Tamil canon of the Alvar saints from the 6th–9th centuries CE. It is one of the 108 Divya Desam dedicated to Vishnu, who is worshipped as Sthalasayana Perumal and his consort Lakshmi as Nilamangai Thayar. The temple is believed to have been built by the Pallavas, with later contributions from the Medieval Cholas, Vijayanagara kings, and Madurai Nayaks.\nThe temple is believed to be the birthplace of the Vaishnava Alvar saint Bhoothathalvar. Sthalasayana Perumal is believed to have appeared to sage Pundarika. The temple is open from 6 am to 12 pm, and from 3pm to 8:30 pm. Six daily rituals and a dozen yearly festivals are held at the temple, of which the Bhoothath Alvar Avata festival, celebrated during the Tamil month of Aipasi (October–November), being is the most prominent. The temple is one of the 32 Group of Monuments at Mahabalipuram that are declared as UN world heritage sites, but unlike others that are maintained by the Archaeological Survey of India, the...",
+   "url": "https://en.wikipedia.org/wiki/Thirukadalmallai"
+  },
+  {
+   "title": "Group of Monuments at Mahabalipuram",
+   "text": "The Group of Monuments at Mahabalipuram is a collection of 7th- and 8th-century CE religious monuments in the coastal resort town of Mahabalipuram, Tamil Nadu, India and is a UNESCO World Heritage Site. It is on the Coromandel Coast of the Bay of Bengal, about 60 kilometres (37 mi) south of Chennai.\nThe site has 40 ancient monuments and Hindu temples, including one of the largest open-air rock reliefs in the world: the Descent of the Ganges or Arjuna's Penance. The group contains several categories of monuments: ratha temples with monolithic processional chariots, built between 630 and 668; mandapa viharas (cave temples) with narratives from the Mahabharata and Shaivite, Shakti or Shaaktha and Vaishnava inscriptions in a number of Indian languages and scripts; rock reliefs (particularly bas-reliefs); stone-cut temples built between 695 and 722, and archaeological excavations dated to the 6th century and earlier.\nThe monuments were built during the rule of the Pallava dynasty. Known as the Seven Pagodas in many colonial-era publications, they are also called the Mamallapuram temples or Mahabalipuram temples in contemporary literature. The site, restored after 1960, has been managed by...",
+   "url": "https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram"
+  },
+  {
+   "title": "Varaha Cave Temple",
+   "text": "Varaha Cave Temple (i.e., Varaha Mandapa or the Adivaraha Cave) is a rock-cut cave temple located at Mamallapuram, on the Coromandel Coast of the Bay of Bengal in Kancheepuram District in Tamil Nadu, India. It is part of the hill top village, which is 4 kilometres (2.5 mi) to the north of the main Mahabalipurm sites of rathas and the Shore Temple. It is an example of Indian rock-cut architecture dating from the late 7th century. The temple is one of the finest testimonial to the ancient Hindu rock-cut cave architecture, out of many such caves also called mandapas. Part of the Group of Monuments at Mahabalipuram, the temple is a UNESCO World Heritage Site as inscribed in 1984 under criteria i, ii, iii and iv. The most prominent sculpture in the cave is that of the Hindu god Vishnu in the incarnated form of a Varaha or boar lifting Bhudevi, the mother earth goddess from the sea. Also carved are many mythical figures.",
+   "url": "https://en.wikipedia.org/wiki/Varaha_Cave_Temple"
+  },
+  {
+   "title": "Shore Temple",
+   "text": "The Shore Temple (c. 725 AD) is a complex of temples and shrines that overlooks the shore of the Bay of Bengal. It is located in Mahabalipuram, about 60 kilometres (37 mi) south of Chennai in Tamil Nadu, India.\nIt is a structural temple, built with blocks of granite, dating from the 8th century AD. At the time of its creation, the site was a busy port during the reign of Narasimhavarman II of the Indian Pallava dynasty. As one of the Group of Monuments at Mahabalipuram, it has been classified as a UNESCO World Heritage Site since 1984. It is one of the oldest structural (versus rock-cut) stone temples of Southern India.",
+   "url": "https://en.wikipedia.org/wiki/Shore_Temple"
+  },
+  {
+   "title": "Arjuna Ratha",
+   "text": "Arjuna Ratha is a monument from the Pallava Period at Mahabalipuram, on the Coromandel Coast of the Bay of Bengal, in Kancheepuram district of Tamil Nadu, India. Dated to the seventh century, it is an example of early Dravidian architecture and of monolith Indian rock-cut architecture dating from the late 7th century during reign of King Mahendravarman I and his son Narasimhavarman I (630–680 AD) of the Pallava Kingdom. One of the Pancha Rathas, it is believed to have been completed before the Dharmaraja Ratha, and like that and the Bhima Ratha, the stone temple is a replica of an earlier wooden version which preceded it. It is one of the Group of Monuments at Mahabalipuram designated as a UNESCO World Heritage Site since 1984.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Arjuna_Ratha"
+  },
+  {
+   "title": "Draupadi Ratha",
+   "text": "The Draupadi Ratha is a monument in the Pancha Rathas complex at Mahabalipuram, previously called Mamallapuram, on the Coromandel Coast of the Bay of Bengal, in the Kancheepuram district of the state of Tamil Nadu, India. It is an example of monolithic Indian rock-cut architecture. Dating from the late 7th century, it is attributed to the reign of King Mahendravarman I and his son Narasimhavarman I (630–680 AD; also called Mamallan, or \"great warrior\") of the Pallava Kingdom. The entire complex is under the auspices of the Archaeological Survey of India (ASI), and is one of the Group of Monuments at Mahabalipuram designated as a UNESCO World Heritage Site since 1984.\nResembling a chariot (ratha), it is carved out of a single, long stone of granite. Though sometimes mistakenly referred to as a temple, the structure was not consecrated because it was not completed due to the death of Narasimhavarman I. The structure is named after the common consort Draupadi of the Pancha Pandavas, of epic Mahabharata fame, though the nomenclature is not supported by history. The unfinished structure is dedicated to the goddess Durga.",
+   "url": "https://en.wikipedia.org/wiki/Draupadi_Ratha"
+  },
+  {
+   "title": "Descent of the Ganges (Mahabalipuram)",
+   "text": "Descent of the Ganges, known locally as Arjuna's Penance, is a monument at Mamallapuram, on the Coromandel Coast of the Bay of Bengal, in the Chengalpattu district of the state of Tamil Nadu, India. Measuring 96 by 43 feet (29 m × 13 m),  it is a giant open-air rock relief carved on two monolithic rock boulders. The legend depicted in the relief is the story of the descent of the sacred river Ganges to earth from the heavens led by Bhagiratha. The waters of the Ganges are believed to possess supernatural powers. The descent of the Ganges and Arjuna's Penance are portrayed in stone at the Pallava heritage site. The relief is more of a canvas of Indian rock cut sculpture at its best not seen anywhere else in India. It is one of the Group of Monuments at Mamallapuram that was designated as a UNESCO World Heritage Site since 1984.",
+   "url": "https://en.wikipedia.org/wiki/Descent_of_the_Ganges_(Mahabalipuram)"
+  },
+  {
+   "title": "Nakula Sahadeva Ratha",
+   "text": "Nakula Sahadeva Ratha is a monument in the Pancha Rathas complex at Mahabalipuram, on the Coromandel Coast of the Bay of Bengal, in the Kancheepuram district of the state of Tamil Nadu, India. It is an example of monolith Indian rock-cut architecture. Dating from the late 7th century, it is attributed to the reign of King Mahendravarman I and his son Narasimhavarman I (630–680 AD; also called Mamalla, or \"great warrior\") of the Pallava Kingdom. The entire complex is under the auspices of the Archaeological Survey of India (ASI), and is one of the Group of Monuments at Mahabalipuram that were designated as a UNESCO World Heritage Site since 1984.\nResembling a chariot (ratha), it is carved out of a single, long stone of pink granite. Though sometimes mistakenly referred to as a temple, the structure was not consecrated because it was not completed following the death of Narasimhavarman I. The structure is named after the last two brothers of the Pancha Pandavas, of epic Mahabharata fame, though the nomenclature is not supported by history. The small unfinished structure is dedicated to the god Indra.",
+   "url": "https://en.wikipedia.org/wiki/Nakula_Sahadeva_Ratha"
+  },
+  {
+   "title": "Mahishasuramardini Mandapa",
+   "text": "Mahishasuramardhini Mandapa (Cave Temple; also known as Yampuri) is an example of Indian rock-cut architecture dating from the late 7th century, of the Pallava dynasty. It is a rock-cut cave temple located on a hill, near a lighthouse, along with other caves in Mamallapuram. Mamallapuram, also popularly known as Mahabalipuram, is a small village to the south of Chennai, in the state of Tamil Nadu, India. The temple is part of the Group of Monuments at Mahabalipuram, a UNESCO World Heritage Site inscribed in 1984. This Cave Temple has many interesting architectural features of which three exquisitely carved reliefs on the cave walls of three sanctums are prominent. One is of Vishnu reclining on the seven hooded serpent, Adishesha, another of Durga, the main deity of the cave temple  Durga slaying the buffalo headed demon Mahishasura, and the third sanctum has a sculpture of Shiva.",
+   "url": "https://en.wikipedia.org/wiki/Mahishasuramardini_Mandapa"
+  },
+  {
+   "title": "Ganesha Ratha",
+   "text": "Ganesha Ratha is a temple in Kancheepuram district, Tamil Nadu, India. \nIt is one of ten rathas (\"chariots\") carved out of pink granite within the group of monuments of the Pallava Period at Mahabalipuram, a UNESCO-inscribed World Heritage Site since 1984. The ratha is an example of monolith Indian rock-cut architecture dating from the late seventh century during the reign of King Mahendravarman I and his son Narasimhavarman I. \nInitially constructed with a Shiva Linga, it is now deified with a Ganesha deity after the linga was removed.",
+   "url": "https://en.wikipedia.org/wiki/Ganesha_Ratha"
+  },
+  {
+   "title": "Olakkannesvara Temple",
+   "text": "The Olakkannesvara Temple (\"flame eye\"; commonly Olakkanatha; also known as \"the Old Lighthouse\")  is in Mahabalipuram town, overlooking the Coromandel Coast of the Bay of Bengal in Kancheepuram District in Tamil Nadu, India. Like the Shore Temple, the Olakkannesvara Temple is a structural temple.  Built in the 8th century,  it is situated directly above the Mahishasuramardini mandapa on a hillock which provides scenic views of the town. As the area is within a high security zone because of a nuclear power station a few kilometres to its south, photography is prohibited. The Olakkannesvara Temple is sometimes mistakenly referred to as a Mahishasura temple. It is dedicated to an incarnation of Shiva. It is one of the Group of Monuments at Mahabalipuram that were designated as a UNESCO World Heritage Site since 1984.",
+   "url": "https://en.wikipedia.org/wiki/Olakkannesvara_Temple"
+  },
+  {
+   "title": "Krishna Mandapam, Mahabalipuram",
+   "text": "Mandapa of Krishna or Krishna Mandapam is a monument at Mahabalipuram, on the Coromandel Coast of the Bay of Bengal, in the Kancheepuram district of the state of Tamil Nadu, India. It is part of the Group of Monuments at Mahabalipuram, a UNESCO World Heritage Site inscribed in 1984. It is located on a hillock next to the open rock relief of Descent of the Ganges (Mahabalipuram).\nIt is constituted by an originally open-air bas-relief dedicated to Krishna, dating to the mid-seventh century, which was later enclosed within a mandapa in the 16th century during the Vijayanagara Empire. Notable carvings inside are sculpted panels that bring out the story of Krishna lifting the Govardhana Hill to protect the cowherds and gopis (milk maids) from heavy rains and floods – the \"most poetic and endearing\" Indian or Angkor sculpture-based representation of this legend – and there are also scenes of Krishna frolicking with the milk maids.",
+   "url": "https://en.wikipedia.org/wiki/Krishna_Mandapam,_Mahabalipuram"
+  },
+  {
+   "title": "Krishna's Butterball",
+   "text": "Krishna's Butterball (also known as Vaan Irai Kal and Krishna's Gigantic Butterball) is a gigantic balancing rock, a granite boulder resting on a short incline in the historical coastal resort town of Mamallapuram in Tamil Nadu state, India.\nBeing part of the Group of Monuments at Mamallapuram, a UNESCO World Heritage Site built during the seventh- and eighth-century CE as Hindu religious monuments by the Pallava dynasty, it is a popular tourist attraction locally. It is listed as a protected national monument by the Archeological Survey of India.",
+   "url": "https://en.wikipedia.org/wiki/Krishna%27s_Butterball"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Mamallapuram",
+  "text": "Mamallapuram (மாமல்லபுரம் Māmallaburam), also known as Mahabalipuram, is a tourist town 60 km south of Chennai on the east coast of India, famous for its stone carvings.\n\n\n== See ==\n\nFor visiting all three sites the Shore Temple, cave temples and the Five Rathas you need to buy entry tickets. One can buy tickets online  or by scanning the QR Code displayed at entry gates of tourist places and then paying through mobile wallets. The ticket counter closes at 5:30PM and entry to the attractions ends at 6PM. An entrance ticket to the monuments costs ₹300 for foreigners and ₹25 for Indian citizens, as of December 2024. Within one day, you can use the same ticket for entry into any of the monuments. Local guides, who speak multiple languages, are available for around ₹600 for a tour of all main attractions.\n\n\n=== Rath Temples ===\nThese temples are carved out of a rock rather than carved into a rock, unlike cave temples.\n\n1 Five Rathas (Pancha Pandava Rathas). This site contains five rathas, literally chariots, dating from the 7th century. The sculptures are complemented by some enormous stone animals, including a large elephant. The Pandavas were five (panch in Sanskrit) brothers who led one side in the great war described in the ancient and sacred epic the Mahabharata. There are raths or chariots for Yudishthira (known as Dharmaraj), Bhim and Arjun. Draupadi the common wife of the five brothers also has a chariot. The chariots of Arjun and Draupadi stand on the same platform. The twin brothers of Nakul and Sahadev share the fifth chariot. Apart from the chariot of Nakul and Sahadev the other four are in a linear alignment and have entrances on the western side. The chariot of Nakul and Sahadev is located west of the other four chariot and faces south, The complex also has an elephant and tiger statue. \n2 Draupadi Ratha.  \n3 Dharmaraja Ratha.  \n4 Bhima Ratha.  \n5 Arjuna Ratha.  \n6 Nakula and Sahadeva Ratha.  \n7 Ganesha Ratha. This ratha has a G\n== Do ==\n\nBike trips around Tamil Nadu's countryside can be organised by travel agencies in the town.\nChill on the sandy beach\nSurf, a restaurant at the entrance of the town, provides the following facilities:\nBoat rides to in the Bay of Bengal with lifeguards.\nFishing trips to the sea.\nTurtle walk at the sea shore.\nTrekking  to a hill nearby.\nThe price for the above activities are slightly more than they should be. For example, a boat ride with lifeguards for 45 minutes is ₹280/- per head.\nSeveral yoga camps are organised on a daily basis.\nSolaman at Sakthi Yoga offers 1½ hour drop-in classes for ₹150 per person.  Classes are offered three times a day: 7AM, 9AM and 4PM.\nMamallapuram is known for its orphanages which often invite tourists to visit them (and donate). Many of them are affiliated to religious missions. So please be aware of this and inquire before donating.\n\n\n== Eat ==\n\nThere are lots of food stands in the centre serving large portions for next-to-nothing prices. Look specifically at the road leading down the Shore Temple from the bus stop, early in the morning at breakfast time.\nMamallapuram is famous for its coconuts, which are available from hawkers around all major sites.\nClustered around Othavadai Street and Othavadai Cross are restaurants catering primarily to tourists, which serve generally undistinguished Western food. Your best bet is often fresh grilled fish (which you can usually select yourself) served with french fries or salad.\n\n1 Sea Shore Garden Beach restaurant (Garden View Restaurant), Othavadai Cross Street (At Greenwoods Beach Resort). Excellent food, each order freshly prepared, views of the street or the garden courtyard. Breakfast ₹25-45, lunch and dinner ₹65-145. (updated Feb 2020)\n2 Gecko Cafe, Othavadai Cross. Family-run, fast, friendly and clean. Features Indian veg and non veg food as well as freshest seafood, offers a nice lake view for bird watching and has a relaxed atmosphere, very helpful waiter and cook. (updated Nov 2016)\n3 The Golden Palate, 104, East Raja Street (At Hotel Mamalla Heritage), ☏ +91 44 27442060, +91 44 27442260, +91 44 27442360. Serves excellent Indian vegetarian food. Breakfast from 7AM is a poor deal at ₹153 (including tax) for a fairly simple buffet. It does, however, offer air conditioning! The lunch from midday is highly recommended... the best vegetarian thali spread for miles! It also has a pleasant non-veg restaurant on the rooftop. (updated Feb 2020)\n4 Mamalla Bhavan, Shore Temple Road (near Raja Street), ☏ +91 44 27442250. Cheap, very good, popular veg thali (unlimited vegetables and curries, fixed rice and roti/bread) joint. ₹90 to ₹120 (lunch thali as of 2021-02-\n== Drink ==\nMany restaurants serve beer though it may not be on the menu, usually Kingfisher but sometimes 'Bullet' (slightly higher alcohol content). Prices of beer are generally ₹130-150 (premium-strong) per bottle at cost and sold at ₹250 (if you ask) in restaurants.\nNo government-run TASMAC wine shop is available in town; to buy alcohol you must drive around 2 km out from Mamallapuram to the TASMAC Elite near the ECR road junction of Mahabalipuram town.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Mamallapuram"
+ },
+ "sights": [
+  {
+   "name": "Tirmurthy Cave",
+   "kind": "attraction",
+   "walkMinutes": 2,
+   "lat": 12.6197938,
+   "lon": 80.1926528
+  },
+  {
+   "name": "Krishna's Butterball",
+   "kind": "attraction",
+   "walkMinutes": 2,
+   "lat": 12.6190856,
+   "lon": 80.1924003
+  },
+  {
+   "name": "Arjuna's Penance",
+   "kind": "attraction",
+   "walkMinutes": 3,
+   "lat": 12.6179087,
+   "lon": 80.1926969
+  },
+  {
+   "name": "Kodikal Mandapam",
+   "kind": "attraction",
+   "walkMinutes": 3,
+   "lat": 12.619747,
+   "lon": 80.1922279
+  },
+  {
+   "name": "Ganesh Ratha",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 12.6184304,
+   "lon": 80.1925043
+  },
+  {
+   "name": "Varaha Mandapam / Cave",
+   "kind": "attraction",
+   "walkMinutes": 4,
+   "lat": 12.6180857,
+   "lon": 80.1922234
+  },
+  {
+   "name": "Five Celled Rock Cave",
+   "kind": "attraction",
+   "walkMinutes": 4,
+   "lat": 12.6185549,
+   "lon": 80.1913387
+  },
+  {
+   "name": "Keneri Mandapam",
+   "kind": "attraction",
+   "walkMinutes": 4,
+   "lat": 12.6186059,
+   "lon": 80.1913696
+  },
+  {
+   "name": "Panchapandava Mandapam",
+   "kind": "attraction",
+   "walkMinutes": 4,
+   "lat": 12.6176455,
+   "lon": 80.1926301
+  },
+  {
+   "name": "Krishna Mandapam",
+   "kind": "attraction",
+   "walkMinutes": 4,
+   "lat": 12.6173641,
+   "lon": 80.1925982
+  },
+  {
+   "name": "Rayala Gopuram",
+   "kind": "attraction",
+   "walkMinutes": 4,
+   "lat": 12.6176038,
+   "lon": 80.1922847
+  },
+  {
+   "name": "Sthalasayana Perumal Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 12.6174274,
+   "lon": 80.1929787
+  },
+  {
+   "name": "Ramanuja Mandapam",
+   "kind": "attraction",
+   "walkMinutes": 6,
+   "lat": 12.6165678,
+   "lon": 80.1918429
+  },
+  {
+   "name": "Lighthouse Heritage Museum",
+   "kind": "museum",
+   "walkMinutes": 6,
+   "lat": 12.6165109,
+   "lon": 80.1922643
+  },
+  {
+   "name": "Masjid-e-noor Jumma",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 12.6226547,
+   "lon": 80.1943482
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

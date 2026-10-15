@@ -1,0 +1,88 @@
+{
+ "query": "Anegundi",
+ "region": "karnataka",
+ "name": "Anegundi",
+ "draft": {
+  "briefing": "Hey, you're in Anegundi! This village on the north bank of the Tungabhadra is older than Hampi, and it's believed to be Kishkindha, the monkey kingdom of the Ramayana. The plateau it sits on is said to be one of the oldest on the planet.",
+  "hungryLine": "Anegundi is a quiet village, so eat simply here and carry water when you head out exploring.",
+  "moodReplies": {
+   "show-me-around": "Make your way to Pampa Sarovar, the sacred lake south of the river. It's a short drive, or a walk of a little under half an hour.",
+   "somewhere-to-chill": "Wander the village lanes along the Tungabhadra's north bank and take in how quiet it is compared to Hampi.",
+   "surprise-me": "Pampa Sarovar is one of India's five sacred lakes, alongside Mansarovar, Bindu, Narayan and Pushkar."
+  },
+  "seeFirst": {
+   "caption": "Close by",
+   "spots": [
+    {
+     "name": "Pampa Sarovar",
+     "detail": "Short drive · One of the five sacred lakes, tied to the Ramayana",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Anegundi",
+     "detail": "You're here · Old village on the river, once the legendary Kishkindha",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Nimvapuram",
+    "title": "King Vali's ashes",
+    "body": "In the nearby village of Nimvapuram there's a mound of ash. People believe it's what's left of the cremated monkey king Vali."
+   },
+   {
+    "where": "Anegundi",
+    "title": "Home of Mother Earth",
+    "body": "Local storytellers say Anegundi is the maternal home of Bhoodevi, Mother Earth. You'll only hear that one from people here."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go out early.",
+    "body": "This is open, rocky country, so explore in the cooler morning hours."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly at sacred sites.",
+    "body": "Pampa Sarovar and the Ramayana spots around here are holy to Hindus."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Ancient ground",
+    "body": "Anegundi is said to sit on one of the oldest plateaus on the planet, estimated at 3,000 million years old.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Stone Age",
+    "title": "Mourya Mane",
+    "body": "The region has Neolithic history too. Mourya Mane here was an ancient Stone Age colony.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Ramayana",
+    "title": "Kishkindha",
+    "body": "Anegundi is believed to be Kishkindha, the monkey kingdom of Sugriva. Anjanadri Hill, believed to be Hanuman's birthplace, and the mountain Rishimuka are nearby.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Vijayanagar",
+    "title": "Before Hampi",
+    "body": "Older than Hampi, the village is also a historic site linked with Krishnadevaraya's dynasty of the Vijayanagar Empire.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

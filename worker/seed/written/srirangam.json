@@ -1,0 +1,103 @@
+{
+ "query": "Srirangam",
+ "region": "tamilnadu",
+ "name": "Srirangam",
+ "draft": {
+  "briefing": "Hey, you're in Srirangam! This whole neighbourhood is a river island between the Kaveri and the Kollidam, and it's home to the Ranganathaswamy Temple, the largest functioning Hindu temple in the world. It's counted first among the 108 Divya Desams of Vishnu.",
+  "hungryLine": "There aren't fancy restaurants around here, so grab fresh fruit juice from the shops near the temple or a tender coconut to beat the heat.",
+  "moodReplies": {
+   "show-me-around": "The towering Srirangam Rajagopuram is a 6 min walk away, and the East White Gopuram is about 10 minutes. Jambukeswarar Temple, the Shiva temple of water, is less than 1 km from the main temple.",
+   "somewhere-to-chill": "Head up to the Temple Rooftop View Point, a 9 min walk, and take in the forest of gopurams from above.",
+   "surprise-me": "The temple's tallest tower, the outer rajagopuram at about 73 m, is actually its newest part. It was only finished in 1987."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Srirangam Rajagopuram",
+     "detail": "6 min walk · The 73 m outer tower, biggest of the temple's 21 gopurams",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Temple Rooftop View Point",
+     "detail": "9 min walk · Climb up for a view across the gopurams",
+     "status": {
+      "text": "Small fee for roof access",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jambukeswarar Temple",
+     "detail": "Under 1 km from the main temple · Shiva temple of water, with a stream under its sanctum",
+     "status": {
+      "text": "Free entrance",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Srirangam",
+    "title": "The island in an epic",
+    "body": "The old Tamil epic Cilappatikaram tells of a Brahmin who came all the way to see Vishnu resting on his thousand-hooded serpent in a temple on an island in the Kaveri. Locals proudly point out that the island is this one."
+   },
+   {
+    "where": "Thiruvanaikaval",
+    "title": "The temple of water",
+    "body": "Jambukeswarar Temple stands for water among the five elements honoured at Tamil Nadu's great Shiva temples. Its sanctum has an underground stream."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Know the temple limits.",
+    "body": "Non-Hindus can go up to the sixth enclosure of Ranganathaswamy Temple but not into the gold-topped sanctum."
+   },
+   {
+    "icon": "sun",
+    "title": "Catch Margazhi if you can.",
+    "body": "The temple's big 21-day festival happens in the Tamil month of Margazhi, around December to January."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient times",
+    "title": "Tiruvarangam",
+    "body": "Old Tamil literature calls this place Tiruvarangam or simply arangam. It even appears in Cilappatikaram, one of the Five Great Epics of Tamil literature.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Alvar era",
+    "title": "Sung by poet-saints",
+    "body": "The Alvars, Tamil poet-saints, praised the temple in the Naalayira Divya Prabandham. That's why it ranks first among the 108 Divya Desams.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Chola era",
+    "title": "Across the island",
+    "body": "Over at Thiruvanaikaval, Jambukeswarar Temple carries inscriptions from the Chola period. Meanwhile the Ranganathaswamy complex kept being renovated, expanded and rebuilt over the centuries.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1987",
+    "title": "The great tower",
+    "body": "The outer rajagopuram, about 73 m tall, was completed with support from the Ahobila Mutt among others. It's the newest addition to the temple.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A living temple",
+    "body": "Srirangam remains the largest functioning religious complex in the world in active worship. The island is home to a large Sri Vaishnava community.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

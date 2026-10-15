@@ -1,0 +1,294 @@
+{
+ "query": "Gateway of India, Mumbai",
+ "found": "Gateway of India - गेटवे ऑफ इंडिया, Apollo Bandar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400039, India",
+ "lat": 18.9219661,
+ "lon": 72.8345657,
+ "fetchedAt": "2026-10-12T18:46:18.171Z",
+ "locality": {
+  "id": "a-ward-mumbai-city-district-maharashtra",
+  "name": "A Ward",
+  "area": "Mumbai, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Gateway of India": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg/1280px-Mumbai_03-2016_30_Gateway_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gateway of India",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_30_Gateway_of_India.jpg"
+  },
+  "Taj Mahal Palace Hotel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Taj_Mahal_Palace_Hotel_photo.jpg/1280px-Taj_Mahal_Palace_Hotel_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Taj Mahal Palace Hotel",
+   "credit": "Photo: Photofinder.cr2, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel_photo.jpg"
+  },
+  "Cathedral of the Holy Name, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Cathedral_of_the_Holy_Name%2C_Mumbai.jpg/1280px-Cathedral_of_the_Holy_Name%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cathedral of the Holy Name, Mumbai",
+   "credit": "Photo: Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cathedral_of_the_Holy_Name,_Mumbai.jpg"
+  },
+  "Royal Bombay Yacht Club": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Badge_of_the_Royal_Bombay_Yacht_Club.svg/1280px-Badge_of_the_Royal_Bombay_Yacht_Club.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Royal Bombay Yacht Club",
+   "credit": "Photo: Dgp4004, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badge_of_the_Royal_Bombay_Yacht_Club.svg"
+  },
+  "Roman Catholic Archdiocese of Bombay": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Cathedral_of_the_Holy_Name%2C_Mumbai.jpg/1280px-Cathedral_of_the_Holy_Name%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Roman Catholic Archdiocese of Bombay",
+   "credit": "Photo: Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cathedral_of_the_Holy_Name,_Mumbai.jpg"
+  },
+  "2008 Mumbai attacks": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/1280px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "2008 Mumbai attacks",
+   "credit": "Photo: Nicholas (Nichalp), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg"
+  },
+  "Leopold Cafe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1280px-LeopoldCafe_gobeirne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Leopold Cafe",
+   "credit": "Photo: Photograph by Greg O'Beirne, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:LeopoldCafe_gobeirne.jpg"
+  },
+  "INS Vajrabahu": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/INS_Vajrabahu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "INS Vajrabahu",
+   "credit": "Photo: Indian Navy, GODL-India, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:INS_Vajrabahu.jpg"
+  },
+  "National Gallery of Modern Art, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/National_Gallery_of_modern_art.jpg/1280px-National_Gallery_of_modern_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "National Gallery of Modern Art, Mumbai",
+   "credit": "Photo: Balajijagadesh, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_modern_art.jpg"
+  },
+  "INS Satavahana": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/INS_Satavahana_crest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "INS Satavahana",
+   "credit": "Photo: Defence PRO Visakhapatnam, Ministry of Defence, Government of India, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:INS_Satavahana_crest.jpg"
+  },
+  "Bademiya": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bademiya_restaurant%2C_Mumbai.jpg/1280px-Bademiya_restaurant%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bademiya",
+   "credit": "Photo: Benjamin Vander Steen from Victoria, Canada, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bademiya_restaurant,_Mumbai.jpg"
+  },
+  "Dhanraj Mahal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Dhanraj_Mahal_Front_View.jpg/1280px-Dhanraj_Mahal_Front_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dhanraj Mahal",
+   "credit": "Photo: Pradeep717, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhanraj_Mahal_Front_View.jpg"
+  },
+  "Indigo (restaurant)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Mumbai_%28Bombay%29%2C_RTW_2012_%288403808043%29.jpg/1280px-Mumbai_%28Bombay%29%2C_RTW_2012_%288403808043%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Indigo (restaurant)",
+   "credit": "Photo: Ana Raquel S. Hernandes from Sao Paulo, Brazil, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_(Bombay),_RTW_2012_(8403808043).jpg"
+  },
+  "Maharashtra Police Headquarters": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Royal_Alfred_Sailors%27_Home%2C_Bombay_1870.jpg/1280px-Royal_Alfred_Sailors%27_Home%2C_Bombay_1870.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Maharashtra Police Headquarters",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Alfred_Sailors%27_Home,_Bombay_1870.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Gateway of India",
+   "text": "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellington Fountain. He was the first British monarch to visit India.\nThe foundation stone was laid in March 1913 for a monument built in the Indo-Saracenic style, inspired by elements of 16th-century Gujarati architecture. The final design of the monument by architect George Wittet was sanctioned only in 1914, and construction was completed in 1924. The structure is a memorial arch made of basalt, which is 26 metres (85 feet) high, with an architectural resemblance to a triumphial arch as well as Gujarati architecture of the time.\nAfter its construction, the Gateway was used as a symbolic ceremonial entrance to India for important government personnel. The Gateway is also the monument from where the last British troops left in 1948, following Indian independence a year earlier. It is located on the waterfront at an angle, opposite the Taj Mahal Palace and Tower Hotel and overlooks the Arabian Sea. Today, the monument...",
+   "url": "https://en.wikipedia.org/wiki/Gateway_of_India"
+  },
+  {
+   "title": "Taj Mahal Palace Hotel",
+   "text": "The Taj Mahal Palace is a heritage, five-star, luxury hotel in the Colaba area of Mumbai, Maharashtra, India, situated next to the Gateway of India. Built in the Indo-Saracenic style, it opened in 1903 as the Taj Mahal Hotel, and has historically often been known simply as \"The Taj\". The hotel is named after the Taj Mahal, which is located in the city of Agra, approximately 1,050 kilometres (650 mi) from Mumbai. It has been considered one of the finest hotels in the East since the time of the British Raj. It is currently owned and managed by the Indian Hotels Company Limited (IHCL), a Tata Group company. The hotel was one of the main targets in the 2008 Mumbai attacks.\nPart of the Taj Hotels, the hotel has 560 or 600 rooms and 44 suites and is considered the flagship property of the group; it employs 1,500 staff. The hotel is made up of two different structures: the Taj Mahal Palace and the Tower, which are historically and architecturally distinct from each other (the Taj Mahal Palace was built in 1903; the Tower was opened in 1972).",
+   "url": "https://en.wikipedia.org/wiki/Taj_Mahal_Palace_Hotel"
+  },
+  {
+   "title": "Cathedral of the Holy Name, Mumbai",
+   "text": "The Cathedral of the Holy Name or Holy Name Cathedral is a Roman Catholic cathedral in the Indian city of Mumbai (Bombay), that has the seat and is the headquarters of the Archbishop of Bombay. The cathedral is located in the Colaba area of South Bombay, built in the Gothic Revival style that was favoured by British architects.\n\nThe Holy Name Cathedral was built in 1905 as a church, but designated a cathedral in 1964. It is contained within the premises of the Holy Name High School, founded in 1939.\nDuring the Bombay plague epidemic that struck the city of Bombay (present-day Mumbai) in the early 1900s, the church worked to aid the victims of plague by providing them food and shelter.",
+   "url": "https://en.wikipedia.org/wiki/Cathedral_of_the_Holy_Name,_Mumbai"
+  },
+  {
+   "title": "Royal Bombay Yacht Club",
+   "text": "The Royal Bombay Yacht Club (RBYC) is one of the premier gentlemen's clubs which was founded in 1846 in Colaba (formerly Wellington Pier), an area of Mumbai in India. The building was designed by John Adams, who also designed the nearby Royal Alfred Sailors' Homes (now the Maharashtra Police Headquarters), and was completed in 1896.\nThe club offers chambers for residence overlooking the Gateway of India, a bar, a lounge, a restaurant, ballrooms, a club shop, a men's salon, a library, a gymnasium with steam and sauna facilities, a cue sports room and members cards room, in addition to sailing facilities in the Arabian Sea. \nThe club regularly conducts sailing events and championships for members and yachtsmen across the Mumbai region. Admission to the club is reserved by exclusive membership.",
+   "url": "https://en.wikipedia.org/wiki/Royal_Bombay_Yacht_Club"
+  },
+  {
+   "title": "Roman Catholic Archdiocese of Bombay",
+   "text": "The Archdiocese of Bombay is a Latin Church archdiocese of the Catholic Church. Its episcopal see is in Bombay (Mumbai) and encompasses the northern Konkan division of Maharashtra, India. The cathedral is the Cathedral of the Holy Name. It also administers an important minor basilica, the Basilica of Our Lady of the Mount, in Bandra suburb of Bombay.\nAs of 2006, the archdiocese had 277 diocesan priests, 283 religious priests, 383 male religious brothers and 1,530 religious sisters. The archdiocese serves a total of 506,976 Indian Catholics in 121 parishes all across the Greater Bombay Metropolitan Area.\nArchbishop John Rodrigues succeeded Oswald Cardinal Gracias as the Archbishop of Bombay on 25 January 2025, following Pope Francis's acceptance of Cardinal Gracias' resignation.",
+   "url": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Bombay"
+  },
+  {
+   "title": "2008 Mumbai attacks",
+   "text": "The 2008 Mumbai attacks, colloquially known as 26/11, were a coordinated series of twelve Islamic terrorist attacks carried out in Mumbai, Maharashtra, India, from 26 to 29 November 2008, by ten members of the Lashkar-e-Taiba. A total of 175 people died, including 166 civilians and nine of the attackers, and more than 300 people were injured.\nThe attackers arrived in Mumbai via the Arabian Sea. They had departed from Karachi on a Pakistani cargo vessel, hijacked an Indian fishing trawler on the way, and ended their journey to South Mumbai's coastline on inflatable boats. Eight of the attacks were mass shootings in South Mumbai at Chhatrapati Shivaji Terminus, Trident Hotel, Taj Mahal Palace Hotel, Leopold Cafe, Cama Hospital, Nariman House, Metro Big Cinemas, and in a lane behind St. Xavier's College and the headquarters of The Times of India. In addition to the mass shootings, an explosion occurred at Mazagaon, in Mumbai's port area, and in a taxi at Vile Parle. By the early morning of 28 November, all sites except for the Taj Hotel had been secured by the Mumbai Police and security forces. On 29 November, India's National Security Guards conducted Operation Black Tornado to flush...",
+   "url": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks"
+  },
+  {
+   "title": "Leopold Cafe",
+   "text": "The Leopold Cafe and Bar is a restaurant and bar on Colaba Causeway, Colaba, Mumbai, India, located across from the Colaba Police station. It was one of the first sites attacked in the 2008 Mumbai attacks.",
+   "url": "https://en.wikipedia.org/wiki/Leopold_Cafe"
+  },
+  {
+   "title": "Gokul (restaurant)",
+   "text": "Gokul is a pub in Colaba, Mumbai. Located behind The Taj Mahal Palace Hotel next to Regal Cinema, it is renowned for its cheap alcoholic beverages (mostly beer) sold almost at retail value (i.e. without the extra charges added to alcoholic beverages in Mumbai if they are consumed in restaurants). Because of its low prices it is popular with the students of institutes in the area, achieving cult status with them. However, it is also frequented by journalists, lawyers, researchers and businessmen who work in the South Mumbai area. \nThe restaurant seating is divided into two levels - the upstairs (airconditioned) section and the downstairs (non-airconditioned). These in turn are subdivided into smoking and non-smoking. With an emphasis on functionality rather than aesthetics, the lack of decoration is reportedly part of \"its charm\".",
+   "url": "https://en.wikipedia.org/wiki/Gokul_(restaurant)"
+  },
+  {
+   "title": "INS Vajrabahu",
+   "text": "INS Vajrabahu is an Indian Navy submarine base of the Western Naval Command located near Mumbai in Maharashtra. It was commissioned on 1 February 1996.\n\n",
+   "url": "https://en.wikipedia.org/wiki/INS_Vajrabahu"
+  },
+  {
+   "title": "National Gallery of Modern Art, Mumbai",
+   "text": "National Gallery of Modern Art, Mumbai was opened to the public in 1996. It hosts various exhibitions and art collections of famous artists, sculptors and different civilizations. It is situated in the Cowasji Jehangir Hall, near Regal Cinema in Colaba.",
+   "url": "https://en.wikipedia.org/wiki/National_Gallery_of_Modern_Art,_Mumbai"
+  },
+  {
+   "title": "INS Satavahana",
+   "text": "INS Satavahana is the premier Submarine Training Base of the Indian Navy and is located at Visakhapatnam, Andhra Pradesh. Training is carried out by the Submarine School (SMS), the Escape Training School (ETS) and the School of Advanced Undersea Warfare (SAUW).",
+   "url": "https://en.wikipedia.org/wiki/INS_Satavahana"
+  },
+  {
+   "title": "Bademiya",
+   "text": "Bademiya is an iconic food stall and restaurant chain in Mumbai, India. It was established in 1946 by Mohammad Yaseen as makeshift seekh kabab counter. The counter has now branched out into several restaurants, takeaway joint and a permanent food stall at the original location. The restaurant is a popular landmark and touristic attraction of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Bademiya"
+  },
+  {
+   "title": "Dhanraj Mahal",
+   "text": "The Dhanraj Mahal is a historic Art Deco building located in the Colaba district of Mumbai, India, near the Gateway of India. It was constructed in the mid-1930s as the city palace for Maharaja Narsingir Dhanrajgir Gyan Bahadur of Hyderabad. It was the residence of the actress Zubeida. The princely Dhanrajgir family commissioned the renowned British architectural firm Gregson, Batley & King to design the building. At the time of its completion (1935–1938) it was reportedly the largest and most expensive private residence in Bombay. Dhanraj Mahal’s design draws on early-20th-century Parisian Art Deco. Its façade is clad in a distinctive pale pink sandstone and features sweeping curved forms and geometric ornamentation. The structure has been officially designated a Grade III heritage structure under the Mumbai Municipal Corporation’s conservation regulations.",
+   "url": "https://en.wikipedia.org/wiki/Dhanraj_Mahal"
+  },
+  {
+   "title": "Indigo (restaurant)",
+   "text": "Indigo was a restaurant founded by the Indian chef Rahul Akerkar in 1999 in Mumbai, India, in a restored colonial bungalow behind the Taj Mahal Palace Hotel. The restaurant was one of the first standalone fine-dining restaurants in the country to serve quality European cuisine outside the luxury hotel industry. It is credited with influencing the Indian restaurant industry in the country's post-liberalisation era. Food critic Vir Sanghvi called the restaurant \"one of the most important establishments in Indian restaurant history\". It was included in the top 60 restaurants in the world by Condé Nast Traveler.\nThe restaurant closed on 29 April 2018, following the expiration of the property's lease and failed renegotiations.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Indigo_(restaurant)"
+  },
+  {
+   "title": "Maharashtra Police Headquarters",
+   "text": "Maharashtra Police Headquarters building (formerly Royal Alfred Sailors' Home) is a Grade I listed UNESCO World Heritage Site in South Mumbai that was built between 1872 and 1876, and designed by the British architect Frederick William Stevens, who also designed the Chhatrapati Shivaji Maharaj Terminus. The building is often confused with Mumbai Police Headquarters, also built in Gothic Revival style, and several newspapers often carry the image of Maharashtra headquarters while reporting on the latter. The headquarters are located at Wellington Circle in Fort, and face the Wellington Fountain.\nRoyal Alfred Sailors' Home, the previous occupant of the building, was named after Prince Alfred, the second son of Queen Victoria and Prince Albert, who visited Bombay in 1870. It was a recuperation centre for sick European sailors, and provided accommodation for 20 officers and about 100 seamen. After 1928, it served as the Bombay Presidency Legislative Assembly and then the Maharashtra Vidhan Bhavan until 1982, when the Maharashtra Police moved into the building.",
+   "url": "https://en.wikipedia.org/wiki/Maharashtra_Police_Headquarters"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Mumbai",
+  "text": "Mumbai (Marathi and Hindi: मुंबई Mumbaī), formerly known as Bombay, is the largest city in western India and the capital of the state of Maharashtra. A cosmopolitan metropolis, Mumbai was built on seven islands on the Konkan coastline which over time were joined to form the island city of Bombay. The island was in turn joined with the neighbouring island of Salsette to form \"Greater Bombay\". The city has a metropolitan population of over 20 million (2025).\n\nOften called the \"New York of India\", Mumbai is undoubtedly the country's commercial capital and one of the predominant port cities. Mumbai's nature as the most eclectic and cosmopolitan Indian city is symbolised in the presence of Bollywood within the city, the centre of the globally-influential Hindi film and TV industries. It is also home to India's largest slum population, as well as the iconic Gateway of India built on the waterfront of Mumbai Harbour during the British Raj.\nThe name Bombay comes from Bom Bahia (\"the good bay\" in Portuguese), a name given by explorer Francis Almeida. Mumbai is named after the goddess Mumbadevi of the Koli fishing community.\n\n\n== See ==\nIndividual listings can be found in Mumbai's district articles\n\nThere is a lot to see in Mumbai, but the typical \"tourist\" sights are concentrated in South Mumbai.\nBy Indian standards, Mumbai is a young city and much of the land comprising the city did not exist until it was claimed from the sea over three centuries ago. It is therefore a pleasant surprise to find rock cut caves such as the Elephanta, Kanheri, and Mahakali within city limits.\n\n\n=== Colonial buildings ===\n\nThe British built a magnificent city within the walls of Fort St. George, which lies at the southern extremity of the city. Some fine examples of the Gothic revival, Neo-classical style and Indo-Saracenic style are seen within this area. To get the best experience of the city centre, stroll around the wide streets of the area right from Churchgate to Colaba. These areas are all beautifully planned and have wide and clean pavements, unlike the rest of the city. Famous monuments to be seen in this area are the Gateway of India, the Chhatrapati Shivaji Maharaj Terminus (CSMT, previously Victoria Terminus), the Municipal Corporation and Police Headquarters and the Chhatrapati Shivaji Vastu Sanghralaya (formerly, the Prince Of Wales Museum). The famous Taj Mahal Palace Hotel is opposite the Gateway of India. The Mumbai University buildings and the High Court are also excellent examples of colonial architecture in the city.\nThere are a lot of other modern structures to look at in this area. The area known as Marine Drive (right from Girgaon Chowpatty to NCPA) is home to a large number of buildings built in the Art Deco style. Mumbai is second only to Miami in the number of Art Deco buildings. some famous buildings in this style are the Eros and Regal cinemas. The Art Deco and Gothic buildings were added to the UNESCO World Heritage List in 2018.\n\n\n=== Museums and galleries ===\n\nSome of the India's most famous museums and art galleries are found here. The Kala Ghoda area in South Mumbai teems with them, particularly the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (Prince of Wales Museum), and the National Gallery of Modern Art. Once again, most of them are concentrated in South Mumbai. Also worth planning a visit is Jehangir Art Gallery, also at Kala Ghoda, displays changing exhibits by notable artists. The plaza next to the gallery also regularly displays exhibits of various artists.\nIn Nehru Complex in Worli is Nehru Centre Art Gallery at Worli is a gallery dedicated to young and promising talent along with established artists. Also within the complex is a permanent exposition, Discovery of India, which attempts to cover every aspect of artistic, intellectual and philosophical attainment of India through ages. The exposition spreads across 14 galleries and reflects true identity of the country. On the other end of the complex, Nehru Science Centre - which has a separate entrance from Mahalaxmi race course road, has a permanent exhibition on 'interactive and exciting' science related exhibits highlighting science principles in fun yet educational way.\n\n\n=== Beaches ===\n\nMumbai isn't known for beaches because they have immensely filthy water! Mumbai has a few beaches, including one in the southern districts. But they aren't that great and the water off Mumbai's coast is extraordinarily dirty. The relatively better ones are in North Mumbai. However, they are a great place to see how the locals spend their Sunday evenings, with various food and game stalls.\nThere are other beaches to be found such as the Girgaon Chowpatty (the cleanest one) in South Mumbai, Juhu Beach in the Western Suburbs and Aksa Beach in North Mumbai. The currents don't seem strong, but particularly in the rains, lots of people die from drowning, so avoid getting in the water (especially at Aksa Beach). A word of advice to women: Mumbai beaches are not the kind you can wear swimsuits to, particularly two-pieces.\n\n\n=== Zoos, parks and gardens ===\n\nMumbai has a justified reputation as a concrete jungle, but there are some nice pockets of greenery within the city. It is also one of the rare megacities to have an entire national park within its borders (Sanjay Gandhi National Park). You may not visit Mumbai for them, but if you are already here, they make a nice escape from the din and bustle. It also houses the ancient Kanheri Caves crafted out of rocky cliffs, which dates back 2,400 years.\nThe city zoo (Jijamata Udyan) in Byculla is a colonial relic and it is surprisingly well-preserved. The animals may look rather emaciated, but the sheer diversity of trees on this lush zoo is worth a trip.\nSome city parks are very well-maintained and combine history as well. The Hanging Gardens on the Malabar Hill offers stunning vistas of the Marine Drive. Opposite the Hanging Gardens, there is another park which is known as Kamala Nehru Park, famous for the striking shoe-shaped structure which has been filmed in various Bollywood movies\nFurther in South Mumbai, the Mumbai Port Trust Garden, is another hidden gem. This is set off a small side street off the Colaba Causeway 2–3 km (1.2–1.9 mi) south of the main section. Attractive views of the port, the naval yards and sunset.\nIn North Central Mumbai, there is Mancherji Joshi Five Gardens. Mainly used by walkers in the morning, it is a mess in the evenings. But the gardens encircle some historic, art deco residences.\n\n\n=== Markets and crowds ===\n\nMumbai is probably worth visiting just for its street markets, the hustle of vendors, and the madness of the crowds. Good places are Bandra, Khar and Andheri. If you came to Mumbai and didn't give visit to the highly dense and crowded markets, it means you didn't meet the real Mumbai.\nHawkers and street shoppers don't ask for any legal permission and then set their stalls at the places where they see maximum footfall. From electronics items to fresh food, you can get everything at railway platforms, subway and mains streets.\n\n\n=== Modern buildings and malls ===\nOnce the British left, the zeal to wipe away the traces of colonial rule was, unfortunately, not matched by the enthusiasm to build a new city that matched the grandeur of the British-era buildings. Now, while the shabbiness of the socialist era is thankfully being replaced by architecture with an eye on aesthetics, the new malls, multiplexes, and office buildings that are coming up are indistinguishable from those anywhere else in the world. Still, they are worth a look, especially if you want to have a look at India's success story. Skyscrapers exceeding 60 stories now dominate the skyline.\nFor long, Inorbit Mall was the only mall offering a lot of variety for shoppers. Palladium, built within the High Street Phoenix, broke the monopoly of Inorbit Mall. From state of the art interiors to international brands, the Palladium has everything. The new Infiniti Mall (Infinity 2) in Malad also has lots of foreign brands and is one of the biggest malls in the suburbs.\nNirmal Lifestyles Mall in Mulund and Metro Junction Mall in Kalyan are two of the largest malls in Mumbai. In the central suburbs, they are quite popular in the city. The Phoenix Marketcity Mall is the largest in the city, located in Kurla. There is also the R CITY Mall in Ghatkopar.\nPowai is a modern central Mumbai suburb with European looks. Powai houses the Indian Institute of Technology and is built around fabulous lake. Most of the construction is in a township format and is privately built. It houses twenty top of the line restaurants, two large convenience stores, a handful of coffee shops and entertainment areas. Initially built as an upmarket self-contained township, Powai has now grown into a business process outsourcing hub in Mumbai. The township reflects both characteristics; you will often find families shopping and twenty somethings hanging out in tables next to each o",
+  "url": "https://en.wikivoyage.org/wiki/Mumbai"
+ },
+ "sights": [
+  {
+   "name": "Swami Vivekananda Statue",
+   "kind": "artwork",
+   "walkMinutes": 1,
+   "lat": 18.922749,
+   "lon": 72.8346884
+  },
+  {
+   "name": "Gateway of India",
+   "kind": "monument",
+   "walkMinutes": 1,
+   "lat": 18.9219626,
+   "lon": 72.8345609
+  },
+  {
+   "name": "Gateway of India",
+   "kind": "monument",
+   "walkMinutes": 1,
+   "lat": 18.9219635,
+   "lon": 72.834564
+  },
+  {
+   "name": "Shivaji Maharaj Statue",
+   "kind": "artwork",
+   "walkMinutes": 2,
+   "lat": 18.9228448,
+   "lon": 72.8338591
+  },
+  {
+   "name": "Bowen Memorial Methodist Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 18.9233407,
+   "lon": 72.8326541
+  },
+  {
+   "name": "Wesley Church ( C.N.I )",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 18.9221904,
+   "lon": 72.8309531
+  },
+  {
+   "name": "INS Vikrant Memorial",
+   "kind": "memorial",
+   "walkMinutes": 7,
+   "lat": 18.9255759,
+   "lon": 72.8327135
+  },
+  {
+   "name": "CSMVS Children’s Museum",
+   "kind": "museum",
+   "walkMinutes": 8,
+   "lat": 18.9260723,
+   "lon": 72.8330638
+  },
+  {
+   "name": "National Gallery of Modern Art",
+   "kind": "museum",
+   "walkMinutes": 9,
+   "lat": 18.9258376,
+   "lon": 72.8313854
+  },
+  {
+   "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+   "kind": "museum",
+   "openingHours": "Tu-Su 10:15-18:00",
+   "walkMinutes": 9,
+   "lat": 18.9268827,
+   "lon": 72.8326589
+  },
+  {
+   "name": "Church of St Andrew and St Columba",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 18.92705,
+   "lon": 72.8334866
+  },
+  {
+   "name": "Mahadev Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 18.91909,
+   "lon": 72.8294331
+  },
+  {
+   "name": "Naval Uprising Memorial",
+   "kind": "monument",
+   "walkMinutes": 10,
+   "lat": 18.9227815,
+   "lon": 72.8289554
+  },
+  {
+   "name": "Bhimrao Ramji Ambedkar memorial",
+   "kind": "memorial",
+   "walkMinutes": 11,
+   "lat": 18.9262387,
+   "lon": 72.829652
+  },
+  {
+   "name": "Jehangir Art Gallery",
+   "kind": "gallery",
+   "walkMinutes": 11,
+   "lat": 18.9272846,
+   "lon": 72.8317177
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

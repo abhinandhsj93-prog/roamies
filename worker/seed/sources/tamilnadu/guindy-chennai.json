@@ -1,0 +1,264 @@
+{
+ "query": "Guindy, Chennai",
+ "found": "Guindy, Anna Salai (Mount Road), Ward 160, Zone 12 Alandur, Chennai, Chennai Metropolitan Area, Alandur, Chennai District, Tamil Nadu, 600032, India",
+ "lat": 13.0086685,
+ "lon": 80.2126063,
+ "fetchedAt": "2026-10-12T19:15:43.091Z",
+ "locality": {
+  "id": "ward-160-chennai-district-tamil-nadu",
+  "name": "Ward 160",
+  "area": "Chennai, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Guindy": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/ALCOB_Ashok_Leyland_Corporate_Building_in_Guindy%2C_Chennai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Guindy",
+   "credit": "Photo: Ask27, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ALCOB_Ashok_Leyland_Corporate_Building_in_Guindy,_Chennai.jpg"
+  },
+  "Kathipara Junction": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Kathipara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kathipara Junction",
+   "credit": "Photo: Guru coolguy (talk), Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kathipara.jpg"
+  },
+  "Tamil Nadu Dr. M.G.R. Medical University": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Vice_President%2C_Shri_M._Venkaiah_Naidu_at_the_30th_Convocation_of_Tamil_Nadu_Dr._M.G.R._Medical_University%2C_in_Chennai.JPG/1280px-The_Vice_President%2C_Shri_M._Venkaiah_Naidu_at_the_30th_Convocation_of_Tamil_Nadu_Dr._M.G.R._Medical_University%2C_in_Chennai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tamil Nadu Dr. M.G.R. Medical University",
+   "credit": "Photo: Vice President's Secretariat, GODL-India, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Vice_President,_Shri_M._Venkaiah_Naidu_at_the_30th_Convocation_of_Tamil_Nadu_Dr._M.G.R._Medical_University,_in_Chennai.JPG"
+  },
+  "Alandur Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Constitution-Alandur.svg/1280px-Constitution-Alandur.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Alandur Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constitution-Alandur.svg"
+  },
+  "ITC Grand Chola Hotel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/ITC-Grand-Chola-Chennai-2.JPG/1280px-ITC-Grand-Chola-Chennai-2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "ITC Grand Chola Hotel",
+   "credit": "Photo: Destination8infinity, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ITC-Grand-Chola-Chennai-2.JPG"
+  },
+  "Le Royal Meridien, Chennai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/LeRoyalMeridienChennai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Le Royal Meridien, Chennai",
+   "credit": "Photo: Rasnaboy, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:LeRoyalMeridienChennai.jpg"
+  },
+  "Guindy railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Guindy_railway_station_%28June_2025%29.jpg/1280px-Guindy_railway_station_%28June_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Guindy railway station",
+   "credit": "Photo: Sameer2905, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guindy_railway_station_(June_2025).jpg"
+  },
+  "King Institute of Preventive Medicine and Research": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Seal_of_Tamil_Nadu.svg/1280px-Seal_of_Tamil_Nadu.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "King Institute of Preventive Medicine and Research",
+   "credit": "Photo: File:Emblem of Tamil Nadu.svg:User:NikNaks File:Emblem of India.svg: Various(see file) File:Flag_of_India.svg: various (see file) Derivative work:Perumalism Chat 08:23, 19 July 2013 (UTC), Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_of_Tamil_Nadu.svg"
+  },
+  "Guindy metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Guindy_Metro_station_pic_2.jpg/1280px-Guindy_Metro_station_pic_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Guindy metro station",
+   "credit": "Photo: Hexatron93, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guindy_Metro_station_pic_2.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Guindy",
+   "text": "Guindy is a neighborhood of Chennai, Tamil Nadu. The Kathipara junction where Anna Salai, Mount-Poonamallee Road, Inner Ring Road, 100 Feet Road or Jawaharlal Nehru Road, and GST Road meet here. It is one of the important nodal points of road traffic in the metropolitan area. It is also a commercial hub. Here is headquarters of Ashok Leyland This junction serves as the entry point to the city limits from the suburbs. It is surrounded by Saidapet in the North, Kotturpuram and Adyar towards the East, Velachery in the South, Adambakkam and Alandur in the South-West, Parangimalai in the West and Ekkatutthangal in the North-West. Guindy is home to many important landmarks in the city, the most famous amongst them being the Guindy National Park. It also serves as a main hub for several small and medium scale industries (Guindy Thiru Vi Ka Estate). Transportation to/from the neighborhood is catered by Guindy railway station and Guindy metro station.",
+   "url": "https://en.wikipedia.org/wiki/Guindy"
+  },
+  {
+   "title": "Guindy Race Course",
+   "text": "The Guindy Race Course is a horse racing course set up in 1777 in Chennai, India. It is the oldest race course in India. It hosts events in the winter season.",
+   "url": "https://en.wikipedia.org/wiki/Guindy_Race_Course"
+  },
+  {
+   "title": "Kathipara Junction",
+   "text": "Kathiparai Junction is a major road junction in the Indian city of Chennai, capital of the southern Indian state of Tamil Nadu. Situated at the Alandur area, between the intersection of the Grand Southern Trunk Road, Inner Ring Road, Anna Salai and Mount-Poonamallee Road. Kathipara flyover is the largest cloverleaf flyover in India as well as South Asia.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Kathipara_Junction"
+  },
+  {
+   "title": "Blue Cross of India",
+   "text": "The Blue Cross of India (BCI) is an animal welfare charity based in Chennai, India. It was established in 1959 by V. Sundaram, his wife Usha and their three children, in Chennai (then Madras). The society was formally registered in 1964 under the Societies Registration Act. The nine signatories to the Articles and Memorandum of Association were Captain V. Sundaram, Usha Sundaram, S. Chinny Krishna, Suresh Sundaram, S. Vijayalakshmi, D. Daivasigamony, Kamakshi Krishnamoorthi, Sundari Nataraj and T. V. Chandrasekhar. It is now one of the country's largest animal welfare organisations. It runs several animal welfare programs including animal rights awareness.\nBlue Cross of India (BCI) runs hospitals and shelters for injured or unwell stray dogs, cats, cattle, horses, and birds in Chennai. They also provide animal ambulances and a mobile dispensary.\nThe non-medical division of the organisation is looked after by volunteers. The organisation has received several national and international awards.\nOn July 27, 1994, thirty years after the organisation's founding, it received a gift of 4 acres (16,000 m2) of land and a donation of ₹ 25,00,000. This land was purchased a few months later so that...",
+   "url": "https://en.wikipedia.org/wiki/Blue_Cross_of_India"
+  },
+  {
+   "title": "Tamil Nadu Dr. M.G.R. Medical University",
+   "text": "The Tamil Nadu Dr. M.G.R. Medical University (TNMGRMU) is a government medical university situated in Chennai, Tamil Nadu, India. It is one of the premier medical universities in India, named after the former Chief Minister of Tamil Nadu M. G. Ramachandran, and it is the second largest health sciences university in India.",
+   "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Dr._M.G.R._Medical_University"
+  },
+  {
+   "title": "Guindy Thiru Vi Ka Estate",
+   "text": "Guindy Thiru Vi Ka Industrial Estate is a neighbourhood in Chennai, India. This was an active small scale industrial estate in the 1960s and 1970s but is gradually turning to new economy companies. Its central location makes it an attractive proposition for new business.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Guindy_Thiru_Vi_Ka_Estate"
+  },
+  {
+   "title": "Alandur Assembly constituency",
+   "text": "Alandur is a legislative assembly in Chennai district and partially includes areas from Chengalpattu district and Kanchipuram district in the Indian state of Tamil Nadu. Its State Assembly Constituency number is 28. It consists of portions that includes the Alandur, Nanganallur, Kovur, Chennai, Adambakkam, Palavanthangal, Moulivakkam, Nandambakkam, Iyyapanthangal, Manapakkam, Mugalivakkam, Cowl Bazaar, St Thomas Mount cum Pallavaram Cantonment Board, Gerugambakkam, Kolapakkam, and some other parts of Chennai City and forms a part of Sriperumbudur Lok Sabha constituency for elections to the Parliament of India. It is one of the 234 State Legislative Assembly Constituencies in Tamil Nadu, in India.",
+   "url": "https://en.wikipedia.org/wiki/Alandur_Assembly_constituency"
+  },
+  {
+   "title": "ITC Grand Chola Hotel",
+   "text": "The ITC Grand Chola is a high-end luxury hotel in Chennai, India. It is located in Guindy, opposite SPIC building and along the same row of buildings as Ashok Leyland Towers. The building, designed by Singapore-based SRSS Architects, is of mixed-use development with three separate wings and is themed after traditional Dravidian architecture of the Chola dynasty. The hotel is the ninth hotel in The Luxury Collection brand.\nThe hotel, built on over 1,600,000 sq ft, is dubbed the largest stand-alone hotel in the country built with an investment of ₹ 12,000 million and has the largest convention centre in the country built on 100,000 sq ft with a 30,000-sq ft pillar-less ballroom. In terms of room inventory, with 600 rooms, it is the third largest hotel in India after Renaissance Mumbai Convention Centre Hotel – now rebranded as The Westin Mumbai Powai Lake (759 rooms) and Grand Hyatt (694 rooms), both in Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/ITC_Grand_Chola_Hotel"
+  },
+  {
+   "title": "Le Royal Meridien, Chennai",
+   "text": "Le Royal Méridien Chennai is a five-star luxury hotel in Chennai, India. Initially built as Madras Hilton at an investment of ₹ 1,650 million, the hotel was, however, opened as Le Royal Meridien Chennai in 2000. It is located at the Guindy-Kathipara Junction on Anna Salai.",
+   "url": "https://en.wikipedia.org/wiki/Le_Royal_Meridien,_Chennai"
+  },
+  {
+   "title": "SPIC building, Chennai",
+   "text": "SPIC building, Chennai, is one of the oldest skyscrapers of the city. Earlier, it was popularly known as \"twin towers of Chennai.\" The main building has 10 floors and Annexe building has 8 floors. It houses the headquarters of Southern Petrochemical Industries Corp. Ltd., a joint venture between the MA Chidambaram Group and the Tamil Nadu Industrial Development Corp. Ltd (TIDCO). It is one of the Asia's largest fertilizer factories located in southern part of India. The building is built facing Guindy railway station, on Anna Salai.\nThe SPIC administrative building was built in 1977 and Annexe building in the year 1993. However, one of the two buildings still stand, the other being sold and partly demolished, underscoring the declining fortunes of the company.",
+   "url": "https://en.wikipedia.org/wiki/SPIC_building,_Chennai"
+  },
+  {
+   "title": "Guindy railway station",
+   "text": "Guindy railway station (station code: GDY) is one of the railway stations of the Chennai Beach–Chengalpattu section of the Chennai Suburban Railway Network. It serves the neighbourhood of Guindy, a suburb of Chennai. It is located at about 14 km from Chennai Beach terminus and is situated at NH 45 in Anna Salai, with an elevation of 12 m above sea level.\nIt is located next to the Guindy metro station and the Guindy bus stop, making the area well-connected through public transit and easier for commuters to travel to and from.",
+   "url": "https://en.wikipedia.org/wiki/Guindy_railway_station"
+  },
+  {
+   "title": "King Institute of Preventive Medicine and Research",
+   "text": "King Institute of Preventive Medicine and Research is a medicine research institute located in Guindy, Chennai, India. It was established on 7 November 1899 with the aim of protecting against scourging infections and was named after Lt. Col. W. G. King, the then Sanitary Commissioner of the Madras Presidency.\nThe institute is located on the banks of Adyar River. The main red building that houses the Director's office has been identified as a heritage structure and has been brought under Indian Archaeological Society. The institute functions under Director of Medical Education and Department of Health and Family Welfare (Tamil Nadu).\nIt was one of the major institutions in India responsible for eradicating small pox by the production of vaccine. It is also one of the referral centers for bacterial and viral diseases in Tamil Nadu. Various wings at the institute include International Vaccination Centre, Board of Paramedical Education, and school of laboratory technology. Activities at the institute include quality control of schedule C and C1 drugs, manufacturing of anti–snake venom serum, diagnostic reagents (antigens and antisera), maintenance and supply of bacterial cultures, small...",
+   "url": "https://en.wikipedia.org/wiki/King_Institute_of_Preventive_Medicine_and_Research"
+  },
+  {
+   "title": "Guindy metro station",
+   "text": "Guindy is an elevated metro station on the North-South Corridor of the Blue Line of Chennai Metro in Chennai, India, which opened on 21 September 2016. This station will serve the neighbourhoods of Guindy and Velachery.",
+   "url": "https://en.wikipedia.org/wiki/Guindy_metro_station"
+  },
+  {
+   "title": "Guindy taluk",
+   "text": "Guindy taluk is a taluk of the city district of Chennai in the Indian state of Tamil Nadu. It was formed in December 2013 from parts of the erstwhile Mambalam-Guindy taluk and the Mylapore-Triplicane taluk. It comprises the neighbourhoods of Adyar, Alandur, T. Nagar, Ekkaduthangal, Guindy and Kotturpuram.\nMambalam-Guindy taluk \n\nAdyar Firka: Adyar (Part 2), Govt.Farm, Guindy Park, Venkatapuram\nEkkattuthangal Firka: Adyar (Part 1), Ekkatuthangal, Alandur\nThyagaraya Nagar Firka: Thyagaraya Nagar\nMylapore-Triplicane taluk\n\nKottur Firka: Kottur",
+   "url": "https://en.wikipedia.org/wiki/Guindy_taluk"
+  },
+  {
+   "title": "Tamil Nadu Music and Fine Arts University",
+   "text": "The Tamil Nadu Dr. J. Jayalalithaa Music and Fine Arts University (TNJMFAU), formerly and commonly known as Tamil Nadu Music and Fine Arts University (TNMFAU), is a government music and fine arts university situated in Adyar in the southern part of the city of Chennai, Tamil Nadu, India. It is about 15 km (9.3 mi) from the Chennai International Airport and about 10 km (6.2 mi) from the Puratchi Thalaivar Dr. M.G. Ramachandran Central Railway Station. It is one of the premier music and fine arts universities, named after the former chief minister of Tamil Nadu J. Jayalalithaa.",
+   "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_Music_and_Fine_Arts_University"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Chennai",
+  "text": "Chennai (Tamil: சென்னை), formerly Madras (மெட்ராஸ் Meḍrās), is the largest coastal city in southern India and the capital of the state of Tamil Nadu. It is on the east coast of peninsular India. Though Chennai traces its history to Fort St George and the adjoining village of Madrasapattinam founded by the British East India Company in 1640, some residential districts of the city are older. With a metropolitan population of over 11 million (2025), Chennai is the fifth-largest city in India, and the second-largest in southern India after Bengaluru.\nChennai is well-connected by road, rail and air and is a staging point for tours to the 7th century Pallava temple of Mamallapuram, a  UNESCO World Heritage Site, the Hindu temples of Kanchipuram, Sriperumbudur and Tirupati, the bird sanctuary of Vedanthangal and the Pondicherry ashram.\nChennai has an extremely hot and humid climate, especially in the month of May, and has heavy rains during monsoons (July to November). The worst of the heat can be avoided by visiting from November to February.\n\n\n== See ==\nIndividual listings can be found in Chennai's district articlesChennai is a diverse mix of cultures, with over 15,000 temples and a couple of mosques and churches.\n\n\n== Do ==\nChennai has several well-known beaches. The Marina Beach in Central Chennai is the second-longest beach in the world after Cox's Bazar in Bangladesh. Chennai is home to Guindy National Park, the smallest national park in India.\n\n\n=== Others ===\nDuring summers it becomes too hot and humid to venture out during the day. So go out for a stroll during the night (7-9PM) on the Marina beach and Elliots Beach (Besant Nagar). It's a nice idea to pack dinner and have a picnic on the beach as most locals do. If you happen to drive a car you can also consider taking along a few foldable chairs. Beyond 10PM, no one is permitted to be on the beach. There are policemen on the beach to ensure people follow this rule, and on some occasions they tend to shoo people out by 9PM. However, if you are an early riser, you might consider visiting the beaches early morning around 6 to 8AM The sunrise is wonderful and there is a slight breeze as well. However, be warned that there are dogs lying all over the place and you have a high chance of getting hit by a cricket ball if you aren't looking.\nStroll along the over crowded Pondy Bazaar and Ranganathan Street and try your skills in bargaining for knick-knacks. Be warned that it is an intensely crowded place, where you have to elbow your way through.\nTake a bus or an auto to Mylapore Tank and take a walk around Mylapore especially in and around the Kapaleeshwarar Temple. The crowds, sounds, fragrances of temple incense and flowers and the tiny shops are to be definitely experienced though keep away on Fridays. It gets too hectic even for experienced Mylaporeans.\n\n\n=== Music and dance ===\nChennai is a major centre of Bharatanatyam with over 1,000 dance performances a year. More dance forms are now encouraged and taught like Kuchipudi (Tr\n== Eat ==\nChennai has numerous restaurants, offering an assortment of cuisine. The beach restaurants are well-maintained and serve great food during the evenings. The eat-outs in Chennai range from budget, midrange and to up-market. There are swanky star-quality restaurants, plain open traditional vegetarian or non-vegetarian restaurants- where you share a table with strangers, street stalls, tea kadais, Indian fast food centres, western fast food centres, food courts, coffee shops, bakeries to exclusive specialty establishments. Vegetarian restaurants serve tiffin and vegetarian meals. There are also a number of restaurants that serve a variety of Tamil, Andhra and Kerala vegetarian and non-vegetarian fare. Many of these restaurants have nowadays diversified and offer other Indian and Indianized Chinese dishes as well. Usually, the check includes a service charge, written next to 'S.C.' If no service charge is added, it is customary to leave a moderate tip.\nThe East Coast Road abounds with restaurants and eating spots, which offer a wide range of cuisines and a tasteful ambience. And you can plan your dinner or lunch in one of these hotels.\n\n\n== Drink ==\nChennai is a difficult place to drink. Government rule states that only establishments with a minimum of 21 rooms can obtain a bar or liquor license. All the bars that are around are (at least on paper) part of some hotel or the other and in general overpriced.\nGovernment-run liquor stores called TASMAC are all over the place but in general not at all a pleasant experience. They usually have unpleasant staff and environment and usually will have local brands. Also, they always tend to mark up each bottle by ₹5-10 over the listed price. Go for it if you want a one-time war-like experience in order to obtain some booze!\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Chennai"
+ },
+ "sights": [
+  {
+   "name": "Guindy taluk",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 13.0084125,
+   "lon": 80.2126875
+  },
+  {
+   "name": "Guindy railway station",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 13.008611111111112,
+   "lon": 80.21305555555556
+  },
+  {
+   "name": "Guindy metro station",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 13.009262,
+   "lon": 80.213189
+  },
+  {
+   "name": "Guindy Race Course",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 13.005,
+   "lon": 80.216
+  },
+  {
+   "name": "Tamil Nadu Dr. M.G.R. Medical University",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.0099,
+   "lon": 80.2182
+  },
+  {
+   "name": "Tamil Nadu Music and Fine Arts University",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.009947,
+   "lon": 80.218228
+  },
+  {
+   "name": "King Institute of Preventive Medicine and Research",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 13.01388888888889,
+   "lon": 80.21611111111112
+  },
+  {
+   "name": "SPIC building, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 13.011666666666667,
+   "lon": 80.21861111111112
+  },
+  {
+   "name": "Guindy Thiru Vi Ka Estate",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 13.0149,
+   "lon": 80.2093
+  },
+  {
+   "name": "Le Royal Meridien, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 13.006758,
+   "lon": 80.205528
+  },
+  {
+   "name": "ITC Grand Chola Hotel",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 13.010574,
+   "lon": 80.220194
+  },
+  {
+   "name": "Guindy",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 13.0067,
+   "lon": 80.2206
+  },
+  {
+   "name": "Kathipara Junction",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 13.00727,
+   "lon": 80.20371
+  },
+  {
+   "name": "Blue Cross of India",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 12.999722222222221,
+   "lon": 80.21555555555555
+  },
+  {
+   "name": "Alandur Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 13.003899,
+   "lon": 80.203052
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

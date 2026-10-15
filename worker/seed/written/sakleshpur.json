@@ -1,0 +1,107 @@
+{
+ "query": "Sakleshpur",
+ "region": "karnataka",
+ "name": "Sakleshpur",
+ "draft": {
+  "briefing": "Hey, you're in Sakleshpur! This hill town on the Hemavati River sits at the foot of the Western Ghats, and trains heading to Mangaluru pick up extra engines here to tackle the steep ghat.",
+  "hungryLine": "The specialty around here is akki rotti with chicken or pork curry.",
+  "moodReplies": {
+   "show-me-around": "Sakleshpur railway station is a 13 min walk, and Manjarabad Fort, shaped like an eight-pointed star, is about 4 km southwest of town.",
+   "somewhere-to-chill": "Head out to the Hemavathi Backwater for a slow, quiet afternoon.",
+   "surprise-me": "At Sakleshpur station, banker engines are attached to trains heading for Mangaluru so they can climb and descend the ghat's 1:50 gradient safely."
+  },
+  "seeFirst": {
+   "caption": "Around Sakleshpur",
+   "spots": [
+    {
+     "name": "Manjarabad Fort",
+     "detail": "4 km southwest · Tipu Sultan's star-shaped fort from 1792",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sakleshpur railway station",
+     "detail": "13 min walk · Where the ghat engines are swapped",
+     "status": {
+      "text": "Watch the banker engines",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Jenukal Gudda",
+     "detail": "About 38 km away · Highest peak in Hassan district at 1,380 m",
+     "status": {
+      "text": "Long drive",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Get permission for the Green Route Trek.",
+    "body": "This famous trek along the railway tracks needs prior permission from the Forest Department."
+   },
+   {
+    "icon": "tag",
+    "title": "Watch your footing near Yedakumeri.",
+    "body": "One exit from the trek crosses a shallow river with a rocky, slippery bed."
+   }
+  ],
+  "story": [
+   {
+    "era": "1792",
+    "title": "A star-shaped fort",
+    "body": "Tipu Sultan built Manjarabad Fort in 1792 with help from French military architects.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Metre gauge days",
+    "title": "Rails through the ghats",
+    "body": "A metre gauge line ran 147 km from Sakleshpur down to Mangalore, through high bridges and many tunnels.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Broad gauge",
+    "title": "A new track",
+    "body": "The Hassan to Mangalore line was converted to broad gauge, funded by a joint venture of the state government and Indian Railways.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Trekkers' favourite",
+    "body": "The Green Route Trek along the old tracks, from near Donigal to Yedakumeri, draws hikers from Bangalore.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Planters club",
+    "detail": "One of the clubs listed for a drink in town",
+    "status": {
+     "text": "Ask about entry",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Manjarabad club",
+    "detail": "Another local club for a drink",
+    "status": {
+     "text": "Ask about entry",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

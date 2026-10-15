@@ -1,0 +1,78 @@
+{
+ "query": "Kotagiri",
+ "found": "Kotagiri, Nilgiris, Tamil Nadu, 643217, India",
+ "lat": 11.4230431,
+ "lon": 76.8658211,
+ "fetchedAt": "2026-10-12T19:27:40.347Z",
+ "locality": {
+  "id": "kotagiri-nilgiris-tamil-nadu",
+  "name": "Kotagiri",
+  "area": "Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Kotagiri": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Kotagiri_Town.jpg/1280px-Kotagiri_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kotagiri",
+   "credit": "Photo: Sudarshia, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kotagiri_Town.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kotagiri",
+   "text": "Kotagiri is a hill station and a municipality in the Nilgiris district of the Indian state of Tamil Nadu. The Nilgiri Hills have been the traditional home of the \"Kota\" tribes. The name \"Kota-giri\" itself means 'mountains of the Kotas'. Kotagiri was known in the past as 'Kota-keri' or 'Kota-gherry', the 'street of Kotas'. The town has developed around numerous knolls and valleys. Located at an average elevation of 1,950 m (6,400 ft), it was one of the summer resorts of the Madras Presidency. The British administrator John Sullivan visited the area in 1819, arriving at a village called Dhimbatty to the north of Kotagiri.\n\n\n== Demographics ==\n\nAs of 2011, according to the India census, the Kotagiri second-grade municipality has a population of 28,207, of which 13,607 are males while 14,600 are females. The population of children aged 0–6 is 2,340, which is 8.30% of the total population of Kotagiri (TP). In Kotagiri, the Female Sex Ratio is 1073 against state average of 996. Child Sex Ratio is 945 compared to the Tamil Nadu state average of 943. The literacy rate of Kotagiri is 86.79% — higher than state average of 80.09%. The male literacy rate is around 93.55%, while the female literacy...",
+   "url": "https://en.wikipedia.org/wiki/Kotagiri"
+  },
+  {
+   "title": "Kotagiri taluk",
+   "text": "Kotagiri taluk is a taluk of Nilgiris district of the Indian state of Tamil Nadu. The headquarters of the taluk is the town of Kotagiri.",
+   "url": "https://en.wikipedia.org/wiki/Kotagiri_taluk"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kotagiri",
+  "text": "Kotagiri is a beautiful hill station in the Nilgiris, about 33 km southeast of Ooty.\n\n\n== See ==\n John Sullivan Bungalow, Kanneri Mukku (5 km). John Sullivan's bungalow, the one he built during his stay, has been renovated and is open to the public. It is located in Kannerimukku, about 20 minutes from the main town. (updated May 2015)\n Kodanad Viewpoint. The town is surrounded by many tourist spots. One very popular place is the Kodanad View Point. Accessible by road, 16 km (10 miles) from Kotagiri or about 30 minutes by vehicle, it provides a splendid view of the great Mysore Plateau to one side and the picturesque 500 acres (200 hectares) farming cooperative called Thengu mara haada, which seems like a green mosaic amidst the shrubland; lazily meandering this little village is the Bhavani River. (updated May 2015)\n1 Longwood Forest (Milidhane Road). Longwood forest is a pristine tropical evergreen forest in Kotagiri town. Bison, foxes and squirrels can be spotted. It is a secluded refuge for those seeking peace and quiet, and is home to the flying fox/Malabar Squirrel (a large arboreal squirrel) that is rarely seen. There is also a resident family of about 20 bison which can be seen grazing in the evenings just outside the forest on Milidhane road. (updated May 2015)\n2 Nehru Park (Jawahalal Nehru Park), Town centre (1 km). The Nehru Park in the town has a big complex which houses a temple of the Kotas, the Gandhi Maidanam which is the public playground, congregation centre and the flood shelter which is used in normal times for indoor games. A private park about 3 km from the town on coonoor road specialises in roses and is a must see in the months, March to June. (updated May 2015)\n3 Rangasamy Peak. Pilgrim centre (updated May 2015)\n4 Rangaswamy Pillar, Denad Village, Rangaswamy Peak. On the northwest of Rangaswamy Peak, after \"The Denad village\" is fo\n== Do ==\n Kotagiri Walk One (10  km). Start from Kotagiri Bus Station, walk towards Conoor side.  When you reach Padiaraj Park, turn right to Riverside School Road. After the school, turn right and walk towards KMF Hospital. Ask for Ramachand Bus stop and return to the town. (updated May 2015)\n Kotagiri Walk Two. Start from the Pandian Park on Conoor Road.  Walk past the KPS School and Kerben village.  Proceed to Pudu Kotagiri village behind the school. If you are a fitness freak visit Sathukulli, Keibetta,Kaggula, Pudur and Kaikatty villages. Ask for St. Judes School to reach the main road. (updated May 2015)\n\n\n== Eat ==\n Kasthuri Hotel, Johnston Squire. A budget vegetarian restaurant. (updated Apr 2015)\n Subam Restaurant, Johnston Squire. Budget non-vegetarian restaurant. (updated Apr 2015)\n Tandoor Hut. 5PM-9:30PM.  (updated May 2017)\n\n\n== Drink ==\nHot fresh tea is special in the cool climate. You get different favours of tea like chocolate, ilaichi, ginger, lemon etc.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Kotagiri"
+ },
+ "sights": [
+  {
+   "name": "St Luke's Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 11.4223436,
+   "lon": 76.8680082
+  },
+  {
+   "name": "St. Mary's Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 11.419175,
+   "lon": 76.8636124
+  },
+  {
+   "name": "C. S. I. St. Luke's Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 11.4179854,
+   "lon": 76.8633256
+  },
+  {
+   "name": "M. G. Ramachandran Statue",
+   "kind": "monument",
+   "walkMinutes": 14,
+   "lat": 11.4251793,
+   "lon": 76.8733616
+  },
+  {
+   "name": "Sakthi Malai Murugan Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 11.4311964,
+   "lon": 76.8642274
+  }
+ ],
+ "food": [],
+ "errors": []
+}

@@ -1,0 +1,136 @@
+{
+ "query": "Chitradurga",
+ "region": "karnataka",
+ "name": "Chitradurga",
+ "draft": {
+  "briefing": "Hey, you're in Chitradurga! This town is famous for its stone fortress, Kallina Kote, built among bold rock hills and giant boulders. People also call it Ukkina Kote, the \"Steel Fort\", and Yelusuttina Kote, the \"Seven Circles Fort\".",
+  "hungryLine": "Chitradurga is famous for churmuri and menasinkayi bajji, chilli bondas, and the dose here is worth getting up early for.",
+  "moodReplies": {
+   "show-me-around": "Yellamma Temple is a 5 min walk and the Murugha Matha is 14 minutes away. The big stone fort sits on the rocky hills above town.",
+   "somewhere-to-chill": "Take an auto out to Chandavalli Lake Garden, about 13 km from the bus station.",
+   "surprise-me": "In British times the town's official name was Chittaldrug, also spelled Chitaldrug or Chittledroog."
+  },
+  "seeFirst": {
+   "caption": "Walks and short drives",
+   "spots": [
+    {
+     "name": "Murugha Matha",
+     "detail": "14 min walk · One of the many temples and mathas around town",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jogimatti",
+     "detail": "10 km south · Hill resort where a waterfall has carved a natural cave with a Shiva Linga",
+     "status": {
+      "text": "Zoo and garden too",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Chandavalli",
+     "detail": "13 km from the bus station · Lake garden, an easy auto ride out",
+     "status": {
+      "text": "Ask locals for directions",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Chitradurga hills",
+    "title": "Hidimba's hill",
+    "body": "According to the Mahabharata, a man-eating rakshasa named Hidimba and his peace-loving sister Hidimbi lived on these hills. Hidimba terrorised everyone around, until the Pandavas came this way."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Stop at the dam on the way.",
+    "body": "Vani Vilasa Sagara Dam is roughly on the road from Bangalore, it's open 9AM to 5:30PM and you can walk on it."
+   },
+   {
+    "icon": "tag",
+    "title": "Eat on the walk to the fort.",
+    "body": "Lakshmi Bhavan Tiffen Room is on the way from the bus stand to the fort, so fuel up with a dose first."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Rakshasas on the hill",
+    "body": "Local tellings of the Mahabharata place the rakshasa Hidimba and his sister Hidimbi on Chitradurga's hill.",
+    "illustration": "palace"
+   },
+   {
+    "era": "900s to 1400s",
+    "title": "Stone fortress",
+    "body": "Work on the fort began on the north-eastern side of the rocky hills, and it became the 15th-century Kallina Kote the town is known for.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Later",
+    "title": "Palegars to Tipu",
+    "body": "The fort was held by the Palegars, then came under Hyder Ali and was later inherited by Tipu Sultan.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1907",
+    "title": "Vani Vilasa Sagara",
+    "body": "The Vani Vilasa Sagara Dam was built, and today you can walk on it for an incredible view, with a temple close by.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "District headquarters",
+    "body": "Chitradurga is the headquarters of its district in the Vedavati river valley and a major tourist hub of Karnataka.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Lakshmi Bhavan Tiffen Room",
+    "detail": "Famous for dose, on the way from the bus stand to the fort",
+    "status": {
+     "text": "Great for breakfast",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Krishna Bhavan Cafe",
+    "detail": "Vegetarian restaurant at Highway Junction",
+    "status": {
+     "text": "At Highway Junction",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Venketeshwara Cafe",
+    "detail": "Called the best non-vegetarian place in the Majestic Circle area",
+    "status": {
+     "text": "In Maniyoor",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

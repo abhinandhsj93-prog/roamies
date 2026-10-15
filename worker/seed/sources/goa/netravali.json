@@ -1,0 +1,47 @@
+{
+ "query": "Netravali",
+ "found": "Neturlim, Sanguem, Kushavati, Goa, India",
+ "lat": 15.0912158,
+ "lon": 74.217099,
+ "fetchedAt": "2026-10-12T19:48:26.627Z",
+ "locality": {
+  "id": "neturlim-kushavati-goa",
+  "name": "Neturlim",
+  "area": "Sanguem, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [
+  {
+   "title": "Netravali",
+   "text": "Netravali is a census town in Sanguem taluka, Kushavati district in the state of Goa, India.",
+   "url": "https://en.wikipedia.org/wiki/Netravali"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Sanguem",
+  "text": "Sanguem is in South Goa. It had a population of about 6400 in 2011.\n\n\n== See ==\n Sagameshwar Temple.  (updated Jan 2018),\n1 Bhagwan Mahaveer Sanctuary and Mollem National Park. 240 km² (93 sq mi) protected area in the Western Ghats along the eastern border with Karnataka,  near the town of Molem, 57 km (35 mi) east of Panaji. National Highway 4A divides it into two parts and the Mormugao - Londa railway line passes through the area.  It contains several important temples dating to the Kadamba Dynasty, and Dudhsagar Falls. The parkland is also home to a community of nomadic buffalo herders known as the Dhangar. (updated Jan 2018)\n\n2 Dudhsagar Falls. One of the highest waterfalls in India with a height of 310 m (1017 feet) and an average width of 30 metres (100 feet). It is in the Bhagwan Mahaveer Sanctuary and Mollem National Park. One can reach the waterfalls with the help of Bhagwan Mahavir Wildlife sanctuary taxi near the village of Molem. This association will take you through lush green forest and some heavy flowing streams and get back to you same place. This is the only access to the waterfall. (updated Jan 2018)\n3 Salaulim Dam (at Sirga about 5 km from the Sanguem). On the Salaulim River, a tributary of the Zuari River, is a  component of the Salaulim Irrigation Project. The dam is a composite earth-cum-masonry dam of 42.7 m (140 ft) height with a water spread area of 24 km² (9.3 sq mi). Construction of the project was started in 1976 and the dam was completed in 2000. The irrigation component achieved an irrigation potential of 9,537 ha, as of 2007. (updated Jan 2018)\n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Sanguem"
+ },
+ "sights": [
+  {
+   "name": "Our Lady Of Pilar Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 15.0906947,
+   "lon": 74.220623
+  },
+  {
+   "name": "Bubbling Lake",
+   "kind": "attraction",
+   "walkMinutes": 15,
+   "lat": 15.0942119,
+   "lon": 74.209109
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "query": "Suchindram",
+ "region": "tamilnadu",
+ "name": "Suchindram",
+ "draft": {
+  "briefing": "Hey, you're in Suchindram! The Thanumalayan Temple here honours Shiva, Vishnu and Brahma all at once, and its eastern tower rises 11 storeys, 44 metres high. Inside you'll also find a 22-foot Hanuman carved from a single block of granite.",
+  "hungryLine": "This is Tamil Nadu tiffin country, so go for idli, dosai or a crisp vada, washed down with a strong filter coffee.",
+  "moodReplies": {
+   "show-me-around": "The Thanumalayan Temple is just a 3 min walk away. Parakkai Lake, west of town, is about 22 minutes on foot.",
+   "somewhere-to-chill": "Walk out to Parakkai Lake, 22 minutes from here, and enjoy the quiet just north of Parakkai village.",
+   "surprise-me": "The temple counts among the 108 Shiva temples revered in Kerala's Hindu culture, even though it's now in Tamil Nadu."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Thanumalayan Temple",
+     "detail": "3 min walk · 44 m eastern gopuram and the giant granite Hanuman",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Parakkai Lake",
+     "detail": "22 min walk · A peaceful lake just west of town",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thanumalayan Temple",
+    "title": "Three gods, one name",
+    "body": "Locals will tell you the temple's name holds the whole Trimurti: Stanu for Shiva, Mal for Vishnu and Ayan for Brahma. That's why both Shaivites and Vaishnavites hold it dear."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit during Margazhi.",
+    "body": "The Margazhi festival is the temple's biggest of the year."
+   },
+   {
+    "icon": "tag",
+    "title": "Get here by bus or road.",
+    "body": "No trains stop at Suchindram station, so come by bus or road from Nagercoil, 7 km away, or Kanyakumari, 11 km."
+   }
+  ],
+  "story": [
+   {
+    "era": "800s",
+    "title": "Built by the Cholas",
+    "body": "The present stone structure of the Thanumalayan Temple went up during the Chola dynasty in the 9th century. Later rulers kept adding to it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Travancore days",
+    "title": "A Travancore citadel",
+    "body": "Suchindram, along with Kanyakumari, was part of Travancore and served as an important citadel. That's why the temple is still tied to Kerala's temple traditions.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1956",
+    "title": "Joining Tamil Nadu",
+    "body": "The town became part of Tamil Nadu when Kanyakumari District was merged in from Travancore.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A pilgrim town",
+    "body": "Suchindram is an important pilgrim centre sitting between Nagercoil and Kanyakumari. The temple holds six daily rituals between 5:30 a.m. and 9 p.m.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

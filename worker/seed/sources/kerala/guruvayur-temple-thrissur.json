@@ -1,0 +1,215 @@
+{
+ "query": "Guruvayur Temple, Thrissur",
+ "found": "Guruvayur Sree Krishna Temple, Nadapandal, Mammiyoor, Guruvayur, Chavakkad, Thrissur, Kerala, 680101, India",
+ "lat": 10.5942942,
+ "lon": 76.0394112,
+ "fetchedAt": "2026-10-12T18:10:16.178Z",
+ "locality": {
+  "id": "mammiyoor-thrissur-kerala",
+  "name": "Mammiyoor",
+  "area": "Guruvayur, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Mammiyoor": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mammiyoor_sree_mahadeva_temple.JPG/1280px-Mammiyoor_sree_mahadeva_temple.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mammiyoor Temple",
+   "credit": "Photo: RanjithSiji, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mammiyoor_sree_mahadeva_temple.JPG"
+  },
+  "Mammiyoor Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mammiyoor_sree_mahadeva_temple.JPG/1280px-Mammiyoor_sree_mahadeva_temple.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mammiyoor Temple",
+   "credit": "Photo: RanjithSiji, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mammiyoor_sree_mahadeva_temple.JPG"
+  },
+  "Guruvayur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/009392022_Guruvayur_temple%2C_Kerala_004.jpg/1280px-009392022_Guruvayur_temple%2C_Kerala_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Guruvayur",
+   "credit": "Photo: Ms Sarah Welch, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:009392022_Guruvayur_temple,_Kerala_004.jpg"
+  },
+  "Guruvayur Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Guruvayoor_Temple_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Guruvayur Temple",
+   "credit": "Photo: Susmitanair, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guruvayoor_Temple_1.jpg"
+  },
+  "Palayur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Palayoor_St._Thomas_Syro-Malabar_Church.jpg/1280px-Palayoor_St._Thomas_Syro-Malabar_Church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Palayur",
+   "credit": "Photo: Princebpaul0484, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palayoor_St._Thomas_Syro-Malabar_Church.jpg"
+  },
+  "St. Thomas Syro-Malabar Church, Palayur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/St._Thomas_Syro-Malabar_Church%2C_Palayoor.jpg/1280px-St._Thomas_Syro-Malabar_Church%2C_Palayoor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Thomas Syro-Malabar Church, Palayur",
+   "credit": "Photo: Princebpaul0484, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Thomas_Syro-Malabar_Church,_Palayoor.jpg"
+  },
+  "Little Flower College": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Little_Flower_College.jpg/1280px-Little_Flower_College.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Little Flower College",
+   "credit": "Photo: Jopaulmj, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Little_Flower_College.jpg"
+  },
+  "Perakam Mahadeva Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%E0%B4%AA%E0%B5%87%E0%B4%B0%E0%B4%95%E0%B4%82_%E0%B4%B6%E0%B4%BF%E0%B4%B5%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Perakam Mahadeva Temple",
+   "credit": "Photo: Original uploaded by RajeshUnuppally (Transfered by sreejithk2000), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B4%AA%E0%B5%87%E0%B4%B0%E0%B4%95%E0%B4%82_%E0%B4%B6%E0%B4%BF%E0%B4%B5%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg"
+  },
+  "Sree Perunthatta Siva Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Perumthitta_Temple_Guruvayur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Sree Perunthatta Siva Temple",
+   "credit": "Photo: RajeshUnuppally at Malayalam Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perumthitta_Temple_Guruvayur.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mammiyoor Temple",
+   "text": "Mammiyur Mahadeva Temple is a popular Shiva temple situated in Guruvayoor, Thrissur district of Kerala, India. Every devotee who goes to Guruvayur Temple is supposed to go to Mammiyoor also, as the ritual goes. Only Hindus are allowed inside the temple premises. The temple is a part of the 108 famous Shiva temples in Kerala and one among the five Shiva temples around Guruvayoor. The main deity is Lord Shiva, who is installed in the concept of 'Uma Maheshwara' - His form with Goddess Parvathi on his left. There is a shrine for Lord Vishnu also here. The sub-deities are Lord Ganapathi, Lord Subrahmanya, Lord Ayyappan, Goddess Bhadrakali, Brahmarakshasa and Serpent deities. This temple is managed by Malabar Devaswom Board. Daily three poojas are conducted. Puzhakkara Chennas Mana is the hereditary Thanthri of this temple too. Shivaratri and Ashtami Rohini are the major festivals.\n\n\n== Legend ==\nIt is believed that Brihaspati and Vayu reached the banks of rudratheertha where Lord Shiva was doing a great penance searching a place to install the idol of Lord Vishnu which was worshiped by Lord Krishna himself. By understanding the importance of the idol, he suggested that the idol be consecrated...",
+   "url": "https://en.wikipedia.org/wiki/Mammiyoor_Temple"
+  },
+  {
+   "title": "Guruvayur",
+   "text": "Guruvayur IPA: [guɾuʋɐːjuːr]) is a municipal temple town in Thrissur district, of Kerala State in India. It is a suburban town of Thrissur city, located 26 kilometres (16 mi) from Thrissur towards the north-west. It houses the Guruvayur Shri Krishna Temple. It is located at a distance of 292 km (181 mi) from the state capital Trivandrum towards the north-west, 86 km (53 mi) from Kochi towards the north, 95 km (59 mi) from Calicut towards south. Unlike most of Thrissur district, which was historically part of Cochin state, Guruvayur formed part of the erstwhile Kozhikode headquartered Malabar district.",
+   "url": "https://en.wikipedia.org/wiki/Guruvayur"
+  },
+  {
+   "title": "Guruvayur Temple",
+   "text": "The Guruvayur Temple, also called the Guruvayur Sree Krishna Temple, is situated in the town of Guruvayur, Thrissur district, Kerala, India. Located approximately 26 kilometers (16 miles) northwest of Thrissur city, the temple is dedicated to the deity Guruvayurappan, a form of Krishna-Vishnu. it is classified as one among the 108 Abhimana Kshethrams (honuored temples) of the Sri Vaishnava tradition.",
+   "url": "https://en.wikipedia.org/wiki/Guruvayur_Temple"
+  },
+  {
+   "title": "Palayur",
+   "text": "Palayūr, also called Palayoor and historically as Palur, is a town near Chavakkad, Thrissur district, India. It is famous for its ancient church, Palayur Mar Thoma Church, which is believed to be one of the seven major churches founded by Saint Thomas the Apostle in Malabar in 52 AD. It is the assumed to be first Christian Church in India.",
+   "url": "https://en.wikipedia.org/wiki/Palayur"
+  },
+  {
+   "title": "Iringaprom",
+   "text": "Iringaprom is a census town in Thrissur district in the Indian state of Kerala.",
+   "url": "https://en.wikipedia.org/wiki/Iringaprom"
+  },
+  {
+   "title": "St. Thomas Syro-Malabar Church, Palayur",
+   "text": "Palayur Mar Thoma Major Archiepiscopal Church, is located at Palayur (historically known as Palur), in Thrissur district in Kerala on the west coast of India. According to Saint Thomas Christian tradition, the Syrian church is believed to be established in 52 AD by St Thomas, one of the twelve apostles of Jesus Christ. Saint Thomas performed the first baptism in India here,  therefore this church is called an Apostolic Church credited to the apostolate of St. Thomas, who preached and also introduced Christianity to the people here. It is part of the Ēḻarappaḷḷikaḷ (seven major churches) that he established in India, the others being at Cranganore, Kokkamangalam, Kottakkavu, Kollam, Niranam,  Chayal (Nilackal). The original small church structure has been retained at the original site. But substantial improvements around it were carried out during the 17th century by  Giacomo Fenicio as necessary, without sacrificing the main sanctity of the place. Currently the Archpriest is Fr. Davis Kannampuzha. The Custodian of the church is the Metropolitan Archbishop of Thrissur, Mar Andrews Thazhath.",
+   "url": "https://en.wikipedia.org/wiki/St._Thomas_Syro-Malabar_Church,_Palayur"
+  },
+  {
+   "title": "Little Flower College",
+   "text": "Little Flower Autonomous College is a women's Catholic college in Guruvayur, India, and is affiliated with the University of Calicut. The administration of the college falls under the Assisi Province of the Franciscan Congregation. In 2017, the college was ranked 49th in India by the National Institutional Ranking Framework (NIRF).",
+   "url": "https://en.wikipedia.org/wiki/Little_Flower_College"
+  },
+  {
+   "title": "Devaswom Museum",
+   "text": "Devaswom Museum is a museum located at Guruvayur in Thrissur District showcasing rare offerings of devotees to the Guruvayur Temple. The museum exhibits temple materials, antiques, musical instruments, mural paintings, adornments used in folk arts like Krishnanattam and Kathakali, elephant teeth of Guruvayur Keshavan.",
+   "url": "https://en.wikipedia.org/wiki/Devaswom_Museum"
+  },
+  {
+   "title": "Perakam Mahadeva Temple",
+   "text": "Perakam Mahadeva Temple (Malayalam: പേരകം മഹാദേവക്ഷേത്രം) is an ancient Hindu temple dedicated to Lord Shiva situated at Perakam village of Thrissur District in Kerala state in India. According to folklore, sage Parashurama has installed the idol of Lord Shiva in Perakam village. The temple is part of the 108 famous Shiva temples in Kerala and described in Shivalaya Sothram.",
+   "url": "https://en.wikipedia.org/wiki/Perakam_Mahadeva_Temple"
+  },
+  {
+   "title": "Sree Perunthatta Siva Temple",
+   "text": "Sree Perunthatta Siva Temple (Malayalam: ശ്രീ പെരുന്തട്ട ശിവ ക്ഷേത്രം) is an ancient Hindu temple dedicated to Lord Shiva situated in Guruvayur of Thrissur District in Kerala state in India. According to folklore, sage Parashurama has installed the idol of Lord Shiva in the Treta Yuga. The temple is a part of the 108 famous Shiva temples in Kerala. Therefore, the Saiva-Vaishnava glow is a holy abode.",
+   "url": "https://en.wikipedia.org/wiki/Sree_Perunthatta_Siva_Temple"
+  },
+  {
+   "title": "Palayoor Mahadeva Temple",
+   "text": "Palayur Mahadeva Temple (Malayalam: പാലയൂർ മഹാദേവക്ഷേത്രം) was a legendary temple located in Palayoor near Chavakkad in the Thrissur district in ancient Kerala.\n This Shiva temple was later converted into a Christian church with the arrival of St. Thomas in Malabar, Kerala. \n \nPalayoor Mahadeva (Siva) Temple does not exist today. The temple is believed to be constructed by the first Chera king of Kodungallur. This temple is one among the 108 Shiva temples established by Parasurama. The legends suggest that the installation of the idol of god Mahadeva (Shiva) was performed by Parasurama himself.",
+   "url": "https://en.wikipedia.org/wiki/Palayoor_Mahadeva_Temple"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Guruvayoor",
+  "text": "Guruvayoor (Malayalam: ഗുരുവായൂർ) is one of the most sacred and important pilgrim towns in India. This temple-town is extremely famous for its large Sree Krishna Temple, believed to be one of the 108 most divine Vishnu temples of world. The town is in Thrissur district, about 102 km from Kochi. Apart from pilgrimage, a few tourist delights are also available here.\n\n\n== See ==\n1 St. Thomas Syro-Malabar Church, Palayur. One of the earliest Christian churches of the sub-continent. Established by St. Thomas, it is one of the seven-and-a-half churches he founded. (updated Jul 2026)\n\n\n=== Sree Krishna Temple ===\n\nThe entire town of Guruvayur rose to international fame because of the popularity of the Great Krishna temple, thus the temple and its surrounding temples are the prime attraction. Nearly 6-10 million devotees visit annually and it is one of the richest temples in South India.\n\n\n==== About the temple ====\n\nThe temple is believed to have been constructed by Lord Parasurama (an incarnation of Lord Vishnu) himself, on request of gods. The original temple was just the sanctum sanatorium. The other complexes were later built by various kings and other rich men, as gratification of their devotion to the presiding deity.\nThe outer ring of the temple was constructed by the Great Zamorin King Manadeva Varma of Kozhikode, one of the celebrated devotees of Guruvayurappan (as the presiding lord is known), with traditional Kerala architecture. The first layer of the inner ring and the extensive mural works were one of the oldest parts of the structure, commissioned by 4th Pandyan King in AD 52, after being cured of snake-bite poison.\nThe sanctum sanatorium is the oldest structure and believed to have been constructed by Lord Parasurama. Archeologists estimate the complex to be at least 1000 years old. The sanctum sanatorium is unique, as the structure itself has 3 layers inside, something not seen in other places. The original idol is placed inside the third layer. The idol is a larger representation of Lord Vishnu, but often represented as a baby form of Krishna, with the help of sandal sculpting. Nearly 100 golden lamps light the inner sanatorium.\nApart from the main deity, 4 smaller temples are located inside the main complex. While sanatoriums for Lord Ganesh and Lord Sree Padmanabha (Royal deity of Travancore in Trivandrum) are located inside the inner layer of the temple; sanatoriums for Lord Ayyappa and Goddess Parvathi are located in the outer layer.\n\n\n==== Offerings and Pujas ====\nThe main offering of Guruvayur is Thulabharam (Scale) where the offerer gives various items according to his body weight, determined by weighing himself on a scale with an equivalent amount of offering in other side of scale. The lord's favourite items are yellow bananas (Kadali variety). Other items like butter, ghee, sugar, and Thulsi leaves, are also offered in amounts equal to the weight of the offerer. Some rich people offer in terms of gold or coins, but this is rare.\nThe second most important offering is performances of Krishnaattam. Krishnaattam is an exclusive art-form, unique to Guruvayur temple, not performed elsewhere. The art-form is the precessdor of Kathakali, hence the costumes looks similar. 10 stories of Krishna's life are adapted in this highly Sanskritzed dance-drama. The art-form was composed by Zamorin Manadeva Varma in the 14th century, which later inspired the composition of Kerala's celebrated art-form Kathakali. Krishnaattam is performed daily in evenings throughout the year except in the monsoon month of July. Prior bookings are needed have performances of the art-form in one's name and performances are done outside the temple, thus allowing anyone to watch the art-form.\nOther major offerings to the lord, which will be returned are Paal Payasam (Milk Dessert), Bananas, Sugar, Avial (Flatten rice), Sandal balls, Butter and Unniappams.\nMorning breakfast, afternoon feast and dinner are free to all devotees and provided to anyone who assembles at Ottupura (temple dining hall) on a first-come-first-served basis.\n\n\n=== Major temples ===\n Mammiyoor Shiva Temple. The large Shiva Temple, is 500 m from the Main temple. Its believe Lord Shiva was the original owner of Guruvayur temple and decided to relocate to current site to place the Vishnu idol in Guruvayur temple. Hence it's customary for all devotees visiting Guruvayur temple to visit Mammiyoor temple before leaving the town, to complete the pilgrimage. The temple has 2 independent shrines, one for Lord Shiva and one for Lord Vishnu. The temple is extremely famous for its large murals. \n2 Parthasarathy Temple. Located within a kilometer from main temple, it's a must see temple, with its main shrine built as a chariot and Lord Krishna sitting as Parthasarathy, advocating Gita to Arjuna. The main deities are Krishna reciting Holy Gita and Arjuna hearing it. \n Thiru Venkatachalapathy Temple. A small temple, dedicated to Thirupathi Venkatachalapathy, established by Telugu pilgrims as their token to devotion to Lord Krishna. (updated Apr 2015)\n\n\n=== Other attractions ===\n Devaswom Museum. Devaswom museum is very close to Guruvayur temple’s east gate. The museum has many collections of antiques, temple materials, mural paintings, musical instruments and other valuable materials. The temple devaswom museum serves as a place to store valuable offerings in the temple. Devaswom museum displays the images and remains of famous religious poets like Melapthur and Poonthanam. Also it showcases adornments used in folk arts like Krishnanattam and Kathakali. The precious items used to adorn renowned elephants in Guruvayur are also displayed in this museum. The museum is open to public on all days. free. \n Gokulam Estates (40 km from temple at Vengad). Vrindavanam Gokulam Estate is a 100-acre estate at Vengad in Malapuram District under the possession of Devaswom. Known as Vrindavana Gokulam Estate, it owns 550 cows, one of the largest dairy farm in Kerala. The estate also has cultivation of coconuts, cashew trees, etc., along with palm and other vegetation which provide not only cash crops but also feed for the temple elephants and cattle. free. \n\n Institute of Mural Painting. The institute is at the east gate of the Guruvayur temple, established in 1989 is managed by Guruvayur Devaswom. This institute was founded by renowned master of mural painting, Shri Mammiyoor Krishnankutty. This institute follows a traditional Gurukula system with residential facilities for the students. It offers many courses for the art loving students. The courses offered include five-year diploma courses in mural painting, aesthetics, sculpture and art. This institute arranges exhibitions, seminars and training related to the art and culture of Kerala. Many students from Kerala and other states undergo training here. \n Punathur Elephant Palace, Punnathoorkotta (4 kilo meters from West Nada). Believe it or not, you will see a sprawling large palace and its courtyards for a luxurious life for its residents, none other than 65 large elephants. Guruvayurappan (Lord of Guruvayur temple) is the owner of largest number of domesticated elephants, all offered by devotees. Being lord's own elephants, their accommodation was arranged in a nearby palace fort, which was renovated from its ruins to its present splendor. The 65 elephants spend their full day, eating, bathing and playing with other inmates as they are not allowed to work elsewhere. Many elephants are famous in Kerala, being star elephants and have huge number of fans across Kerala. Such star elephants, gets more splendid accommodation and services. Most of the elephants are used only for temple procession during festivals and for certain ceremonies. The annual elephant feast and Gajapooja (elephant worship) are some of the tradition ceremonies held inside the Palace. Also one can see the grand Punathur Palace, built strictly in traditional Kerala style. free. \n Statues of Maraprabhu and Guruyaur Kesavan, South Nada (Sree Valsam Guest house complex). Guruvayur Devasom has erected two giant statues at gardens of Sree Valsam guest house complex. The statue of Guruvayur Kesavan, one of the most celebrated elephants of Guruvayurappan's stables was erected as a memorial to the deceased elephant, who was crowned as Gajaraja (Elephant king) several times during its career as Lord's main elephant. Another landmark, located just near to Kesavan Memorial is the giant statue of Mara-Prabhu. The statue is a creative interpretion of Lord Krishna as a trunk of giant banyan tree. The statue was erected based a traditional folk-lore story. free. \n\n\n== Do ==\nBeing a small temple town, reglious activities tops the list.\n\n\n=== Festivals ===\n Chembai Sangeetholsavam. The highlight of Guruvayur Ekadashi day is this Carnatic music festival that brings together musicians from across South India. It runs a week up to the Ekadashi day, on which all participant musicians recite the 'Pancaratna Kī",
+  "url": "https://en.wikivoyage.org/wiki/Guruvayoor"
+ },
+ "sights": [
+  {
+   "name": "Guruvayur Temple",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 10.5945,
+   "lon": 76.039
+  },
+  {
+   "name": "Devaswom Museum",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 10.59422,
+   "lon": 76.04047
+  },
+  {
+   "name": "Guruvayur",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 10.594611111111112,
+   "lon": 76.03688888888888
+  },
+  {
+   "name": "Mammiyoor Temple",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 10.599045,
+   "lon": 76.036069
+  },
+  {
+   "name": "Palayoor Mahadeva Temple",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 10.5989,
+   "lon": 76.0358
+  },
+  {
+   "name": "Sree Perunthatta Siva Temple",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 10.586063,
+   "lon": 76.038755
+  },
+  {
+   "name": "Iringaprom",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 10.6,
+   "lon": 76.05
+  },
+  {
+   "name": "Little Flower College",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 10.6061,
+   "lon": 76.0372
+  },
+  {
+   "name": "Palayur",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 10.582139,
+   "lon": 76.035534
+  },
+  {
+   "name": "St. Thomas Syro-Malabar Church, Palayur",
+   "kind": "landmark",
+   "walkMinutes": 25,
+   "lat": 10.5825,
+   "lon": 76.0319
+  },
+  {
+   "name": "Perakam Mahadeva Temple",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 10.6009266,
+   "lon": 76.023831
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

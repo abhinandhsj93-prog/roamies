@@ -1,0 +1,103 @@
+{
+ "query": "Muzhappilangad, Kannur",
+ "region": "kerala",
+ "name": "Muzhappilangad",
+ "draft": {
+  "briefing": "Hey, you're in Muzhappilangad! Your car can roll right onto the sand here, because this is a 4 km drive-in beach. In 2016 BBC Autos named it one of the six best beaches in the world for driving.",
+  "hungryLine": "Kannur food is classic Malabar, rice, biriyanis, puttu, appam and seafood, and look out for arikkadukka, stuffed mussels sold by local vendors.",
+  "moodReplies": {
+   "show-me-around": "Walk down to Muzhappilangad Beach, then drive up to Edakkad for another beach, and on to Kannur for St. Angelo's Fort.",
+   "somewhere-to-chill": "Sit on the firm sand at Muzhappilangad Beach and watch the cars cruise along the shoreline.",
+   "surprise-me": "Muzhappilangad is said to be the longest drive-in beach in India, with sand firm enough for cars."
+  },
+  "seeFirst": {
+   "caption": "Close to the beach",
+   "spots": [
+    {
+     "name": "Muzhappilangad Beach",
+     "detail": "6 min walk · 4 km of sand you can drive on",
+     "status": {
+      "text": "Under renovation",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Edakkad",
+     "detail": "Short drive · Another beach, on the Kannur side",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "St. Angelo's Fort",
+     "detail": "In Kannur, 14 km away · Built by the Portuguese in 1505",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Sree Koormba Temple",
+    "title": "Thalappoli",
+    "body": "Muzhappilangad is famous for Thalappoli, a three-day ritual every March. It's held at the Sree Koormba Temple."
+   },
+   {
+    "where": "Muthappan Temple, Parassinikkadavu",
+    "title": "A god without an idol",
+    "body": "There's no idol to worship at this temple, which has many legends. Instead, people worship through the Muthappan Theyyam, and Muthappan is believed to be a form of Lord Shiva."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in March.",
+    "body": "That's when the three-day Thalappoli ritual takes over the Sree Koormba Temple."
+   },
+   {
+    "icon": "tag",
+    "title": "Check the beach before you drive.",
+    "body": "Muzhappilangad Beach is under major renovation, so ask locally about access."
+   }
+  ],
+  "story": [
+   {
+    "era": "1505",
+    "title": "The Portuguese arrive",
+    "body": "The Portuguese built St. Angelo's Fort up the coast in Kannur. It still looks out over the sea.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1965",
+    "title": "Edakkad constituency",
+    "body": "The Edakkad Assembly constituency was formed, replacing the old Cannanore-II seat.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2008",
+    "title": "New lines",
+    "body": "After delimitation, Muzhappilangad became part of the new Dharmadam Assembly constituency.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2016",
+    "title": "World famous for driving",
+    "body": "BBC Autos featured Muzhappilangad among the six best beaches for driving.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Your turn",
+    "title": "Hit the sand",
+    "body": "Walk or drive the full 4 km and catch the sea breeze. Tell me how far you got.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

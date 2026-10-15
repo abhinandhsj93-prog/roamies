@@ -1,0 +1,142 @@
+{
+ "query": "Hassan",
+ "region": "karnataka",
+ "name": "Hassan",
+ "draft": {
+  "briefing": "Hey, you're in Hassan! This district headquarters is known as the gateway to the big Hoysala temple sites. It's also a busy centre for farming and trade in the south-west of Karnataka.",
+  "hungryLine": "Hassan does great vegetarian food, think masala dosa, parottas and puri uppittu, and there's coffee right here in Ameer Mohalla.",
+  "moodReplies": {
+   "show-me-around": "Sri Hasanamba Temple is an 11 min walk and Sri Lakshmi Chennakeshava Swami Temple is 9 minutes away. Further out, Gorur Dam holds back the Hemavathy river.",
+   "somewhere-to-chill": "Head out to the Ramanathpur Temples on the Cauvery, where steps behind the Rameshwara temple lead down to the river and you can feed the fish.",
+   "surprise-me": "When Gorur Dam was built across the Hemavathy in the early 1900s, 46 villages went under the reservoir."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Sri Hasanamba Temple",
+     "detail": "11 min walk · One of the many temples dotted around this part of town",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sri Lakshmi Chennakeshava Swami Temple",
+     "detail": "9 min walk · Another of the neighbourhood temples close by",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Government Museum",
+     "detail": "Maharaja Park, N.R. Circle · Hassan's state museum, an easy stop in town",
+     "status": {
+      "text": "10:30AM to 5:30PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Shettyhalli Church",
+    "title": "The church in the river",
+    "body": "This Gothic church, said to be about 450 years old, sits under the Hemavathy backwaters for much of the year. When the water drops in summer, prayers are held and a lamp is lit inside once a year."
+   },
+   {
+    "where": "Ramanathpur",
+    "title": "Dakshin Kashi",
+    "body": "With over five temples on the Cauvery's banks, Ramanathpur is called \"Dakshin Kashi\", and some of the river's fish are revered. People say there's a cave in the riverbed you can enter in the summer months."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "See Shettyhalli in summer.",
+    "body": "The backwaters recede in the summer months, so that's when you can walk into the old church; otherwise a coracle can take you closer."
+   },
+   {
+    "icon": "tag",
+    "title": "Get permission for Gorur Dam.",
+    "body": "You need permission from the relevant authorities to go up on top of the dam to see the Hemavathi Reservoir."
+   }
+  ],
+  "story": [
+   {
+    "era": "About 450 years ago",
+    "title": "A Gothic church",
+    "body": "Shettyhalli Church is said to have been built about 450 years ago in Gothic style. A newer Portuguese-style church now stands in the town.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Early 1900s",
+    "title": "Damming the Hemavathy",
+    "body": "Gorur Dam went up across the Hemavathy river, creating the Hemavathi Reservoir. 46 villages were submerged by its waters.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1957 to 1960",
+    "title": "A college town",
+    "body": "St Joseph's institutions began in 1957, and Malnad College of Engineering opened in 1960 on a 44-acre campus.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1991 to 2014",
+    "title": "A prime minister's seat",
+    "body": "Former Prime Minister H.D. Deve Gowda represented the Hassan Lok Sabha constituency in several terms between 1991 and 2014.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Gateway to the Hoysalas",
+    "body": "Hassan is a hub for agriculture, trade and heritage tourism, and the starting point for the Hoysala temple sites.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Chikmagalur Coffee Works",
+    "detail": "Right here in Ammeer Mohalla for a coffee stop",
+    "status": {
+     "text": "In this neighbourhood",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Mothi Hotel",
+    "detail": "Vegetarian place near the Head Post Office, go for the masala dosa",
+    "status": {
+     "text": "Near Head Post Office",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Sanman Restaurant",
+    "detail": "Parottas, dosas, puri uppittu and ricebath near N.R. Circle",
+    "status": {
+     "text": "Vegetarian lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

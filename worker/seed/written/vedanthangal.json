@@ -1,0 +1,74 @@
+{
+ "query": "Vedanthangal",
+ "region": "tamilnadu",
+ "name": "Vedanthangal",
+ "draft": {
+  "briefing": "Hey, you're in Vedanthangal! The bird sanctuary here, established in 1936, is the oldest wildlife sanctuary in India, and more than 40,000 birds have been recorded on its lake during the migratory season every year.",
+  "hungryLine": "This is a quiet village stop, so pack snacks and water before you head out to watch the birds.",
+  "moodReplies": {
+   "show-me-around": "Walk or take a short drive out to the Vedanthangal Bird Sanctuary, about 30 minutes on foot, and scan the freshwater lake for water birds.",
+   "somewhere-to-chill": "Find a spot by the sanctuary lake and just watch the water birds come and go.",
+   "surprise-me": "Vedanthangal literally means 'hamlet of the hunter' in Tamil, a leftover from the days when the rich came here to shoot birds."
+  },
+  "seeFirst": {
+   "caption": "The one you came for",
+   "spots": [
+    {
+     "name": "Vedanthangal Bird Sanctuary",
+     "detail": "Short drive · India's oldest wildlife sanctuary and a protected Ramsar site",
+     "status": {
+      "text": "Best in migratory season",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Vedanthangal village",
+    "title": "Birds that feed the fields",
+    "body": "Villagers here have long protected the lake birds, because their guano made the water rich and boosted the crops around it. In the late 1700s, locals even got a written cowle from the Collector to stop British soldiers shooting them."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time it for the migrants.",
+    "body": "Come during the migratory season, when the sanctuary fills with tens of thousands of birds."
+   },
+   {
+    "icon": "tag",
+    "title": "Keep it quiet.",
+    "body": "It's a protected Ramsar site, so walk softly and give the nesting birds their space."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "The village lake",
+    "body": "The Vedanthangal freshwater lake drew water birds, and locals protected them. The bird droppings made the fields around the lake more fertile.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1600s",
+    "title": "Hunting grounds",
+    "body": "In the early 17th century, the rich used the area for sport hunting of birds. That's where the name 'hamlet of the hunter' comes from.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1798",
+    "title": "Saving the birds",
+    "body": "Locals complained to the Collector of Chingleput about British soldiers shooting birds and won written protection. In 1798 the British Government began steps to turn it into a sanctuary.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1936 to today",
+    "title": "Oldest sanctuary",
+    "body": "The sanctuary was established in 1936, the oldest in India. Since 2022, it has also been a protected Ramsar site.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

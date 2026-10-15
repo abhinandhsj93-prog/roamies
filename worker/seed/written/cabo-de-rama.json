@@ -1,0 +1,71 @@
+{
+  "query": "Cabo de Rama",
+  "region": "goa",
+  "name": "Cabo de Rama Fort",
+  "draft": {
+    "briefing": "Hey, you're at Cabo de Rama Fort! Also called Praça do Cabo de Rama, it's a medieval hillfort in Khola village on the Canacona coast. It's one of the area's current favourites, quieter than the beaches and great for sweeping coastal views.",
+    "hungryLine": "There's not much to eat right at the fort, so head down to Palolem for Goan dishes and fish tandoor.",
+    "moodReplies": {
+      "show-me-around": "The fort is just a 3 minute walk, walk the walls and take in the coast.",
+      "somewhere-to-chill": "Find a quiet corner of the fort and watch the sea, this is a spot for scenic views rather than crowds.",
+      "surprise-me": "Beyond Palolem and Agonda, Canacona has nearly 20 lesser-known beaches, some reached only by a narrow track."
+    },
+    "seeFirst": {
+      "caption": "Around the fort",
+      "spots": [
+        {
+          "name": "Cabo de Rama Fort",
+          "detail": "3 min walk · Medieval hillfort with big views of the coast",
+          "status": {
+            "text": "Best early morning",
+            "tone": "open"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Cotigao Wildlife Sanctuary",
+          "detail": "Short drive · A wildlife sanctuary in the Canacona area",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Bring your own transport.",
+        "body": "Public buses are few and far between out here, so come by bike or car."
+      },
+      {
+        "icon": "sun",
+        "title": "Come early for the views.",
+        "body": "The fort is all about scenic coastal views, so visit in the cooler hours and take your time."
+      }
+    ],
+    "story": [
+      {
+        "era": "7th century",
+        "title": "Ancient Canacona",
+        "body": "Down the coast in Loliem, a statue of Betal, possibly a pre-Hindu deity, may date to the seventh century or earlier. Canacona has four Betal deities in all.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Medieval times",
+        "title": "A hillfort on the coast",
+        "body": "Cabo de Rama Fort rose as a medieval hillfort in Khola village. Its Portuguese name is Praça do Cabo de Rama.",
+        "illustration": "palace"
+      },
+      {
+        "era": "After the 1990s",
+        "title": "The coast is discovered",
+        "body": "Canacona's beach belt was only 'discovered' after the 1990s. Today the fort, Palolem and Agonda are the area's hot favourites.",
+        "illustration": "flood"
+      }
+    ],
+    "food": []
+  }
+}

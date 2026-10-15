@@ -1,0 +1,120 @@
+{
+ "query": "Mudumalai",
+ "region": "tamilnadu",
+ "name": "Mudumalai",
+ "draft": {
+  "briefing": "Hey, you're at Mudumalai! The name means 'ancient forest hill' in Tamil, and this national park in the Nilgiris shares its borders with both Karnataka and Kerala. It's home to at least 266 bird species and has been a tiger reserve since 2007.",
+  "hungryLine": "Gudalur is the nearest town for a proper meal, with spots along Ooty Road and Mysore Road.",
+  "moodReplies": {
+   "show-me-around": "Needle Rock, 5 km from Gudalur, is a fantastic viewpoint, and Frog Hill is the mountain shaped like a frog. Devon Estate is a pretty tea estate close to town.",
+   "somewhere-to-chill": "Wander through the tea estates around Gudalur, they roll on wherever you look. The town is quiet, with very little traffic.",
+   "surprise-me": "The Moyar River and its tributaries running through the park hold 38 kinds of fish."
+  },
+  "seeFirst": {
+   "caption": "Short drives from Gudalur",
+   "spots": [
+    {
+     "name": "Needle Rock",
+     "detail": "5 km away · A fantastic viewpoint over the hills",
+     "status": {
+      "text": "Best on a clear day",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Frog Hill",
+     "detail": "Short drive · Viewpoint over a frog-shaped mountain",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Devon Estate",
+     "detail": "Close to town · A beautiful tea estate",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Drive slowly through the park.",
+    "body": "Traffic on the three public roads through Mudumalai kills many animals, so take it easy and watch the road."
+   },
+   {
+    "icon": "tag",
+    "title": "Stay in Gudalur.",
+    "body": "It's a cheaper, calmer base than Ooty, with little traffic and affordable rooms."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "The ancient forest",
+    "body": "The name comes from Tamil, with mudhukadu meaning ancient forest and malai meaning hill. The park spans 321 square km between 850 and 1,250 m.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1940",
+    "title": "First protection",
+    "body": "Part of this forest has been protected since 1940. It's drained by the Moyar River and its tributaries.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1986",
+    "title": "Biosphere reserve",
+    "body": "Mudumalai became part of the Nilgiri Biosphere Reserve. Its moist forests hold 498 plant species and 18 kinds of carnivores.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2007",
+    "title": "Tiger reserve",
+    "body": "The park was declared a tiger reserve, along with a buffer zone of about 368 square km. Since 1999, though, wildfires have hit its northern part several times.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Indian Coffee House",
+    "detail": "Mysore Road · Good, reliable vegetarian food",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Runs",
+    "detail": "Ooty Road · Hotel with a good non-vegetarian restaurant",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Archies Curry Lounge",
+    "detail": "Ooty Road, about 1 km out · A handy sit-down stop",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

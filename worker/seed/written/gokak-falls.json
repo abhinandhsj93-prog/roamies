@@ -1,0 +1,71 @@
+{
+ "query": "Gokak Falls",
+ "region": "karnataka",
+ "name": "Gokak Falls",
+ "draft": {
+  "briefing": "Hey, you're at Gokak Falls! This is where the Ghataprabha River drops over the edge, about 6.5 km from Gokak town.",
+  "hungryLine": "I don't know a named place to eat right here, so carry snacks. Gokak town is 6.5 km away if you want more choice.",
+  "moodReplies": {
+   "show-me-around": "The falls are just a 2 min walk from here, so start there.",
+   "somewhere-to-chill": "Find a safe spot with a view of the falls and just listen to the Ghataprabha for a while.",
+   "surprise-me": "Gokak Falls isn't just the name of the waterfall, it's also a small town of its own, run by the Konnur municipal corporation."
+  },
+  "seeFirst": {
+   "caption": "Right next to you",
+   "spots": [
+    {
+     "name": "Gokak Falls",
+     "detail": "2 min walk · The Ghataprabha River's big drop",
+     "status": {
+      "text": "Watch your step on wet rocks",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Dhupadal",
+     "detail": "Nearby village · A Gokak taluk village right by the falls",
+     "status": {
+      "text": "Local village, be respectful",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Base yourself in Gokak.",
+    "body": "The falls are just 6.5 km from Gokak town, so it's an easy hop out and back."
+   },
+   {
+    "icon": "tag",
+    "title": "Keep back from the edge.",
+    "body": "Rocks around a waterfall stay slippery, so stick to safe viewpoints."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "The river's drop",
+    "body": "The Ghataprabha River flows through Belagavi district and tumbles over a ledge here. The waterfall took its name from Gokak, the town 6.5 km away.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2001",
+    "title": "A village by the falls",
+    "body": "Dhupadal, the Gokak taluk village around here, counted 9,658 people in the 2001 census. Its women slightly outnumbered its men.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A town named for falls",
+    "body": "Gokak Falls is now a small town of its own in Belagavi district. It comes under the Konnur municipal corporation.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

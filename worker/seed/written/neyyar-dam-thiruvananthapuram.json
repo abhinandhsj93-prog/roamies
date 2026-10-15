@@ -1,0 +1,92 @@
+{
+ "query": "Neyyar Dam, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "Neyyar Dam",
+ "draft": {
+  "briefing": "Hey, you're at Neyyar Dam! This gravity dam on the Neyyar River was built in 1958 at the foot of the Western Ghats, on land given by local landlord Karuvachi Krishnan Panicker and his family. Right next door, there's a crocodile breeding and rescue park.",
+  "hungryLine": "There's no named eatery on my list out here, so grab a Kerala meal in Kattakada town on your way in or out.",
+  "moodReplies": {
+   "show-me-around": "Walk through Neyyar Dam Park, climb the Watch Tower, then go and see the crocodiles at the research centre.",
+   "somewhere-to-chill": "Head to the Boathouse and get out on the water with the hills all around you.",
+   "surprise-me": "The nearby town of Kattakada is named after the Kattaal Devi Temple, and kattaal means wild banyan tree."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Neyyar Dam Park",
+     "detail": "2 min walk · The classic picnic spot by the dam",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Watch Tower",
+     "detail": "3 min walk · Views over the reservoir",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Crocodile Rehabilitation and Research Centre",
+     "detail": "Near the dam · Crocodile breeding and rearing park",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kattakada",
+    "title": "The wild banyan",
+    "body": "Kattakada takes its name from the Kattaal Devi Temple in town. Kattaal is Malayalam for wild banyan tree."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack for rain.",
+    "body": "Kerala gets rain for at least seven to eight months a year, so keep an umbrella in your bag."
+   },
+   {
+    "icon": "tag",
+    "title": "Take a boat out.",
+    "body": "The Boathouse is a 3 minute walk from the dam park."
+   }
+  ],
+  "story": [
+   {
+    "era": "Before 1958",
+    "title": "Land from a family",
+    "body": "Karuvachi Krishnan Panicker of Kallikkad, a well-known farmer and landlord, gave land for the dam along with many of his family. His son was Kallikkad Kesavan Panicker.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1958",
+    "title": "The dam is built",
+    "body": "Neyyar Dam rose across the Neyyar River, about 30 km from Thiruvananthapuram. It soon became a favourite picnic spot.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2014",
+    "title": "A new taluk",
+    "body": "Kattakada Taluk was formed in February 2014, with 14 revenue villages and 12 panchayats.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Crocodiles and boats",
+    "body": "The Crocodile Rehabilitation and Research Centre sits inside the Neyyar Wildlife Sanctuary near the dam. Spend a day between the park, the boats and the crocs.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

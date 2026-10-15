@@ -1,0 +1,103 @@
+{
+ "query": "Lonar",
+ "region": "maharashtra",
+ "name": "Lonar",
+ "draft": {
+  "briefing": "Hey, you're in Lonar! The lake here sits inside a crater made by a meteorite impact, and it's the only crater lake of meteoritic origin in India.",
+  "hungryLine": "For a proper meal, head to Gulmohar, about 10 minutes' walk from the MTDC resort, which serves food for all three meals.",
+  "moodReplies": {
+   "show-me-around": "Lonar Lake is a short drive from here, and around it you'll find the Daityasudan Surya temple, Gaimukh and the Motha Maruti temple.",
+   "somewhere-to-chill": "Hang out on the rim of Lonar Lake before sunset and just take in the crater, it's breathtaking the first time.",
+   "surprise-me": "The lake water has a pH of about 10.7, and even trees whose roots reach it die."
+  },
+  "seeFirst": {
+   "caption": "Around the crater",
+   "spots": [
+    {
+     "name": "Lonar Lake",
+     "detail": "Short drive · A soda lake in a 1.8 km wide, 150 m deep meteorite crater",
+     "status": {
+      "text": "Best before sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Gaimukh",
+     "detail": "Near the lake · A fresh water spring with old Peshwa-era masonry",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Daityasudan Surya temple",
+     "detail": "In Lonar · A small ruined temple in the Khajuraho style",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Motha Maruti",
+    "title": "The magnetic rock",
+    "body": "This Hanuman temple is built around a magnetic rock. People say the rock was formed by the meteor's impact."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Reach the lake before sunset.",
+    "body": "The crater is at its best in the late afternoon light."
+   },
+   {
+    "icon": "tag",
+    "title": "Don't touch the water.",
+    "body": "The lake is strongly alkaline and harmful, and the smell of hydrogen sulfide is common near the water."
+   }
+  ],
+  "story": [
+   {
+    "era": "About 66 million years ago",
+    "title": "Deccan basalt",
+    "body": "Volcanic lava laid down the basalt of the Deccan Plateau here. That rock is what makes Lonar's crater so unusual.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Around 50,000 years ago",
+    "title": "The meteorite strikes",
+    "body": "A hypervelocity meteorite hit the plateau and blasted out the crater. Some dating puts it much older, but that result is disputed.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Peshwa times",
+    "title": "Taming the spring",
+    "body": "At Gaimukh, the Peshwas added masonry to channel a perennial fresh water spring. Temples like Kamalja Devi line the lake's edge.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2020",
+    "title": "A protected wetland",
+    "body": "Lonar Lake was declared a Ramsar site and is also a National Geological Monument. The sanctuary around it covers 365 hectares of dry deciduous forest.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Gulmohar",
+    "detail": "Clean, tasty food for breakfast, lunch and dinner",
+    "status": {
+     "text": "10 min walk from the MTDC resort",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "query": "Siolim",
+ "region": "goa",
+ "name": "Siolim",
+ "draft": {
+  "briefing": "Hey, you're in Siolim! This village on the Chapora River is the home of Zagor, a nocturnal vigil festival of dance, drama and music, and someone from here is called a Siolcar.",
+  "hungryLine": "There's no famous restaurant list for Siolim, so ask any Siolcar where they like to eat and follow their lead.",
+  "moodReplies": {
+   "show-me-around": "Pretty, green Oxel is about an 18 min walk north, and the Zagor site is roughly 24 min away.",
+   "somewhere-to-chill": "Head down to the Chapora River on the west side of the village and look across to Morjim and its pine-wooded beach.",
+   "surprise-me": "A person from Siolim can be called a Siolcar, or even Shivalkar, Xivolkar in Konkani."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Oxel",
+     "detail": "18 min walk · A small, green village surrounded by water",
+     "status": {
+      "text": "Quiet village, go slow",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Zagor",
+     "detail": "24 min walk · Siolim's famous nocturnal vigil of dance, drama and music",
+     "status": {
+      "text": "Check festival dates locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Siolim",
+    "title": "The night of Zagor",
+    "body": "Zagor means a nocturnal vigil, and Siolim is where it is mainly celebrated. The festival brings dance, drama and music together through the night."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Stay up late for Zagor.",
+    "body": "It's a nocturnal vigil, so the dance, drama and music happen through the night."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the bridge across the Chapora.",
+    "body": "A bridge over the Chapora now stands where the old ferry used to run."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A river village",
+    "body": "Siolim grew up around the Chapora River, with green hillocks towards Assagao and the quiet village of Oxel to the north.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Tradition",
+    "title": "Zagor nights",
+    "body": "Siolim became known for Zagor, a nocturnal vigil festival of dance, drama and music.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Ferry to bridge",
+    "title": "Crossing the Chapora",
+    "body": "People used to cross the Chapora by ferry. Today a bridge stands in its place.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A growing village",
+    "body": "Siolim had 10,311 people in 2001 and 10,936 in 2011. It is split into wards called vadde, like Igrez-Vaddo and Gaunsa-Vaddo.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

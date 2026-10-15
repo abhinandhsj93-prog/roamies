@@ -1,0 +1,113 @@
+{
+ "query": "Matheran",
+ "found": "Matheran, Karjat Taluka, Raigad, Maharashtra, 410102, India",
+ "lat": 18.9901544,
+ "lon": 73.2700191,
+ "fetchedAt": "2026-10-12T18:56:18.204Z",
+ "locality": {
+  "id": "jumma-patti-raigad-maharashtra",
+  "name": "Jumma Patti",
+  "area": "Karjat Taluka, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Matheran": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Matheran_In_Clouds.jpg/1280px-Matheran_In_Clouds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Matheran",
+   "credit": "Photo: Le Priyavrat, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matheran_In_Clouds.jpg"
+  },
+  "Aman Lodge railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Aman_Lodge%CB%90_Station_Platforms.jpg/1280px-Aman_Lodge%CB%90_Station_Platforms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aman Lodge railway station",
+   "credit": "Photo: Historical Trains, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aman_Lodge%CB%90_Station_Platforms.jpg"
+  },
+  "Matheran railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/MHR_train_at_Matheran_Station.jpg/1280px-MHR_train_at_Matheran_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Matheran railway station",
+   "credit": "Photo: Historical Trains, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MHR_train_at_Matheran_Station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Matheran",
+   "text": "Matheran (Pronunciation: [maːt̪ʰeɾaːn]) is a partially automobile free hill station and a municipal council in the Karjat taluka of the Raigad district located in the Indian state of Maharashtra. Matheran is part of the Mumbai Metropolitan Region, and one of the smallest hill stations in India. It is located in the Western Ghats, at an elevation of around 800 m (2,625 feet) above sea level. It is about 90 km from Mumbai, and 120 km from Pune. This proximity to these urban areas makes it a weekend getaway for many. Matheran, which means \"forest on the forehead\" (of the mountains) in Marathi, is an eco-sensitive region as declared by the Ministry of Environment, Forest and Climate Change, Government of India. \nThere are many hotels and Parsi bungalows in the area. British colonial architecture is preserved in Matheran. The roads are made of red laterite earth.",
+   "url": "https://en.wikipedia.org/wiki/Matheran"
+  },
+  {
+   "title": "Aman Lodge railway station",
+   "text": "Aman Lodge railway station is a railway station on the Neral–Matheran railway line of the Matheran Hill Railway. The Aman Lodge – Matheran service continues during monsoon too. As no automobiles are allowed in Matheran, the operation of this shuttle offers an alternative to walking or riding horses from the automobile parking area. The distance between Aman Lodge and Matheran is 3 km.",
+   "url": "https://en.wikipedia.org/wiki/Aman_Lodge_railway_station"
+  },
+  {
+   "title": "Matheran railway station",
+   "text": "Matheran Railway Station is the upper terminus of the Matheran Hill Railway (MHR). It is the fifth and last station of the narrow gauge line.",
+   "url": "https://en.wikipedia.org/wiki/Matheran_railway_station"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Mathran Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 18.9873983,
+   "lon": 73.2705778
+  },
+  {
+   "name": "Madhavji Point",
+   "kind": "viewpoint",
+   "walkMinutes": 7,
+   "lat": 18.9866351,
+   "lon": 73.2713923
+  },
+  {
+   "name": "Khandala Point",
+   "kind": "viewpoint",
+   "walkMinutes": 12,
+   "lat": 18.983727,
+   "lon": 73.270993
+  },
+  {
+   "name": "Maria Point",
+   "kind": "viewpoint",
+   "walkMinutes": 15,
+   "lat": 18.9957684,
+   "lon": 73.276076
+  },
+  {
+   "name": "Honeymoon point",
+   "kind": "viewpoint",
+   "walkMinutes": 15,
+   "lat": 18.989809,
+   "lon": 73.2613774
+  },
+  {
+   "name": "Holy Cross Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 18.9819581,
+   "lon": 73.2686186
+  },
+  {
+   "name": "Maldunga Point",
+   "kind": "viewpoint",
+   "walkMinutes": 16,
+   "lat": 18.9988837,
+   "lon": 73.2682072
+  },
+  {
+   "name": "Echo Point",
+   "kind": "viewpoint",
+   "walkMinutes": 17,
+   "lat": 18.9862195,
+   "lon": 73.2611377
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "query": "Raichur",
+ "found": "Raichur (pinned)",
+ "lat": 16.2076,
+ "lon": 77.3463,
+ "fetchedAt": "2026-10-12T18:55:56.924Z",
+ "locality": {
+  "id": "raichur-raichur-karnataka",
+  "name": "Raichur",
+  "area": "Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Raichur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Lake_Aam_Talab%2C_Raichur.jpg/1280px-Lake_Aam_Talab%2C_Raichur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Raichur",
+   "credit": "Photo: Tanzeelahad, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Aam_Talab,_Raichur.jpg"
+  },
+  "Raichur district": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Raichur_District_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Raichur district",
+   "credit": "Photo: Adityamadhav83, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raichur_District_Montage.png"
+  },
+  "Raichur railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Raichur_Junction_Railway_Station_Board.JPG/1280px-Raichur_Junction_Railway_Station_Board.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Raichur railway station",
+   "credit": "Photo: Ir karthik 27, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raichur_Junction_Railway_Station_Board.JPG"
+  },
+  "Raichur Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/54-Raichur_constituency.svg/1280px-54-Raichur_constituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Raichur Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:54-Raichur_constituency.svg"
+  },
+  "Ek Minar Mosque, Raichur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ek_Minar_Masjid%2C_Raichur.jpg/1280px-Ek_Minar_Masjid%2C_Raichur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ek Minar Mosque, Raichur",
+   "credit": "Photo: Tanzeelahad, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ek_Minar_Masjid,_Raichur.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Raichur",
+   "text": "Raichur, also pronounced as Rāyachūru (formerly Raichore), is a city and headquarters of eponymous Raichur district in the Karnataka state of India. It is located between Krishna and Tungabhadra rivers.\n\n\n== History ==\n\n\n=== Ancient History ===\n\nThe recorded history of the district is traced as far back as the third century B.C.E. Three minor rock edicts of Ashoka are found in the district, one at Maski in the Lingasugur taluk and the other two near Koppal, which proves that this area was part of the dominions of the Mauryan emperor Ashoka. At that time, this region was under the governance of a Viceroy or Mahamatra of Ashoka. Thereafter, the district appears to have been a part of the kingdom of the Satavahanas. The Vakatakas, who reigned during the 3rd and 4th centuries CE, seems to have held sway over Raichur for some time, after which it appears to have been included in the Kadamba dominions. The next dynasty of importance, which ruled over this region, was that of the Chalukyas of Badami. According to an inscription from Aihole, Pulakeshin II having defeated the Pallavas, occupied this area and made it a province in his empire under the governance of his son Adityavarma. Later the whole...",
+   "url": "https://en.wikipedia.org/wiki/Raichur"
+  },
+  {
+   "title": "Raichur district",
+   "text": "Raichur District is an administrative division of the Indian state of Karnataka. Located in the northeastern part of the state, it is bounded by Yadgir District to the north; Vijayapura (Bijapur) and Bagalkot districts to the northwest; Koppal District to the west, Ballary District to the south; and the Jogulamba Gadwal District of Telangana and Kurnool District of Andhra Pradesh to the east.",
+   "url": "https://en.wikipedia.org/wiki/Raichur_district"
+  },
+  {
+   "title": "Raichur railway station",
+   "text": "Raichur Junction railway station, also known as Raichuru Junction railway station (station code:RC), is located in Raichur district in the Indian state of Karnataka and serves Raichur and the surrounding industrially efflorescent area. The station has three platforms.",
+   "url": "https://en.wikipedia.org/wiki/Raichur_railway_station"
+  },
+  {
+   "title": "Raichur Assembly constituency",
+   "text": "Raichur Legislative Assembly constituency is one of the 224 Legislative Assembly constituencies of Karnataka in India. It is a part of Raichur district.",
+   "url": "https://en.wikipedia.org/wiki/Raichur_Assembly_constituency"
+  },
+  {
+   "title": "Ek Minar Mosque, Raichur",
+   "text": "The Ek Minar Mosque, also known as Ek Minar Masjid (lit. 'One-minaret Mosque') and Ek Minar Ki Masjid (lit. 'Mosque of One Minaret'), is a mosque located in Raichur, in the state of Karnataka, India. The mosque is a state protected monument.\nWhilst the minaret is standing, some of the historical structures in the grounds of the mosque were demolished in 2016 to enable an adjacent road to be widened.",
+   "url": "https://en.wikipedia.org/wiki/Ek_Minar_Mosque,_Raichur"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Raichur",
+  "text": "Raichur is a city of 232,000 people (2011) in Northern Karnataka.\n\n\n== See ==\n\nOne of the important place to look around in Raichur is the thermal power plant in Shaktinagar which is around 20 km from Raichur.\n\n1 Raichur Fort. A hill fort surrounded on three sides by a double row of low circuit walls. It was built without the any cementing material. The inner wall has two gateways: the Sailani Darwaza on the west and the Sikandari Darwaza on the east. The outer fortifications contain five gateways: Mecca Darwaza on the west, the Naumngi Darwaza on the north, the Kati Darwaza on the east, the Khanrlak Darwaza on the south and the Doddi Darwaza on the south-west. Inside the fort, there are old buildings and mosques of considerable archaeological interest, several of them containing inscriptions commemorating their erection during the later Bahmani and the Adil Shahi periods. (updated Feb 2026)\n2 Maliabad Fort. A town 5 km from Raichur city, known for its historically important fort, Vishnu temple, two life size elephants carved in white granite and other monuments (updated Feb 2026)\n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Raichur"
+ },
+ "sights": [
+  {
+   "name": "Raichur district",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 16.21,
+   "lon": 77.35
+  },
+  {
+   "name": "Ek Minar Mosque, Raichur",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 16.203295,
+   "lon": 77.3526662
+  },
+  {
+   "name": "Raichur Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 16.21,
+   "lon": 77.36
+  },
+  {
+   "name": "Raichur railway station",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 16.1935,
+   "lon": 77.3394
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

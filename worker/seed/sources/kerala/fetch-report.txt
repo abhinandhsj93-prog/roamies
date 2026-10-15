@@ -1,0 +1,110 @@
+Pathanamthitta -> Chuttipara: 10 wiki, voyage, 15 sights, 0 food, 8 photos
+Haripad, Alappuzha -> Pilappuzha: 2 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Erumely, Kottayam -> Karinkallummoozhi: 2 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Peerumade, Idukki -> Kuttikkanam: 4 wiki, voyage, 2 sights, 0 food, 3 photos
+Cheruthuruthy, Thrissur -> Cheruthuruthy: 2 wiki, no voyage, 5 sights, 0 food, 3 photos
+Mukkali, Palakkad -> Mukkali: 0 wiki, no voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Kappad, Kozhikode -> Chemanchery: 2 wiki, no voyage, 1 sights, 0 food, 1 photos
+Kakkayam, Kozhikode -> Kakkayam: 1 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Meppadi, Wayanad -> Kunnamangalamvayal: 1 wiki, voyage, 4 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Kasaragod -> Thayalangadi: 9 wiki, voyage, 9 sights, 0 food, 8 photos, errors overpass sights: overpass-api.de 504
+Ranipuram, Kasaragod -> Ranipuram: 1 wiki, no voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
+Agumbe FAILED not found by Nominatim
+Aihole FAILED not found by Nominatim
+Ajanta Caves FAILED not found by Nominatim
+Alibag -> Nellikatta: 2 wiki, voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Andheri, Mumbai FAILED resolved to K/E Ward, Maharashtra
+Anegundi FAILED not found by Nominatim
+Aurangabad FAILED not found by Nominatim
+Badami FAILED not found by Nominatim
+Bandra West, Mumbai FAILED not found by Nominatim
+Bangalore Palace, Bengaluru FAILED not found by Nominatim
+Basavanagudi, Bengaluru FAILED not found by Nominatim
+Belgaum FAILED not found by Nominatim
+Belur -> Porkalam: 1 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass food: overpass-api.de 504
+Bhagamandala FAILED not found by Nominatim
+Bhandardara FAILED not found by Nominatim
+Bhimashankar FAILED not found by Nominatim
+Bidar FAILED not found by Nominatim
+Bijapur FAILED not found by Nominatim
+Borivali, Mumbai FAILED not found by Nominatim
+Brindavan Gardens FAILED not found by Nominatim
+Byculla, Mumbai FAILED not found by Nominatim
+Bylakuppe FAILED not found by Nominatim
+Chamundi Hills, Mysuru FAILED not found by Nominatim
+Chikmagalur FAILED not found by Nominatim
+Chitradurga FAILED not found by Nominatim
+Crawford Market, Mumbai FAILED not found by Nominatim
+Cubbon Park, Bengaluru FAILED not found by Nominatim
+Dandeli FAILED not found by Nominatim
+Dapoli FAILED not found by Nominatim
+Daulatabad FAILED resolved to Old Faridabad, Haryana
+Deccan Gymkhana, Pune FAILED not found by Nominatim
+Dharmasthala FAILED not found by Nominatim
+Dharwad FAILED not found by Nominatim
+Diveagar FAILED not found by Nominatim
+Ellora Caves FAILED not found by Nominatim
+Fort, Mumbai FAILED resolved to Fort, Maharashtra
+Ganpatipule FAILED not found by Nominatim
+Gokak Falls FAILED not found by Nominatim
+Gokarna FAILED not found by Nominatim
+Gopalaswamy Betta FAILED not found by Nominatim
+Gulbarga FAILED not found by Nominatim
+Halebidu FAILED not found by Nominatim
+Hampi FAILED not found by Nominatim
+Hassan -> Thalavil: 0 wiki, voyage, 0 sights, 0 food, 0 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Horanadu FAILED not found by Nominatim
+Hospet FAILED not found by Nominatim
+Hubli FAILED not found by Nominatim
+Indiranagar, Bengaluru FAILED resolved to Indiranagar, Karnataka
+Jayanagar, Bengaluru FAILED not found by Nominatim
+Karwar -> Navakana Colony: 2 wiki, no voyage, 6 sights, 0 food, 2 photos
+Khandala FAILED not found by Nominatim
+Kolhapur FAILED not found by Nominatim
+Kollur -> Pattoor: 15 wiki, voyage, 15 sights, 0 food, 5 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Koramangala, Bengaluru FAILED not found by Nominatim
+Koregaon Park, Pune FAILED not found by Nominatim
+Kudremukh FAILED not found by Nominatim
+Kukke Subramanya FAILED not found by Nominatim
+Kundapura FAILED not found by Nominatim
+Kushalnagar FAILED not found by Nominatim
+Lalbagh, Bengaluru FAILED not found by Nominatim
+Lavasa FAILED not found by Nominatim
+Lonar FAILED not found by Nominatim
+Lonavala FAILED not found by Nominatim
+Madikeri FAILED not found by Nominatim
+Mahabaleshwar FAILED not found by Nominatim
+Mahim, Mumbai FAILED not found by Nominatim
+Malabar Hill, Mumbai FAILED not found by Nominatim
+Malleshwaram, Bengaluru FAILED not found by Nominatim
+Malpe FAILED not found by Nominatim
+Malvan FAILED not found by Nominatim
+Mangaluru -> Kunjathur: 4 wiki, no voyage, 2 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Manipal FAILED not found by Nominatim
+Matheran FAILED not found by Nominatim
+MG Road, Bengaluru FAILED resolved to Ashokanagar, Karnataka
+Mullayanagiri FAILED not found by Nominatim
+Murud-Janjira FAILED not found by Nominatim
+Murudeshwar FAILED not found by Nominatim
+Mysore Palace, Mysuru FAILED not found by Nominatim
+Nagarhole FAILED resolved to Ponnampete taluk, Karnataka
+Nagpur FAILED not found by Nominatim
+Navi Mumbai FAILED resolved to Vashi, Maharashtra
+Panchgani FAILED not found by Nominatim
+Pattadakal FAILED not found by Nominatim
+Raichur FAILED not found by Nominatim
+Raigad Fort FAILED not found by Nominatim
+Sakleshpur FAILED not found by Nominatim
+Sevagram -> Vattappara: 4 wiki, no voyage, 14 sights, 0 food, 2 photos
+Shaniwar Wada, Pune FAILED not found by Nominatim
+Shirdi -> Viyyur: 7 wiki, voyage, 15 sights, 0 food, 6 photos, errors overpass food: overpass-api.de 504
+Shivamogga FAILED not found by Nominatim
+Shravanabelagola FAILED not found by Nominatim
+Sirsi -> Cherkala: 2 wiki, voyage, 8 sights, 0 food, 1 photos
+Somanathapura FAILED not found by Nominatim
+Sringeri -> Fort: 17 wiki, voyage, 15 sights, 0 food, 12 photos
+Srirangapatna FAILED not found by Nominatim
+Talakadu FAILED not found by Nominatim
+Udupi -> Kothamangalam: 7 wiki, voyage, 5 sights, 0 food, 6 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Whitefield, Bengaluru FAILED resolved to Whitefield, Karnataka
+Yana FAILED resolved to Central Vista, Delhi

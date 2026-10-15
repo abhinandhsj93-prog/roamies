@@ -1,0 +1,120 @@
+{
+ "query": "Kumily, Idukki",
+ "region": "kerala",
+ "name": "Kumily",
+ "draft": {
+  "briefing": "Hey, you're in Kumily! This town sits in the Cardamom Hills, right next to Thekkady and the Periyar Tiger Reserve, so spice plantations are all around you.",
+  "hungryLine": "Kumily's main road has a couple of good places to eat, and you're in cardamom country, so pick up some spices while you're at it.",
+  "moodReplies": {
+   "show-me-around": "Lourdes Roman Catholic Church is a 2 min walk and Ganapathy Bhadrakali Temple about 5 min. Thekkady's wildlife sanctuary is just down the road.",
+   "somewhere-to-chill": "Take a slow walk among the cardamom plantations and enjoy the spicy smells of Kerala.",
+   "surprise-me": "The Idukki Arch Dam, in this district, is said to be the world's second arch dam and Asia's first."
+  },
+  "seeFirst": {
+   "caption": "In and around Kumily",
+   "spots": [
+    {
+     "name": "Thekkady Wildlife Sanctuary",
+     "detail": "Next to town · Periyar National Park and its lake",
+     "status": {
+      "text": "Take the morning boat",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Spice fields",
+     "detail": "All around Kumily · Cardamom plantations to walk through",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Ganapathy Bhadrakali Temple",
+     "detail": "5 min walk · A local temple in town",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thekkady",
+    "title": "The jeep safari truth",
+    "body": "Ask anyone who's done it and they'll tell you: on the jeep safari you hardly ever see animals, there's too much noise and too many people. Walking is better, you at least get the scenery."
+   },
+   {
+    "where": "Idukki",
+    "title": "Asia's first arch dam",
+    "body": "Locals are proud that the Idukki Arch Dam is called the world's second and Asia's first arch dam. It's a day trip from Kumily."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Take the morning boat.",
+    "body": "The early boat ride on Periyar Lake gives you the best chance of seeing animals."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip the jeep safari.",
+    "body": "It's mostly a long drive through Vandiperiyar with little wildlife, so it's only worth it if you love off-roading."
+   }
+  ],
+  "story": [
+   {
+    "era": "Always",
+    "title": "Cardamom Hills",
+    "body": "Kumily grew up in the Cardamom Hills of Idukki District. Spices are still what people come here for.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "The dam years",
+    "title": "Asia's first arch dam",
+    "body": "Up the road, the Idukki Arch Dam was built. It's called the world's second arch dam and the first in Asia.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2023",
+    "title": "Boats on Periyar Lake",
+    "body": "Visitors paid a ₹500 entry fee to the reserve and ₹225 for a 1.5 hour boat ride on the lake. Mornings gave the best wildlife sightings.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Gateway to Thekkady",
+    "body": "Kumily is the town at the edge of Thekkady and the Periyar Tiger Reserve. From here it's easy to reach Vagamon's pine trees and the Idukki sanctuary.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Lord's Family Restaurant",
+    "detail": "Main road, town centre · Order the Navrathan Kurma",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Spice Village",
+    "detail": "Buffet restaurant · Try a bit of everything",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

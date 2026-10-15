@@ -1,0 +1,129 @@
+{
+ "query": "Vasco da Gama",
+ "region": "goa",
+ "name": "Vasco da Gama",
+ "draft": {
+  "briefing": "Hey, you're in Vasco da Gama! This port city at the mouth of the Zuari is named after the Portuguese explorer, and it grew up alongside Mormugao Port, one of India's oldest ports.",
+  "hungryLine": "Vasco has proper Goan food, and Vasco Inn is the place to try chicken cafreal, vindaloo, xacuti and caldine.",
+  "moodReplies": {
+   "show-me-around": "Tilak Maidan is a 6 min walk and the Ravindra Bhavan-Mormugao Port Bridge is about 13 min away.",
+   "somewhere-to-chill": "Head up to the Japanese Garden at Sada, on a hilltop facing the ocean, and sit and watch the ships.",
+   "surprise-me": "In March 1943, a secret British raid called Operation Creek sank the German ship Ehrenfels in Mormugao Harbour, because it was sending information to U-boats."
+  },
+  "seeFirst": {
+   "caption": "Around town",
+   "spots": [
+    {
+     "name": "Tilak Maidan",
+     "detail": "6 min walk · Football ground with a Harbour End and a City End",
+     "status": {
+      "text": "Check match days locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Ravindra Bhavan-Mormugao Port Bridge",
+     "detail": "13 min walk · Vasco's new cable-stayed bridge, opened in January 2025",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Naval Aviation Museum",
+     "detail": "On the way to Bogmalo beach · Vintage aircraft from Sea Harriers to a Super Constellation",
+     "status": {
+      "text": "Closed Mondays",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go to Sada early or late.",
+    "body": "The Japanese Garden at Sada is quiet in the day, and early mornings or evenings are the ideal time to visit."
+   },
+   {
+    "icon": "tag",
+    "title": "Mind the waves at Bogmalo.",
+    "body": "Bogmalo is a small beautiful beach behind the airport, but the water there can get very rough."
+   }
+  ],
+  "story": [
+   {
+    "era": "1497 to 1499",
+    "title": "The explorer's voyage",
+    "body": "Vasco da Gama's first voyage linked Europe and Asia by sea around the southern tip of Africa. The city now carries his name.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1880s",
+    "title": "Port and city",
+    "body": "Mormugao Port was set up on a natural harbour in the 1880s, and the city was developed alongside it.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1943",
+    "title": "Operation Creek",
+    "body": "During World War II, men of the Calcutta Light Horse and Calcutta Scottish attacked the German ship Ehrenfels in the harbour at night. It and three other Axis ships were sunk.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1957 to 1961",
+    "title": "Shipyard and freedom",
+    "body": "The shipyard now run by Goa Shipyard Limited was built in 1957, and the city stayed Portuguese until the 1961 Indian military operation that annexed Goa.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A busy port town",
+    "body": "Mormugao Port is still a busy shipping route and the biggest employer around Vasco. A new cable bridge opened on 21 January 2025.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Vasco Inn",
+    "detail": "Near IOC · Known for Goan food, try the chicken cafreal, xacuti and caldine",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Annapurna",
+    "detail": "Near the Municipal Market · Vegetarian, try the paneer makhanwala or biryani",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "City Shack",
+    "detail": "Near the municipal garden · Go for the handi biryani and fish dishes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

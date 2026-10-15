@@ -1,0 +1,103 @@
+{
+ "query": "Sringeri",
+ "region": "karnataka",
+ "name": "Sringeri",
+ "draft": {
+  "briefing": "Hey, you're in Sringeri! Adi Shankara set up his first peetham here on the Tunga River in the 8th century, and the Sharadamba Temple is still at its heart.",
+  "hungryLine": "The Sringeri Mutt serves good food at noon and at night, and there are small budget messes along the temple street.",
+  "moodReplies": {
+   "show-me-around": "Sri Sharadamba Temple is about a 19 min walk. Right next to it on the riverbank is the Vidyashankar Temple, built in old Hoysala style.",
+   "somewhere-to-chill": "Cross the footbridge to Narasimha Vana, the ashram on the other side of the river. It's a peaceful place for a quiet stroll.",
+   "surprise-me": "During the Third Anglo-Mysore War in 1791, the Sharadamba Temple was attacked by Pindaris, and Tipu Sultan wrote to the Shankaracharya offering money and gifts to restore it."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Sri Sharadamba Temple",
+     "detail": "19 min walk · The 8th century heart of Sringeri",
+     "status": {
+      "text": "Dress code for shrines",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Tunga river Bank",
+     "detail": "By the temple · Feed the fish with puffed rice",
+     "status": {
+      "text": "No fishing allowed",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Narasimha Vana",
+     "detail": "Across the footbridge · Home of the present Jagadguru",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Tunga river bank",
+    "title": "The cobra and the frog",
+    "body": "When Adi Shankara came here in heavy rain, he saw a cobra spread its hood over a struggling frog to shelter it instead of eating it. Moved, he prayed to the Goddess and set up the temple on that spot."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress right for the shrines.",
+    "body": "Men need a dhoti and women a saree or salwar kameez with a shawl, and trousers or jeans aren't allowed into the main shrines."
+   },
+   {
+    "icon": "tag",
+    "title": "Eat at the Mutt.",
+    "body": "The Sringeri Mutt serves good, clean meals at noon and at night."
+   }
+  ],
+  "story": [
+   {
+    "era": "700s",
+    "title": "Shankara's first peetham",
+    "body": "Adi Shankara set up the Sharadamba Temple and his first monastery here, the southern one of his four cardinal peethams.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Later",
+    "title": "The Vidyashankar Temple",
+    "body": "On the river bank next to the Sharada temple, the Vidyashankar Temple was built in old Hoysala style.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1791",
+    "title": "Raided and restored",
+    "body": "Pindaris attacked the temple during the Third Anglo-Mysore War. Tipu Sultan sent letters of sympathy and offered protection, money and gifts to restore it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A living seat",
+    "body": "The present Jagadguru lives at Narasimha Vana across the river, and the peetham still runs a Sanskrit school on the southern bank.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Sringeri Mutt",
+    "detail": "Good, clean meals at noon and night",
+    "status": {
+     "text": "Noon and night",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

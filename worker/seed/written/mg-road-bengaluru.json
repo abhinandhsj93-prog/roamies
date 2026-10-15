@@ -1,0 +1,131 @@
+{
+ "query": "MG Road, Bengaluru",
+ "region": "karnataka",
+ "name": "MG Road",
+ "draft": {
+  "briefing": "Hey, you're on MG Road! Known as South Parade before independence, it was renamed Mahatma Gandhi Road on 26 February 1948 and is still one of the busiest roads in Bengaluru.",
+  "hungryLine": "Grab a late night tea at Savera on MG Road, or head to Residency Road for biryani and Death by Chocolate.",
+  "moodReplies": {
+   "show-me-around": "Brigade Road is a 3 minute walk, Church Street is 4 minutes away, and St. Mark's Cathedral is about 12 minutes on foot.",
+   "somewhere-to-chill": "Wander Church Street, the first street in the city paved with granite cobblestones.",
+   "surprise-me": "Jawaharlal Nehru, Queen Elizabeth II and Nikita Khrushchev have all eaten at Koshy's, a 9 minute walk from here."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Church Street",
+     "detail": "4 min walk · Shopping, nightlife and Kasuti-pattern cobblestones",
+     "status": {
+      "text": "Busy at night",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mayo Hall",
+     "detail": "7 min walk · Ornate old hall with chandeliers and Tuscan columns",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "St. Mark's Cathedral",
+     "detail": "12 min walk · English Baroque church from 1808",
+     "status": {
+      "text": "Open to all",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "St. Andrew's Church",
+    "title": "The martyr's church",
+    "body": "St. Andrew's was consecrated in memory of Mary Elizabeth McGoun, and was once known as the martyr's church. Her monument is at the end of the altar."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Ring in New Year on Church Street.",
+    "body": "It's one of the city's popular New Year's Eve celebration spots."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the metro.",
+    "body": "MG Road and Trinity stations are both right on the road."
+   }
+  ],
+  "story": [
+   {
+    "era": "1808",
+    "title": "St. Mark's Cathedral",
+    "body": "The cathedral at the west end of the road was founded, inspired by St Paul's Cathedral.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1866",
+    "title": "St. Andrew's Church",
+    "body": "The Scottish kirk on Cubbon Road was consecrated.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1948",
+    "title": "A new name",
+    "body": "South Parade became Mahatma Gandhi Road on 26 February 1948.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2011",
+    "title": "The metro comes",
+    "body": "MG Road metro station opened on 20 October 2011, linking east and west Bengaluru.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2017",
+    "title": "Cobblestones on Church Street",
+    "body": "Church Street was repaved in granite cobblestones laid in a Kasuti pattern, a nod to Karnataka's heritage.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Savera Tea Shop",
+    "detail": "On MG Road · 24 hour tea, Suleimani tea and biscuits",
+    "status": {
+     "text": "Open round the clock",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Nagarjuna Chimney",
+    "detail": "Residency Road · Great biryani and banana leaf meals",
+    "status": {
+     "text": "Go early for lunch",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Corner House",
+    "detail": "Residency Road · Order the Death by Chocolate",
+    "status": {
+     "text": "Busy at peak times",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "query": "Indiranagar, Bengaluru",
+ "found": "Indiranagar, Jogpalya, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560008, India",
+ "lat": 12.9732913,
+ "lon": 77.6404672,
+ "fetchedAt": "2026-10-12T18:26:30.296Z",
+ "locality": {
+  "id": "indiranagar-bengaluru-urban-karnataka",
+  "name": "Indiranagar",
+  "area": "Bengaluru, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Domlur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Domlur_BusDepot.JPG/1280px-Domlur_BusDepot.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Domlur",
+   "credit": "Photo: Praveen Grao, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Domlur_BusDepot.JPG"
+  },
+  "Ulsoor": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Native_Girls%27_School_and_Preaching-Room%2C_Alasoor%2C_Bangalore_%28p.184%2C_December_1865%2C_XXII%29.jpg/1280px-Native_Girls%27_School_and_Preaching-Room%2C_Alasoor%2C_Bangalore_%28p.184%2C_December_1865%2C_XXII%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ulsoor",
+   "credit": "Photo: Wesleyan Juvenile Offering 1865, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Native_Girls%27_School_and_Preaching-Room,_Alasoor,_Bangalore_(p.184,_December_1865,_XXII).jpg"
+  },
+  "Swami Vivekananda Road metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Swami_Vivekananda_Road_Metro_station.JPG/1280px-Swami_Vivekananda_Road_Metro_station.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Swami Vivekananda Road metro station",
+   "credit": "Photo: రహ్మానుద్దీన్, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swami_Vivekananda_Road_Metro_station.JPG"
+  },
+  "Indira Nagar metro station (Bengaluru)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Indiranagar_Metro_Station.jpg/1280px-Indiranagar_Metro_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Indira Nagar metro station (Bengaluru)",
+   "credit": "Photo: Sahilrathod, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indiranagar_Metro_Station.jpg"
+  },
+  "Cornerstone Park, Bengaluru": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cornerstone_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Cornerstone Park, Bengaluru",
+   "credit": "Photo: Veritas77777, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornerstone_Park.jpg"
+  },
+  "Dwadasha Jyotirlinga Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Sri_Dwadasha_Jyothirlinga_Devasthana_32.jpg/1280px-Sri_Dwadasha_Jyothirlinga_Devasthana_32.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dwadasha Jyotirlinga Temple",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Dwadasha_Jyothirlinga_Devasthana_32.jpg"
+  },
+  "Matsya Narayana Temple, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Sri_Matsya_Narayana_Temple_and_Sri_Vanadurga_Devi_Temple_29.jpg/1280px-Sri_Matsya_Narayana_Temple_and_Sri_Vanadurga_Devi_Temple_29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Matsya Narayana Temple, Bengaluru",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Matsya_Narayana_Temple_and_Sri_Vanadurga_Devi_Temple_29.jpg"
+  },
+  "Garden City University": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Outlook_of_the_GCU_Main_Campus.jpg/1280px-Outlook_of_the_GCU_Main_Campus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Garden City University",
+   "credit": "Photo: Arun.rangarajulu, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outlook_of_the_GCU_Main_Campus.jpg"
+  },
+  "Binnamangala Manavarthe Kaval": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kempe_Gowda_Circle%2C_Suranjan_Das_Road_and_New_Thippasandra_or_GM_Palya_Main_Road_JN.jpg/1280px-Kempe_Gowda_Circle%2C_Suranjan_Das_Road_and_New_Thippasandra_or_GM_Palya_Main_Road_JN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Binnamangala Manavarthe Kaval",
+   "credit": "Photo: Vijethnbharadwaj, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kempe_Gowda_Circle,_Suranjan_Das_Road_and_New_Thippasandra_or_GM_Palya_Main_Road_JN.jpg"
+  },
+  "Domlur inscriptions and hero stones": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Domlur_Chokkanathaswamy_Temple.jpg/1280px-Domlur_Chokkanathaswamy_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Domlur inscriptions and hero stones",
+   "credit": "Photo: Mythic Society Inscriptions 3D Scanning Project team, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Domlur_Chokkanathaswamy_Temple.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Indira Nagar",
+   "text": "Indira Nagar may refer to several places in India named after Indira Gandhi:\n\nIndiranagar, Mysore, Karnataka\nIndiranagar, Bengaluru, Karnataka\nIndira Nagar, Chennai, Tamil Nadu\nIndira Nagar railway station\nIndira Nagar, Lucknow, Uttar Pradesh\nIndira Nagar metro station (Lucknow)\nIndira Nagar, Srinagar, Jammu and Kashmir\nIndira Nagar Assembly constituency, Pondicherry\nIndira Nagar (Vile Parle) metro station, Mumbai Metro\n\n\n== See also ==\nIndira (disambiguation)\nIndira Nagar metro station (disambiguation)\nNagar (disambiguation)",
+   "url": "https://en.wikipedia.org/wiki/Indira_Nagar"
+  },
+  {
+   "title": "Domlur",
+   "text": "Domlur  is a small township located in the eastern part of Bangalore city in India. Domlur was included in the erstwhile Bangalore Civil and Military Station under the British Madras Presidency till it was transferred to the Mysore State in 1949.\nDomlur is surrounded by offices of multinational software companies and business process outsourcing companies. Domlur hosts the software park Embassy Golf Links (EGL). McAfee, NetApp, Dell, IBM, Microsoft, ANZ, Sasken, Target and Mistral Solutions are the companies located in this area. Domlur is located close to the 'old airport'.\nThe major military establishments having divisions in Domlur are Indian Air Force, EME Workshop, and ASC (Army Service Corps).\n\n",
+   "url": "https://en.wikipedia.org/wiki/Domlur"
+  },
+  {
+   "title": "Indiranagar, Bengaluru",
+   "text": "Indiranagar  is an affluent and luxury neighbourhood in east Bengaluru, Karnataka, India. Indiranagar is one of the most expensive cosmopolitan neighbourhoods in Bangalore.",
+   "url": "https://en.wikipedia.org/wiki/Indiranagar,_Bengaluru"
+  },
+  {
+   "title": "Ulsoor",
+   "text": "Ulsoor, officially known as Halasuru, is one of the oldest neighbourhoods in the city of Bengaluru. It is in central Bengaluru, and begins near the eastern terminus of Mahatma Gandhi Raste. It is renowned for its numerous temples and market.",
+   "url": "https://en.wikipedia.org/wiki/Ulsoor"
+  },
+  {
+   "title": "National Public School, Indiranagar",
+   "text": "The National Public School, Indiranagar (NPS) is a private school located in Indiranagar, Bengaluru, India. It was started in 1982 by Dr. Gopalkrishna, chairman of the National education trust.",
+   "url": "https://en.wikipedia.org/wiki/National_Public_School,_Indiranagar"
+  },
+  {
+   "title": "Swami Vivekananda Road metro station",
+   "text": "Swami Vivekananda Road (commonly referred to as SV Road) is an elevated metro station on the east–west corridor of the Purple Line of Namma Metro in Bengaluru, India. It serves the localities of Thippasandra and Jeevan Bhima Nagar, and is also close to the Sir M. Visvesvaraya Terminal railway station.",
+   "url": "https://en.wikipedia.org/wiki/Swami_Vivekananda_Road_metro_station"
+  },
+  {
+   "title": "Indira Nagar metro station (Bengaluru)",
+   "text": "Indiranagar is an elevated metro station on the east–west corridor of the Purple Line of Namma Metro. It is located on the CMH Road in the Indiranagar locality in Bengaluru, India. It was opened to the public on 20 October 2011 as one of the first six stations to be inaugurated.",
+   "url": "https://en.wikipedia.org/wiki/Indira_Nagar_metro_station_(Bengaluru)"
+  },
+  {
+   "title": "The Frank Anthony Public School, Bengaluru",
+   "text": "The Frank Anthony Public School (or FAPS) is a co-educational day-school, for students of age 4–18 years, in Bangalore, India. It was founded in 1967 by the Anglo-Indian educationist and barrister-at-law, Frank Anthony, who was also the Founder-Chairman of the All India Anglo-Indian Educational Trust which, today, owns and administers five schools named after him, including The Frank Anthony Public School, New Delhi, The Frank Anthony Public School, Bengaluru, The Frank Anthony Public School, Kolkata and three Frank Anthony Junior Schools in the cities of Bangalore, Kolkata and Delhi.",
+   "url": "https://en.wikipedia.org/wiki/The_Frank_Anthony_Public_School,_Bengaluru"
+  },
+  {
+   "title": "Cornerstone Park, Bengaluru",
+   "text": "Cornerstone Park is a public park located at the junction of the CMH Road and 100 Ft Road in the heart of Indiranagar, Bangalore, Karnataka, India. The BBMP  (local council) park was renovated by Cornerstone Properties in 2012 as a part of a social initiative that has been formed to address social and environmental concerns of Bangalore. The renovations were aimed to revitalizing residential neighborhoods and communities with elements of functional design and ecological functions. The highlight of the park is the city's only outdoor vertical garden.\nThe park was inaugurated on the occasion of the 150th birth anniversary of Swami Vivekananda by Ananthkumar, MP and General Secretary of the BJP and presided by S. Raghu, MLA of Sir C. V. Raman Nagar Constituency. The Chief Guests include P. C. Mohan MP, Shri. A. Ravindra (Chief Advisor for the C. M. & Chief Secretary, Govt. of Karnataka), Savitha Ramesh (Corporator, Hoysala Nagar) and B. P. Kumar Babu (managing director of Cornerstone Properties). The communications were designed and developed by Circuit 9 Communications Private Limited.",
+   "url": "https://en.wikipedia.org/wiki/Cornerstone_Park,_Bengaluru"
+  },
+  {
+   "title": "Dwadasha Jyotirlinga Temple",
+   "text": "Sri Dwadasha Jyotirlinga Temple is located in Bangalore, in the state of Karnataka, India. The temple is located in Omkar Ashram, in Omkar Hills Bangalore. Omkar Hills in Srinivasapura is one of the highest points of Bangalore. The Sri Dwadasha Jyotirlinga Devasthana is unique, and one of the most magnificent and gigantic temples in Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Dwadasha_Jyotirlinga_Temple"
+  },
+  {
+   "title": "Matsya Narayana Temple, Bengaluru",
+   "text": "The Sri Matsya Narayana Temple is located in Bangalore, in the state of Karnataka, India. The temple is located in Omkar Ashram, in Omkar Hills Bangalore. The temple is located in Omkar Ashram, in Omkar Hills Bangalore.",
+   "url": "https://en.wikipedia.org/wiki/Matsya_Narayana_Temple,_Bengaluru"
+  },
+  {
+   "title": "Ashraya",
+   "text": "Ashraya is an Indian non governmental organisation headquartered at Indiranagar, Bengaluru, Karnataka, India, working for the welfare of destitute children and empowerment of women.",
+   "url": "https://en.wikipedia.org/wiki/Ashraya"
+  },
+  {
+   "title": "Garden City University",
+   "text": "Garden City University, formally known as Garden City College is a private university located in Bangalore, Karnataka, India.\nEstablished in the year 1992, Garden City University was formed by Dr. Joseph V.G with other contemporaries like Prof. Shivarudrappa who is a former dean of Karnataka University, Dr. Hanumanthappa who is a former vice-chancellor of Bangalore University, Prof. V.B.Coutinho, vice-chancellor of Gulbarga University, and Prof. Rame Gowda who is a former vice-chancellor of Karnataka State Open University.",
+   "url": "https://en.wikipedia.org/wiki/Garden_City_University"
+  },
+  {
+   "title": "Binnamangala Manavarthe Kaval",
+   "text": "Binnamangala Manavarthe Kaval or B. M. Kaval is one of the early settlements in Bengaluru. It is part of C. V. Raman Nagar Assembly constituency in East Bengaluru. This former village was considered as Outgrowth of Bangalore city in 1981 and had a population of 10516 in 1991 Census, finally merged with Bangalore Mahanagara Palike on 7 December 1995. The process was completed by April 2007 and the body was renamed Bruhat Bengaluru Mahanagara Palike (Greater Bangalore Municipal Corporation).",
+   "url": "https://en.wikipedia.org/wiki/Binnamangala_Manavarthe_Kaval"
+  },
+  {
+   "title": "Binnamangala, Bengaluru",
+   "text": "Binnamangala is one of the early settlements in Bengaluru. It is part of C. V. Raman Nagar Assembly constituency in East Bengaluru. This former village was  merged with Bangalore Mahanagara Palike in the 1981 census.",
+   "url": "https://en.wikipedia.org/wiki/Binnamangala,_Bengaluru"
+  },
+  {
+   "title": "Domlur inscriptions and hero stones",
+   "text": "The Domlur inscriptions and hero stones are 18 passages of modern Tamil and Kannada text inscribed on stone pillars and temple walls in Domlur, a locality in the eastern part of the city of Bengaluru in India. More generally, hero stones are memorial stones commemorating the honourable death of a hero in battle, and are located all over India.\nAll except one of the Domlur inscriptions and hero stones are located in the precincts of the Chokkanathaswamy Temple in Domlur, with 17 of them dedicated to either the deity Chokkanathaswamy or the Chokka Perumal (the Hindu God Vishnu). Eleven of the inscriptions have previously been documented in Epigraphia Carnatica, Vol 9, with seven more recorded in the Quarterly Journal of the Mythic Society.",
+   "url": "https://en.wikipedia.org/wiki/Domlur_inscriptions_and_hero_stones"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bengaluru",
+  "text": "Bengaluru (Kannada: ಬೆಂಗಳೂರು Bengaḷūru), formerly Bangalore, is the largest city in southern India and the capital of the state of Karnataka. A cosmopolitan city, Bengaluru was developed around what was once a mud fort of a feudal lord. The city has a population of nearly 13 million (2025), making it India's fourth-largest city.\nKnown worldwide as the \"Silicon Valley of India\", Bengaluru is at the core of India's information technology (IT) industry. In addition, the city is nicknamed the \"Garden City\" for its large array of parks and greenery.\n\n\n== See ==\nIndividual listings can be found in Bengaluru's district articles\n\nThere are city tours that can show you the city efficiently if you are short on time. Typically, tours do not include entry fees into the attractions. Bengaluru, like the rest of India, has a habit of charging foreigners a lot more than locals for attractions. For example, Tipu Sultan's Summer Palace, which is on the half-day tour, charges ₹15 for Indians/SAARC and ₹200 for non-Indians.\n\n\n== Do ==\nIndividual listings can be found in Bengaluru's district articles\n\n\n=== Outdoor activities ===\nBengaluru is bestowed with rock climbers, aqua sportsmen and aero sportsmen. There are several clubs, including Nature Admire, Care, Spark, KMA, Capture, Mars, Angel, Wildcraft and Adventure Works.\nCamping facilities are available at Savandurga, Gunjoor Lake, Bhimeshwari, Rangaswamy betta.\nThe Art of Bicycle Trips organises bicycle tours in and around the city, which combine cycling with art and heritage.\nThe Koramangala Club in Koramangala, and the Swimming club at the National Games Village (NGV), have facilities such as swimming pools and tennis courts.\nBalahalli Reserved Forest is a  UNESCO World Heritage Site\nCricket\nBengaluru is also popular for playing cricket. Bengaluru also has the M Chinaswamy Stadium and is home to the Royal Challengers Bengaluru in the Indian Premier League and Women's Premier League. Chinaswamy Stadium also hosts international matches against teams. Chinaswamy Stadium is also known for its energetic crowd in cheering the Royal Challengers Bengaluru former captain Virat Kohli and the rest of the team, especially when they win. Book tickets early especially for IPL matches because when Royal Challengers Bengaluru is playing, the tickets get sold out within seconds. If you arrive in January or February, book tickets for the Women's Premier League as it takes place in those months and is often less crowded than the IPL matches. Always carry a water bottle while travelling to Chinaswamy Stadium. \n\n\n=== Movies ===\nTake in a movie at one of the innumerable theaters around the city. Some multiplexes:\n\n Cinemax (Bengaluru Central, Bellandur).   \n Cinepolis, Royal Meenakshi Mall, Bannerghatta Rd; ETA Mall, Binny Pete; Forum Shantiniketan, Whitefield.  \n Gopalan Cinemas, Arch Mall, Mysore Rd,. Gopalan Mall, Mysore Road; Gopalan Mall, Near Jayadeva Hospital, Bannerghatta Road ; Gopalan Mal;, Old Madras Road, Near Baiyappanhalli Metro Station \n Inox theatre, Bengaluru Central, JP Nagar, Fame Cinemas, MG Road, Forum Value Mall, Whitefield, Garuda Mall, Magrath Road, Lido Mall, Ulsoor, Mantri Square, Malleshwaram, Garuda Swagath Mall, Jayanagar.   \n PVR Cinemas, Nexus Mall, Koramangala, Orion Mall, Malleshwaram, The Phoenix Market City Mall, Whitefield; Vega Mall, JD Mara signal.   \n Bangalore Film Society. A club membership (around ₹500/year) is typically required for entrance. Foreign film series and cultural events. \n\n\n=== Spas ===\nSpas and massages are very much a part of Bengaluru's east-meets-west culture, new ones spring up across the city all the time. Beware that many of the \"massage\" classifieds in local newspapers may be fronts for prostitution. Prostitution is illegal and if caught in a raid, you may end up spending a night in the cooler before being eligible for bail. Most legitimate spas and massage parlours have detailed websites and are run professionally.\n\n\n== Eat ==\nIndividual listings can be found in Bengaluru's district articles\nBengaluru has a wide variety of food options. Foreigners will want to look for cleanliness in choosing a place to eat. Also don't expect the exterior to be too fancy, observe the cleanliness of the inside and the servers when choosing a place to eat! Eating options include high end restaurants to chains to temples to mom and pop shops and of course street vendors! Restaurants usually label if they serve only vegetarian (veg or pure veg) or both veg and non-veg cuisine. If you haven't been in India long, it is safer to take bottled water. But juices and other drinks are usually OK.\nThere are also hundreds of young coconut and sugarcane juice stands! A nice refresher as you go around town! Both are good for keeping cool and energized. A coconut goes for ₹25-30 (some stands may have smaller coconuts for ₹10-15). Sugar cane juice runs ₹10-15 per cup.\nBengaluru is far from the sea, and as such the quality of seafood can vary. Some of the higher end and popular seafood places manage this well, but foreign travellers may want to tread a bit carefully.\nForeigners might want to only drink bottled water and eat only chutneys that are made with bottled or filtered water. Also, beef is forbidden to be on the menu in Karnataka restaurants.\nThe 80 Feet Road is the Eat Street of Koramangala. Pizza Hut, Domino's, KFC, Taco Bell, Au Bon Pain are all found here. There are also many non-chains serving local Indian cuisine. Chandni Chowk is a great option if you want the rural Punjabi dhaba experience.\nWisdom Cafe, near the AlienWare showroom is a really cosy place to have some snacks or lunch. So is the Hole in the Wall cafe, on the back street behind Maharaja Hotel. Serves great coffee and English breakfast. So does Cafe Terra, near Wipro park crossing. Adjacent to it is a really popular food joint called Little Home. It serves nice North Indian food at a very reasonable price. It's really popular with the young working populace. Naturals Ice cream parlour is a hit with the hip crowd; on weekend nights you may find queues outside.\n\n\n=== Chains ===\n\n The Adiga's chain. Restaurants to the south of Bengaluru. Prominent among them are in: Jayanagar 4th Block, take the road facing BHS First Grade College, Basavanagudi. \n Beijing Bites. 11AM-3:30PM, 7PM-11PM. Chain restaurant inspired by Chinese & Thai cuisines, spread across Bengaluru. ₹200-₹400. \n Kamat Yatrinivas, Majestic; All around the city. Authentic Mangalorean meals. \n Mast Kalandar, All around the city. Very nice North India cuisine. It is very reasonably priced. \n Nagarjuna Chimney, Residency Rd; Jayanagar 3rd Block (near Old Galaxy Theatre; near ICICI Bank). Possibly have a few more branches elsewehere in Bengaluru. The biryani is great, as are their meals which are served ritually on a banana leaf. Reach early for lunch, for there are always hordes waiting. \n Upaahara Darshini, Jayanagar 3rd Block; DVG Road, Gandhi Bazaar. One of Bengaluru's oldest food joints. Amazing dosas. \n Corner House, Residency Rd, BTM Rd, Koramangala, Airport Rd, Whitefield Rd, Marthahalli and Shivananda Circle, ☏ +91 80 2558 3262. One of the best ice cream parlours offering a variety of treats. Their famed 'Death by Chocolate' (popularly known as DBC) is a must for all chocolate lovers and has attained a cult status. Can be tricky to find a spot during peak times and you may find yourself being 'encouraged' by the staff to leave quickly once you do. \n Kanti Sweets. KG Rd, Majestic, Malleswaram Circle, RT Nagar. Very good samosas, kachoris and North Indian sweets like rasmalai. Rapidly expanding chain, so there are plenty of branches all over the city now, which serve parathas and other food items as well. The main branch in Majestic is the best, and serves only samosas, kachoris and sweets. ₹10-50 per head. \n Nandini. The Andhra fast food chain serves some excellent biriyani and chicken dishes. \n New Shanti Sagar, 80 Foot Rd. This is a reasonably reliable chain of vegetarian south Indian restaurants. Branches scattered all over the city, notably in Koramangala Jayanagar, Domlur. ₹50-200. \n The Rameshwaram Cafe. A well-known restaurant chain famous for its extra crispy ghee dosas. Standing room only and hugely popular, all food is made to order so at peak meal times you may need to wait for an hour or longer. (updated Sep 2024)\n Savera Tea Shop. 24 hr tea shops near Russell Market in Shivajinagar and on MG Rd. Good place to go for a cup of tea in the dead of the night. Serves tea, Suleimani (honey+lemon) tea and a variety of biscuits. ₹3-15 \n Shezan, Lavelle Rd and Cunningham Rd, ☏ +91 80 2224 9319, +91 80 2224 9667. Indian, Chinese and Continental cuisines with a good menu choice where beef, fish, prawn, mutton and chicken meat are available. Excellent steaks. \n SLV chain. Prominent among them are in: Banashankari 2nd stage, opposite BDA park and the one in J.P.Nagar 2nd Phase near Ragigudda Temple \n Sree Krishna. Fast food a little further from the r",
+  "url": "https://en.wikivoyage.org/wiki/Bengaluru"
+ },
+ "sights": [
+  {
+   "name": "Cornerstone Park, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 12.978002,
+   "lon": 77.641209
+  },
+  {
+   "name": "Indira Nagar metro station",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.9786,
+   "lon": 77.6388
+  },
+  {
+   "name": "National Public School, Indiranagar",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 12.969583333333333,
+   "lon": 77.64677777777779
+  },
+  {
+   "name": "Garden City University",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 12.98,
+   "lon": 77.6371
+  },
+  {
+   "name": "Binnamangala, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 12.980806122943287,
+   "lon": 77.63900460325799
+  },
+  {
+   "name": "Binnamangala Manavarthe Kaval",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 12.980748913495036,
+   "lon": 77.646320199081
+  },
+  {
+   "name": "Dwadasha Jyotirlinga Temple",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 12.966666666666667,
+   "lon": 77.63333333333334
+  },
+  {
+   "name": "Matsya Narayana Temple, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 12.966666666666667,
+   "lon": 77.63333333333334
+  },
+  {
+   "name": "Indiranagar, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 12.9699,
+   "lon": 77.6499
+  },
+  {
+   "name": "Ashraya",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 12.9699,
+   "lon": 77.6499
+  },
+  {
+   "name": "Ulsoor",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 12.97,
+   "lon": 77.63
+  },
+  {
+   "name": "The Frank Anthony Public School, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 12.9711,
+   "lon": 77.6287
+  },
+  {
+   "name": "Domlur inscriptions and hero stones",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 12.962306,
+   "lon": 77.635222
+  },
+  {
+   "name": "Domlur",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 12.9608157,
+   "lon": 77.6361322
+  },
+  {
+   "name": "Swami Vivekananda Road metro station",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 12.985958,
+   "lon": 77.64494
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

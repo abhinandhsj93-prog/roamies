@@ -1,0 +1,124 @@
+{
+ "query": "Nileshwar, Kasaragod",
+ "region": "kerala",
+ "name": "Nileshwar",
+ "draft": {
+  "briefing": "Hey, you're in Nileshwar! It's called the cultural capital of Kasaragod, Kerala's northernmost district. The town sits on the estuary of the Kavvayi backwaters and the Nileshwaram river.",
+  "hungryLine": "Nileshwar eats along the highway. Try Vasantha Vihar for vegetarian, or the KTDC Restaurant, which even Wikivoyage praises.",
+  "moodReplies": {
+   "show-me-around": "Nileshwar Muthappan Madappura is a 3 min walk. Then head out to Kottappuram for the Valiyaparamba backwaters.",
+   "somewhere-to-chill": "Catch the sunset at Azhithala, about 9 km away, where the Tejaswini river meets the Arabian Sea.",
+   "surprise-me": "Nileshwar's auto drivers are a story of their own. Many have formed a small socialist group and admire rebel leader V.S. Achuthanandan with great passion."
+  },
+  "seeFirst": {
+   "caption": "Close to where you are",
+   "spots": [
+    {
+     "name": "Nileshwar Muthappan Madappura",
+     "detail": "3 min walk · Temple of Muthappan in town",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kottappuram",
+     "detail": "22 min walk · Valiyaparamba backwaters and houseboats",
+     "status": {
+      "text": "Houseboats for rent",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Nileshwar Palace",
+     "detail": "Near the railway station · Nileshwar's old palace",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Benkana Kavu",
+    "title": "The mysterious lamps",
+    "body": "At Benkana Kavu stands a kanhiram tree known as The Sacred Tree. Its mysterious lamps are lit on Tuesdays and Fridays after 10 PM."
+   },
+   {
+    "where": "Anjoottabalam Veerarkavu",
+    "title": "Porat in Meenam",
+    "body": "Porat is performed at Anjoottabalam Veerarkavu, and Pooram at Cheermakkavu, in the month of Meenam. Together with Vishukkaliyattam they draw thousands of people."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around Meenam.",
+    "body": "Pooram, Porat and Vishukkaliyattam fill Nileshwar's temples with crowds in the month of Meenam."
+   },
+   {
+    "icon": "tag",
+    "title": "Ask where Theyyam is on.",
+    "body": "Theyyam is performed only in select temples and family temples, so check locally."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Kavus and temples",
+    "body": "Nileshwar is full of kavus and temples, from the Riverside Bhagavathy Temple near the bazaar to the Taliyil Siva Temple. Theyyam is still performed in select temples and family shrines.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Kerala's early politics",
+    "title": "A famous candidate",
+    "body": "E.M.S. Namboodiripad, the first Chief Minister of Kerala, contested Assembly elections from the Neeleshwaram seat.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A town on the water",
+    "body": "Nileshwar is one of only three municipalities in Kasaragod district. Kottappuram, part of the municipality, has eleven houseboats for rent on the backwaters.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Vasantha Vihar Vegetarian",
+    "detail": "On the highway · Vegetarian meals",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "KTDC Restaurant",
+    "detail": "On the highway · Government-run, and Wikivoyage says it's run beautifully",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Highway Inn Restaurant",
+    "detail": "Highway Junction · Not actually an inn, just a restaurant",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

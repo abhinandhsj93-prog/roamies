@@ -1,0 +1,103 @@
+{
+  "query": "Chorao Island",
+  "region": "goa",
+  "name": "Chorao Island",
+  "draft": {
+    "briefing": "Hey, you're in Chorao Island! It's the largest of Goa's islands, and Portuguese nobles liked living here so much they called it Ilha dos Fidalgos, the Island of Noblemen. Its old chapels and Luso-Goan houses still tell that story.",
+    "hungryLine": "I don't have any eateries on the island in my notes, so carry snacks across on the ferry.",
+    "moodReplies": {
+      "show-me-around": "Walk over to St Bartholomew's Church, about 18 minutes away, then carry on to the Capela de Nossa Senhora da Saúde, built in 1705.",
+      "somewhere-to-chill": "The island is known for its bird sanctuary, so slow down and watch the mangroves along the Mandovi.",
+      "surprise-me": "People still notice strange acoustic effects inside the Chapel of St. Jerome, a chapel from 1761 that was abandoned for centuries."
+    },
+    "seeFirst": {
+      "caption": "Walks around the island",
+      "spots": [
+        {
+          "name": "St Bartholomew's Church",
+          "detail": "18 min walk · The parish church for Caraim and the Passo de Ambarim",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Capela de Nossa Senhora da Saúde",
+          "detail": "22 min walk · The Chapel of Our Lady of Health, first built in 1705",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "synagogue"
+        },
+        {
+          "name": "Chapel of St. Jerome",
+          "detail": "Short drive · A 1761 chapel near the old seminary, known for its odd acoustics",
+          "status": {
+            "text": "Old abandoned site, go with care",
+            "tone": "warning"
+          },
+          "illustration": "synagogue"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Chapel of St. Jerome",
+        "title": "The chapel that echoes",
+        "body": "The Chapel of St. Jerome was left empty after the seminary closed, yet it still stands. People say acoustic phenomena can still be heard inside it."
+      },
+      {
+        "where": "Chorao",
+        "title": "A jewel of a name",
+        "body": "The old name Choddnnem is said to come from the Sanskrit chuddamonnim. Chudda means headwear and monnim a jewel worn like a necklace."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Take the ferry from Ribandar.",
+        "body": "Chorao is reached by the ferry from Ribandar, just 5 km from Panaji."
+      },
+      {
+        "icon": "tag",
+        "title": "Bring binoculars.",
+        "body": "The island is known for its bird sanctuary in the mangroves."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "The jewel island",
+        "body": "The island was first called Choddnnem, a name traced to the Sanskrit for a jewel worn on the head. It sits on the Mandovi among Goa's six major river islands.",
+        "illustration": "flood"
+      },
+      {
+        "era": "1705",
+        "title": "Our Lady of Health",
+        "body": "The Capela de Nossa Senhora da Saúde was built on the island in 1705. Portuguese noblemen found the island such a pleasant place to live that they called it Ilha dos Fidalgos.",
+        "illustration": "synagogue"
+      },
+      {
+        "era": "1761",
+        "title": "A royal seminary",
+        "body": "The Real Colégio de Educação de Chorão opened on 2 April 1761, and the Chapel of St. Jerome went up the same year. The Chapel of the Holy Family followed in 1769.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1859",
+        "title": "The epidemic",
+        "body": "An epidemic killed over a thousand people and sent thousands fleeing. The seminary closed in 1859 and the island stayed nearly deserted for almost 100 years.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Today",
+        "title": "Churches and birds",
+        "body": "Chorao is known again for its Luso-Goan churches and houses and its bird sanctuary. It's 5 km from Panaji and 10 km from Mapusa.",
+        "illustration": "pepper"
+      }
+    ],
+    "food": []
+  }
+}

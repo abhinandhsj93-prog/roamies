@@ -1,0 +1,92 @@
+{
+ "query": "Belur",
+ "region": "karnataka",
+ "name": "Belur",
+ "draft": {
+  "briefing": "Hey, you're in Belur! This was the first capital of the Hoysala kings, and its Chennakeshava Temple took 103 years and three generations to build. Since 2023 it's a UNESCO World Heritage Site.",
+  "hungryLine": "Eat like the Hassan locals with ragi mudde and avarekaalina saaru, or some tangy puliyogare, and finish with a proper coffee.",
+  "moodReplies": {
+   "show-me-around": "The Chennakesava Temple is just a 6 min walk, and the little Kappe Chennigaraya Temple is right beside it in the same complex.",
+   "somewhere-to-chill": "Take your time with the carvings inside the temple complex, especially Darpana Sundari, the lady with the mirror.",
+   "surprise-me": "The mineral beryl, and so beryllium, is named after Belur."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Chennakesava Temple",
+     "detail": "6 min walk · Soapstone masterpiece covered in stories from the epics",
+     "status": {
+      "text": "Open daily 7:30AM-5:30PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kappe Chennigaraya Temple",
+     "detail": "7 min walk · The Frog Temple, consecrated by Queen Shantala Devi",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Veera Narayana Temple",
+     "detail": "7 min walk · Small shrine with big carved divinities on its walls",
+     "status": {
+      "text": "Inside the main complex",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Mind the sanctum breaks.",
+    "body": "The inner sanctum closes 10AM-11AM, 1PM-3PM and 5PM-5:30PM, so plan your darshan around that."
+   },
+   {
+    "icon": "tag",
+    "title": "Take guide stories lightly.",
+    "body": "Government-approved guides are handy, but some of what they tell you is made up, so enjoy it with a pinch of salt."
+   }
+  ],
+  "story": [
+   {
+    "era": "1117",
+    "title": "A king's temple",
+    "body": "King Vishnuvardhana commissioned the Chennakeshava Temple on the banks of the Yagachi River. Belur was then the first capital of the Hoysalas, before they built Dwarasamudra, today's Halebidu.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1100s to 1200s",
+    "title": "103 years of carving",
+    "body": "The temple took three generations to finish. Its soapstone walls show 12th-century life, dancers and musicians, and scenes from the Ramayana and Mahabharata.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1414",
+    "title": "The gravity pillar",
+    "body": "A 42 foot lamp post pillar was put up in the temple complex in 1414. It's still standing today.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1659",
+    "title": "Siege of Belur",
+    "body": "In the last years of the Vijayanagara Empire, Shivappa Nayaka of Keladi besieged Belur to back Emperor Sriranga III. He won and restored the emperor's authority here.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2023",
+    "title": "World Heritage",
+    "body": "The Hoysala monuments at Belur and Halebidu became UNESCO World Heritage Sites. Poojas have been done here every morning and evening since the 12th century.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

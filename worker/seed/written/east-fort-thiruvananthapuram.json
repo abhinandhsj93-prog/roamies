@@ -1,0 +1,103 @@
+{
+ "query": "East Fort, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "East Fort",
+ "draft": {
+  "briefing": "Hey, you're at East Fort! This street has been a busy trading centre ever since Thiruvananthapuram was the capital of the kingdom of Travancore. The old European-style fort gate opens straight onto the Padmanabhaswamy Temple.",
+  "hungryLine": "I don't have a named place to eat right here, but it's a busy commercial street, so just ask a shopkeeper where they eat.",
+  "moodReplies": {
+   "show-me-around": "Pazhavangadi Ganapathy Temple is 2 min away, the Methan mani clock tower 3 min, and the Padmanabhaswamy Temple about 7 min on foot.",
+   "somewhere-to-chill": "Come back in the evening when the East Fort Gate is lit up. It's one of the big sights of the city.",
+   "surprise-me": "Kuthiramalika Palace, designed by the musician king Swathi Thirunal, is famous for its horse-shaped windows."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Padmanabhaswamy Temple",
+     "detail": "7 min walk · One of the 108 Divya Desams, sacred to Vishnu",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Kuthiramalika Palace",
+     "detail": "Close to the temple · Royal thrones, paintings and horse-shaped windows",
+     "status": {
+      "text": "9:00-12:30 and 14:00-16:45",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Pazhavangadi Ganapathy Temple",
+     "detail": "2 min walk · Sculptures of 32 forms of Ganesha",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Padmanabhaswamy Temple",
+    "title": "Vishnu asleep on a serpent",
+    "body": "The god here is Anantha Padmanabhaswamy, Vishnu in yogic sleep on his serpent Shesha. He's the family deity of the Travancore royals, and the titular Maharaja is still the temple's trustee."
+   },
+   {
+    "where": "Pazhaya Sreekanteswaram",
+    "title": "The god's old home",
+    "body": "The old Sreekanteswaram Temple at Puthenchantha is said to be the original home of the Lord of the newer temple near North Fort. The king and his retinue once passed it on the way to the temple's Pallivetta."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come back after dark.",
+    "body": "The lit-up East Fort Gate in the evening is a major attraction."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip museums on Mondays.",
+    "body": "Most ticketed museums in the city are closed on Mondays, so check before you go."
+   }
+  ],
+  "story": [
+   {
+    "era": "Around 1000 AD",
+    "title": "An ancient temple",
+    "body": "Historian Elamkulam Kunjan Pillai says the Pazhaya Sreekanteswaram Temple has stood since at least 1000 AD. It's an old Shiva and Vishnu temple just up the road.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1836",
+    "title": "A musician king",
+    "body": "Maharaja Swathi Thirunal set up SMV School, one of the oldest in Kerala, for English education. He also designed Kuthiramalika Palace, where his music festival is still held.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1898",
+    "title": "A different kind of temple",
+    "body": "The Venkatachalapathy Temple went up a minute's walk from the Padmanabhaswamy Temple's south gate. Unlike most Kerala temples, its poojas don't follow the Namboodiri tradition.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1923",
+    "title": "A 19-gun kingdom",
+    "body": "Travancore became part of the Madras States Agency, ruled by a Maharaja with a hereditary 19-gun salute.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Heart of the city",
+    "body": "Most of the old fort walls are gone, except the eastern side, which gave East Fort its name. Now it's the city's main bus stand, theatres and a whole lot of shopping.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

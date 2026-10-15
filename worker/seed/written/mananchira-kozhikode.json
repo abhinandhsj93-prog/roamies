@@ -1,0 +1,103 @@
+{
+ "query": "Mananchira, Kozhikode",
+ "region": "kerala",
+ "name": "Mananchira",
+ "draft": {
+  "briefing": "Hey, you're in Mananchira! This big pond in the middle of Kozhikode was dug as a bathing pool by the Zamorin Mana Vikrama around the 14th century, and it's fed by a natural spring. The laterite dug out of it was used to build two palaces.",
+  "hungryLine": "You're steps from S.M. Street, literally Sweetmeat Street, so start with something sweet.",
+  "moodReplies": {
+   "show-me-around": "Walk down S.M. Street, then on to Kozhikode Beach and the Mishkal Mosque.",
+   "somewhere-to-chill": "Stretch out on the big lawn at Mananchira Park, with its colonial-style lamp posts and musical fountain.",
+   "surprise-me": "Since the late 19th century, Mananchira has been kept for drinking water only. No bathing, no washing, no fun in the water."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "S. M. Street",
+     "detail": "8 min walk · Kerala's busiest shopping street, with a 160 year old fire temple",
+     "status": {
+      "text": "Pedestrian zone",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kozhikode Beach",
+     "detail": "19 min walk · Paved, lit promenade and a children's park",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mishkal Mosque",
+     "detail": "20 min walk · A wooden medieval mosque by a pond",
+     "status": {
+      "text": "Non-Muslims need permission to enter",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Mananchira",
+    "title": "Tipu's gift",
+    "body": "It's claimed that Tipu Sultan, the Mysore ruler, turned the pond into a drinking water source as a gift for Sayed Jifri. Drinking water is still what it's kept for today."
+   },
+   {
+    "where": "Jain Derasar",
+    "title": "A thousand pillars",
+    "body": "Of the two temples in the Jain Derasar complex, one is said to be over 2,500 years old. It's also said to have 1,000 pillars."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go after 2 PM.",
+    "body": "The gate to Mananchira Pond and Gardens opens only in the afternoon, and it gets very crowded."
+   },
+   {
+    "icon": "tag",
+    "title": "Shoot the mosque from across the pond.",
+    "body": "Mishkal Mosque looks its best from the far side of its pond, and non-Muslims need special permission to go in."
+   }
+  ],
+  "story": [
+   {
+    "era": "1300s",
+    "title": "A royal bath",
+    "body": "The Zamorin Mana Vikrama had Mananchira dug as a bathing pool. The laterite from the dig built palaces to the east and west.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Medieval times",
+    "title": "City of Spices",
+    "body": "Kozhikode was one of the world's most important ports. Marco Polo, Ibn Batuta, Zheng He and Vasco da Gama all came through.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Late 1800s",
+    "title": "Drinking water only",
+    "body": "The municipal council ruled the pond was for drinking only and banned bathing and washing. That rule still stands.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1934",
+    "title": "Gandhi Road",
+    "body": "After Gandhi visited Kozhikode, the beach road was renamed Gandhi Road.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2023",
+    "title": "City of Literature",
+    "body": "UNESCO recognised Kozhikode as India's first City of Literature. Pop into the public library by the park and you'll see why.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

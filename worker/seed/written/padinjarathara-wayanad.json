@@ -1,0 +1,97 @@
+{
+ "query": "Padinjarathara, Wayanad",
+ "region": "kerala",
+ "name": "Padinjarathara",
+ "draft": {
+  "briefing": "Hey, you're in Padinjarathara! Banasura Sagar Dam here is the largest earth dam in India, and it's built from massive stacks of stones and boulders.",
+  "hungryLine": "Look out for bamboo rice, called Mulayari locally, plus home-made chocolates and local Wayanad tea and coffee.",
+  "moodReplies": {
+   "show-me-around": "Banasura Sagar Dam is a 7 min walk. Look for the islands in the reservoir with the Banasura hills behind them.",
+   "somewhere-to-chill": "Find a spot by the reservoir and look out over the islands, with the Banasura hills in the background.",
+   "surprise-me": "India's first operating floating solar power plant was set up right here, on Banasura Dam."
+  },
+  "seeFirst": {
+   "caption": "Around Padinjarathara",
+   "spots": [
+    {
+     "name": "Banasura Sagar Dam",
+     "detail": "7 min walk · India's largest earth dam",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Karappuzha Dam",
+     "detail": "In the Kalpetta area · Another of Wayanad's dams",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Chembra Hills",
+     "detail": "In the Kalpetta area · For hiking in the hills",
+     "status": {
+      "text": "Start early",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Wayanad forests",
+    "title": "A once-in-a-lifetime harvest",
+    "body": "Bamboo is said to yield seeds only after a long span. So it's said that harvesting bamboo rice is a once-in-a-lifetime experience."
+   },
+   {
+    "where": "Banasura Sagar",
+    "title": "Islands from the water",
+    "body": "When the reservoir filled, it submerged the surrounding land and left a set of islands behind. You can see them today with the Banasura hills behind them."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Give Wayanad a few days.",
+    "body": "A 3-4 day tour lets you cover most of the district's sights."
+   },
+   {
+    "icon": "tag",
+    "title": "Stick to beer and wine.",
+    "body": "Beer and wine are easy to find here, but stronger drinks are prohibited."
+   }
+  ],
+  "story": [
+   {
+    "era": "1979",
+    "title": "A project begins",
+    "body": "The Banasurasagar Project, a dam and canal scheme, began in 1979. It was meant to support the Kakkayam hydroelectric project and bring irrigation and drinking water to an area short of water in dry seasons.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Building it",
+    "title": "A dam of boulders",
+    "body": "The dam holds back the Karamanathodu, a tributary of the Kabini River. It stands 38.5 metres high and 776 metres long, built from stones and boulders.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "After the water rose",
+    "title": "New islands",
+    "body": "As the reservoir filled, it submerged the land around it and left a scatter of islands. It's now the largest earth dam in India and the second largest of its kind in Asia.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Sun on the water",
+    "body": "India's first operating floating solar power plant was established at the dam. It's run by the KSEB station at Padinjarathara.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

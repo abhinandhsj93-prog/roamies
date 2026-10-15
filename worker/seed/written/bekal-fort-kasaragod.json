@@ -1,0 +1,97 @@
+{
+ "query": "Bekal Fort, Kasaragod",
+ "region": "kerala",
+ "name": "Bekal Fort",
+ "draft": {
+  "briefing": "Hey, you're at Bekal Fort! This is the largest fort in Kerala, spread over 40 acres right next to the beach. From above it's shaped like a giant keyhole.",
+  "hungryLine": "Bekal Beach Park has a food court, which is your easiest bet for a bite near the fort.",
+  "moodReplies": {
+   "show-me-around": "The fort is a minute's walk. Look for the Mukhyaprana Hanuman Temple, the stepped water tank and the tunnel to the south inside.",
+   "somewhere-to-chill": "Climb an observation tower and just take in the sweeping view of the Arabian Sea.",
+   "surprise-me": "Lonely Planet once picked Bekal as one of its top ten travel destinations."
+  },
+  "seeFirst": {
+   "caption": "All inside the fort",
+   "spots": [
+    {
+     "name": "Bekal Fort",
+     "detail": "1 min walk · Battlement walls, gates, tunnels and sea views",
+     "status": {
+      "text": "8AM to 5:30PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mukhyaprana Hanuman Temple",
+     "detail": "Inside the fort · A temple within the walls",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Water Tank with steps",
+     "detail": "Inside the fort · An old stepped tank",
+     "status": {
+      "text": "Watch your step",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Observation towers",
+    "title": "Where the cannons stood",
+    "body": "The tall towers you can climb today once held huge cannons, a couple of centuries ago. Picture them pointed out over the Arabian Sea."
+   },
+   {
+    "where": "The fort",
+    "title": "A giant keyhole",
+    "body": "Bekal Fort is famous for its shape, which looks like a giant keyhole. It's the biggest fort anywhere in Kerala."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go between 8AM and 5:30PM.",
+    "body": "Those are the fort's opening hours, so plan around them."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly for the temple.",
+    "body": "The Mukhyaprana Hanuman Temple sits inside the fort, so cover up a little if you want to look in."
+   }
+  ],
+  "story": [
+   {
+    "era": "1650",
+    "title": "Shivappa Nayaka builds",
+    "body": "Shivappa Nayaka of Keladi built Bekal Fort in 1650 AD. It spread over 40 acres beside the beach.",
+    "illustration": "palace"
+   },
+   {
+    "era": "A couple of centuries ago",
+    "title": "Cannons on the towers",
+    "body": "The fort's tall observation towers carried huge cannons. They looked straight out over the Arabian Sea.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Recently",
+    "title": "On the travel map",
+    "body": "Lonely Planet named Bekal one of its top ten travel destinations. A beach park with a food court and amusement rides opened nearby.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Coming up",
+    "title": "Seaplanes, maybe",
+    "body": "Kerala is reviewing a plan for seaplanes linking Bekal with Kollam Ashtamudi, Kumarakom, Punnamada and the Paravur backwaters.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

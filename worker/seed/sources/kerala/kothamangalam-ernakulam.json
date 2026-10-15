@@ -1,0 +1,39 @@
+{
+ "query": "Kothamangalam, Ernakulam",
+ "found": "Kothamangalam, Ernakulam, Kerala, India",
+ "lat": 10.1332804,
+ "lon": 76.7361221,
+ "fetchedAt": "2026-10-12T17:51:42.881Z",
+ "locality": {
+  "id": "kuttampuzha-ernakulam-kerala",
+  "name": "Kuttampuzha",
+  "area": "Kothamangalam, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kuttampuzha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuttampuzha_river.jpg/1280px-Kuttampuzha_river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kuttampuzha",
+   "credit": "Photo: തങ്കച്ചൻ നെല്ലിക്കുന്നേൽ, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuttampuzha_river.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kuttampuzha",
+   "text": "Kuttampuzha  is a village and gram panchayat in Idukki district in the Indian state of Kerala. Situated 71 km east of Kochi, Kuttampuzha panchayat is home to the 17.7% of total area of the Ernakulam District.\nThe village has a large area under thick forest. There is a significant tribal population in the village (17.2% of total population).\nThis village was part of Idukki district until 1998. Then the district borders were reorganised and the village was shifted to Ernakulam district. Following this, Palakkad became the largest district in Kerala, followed by Idukki. This change also helped Ernakulam to share a boundary with the neighbouring state of Tamil Nadu and to be a part of the Anamalais. In 2010, the formation of Edamalakkudy panchayat led to the split of Kuttampuzha panchayat.[1]\n\n\n== Demographics ==\nAs of 2011 Census, Kuttampuzha village had a population of 24,799 with 12,554 males and 12,245 females. Kuttampuzha village spreads over an area of 448.05 km2 (172.99 sq mi) with 6,487 families residing in it. 10.3% of the population was under 6 years of age. Kuttampuzha had an average literacy of 89.4% higher than the national average of 74% and lower than state average of 94%:...",
+   "url": "https://en.wikipedia.org/wiki/Kuttampuzha"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kothamangalam",
+  "text": "Kothamangalam is a beautiful town in the mountains of Kerala, India. Kothamangalam is now one of the most important pilgrim centres of Kerala, with a dozen churches, half a dozen ancient temples and a few sacred mosques. The place is spiritually glorified by the ancient Thrikariyoor Temple, mosques, St. George Cathedral, St. Mary’s Church (Marthamariyam Valiyapally) and Mar Thoma Cheria Pally. The city is also known as Entrence of High Range.\n\n\n== See ==\nSalim Ali Wild Life Sanctuary in Thattekkad is 14 km from Kothamangalam is the home for the bird sanctuary where we can find some of the rare species of birds. Exotic birds flock in the sanctuary and make this place a heaven for any ornithologist.\nBhoothathan Kettu is a good picnic spot, 10 km from Kothamangalam. There is a dam here and in the reservoir one can go for boating too. The legend says that the dam was built by a \"Bhootham\" using the rocks, which is the ample proof for the name. Trekking through the forest to the old Bhoothathan Kettu is very interesting. The forest offers a wide variety of flora and fauna and is a botanist delight.\nAncient temples in or near Kothamangalam are: \n\nValiyakavu in Ambalaparambu\nCharupurathu Srikrishnaswamishathram in Ambalaparambu\nIlamkavu\nAyyankavu\nChoriyankavubhagavathi temple in Kottappady\n Mamalakandam Village, ☏ +91 70348 56085. Mamalakandam is a very green mountain village on the western ghats. Buses are available from Kothamangalam by 8.25 am, and 10.05 am. ₹500 per head. (updated Aug 2021)\n\n\n== Do ==\nAyakad Mahadeva Temple\nEdathil sri mahaganapathy temple\nSri narasimha swami temple\nSri maduraminakshiyamman kovil\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Kothamangalam"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

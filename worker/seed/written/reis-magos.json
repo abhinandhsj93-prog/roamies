@@ -1,0 +1,86 @@
+{
+ "query": "Reis Magos",
+ "region": "goa",
+ "name": "Reis Magos",
+ "draft": {
+  "briefing": "Hey, you're in Reis Magos! Right across the Mandovi from Panjim, this village is named for the Three Wise Men of the Bible, and its church was the first in Bardez.",
+  "hungryLine": "For a proper meal, cross over to Panjim, where restaurants line the busy 18th June Road.",
+  "moodReplies": {
+   "show-me-around": "Reis Magos Fort is a 1 min walk, the Reis Magos Church is 2 min away and the lighthouse is about 8 min.",
+   "somewhere-to-chill": "Stand by the fort and look across the Mandovi to Panjim, the capital, on the other bank.",
+   "surprise-me": "The Mandovi in front of you was once called the Rio de Goa, and it's still described as the lifeline of the state."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Reis Magos Fort",
+     "detail": "1 min walk · One of Goa's famous structures, right on the river",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Reis Magos Church",
+     "detail": "2 min walk · The first church in Bardez",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Reis Magos Lighthouse",
+     "detail": "8 min walk · A short stroll up from the fort",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly at the church.",
+    "body": "Reis Magos Church is a working church, so cover up when you go in."
+   },
+   {
+    "icon": "tag",
+    "title": "Add the Houses of Goa Museum.",
+    "body": "Architect Gerard da Cunha's museum at Salvador-do-Mundo in Bardez shows how eastern and western building styles blended, and opens Tuesday to Sunday."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Rio de Goa",
+    "body": "The Mandovi, once known as the Rio de Goa, has always been Goa's lifeline. Panaji and Old Goa both sit on its other bank.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Portuguese era",
+    "title": "Fort and church",
+    "body": "The village carries the Portuguese name for the Three Wise Men. It became famous for the Reis Magos Church, the first in Bardez, and the Reis Magos Fort.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1946",
+    "title": "Across the river",
+    "body": "On 18 June 1946, Ram Manohar Lohia called a meeting in Panjim to end Portuguese rule. A Panjim street is still named 18th June Road after that day.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Facing the capital",
+    "body": "Reis Magos sits on the northern bank of the Mandovi in Bardez, looking straight across at the state capital.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

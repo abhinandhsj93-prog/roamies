@@ -1,0 +1,34 @@
+{
+ "query": "Tirunelveli",
+ "found": "Tirunelveli, Tamil Nadu, India",
+ "lat": 8.5495014,
+ "lon": 77.5805178,
+ "fetchedAt": "2026-10-12T19:25:38.129Z",
+ "locality": {
+  "id": "padmaneri-tirunelveli-tamil-nadu",
+  "name": "Padmaneri",
+  "area": "Nanguneri, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Tirunelveli": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nellaiappar_temple_tower.jpg/1280px-Nellaiappar_temple_tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tirunelveli",
+   "credit": "Photo: Theni.M.Subramani, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nellaiappar_temple_tower.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Tirunelveli",
+   "text": "Tirunelveli (Tamil: [tiɾɯnelʋeːli] ), also known as Nellai, is a city and municipal corporation in the Indian state of Tamil Nadu. It is located on the southern part of the state, on the west bank of the Thamirabarani River. It is the administrative headquarters of the Tirunelveli District. As per the 2011 census, it had a population of 473,637 individuals, and was the seventh-largest city in the state by population.\nTirunelveli has a recorded history dating back to more than two thousand years. It served as a major town during the reign of the Early Pandyas in the Sangam period (3rd century BCE to 3rd century CE). It came under the rule of the Cholas in the 11th century CE. The region was ruled by the Later Pandyas, the Vijayanagara Empire, and the Madurai Nayaks in the late Middle Ages. It came under the influence of the British East India Company in the late 18th century, and the Tinnevelly district was formed on 1 September 1790. In the Polygar War, Palaiyakkarars led by Veerapandiya Kattabomman fought the forces of the Company, on the outskirts of the city from 1797 to 1801. It came under the British Raj in the 19th century, and later became part of the Madras Province of Independent...",
+   "url": "https://en.wikipedia.org/wiki/Tirunelveli"
+  }
+ ],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

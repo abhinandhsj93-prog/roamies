@@ -1,0 +1,129 @@
+{
+ "query": "Kollam Beach, Kollam",
+ "region": "kerala",
+ "name": "Kollam Beach",
+ "draft": {
+  "briefing": "Hey, you're at Kollam Beach! It's also called Mahatma Gandhi Beach, and it was the first 'Beach Wedding Destination' in Kerala.",
+  "hungryLine": "Beach Road has a couple of places worth knowing, and one is famous for its mutton dishes.",
+  "moodReplies": {
+   "show-me-around": "Mahatma Gandhi Park is a 3 min walk, Kollam Port is about 16 min, and the Chinnakada Clock Tower is around 20 min away.",
+   "somewhere-to-chill": "Mahatma Gandhi Park is just a 3 min walk, a calm green spot right by the beach.",
+   "surprise-me": "Kollam Port goes back to AD 825, and Ibn Battuta counted it among the Indian ports he visited."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Mahatma Gandhi Park",
+     "detail": "3 min walk · Park by the beach, opened 1961",
+     "status": {
+      "text": "Good in the evening",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kollam Port",
+     "detail": "16 min walk · One of India's oldest ports",
+     "status": {
+      "text": "Working port",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Chinnakada Clock Tower",
+     "detail": "20 min walk · Travancore's first clock tower",
+     "status": {
+      "text": "Busy junction",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kollam Beach",
+    "title": "Karkidaka Vavubali",
+    "body": "Every Karkidakam month, thousands of people come to the beach to offer Bali to the souls of the departed. Men, women and children all take part."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Don't swim here.",
+    "body": "Untreated sewage flows into the water, so enjoy the sand and leave the sea alone."
+   },
+   {
+    "icon": "sun",
+    "title": "Climb Thangassery Lighthouse in the afternoon.",
+    "body": "It's open 3-5PM, and the old fort ruins are a short shaded walk away."
+   }
+  ],
+  "story": [
+   {
+    "era": "AD 825",
+    "title": "An ancient port",
+    "body": "Kollam Port was established, and from the ninth to the seventeenth centuries it was one of the coast's key ports.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1614",
+    "title": "Portuguese Kollam",
+    "body": "The Portuguese set up what is now the Infant Jesus Cathedral in Thangassery.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1809",
+    "title": "Battle of Quilon",
+    "body": "On 15 January 1809, Travancore troops under Velu Thampi Dalawa fought the East India Company for six hours.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1961",
+    "title": "A park by the sea",
+    "body": "Vice President Zakir Husain opened Mahatma Gandhi Park on 1 January 1961.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Kites, cashew and a very old port. Tell me which way you walked.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Salim Hotel",
+    "detail": "On Beach Road · Famous for mutton dishes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Rahath Hotel",
+    "detail": "On Beach Road · A handy stop by the sea",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Fayalwan hotel",
+    "detail": "On Main Road · Famous for mutton dishes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

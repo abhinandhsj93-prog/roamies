@@ -1,0 +1,101 @@
+{
+ "query": "Swamimalai",
+ "region": "tamilnadu",
+ "name": "Swamimalai",
+ "draft": {
+  "briefing": "Hey, you're in Swamimalai! This little town on the Kaveri is the fourth of the six abodes of Murugan, and it's where, local tradition says, young Murugan taught his own father Shiva the meaning of Om. On the temple gopuram you can see Murugan as the teacher and Shiva as the student.",
+  "hungryLine": "You're in Kumbakonam country, so don't skip the famous thick, strong filter coffee, and look out for a simple local mess for home-style food.",
+  "moodReplies": {
+   "show-me-around": "The Swaminatha Swamy Temple is a 1 min walk, up sixty steps on its hillock. Kabartheeswarar Temple at nearby Thiruvalanchuzhi is a short drive.",
+   "somewhere-to-chill": "Wander down to the banks of the Kaveri and watch the river go by.",
+   "surprise-me": "Each of the sixty steps up to the Swaminatha Swamy Temple is named after one of the sixty Tamil years."
+  },
+  "seeFirst": {
+   "caption": "Close by",
+   "spots": [
+    {
+     "name": "Swaminatha Swamy Temple",
+     "detail": "1 min walk · Murugan's hilltop shrine, with Shiva and Meenakshi at the foot",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kabartheeswarar Temple",
+     "detail": "Short drive · Huge Chola-era complex with a seven-tiered gopuram",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Swaminatha Swamy Temple",
+    "title": "The son who taught his father",
+    "body": "The story goes that Murugan explained the meaning of the Pranava Mantra, Om, to Shiva right here. That's why he's called Swaminathan, and also Tagapan Swami, at this temple."
+   },
+   {
+    "where": "Swaminatha Swamy Temple",
+    "title": "Sixty steps, sixty years",
+    "body": "The sixty steps up the hillock are each named after one of the sixty Tamil years. Climbing them is like walking through a full Tamil calendar cycle."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time it for Vaikasi Visakam.",
+    "body": "Vaikasi Visakam is the temple's major yearly festival."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress for the temple.",
+    "body": "This is an active Murugan shrine, so cover shoulders and knees and leave shoes outside."
+   }
+  ],
+  "story": [
+   {
+    "era": "600s",
+    "title": "Sung in the Tevaram",
+    "body": "Kabartheeswarar Temple near Swamimalai is praised in the Tevaram, the 7th-century Tamil Saiva canon by the Nayanar poet-saints.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Chola era",
+    "title": "Chola builders",
+    "body": "The oldest parts of Kabartheeswarar Temple were built under the Cholas, whose gifts are recorded in its inscriptions.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s",
+    "title": "Nayak additions",
+    "body": "The Thanjai Nayak kings expanded the temple complex into one of the largest in the state.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Murugan's fourth abode",
+    "body": "Swamimalai is a small panchayat town near Kumbakonam, with about 6,985 people in 2001. The Swaminatha Swamy Temple, run by the state's endowments department, holds six rituals every day.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Indeco Hotels",
+    "detail": "Thimmakudi, on Swamimalai Road · Multi-cuisine vegetarian food",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

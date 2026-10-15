@@ -1,0 +1,92 @@
+{
+ "query": "Ponda",
+ "region": "goa",
+ "name": "Ponda",
+ "draft": {
+  "briefing": "Hey, you're in Ponda! Sitting right at the geographic heart of Goa, ringed by green villages and grand temples, it's what the Goa government calls the cultural city of Goa.",
+  "hungryLine": "Don't miss the Goan Hindu style of cooking in this area, especially the fish preparations, which are typical of Ponda and quite unique.",
+  "moodReplies": {
+   "show-me-around": "The Safa Mosque, built in 1560 by Ibrahim Adil Shah, is about an 18 min walk, and the big temples like Mangueshi at Priol and Shanta Durga at Kavlem are a short drive out.",
+   "somewhere-to-chill": "Book a spice farm visit, like Pascoal Spice Village 8 km from town, where you get a tour of the estate and a meal.",
+   "surprise-me": "Ponda was part of North Goa district until January 2015, when it was shifted to South Goa."
+  },
+  "seeFirst": {
+   "caption": "Around Ponda",
+   "spots": [
+    {
+     "name": "Safa Mosque",
+     "detail": "18 min walk · A 16th century mosque with a garden and fountains, protected by the ASI",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Pascoal Spice Village",
+     "detail": "8 km from Ponda town · A real spice farm with a tour and food",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Butterfly Conservatory Of Goa",
+     "detail": "Short drive, at Priol · Over 100 species of free-flying butterflies",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kavlem",
+    "title": "The Durga of peace",
+    "body": "Shantadurga is a much loved deity here, worshipped in a unique form as a Durga of peace, as her name suggests. Her temple complex is at Kavlem in Ponda taluka."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in December for music.",
+    "body": "The Samrat Club's annual Sangeet Sammelan, in memory of Master Dinanath Mangueshkar, is held at the Shantadurga Temple in Kavlem, usually around December."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly at the temples.",
+    "body": "Ponda is the heartland of Goa's Hindu festivities, so cover up when you visit the temples."
+   }
+  ],
+  "story": [
+   {
+    "era": "1560",
+    "title": "Safa Masjid",
+    "body": "Ibrahim Adil Shah, the Bijapuri ruler, built the Safa Masjid on the outskirts of Ponda. It has a rectangular prayer hall under a terracotta tile roof.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1666",
+    "title": "The siege of Ponda",
+    "body": "Shivaji led the Marathas against the Bijapur Sultanate for the strategic fort of Ponda in 1666. A second siege followed in 1675.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2015",
+    "title": "A new district",
+    "body": "In January 2015 Ponda moved from North Goa district to South Goa.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Temples and spices",
+    "body": "Ponda is the cultural capital for Indian-style music in Goa, and spice farm tours now draw visitors too.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

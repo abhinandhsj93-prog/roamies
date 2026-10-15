@@ -1,0 +1,152 @@
+{
+ "query": "Sevagram",
+ "found": "Sevagram, Kallayam-Vattappara Road, Kizhakekonam, Vattappara, Nedumangad, Thiruvananthapuram, Kerala, 695028, India",
+ "lat": 8.5737876,
+ "lon": 76.9640292,
+ "fetchedAt": "2026-10-12T19:18:39.863Z",
+ "locality": {
+  "id": "vattappara-thiruvananthapuram-kerala",
+  "name": "Vattappara",
+  "area": "Nedumangad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "St. Thomas School, Thiruvananthapuram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/St._Thomas_Residential_School%2C_Trivandrum.jpg/1280px-St._Thomas_Residential_School%2C_Trivandrum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Thomas School, Thiruvananthapuram",
+   "credit": "Photo: Maarz, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Thomas_Residential_School,_Trivandrum.jpg"
+  },
+  "Sevagram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Adi_Nivas%2C_Sewagram_Ashram.JPG/1280px-Adi_Nivas%2C_Sewagram_Ashram.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sevagram",
+   "credit": "Photo: Muk.khan, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adi_Nivas,_Sewagram_Ashram.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Sevagram",
+   "text": "Sevagram (meaning \"A town for/of service\") is a town in the state of Maharashtra, India. It was the place of Mahatma Gandhi's ashram and his residence from 1936 to his death in 1948. After Sabarmati, Sevagram Ashram holds immense importance due to the residence of Mahatma Gandhi.\n\n\n== Overview ==\nSevagram, originally Segaon, is a small village, located about 8 km from Wardha. Gandhi set up what eventually became an ashram in the outskirts of the village. Seth Jamnalal Bajaj of Wardha, a disciple of Gandhi, made available to the ashram about 300 acres (1.2 km2) of land. Near the ashram there is a museum where artifacts of India's freedom struggle are preserved.\n\n\n== History ==\nWhen Gandhi started his padayatra in 1930 from Sabarmati Ashram to Dandi for the Salt Satyagraha, he decided not to return to Sabarmati till India achieved independence. Gandhi was imprisoned for more than two years. On his release, he spent some time travelling around India. He decided to make a village in Central India his headquarters. He came to Wardha on 5 August 1934, at the invitation of his follower and industrialist, Jamnalal Bajaj, and stayed in one of the rooms at Jamnalal's bungalow (Bajajwadi) at Wardha...",
+   "url": "https://en.wikipedia.org/wiki/Sevagram"
+  },
+  {
+   "title": "Vattappara",
+   "text": "Vattappara  is a village in Thiruvananthapuram district in the state of Kerala, India.\nIt is well known for its geographical peculiarities with quarries that are generally used for extracting building materials (rock).This town is by the side of MC Road connecting Trivandrum and Kottayam and 14 km away from Trivandrum City. The nearest township is Nedumangad.There is no recorded history on the origin of this place. The major occupation in Vattappara is farming (Rubber, Coconut).\n\n\n== Demographics ==\nAs of 2011 India census, Vattappara had a population of 27140 with 13080 males and 14060 females.\nSocial Institutions \n\nAkshaya E Cetre, Kanacode, Vattappara\nSUT Academy of Medical Sciences, Vencode, Vattappara\nPMS College of Dental Science & Research, Golden Hills, Vattappara\nLourdes Mount Higher Secondary School, Kanakkode, Vattappara\nSeventh Day Adventist English Medium School, Vattapara\nLittle Flower LP school, Kazhunad kallayam vattappara\nLMA LPS Kanacode, Vattappara\nGovernment L.P School  Kuttiyani\nShalom Special School, Vattappara\n\n\n== Religion ==\n\n\n=== Temples ===\nKuttiyani Sree Dharmma Sastha (Vana Sastha) Temple\nThe Thiruchittapara Anjaneya Swamy Temple\nThe Muchannoor Thampuran Sri Durga...",
+   "url": "https://en.wikipedia.org/wiki/Vattappara"
+  },
+  {
+   "title": "St. Thomas School, Thiruvananthapuram",
+   "text": "St. Thomas Schools is a privately owned English medium coeducational boarding high school at Thiruvananthapuram in the south Indian state of Kerala.\nThe school was established by the Mar Thoma Church Educational Society (MTCES) on 6 June 1966. It is located on a 30-acre (120,000 m2) campus at Mukkolakkal, a village on the outskirts of Thiruvananthapuram city. There are distinct institutions within the campus: St. Thomas Central School, St. Thomas Higher Secondary School, St. Thomas Teachers' Training College, St. Thomas Residential School and St. Thomas Pre-primary School. The students of the St Thomas are popularly called Santhomites.\nThe campus has three schools inside which offers three different syllabi of examination: Kerala State Board,\nCentral Board of Secondary Education (CBSE), and Indian Certificate of Secondary Education/Indian School Certificate (ICSE/ISC)\nThe school has a vast school bus system which spans over the entire city with more than 45 bus routes.",
+   "url": "https://en.wikipedia.org/wiki/St._Thomas_School,_Thiruvananthapuram"
+  },
+  {
+   "title": "P.A. Aziz College of Engineering & Technology",
+   "text": "P.A. Aziz College of Engineering & Technology (In Malayalam പി.എ. അസീസ് കോളേജ് ഓഫ് എഞ്ചിനീയറിങ്ങ് & ടെക്ക്‌നോളജി) or PAACET, was established in 2003 under the patronage of the P.A. Aziz Trust. The college is located at Karakulam, seven kilometers from Kowdiar Palace, Trivandrum city in southern Kerala, India.\nThe college is affiliated with the KTU. Admission to the college is based on entrance examinations conducted by the Commissioner of Entrance Examinations, Kerala.",
+   "url": "https://en.wikipedia.org/wiki/P.A._Aziz_College_of_Engineering_%26_Technology"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Kallayam Devi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 8.5728837,
+   "lon": 76.9637812
+  },
+  {
+   "name": "Bethel Lutheran Church Kallayam",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 8.5717637,
+   "lon": 76.9635781
+  },
+  {
+   "name": "Sacred Heart Shrine",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 8.5719646,
+   "lon": 76.9627265
+  },
+  {
+   "name": "Bethel Prayer Fellowship",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 8.571928,
+   "lon": 76.9612001
+  },
+  {
+   "name": "Bethel Lutheran Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 8.5699941,
+   "lon": 76.9636692
+  },
+  {
+   "name": "True Gospel Ministries",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 8.5667734,
+   "lon": 76.9616407
+  },
+  {
+   "name": "Sree Panchiyamma Devi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 8.5662436,
+   "lon": 76.962569
+  },
+  {
+   "name": "Pentacostal Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 8.5770754,
+   "lon": 76.956458
+  },
+  {
+   "name": "CSI Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 8.5641469,
+   "lon": 76.9632864
+  },
+  {
+   "name": "Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 8.573133,
+   "lon": 76.9547558
+  },
+  {
+   "name": "CSI Chruch",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 8.565691,
+   "lon": 76.9698986
+  },
+  {
+   "name": "Andur Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 8.5744339,
+   "lon": 76.9740629
+  },
+  {
+   "name": "Nedumbally Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 8.5663274,
+   "lon": 76.9571289
+  },
+  {
+   "name": "Cherumundayam Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 8.5645123,
+   "lon": 76.9593242
+  }
+ ],
+ "food": [],
+ "errors": []
+}

@@ -1,0 +1,121 @@
+{
+ "query": "Indiranagar, Bengaluru",
+ "region": "karnataka",
+ "name": "Indiranagar",
+ "draft": {
+  "briefing": "Hey, you're in Indiranagar! It's one of Bengaluru's most expensive, cosmopolitan neighbourhoods, and the little park at CMH Road and 100 Ft Road has the city's only outdoor vertical garden.",
+  "hungryLine": "Bengaluru loves its dosas, ice cream and juice stands, so grab a cheap sugarcane juice or fresh coconut while you wander.",
+  "moodReplies": {
+   "show-me-around": "Cornerstone Park is a 9 min walk, the Indiranagar metro station is about 10 minutes away, and old Ulsoor is a 19 min walk.",
+   "somewhere-to-chill": "Sit a while in Cornerstone Park, right in the heart of Indiranagar, and check out the vertical garden.",
+   "surprise-me": "The Indiranagar metro station was one of the first six stations on Namma Metro, opened to the public on 20 October 2011."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Cornerstone Park",
+     "detail": "9 min walk · The city's only outdoor vertical garden",
+     "status": {
+      "text": "Nice in the early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Ulsoor",
+     "detail": "19 min walk · One of Bengaluru's oldest neighbourhoods, full of temples and a market",
+     "status": {
+      "text": "Dress modestly at temples",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Domlur inscriptions and hero stones",
+     "detail": "22 min walk · 18 old Tamil and Kannada inscriptions at the Chokkanathaswamy Temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Chokkanathaswamy Temple, Domlur",
+    "title": "Stones for heroes",
+    "body": "Around the Chokkanathaswamy Temple in Domlur you'll find inscribed stone pillars and hero stones. Hero stones were raised to remember someone who died with honour in battle."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Hop on the Purple Line.",
+    "body": "Indiranagar station sits on CMH Road on Namma Metro's east-west Purple Line."
+   },
+   {
+    "icon": "sun",
+    "title": "Cool off at a juice stand.",
+    "body": "Young coconut and sugarcane juice stands are everywhere in Bengaluru and great for staying cool."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Early settlements",
+    "body": "Binnamangala, right nearby, was one of the early settlements of Bengaluru. In Domlur, old temple walls and pillars carry 18 inscriptions in Tamil and Kannada.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1949",
+    "title": "From cantonment to state",
+    "body": "Neighbouring Domlur was part of the British-run Bangalore Civil and Military Station under the Madras Presidency. It was handed over to Mysore State in 1949.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1995",
+    "title": "Village into city",
+    "body": "Binnamangala Manavarthe Kaval, a former village with 10,516 people in 1991, was merged into the city corporation on 7 December 1995.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2011-2012",
+    "title": "Metro and a new park",
+    "body": "The Indiranagar metro station opened on 20 October 2011. A year later Cornerstone Park was renovated and opened on Swami Vivekananda's 150th birth anniversary.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Affluent and cosmopolitan",
+    "body": "Indiranagar is now one of the priciest neighbourhoods in Bengaluru. Next door Domlur is full of software offices like Embassy Golf Links.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "New Shanti Sagar",
+    "detail": "Reliable vegetarian South Indian, with a branch in nearby Domlur",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Corner House",
+    "detail": "On Airport Rd. Order the famous Death by Chocolate",
+    "status": {
+     "text": "Busy at peak times",
+     "tone": "warning"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

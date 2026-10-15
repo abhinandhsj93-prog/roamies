@@ -1,0 +1,53 @@
+{
+  "query": "Benaulim",
+  "region": "goa",
+  "name": "Benaulim",
+  "draft": {
+    "briefing": "Hey, you're in Benaulim! Before the Portuguese came it was Banahalli, 'the village of the arrow', and the story goes that Parashurama's arrow landed right here when he pushed back the sea. It's also long been known as Goa's 'village of carpenters'.",
+    "hungryLine": "Restaurants line the beachfront and the crossroads here, all serving fresh fish and the odd curry classic.",
+    "moodReplies": {
+      "show-me-around": "Head to the Goa Chitra Museum, packed with over 4,000 old farming tools and household objects, then check out the San Thome Museum on the Cavelossim road.",
+      "somewhere-to-chill": "Just go to the beach, Benaulim is known for its golden sands and palm-fringed shore.",
+      "surprise-me": "Benaulim hosted the 8th BRICS Summit in 2016."
+    },
+    "seeFirst": {
+      "caption": "Worth the trip",
+      "spots": [
+        {
+          "name": "Goa Chitra Museum",
+          "detail": "Short drive · Ethnographic museum of Goa's rural and farming life",
+          "status": {"text": "Check timings locally", "tone": "neutral"},
+          "illustration": "warehouses"
+        },
+        {
+          "name": "San Thome Museum",
+          "detail": "Short drive · Old industrial and household appliances on show",
+          "status": {"text": "On the Dabolim to Cavelossim road", "tone": "neutral"},
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Benaulim",
+        "title": "Where the arrow fell",
+        "body": "Locals tell that Parashurama shot an arrow into the sea and ordered the sea god Varuna to recede to where it landed. That arrow is said to have come down here, which is how Banahalli, 'village of the arrow', got its name."
+      }
+    ],
+    "tips": [
+      {"icon": "sun", "title": "Go dolphin spotting early.", "body": "Local fishermen run morning dolphin spotting boat rides from the beach."},
+      {"icon": "tag", "title": "Rent wheels for day trips.", "body": "Hire a bike or car to explore nearby Chandor, Quepem and Ponda's temples and spice plantations."}
+    ],
+    "story": [
+      {"era": "Long ago", "title": "Village of the arrow", "body": "Before the Portuguese, the village was called Banahalli or Banawali. The name mixes Sanskrit 'ban', arrow, with Kannada 'halli', village.", "illustration": "flood"},
+      {"era": "Portuguese era", "title": "A communidade of Salcete", "body": "Under Portuguese rule Benaulim was one of the nine communidades of Salcete. St. Joseph Vaz, later a priest and missionary in Ceylon, was born here and baptised at St John the Baptist Church.", "illustration": "synagogue"},
+      {"era": "2009", "title": "A museum of everyday life", "body": "Artist and restorer Victor Hugo Gomes opened the Goa Chitra Museum in 2009. He funds it himself and calls the collection a living ode to Goa's material heritage.", "illustration": "warehouses"},
+      {"era": "2016", "title": "The world comes to the village", "body": "Benaulim hosted the 8th BRICS Summit in 2016. Today it's a popular seaside resort of about 13,000 people.", "illustration": "palace"}
+    ],
+    "food": [
+      {"name": "Dinas", "detail": "Restaurant run by Pascal and Joe, open from early morning till near midnight", "status": {"text": "Long hours", "tone": "open"}, "tags": ["seafood"], "illustration": "warehouses"},
+      {"name": "Blue Lagoon", "detail": "Great value fixed breakfasts, plus good Indian and continental food", "status": {"text": "Check timings locally", "tone": "neutral"}, "tags": ["cheap"], "illustration": "warehouses"},
+      {"name": "Luna's", "detail": "Locals say the best pizzas in town, and the pastas are good too", "status": {"text": "Bring your own wine", "tone": "neutral"}, "tags": ["mild"], "illustration": "warehouses"}
+    ]
+  }
+}

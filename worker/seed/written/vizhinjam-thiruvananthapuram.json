@@ -1,0 +1,122 @@
+{
+ "query": "Vizhinjam, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "Vizhinjam",
+ "draft": {
+  "briefing": "Hey, you're in Vizhinjam! Pottery found here shows it has been part of Indian Ocean trade since at least the 2nd century BCE. Now it's home to India's first deep-water transshipment port, opened on 2 May 2025.",
+  "hungryLine": "The local speciality is chicken fry at Kovalam Junction, and there's grilled seafood along Lighthouse Beach.",
+  "moodReplies": {
+   "show-me-around": "Start at the cave temple right here, then walk down to the harbour and the old lighthouse.",
+   "somewhere-to-chill": "Watch the sunset at the harbour, with the fishing boats coming in.",
+   "surprise-me": "The port's breakwater is India's deepest, reaching 28 metres, about the height of a nine-storey building."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Vizhinjam Rock Temple",
+     "detail": "1 min walk · Granite cave shrine with unfinished Shiva reliefs",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Vizhinjam Harbour",
+     "detail": "By the sea · Sunset with the seaside mosque",
+     "status": {
+      "text": "Head back after dark",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vizhinjam Lighthouse",
+     "detail": "Southern beach · One of Kerala's oldest lighthouses",
+     "status": {
+      "text": "Open 3 to 5 PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Vizhinjam",
+    "title": "The lost port of Balita",
+    "body": "An ancient text, the Periplus of the Erythrean Sea, names a coastal town called Balita. Some think it was Vizhinjam."
+   },
+   {
+    "where": "Azhimala Shiva Temple",
+    "title": "Shiva with the Ganga",
+    "body": "At Azhimala, an 18 m Gangadhareshwara sculpture shows Shiva as the bearer of the Ganga. It's the tallest Shiva sculpture in Kerala."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit the lighthouse at 3 PM.",
+    "body": "Vizhinjam Lighthouse is open to visitors from 3 to 5 PM daily."
+   },
+   {
+    "icon": "tag",
+    "title": "Head back after sunset.",
+    "body": "Unless you're with a guide, it's best to go back to Kovalam once the sun is down."
+   }
+  ],
+  "story": [
+   {
+    "era": "2nd century BCE",
+    "title": "Early traders",
+    "body": "Pottery finds show Vizhinjam was part of Indian Ocean trade by at least this time.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "8th to 11th century",
+    "title": "The Ay kingdom",
+    "body": "The Ay dynasty controlled the region during these centuries.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2 May 2025",
+    "title": "A new port",
+    "body": "Prime Minister Narendra Modi inaugurated the Vizhinjam International Seaport, India's first deep-water transshipment port.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Ships on the doorstep",
+    "body": "The port is just 10 nautical miles from a busy east-west shipping route, with a natural depth of 24 metres.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hotel Sea Rock",
+    "detail": "Famous for grilled seafood",
+    "status": {
+     "text": "At Kovalam",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Suprabatham",
+    "detail": "One of the best vegetarian places in Kovalam",
+    "status": {
+     "text": "200 m from Lighthouse Beach",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

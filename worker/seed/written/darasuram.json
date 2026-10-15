@@ -1,0 +1,127 @@
+{
+ "query": "Darasuram",
+ "region": "tamilnadu",
+ "name": "Darasuram",
+ "draft": {
+  "briefing": "Hey, you're in Darasuram! This quiet corner of Kumbakonam is home to the Airavatesvara Temple, built by Rajaraja Chola II in the 12th century and now a UNESCO World Heritage Site. It's just a 7 min walk from where you're standing.",
+  "hungryLine": "You're on Kumbakonam's doorstep, so go for its famous thick, strong filter coffee and finish with a vettrilai cheeval, the local betel leaf combination.",
+  "moodReplies": {
+   "show-me-around": "Thirumigu Airavateswarar Temple is a 7 min walk, and the Devanayaki Temple is 8 minutes away. Pazhayarai Vadathali is about 3 km off, with mini buses from Darasuram.",
+   "somewhere-to-chill": "Linger in the Airavatesvara temple grounds, then head into Kumbakonam for a slow filter coffee.",
+   "surprise-me": "The Airavatesvara Temple is named after Airavata, the elephant of Lord Indra."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Thirumigu Airavateswarar Temple",
+     "detail": "7 min walk · 12th century Chola temple and UNESCO World Heritage Site",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Devanayaki Temple",
+     "detail": "8 min walk · A second temple close to the Airavatesvara",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Pazhayarai Vadathali",
+     "detail": "3 km away · A Chola-era Shiva temple with 8th to 9th century inscriptions",
+     "status": {
+      "text": "Rituals 7:30AM to 8PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Airavatesvara Temple",
+    "title": "Indra's elephant",
+    "body": "The temple takes its name from Airavata, the elephant of Lord Indra. The Shiva worshipped here carries the same name, Airavatesvara."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Don't skip the coffee.",
+    "body": "Kumbakonam filter coffee is one of the best in India, and you'd be missing the point of the trip without it."
+   },
+   {
+    "icon": "sun",
+    "title": "Reach Pazhayarai by day.",
+    "body": "Its rituals run from 7:30AM to 8PM, and mini buses from Darasuram stop at Cholan Maligai."
+   }
+  ],
+  "story": [
+   {
+    "era": "600s",
+    "title": "Sung by saints",
+    "body": "The deity at nearby Pazhayarai Vadathali gets a passing mention in the Tevaram, the 7th century hymns of the Nayanar saints.",
+    "illustration": "palace"
+   },
+   {
+    "era": "700s to 800s",
+    "title": "Chola inscriptions",
+    "body": "The Pazhayarai temple is believed to date from the Chola period and carries inscriptions from the 8th and 9th centuries.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1100s",
+    "title": "Rajaraja II builds",
+    "body": "Rajaraja Chola II built the Airavatesvara Temple here in Darasuram, dedicated to Shiva and named after Indra's elephant.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "World Heritage",
+    "body": "The Airavatesvara Temple is now a recognised UNESCO World Heritage monument. Darasuram itself has become a neighbourhood of Kumbakonam.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Mangalambiga Coffee & Tiffin Center",
+    "detail": "Kumbeswarar North Street, Kumbakonam · Tiffin and that famous coffee",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Shanmuga",
+    "detail": "Kumbakonam · The locals' favourite for parottas and non-veg",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Gowrishankar Hotels",
+    "detail": "Upstairs at Kumbakonam New Bus Stand · Vegetarian restaurant",
+    "status": {
+     "text": "05:30 to 22:30",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

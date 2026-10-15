@@ -1,0 +1,276 @@
+{
+ "query": "Malabar Hill, Mumbai",
+ "found": "Malabar Hill, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400036, India",
+ "lat": 18.9581616,
+ "lon": 72.8033665,
+ "fetchedAt": "2026-10-12T18:47:19.766Z",
+ "locality": {
+  "id": "malabar-hill-mumbai-city-district-maharashtra",
+  "name": "Malabar Hill",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Malabar Hill": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Malabar_Hill%2C_Mumbai._1850s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Malabar Hill",
+   "credit": "Photo: Charles Scott, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malabar_Hill,_Mumbai._1850s.jpg"
+  },
+  "Hanging Gardens of Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mumbai_03-2016_22_Hanging_Garden.jpg/1280px-Mumbai_03-2016_22_Hanging_Garden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Hanging Gardens of Mumbai",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_22_Hanging_Garden.jpg"
+  },
+  "Gowalia Tank": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/People_teargassed_at_Gowalia_Tank_Maidan.jpg/1280px-People_teargassed_at_Gowalia_Tank_Maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gowalia Tank",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:People_teargassed_at_Gowalia_Tank_Maidan.jpg"
+  },
+  "Babulnath Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/3-P1010053.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Babulnath Temple",
+   "credit": "Photo: Rangakuvara, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:3-P1010053.JPG"
+  },
+  "Wilson College, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wilson_College%2C_Mumbai_%28Coat_of_Arms%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Wilson College, Mumbai",
+   "credit": "Photo: Wilson College, Mumbai, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wilson_College,_Mumbai_(Coat_of_Arms).png"
+  },
+  "Mani Bhavan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Mani_Bhavan_-_Gandhi%27s_house_in_Mumbai.jpg/1280px-Mani_Bhavan_-_Gandhi%27s_house_in_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mani Bhavan",
+   "credit": "Photo: Jorge Láscar, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mani_Bhavan_-_Gandhi%27s_house_in_Mumbai.jpg"
+  },
+  "Kemps Corner": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Mumbai_03-2016_20_Kemps_Corner.jpg/1280px-Mumbai_03-2016_20_Kemps_Corner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kemps Corner",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_20_Kemps_Corner.jpg"
+  },
+  "Breach Candy": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/BreachCandy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Breach Candy",
+   "credit": "Photo: Abracadabra123 (talk) (Uploads), Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BreachCandy.jpg"
+  },
+  "Cumbala Hill": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/A_view_from_Cumballa_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Cumbala Hill",
+   "credit": "Photo: India Illustrated, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_from_Cumballa_Hill.jpg"
+  },
+  "All Saints' Church, Malabar Hill": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/All_Saints%27_Church%2C_Malabar_Hill%2C_Mumbai%2C_c._1880.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "All Saints' Church, Malabar Hill",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:All_Saints%27_Church,_Malabar_Hill,_Mumbai,_c._1880.jpg"
+  },
+  "Emmanuel Church, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Girgaum_Church%2C_Bombay_by_Francis_Frith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Emmanuel Church, Mumbai",
+   "credit": "Photo: Francis Frith, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Girgaum_Church,_Bombay_by_Francis_Frith.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Malabar Hill",
+   "text": "Malabar Hill is amongst the most affluent residential areas in Mumbai. It is home to several business tycoons and film personalities.\nProminent landmarks include the South Court mansion of the Jinnah family, the Chief Minister of Maharashtra's Varsha Bungalow, Government Guest House Sahyadri, official residences of VVIP state officials and additionally the Hanging Gardens, Jain Temple and Banganga Tank. Other notable residents include Radhakishan Damani and Syedna Mufaddal Saifuddin.\n\n\n== History ==\nMalabar Hill is the location of the Walkeshwar Temple, founded by the Silhara kings. The original temple was destroyed by the Portuguese, but rebuilt again in 1715 by Rama Kamath, and by 1860, 10 to 20 other temples were built in the region.\nMountstuart Elphinstone built the first bungalow in Malabar Hill while he was Governor of Bombay, between 1819 and 1827. Following his example, the place soon became an affluent locality, as it remains today.\n\n\n== Overview ==\nSouth Court (informally known as the 'Jinnah House'), the former residence of Mohammad Ali Jinnah, founder of Pakistan is also present here, but is closed to public due to property disputes.\nUnique among wealthy areas in Mumbai, it...",
+   "url": "https://en.wikipedia.org/wiki/Malabar_Hill"
+  },
+  {
+   "title": "Kamala Nehru Park, Mumbai",
+   "text": "Kamala Nehru Park is part of the Hanging Gardens complex in Mumbai, Maharashtra, India covering an area of approximate 16,000 sq.mt. (4 acres). Located at the top of Mumbai's Malabar Hill, it is developed and maintained by the Hydraulic Engineer's Department of Municipal Corporation of Greater Mumbai. One of Mumbai's premier gardens it is popular with young children and tourists. The garden has views of the Marine drive below – also known as Queen's necklace.\nThe shoe structure is inspired by the nursery rhyme There was an Old Woman Who Lived in a Shoe.\nSoli Arceivala, former BMC environment officer, VJTI vice principal of 15 years, NEERI director had designed Old Woman's Shoe at Kamala Nehru Park.",
+   "url": "https://en.wikipedia.org/wiki/Kamala_Nehru_Park,_Mumbai"
+  },
+  {
+   "title": "Hanging Gardens of Mumbai",
+   "text": "The Hanging Gardens, in Mumbai (still widely known as Bombay), also known as Pherozeshah Mehta Gardens, are terraced gardens perched at the top of Malabar Hill, on its western side, just opposite the Kamala Nehru Park. They provide sunset views over the Arabian Sea and feature numerous hedges carved into the shapes of animals. The park was designed and laid out in 1881 by Ulhas Ghatkopar over Bombay's main reservoir, some say to cover the water from the potentially contaminating activity of the nearby Towers of Silence. When seen from the air, the walkway inside the park (Hanging Gardens Path), spell out the letters PMG (Pherozeshah Mehta Gardens) in cursive.",
+   "url": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Mumbai"
+  },
+  {
+   "title": "Gowalia Tank",
+   "text": "Gowalia Tank Maidan, officially renamed August Kranti Maidan, is a park in Grant Road West, in South Mumbai, in which Mahatma Gandhi issued the Quit India speech on 8 August 1942. It decreed that unless the British left India immediately, mass agitations would take place.",
+   "url": "https://en.wikipedia.org/wiki/Gowalia_Tank"
+  },
+  {
+   "title": "Babulnath Temple",
+   "text": "Babulnath Temple is a Hindu temple, dedicated to Shiva, in Mumbai, India, on a small hillock near Girgaum Chowpatty. It is one of oldest mandirs in the city, Shiva in the form of the \"Lord of the Babul Tree\" is the main deity in this temple.",
+   "url": "https://en.wikipedia.org/wiki/Babulnath_Temple"
+  },
+  {
+   "title": "Wilson College, Mumbai",
+   "text": "The Wilson College, established in 1832 in Mumbai, is one of India's oldest colleges; its foundation precedes that of the University of Mumbai, (to which it is affiliated), by 25 years. Wilson College was granted autonomy by Mumbai University in November 2021. It was awarded an A rating by the National Assessment and Accreditation Council (NAAC) in 2005.\nLocated opposite Mumbai's Girgaon Chowpatty, the college building was constructed in 1889 and designed by John Adams in the domestic Victorian Gothic style. It is listed as a Grade III heritage structure in the city. As of 2011, the college offered a variety of subjects for both higher secondary and undergraduate students which include University Aided courses for the Arts and the Sciences as well as self-financed courses such as Mass Media, Information Technology, Management Studies, Biotechnology, Electronics & Computer Science.",
+   "url": "https://en.wikipedia.org/wiki/Wilson_College,_Mumbai"
+  },
+  {
+   "title": "Jinnah House",
+   "text": "South Court Mansion, also known as the Jinnah House, is an unoccupied house in Malabar Hill, a premium neighbourhood of the city of Mumbai in India associated with Muhammad Ali Jinnah, the founder and first governor-general of Pakistan, and his family. It was built by Jinnah and remained his main residence for 10 years until he left in 1946 for Karachi.",
+   "url": "https://en.wikipedia.org/wiki/Jinnah_House"
+  },
+  {
+   "title": "Mani Bhavan",
+   "text": "Mani Bhavan (lit. 'Jewel House') is a museum and historical building dedicated to Gandhi, situated at Laburnum Road in the Gamdevi precinct of Mumbai. Mani Bhavan was the focal point of Gandhi's political activities in Mumbai between 1917 and 1934.",
+   "url": "https://en.wikipedia.org/wiki/Mani_Bhavan"
+  },
+  {
+   "title": "Walsingham House School",
+   "text": "Walsingham House School is a private girls' school founded in 1940 and located in a former palace of the Maharajah of Kutch in South Bombay, India.",
+   "url": "https://en.wikipedia.org/wiki/Walsingham_House_School"
+  },
+  {
+   "title": "Kemps Corner",
+   "text": "Kemps Corner is an upmarket neighbourhood in South Mumbai. It is flanked by Altamount Road on one side and Malabar Hill on the other. It lies at the intersection of Breach Candy,  Warden Road, Pedder Road and Nepean Sea Road.\nThe place has several upmarket residential establishments as well as high end shopping outlets. Work on the Kemps Corner flyover started in April 1964 and was opened on 14 April 1965. The flyover is shown in several films.",
+   "url": "https://en.wikipedia.org/wiki/Kemps_Corner"
+  },
+  {
+   "title": "Breach Candy",
+   "text": "Bhulabhai Desai Road, also well known by the old name Warden Road (and the part at and near the swimming pool as Breach Candy), is a niche up-market residential and semi-commercial locality of South Mumbai.\nThe area has many famous landmarks beside its long and winding stretch, from the Breach Candy Hospital to the Amarsons and Tata gardens and Lincoln House, former location of the Consulate General of the United States, Mumbai. The elite Breach Candy Club in the neighbourhood features the country's largest India-shaped swimming pool. Just off Bhulabhai Desai Road is the women-only Sophia College.\nThe 18th century Mahalaxmi Temple, which honors the Hindu goddess of wealth and wisdom, is situated nearby on the edge of sea.  It is one of the most famous temples of Mumbai and attracts millions of devotees and tourists each year.\nThe area falls under the 'D-Ward' of the BMC and shares the postal code 400 026 under the Cumballa Hill post office. It lies 21 kilometers south of Chhatrapati Shivaji International Airport and just 2 kilometers from the Mumbai Central station. It is well connected by local buses run by BEST.\nGeographically, this road curls around the Arabian Sea. Because of its...",
+   "url": "https://en.wikipedia.org/wiki/Breach_Candy"
+  },
+  {
+   "title": "Hughes Road",
+   "text": "Hughes Road or N. S. Patkar Marg is an arterial road in South Mumbai linking Opera House with Kemps Corner. It is flanked by Hanging Gardens of Mumbai and the Towers of Silence on one side and the Porsche showroom, Augustus Villa 21 Hughes road, New Era School, RTI and Westside on the other. It is close to the Arabian Sea.\nThe road was named after Sir Walter Hughes, who served as the inaugural chairman of the Bombay Improvement Trust. The Trust was responsible for developing the New Gamdevi area as a model suburb when the arterial road was inaugurated in 1908. It was later renamed after N. S. Patkar.",
+   "url": "https://en.wikipedia.org/wiki/Hughes_Road"
+  },
+  {
+   "title": "Cumbala Hill",
+   "text": "Cumbala Hill (also spelled Cumballa) is a hill and upmarket neighbourhood in South Mumbai flanked by the sea on the West, Altamount Road on the East, Malabar Hill on the South and Mahalaxmi on the North. It is also called Diplomat's Hill or Ambassador's Row by residents, as many consulates and high commissions are located in the area. The hill is at an elevation of 56 metres (184 ft).",
+   "url": "https://en.wikipedia.org/wiki/Cumbala_Hill"
+  },
+  {
+   "title": "Indian National Theatre",
+   "text": "The Indian National Theatre (INT) is a theatre organisation and troupe founded in 1943 and based in Mumbai, India. Although performing predominantly Gujarati theatre, the troupe has also produced a number of plays in other Indian languages. In addition to theatre productions, the troupe also carries theatre education, training and research activities.",
+   "url": "https://en.wikipedia.org/wiki/Indian_National_Theatre"
+  },
+  {
+   "title": "All Saints' Church, Malabar Hill",
+   "text": "All Saints' Church on Little Gibbs Road in Malabar Hill, Mumbai, India is affiliated to the Church of North India. It was built in 1881 as an Anglican church for the local congregation that had to earlier travel some 8 kilometres to St. Thomas Cathedral in Fort. It was designed by Major Mant of the Royal Engineers, The church was founded through the efforts of the local Anglican community, with the foundation stone was laid by Lady Ferguson, wife of Sir James Fergusson, 6th Baronet, the then Governor of Bombay. It was consecrated on 16 January 1882.\nThe church has a semi-circular chancel and the facade is made out of Porbandar stone. It had a wooden belfry tower that was removed in 1951 when it was damaged in a cyclone.",
+   "url": "https://en.wikipedia.org/wiki/All_Saints%27_Church,_Malabar_Hill"
+  },
+  {
+   "title": "Emmanuel Church, Mumbai",
+   "text": "Emmanuel Church in Grant Road, Mumbai, India is affiliated to the Church of North India and was built in 1869. The building, constructed in Gothic Revival style, is a Grade II heritage structure and was made using Porbandar stone. It was the first church with an Indian congregation to follow the British Church Mission Society (CMS), and though it now falls under the Church of North India, the parishioners still maintain Anglican practices. It was established by Revd. T. K. Weatherhead of the CMS.",
+   "url": "https://en.wikipedia.org/wiki/Emmanuel_Church,_Mumbai"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Hanging Gardens of Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 18.956724,
+   "lon": 72.804937
+  },
+  {
+   "name": "All Saints' Church, Malabar Hill",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 18.9558432,
+   "lon": 72.8031292
+  },
+  {
+   "name": "Kamala Nehru Park, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 18.9550613,
+   "lon": 72.80496067
+  },
+  {
+   "name": "Indian National Theatre",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 18.9575405,
+   "lon": 72.8078344
+  },
+  {
+   "name": "Hughes Road",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 18.9603167,
+   "lon": 72.8076643
+  },
+  {
+   "name": "Babulnath Temple",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 18.95869,
+   "lon": 72.8086
+  },
+  {
+   "name": "Kemps Corner",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 18.9629,
+   "lon": 72.8054
+  },
+  {
+   "name": "Jinnah House",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 18.9532,
+   "lon": 72.8014
+  },
+  {
+   "name": "Wilson College, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 18.956308,
+   "lon": 72.810876
+  },
+  {
+   "name": "Gowalia Tank",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 18.96245,
+   "lon": 72.80970277777777
+  },
+  {
+   "name": "Mani Bhavan",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.95993,
+   "lon": 72.81137
+  },
+  {
+   "name": "Cumbala Hill",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 18.965833333333332,
+   "lon": 72.80583333333333
+  },
+  {
+   "name": "Walsingham House School",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 18.95377,
+   "lon": 72.79624
+  },
+  {
+   "name": "Breach Candy",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 18.967,
+   "lon": 72.805
+  },
+  {
+   "name": "Emmanuel Church, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 18.9604687,
+   "lon": 72.8127188
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

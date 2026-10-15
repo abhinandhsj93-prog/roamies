@@ -1,0 +1,88 @@
+{
+ "query": "Chettinad",
+ "region": "tamilnadu",
+ "name": "Chettinad",
+ "draft": {
+  "briefing": "Hey, you're in Chettinad, the land of the Chettiars! This cluster of villages grew rich on trade as far away as Burma, Ceylon, Vietnam and Malaysia. Here in Kanadukathan, look at the house entrances, they're shaped to resemble temple gateways.",
+  "hungryLine": "Kanadukathan is famous for Chettinad cuisine, so you're in exactly the right place to eat it at the source.",
+  "moodReplies": {
+   "show-me-around": "Wander the lanes of Kanadukathan to see its grand houses with temple-style entrances. Chettinad railway station is just a 2 min walk if you're heading on to Karaikudi.",
+   "somewhere-to-chill": "Take it slow and stroll Kanadukathan's quiet streets, picking out the doorways of the old mansions one by one.",
+   "surprise-me": "Chettinad once had 96 villages, but by 2010 only 74 were left, spread over about 1,550 square kilometres."
+  },
+  "seeFirst": {
+   "caption": "Right around you",
+   "spots": [
+    {
+     "name": "Kanadukathan",
+     "detail": "You're here · Houses with entrances shaped like temple gateways",
+     "status": {
+      "text": "Many homes are private, admire from outside",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chettinad railway station",
+     "detail": "2 min walk · The little station serving Chettinad and Kanadukathan",
+     "status": {
+      "text": "Check train times locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kanadukathan",
+    "title": "The Shivaratri kavadi walk",
+    "body": "During Shivaratri in March, people carry kavadi from Pazhaiyur, old Kanadukathan, to the Solai Andavar Temple. It's a walk of roughly 4 km."
+   },
+   {
+    "where": "Kanadukathan",
+    "title": "Festival of the Goddess of Beauty",
+    "body": "Every May the town celebrates Ponnazhagi Amman for 10 days. Hari Poojai is held in May too."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit in April or May for festivals.",
+    "body": "The Ponnazhagi Amman festival and the Nagamuthu Mariamman temple's Chithirai full moon festival both run for 10 days around then."
+   },
+   {
+    "icon": "tag",
+    "title": "Use Karaikudi as your base.",
+    "body": "Karaikudi is the urban centre for the Chettinad villages, and Chettinad lies on National Highway 536 between Trichy and Karaikudi."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Part of Pandya Nadu",
+    "body": "Chettinad was historically ruled by the Ramnad kingdom of Pandya Nadu. Its name joins Chettiar, a community of traders and landlords, with nadu, meaning land.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1800s to early 1900s",
+    "title": "Traders overseas",
+    "body": "In the 19th and early 20th centuries, many Chettinad residents traded across South and Southeast Asia, especially in Burma, Ceylon, Vietnam and Malaysia.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2010",
+    "title": "74 of 96 villages",
+    "body": "Only 74 of the original 96 villages remained by 2010, in clusters across Sivagangai and Pudukottai districts.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Palatial houses on the world stage",
+    "body": "Chettinad is part of a UNESCO nomination for palatial house sites of historic and cultural value. Kanadukathan is still best known for its food and its temple-like doorways.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

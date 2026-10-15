@@ -1,0 +1,118 @@
+{
+ "query": "Raigad Fort",
+ "found": "Raigad Fort Trail, Hirkaniwadi, Mahad Taluka, Raigad, Maharashtra, 402305, India",
+ "lat": 18.2368054,
+ "lon": 73.4358948,
+ "fetchedAt": "2026-10-12T18:57:23.428Z",
+ "locality": {
+  "id": "hirkaniwadi-raigad-maharashtra",
+  "name": "Hirkaniwadi",
+  "area": "Mahad Taluka, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Raigad Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Nagarkhana%2C_Raigad_Fort%2C_India.jpg/1280px-Nagarkhana%2C_Raigad_Fort%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Raigad Fort",
+   "credit": "Photo: Nilamgandhre, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagarkhana,_Raigad_Fort,_India.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Raigad Fort",
+   "text": "Raigad, located in the Raigad district of Maharashtra, India, is a hill fort situated near the town of Mahad. It is one of the strongest fortresses on the Deccan Plateau and was historically referred to as Rairee or Rairy Fort. Raigad is the largest fort in Asia, with an area of 1,200 acres. \nChhatrapati Shivaji Maharaj, the Maratha ruler, along with his chief engineer Hiroji Indulkar, oversaw the construction and development of various buildings and structures at the fort. In 1674, following his coronation as king, Chatrapati Shivaji Maharaj chose Raigad as the capital of his Hindavi Swaraj.\nLocated at an elevation of 820 metres (2,700 ft)above sea level in the Sahyadri mountain range, the fort offers panoramic views of the surrounding region. The fort was home to around 1,550 residents, with an average family size of five. Access to the fort requires ascending approximately 1,737 steps. Alternatively, visitors can use the Raigad Ropeway, an aerial tramway spanning 750 m (2,460 ft) in length and reaching a height of 400 m (1,300 ft), which transports passengers to the fort in approximately four minutes.",
+   "url": "https://en.wikipedia.org/wiki/Raigad_Fort"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Mena Darwaja",
+   "kind": "attraction",
+   "openingHours": "sunrise-sunset",
+   "walkMinutes": 10,
+   "lat": 18.2330237,
+   "lon": 73.4403049
+  },
+  {
+   "name": "Shri Shirkai Devi Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 18.2353157,
+   "lon": 73.4413588
+  },
+  {
+   "name": "Chhatrapati Shivaji Maharaj Raj Sinhasan Meghadambari",
+   "kind": "attraction",
+   "walkMinutes": 11,
+   "lat": 18.2339257,
+   "lon": 73.4412539
+  },
+  {
+   "name": "Holicha Mal",
+   "kind": "attraction",
+   "walkMinutes": 11,
+   "lat": 18.2348918,
+   "lon": 73.4418695
+  },
+  {
+   "name": "Nagarkhana",
+   "kind": "attraction",
+   "walkMinutes": 11,
+   "lat": 18.2339462,
+   "lon": 73.4418716
+  },
+  {
+   "name": "Hatti Khana",
+   "kind": "attraction",
+   "walkMinutes": 11,
+   "lat": 18.2355154,
+   "lon": 73.4419467
+  },
+  {
+   "name": "Market",
+   "kind": "ruins",
+   "walkMinutes": 12,
+   "lat": 18.2359645,
+   "lon": 73.4425883
+  },
+  {
+   "name": "Kavi Kalash Residence",
+   "kind": "ruins",
+   "walkMinutes": 12,
+   "lat": 18.2323956,
+   "lon": 73.4412531
+  },
+  {
+   "name": "Shri Vyadeshwar Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 18.2331085,
+   "lon": 73.4426119
+  },
+  {
+   "name": "Takmak Tok",
+   "kind": "attraction",
+   "walkMinutes": 13,
+   "lat": 18.2407143,
+   "lon": 73.4421399
+  },
+  {
+   "name": "Ashtapradhan Wade",
+   "kind": "ruins",
+   "walkMinutes": 13,
+   "lat": 18.2328731,
+   "lon": 73.4422949
+  },
+  {
+   "name": "Raigad",
+   "kind": "fort",
+   "walkMinutes": 18,
+   "lat": 18.2358177,
+   "lon": 73.4465553
+  }
+ ],
+ "food": [],
+ "errors": []
+}

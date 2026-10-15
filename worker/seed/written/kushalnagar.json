@@ -1,0 +1,71 @@
+{
+ "query": "Kushalnagar",
+ "region": "karnataka",
+ "name": "Kushalnagar",
+ "draft": {
+  "briefing": "Hey, you're in Kushalnagar! Surrounded by the Kaveri river, this town is the gateway to Kodagu and its second largest town after Madikeri.",
+  "hungryLine": "Kushalnagar is Kodagu's busy commercial centre, so you'll find plenty of local places to eat around town.",
+  "moodReplies": {
+   "show-me-around": "The Ganapathi Temple is a 3 minute walk, and Thaqwa Masjid is about 17 minutes on foot.",
+   "somewhere-to-chill": "Find your way down to the Kaveri, which wraps around the town.",
+   "surprise-me": "Kushalnagar was once its own constituency, also known as Fraserpet, and it held just one election, in 1952."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Ganapathi Temple",
+     "detail": "3 min walk · A neighbourhood temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Thaqwa Masjid",
+     "detail": "17 min walk · A local mosque",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Use it as your base.",
+    "body": "Kushalnagar is the gateway to Kodagu district, so it's a handy starting point."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly at places of worship.",
+    "body": "The Ganapathi Temple and Thaqwa Masjid are both close by."
+   }
+  ],
+  "story": [
+   {
+    "era": "1952",
+    "title": "The Fraserpet seat",
+    "body": "The Kushalnagar constituency, also known as Fraserpet, held its one and only election in 1952 for the Coorg State legislature.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1956",
+    "title": "Joining Mysore",
+    "body": "When states were reorganised along linguistic lines in 1956, Coorg was merged with Mysore State and the seat went with it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Kodagu's growing town",
+    "body": "Kushalnagar heads its own taluk, and it's the fastest developing town in Kodagu district.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "query": "Yercaud",
+ "region": "tamilnadu",
+ "name": "Yercaud",
+ "draft": {
+  "briefing": "Hey, you're in Yercaud! This hill station sits at 1,515 m in the Servarayan Hills, and its Big Lake is said to be the only natural lake among all the hill station lakes in the South.",
+  "hungryLine": "Head near the lake for a simple, tasty Chettinad meal with soft chappathis.",
+  "moodReplies": {
+   "show-me-around": "Start at Yercaud Lake, then take the steep road north from the centre of town to Arthur Seat, 1 km away, for a bird's eye view of the lake and Shevaroyan Peak. Holy Trinity Church is a 21 min walk from here.",
+   "somewhere-to-chill": "Rent a rowing or pedal boat on Yercaud Lake, or rest in Anna Park next door and wander its Japanese Park.",
+   "surprise-me": "Bell Rock, on the BSI campus, makes a bell sound when you hit it with a stone."
+  },
+  "seeFirst": {
+   "caption": "Around town",
+   "spots": [
+    {
+     "name": "Yercaud Lake",
+     "detail": "In town · Also called the Big Lake or Emerald Lake, with boating and a floating fountain",
+     "status": {
+      "text": "Boats run on the lake",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Arthur Seat",
+     "detail": "1 km from town · Viewpoint over the lake, town and Shevaroyan Peak",
+     "status": {
+      "text": "Steep road up",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Holy Trinity Church",
+     "detail": "21 min walk · Built in 1834, with the memorial of the 'Father of Indian Prehistory'",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in May for the flowers.",
+    "body": "Anna Park, beside the lake, hosts the Flower Show in May."
+   },
+   {
+    "icon": "tag",
+    "title": "Skip Bell Rock on Sundays.",
+    "body": "It's closed on Sundays and national holidays, so plan that climb for another day."
+   }
+  ],
+  "story": [
+   {
+    "era": "Stone age",
+    "title": "Ancient tools",
+    "body": "Stone-age implements have been found near an ancient shrine in the Servarayan Hills. It's about 5 km from Yercaud lake.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1820s",
+    "title": "Coffee and citrus",
+    "body": "M. D. Cockburn, the Salem collector, helped set up coffee plantations here. Citrus saplings were brought in from South Africa too.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1834 to 1853",
+    "title": "Holy Trinity Church",
+    "body": "The church was built in 1834 and rebuilt in 1853 after a damaging accident. Missionary Peter Percival is buried here, and his son-in-law Robert Bruce Foote is remembered with a memorial.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "Hill retreat",
+    "body": "Yercaud has around 11,582 people as of 2011. Its highest point is the Servarayan temple at 1,628 m.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Karuppiah's Chettinad Mess",
+    "detail": "Near the lake, known for tasty chappathis",
+    "status": {
+     "text": "Near the lake",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Waterfront Restaurant",
+    "detail": "A meal with a view, right opposite the lake",
+    "status": {
+     "text": "Opposite the lake",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

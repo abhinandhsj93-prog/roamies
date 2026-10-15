@@ -1,0 +1,92 @@
+{
+ "query": "Dharmasthala",
+ "region": "karnataka",
+ "name": "Dharmasthala",
+ "draft": {
+  "briefing": "Hey, you're in Dharmasthala! The big temple here is a real one-off: a Shiva temple run by a Jain family, with Vaishnava Madhwa Brahmins doing the poojas.",
+  "hungryLine": "I don't have a named place to eat here, so ask around near the temple for a simple meal.",
+  "moodReplies": {
+   "show-me-around": "The Manjusha Museum is a 2 min walk, Dharmasthala Temple is about 3 minutes away, and the Bahubali Statue is an 8 min walk.",
+   "somewhere-to-chill": "Wander over to Lalithodyana Park for a slow, quiet break from the temple crowds.",
+   "surprise-me": "Besides Shiva as Manjunatha, the temple also honours the Jain Tirthankara Chandraprabha and four guardian spirits of Dharma."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Manjusha Museum",
+     "detail": "2 min walk · Antiques, paintings and temple chariots from across Karnataka",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Dharmasthala Temple",
+     "detail": "3 min walk · The 800-year-old Hindu-Jain temple to Manjunatha",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bahubali Statue",
+     "detail": "8 min walk · A big statue of Bahubali close to the temple",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Dharmasthala Temple",
+    "title": "The guardians of Dharma",
+    "body": "Alongside Manjunatha and Ammanavaru, the temple has shrines to the Dharma Daivas, guardian spirits named Kalarahu, Kalarkayi, Kumaraswamy and Kanyakumari. Locals see them as the protectors of the place."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come early.",
+    "body": "Around 2,000 pilgrims visit the temple on an average day, so mornings are calmer."
+   },
+   {
+    "icon": "tag",
+    "title": "Do both museums.",
+    "body": "Next to the Manjusha Museum there's the Manjusha Car Museum, full of vintage cars from the same founder."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Kuduma by the river",
+    "body": "Before it was Dharmasthala, the town on the banks of the Nethravathi was known as Kuduma. Its temple has stood here for about 800 years.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1500s",
+    "title": "A temple reconsecrated",
+    "body": "In the 16th century the Dvaita saint Vadiraja Tirtha reconsecrated the temple. He did it at the request of the administrator of the time, Devaraja Heggade.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Over the years",
+    "title": "Jain hands, Hindu rites",
+    "body": "The administration stayed with a Jain Bunt family called the Pergades, while Madhwa Brahmin priests run the rituals. That mix is what makes the temple so unusual.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Temple and treasures",
+    "body": "Temple head Veerendra Heggade founded the Manjusha Museum just south of the temple. It holds antiques, temple chariots and vintage cars gathered from across Karnataka.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

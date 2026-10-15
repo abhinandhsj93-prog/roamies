@@ -1,0 +1,108 @@
+{
+ "query": "Ponmudi, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "Ponmudi",
+ "draft": {
+  "briefing": "Hey, you're in Ponmudi! The name means the Golden Peak, and you're about 1,100 metres up in the Western Ghats. Getting here, the last 18 km from Anapara wind through tea gardens over 22 hairpin turns.",
+  "hungryLine": "Choices are few up here, so it's the KTDC Restaurant or the other place at the top of the hill.",
+  "moodReplies": {
+   "show-me-around": "Ponmudi View Point and the Upper Sanatorium are both about 11 min on foot. There's a deer park at the mountain top too.",
+   "somewhere-to-chill": "Walk to Ponmudi View Point and just let the cool air do its thing. It's usually 14 to 25 °C up here.",
+   "surprise-me": "The lowest temperature ever recorded in Ponmudi is 8°C, which is chilly for Kerala."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Ponmudi View Point",
+     "detail": "11 min walk · Views over the Western Ghats",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Ponmudi Upper Sanatorium",
+     "detail": "11 min walk · Right by the viewpoint",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Ponmudi Hill Station",
+     "detail": "16 min walk · The main hilltop area",
+     "status": {
+      "text": "Open 08:00-16:00 daily",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The hilltop",
+    "title": "The Golden Peak",
+    "body": "Ponmudi means the Golden Peak, and that's what everyone calls it. Stay for the light and see if you agree."
+   },
+   {
+    "where": "Varayadumotta",
+    "title": "The peak's other name",
+    "body": "The peak itself also goes by Varayadumotta. Ask a local which name they use."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack a warm layer.",
+    "body": "In winter it drops to between 10 and 19 °C, especially at night."
+   },
+   {
+    "icon": "tag",
+    "title": "Trek Agasthyar Hills in Jan or Feb.",
+    "body": "The hills are close by, and passes are available in January and February."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Mountains by the sea",
+    "body": "Ponmudi peak is part of the Western Ghats, the range that runs parallel to the Arabian Sea. The river Kallar has freshwater springs up here.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Travancore days",
+    "title": "Southern Travancore",
+    "body": "Ponmudi sits in the Southern Travancore region of Kerala, 62 km north-east of Trivandrum city.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Tea country",
+    "title": "Gardens on the climb",
+    "body": "The final stretch up from Anapara runs through tea gardens. It's the scenic part of the drive, all 22 hairpin turns of it.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "Honeymoon hill",
+    "body": "Ponmudi is a popular honeymoon spot in South India, and backpackers and trekkers love it too. Tell me if the Golden Peak lived up to its name.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "KTDC Restaurant",
+    "detail": "Breakfast and lunch up on the hill",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

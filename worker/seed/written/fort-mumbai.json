@@ -1,0 +1,92 @@
+{
+ "query": "Fort, Mumbai",
+ "region": "maharashtra",
+ "name": "Fort",
+ "draft": {
+  "briefing": "Hey, you're at Fort! The Victorian Gothic buildings on one side of the Oval Maidan here and the Art Deco row on the other side, stretching toward Marine Drive, were declared a UNESCO World Heritage Site together in 2018.",
+  "hungryLine": "My notes don't name a place to eat in Fort, so follow the office lunch crowd and see where they queue.",
+  "moodReplies": {
+   "show-me-around": "Jehangir Art Gallery and the National Gallery of Modern Art are both about 8 minutes on foot, and the Keneseth Eliyahoo Synagogue is around 10 minutes away.",
+   "somewhere-to-chill": "Sit by the Oval Maidan with Gothic spires on one side and Art Deco on the other, then wander west to Marine Drive.",
+   "surprise-me": "Dr B. R. Ambedkar studied at Elphinstone High School here from 1904 to 1907, the first person from the Dalit caste to do so."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Jehangir Art Gallery",
+     "detail": "8 min walk · Four exhibition halls at Kala Ghoda, open since 1952",
+     "status": {
+      "text": "Check what's showing",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "National Gallery of Modern Art",
+     "detail": "8 min walk · Art collections inside the 1911 Cowasji Jehangir Hall",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bombay High Court",
+     "detail": "By the Oval Maidan · One of India's oldest high courts, part of the UNESCO ensemble",
+     "status": {
+      "text": "View from outside",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Walk the ensemble early.",
+    "body": "The Gothic and Art Deco buildings are best seen on foot around the Oval Maidan, before the midday heat."
+   },
+   {
+    "icon": "tag",
+    "title": "Look out to Marine Drive.",
+    "body": "The Art Deco side of the Oval runs to Marine Drive, where Express Towers once was the tallest building in South Asia."
+   }
+  ],
+  "story": [
+   {
+    "era": "1824",
+    "title": "Elphinstone High School",
+    "body": "An English-medium school opened in honour of Governor Mountstuart Elphinstone. Dr B. R. Ambedkar later studied here.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1911",
+    "title": "Cowasji Jehangir Hall",
+    "body": "George Wittet built the hall with funds from Cowasji Jehangir. Since 1996 it has housed the National Gallery of Modern Art.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1952",
+    "title": "An art gallery for the city",
+    "body": "Sir Cowasji Jehangir built Jehangir Art Gallery at Kala Ghoda, urged on by K. K. Hebbar and Homi J. Bhabha.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1972",
+    "title": "Up on Marine Drive",
+    "body": "The 25-storey Express Towers went up on Marine Drive in Nariman Point. At 105 metres it was the tallest building in South Asia for about two years.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2018",
+    "title": "World Heritage",
+    "body": "UNESCO listed the Victorian Gothic and Art Deco Ensembles of Mumbai, 94 buildings around the Oval Maidan from the High Court to Marine Drive.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

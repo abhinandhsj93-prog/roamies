@@ -1,0 +1,59 @@
+{
+ "query": "Tirur, Malappuram",
+ "found": "Tirur, Malappuram, Kerala, 676101, India",
+ "lat": 10.9166828,
+ "lon": 75.923986,
+ "fetchedAt": "2026-10-12T18:00:07.237Z",
+ "locality": {
+  "id": "tirur-malappuram-kerala",
+  "name": "Tirur",
+  "area": "Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Tirur": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tirur_town_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Tirur",
+   "credit": "Photo: Kambliyil, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tirur_town_(2).png"
+  },
+  "Thrikkandiyur Mahadeva temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/009192022_Thrikkandiyur_Shiva_Temple%2C_Tirur_Kerala_012.jpg/1280px-009192022_Thrikkandiyur_Shiva_Temple%2C_Tirur_Kerala_012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thrikkandiyur Mahadeva temple",
+   "credit": "Photo: Ms Sarah Welch, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:009192022_Thrikkandiyur_Shiva_Temple,_Tirur_Kerala_012.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Tirur",
+   "text": "Tirur (Malayalam: [t̪iɾuːr]) is a major municipal town in Tirur Taluk, Malappuram district, in the Indian state of Kerala, spread over an area of 16.55 square kilometres (6.39 sq mi).\nIt is one of the major business centers in Malappuram district and is situated 26 kilometres (16 mi) west of Malappuram and 52.5 kilometres (32.6 mi) south of Kozhikode, on the Shoranur–Mangalore section under Southern Railway.\nTirur is a major trading centre for electronic devices and seafood in Northern Kerala and has an average elevation of 2 metres (6 ft 7 in) above the sea level.\n\n\n== History ==\n\nThe medieval Kerala school of astronomy and mathematics was mainly centred in and around present-day Tirur Taluk. Puthiyangadi region in Tirur served as the headquarters of the medieval feudal principality of Tanur, who were allied on various occasions to the Zamorins of Calicut, prior to the East India Company rule in the region (1792–1858) and subsequent British Raj (1858–1947). Tirur railway station, built in 1861, is the oldest railway station in Kerala.\n\n\n== Demographics ==\nAs of 2001 India census, Tirur had a population of 53,650, of which 48% are male and 52% female. Tirur has an average literacy rate...",
+   "url": "https://en.wikipedia.org/wiki/Tirur"
+  },
+  {
+   "title": "Thrikkandiyur Mahadeva temple",
+   "text": "Thrikkandiyur Mahadeva temple is one of the 108 Shiva temples in India.",
+   "url": "https://en.wikipedia.org/wiki/Thrikkandiyur_Mahadeva_temple"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Tirur",
+  "text": "Tirur is a town in Malappuram District, in the Malabar region of Kerala, in India.\nThe town is 43 km south of Kozhikode. It is a major trading centre of fish and betel, and is known as the birthplace of the poet Thunchath Ezhuthachan.\n\n\n== See ==\n Thunchan Parambu (1.5 km away). Birth place of the great poet Thunchath Ezhuthachan, considered as the Father of the Malayalam literature. This is the site of the annual Thunchan Utsavam literary festival, which takes place in the first week of February. \n Thirunavaya Banks (8 km southeast). A large river bank on shores of River Nila. This river bank hold stories of the biggest Hindu festival of South India- Mamankam (similar to Kumbh Mela of North), which got extinct in 18th century after annexation of Malabar by the British. However the heroic deeds of Malabar soldiers against traditional Suicide squad of Valluvanad and related historical tales, still remain fresh in its air. Due to the tradition of war on its river bank, today it's a major place for post-death rituals for Hindus as well as for immersing ashes after cremation. Thirunavaya has the only 2nd Brahma Temple in India, after Pushkar in Rajasthan. \n Anna Narasimha Temple, Near Thunchan parambu.  (updated Dec 2015)\n1 Vairankode Bhagavathy Temple. Hindu temple, one of oldest Bhadrakaali temples in Kerala. The Vairankode Vela, celebrated here, is one of the most popular local annual festivals. (updated Apr 2024)\n\n\n== Do ==\n\n\n== Eat ==\n\n Thazhe Palam Vegetarian Restaurant, Thazhe Palam (1 km).  (updated Dec 2015)\n Khaja Cafe, Kattachira (5 k.m.). Excellent kuttan beef biriyani. ₹100. (updated Feb 2022)\n Karthyayani Cafe, Tanur. for the best fish dishes. (updated Jan 2023)\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Tirur"
+ },
+ "sights": [
+  {
+   "name": "Thrikkandiyur Mahadeva temple",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 10.9055,
+   "lon": 75.9238
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

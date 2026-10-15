@@ -1,0 +1,77 @@
+{
+ "query": "Malvan",
+ "found": "Malvan, Malvan Taluka, Sindhudurg, Maharashtra, 416606, India",
+ "lat": 16.06064,
+ "lon": 73.4669499,
+ "fetchedAt": "2026-10-12T18:54:15.205Z",
+ "locality": {
+  "id": "kolamb-sindhudurg-maharashtra",
+  "name": "Kolamb",
+  "area": "Malvan, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Sindhudurg Fort": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sindhudurg_fort.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Sindhudurg Fort",
+   "credit": "Photo: Sballal (talk) (Uploads), Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sindhudurg_fort.JPG"
+  },
+  "Tarkarli": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Tarkarli_Photo_by_Sandeep_Wairkar.jpg/1280px-Tarkarli_Photo_by_Sandeep_Wairkar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tarkarli",
+   "credit": "Photo: Rohit Keluskar, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tarkarli_Photo_by_Sandeep_Wairkar.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Sindhudurg Fort",
+   "text": "Sindhudurg Fort (Marathi pronunciation: [sin̪d̪ʱud̪uɾɡ]) is a historical sea fort located in Arabian Sea near the Konkan region of Maharashtra in Western India. The fort, commissioned by Chhatrapati Shivaji, was constructed between 1664 and 1667. The fort lies off the shore of Malvan taluka of the Sindhudurg District in the Konkan region of Maharashtra, 450 kilometres (280 mi) south of Mumbai. It is a protected monument under the Archaeological Survey of India.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort"
+  },
+  {
+   "title": "Malvan",
+   "text": "Malvan (also written as Malwan)  is a town and taluka in Sindhudurg District, the southernmost district of Maharashtra State, India. It is known for the 17th century sea fort, Sindhudurg Fort. Malvan taluka consists of villages such as Angane Wadi, Masure, Achra, Khalchi Devli, Jamdul, Juva, Pankhol, Talasheel, Bandiwade, Mogarne and Sarjekot. The main occupations are is fishing and agriculture. The staple diet of the local people is fish curry and rice. The town produces Alphonso mangoes and sweets such as Malvani Khaja made from gram flour and coated with jaggery , as well as Malvani Ladoos. \nDashavtar (the ten incarnations of Lord Vishnu), a drama-play based on mythological stories, is an important cultural element of the area.",
+   "url": "https://en.wikipedia.org/wiki/Malvan"
+  },
+  {
+   "title": "Tarkarli",
+   "text": "Tarkarli is a village in Malvan taluka in Sindhudurg district in the Indian state of Maharashtra. It is a beach destination and remote place in southern Maharashtra. Tarkarli Beach was declared a Queen Beach of the Konkan region. \n\n",
+   "url": "https://en.wikipedia.org/wiki/Tarkarli"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Malvan",
+  "text": "Malvan is a fishing port town of 19,000 people (2011) in the Konkan region of Maharashtra. Malvan has a very nice sea-shore. But it is mainly known for famous Sindhudurg fort. Maratha king Shri Shivaji Maharaj built this fort on island of Kurte. \n\n\n== See ==\nMedha - Within Malvan city Kushewada and Gold Ganpati Mandir\nSindhudurga\n\nThe impressive Sindhudurg or Ocean Fort, set on an offshore island, was built in 1664 by the great 17th-century warrior, Shivaji to the glory of the Maratha Empire, is just a stone's throw away. Ferry services start from morning 8 and last boat leaves 1700 hours in the evening. fare for them is ₹57 per person which include return cost as of 2009.\n\nRock garden near to Sindhudurg Fort. It has on the rocks view of sunset.\n\n\n== Do ==\nTarkarli\nSituated 6 km south of Malvan and 546 km away from Mumbai on the coast of Maharashtra is Tarkarli. The major attraction here is the long and narrow stretch of beach, with its pristine water. On a clear day, you can see the sea bed through a depth of 20 ft.\nMaharashtra Tourism Development Corporation has one resort here.\nMTDC quarters provide snorkelling facilities near Sindhudurga.\n\n\n== Eat ==\nMalvan is famous for seafood. You can have good fresh seafood at Hotel Chaitnya near Malvan Bharad run by Mr. and Mrs. Walke. Worth testing Fried Fish. If you want to try some Malvani dish at your home try Mr. Vidyadhar Padawe's masala shop near Malvan Fish Market. You will get authentic home made Sunday masal, Garam Masala, Malvani Masala.\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Malvan"
+ },
+ "sights": [
+  {
+   "name": "Tarkarli",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 16.056535,
+   "lon": 73.468752
+  },
+  {
+   "name": "Malvan",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 16.0667,
+   "lon": 73.46669800000001
+  },
+  {
+   "name": "Sindhudurg Fort",
+   "kind": "landmark",
+   "walkMinutes": 32,
+   "lat": 16.043769,
+   "lon": 73.461416
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

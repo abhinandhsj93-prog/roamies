@@ -1,0 +1,144 @@
+{
+ "query": "Kattappana, Idukki",
+ "found": "Kattappana, Idukki, Kerala, 688508, India",
+ "lat": 9.7561717,
+ "lon": 77.1140611,
+ "fetchedAt": "2026-10-12T17:48:57.638Z",
+ "locality": {
+  "id": "idukki-kavala-idukki-kerala",
+  "name": "Idukki Kavala",
+  "area": "Kattappana, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kattappana": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Distant_view_of_Kattappana_town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kattappana",
+   "credit": "Photo: Nirmal, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Distant_view_of_Kattappana_town.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kattappana",
+   "text": "Kattappana ([kaʈ:ap:ɐna]) is a municipality in the Idukki district of Kerala, India. It is located 32 km (19.8 mi) southeast of the Idukki district headquarters in Painavu, 131 km (81.4 mi) east of major commercial city Kochi and 211 km (131.1 mi) north of the state capital, Thiruvananthapuram. Kattappana is the second largest town and one among the two municipalities in the district, and serves as a major hub for commercial and economic activity for the surrounding region.\nKattappana was formed primarily by settlers from Thodupuzha, Pala, Kanjirapally, Kothamangalam, Muvattupuzha and Changanassery in the 1950s, and was given the status of gram panchayat in 1962. The town later attained the Municipality status in 2015.",
+   "url": "https://en.wikipedia.org/wiki/Kattappana"
+  },
+  {
+   "title": "St. George Higher Secondary School Kattappana",
+   "text": "St. George HSS Kattappana is a combined primary and secondary school. It is situated in the centre of Kattappana, Kerala, India. The school is managed by the Syro-Malabar Catholic Diocese of Kanjirappally. Present head of institution is Mr.Mani K C(Principal) The Kerala State school code is 06026.\n\n",
+   "url": "https://en.wikipedia.org/wiki/St._George_Higher_Secondary_School_Kattappana"
+  }
+ ],
+ "sights": [
+  {
+   "name": "St. Mary's Knanaya Jacobite Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 9.756947,
+   "lon": 77.112925
+  },
+  {
+   "name": "St Mary's Orthodox Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 9.7580842,
+   "lon": 77.1139544
+  },
+  {
+   "name": "Gandhi Square",
+   "kind": "memorial",
+   "walkMinutes": 4,
+   "lat": 9.7545135,
+   "lon": 77.1155954
+  },
+  {
+   "name": "Sri Lakshmi Narayana Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 9.7567054,
+   "lon": 77.1119658
+  },
+  {
+   "name": "Zion Church Hall",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 9.7568163,
+   "lon": 77.1112947
+  },
+  {
+   "name": "St John's CSI Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 9.7520932,
+   "lon": 77.1162464
+  },
+  {
+   "name": "Sharon church",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 9.7609894,
+   "lon": 77.1144162
+  },
+  {
+   "name": "Amar Jawan War Memorial",
+   "kind": "memorial",
+   "walkMinutes": 9,
+   "lat": 9.7525792,
+   "lon": 77.1177232
+  },
+  {
+   "name": "St stephen's knanaya church",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 9.7565071,
+   "lon": 77.121545
+  },
+  {
+   "name": "St. George Jacobite Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 9.7509355,
+   "lon": 77.1197182
+  },
+  {
+   "name": "Krupalaya Vincentian Retreat centre",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 9.7627332,
+   "lon": 77.1194088
+  },
+  {
+   "name": "St George Forane Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 9.7477933,
+   "lon": 77.1152686
+  },
+  {
+   "name": "Krupalaya Vincentian Retreat Center",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 9.7626631,
+   "lon": 77.1195012
+  },
+  {
+   "name": "Krupalaya Chapel",
+   "kind": "place_of_worship",
+   "openingHours": "07:30-19:30",
+   "walkMinutes": 16,
+   "lat": 9.7630644,
+   "lon": 77.1193295
+  },
+  {
+   "name": "Sree Narayana Mahadeva Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 9.763823,
+   "lon": 77.119203
+  }
+ ],
+ "food": [],
+ "errors": []
+}

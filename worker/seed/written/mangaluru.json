@@ -1,0 +1,136 @@
+{
+ "query": "Mangaluru",
+ "region": "karnataka",
+ "name": "Mangaluru",
+ "draft": {
+  "briefing": "Hey, you're in Mangaluru! This port city handles 75 percent of India's coffee and cashew exports, and it's the only city in Karnataka with air, road, rail and sea links.",
+  "hungryLine": "Mangalore is a seafood town, so try Kane Rava fry, Anjal Masala fry and the famous chicken ghee roast.",
+  "moodReplies": {
+   "show-me-around": "Milagres Church and Sharavu Temple are both 5 minutes' walk, and St. Aloysius Chapel is about 8 minutes away.",
+   "somewhere-to-chill": "Head out to Tannirbavi Beach for the sunset. You can even take a ferry there from Sulthan Battery.",
+   "surprise-me": "The Kote Ganapathi idol in Attavar's Umamaheshwara Temple turned up while workers were digging for a World War II memorial building."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Milagres Church",
+     "detail": "5 min walk · One of the oldest churches in Dakshina Kannada",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sharavu Temple",
+     "detail": "5 min walk · The Sharavu Ganapathi Temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "St. Aloysius Chapel",
+     "detail": "8 min walk · On Lighthouse Hill",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Attavar",
+    "title": "The war Ganapathi",
+    "body": "The Kote Ganapathi idol in Shri Umamaheshwara Temple is said to have been worshipped by kings and soldiers before they went to war, 700 to 800 years ago. It's the oldest in Coastal Karnataka."
+   },
+   {
+    "where": "Attavar",
+    "title": "Mosaru Kudike",
+    "body": "After Krishna Janmashtami, Attavar celebrates Mosaru Kudike. The procession started from the Umamaheshwara Temple in 1909 and is now a yearly festival."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit in January for kites.",
+    "body": "Panambur Beach, 10 km north, hosts a kite festival for part of the month."
+   },
+   {
+    "icon": "tag",
+    "title": "Order the chicken ghee roast.",
+    "body": "It's a delicacy of Dakshina Kannada, and many of the city's bigger restaurants serve it."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient times",
+    "title": "A port on the coast",
+    "body": "Mangaluru grew as a port on the Laccadive Sea and was ruled by the Mauryas, Kadambas, Alupas, Vijayanagara and the Keladi Nayaks.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1680",
+    "title": "Milagres Church",
+    "body": "Bishop Thomas de Castro, a Theatine from Divar in Goa, built the Church of Our Lady of Miracles in Hampankatta.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Mysore wars",
+    "title": "Fought over",
+    "body": "The city was contested between the British and the Mysore rulers Hyder Ali and Tipu.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1909",
+    "title": "A festival begins",
+    "body": "The Mosaru Kudike procession set out from Attavar's Umamaheshwara Temple for the first time.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1968",
+    "title": "The new port",
+    "body": "After independence, a new port was built in 1968. It's now India's seventh largest container port.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Amantran",
+    "detail": "In Attavar, near the city railway station · A must for seafood",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Taj Mahal",
+    "detail": "Hampankatta · The coffee with a secret recipe, plus dosas",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Kairali Restaurant",
+    "detail": "Behind Milagres Church · Kerala-style non-veg",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

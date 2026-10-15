@@ -1,0 +1,119 @@
+{
+ "query": "Ottapalam, Palakkad",
+ "found": "Ottappalam, Palakkad, Kerala, 679101, India",
+ "lat": 10.7732226,
+ "lon": 76.3772453,
+ "fetchedAt": "2026-10-12T17:57:46.857Z",
+ "locality": {
+  "id": "ottappalam-palakkad-kerala",
+  "name": "Ottappalam",
+  "area": "Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Ottappalam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ottapalam_near_Bustand.jpg/1280px-Ottapalam_near_Bustand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ottapalam",
+   "credit": "Photo: Shafeeq basheer, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ottapalam_near_Bustand.jpg"
+  },
+  "Ottapalam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ottapalam_near_Bustand.jpg/1280px-Ottapalam_near_Bustand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ottapalam",
+   "credit": "Photo: Shafeeq basheer, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ottapalam_near_Bustand.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Ottapalam",
+   "text": "Ottapalam (also spelled Ottappalam) is a town, taluk, and municipality in the Palakkad District of Kerala, India. It is the administrative headquarters of Ottapalam taluk and is located approximately 34 km (21 mi) from the Palakkad (district HQ), along the banks of the Bharathapuzha River, the second-longest river in the state.\nIt is one of the major commercial centres in the district. It is also one of the major filming locations in Kerala, including the 2010 feature film Pokkiri Raja.\n\n\n== Etymology ==\n\n\n== History ==\nThe area was formerly known as Ayirur Thekkummuri Desam. The present-day Ottapalam, Pattambi and Cherpulassery areas were part of the medieval Nedunganad kingdom. Nedunganathiripad (Nedungadi) was the main ruler of Nedunganad. The headquarters was at Makovilakam near Kodikunnu, Chembulangad. Nedunaganad was ruled by the Nairs of Kavalappara, Thrikkadeeri, Kannambra, Vattakkavil Perumbada under the leadership of Nedunganathiripad. Ottappalam was the administrative area of Thrikkadeeri Nair. Its north side starts at Ayirur-Vadakkummuri near Mannarkkad and ends at Ayirur-Thekkummuri. After passing Ayirur-Thekkummuri, crossing the 'Ottapalam of Kanniyampuram river', then it...",
+   "url": "https://en.wikipedia.org/wiki/Ottapalam"
+  },
+  {
+   "title": "Chunangad",
+   "text": "Chunangad is a village near Ottapalam taluk of Palakkad district of Kerala State, India.\nThe population consists of mainly Hindus & Muslims and very few Christian settlers. The major Menon family in Chunangad is Vengalil, who were the landlords in the place. Sreemathi Chunangat Kunjikavamma, the first female President of Kerala Pradesh Congress Committee was born in Chunangad. The major temples in Chunangad are Shiva temple and Kottekavu bhagavathy temple.",
+   "url": "https://en.wikipedia.org/wiki/Chunangad"
+  },
+  {
+   "title": "Ottapalam Lok Sabha constituency",
+   "text": "Ottapalam was a Lok Sabha constituency in Kerala. The seat was reserved for scheduled castes. It was replaced by Alathur Lok Sabha Constituency in 2009.",
+   "url": "https://en.wikipedia.org/wiki/Ottapalam_Lok_Sabha_constituency"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Ottapalam",
+  "text": "Ottapalam is a small town in Palakkad District in Malabar region, Kerala, India. \n\n\n== See ==\n\n1 Chinakathoor Kavu Temple, Ottapalam. Chinakathoor Pooram festival is conducted here every year. (updated May 2015)\n Sri Chinnakkathoor Bhagavathy Temple, Lakkidi. Famous 21 day festival with costumes and animal shapes on show. (updated Jul 2015)\n\n\n== Do ==\n\n\n== Eat ==\n Achoos Restaurant, Near Seventh Day Adventist hospital.  (updated Jul 2015)\n AFC Fried Chicken, Qatar Tower, Kayarampara.  (updated Jul 2015)\n Food Fusion Restaurant, opp. Bus Station.  (updated Jul 2015)\n\n J. N. V. Mess, Mayannur.  (updated May 2015)\n Kayyalakkal Restaurant, Ali Akbar Road, ☏ +91 99952 72763.  (updated May 2015)\n Kottaram Restaurant, Poolakkaparamba, ☏ +91 466 234 4301.  (updated May 2015)\n Revathy Restaurant, Shornur Road.  (updated Jul 2015)\n Sadhya Restaurant, Market line.  (updated May 2015)\n Shree Lakshmi Restaurant, Ottapalam.  (updated May 2015)\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Ottapalam"
+ },
+ "sights": [
+  {
+   "name": "Vengeri Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 10.7736935,
+   "lon": 76.3804471
+  },
+  {
+   "name": "Puzhikunnu Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 10.7705714,
+   "lon": 76.3736109
+  },
+  {
+   "name": "Kerala Kalalayam-Ottappalam",
+   "kind": "monument",
+   "walkMinutes": 11,
+   "lat": 10.7790139,
+   "lon": 76.3790102
+  },
+  {
+   "name": "ootupura temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 10.7721686,
+   "lon": 76.370411
+  },
+  {
+   "name": "infant jesus church",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 10.7723557,
+   "lon": 76.3696922
+  },
+  {
+   "name": "Mosque",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 10.7740461,
+   "lon": 76.3856269
+  },
+  {
+   "name": "Mariamman Kovil",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 10.7726508,
+   "lon": 76.367981
+  },
+  {
+   "name": "Mathoor Mana",
+   "kind": "monument",
+   "walkMinutes": 16,
+   "lat": 10.7800284,
+   "lon": 76.3713459
+  },
+  {
+   "name": "Alaparamba Gurumoorthy Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 10.7728616,
+   "lon": 76.3677449
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

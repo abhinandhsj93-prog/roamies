@@ -1,0 +1,43 @@
+{
+ "query": "Tambdi Surla",
+ "found": "Tambdi Surla, Dharbandora, Kushavati, Goa, India",
+ "lat": 15.4434252,
+ "lon": 74.2454029,
+ "fetchedAt": "2026-10-12T19:48:46.814Z",
+ "locality": {
+  "id": "bolcornem-kushavati-goa",
+  "name": "Bolcornem",
+  "area": "Dharbandora, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Mahadev Temple, Tambdi Surla": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Shri_Mahadev_Temple%2C_Tambdi_Surla%2C_Goa.jpg/1280px-Shri_Mahadev_Temple%2C_Tambdi_Surla%2C_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mahadev Temple, Tambdi Surla",
+   "credit": "Photo: Mahabalaindia, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Mahadev_Temple,_Tambdi_Surla,_Goa.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mahadev Temple, Tambdi Surla",
+   "text": "Mahadeva Temple, Tambdi Surla is a 13th-century Hindu temple in the Kadamba style dedicated to Lord Shiva, one of the main deities in Hinduism, and is an active place of Hindu worship. It is an ASI protected Monument of National Importance in Goa. The temple is dedicated to Lord Shiva and is reminiscent of the temples at Aihole in neighbouring Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Mahadev_Temple,_Tambdi_Surla"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Mahadev Temple, Tambdi Surla",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 15.4390637,
+   "lon": 74.2524218
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

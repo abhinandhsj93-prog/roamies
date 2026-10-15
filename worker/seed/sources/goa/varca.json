@@ -1,0 +1,52 @@
+{
+ "query": "Varca",
+ "found": "Varca, Salcete, South Goa, Goa, 403724, India",
+ "lat": 15.2314189,
+ "lon": 73.9432651,
+ "fetchedAt": "2026-10-12T19:43:12.789Z",
+ "locality": {
+  "id": "varca-south-goa-goa",
+  "name": "Varca",
+  "area": "Salcete, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [
+  {
+   "title": "Varca",
+   "text": "Varca is a census town in South Goa district in the Indian state of Goa.\n\n\n== Geography ==\nVarca is located at 15.22°N 73.92°E﻿ / 15.22; 73.92. It has an average elevation of 0 metres (0 feet).\n\n\n== Beaches ==\n\nVarca is known for its beaches. The row of wooden fishing boats seen on the beach belongs to the Christian fishing community. \n\n\n== Demographics ==\nAs of the 2001 India census, Varca had a population of 4859. Males constitute 47% of the population and females 53%. Varca has an average literacy rate of 77%, higher than the national average of 59.5%: male literacy is 80%, and female literacy is 75%. In Varca, 10% of the population is under 6 years of age. As of today, the population is about 25,000. Most of the males in Varca, take up jobs as seafarers or as NRI (Non Resident Indians) in the Middle East, especially the Gulf States, including Kuwait, UAE and Bahrain. The town mostly comprises Catholics and Hindus.\n\n\n== Monuments ==\nThe Our Lady of Gloria church is considered one of the oldest buildings in Varca. It is still operational with locals and tourists attending its services. Beside the church is St Mary's High School, which is managed and run by the church.\n\n\n== References ==\n\n�...",
+   "url": "https://en.wikipedia.org/wiki/Varca"
+  },
+  {
+   "title": "Orlim",
+   "text": "Orlim is a village situated in Goa, India. It is part of the Salcete taluka sub-district and is surrounded by the villages of Varca and Carmona. It is located about 10 km from the town of Margao and about 45 km from the capital city of Panjim.\nIt was a village of Chardos. Those belonging to the village were the first ones in Salcete, among their caste, to be converted. It consisted of five Vangors (Clans) of the Chard class. There were old Gaunkars with the surname Naik.",
+   "url": "https://en.wikipedia.org/wiki/Orlim"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Salcete",
+  "text": "Salcete or Salcette is a taluka in South Goa with the business capital Margao as its centre.\n\n\n== See ==\n\n Ashvek Vintage World, 12/B, Goulloy, NH17, Nuvem, ☏ +91-832-2731312, +91-9822100339. \"dedicated to restore and preserve motoring and motorcycling gems of historical interest in Goa\". You can find cars ranging from Mercedes Benz, to Peugeot, Morris, Chevrolet and Volkswagen. ₹50. \n Ancestral Goa, Big Foot, Loutolim, Goa, India., ☏ +91 832 2777034. Big Foot is an attempt to illustrate and recreate Goa's traditional past. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Salcete"
+ },
+ "sights": [
+  {
+   "name": "Varca Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 15.2321034,
+   "lon": 73.9440914
+  },
+  {
+   "name": "Our Lady of Piety",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 15.2406196,
+   "lon": 73.9411367
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

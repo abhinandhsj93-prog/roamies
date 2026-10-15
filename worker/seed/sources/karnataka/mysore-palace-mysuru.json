@@ -1,0 +1,310 @@
+{
+ "query": "Mysore Palace, Mysuru",
+ "found": "Mysore Palace, Albert Victor Road, Nazarbad, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India",
+ "lat": 12.3052197,
+ "lon": 76.6553846,
+ "fetchedAt": "2026-10-12T18:28:01.623Z",
+ "locality": {
+  "id": "vani-vilas-mysuru-district-karnataka",
+  "name": "Vani Vilas",
+  "area": "Mysuru, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Vani Vilas": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Maharani_Vani_Vilasa_with_grandson_Jayachamarajendra_Wadiyar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kempananjammanni Devi",
+   "credit": "Photo: Rajachandra at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maharani_Vani_Vilasa_with_grandson_Jayachamarajendra_Wadiyar.jpg"
+  },
+  "Kempananjammanni Devi": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Maharani_Vani_Vilasa_with_grandson_Jayachamarajendra_Wadiyar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kempananjammanni Devi",
+   "credit": "Photo: Rajachandra at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maharani_Vani_Vilasa_with_grandson_Jayachamarajendra_Wadiyar.jpg"
+  },
+  "Mysore": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mysuru_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mysore",
+   "credit": "Photo: Sathyaprakash01, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mysuru_Montage.jpg"
+  },
+  "Kingdom of Mysore": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Kingdom_of_Mysore.svg/1280px-Flag_of_Kingdom_of_Mysore.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kingdom of Mysore",
+   "credit": "Photo: Samhanin, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Kingdom_of_Mysore.svg"
+  },
+  "Mysore Palace": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/1280px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mysore Palace",
+   "credit": "Photo: Muhammad Mahdi Karim, GFDL 1.2, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Morning.jpg"
+  },
+  "Parakala Matha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Temple_Office_near_Jagmohan_Palace.jpg/1280px-Temple_Office_near_Jagmohan_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Parakala Matha",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_Office_near_Jagmohan_Palace.jpg"
+  },
+  "Jaganmohan Palace": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/A_view_of_Jaganmohan_Palace.jpg/1280px-A_view_of_Jaganmohan_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jaganmohan Palace",
+   "credit": "Photo: hristopher J. Fynn, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Jaganmohan_Palace.jpg"
+  },
+  "St. Bartholomew's Church, Mysore": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Front_Bartholomew_Church_Mysore_Karnataka_Jan23_A7C_04866.jpg/1280px-Front_Bartholomew_Church_Mysore_Karnataka_Jan23_A7C_04866.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Bartholomew's Church, Mysore",
+   "credit": "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Bartholomew_Church_Mysore_Karnataka_Jan23_A7C_04866.jpg"
+  },
+  "Maharaja's Sanskrit College, Mysore": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Maharaja.Sanskrit_College.jpg/1280px-Maharaja.Sanskrit_College.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Maharaja's Sanskrit College, Mysore",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maharaja.Sanskrit_College.jpg"
+  },
+  "Dufferin Clock Tower": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/CLOCK_TOWER.jpg/1280px-CLOCK_TOWER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dufferin Clock Tower",
+   "credit": "Photo: Saraswatasri, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CLOCK_TOWER.jpg"
+  },
+  "Manasagangotri": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mysore_University_Gandhian_Studies.jpg/1280px-Mysore_University_Gandhian_Studies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Manasagangotri",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mysore_University_Gandhian_Studies.jpg"
+  },
+  "C V Rangacharlu Memorial Hall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Rangacharlu_Memorial_Hall_%28Town_Hall%29%2C_Mysore_%28b%29.jpg/1280px-Rangacharlu_Memorial_Hall_%28Town_Hall%29%2C_Mysore_%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "C V Rangacharlu Memorial Hall",
+   "credit": "Photo: Christopher J. Fynn, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rangacharlu_Memorial_Hall_(Town_Hall),_Mysore_(b).jpg"
+  },
+  "Jayachamarajendra Circle": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Selfie_Spot_at_Arugatu_junction_Mysore.jpg/1280px-Selfie_Spot_at_Arugatu_junction_Mysore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jayachamarajendra Circle",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Selfie_Spot_at_Arugatu_junction_Mysore.jpg"
+  },
+  "Chamaraja Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/217-Chamaraja_constituency.svg/1280px-217-Chamaraja_constituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chamaraja Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:217-Chamaraja_constituency.svg"
+  },
+  "Devaraja Market": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Devaraja_Market%2C_Mysore_%28306989724%29.jpg/1280px-Devaraja_Market%2C_Mysore_%28306989724%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Devaraja Market",
+   "credit": "Photo: Avinash Bhat, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Devaraja_Market,_Mysore_(306989724).jpg"
+  },
+  "Sayajirao Road": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Highway_Circle_Mysore.jpg/1280px-Highway_Circle_Mysore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sayajirao Road",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highway_Circle_Mysore.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kempananjammanni Devi",
+   "text": "Kempananjammanni Devi (4 July 1866 – 7 July 1934) was the Maharani of Mysore and later queen mother and regent of the Kingdom of Mysore.\nShe was the wife of Maharaja Chamarajendra Wadiyar X and the mother of Maharaja Krishnaraja Wadiyar IV. She was queen regent between 1895 and 1902, during the minority of Krishnaraja Wadiyar IV. She occupies as significant place in the annals of Mysore's history. Her contributions to the citizenry and her roles as maharani, regent, and queen mother to the young prince Yuvaraja Krishnaraja Wadiyar IV, have been commended.\n\n\n== Life ==\nKempananjammanni  was born in the village of Kalale near Mysore in 1866. She was married to the Maharaja Chamarajendra Wadiyar X on 26 May 1878 and assumed the suffix  Vani Vilasa Sannidhana as was the practice in Mysore Royal family . In 1881, the Rendition of Mysore Act 1881 was passed carried, restoring the government of the kingdom from British India back to the natural prince, who was now 18. The kingdom had been restored nearly after 50 years to the Wadiyars since the fall of Tipu in 1799 and the Commissioner's Rule in 1831 by British India. In 1884, Krishnaraja Wadiyar IV was born to the royal couple. In quick succession...",
+   "url": "https://en.wikipedia.org/wiki/Kempananjammanni_Devi"
+  },
+  {
+   "title": "Mysore",
+   "text": "Mysore (  my-SOR), officially Mysuru (Kannada: [ˈmaɪˈsuːɾu] ), is a city in the southern Indian state of Karnataka. It is the administrative headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Kingdom of Mysore for almost six centuries (1399 to 1947). Known for its heritage structures, palaces (such as the famous Mysore Palace), and its culture, Mysore has been called the \"City of Palaces\", the \"Heritage City\", and the \"Cultural capital of Karnataka\". It is the second-most populous city in the state and one of the cleanest cities in India according to the Swachh Survekshan.\nMysore is situated at the foothills of the Chamundi Hills. At an altitude of 770 m (2,530 ft) above mean sea level, the city of Mysore is geographically located at 12° 18′ 26″ north latitude and 76° 38′ 59″ east longitude. It is about 140 km (87.0 mi) southwest of the state's capital, Bangalore, and spreads across an area of 156 km2 (60 sq mi) (city and neighbouring census towns). The population of the city combined with its neighbouring towns in its metropolitan area is about 1,288,000 in 2023.\nMost of the city's development...",
+   "url": "https://en.wikipedia.org/wiki/Mysore"
+  },
+  {
+   "title": "Kingdom of Mysore",
+   "text": "The Kingdom of Mysore was a geopolitical realm in southern India founded in around 1399 in the vicinity of the modern-day city of Mysuru. Existing until 1950, the territorial boundaries and the form of government transmuted substantially throughout the kingdom's lifetime. While originally a feudal vassal under the Vijayanagara Empire, it became a princely state in the British Raj from 1799 to 1947, marked in-between by major political changes.\nThe kingdom, which was founded and ruled for the most part by the Wadiyars, initially served as a feudal vassal under the Vijayanagara Empire. With the gradual decline of the Empire, the 16th-century Timmaraja Wodeyar II declared independence from it. The 17th century saw a steady expansion of its territory and, during the rules of Narasaraja Wodeyar I and Devaraja Wodeyar II, the kingdom annexed large expanses of what is now southern Karnataka and parts of Tamil Nadu, becoming a formidable power in the Deccan.\nDuring the Muslim rule from 1761 to 1799, the kingdom became a sultanate under Hyder Ali and Tipu, often referring to it as Sultanat-e-Khudadad (transl. God gifted empire). During this time, it came into conflict with the Maratha Confederacy...",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Mysore"
+  },
+  {
+   "title": "Mysore Palace",
+   "text": "Mysore Palace, also known as Amba Vilas Palace, is a historic palace and royal residence located in Mysore, Karnataka, India. It served as the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore, and was commissioned by Krishnaraja Wodeyar IV in August 1897 following the destruction of the previous structure in a fire. The design of the palace is attributed to Henry Irwin, a British architect who had earlier designed the Madras High Court, and Edwin Wolleston Fritchley, who would later design the Lalitha Mahal. Construction of the current structure began in 1897 and was completed in 1912. It is one of the largest palaces in India, and is a prominent example of Indo-Saracenic architecture, combining Indo-Islamic, Rajput, Hoysala and Gothic architectural styles.\nThe land on which the palace now stands was recorded as the site of a small fort in the late 14th century. The first palace to occupy the location was built in the 17th century during the reign of Kanthirava Narasaraja I, and was destroyed and rebuilt multiple times. Since the early 19th century, the Mysore Dasara festival has been annually held on the palace grounds, culminating in an elephant procession...",
+   "url": "https://en.wikipedia.org/wiki/Mysore_Palace"
+  },
+  {
+   "title": "Parakala Matha",
+   "text": "Bramhatantra Swatantra Parakala Matha, commonly known as Parakala Matha, is a Hindu Sri Vaishnava monastery founded during the Hoysala Empire in 1268 at Mysore, Karnataka, primarily worshipping Vishnu and Lakshmi as Hayagriva and Vageesha. It is the first mediaeval era monastery of the Vadakalai denomination within Vaishnavism in the Hindu society and is the gurupeeta, the seat of the royal guru, of the maharajas of Mysore.\nOriginally founded in Mysore where its headquarters has been based, the matha  has branches across southern India and as well as one abroad.",
+   "url": "https://en.wikipedia.org/wiki/Parakala_Matha"
+  },
+  {
+   "title": "Jaganmohan Palace",
+   "text": "Sri Jayachamarajendra Art Gallery, commonly known by its former name Jaganmohana Palace, is a former royal mansion, arts museum and auditorium, and formerly an alternative royal residence of the ruling Maharaja of Mysore, located in Mysore, India, about 200m (600ft) to the west of Mysore Palace. Began in 1856 and completed in 1861, the palace is one of the oldest modern structures in Mysore.\nThe royal family would reside at the palace when renovations and construction works would be underway at Mysore Palace. The last time the palace was inhabited by the royal family was in 1897 when the old Mysore Palace burned down due to a fire accident. The ruling king at this time was Maharaja Krishnaraja Wadiyar IV.",
+   "url": "https://en.wikipedia.org/wiki/Jaganmohan_Palace"
+  },
+  {
+   "title": "St. Bartholomew's Church, Mysore",
+   "text": "St. Bartholomew's Church is an Anglican church, built by the Madras Government for the East India Company troops stationed in Kingdom of Mysore and is located in Lashkar Mohalla, on the Nilgiri Road, near the noisy Mysore sub-urban bus stand in Mysore City. The church grounds was consecrated on 29 November 1830 by Bishop Turner of Calcutta, (p. 327) and the building was completed in 1832.  The church is named after Saint Bartholomew, one of the 12 apostles of Jesus Christ, and is said to have visited India in the first century AD, and preached the Christian gospel in the Kalyan, Thane and Raigad regions of present-day Maharashtra.\nThe church services at the St. Bartholomew's Church are conducted in English.",
+   "url": "https://en.wikipedia.org/wiki/St._Bartholomew%27s_Church,_Mysore"
+  },
+  {
+   "title": "Maharaja's Sanskrit College, Mysore",
+   "text": "Srimanmaharaja Samskrita Graduation and Post Graduation Center is an educational institution located in Mysore, Karnataka, India.",
+   "url": "https://en.wikipedia.org/wiki/Maharaja%27s_Sanskrit_College,_Mysore"
+  },
+  {
+   "title": "Dufferin Clock Tower",
+   "text": "Dufferin Clock Tower is a historic relic and heritage structure of Mysore city in Karnataka province, India.",
+   "url": "https://en.wikipedia.org/wiki/Dufferin_Clock_Tower"
+  },
+  {
+   "title": "Manasagangotri",
+   "text": "Manasagangotri is a suburb of Mysore city in Mysore district of Karnataka state, India. Mysore University and its various departments are located in this area.",
+   "url": "https://en.wikipedia.org/wiki/Manasagangotri"
+  },
+  {
+   "title": "C V Rangacharlu Memorial Hall",
+   "text": "The Rangacharlu Memorial Hall, commonly known as Mysore Town Hall and colloquially referred to simply as the Town Hall, is a Neoclassical-styled public building that was constructed in 1884 in memory of the 14th Diwan of Mysore Sir C. V. Rungacharlu. He was a Dewan (chief minister) of Mysore who served from 1881 to 1883. The stone-built hall is a prominent example of late-19th-century colonial architecture in the city. It occupies a central location opposite the Mysuru Clock Tower on Ashoka Road and was long a focal point for civic and cultural gatherings. The construction was sponsored by Maharaja Chamarajendra Wadiyar X. Rungacharlu's successor Diwan Sir K. Sheshadri Iyer was the building's chief engineer and planner. The hall’s Neoclassical façade, with its Corinthian columns and decorative pediments, reflects the influence of Western architectural styles introduced under the Wodeyar monarchy. Over time the building served both as municipal offices and as an auditorium for public events. In the late 20th and early 21st centuries it underwent periodic renovations, but after decades of use it suffered neglect. Recent reports (2022–2024) indicate that extensive restoration efforts have...",
+   "url": "https://en.wikipedia.org/wiki/C_V_Rangacharlu_Memorial_Hall"
+  },
+  {
+   "title": "Jayachamarajendra Circle",
+   "text": "Jayachamarajendra Circle or Jayachamarajendra Wadiyar Circle, formerly known as Harding Circle or Arugatu is an intersection of six major roads in Mysore, Karnataka state, India.",
+   "url": "https://en.wikipedia.org/wiki/Jayachamarajendra_Circle"
+  },
+  {
+   "title": "Chamaraja Assembly constituency",
+   "text": "Chamaraja Assembly constituency is one of the 224 constituencies in the Karnataka Legislative Assembly and it is located in city of Mysuru in Karnataka in southern India. It is one of the 224 constituencies in the Karnataka Legislative Assembly. Chamaraja is also a part of Mysore Lok Sabha constituency. Mysore Palace, which is in the Chamaraja area, is a famous tourist attraction, and is known for its Dasara celebrations.",
+   "url": "https://en.wikipedia.org/wiki/Chamaraja_Assembly_constituency"
+  },
+  {
+   "title": "Devaraja Market",
+   "text": "Devaraja Market is a market located in Mysuru, India. One can buy flowers, fruits, and choose from conical piles of colorful Kumkum powder. Spices, sandalwood products, silk saris, essential oils, and incense are also available for purchase. The market is on Sayaji Rao Road. In 2017, there were 1,122 shops in the market employing over 3,000 people and receiving 8,000 to 10,000 visitors each day. It is a tourist attraction, and a popular place to take photos.\nThe market was constructed in 1886. It was initially a weekly market. The market was built above the Dewan Poornaiah Canal that supplied drinking water to Mysore Palace. It was named in 1925 after Dodda Devaraja Wadeyar. It is also known as Dodda market.\nIts area spans 3.67 acres. The market is bounded by a structure with wooden rafters and stone masonry walls that faces the street on all four sides. The north gate is on Devantri Road. The market is bounded by Sayaji Rao Road on the east side. The south gate faces Dufferin Clock Tower. Inside the market, there are open areas where vendors can sell their wares. The inner shops are arranged along three aisles that go through the entire market.\nThroughout the years, Devaraja Market...",
+   "url": "https://en.wikipedia.org/wiki/Devaraja_Market"
+  },
+  {
+   "title": "Sayajirao Road",
+   "text": "Sayyajirao Road, also known as Sayyaji Rao Road, is a road in Mysore, India stretching in the north from Agrahara circle at one end to Highway circle at the other. This road was named after Maharaja Sayajirao Gaekwad by Maharaja Chamaraja Wodayar X in 1893.",
+   "url": "https://en.wikipedia.org/wiki/Sayajirao_Road"
+  },
+  {
+   "title": "Lansdowne Building",
+   "text": "Lansdowne Building, initially called Range Bazaar, is a commercial complex and a heritage building in Mysore, India.\nThis over-a-century old building was built to facilitate basic needs in commercial spaces such as pharmacy, refreshment rooms, bookstalls, hotel, printing presses, desktop publishing, letter typing, stationery, photo framing and wallpaper outlets, and other business establishments. The structure was built using wood, iron, limestone and around 200 girders. Kannada poet D. V. Gundappa called it the \"ornamental festoon of the city\".",
+   "url": "https://en.wikipedia.org/wiki/Lansdowne_Building"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Mysore",
+  "text": "Mysore or Mysuru (ಮೈಸೂರು Maisūru) is the second-largest city of the Indian state of Karnataka after Bengaluru. It was the capital of the Wodeyar dynasty and is considered to be the cultural capital of Karnataka. Mysore is among the cleanest and best-planned cities in India. The regal city is striking a balance between olden times and modernity, resulting in the city being both old and new.\n\n\n== See ==\n1 Mysore Zoo (Sri Chamarajendra Zoological Gardens), Sri Chamarajendra Zoological Gardens, Zoo Main Road Indiranagar, ☏ +91 821 252 0302, zoomysore@gmail.com. Wed-Mon 8AM-5:30PM. The zoo was established under royal patronage in 1892, making it one of the oldest in the world. Mysore Zoo has had a successful breeding program and houses animals from more than 40 different countries, along with native Indian fauna, including Royal Bengal tigers, white tigers, elephants, fallow deer, Himalayan black bears, Gaur (Indian bison), white peafowl and African rhinos. The zoo is also home to many other exotic creatures from around the world, like Barbary sheep, giraffes, hippos and gorillas. The zoo encompasses Karanji Lake, which attracts several species of migratory birds during the breeding season, including painted storks, pelicans, and darters. Other attractions include the botanical garden with 35 species of exotic ornamental plants and 85 species of trees from India and abroad. Visitors can treat themselves to snacks and tender coconut that are available inside the zoo. Excellent mementoes are available in a souvenir shop. Vehicle parking is available in an open area opposite the zoo. The parking fee collected is ₹50 for buses, ₹30 for mini-buses or tempos, ₹10 for cars and ₹5 for two-wheelers. ₹40 for adults, ₹10 for children over 5, battery operated vehicle tour ₹100, ₹20 for camera and ₹50 for video camera (camcorder).  \n\n\n=== Palaces ===\n\n2 Mysore Palace. Definitely the number one attraction in Mysore. Intricately carved rosewood doors and ceilings, some with inlaid ivory work, marble figurines, collections of caskets, paintings of the members of the royal family and other objects of personal use exhibit such opulence, and over time have been preserved remarkably well. The guards quick out the public from the palace premises (gardens) around 18:00 to prepare for the 'light and sound' show in the evening. It starts at 19:00, lasts 40 minutes and is in Kannada language only, making it less interesting for foreigners, were it not for the impressive illumination of the whole palace at the end (19:40-45) with 100,000 bulbs. The ticket counter opens at 16:45 for the show (₹100). Entry is on the south side. You are required to leave your shoes outside before entering at a cost of ₹2 per pair. ₹100 for both Indian and foreign adults. (updated Oct 2024)\n3 Cheluvamba Mansion.  (updated Apr 2026)\n4 Chittaranjan Palace.  (updated Apr 2026)\n5 Jayalakshmi Vilas, Manasagangotri. Fri-Mon 10AM-5PM. It was built by Maharani Regent Vani Vilasa Sannidhana, wife of Chamaraja Wodeyar, for her daughter Jayalakshami. It has around 200 rooms, an exotic dancing hall and a Kalyanmantap with intricately carved wood pillars. It was converted into a museum and stores artefacts about local folk and performing arts, tools and objects of various artisans and other archaeological findings. Princess Jayalakshmi was married to her maternal uncle. Dewan Sir M. Kantha Raja Urs. After independence, their son-in-law, Sirdar K. Basavaraj Urs, sold the property to the University of Mysore to start its postgraduate centre, and the then Vice Chancellor, Dr K.V. Puttapa christened the place as Manasa Gangothri. (updated Apr 2026)\n6 Lalitha Mahal Palace, Lalitha Mahal Palace Rd, ☏ +91 80-40554055, info@junglelodges.com. Another palace that has been turned into a five-star hotel. It served as a royal summer residence for the Viceroy of India in the late 19th and early 19th century. You feel the antique-style grandeur and regality when you stay here. Guests should visit the hotel during the afternoon since it serves a great British high tea. It is situated close to the Chamundi Hills. \n\n\n=== Chamundi Hill ===\n\n7 Chamundeshwari Temple, Chamundi Hill Road (at the top of Chamundi Hills), ☏ +91 821-259-0027. A beautiful temple of Goddess Chamundeshwari (or Chamundi Devi) with marvellous architecture. Wheelchair access is available. AC Volvo buses go up to Chamundi Hill and back from the city bus stand every twenty minutes (Nr. 201, ₹20). If you want to take the steps (and snap a picture at the Chumandi Hill viewpoint), take either 203, 205 or 401A (₹10) and get off at JSS College, from where you walk 800 m to the bottom of the stairs. ₹30 regular entry, ₹100 VIP (no queue). (updated Oct 2024)\n Jwalamukhi Tiruparasundari Temple (Chamundi Sister Temple), Uttanahalli, Off Nanjangud Road (MCTD 203 from City bus stand). One of the old temples of Mysore, Jwalamukhi Tirupparasunadri, is also an incarnation of Goddess Parasakthi, the creator. As per legend, the demon Mahisasura had a boon that if anyone killed him and blood spilt on the ground, each drop of blood would create a Mahisasura. Hence, during the process of slaying the demon, Goddess Chamundi consulted the help of Devi Tripura Sundari, who ensured that the blood drops did not touch the ground, by drinking every single drop of the blood falling out. Thus, the demon was destroyed. The Goddess stayed on the foothills of the hills, ensuring protection to all the devotees around the town. (updated Feb 2018)\n8 Lookout View Point, Chamundi Hill (on the road that goes up the hill). The lookout provides an aerial view of Mysore, allowing you to see the entire white city and surrounding forest in all its glory. There are a few binoculars at the lookout point, though you would need to pay to use them. (updated Dec 2018)\n9 Rajendra Vilas.  (updated Apr 2026)\n\n\n=== Museums ===\n\n10 Folklore Museum. closed Sun. Founded in 1968 and located in the University of Mysore campus, the museum has over 6500 folk art and folklore articles on display and exhibits arts and crafts from all over the state of Karnataka. It is housed in Jayalakhmi Mansion situated at Manasa Gangotri. The museum has detailed exhibits of \"Yakshagana\" and \"Puppet art\". (updated Apr 2026)\n11 Jaganmohan Palace and Art Gallery (opposite City Bus Stand, Jagan Mohan Palace Road, Chamrajpura), ☏ +91 821 242 3693. daily 8:30AM-5:30PM. A former palace that has been converted into an art gallery and function hall. The palace for some time was home to the Wodeyar dynasty. The art gallery features paintings of many styles, including Mughlai, Mysorean and European. The most prominent works are those of Raja Ravi Varma, which are over 100 years old. A big part of the exhibition is comprised of very similar portraits of members of the Royal family. ₹60. (updated Apr 2026)\n12 Kalashree Seashell Museum. A museum with sculptures made of seashell and conch by Radha Mallappa, including the sculptures of Ganesha, Shiva, the Taj Mahal and St. Philomena's Church. (updated Apr 2026)\n13 Melody World Wax Museum, 1, Vihara Marga, Siddhartha Layout (near GST Bhavan), ☏ +91 8217624257, waxworldindia@gmail.com. Daily 9:30AM-7PM. Established in October 2010, this unique wax museum is based on musicians and musical instruments from all over the World. Exhibits a collection of over 100 life-size wax statues and over 1,500 types of musical instruments. ₹50. (updated Jun 2021)\n14 Mysore Sand Sculpture Museum. 150 sand sculptures on display. It is not worth visiting unless it is on your way to another location. (updated Apr 2026)\n15 Oriental Research Institute. Formerly known as the oriental library, it was started in 1891 and contains over 33,000 palm leaf manuscripts. \n16 Payana Museum.  (updated Apr 2026)\n17 Railway Museum (near the back gate of the railway station). Exhibits vintage locomotives as they were in use. The second of such museums was set up after the Rail Museum in Delhi. The major attraction of the museum is the wagon used by the Queen of Mysore. There is a small toy train. The museum is a small one and can be visited while arriving or leaving Mysore during working hours. (updated Apr 2026)\n18 Regional Museum of Natural History (near Nandhini Milk Dairy, back side of Postal Training Centre), ☏ +91 821 244 7046. 10AM-5PM (closed Mon). Has exhibits on plants, animals, and geology of the southern region of India. They conduct a show at intervals. They also have a cute watch tower for bird watching. The museum is situated in a beautiful garden. You can even visit the place just sit to in the gardens in the lush green surroundings. This facility is run by the central government of India. Free. (updated Apr 2026)\n\n\n=== Religious sites ===\n\n19 Datta Peetham (Sri Ganapati Sachchidananda Avadhoota Datta Peetham). An ashram in Mysore. It has beautiful gardens with bonsais among other plants. You can buy some herbal tea for an infusion, grown in the gardens. \n Buddha Temple (Ballal Circle). Two golden Buddhas,",
+  "url": "https://en.wikivoyage.org/wiki/Mysore"
+ },
+ "sights": [
+  {
+   "name": "Mysore Palace",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 12.30388888888889,
+   "lon": 76.65444444444445
+  },
+  {
+   "name": "Lansdowne Building",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.307481055360874,
+   "lon": 76.65261568337507
+  },
+  {
+   "name": "Chamaraja Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.309,
+   "lon": 76.656
+  },
+  {
+   "name": "Mysore",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.308611111111112,
+   "lon": 76.65305555555557
+  },
+  {
+   "name": "Maharaja's Sanskrit College, Mysore",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.30239,
+   "lon": 76.6517
+  },
+  {
+   "name": "C V Rangacharlu Memorial Hall",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.309795,
+   "lon": 76.655879
+  },
+  {
+   "name": "Parakala Matha",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 12.307438,
+   "lon": 76.650846
+  },
+  {
+   "name": "Jayachamarajendra Circle",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 12.307065,
+   "lon": 76.6602
+  },
+  {
+   "name": "St. Bartholomew's Church, Mysore",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.3101246,
+   "lon": 76.6573182
+  },
+  {
+   "name": "Dufferin Clock Tower",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.30953,
+   "lon": 76.65227
+  },
+  {
+   "name": "Jaganmohan Palace",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.3068366,
+   "lon": 76.649861
+  },
+  {
+   "name": "Manasagangotri",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 12.3021,
+   "lon": 76.65007
+  },
+  {
+   "name": "Sayajirao Road",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 12.311035586078425,
+   "lon": 76.65237304759924
+  },
+  {
+   "name": "Devaraja Market",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 12.3111,
+   "lon": 76.652
+  },
+  {
+   "name": "Kingdom of Mysore",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 12.3,
+   "lon": 76.65
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

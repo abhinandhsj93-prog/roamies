@@ -1,0 +1,107 @@
+{
+ "query": "Dudhsagar Falls",
+ "found": "Dudhsagar Falls, Dharbandora, Kushavati, Goa, India",
+ "lat": 15.3156176,
+ "lon": 74.3142493,
+ "fetchedAt": "2026-10-12T19:47:46.222Z",
+ "locality": {
+  "id": "dharbandora-kushavati-goa",
+  "name": "Dharbandora",
+  "area": "Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Dharbandora": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dharbandora.png/1280px-Dharbandora.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dharbandora taluka",
+   "credit": "Photo: Vn14, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharbandora.png"
+  },
+  "Dharbandora taluka": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dharbandora.png/1280px-Dharbandora.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dharbandora taluka",
+   "credit": "Photo: Vn14, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharbandora.png"
+  },
+  "Dudhsagar Falls": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Doodhsagar_Fall.jpg/1280px-Doodhsagar_Fall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dudhsagar Falls",
+   "credit": "Photo: Hsp wiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doodhsagar_Fall.jpg"
+  },
+  "Dudh Sagar railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Doodh_sagar_Railway_station.jpg/1280px-Doodh_sagar_Railway_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dudh Sagar railway station",
+   "credit": "Photo: Chaitanya varma, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doodh_sagar_Railway_station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Dharbandora taluka",
+   "text": "Dharbandora is a taluka in the Kushavati district of Goa state, India, with an estimated population of 30,000 to 40,000.\n\n\n== History ==\nThe creation of a new Dharbandora Taluka, the 12th Taluka in Goa, was announced by the Chief Minister of Goa Digambar Kamat on 25 March 2010, in his budget speech before the Goa Legislative Assembly. A Committee chaired by the Revenue Minister of Goa Jose Philip D'Souza steered the creation of the Taluka.\nBy a 16 March 2011 notification, the Government of Goa notified the 18 villages of Aglote, Bandoli, Camarconda, Caranzol, Codli, Colem, Cormonem, Darbandora, Gangem, Molem, Moissal, Piliem, Sancordem, Sangod, Sigao, Sonauli, Surla and Usgao to incorporate the Dharbandora Taluka. Gangem and Usgao were carved out from Ponda taluka while all the remaining villages were earlier a part of the Sanguem Taluka. However, there was resistance from the people of Gangem and Usgao villages against the decision of including both villages in the Dharbandora Taluka. Vide another notification dated 20 May 2011, the villages of Gangem and Usgao were reverted to Ponda taluka.\nDharbandora Taluka came into existence as a part of the South Goa district on 4 April 2011....",
+   "url": "https://en.wikipedia.org/wiki/Dharbandora_taluka"
+  },
+  {
+   "title": "Dudhsagar Falls",
+   "text": "Dudhsagar Falls (lit. 'Sea of Milk') is a four-tiered waterfall on the Mahadayi River in the Indian state of  Goa. It is 60km from Panaji by road and is located on the Belagavi–Vasco Da Gama rail route about 46km east of Madgaon and 80km south of Belagavi\n. Dudhsagar Falls is perched at the top of a crescent shaped valley and surrounded by pristine forests, and it is amongst India's tallest waterfalls with a height of 310 m (1017 feet) and an average width of 30 metres (100 feet).",
+   "url": "https://en.wikipedia.org/wiki/Dudhsagar_Falls"
+  },
+  {
+   "title": "Sonalium railway station",
+   "text": "Sonalium Railway Station is a small railway station in Kushavati district, Goa. Its code is LIM. It serves Sonalium village. The station consists of a single platform. The platform is not well sheltered. It lacks many facilities including water and sanitation. This station is one of three in Braganza Ghats.",
+   "url": "https://en.wikipedia.org/wiki/Sonalium_railway_station"
+  },
+  {
+   "title": "Dudh Sagar Water Falls railway station",
+   "text": "Dudhsagar Waterfalls Railway Station (Station code: DWF) is a small railway station in Kushavati district, Goa. It serves the Dudhsagar Falls. The station consists of a single platform. The platform is not well sheltered. It lacks many facilities, including water and sanitation. This station is one of three in the Braganza Ghats.",
+   "url": "https://en.wikipedia.org/wiki/Dudh_Sagar_Water_Falls_railway_station"
+  },
+  {
+   "title": "Dudh Sagar railway station",
+   "text": "Dudh Sagar Railway Station (Station code: DDS) is a small railway station in South Goa district, Goa. It serves Dudh Sagar village. The station consists of one platform. The platform is not well sheltered. It lacks many facilities, including water and sanitation. This station is one of three in the Braganza Ghats.",
+   "url": "https://en.wikipedia.org/wiki/Dudh_Sagar_railway_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Goa",
+  "text": "Goa (Konkani: गोंय / Gõy, Marathi: गोवा Govā), a state on India's west coast, is a former Portuguese colony with a rich history. Spread over 3,700 km² with a population of approximately 1.4 million, Goa is small by Indian standards. It has a unique mix of Indian and Portuguese cultures and architecture that attracts an estimated 2.5 million visitors each year (including about 400,000 foreign tourists). This has given the state a nickname, 'The Party State'.\nGoa is blessed with waterfalls (Dudhsagar, Amboli, Mangeli, Dodamarg) and ghats. Since the 1960s, Goa has been attracting a steady flow of visitors: first the hippies and returning expatriate Goans, then the charter tourists (starting with the Germans in 1987), pilgrims visiting Catholic and Hindu shrines, those opting to settle in Goa as their home, people going for medical treatment, and a growing number who attend seminars and conferences in Goa.\n\n\n== See ==\n\n\n==== Art & culture ====\nGoa has more than its fair share of museums, art galleries and libraries. You will find many government run museums in Panaji, including the Goa State museum, the Kala Academy, the Central Library and the Goa Science Centre. In Vasco da Gama, you can find the Naval Aviation Museum, a great place to see vintage aircraft.\nOld Goa is a great place to see examples of Christian religious art, and sometimes, secular art. There you can find the Christian Art Museum and also a modern art gallery containing the works of surrealist Dom Martin. In Mormugao, you can find the Religious Museum of the Blessed Joseph Vaz. The Xavier Centre of Historical Research at Bardez also has a gallery on Christian Art.\nAttracted by Goa's bohemian life, many artists, painters and architects have made their home here. They too have proceeded to set up art galleries and museums. An example of this is Subodh Kerkar's art gallery in Candolim. Benaulim also has the Goa Chitra Museum, containing the largest collection of ethnographic artifacts ever assembled in one place.\n\nOther museums of note are Gerard da Cunha's architectural museum Houses of Goa in Benaulim, Big Foot(aka Ancestral Goa) at Loutolim, Salcete, an attempt to illustrate and recreate Goa's traditional past. There's even a vintage-cars collection of sorts -- Ashvek Vintage World, in Nuvem, Salcete\nThe Latin Quarter of Panjim or Fontain has many heritage buildings, some preserved in their original condition.\n\n\n==== Beaches ====\nGoa is famous for its beaches, ancient temples and churches, and the Goan carnival.\n\nAgonda — also known as Turtle Beach, in the south.\nAnjuna beach — close to the Chapora Fort, its key attraction is a magnificent Albuquerque Mansion built in 1920, flanked by octagonal towers and \n== Do ==\nCarnival. Held in mid-February, just before Lent, the four-day event features lively processions, floats, the strumming of guitars, graceful dances and non-stop festivity.\nDiving — the season is between mid-October to mid-May. Diving is not possible during the monsoons in India (June till mid-October). The water temperature is 27-30⁰ C. The local diving consists of dive sites around Grande Island, just off the coast near Vasco da Gama. The dive sites are mostly 12-16 m deep, and visibility varies through the season with an average of around 5-6 m. Marine life is abundant, with many species of reef fish, hard and soft coral, and several shipwrecks to dive. Several dive centres conduct PADI courses and organize dive trips to Pigeon Island (also known locally as Netrani Island) in the neighbouring state of Karnataka.\nJet-ski — with banana ride, bumper ride and parasailing. Head to Anjuna /Baga / Calangute beach during daytime and you will find many small groups of vendors offering these. If in a small group, with adequate bargaining and luck, you can bargain to around ₹1,000 - 1500 (season) and a little lesser in the off-season for a 1 short round jet-ski ride, 5-min banana ride, 5-min bumper ride and a 1 min para-sailing session per person. These activities are also available on less popular beaches and you could get a bargain there as compared to popular beaches where demand exceeds supply.\nKitesurfing — not the best place in the world to try kite surfing, but it still has something to offer. Check Morjim, Arambol and Aswem beaches in North Goa. You can find instructors in Morjim, that take ₹8,000-12,000 for beginners course. The season starts in January, you can expect 1-2 windy days a week during January and February, and 2-3 days a week during March. Most peo\n== Eat ==\n\nThe Goan staple diet consists of rice and fish curry, along with pickles and fried fish. This can be found on many of the beach shacks. The Goan cuisine is a blend of Portuguese and local flavours. Many dishes such as prawn balchao and kingfish in garlic have distinct Portuguese flavour. The cuisine is mostly seafood based, the staple foods are rice and fish. Kingfish (vison or visvan) is the most common delicacy, others include pomfret, shark, tuna, and mackerel. Among the shellfish are crabs, prawns, tiger prawns, lobster, squid, and mussels.\n\n \nDishes such as vindaloo, dopiaza, xacuti (pronounced \"chacuti\") and cafreal will be familiar from Indian restaurant menus abroad, and are typical Goan dishes. Bebinca is a traditional Goan layered pudding which can be found \"homemade\" at certain hotels. Although vindaloo is usually made from beef at Indian restaurants in the West, in Goa vindaloo is usually made from pork. Serradura is a Portuguese dessert found exclusively in Goa and hence a must try.\nMost beaches have shacks that serve surprisingly delicious meals, especially seafood. They will typically consult you to see how you like your food. Don't miss the shack eating experience. \nMost fancy hotels and restaurants serve terrible food. Therefore, it is best to eat at local places; ask a taxi driver where these would be and don't let him take you to any fancy restaurants as they receive commission.\n\n\n== Drink ==\n\nFor a destination which tends to be costlier -- in almost everything -- than the rest of India, Goa has liquors and wines that are priced noticeably low. Products available range from wine (red and white), to the oddly-named Indian-made foreign liquors (IMFLs, which include whisky, brandy, rum, gin, vodka and more), and local liquors (basically cashew and coconut feni). Prices of domestic products range from ₹40 to ₹350 per bottle.\n\n\n=== Feni ===\nThere are two local brews long made and drunk in Goa: cashew feni and coconut feni. One comes from the cashew apple, and the other from the sap of the coconut tree.\nFeni-brewing skills have been honed by Goa's former Portuguese rulers. The cashew was brought in by the Portuguese, and today it is integral to Goan society and the economy. Cashew-apples go to waste in neighbouring states, so they are imported from nearby Maharashtra into Goa.\nFeni has come to become synonymous with Goa. Cashew Feni has been accorded protection as a Geographical Indication so it can be made only in Goa.\nFeni has a strong taste, and some like it but some don't. At one of the liquor outlets in Panjim, you can run into bus-loads of tourists picking up souvenirs of feni.\n\n\n=== Wine and other products ===\nOf course, there are a range of other options too. Local wines are priced at between ₹40-150 per bottle. Goa hosts the \"Grape Escape\", a festival of wines, around the start of each year, often held in mid-February.\nDo try Urrak. It's a local drink with smoky flavour. Ask for it at local bars. It's a summer drink, with a refreshing taste and light alcohol.\nIn terms of local products, Madame Rosa has also been diversifying into coffee and other liqueur. Flavours include mango, anise, almond and chocolate mint. PVV (Pedro Vincent Vaz), anothe",
+  "url": "https://en.wikivoyage.org/wiki/Goa"
+ },
+ "sights": [
+  {
+   "name": "Dudhsagar Falls",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 15.31277,
+   "lon": 74.31416
+  },
+  {
+   "name": "Dudh Sagar Water Falls railway station",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.3128,
+   "lon": 74.3127
+  },
+  {
+   "name": "Dudh Sagar railway station",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 15.3166,
+   "lon": 74.3064
+  },
+  {
+   "name": "Sonalium railway station",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 15.3094,
+   "lon": 74.2986
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

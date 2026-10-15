@@ -1,0 +1,95 @@
+{
+ "query": "Kumily, Idukki",
+ "found": "Kumily, Peerumade, Idukki, Kerala, 685509, India",
+ "lat": 9.6067952,
+ "lon": 77.1671018,
+ "fetchedAt": "2026-10-12T17:47:31.238Z",
+ "locality": {
+  "id": "valiyakandam-idukki-kerala",
+  "name": "Valiyakandam",
+  "area": "Kumily, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {},
+ "wikipedia": [],
+ "wikivoyage": {
+  "title": "Kumily",
+  "text": "Kumily (Malayalam: കുമളി Kumaḷi) is a town in Kerala State in South India.  It is in the Cardamom Hills near Thekkady and the Periyar Tiger Reserve, in the Idukki District.\n\n\n== See ==\n Chellarkovil.  \n1 Cheruthoni.  \n Hill View Park.  \n2 Idukki Arch Dam. This is the world's second and Asia's first arch dam. \n3 Idukki Wildlife Sanctuary, Idukki. \n4 Kurishumala Church, Vagamon.  \n Spice fields.  \n5 Thekkady Wildlife Sanctuary (Periyar National Park and Wildlife Sanctuary).  \n6 Vandiperiyar.  \n7 Vagamon. A nice place to visit, with pine trees to explore! (updated Jun 2017)\nKollampattada, Kumily\n\n\n== Do ==\n Spices. Enjoy the Spicy flavours of Kerala. Walk among the cardamom plantations. Shop for spices. \n jeep safari. The safari here is quite bad, you pay rate for whole car, price starting at ₹2000-3000 per car (2023). It consists of a 2-hour drive through Vandiperiyar to the \"safari\" place and 1 hour in nature. No chance of animals, it is really rare to see them far in horizon, there are too many people and too much noise. It is recommended for people who like the crazy off-road. It is better to go by walking because you can at least enjoy the scenery then. \n boat safari. Better chances of animals you will get in morning with the boat ride from thekkady. ₹500 is entry fee to the reservation and ₹225 is for the 1.5h boat ride on periyar lake. (2023) \n\n\n== Eat ==\nLord's Family Restaurant on the main road of Kumily, in the center. The \"Navrathan Kurma\" is wonderful.\n Spice Village (Buffet Restaurant).  (updated Jun 2015)\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Kumily"
+ },
+ "sights": [
+  {
+   "name": "Lourdes Roman Catholic Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 9.6058629,
+   "lon": 77.1671432
+  },
+  {
+   "name": "Brethren Assembly",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 9.6089151,
+   "lon": 77.1671068
+  },
+  {
+   "name": "Ganapathy Bhadrakali Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 9.6088211,
+   "lon": 77.1688826
+  },
+  {
+   "name": "St George Orthodox Valiapally",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 9.6041017,
+   "lon": 77.16733
+  },
+  {
+   "name": "St George Orthodox Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 9.6040535,
+   "lon": 77.1669798
+  },
+  {
+   "name": "Ebenezer India Gospel Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 9.6092636,
+   "lon": 77.1648613
+  },
+  {
+   "name": "APOSTOLIC CHURCH OF PENTACOST",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 9.6095717,
+   "lon": 77.1640822
+  },
+  {
+   "name": "Ayyappan Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 9.6071465,
+   "lon": 77.1622793
+  },
+  {
+   "name": "ICF Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 9.6092805,
+   "lon": 77.160766
+  },
+  {
+   "name": "Point for entering Periyar Tiger Reserve without ticket",
+   "kind": "attraction",
+   "walkMinutes": 15,
+   "lat": 9.601541,
+   "lon": 77.1737706
+  }
+ ],
+ "food": [],
+ "errors": []
+}

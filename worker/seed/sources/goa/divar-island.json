@@ -1,0 +1,82 @@
+{
+ "query": "Divar Island",
+ "found": "Divar Island, Piedade, Tiswadi, North Goa, Goa, India",
+ "lat": 15.5250877,
+ "lon": 73.9078163,
+ "fetchedAt": "2026-10-12T19:34:53.105Z",
+ "locality": {
+  "id": "sao-matias-north-goa-goa",
+  "name": "São Matias",
+  "area": "Tiswadi, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "São Matias, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f4/S%C3%A3o_Matias_Igreja%2C_S%C3%A3o_Matias_%28Malar%29%2C_Divar.jpg/1280px-S%C3%A3o_Matias_Igreja%2C_S%C3%A3o_Matias_%28Malar%29%2C_Divar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "São Matias, Goa",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_Matias_Igreja%2C_S%C3%A3o_Matias_(Malar)%2C_Divar.jpg"
+  },
+  "Naroa, Ilhas, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a1/Chapel_of_Our_Lady_of_Candelaria%2C_Naroa%2C_Ilhas%2C_Goa.jpg/1280px-Chapel_of_Our_Lady_of_Candelaria%2C_Naroa%2C_Ilhas%2C_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Naroa, Ilhas, Goa",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chapel_of_Our_Lady_of_Candelaria%2C_Naroa%2C_Ilhas%2C_Goa.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "São Matias",
+   "text": "São Matias may refer to:\n\nSão Matias, Goa, a village on Divar island, Tiswadi, in the Indian state of Goa\nSão Matias (Beja), a parish of Beja Municipality, in southeast Portugal",
+   "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Matias"
+  },
+  {
+   "title": "Divar",
+   "text": "The island of Divar (formerly Piedade) (Konkani: Divaddi, pronounced [d̪iːwaːɽiː]) (derived from the word Dipavati or 'small Island' in Konkani) lies in the Mandovi river in the Indian state of Goa.\nIt is one of six major islands within the Mandovi, the others being:\n\nIlha de Goa,\nChorão,\nVanxim,\nCumbarjua,\nSt Estevam and\nSeveral other small mangrove islands and sand banks.",
+   "url": "https://en.wikipedia.org/wiki/Divar"
+  },
+  {
+   "title": "São Matias, Goa",
+   "text": "São Mathias also known as Malar is a village on Divar Island, Tiswadi or Ilhas, in the Indian state of Goa. The island is located 10 km upriver from Panjim.\nA ferry connects São Mathias to the island village of Vanxim; also part of the São Mathias Panchayat. The Konkan Railway passes through São Mathias, the nearest stop on the mainland is the train station at Carambolim. Ferry Connection from Narva to Narva- Bicholim, also Ferry Connection from the Island to Old Goa, and Ribandar.\nSão Matias is surrounded by Piedade and Panjim towards west, Ponda towards East, Margão Taluk towards South. This Place is in the border of the North Goa District and South Goa District. It is near to Arabian Sea so there is a chance of humidity in the weather.\nThe São Mathias Church was built by the Portuguese over 400 years ago. The St Mathias Sports Club is situated on the main road of the village.\n\n",
+   "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Matias,_Goa"
+  },
+  {
+   "title": "Naroa, Ilhas, Goa",
+   "text": "Naroa is a village located on the eastern tip of the island of Divar, in the Indian state of Goa. It has a population of barely a thousand people, with about 80 houses.\nThe Island subsequently became the residence place of many dignified families of Goa. It also houses three parochial churches and possesses a chapel of two images of Christ held in great veneration by the Catholics of the place. The ruins of a fort are evident in the northern part of the village.",
+   "url": "https://en.wikipedia.org/wiki/Naroa,_Ilhas,_Goa"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Tiswadi",
+  "text": "Tiswadi is in North Goa.\n\n\n== See ==\n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Tiswadi"
+ },
+ "sights": [
+  {
+   "name": "Divar",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 15.525444444444444,
+   "lon": 73.89997222222223
+  },
+  {
+   "name": "São Matias, Goa",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 15.527638888888887,
+   "lon": 73.91633333333334
+  },
+  {
+   "name": "Naroa, Ilhas, Goa",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 15.530976,
+   "lon": 73.923163
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

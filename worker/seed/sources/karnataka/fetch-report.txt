@@ -1,0 +1,5 @@
+Nandi Hills -> Sultanapete: 1 wiki, no voyage, 1 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504
+Ranganathittu Bird Sanctuary -> Palahalli: 3 wiki, no voyage, 1 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Bandipur -> Mangala: 4 wiki, no voyage, 2 sights, 0 food, 4 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Kabini -> Bidarahalli: 2 wiki, no voyage, 0 sights, 0 food, 1 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504
+Jog Falls -> Kargal: 3 wiki, no voyage, 1 sights, 0 food, 3 photos, errors overpass sights: overpass-api.de 504

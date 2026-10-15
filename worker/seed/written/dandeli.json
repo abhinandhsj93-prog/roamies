@@ -1,0 +1,77 @@
+{
+ "query": "Dandeli",
+ "region": "karnataka",
+ "name": "Dandeli",
+ "draft": {
+  "briefing": "Hey, you're in Dandeli! This small Western Ghats town sits on the River Kali, and its class 3 rapids make it one of the best places around for white water rafting.",
+  "hungryLine": "Grab a kachori or samosa, they're super famous here, and wash it down with a kokum sherbet or a masala soda.",
+  "moodReplies": {
+   "show-me-around": "Head out to the ancient Kavala Caves, about 25 km away, or the Kulgi Nature Camp with its little museum and nature centre.",
+   "somewhere-to-chill": "Take a coracle ride on the Kali and keep your eyes open for crocodiles and hornbills.",
+   "surprise-me": "The museum at Kulgi Nature Camp has the stuffed remains of a 13-ft king cobra that was caught in this area."
+  },
+  "seeFirst": {
+   "caption": "Short drives from town",
+   "spots": [
+    {
+     "name": "Kavala Caves",
+     "detail": "25 km away · Ancient caves revered as the abode of Lord Shiva",
+     "status": {
+      "text": "Lots of steps through dense forest",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kulgi Nature Camp",
+     "detail": "14 km from Dandeli National Park · Small museum and a 2 km birder's trail",
+     "status": {
+      "text": "Book ahead, it's not a walk-in",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kavala Caves",
+    "title": "Shiva's forest home",
+    "body": "Locals revere the Kavala caves as the abode of Lord Shiva. Getting there means climbing thousands of steps through thick forest, which feels like part of the pilgrimage."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Set aside half a day for rafting.",
+    "body": "The Kali rafting route runs around 9 to 14 km over class III rapids and takes about 2 to 3 hours, sometimes more."
+   },
+   {
+    "icon": "tag",
+    "title": "Sort out Kulgi in advance.",
+    "body": "Stays at Kulgi Nature Camp are booked through the Forest Conservator's office ahead of time, and meals are charged separately."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Caves in the forest",
+    "body": "Deep in the forest about 25 km from town are the ancient Kavala caves. People have long revered them as the home of Lord Shiva.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Over the years",
+    "title": "An industry town grows",
+    "body": "Industries came up in Dandeli, and people moved here from across India to work in them. That's why the town has such a mixed crowd.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Tigers and rapids",
+    "body": "Dandeli is known for its wildlife sanctuary and is proud of being one of the tiger projects. It's also a gateway to the Kali Tiger Reserve and a favourite for rafting and kayaking on the Kali.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

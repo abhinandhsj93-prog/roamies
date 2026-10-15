@@ -1,0 +1,103 @@
+{
+ "query": "Muvattupuzha, Ernakulam",
+ "region": "kerala",
+ "name": "Muvattupuzha",
+ "draft": {
+  "briefing": "Hey, you're in Muvattupuzha! The name means three rivers, and you can walk to Thriveni, the spot where they meet. Right at that confluence is the ancient Puzhakkarakavu Devi Temple that gave the town its name.",
+  "hungryLine": "Expect Kerala meals with lots of curries and fish fry, and if you're curious, toddy shops serve all sorts of meat and fish alongside.",
+  "moodReplies": {
+   "show-me-around": "Start at the Holy Magi Forane Church, walk to the Puzhakarakavu Devi Temple, then on to Thriveni Sangamam where the rivers join.",
+   "somewhere-to-chill": "Take a vallom, a country boat, across the river, or walk the banks where fishermen sell their catch.",
+   "surprise-me": "The Thodupuzha River here rarely runs dry in summer, because water from the Idukki hydro-electric project drains into it."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Holy Magi Forane Church",
+     "detail": "7 min walk · A grand church by the Thodupuzha river",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Puzhakarakavu Devi Temple",
+     "detail": "10 min walk · The ancient temple at the river confluence",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Thriveni Sangamam",
+     "detail": "12 min walk · Where three rivers become one",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thiruvumplavil Maha Deva Kshethram, Anicadu",
+    "title": "The cow's footprint spring",
+    "body": "Water flows out of a hole in the rock shaped like a cow's hoof, and it's considered holy. It fills the temple pond."
+   },
+   {
+    "where": "Kadamattom St. George's Church",
+    "title": "Kadamattathu Kathanar",
+    "body": "This church is famous for its links to Aabu father and Kadamattathu Kathanar. It sits in the country around Muvattupuzha."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch a temple festival.",
+    "body": "Puzhakkarakavu's 10-day festival ends on 26 December, and Sree Kumara Bhajana Devaswom holds its 8-day festival in February."
+   },
+   {
+    "icon": "tag",
+    "title": "Leave the meat outside.",
+    "body": "Non-vegetarian food isn't allowed on the grounds of the Nettorkottu Bhagavathi Temple."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Temple at the confluence",
+    "body": "The ancient Puzhakkarakavu Devi Temple stands where three rivers meet. That meeting gave the town its name, Muvattupuzha.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1927",
+    "title": "A mosque opens",
+    "body": "Land for the Central Mahallu Juma Masjid was bought in early 1927, and the first Friday prayer was held there on 19 February. It sits beside the Kavumkara market.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2009",
+    "title": "A seat dissolved",
+    "body": "The Muvattupuzha Lok Sabha constituency was dissolved to make way for the new Wayanad constituency.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2011",
+    "title": "A river town",
+    "body": "The census counted 30,397 people in Muvattupuzha, which sits where the MC Road meets National Highway 49.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Your turn",
+    "title": "Follow the rivers",
+    "body": "Walk to Thriveni, take a vallom across and watch the fishermen. Tell me which river you think is the prettiest.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

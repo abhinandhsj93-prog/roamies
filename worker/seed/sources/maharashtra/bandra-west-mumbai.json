@@ -1,0 +1,260 @@
+{
+ "query": "Bandra West, Mumbai",
+ "found": "Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India",
+ "lat": 19.0583358,
+ "lon": 72.8302669,
+ "fetchedAt": "2026-10-12T18:49:37.038Z",
+ "locality": {
+  "id": "khar-mumbai-suburban-district-maharashtra",
+  "name": "Khar",
+  "area": "Mumbai, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Jogger's Park": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Joggerspark.JPG/1280px-Joggerspark.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jogger's Park",
+   "credit": "Photo: Mehulsg, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joggerspark.JPG"
+  },
+  "Mumbai Suburban district": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/ICICI_Towers%2C_BKC_%28289443859%29.jpg/1280px-ICICI_Towers%2C_BKC_%28289443859%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mumbai Suburban district",
+   "credit": "Photo: Rakesh from Bangalore, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICICI_Towers,_BKC_(289443859).jpg"
+  },
+  "Khar, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Carter_Road%2C_Khar_End.jpg/1280px-Carter_Road%2C_Khar_End.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Khar, Mumbai",
+   "credit": "Photo: Scrollstroll, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carter_Road,_Khar_End.jpg"
+  },
+  "St. Andrew's Church, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/St_Andrew%27s_Church%2C_Bandra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "St. Andrew's Church, Mumbai",
+   "credit": "Photo: Anuradha Sengupta, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_Church,_Bandra.jpg"
+  },
+  "Lilavati Hospital and Research Centre": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Lilavati_Hospital%2C_Bandra.jpg/1280px-Lilavati_Hospital%2C_Bandra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Lilavati Hospital and Research Centre",
+   "credit": "Photo: Nicholas (Nichalp), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lilavati_Hospital,_Bandra.jpg"
+  },
+  "Vandre West Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/177-Vandre_West.svg/1280px-177-Vandre_West.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vandre West Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:177-Vandre_West.svg"
+  },
+  "Bandra Talao": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bandra_talao1.JPG/1280px-Bandra_talao1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bandra Talao",
+   "credit": "Photo: Karthik Nadar, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bandra_talao1.JPG"
+  },
+  "Church of Our Lady of Mount Carmel, Bandra": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mount_Carmel_Church_Facade.jpg/1280px-Mount_Carmel_Church_Facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Church of Our Lady of Mount Carmel, Bandra",
+   "credit": "Photo: Trinidade, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Carmel_Church_Facade.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Khar",
+   "text": "Khar may refer to:\n\n\n== Places ==\nKhar, Mumbai, a suburb of Mumbai, India\nKhar, Punjab, a town in the Punjab Province, Pakistan\nKhar, Bajaur, a town in the Bajaur Agency of Khyber Pakhtunkhwa Province, Pakistan\nKhar, Nepal, a village in Darchula District, Nepal\n\n\n== Names ==\nKhar (tribe) a  tribe in South Punjab\nHina Rabbani Khar (born 1977), foreign minister of Pakistan\nGhulam Mustafa Khar (born 1937), former governor of Punjab province in Pakistan\n\n\n== Other uses ==\nKHAR, a radio station in Anchorage, Alaska, United States\nKhar, an Ancient Egyptian unit of measurement used for volume\nKhar, an Ancient Egyptian term used to designate the geographical region encompassing Canaan and Syria\n\n\n== See also ==\nKhar Lake (disambiguation)\nKhara (disambiguation)\nKar (disambiguation)",
+   "url": "https://en.wikipedia.org/wiki/Khar"
+  },
+  {
+   "title": "Jogger's Park",
+   "text": "Jogger's Park is a seaside jogging track along with a park, in Bandra, Mumbai. It is situated at the southern end of Carter Road. The park was opened to the public on 27 May 1990 and receives more than 2,000 visitors on weekdays and double the number on Sundays. Its jogging track is 400 metres long. It features a mud strip for running and two paved tracks for walking or jogging.\nDevelopment of the park is credited to the city's veteran hockey coach and former corporator, Oliver Andrade. Andrade's effort to rope in film star Dilip Kumar and Sunil Dutt, transformed the site from a dumping ground into a jogging track. The movie stars fund raising efforts led to financial assistance from the Rahejas, the Lokhandwalas, and the Rizvi builders at a cost of ₹4 crore.\nOn 11 February 2022, the BMC passed a proposal to rename the Jogger's Park as Sir Oliver Andrade Park.",
+   "url": "https://en.wikipedia.org/wiki/Jogger%27s_Park"
+  },
+  {
+   "title": "St. Stanislaus High School",
+   "text": "St. Stanislaus High School is a private  primary and secondary school for boys located in Bandra, Mumbai, Maharashtra, India. Established in 1863 by German Jesuit priests as an orphanage, it has since evolved into a comprehensive institution serving both day students and boarders, with over 2,300 students from kindergarten to grade 10. The school is spread over a campus of approximately seven acres (three hectares), making it one of the largest schools (by area) in Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/St._Stanislaus_High_School"
+  },
+  {
+   "title": "Mumbai Suburban district",
+   "text": "Mumbai Suburban district (Marathi: Mumbai Upanagar Jilhā) is the second most populous district of Maharashtra in the Konkan Division. With its administrative headquarters in Bandra, the district consists of three subdivisions or tehsils (townships): Kurla, Andheri, and Borivali. The district along with Mumbai City district and other suburban localities make up Greater Mumbai. The district occupies an area of 446 km2 on Salsette Island.\nThis is the second smallest district of Maharashtra, and the jurisdiction of Mumbai Suburban district extends from Bandra to Dahisar, from Kurla to Mulund, and from Kurla up to Trombay creek. The district is one of the largest in the country by population. The current population is 9,356,962, according to the 2011 census of India, making it the fifth most populous district in India (out of 672). The Mithi River is the main river in the district.",
+   "url": "https://en.wikipedia.org/wiki/Mumbai_Suburban_district"
+  },
+  {
+   "title": "Hill Road, Mumbai",
+   "text": "Hill Road (officially renamed as Ramdas Nayak Road) is an arterial road in Bandra (West), Mumbai, India. It starts from the intersection of Bandra railway station road and Swami Vivekanand Road (SV Road) and goes west up to Mehboob Studio, leading to the Bandstand Promenade, the Bandra Fort, and Mount Mary Church, Bandra. Hill Road houses a number of old and new brands.the shops on hill road are closed on Friday.\nThe 165-year-old St. Stanislaus High School, and its adjoining St. Peter's church, St. Joseph's girls' school, the Apostolic Carmel convent school and St. Andrew's Church (Mumbai) all lie on Hill road. Two hospitals, Bhabha hospital and Holy Family Hospital also lie on Hill road. The Tata Parsi agiary built in 1873 is a prominent landmark on Hill road.",
+   "url": "https://en.wikipedia.org/wiki/Hill_Road,_Mumbai"
+  },
+  {
+   "title": "Khar, Mumbai",
+   "text": "Khar (Marathi pronunciation: [kʰaːɾ]) is an affluent suburb of Mumbai, north of Bandra and south of Santacruz, Mumbai. Originally one of the 'villages' that made up the larger Bandra, the present suburb is divided into Khar West and Khar East areas. It is serviced by Khar Road railway station of the Mumbai Suburban Railway network. It is an area within convenient distances of several schools, restaurants, parks, promenades and shopping centres. Khar bears the Mumbai Postal Index Number (Pin Code) 400052.\nKhar, which is derived from the word Khāra (meaning 'salty' in the local language Marathi) has acquired this name in reference to the salt pans that were used to farm salt by locals near the Khar Danda sea shore a couple of centuries ago. Here, one also finds the historic fishing village of \"Khar Danda\", which is one of the villages that made up the original Bandra area and is also one of the oldest settlements of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Khar,_Mumbai"
+  },
+  {
+   "title": "Pali Naka",
+   "text": "Pali Naka is an area in Bandra-Khar. The Pali Hill locality is famous as the residence of several Bollywood film stars.\nPali Naka is synonymous with Pali Market - a bustling energetic bazaar at the foot of Pali Hill. It is dotted with several vegetable hawkers selling exotic and regular vegetables, Jude Bakery - an old bread & eggs store which has been around for years, general provisions stores, wine shops, furniture stores, key makers and chemists. There is also a small police station at Pali Naka.\nThis part of Mumbai also draws a lot of expatriates and the stores at Pali Naka. There are several restaurants and pubs frequented by the locals and migrant population of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Pali_Naka"
+  },
+  {
+   "title": "St. Andrew's Church, Mumbai",
+   "text": "St. Andrew's Church is one of the oldest churches in Mumbai. It was originally built by Portuguese Jesuits in 1575. It stands on the sea-shore of the Bandra suburb of Mumbai, and was the only church there till the first quarter of the 17th century.",
+   "url": "https://en.wikipedia.org/wiki/St._Andrew%27s_Church,_Mumbai"
+  },
+  {
+   "title": "Lilavati Hospital and Research Centre",
+   "text": "The Lilavati Hospital and Research Centre is a private hospital located in Bandra, Mumbai, India.  The hospital was established in 1978 by the Lilavati Kirtilal Mehta Medical Trust.",
+   "url": "https://en.wikipedia.org/wiki/Lilavati_Hospital_and_Research_Centre"
+  },
+  {
+   "title": "Vandre West Assembly constituency",
+   "text": "Vandre West Assembly constituency is one of the 288 Vidhan Sabha constituencies of Maharashtra state in western India, since 2008. Vandre, also known as Bandra, is a suburb of Mumbai. Before the 2008 delimitation of assembly seats, this seat's area was covered under Vandre Assembly constituency, represented by Ramdas Nayak among others.",
+   "url": "https://en.wikipedia.org/wiki/Vandre_West_Assembly_constituency"
+  },
+  {
+   "title": "G. J. Advani Law College",
+   "text": "Gopaldas Jhamatmal Advani Law College (GJALC) is a law school in Mumbai, India. It has been listed among the most preferred law colleges in the West Zone of India. It is considered to be a top college for legal studies in Mumbai.\n\nGJALC was established in 1977 by the Hyderabad (Sind) National Collegiate Board (HSNC).  It was established as an affiliated college to the University of Mumbai and recognised by the Bar Council of India, New Delhi, for teaching a 3-year degree course in law (LL.B.).. From 2023 College is Providing Masters Course in Law (LL.M)",
+   "url": "https://en.wikipedia.org/wiki/G._J._Advani_Law_College"
+  },
+  {
+   "title": "Bandra Talao",
+   "text": "Bandra Talao locally referred to as Swami Vivekanand Talao is a small lake located in Bandra, Mumbai. The lake was formerly known as Lotus Tank and is a Grade II heritage structure. it was owned by some unknown Family of Navpada. The lake was also called \"Motha Sarovar\" and was constructed by an unknown rich Konkani Muslim of Navpada (also spelt Naupada or Naopara) an adjoining village. It is spread across 7.5 acres.\nThe maintenance of the lake was later turned over to the Municipal Corporation of Greater Mumbai and renamed Swami Vivekanand Sarovar. Paddle boating facilities and pisciculture activities were operational in this lake during the 1990s. It is 200 years old.",
+   "url": "https://en.wikipedia.org/wiki/Bandra_Talao"
+  },
+  {
+   "title": "Church of Our Lady of Mount Carmel, Bandra",
+   "text": "The Church of Our Lady of Mount Carmel, Bandra is a Roman Catholic church in Bandra, Mumbai. It was built in 1894 by Jesuit Missionaries. As the catholic population in Bandra increased in the latter half of the 20th century, a new modern structure was constructed in its place. The new church was blessed and inaugurated on 11 February 1981 by Archbishop Simon Pimenta, Archbishop of Bombay.",
+   "url": "https://en.wikipedia.org/wiki/Church_of_Our_Lady_of_Mount_Carmel,_Bandra"
+  },
+  {
+   "title": "St. Andrew's High School, Mumbai",
+   "text": "St. Andrew's High School is a high school located in the western suburbs of Bandra, in Mumbai, India. The school is in the process of receiving its heritage status from BMC heritage committee.",
+   "url": "https://en.wikipedia.org/wiki/St._Andrew%27s_High_School,_Mumbai"
+  },
+  {
+   "title": "Kherwadi",
+   "text": "Kherwadi is a middle class, developing neighborhood, situated on the eastern side of Bandra railway station, Mumbai. Its name is derived from the first chief minister of Bombay State, B. G. Kher. It is surrounded by the CBD of BKC to the east, Mahim to the south, Khar to the north, and S.V. Road to the west. It is well connected to all parts of Mumbai, Navi Mumbai, and Thane. The Western Expressway passes through Kherwadi junction, a signal intersection situated in Kherwadi.",
+   "url": "https://en.wikipedia.org/wiki/Kherwadi"
+  },
+  {
+   "title": "Balgandharva Rangmandir",
+   "text": "Balgandharva Rangmandir is a theater and cultural venue in Mumbai, India. Named after the Marathi theater actor and singer Bal Gandharva (1886–1967), the venue was redeveloped from a municipal open-air theater into an enclosed auditorium. The redevelopment was initiated in 1992 through a lease agreement between the Brihanmumbai Municipal Corporation (BMC) and the K Raheja Foundation. After a prolonged development period, the renovated complex opened to the public in August 2016.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Balgandharva_Rangmandir"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Mumbai",
+  "text": "Mumbai (Marathi and Hindi: मुंबई Mumbaī), formerly known as Bombay, is the largest city in western India and the capital of the state of Maharashtra. A cosmopolitan metropolis, Mumbai was built on seven islands on the Konkan coastline which over time were joined to form the island city of Bombay. The island was in turn joined with the neighbouring island of Salsette to form \"Greater Bombay\". The city has a metropolitan population of over 20 million (2025).\n\nOften called the \"New York of India\", Mumbai is undoubtedly the country's commercial capital and one of the predominant port cities. Mumbai's nature as the most eclectic and cosmopolitan Indian city is symbolised in the presence of Bollywood within the city, the centre of the globally-influential Hindi film and TV industries. It is also home to India's largest slum population, as well as the iconic Gateway of India built on the waterfront of Mumbai Harbour during the British Raj.\nThe name Bombay comes from Bom Bahia (\"the good bay\" in Portuguese), a name given by explorer Francis Almeida. Mumbai is named after the goddess Mumbadevi of the Koli fishing community.\n\n\n== See ==\nIndividual listings can be found in Mumbai's district articles\n\nThere is a lot to see in Mumbai, but the typical \"tourist\" sights are concentrated in South Mumbai.\nBy Indian standards, Mumbai is a young city and much of the land comprising the city did not exist until it was claimed from the sea over three centuries ago. It is therefore a pleasant surprise to find rock cut caves such as the Elephanta, Kanheri, and Mahakali within city limits.\n\n\n=== Colonial buildings ===\n\nThe British built a magnificent city within the walls of Fort St. George, which lies at the southern extremity of the city. Some fine examples of the Gothic revival, Neo-classical style and Indo-Saracenic style are seen within this area. To get the best experience of the city centre, stroll around the wide streets of the area right from Churchgate to Colaba. These areas are all beautifully planned and have wide and clean pavements, unlike the rest of the city. Famous monuments to be seen in this area are the Gateway of India, the Chhatrapati Shivaji Maharaj Terminus (CSMT, previously Victoria Terminus), the Municipal Corporation and Police Headquarters and the Chhatrapati Shivaji Vastu Sanghralaya (formerly, the Prince Of Wales Museum). The famous Taj Mahal Palace Hotel is opposite the Gateway of India. The Mumbai University buildings and the High Court are also excellent examples of colonial architecture in the city.\nThere are a lot of other modern structures to look at in this area. The area known as Marine Drive (right from Girgaon Chowpatty to NCPA) is home to a large number of buildings built in the Art Deco style. Mumbai is second only to Miami in the number of Art Deco buildings. some famous buildings in this style are the Eros and Regal cinemas. The Art Deco and Gothic buildings were added to the UNESCO World Heritage List in 2018.\n\n\n=== Museums and galleries ===\n\nSome of the India's most famous museums and art galleries are found here. The Kala Ghoda area in South Mumbai teems with them, particularly the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (Prince of Wales Museum), and the National Gallery of Modern Art. Once again, most of them are concentrated in South Mumbai. Also worth planning a visit is Jehangir Art Gallery, also at Kala Ghoda, displays changing exhibits by notable artists. The plaza next to the gallery also regularly displays exhibits of various artists.\nIn Nehru Complex in Worli is Nehru Centre Art Gallery at Worli is a gallery dedicated to young and promising talent along with established artists. Also within the complex is a permanent exposition, Discovery of India, which attempts to cover every aspect of artistic, intellectual and philosophical attainment of India through ages. The exposition spreads across 14 galleries and reflects true identity of the country. On the other end of the complex, Nehru Science Centre - which has a separate entrance from Mahalaxmi race course road, has a permanent exhibition on 'interactive and exciting' science related exhibits highlighting science principles in fun yet educational way.\n\n\n=== Beaches ===\n\nMumbai isn't known for beaches because they have immensely filthy water! Mumbai has a few beaches, including one in the southern districts. But they aren't that great and the water off Mumbai's coast is extraordinarily dirty. The relatively better ones are in North Mumbai. However, they are a great place to see how the locals spend their Sunday evenings, with various food and game stalls.\nThere are other beaches to be found such as the Girgaon Chowpatty (the cleanest one) in South Mumbai, Juhu Beach in the Western Suburbs and Aksa Beach in North Mumbai. The currents don't seem strong, but particularly in the rains, lots of people die from drowning, so avoid getting in the water (especially at Aksa Beach). A word of advice to women: Mumbai beaches are not the kind you can wear swimsuits to, particularly two-pieces.\n\n\n=== Zoos, parks and gardens ===\n\nMumbai has a justified reputation as a concrete jungle, but there are some nice pockets of greenery within the city. It is also one of the rare megacities to have an entire national park within its borders (Sanjay Gandhi National Park). You may not visit Mumbai for them, but if you are already here, they make a nice escape from the din and bustle. It also houses the ancient Kanheri Caves crafted out of rocky cliffs, which dates back 2,400 years.\nThe city zoo (Jijamata Udyan) in Byculla is a colonial relic and it is surprisingly well-preserved. The animals may look rather emaciated, but the sheer diversity of trees on this lush zoo is worth a trip.\nSome city parks are very well-maintained and combine history as well. The Hanging Gardens on the Malabar Hill offers stunning vistas of the Marine Drive. Opposite the Hanging Gardens, there is another park which is known as Kamala Nehru Park, famous for the striking shoe-shaped structure which has been filmed in various Bollywood movies\nFurther in South Mumbai, the Mumbai Port Trust Garden, is another hidden gem. This is set off a small side street off the Colaba Causeway 2–3 km (1.2–1.9 mi) south of the main section. Attractive views of the port, the naval yards and sunset.\nIn North Central Mumbai, there is Mancherji Joshi Five Gardens. Mainly used by walkers in the morning, it is a mess in the evenings. But the gardens encircle some historic, art deco residences.\n\n\n=== Markets and crowds ===\n\nMumbai is probably worth visiting just for its street markets, the hustle of vendors, and the madness of the crowds. Good places are Bandra, Khar and Andheri. If you came to Mumbai and didn't give visit to the highly dense and crowded markets, it means you didn't meet the real Mumbai.\nHawkers and street shoppers don't ask for any legal permission and then set their stalls at the places where they see maximum footfall. From electronics items to fresh food, you can get everything at railway platforms, subway and mains streets.\n\n\n=== Modern buildings and malls ===\nOnce the British left, the zeal to wipe away the traces of colonial rule was, unfortunately, not matched by the enthusiasm to build a new city that matched the grandeur of the British-era buildings. Now, while the shabbiness of the socialist era is thankfully being replaced by architecture with an eye on aesthetics, the new malls, multiplexes, and office buildings that are coming up are indistinguishable from those anywhere else in the world. Still, they are worth a look, especially if you want to have a look at India's success story. Skyscrapers exceeding 60 stories now dominate the skyline.\nFor long, Inorbit Mall was the only mall offering a lot of variety for shoppers. Palladium, built within the High Street Phoenix, broke the monopoly of Inorbit Mall. From state of the art interiors to international brands, the Palladium has everything. The new Infiniti Mall (Infinity 2) in Malad also has lots of foreign brands and is one of the biggest malls in the suburbs.\nNirmal Lifestyles Mall in Mulund and Metro Junction Mall in Kalyan are two of the largest malls in Mumbai. In the central suburbs, they are quite popular in the city. The Phoenix Marketcity Mall is the largest in the city, located in Kurla. There is also the R CITY Mall in Ghatkopar.\nPowai is a modern central Mumbai suburb with European looks. Powai houses the Indian Institute of Technology and is built around fabulous lake. Most of the construction is in a township format and is privately built. It houses twenty top of the line restaurants, two large convenience stores, a handful of coffee shops and entertainment areas. Initially built as an upmarket self-contained township, Powai has now grown into a business process outsourcing hub in Mumbai. The township reflects both characteristics; you will often find families shopping and twenty somethings hanging out in tables next to each o",
+  "url": "https://en.wikivoyage.org/wiki/Mumbai"
+ },
+ "sights": [
+  {
+   "name": "Grotto",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 19.0554015,
+   "lon": 72.8303356
+  },
+  {
+   "name": "Durga Mata Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 19.0610963,
+   "lon": 72.8305312
+  },
+  {
+   "name": "Marry Grotto",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 19.0553917,
+   "lon": 72.8303394
+  },
+  {
+   "name": "Cache The Arts And Crafts Gallery",
+   "kind": "gallery",
+   "walkMinutes": 7,
+   "lat": 19.059634,
+   "lon": 72.8343142
+  },
+  {
+   "name": "St. Peter's Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 19.0547278,
+   "lon": 72.8295191
+  },
+  {
+   "name": "Sai Niwas",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 19.0586597,
+   "lon": 72.835404
+  },
+  {
+   "name": "Tata Agiary",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 19.0558396,
+   "lon": 72.8349217
+  },
+  {
+   "name": "St. Joseph's Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 19.0539353,
+   "lon": 72.8321523
+  },
+  {
+   "name": "Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 19.0531155,
+   "lon": 72.8321562
+  },
+  {
+   "name": "Saint Andrew's",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 19.0550662,
+   "lon": 72.8246651
+  },
+  {
+   "name": "St. Theresa's Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 19.0634861,
+   "lon": 72.8334064
+  },
+  {
+   "name": "Jarimari Mata Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 19.0570604,
+   "lon": 72.8364322
+  },
+  {
+   "name": "Ram Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 19.0539354,
+   "lon": 72.8347153
+  },
+  {
+   "name": "Ganpati Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 19.051422,
+   "lon": 72.8314803
+  },
+  {
+   "name": "Sunni Noori Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 19.0623139,
+   "lon": 72.8240266
+  }
+ ],
+ "food": [],
+ "errors": []
+}

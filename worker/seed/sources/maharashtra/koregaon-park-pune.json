@@ -1,0 +1,287 @@
+{
+ "query": "Koregaon Park, Pune",
+ "found": "Koregaon Park, Ghorpuri, Pune, Pune City Subdistrict, Pune, Maharashtra, 411001, India",
+ "lat": 18.5366225,
+ "lon": 73.8932738,
+ "fetchedAt": "2026-10-12T18:59:32.279Z",
+ "locality": {
+  "id": "ghorpuri-pune-district-maharashtra",
+  "name": "Ghorpuri",
+  "area": "Pune, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Ruby Hall Clinic": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ruby_Hall_Clinic.JPG/1280px-Ruby_Hall_Clinic.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ruby Hall Clinic",
+   "credit": "Photo: Universalashic, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruby_Hall_Clinic.JPG"
+  },
+  "Royal Connaught Boat Club": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Royal_Connaught_Boat_Club%2C_Pune_%2894544%29.jpg/1280px-Royal_Connaught_Boat_Club%2C_Pune_%2894544%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Royal Connaught Boat Club",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Connaught_Boat_Club,_Pune_(94544).jpg"
+  },
+  "Kalyani Nagar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/HSBC_GLT_PUNE.jpg/1280px-HSBC_GLT_PUNE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kalyani Nagar",
+   "credit": "Photo: Amitauti (talk), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC_GLT_PUNE.jpg"
+  },
+  "National War Memorial Southern Command": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/National_War_Memorial%2C_Pune.JPG/1280px-National_War_Memorial%2C_Pune.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "National War Memorial Southern Command",
+   "credit": "Photo: Chinmay26r, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_War_Memorial,_Pune.JPG"
+  },
+  "Koregaon Park": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Western-2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Koregaon Park",
+   "credit": "Photo: Harshal sathe, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western-2.JPG"
+  },
+  "Fitzgerald Bridge, Pune": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Closeup_of_Fitzgerald_Bridge_in_Pune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Fitzgerald Bridge, Pune",
+   "credit": "Photo: Harshal sathe, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Closeup_of_Fitzgerald_Bridge_in_Pune.jpg"
+  },
+  "Pune Tribal Museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Tribal_museum_%28Sadhu_waswani_path%29_%2843%29.JPG/1280px-Tribal_museum_%28Sadhu_waswani_path%29_%2843%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Pune Tribal Museum",
+   "credit": "Photo: Sbzp, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tribal_museum_(Sadhu_waswani_path)_(43).JPG"
+  },
+  "Tribal Research and Training Institute, Pune": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Gate_of_Tribal_Research_and_Training_Institute%2C_Pune.jpg/1280px-Gate_of_Tribal_Research_and_Training_Institute%2C_Pune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tribal Research and Training Institute, Pune",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gate_of_Tribal_Research_and_Training_Institute,_Pune.jpg"
+  },
+  "Ruby Hall Clinic metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Illuminated_signage_of_Ruby_Hall_Clinic_metro_station_in_Pune.jpg/1280px-Illuminated_signage_of_Ruby_Hall_Clinic_metro_station_in_Pune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ruby Hall Clinic metro station",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Illuminated_signage_of_Ruby_Hall_Clinic_metro_station_in_Pune.jpg"
+  },
+  "Bund Garden metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bund_Garden_metro_station.jpg/1280px-Bund_Garden_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bund Garden metro station",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bund_Garden_metro_station.jpg"
+  },
+  "Yerwada metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Yerwada_metro_station%2C_Pune.jpg/1280px-Closeup_of_Yerwada_metro_station%2C_Pune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Yerwada metro station",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Closeup_of_Yerwada_metro_station,_Pune.jpg"
+  },
+  "Kalyani Nagar metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Kalyani_Nagar_metro_station_3.jpg/1280px-Kalyani_Nagar_metro_station_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kalyani Nagar metro station",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalyani_Nagar_metro_station_3.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Ghorpuri",
+   "text": "Ghorpuri (Ghorpadi) is a village in Pune City, Pune district in the Indian state of Maharashtra.\n\n\n== Demographics ==\nIts population is 2,109.\n\n\n== Amenities ==\nMany bungalows in Ghorpuri are owned by British colonies. Nearby organizations include the National War Museum and the Army Public School. \n\n\n== Education ==\nSchools in Ghorpuri include St. Joseph High School, Ghorpuri Village High School, Swami Vivekanand, Basant, Saraswati Vidyalaya, and Shahid Bhagat Singh High School, Army Public school.\n\n\n== Religion ==\nShrinath Mhaskoba temple is a notable place in the Ghorpuri area.\nGhorpuri is home to St. Joseph's Catholic Church and St. Mary's Orthodox Syrian Church.\nAhle Sunnat Jama Masjid is the oldest mosque in Ghorpuri Area.\n\n\n== Transport ==\nA railway station is present.\n\n\n== Health care ==\nGhorpuri is home to Talyan Home Nursing & First Aid Training Center.\nNursing homes include Dr Bumb Nursing Home, Usha Nursing Home, and Dr. Shobha Ahuja Nursing Home.\nGhorpuri is home to Matruseva Hospital, Sanjeevani Hospital, and many others.\nGhorpuri hosts Aakash Eye Clinic And Laser Centre, Neo Vision Eye Care, and many others.\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Ghorpuri"
+  },
+  {
+   "title": "Ruby Hall Clinic",
+   "text": "Ruby Hall Clinic is a hospital in the city of Pune, India, established in 1959. It is a 750-bed hospital with 2,450 dedicated staffers, 300 consultants, 650 panel doctors, and 1,500 paramedical staff. It was accredited by National Accreditation Board for Hospitals & Healthcare Providers (NABH).\nIt is a recognised Post Graduate Teaching Hospital for students of Maharashtra University of Health Sciences, National Board of Examinations, and College of Physicians & Surgeons of Mumbai. Dr. Grant is the Managing Trustee and Chief Cardiologist of Ruby Hall Clinic.",
+   "url": "https://en.wikipedia.org/wiki/Ruby_Hall_Clinic"
+  },
+  {
+   "title": "Royal Connaught Boat Club",
+   "text": "The Royal Connaught Boat Club (RCBC) was founded in 1868 in Pune, India. It is located on Boat Club Road.\nThe club provides facilities for water sports, including rowing, with a boathouse and slipway down to the southern side of the Mula-Mutha River, just below the confluence of the Mula River and the Mutha River.",
+   "url": "https://en.wikipedia.org/wiki/Royal_Connaught_Boat_Club"
+  },
+  {
+   "title": "Kalyani Nagar",
+   "text": "Kalyani Nagar is an affluent, predominantly residential neighbourhood located in eastern Pune, India. It has a population of 25,272 according to the 2011 Census of India. The locality is administered by the Nagar Road-Wadgaonsheri Ward Office of the Pune Municipal Corporation.\nThe neighbourhood is the location of the Aga Khan Palace, a historical landmark of national importance, where Mahatma Gandhi was imprisoned between 1942 and 1945. His wife Kasturba Gandhi died here.",
+   "url": "https://en.wikipedia.org/wiki/Kalyani_Nagar"
+  },
+  {
+   "title": "Bund Garden, Pune",
+   "text": "Bandh Garden is located 2 km from the Pune Railway Station. The gardens are situated next to Fitzgerald Bridge and take their name from the bandh, or dam, on the Mula river.",
+   "url": "https://en.wikipedia.org/wiki/Bund_Garden,_Pune"
+  },
+  {
+   "title": "National War Memorial Southern Command",
+   "text": "The National War Memorial Southern Command is a war memorial in the city of Pune, India, dedicated to post-Independence war martyrs. This is the only war memorial in South Asia which has been erected by citizens' contributions.\nThe memorial was unveiled and dedicated to the nation on 15 August 1998. A MiG-23BN, used in the Kargil War, is on display at the memorial.\nA replica of the now decommissioned frigate INS Trishul, which served in the Liberation of Goa and the Indo-Pakistani War of 1971, is also on display.\nThere is a museum which showcases equipment used by the Southern Command over the years like their uniforms, ammunition, vehicles, tanks, and guns. The museum also gives the history of the Southern Command, the battles fought by them, the accolades won and other information.\nThere is also a sound and light show held every Friday, Saturday and Sunday.\n\nIn 2008, the Pune Cantonment Board sanctioned a sum of ₹32,00,000 ($47,550) for renovation of the memorial. The work included laying a new lawn, landscaping and laying pathways for visitors.",
+   "url": "https://en.wikipedia.org/wiki/National_War_Memorial_Southern_Command"
+  },
+  {
+   "title": "2010 Pune bombing",
+   "text": "On 13 February 2010 at approximately 19:15 Indian Standard Time, a bomb exploded at a German bakery in the Indian city of Pune, Maharashtra. The blast killed 18 people, including an Italian woman, two Sudanese students and two Iranian students, and injured at least 60 more.\nThe German bakery is located near the local Jewish Chabad House and the Osho International Meditation Resort in Koregaon Park, Pune. Both the ashram and the bakery are frequented by foreigners; the bakery was filled with tourists and locals at the time of the attack.\nTwo Islamist groups, Lashkar-e-Taiba and the Indian Mujahideen (Students' Islamic Movement of India), claimed responsibility for the bombing under pseudonymous names. According to Indian government agencies, the attack could have been part of a project by Lashkar-e-Taiba to use the Indian Mujahideen in what is called the \"Karachi Project\". David Coleman Headley, a Pakistani−American terrorist who co-plotted the 2008 Mumbai attacks, has been accused of involvement in the project and bombing.",
+   "url": "https://en.wikipedia.org/wiki/2010_Pune_bombing"
+  },
+  {
+   "title": "Koregaon Park",
+   "text": "Koregaon Park (earlier Koregaon Road Estate) is an area located in Pune, in the state of Maharashtra in India. It is primarily a residential area with lush greenery, but of late it has been growing into a commercial hub as well. Koregaon Park also has a trendy dining and nightlife hub, with sleek European and Indian restaurants, as well as live music bars and buzzy pubs. It is also a destination for art and music enthusiasts in the city, with many art galleries and clubs in the vicinity. Koregaon Park is located about 5.8 kilometres (3.6 mi) from the Pune International Airport and about 3.8 kilometres (2.4 mi) from the Pune Junction railway station.",
+   "url": "https://en.wikipedia.org/wiki/Koregaon_Park"
+  },
+  {
+   "title": "J. N. Petit Technical High School",
+   "text": "J. N. Petit Technical High School is one of the oldest schools in Pune, Maharashtra, India. The school was founded by Nusserwanjee Petit in 1888 to preserve the memory of his son, Jamshedjee Nusserwanjee Petit, who had died that year at the age of 32.\nThe school was established in their own premises at Lal Baug, Bombay. It was started to help orphans of Zoroastrian faith by looking after their welfare and education. It was shifted to the present campus in 1948. In 1962 the doors of the school were opened to students from all castes, creed and religion as day-scholars. The school provides hostel facilities to male Parsee students only.\nThe school is located in Pune on 17 acres of land that has a Cricket, Soccer, field and Basketball court . The school building is a four storied building with classrooms, science laboratories, workshops and lounge. The school has additional technical subjects to offer, such as electronics, welding, automobile, computer, carpentry, engineering drawing, and fitting sections. The size of the engineering workshop is comparable to ones of colleges.",
+   "url": "https://en.wikipedia.org/wiki/J._N._Petit_Technical_High_School"
+  },
+  {
+   "title": "Fitzgerald Bridge, Pune",
+   "text": "The Fitzgerald Bridge (also known as the Bund Garden Bridge) is an historic structure located in Pune, India. It was constructed in 1867 during the British India period.\n It was the first spandrel arch bridge in the city of Pune, connecting the Bund Garden to the Chima garden.\n\nThe bridge crosses the Mula-Mutha River. It features a representation of a Medici lion at each end of the bridge. The bridge was designed and constructed by Captain Robert S. Sellon of the Royal Engineers. It was built for the sum of ₹ 2 lakh. The Bridge is named for the Governor of Bombay at the time, Sir William Robert Vesey Fitzgerald.\nBy 2013, the two lane masonry arch bridge has over lived its design life span. A new four lane bridge was to replace the structure, with the new bridge to be named after Babasaheb Ambedkar.\nThere were plans to demolish the bridge but finally it was closed for vehicular traffic and converted into a space for arts and artisans.",
+   "url": "https://en.wikipedia.org/wiki/Fitzgerald_Bridge,_Pune"
+  },
+  {
+   "title": "Pune Tribal Museum",
+   "text": "Pune Tribal Museum is located in the city of Pune, Maharashtra, India. The Museum was established in the year 1962 as an extension of Tribal Research and Training Institute, Pune, started display in year 1965 and exhibits the culture of the Maharashtrian tribes. This tribal museum was found as a place  'committed to preserve, the artistic and poetic impulses of\ntribals'. The administration of the museum is currently with Tribal Research and Training Institute, Pune.",
+   "url": "https://en.wikipedia.org/wiki/Pune_Tribal_Museum"
+  },
+  {
+   "title": "Tribal Research and Training Institute, Pune",
+   "text": "Tribal Research and Training Institute is a research and training institute based in Pune, India. It is dedicated to conduct research on tribal issues as also to evaluate the impact of various schemes on the tribes residing in Maharashtra. The institute came into existence in 1962.",
+   "url": "https://en.wikipedia.org/wiki/Tribal_Research_and_Training_Institute,_Pune"
+  },
+  {
+   "title": "Ruby Hall Clinic metro station",
+   "text": "Ruby Hall Clinic is the elevated eastern terminal metro station on the East - West corridor of the Aqua Line of Pune Metro in Pune, India. The station was opened on 1 August 2023 as an extension of Pune Metro Phase I. Aqua Line operates between Vanaz and Ramwadi.",
+   "url": "https://en.wikipedia.org/wiki/Ruby_Hall_Clinic_metro_station"
+  },
+  {
+   "title": "Bund Garden metro station",
+   "text": "Bund Garden is an elevated eastern terminal metro station on the East - West corridor of the Aqua Line of Pune Metro in Pune, India. It was opened on 6 March 2024 as an extension of Pune Metro Phase I. The trial run from this station till Ramwadi was started in September 2023. Aqua Line operates between Vanaz and Ramwadi stations. It is located in the vicinity of an upmarket residential area with restaurants, schools and malls. The design of the station facade is inspired by elements of nature.",
+   "url": "https://en.wikipedia.org/wiki/Bund_Garden_metro_station"
+  },
+  {
+   "title": "Yerwada metro station",
+   "text": "Yerwada metro station is the elevated eastern terminal metro station on the East - West corridor of the Aqua Line of Pune Metro in Pune, India. It is connected to Rainbow Bus Rapid Transit System. Aqua Line operates between Vanaz and Ramwadi stations. The facade of the station showcases an illustration of Dandi March and a charkha, both of which are inspired by and a tribute to Mahatma Gandhi.\nThe three metro stations on the extended stretch of the Aqua Line were inaugurated on 6 March 2024. However, the work on revised entry-exit points of Yerwada station delayed its initial commercial operation for more than a month. Later, it was expected to open in May 2024 as the work was supposed to complete by the end of April 2024. Due to ongoing work and pending inspection, the opening was further delayed to July 2024. The inspection by CMRS was slated to be completed by 20 July 2024 and then opened to public by the end of July 2024. Eventually, it was inaugurated for commercial operation on 21 August 2024. The shuttle service of bus no.19 by PMPML from Ramwadi metro station to Pune Airport was shifted to Yerwada with immediate effect after the latter was inaugurated.",
+   "url": "https://en.wikipedia.org/wiki/Yerwada_metro_station"
+  },
+  {
+   "title": "Kalyani Nagar metro station",
+   "text": "Kalyani Nagar metro station, is the elevated eastern terminal metro station on the East - West corridor of the Aqua Line of Pune Metro in Pune, India. It is connected to Rainbow Bus Rapid Transit System. The station was opened on 6 March 2024 as an extension of Pune Metro Phase I. Aqua Line operates between Vanaz and Ramwadi station. Change over to the Purple Line, PCMC to Swargate stations  (North - South corridor) is available at Civil Court station. In June 2024, Entry/Exit Gate no. 3 was opened for the commuters so that they could climb foot over the bridge without crossing the busy road.",
+   "url": "https://en.wikipedia.org/wiki/Kalyani_Nagar_metro_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Pune",
+  "text": "Pune (Marathi: पुणे Puṇe), formerly Poona, is the second-largest city in the Indian state of Maharashtra. Often considered as the cultural capital of Maharashtra, Pune is known for its educational tourism and has a blend of cultural, business, health, and cuisine tourism background. The city also houses fantastic restaurants, good museums, and hill forts which offer panoramic views.\nWith an estimated population of 6.8 million (2025), Pune's large young cohort makes for a lively nightlife and vibrant atmosphere, and the city competes with Bengaluru and Hyderabad for the crown of India's IT capital.\n\n\n== See ==\nIndividual listings can be found in Pune's district articles\nPune is the cultural capital of Maharashtra. The Marathi film industry is also based here.\n\n\n== Do ==\nIndividual listings can be found in Pune's district articles\nBird Watching: Enjoy boating and bird viewing in some of the city parks of Pune. Migratory parks can be viewed throughout the year in Pune. At the right time, you can see many migrated birds in the parks.\n\n\n=== Festivals ===\n\nPune has a full calendar of events, ranging from classical music to rock concerts. However, Pune's most famous festival is the Pune Festival, which is held during the Ganeshotsav (Annual Ganpati Festival)\n\nThe Chatushrungi Fair is an annual event. It is held overnight on Navratri at Senapati Bapat Road. Giant-wheels are the main attractions but the food sold at the stalls is delicious too.\nThe Ganesh Utsav or Ganeshotsav, initiated by Lokmanya Bal Gangadhar Tilak, today is celebrated with great enthusiasm, as city interiors almost remain blocked for ten days. This is usually around the month of September and dates vary based on Hindu calendar. Pune has more than 2,000 mandals (committees) with Dagdusheth Halwai being the biggest and most famous one.\nThe Osho Festival is another international crowd puller in Pune. Held in the Osho Aashram in Koregaon Park, disciples and followers of Bhagwaan Rajneesh make it a point to attend this festival.\nThe Pune International Film Festival - takes place annually and attracts some splendid films from around the world. This festival which generally takes place in January, lasts for a week and is a treat for film lovers in the city. Passes for single day or for entire duration are available at any of the multiplexes hosting the festival at reasonable rates.\nSawai Gandharva classical music festival, which started back in the 1960s, has had every Indian and international artist perform and has given rise to a number of budding ones too. It is held in the months of December from dawn to dusk over three days.\nA number of college festivals have become very commercialised, but still attract big crowds and a very high degree of competition from colleges all over Pune. Verve organised by Express Youth Forum is the biggest inter-collegiate cultural festival in India while Concepts organized by the Pune Institute of Computer Technology (PICT) is a very popular engineering (technical) event. The College of Engineering, Pune also organizes a technical festival which attracts participants from all over India.\nSo all year round, there is enough excitement to keep the Punekars and tourists on their toes!\n\n\n== Eat ==\nIndividual listings can be found in Pune's district articles\n\nPune is undoubtedly a great place to eat. Fergusson College Road and JM Road which runs parallel, are full of budget eateries serving delicious hot food at nominal charges. Almost all restaurants open and close at similar hours. 10AM - 11PM is usual. Of course, restaurant bars stay open till at least midnight. Misals are a Pune favourite, if you can stomach the spice in them. They are a tasty meal and a visit to Bedekar Misal or Shree Uphar Gruha is a must. They are in the Peth areas and are famous. Shree Uphar Gruha is at Tulsi Baug. It is a small joint but dishes out tasty Misal and fritters.\nFor more exotic variety, head out to Koregaon Park. North Main Road is a lane with more than 50 restaurants. It offers a choice of cuisine including Italian, French, Mexican, Thai, Japanese and a variety of local Indian food; there is a restaurant to fit every taste and mood. ABC Farms in Koregaon Park has many restaurants in one place - ideal when you cannot decide before leaving for dinner. Koregaon Park is known as the Restaurant Suburb, and holds a similar status to Pune that Bandra holds to Mumbai.\n\n\n== Drink ==\nIndividual listings can be found in Pune's district articles\nHindavi Swarajya Fruits & Juices, JM Road, Opposite to JM mandir.\nRefreshing Indian drinks such as Jal Jeera (a cumin seed drink) and Nimbu Pani (lemon water/soda) are sold on the sidewalk for around ₹5 per glass. Alcohol is easily available all over town, though most of the bars are in Koregaon Park and upmarket areas. Most bars open in the afternoon and close an hour or two after midnight. Also check out the major hotel bars such as at the Sheraton Grand, Sagar Plaza, JW Marriott, Deccan Rendezvous and The Westin.\n\n\n=== Tea and coffee ===\nThere is no lack of coffee shops in the city. Some of the restaurants listed above serve good coffee or head to a branch of the Barista or Cafe Coffee Day chains, both of which have numerous locations around town. The FC Road and MG Road branches of Barista are Wi-Fi hotspots.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Pune"
+ },
+ "sights": [
+  {
+   "name": "Koregaon Park",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 18.535,
+   "lon": 73.895
+  },
+  {
+   "name": "2010 Pune bombing",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 18.539722222222224,
+   "lon": 73.88722222222223
+  },
+  {
+   "name": "J. N. Petit Technical High School",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 18.5375,
+   "lon": 73.88361111111112
+  },
+  {
+   "name": "Pune Tribal Museum",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 18.52977708,
+   "lon": 73.88600422
+  },
+  {
+   "name": "Bund Garden, Pune",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 18.541666666666668,
+   "lon": 73.88444444444445
+  },
+  {
+   "name": "Tribal Research and Training Institute, Pune",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 18.529714,
+   "lon": 73.885888
+  },
+  {
+   "name": "Bund Garden metro station",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 18.540162,
+   "lon": 73.8832
+  },
+  {
+   "name": "Fitzgerald Bridge, Pune",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 18.5433,
+   "lon": 73.8849
+  },
+  {
+   "name": "Yerwada metro station",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 18.545265,
+   "lon": 73.886498
+  },
+  {
+   "name": "Royal Connaught Boat Club",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 18.5411,
+   "lon": 73.8803
+  },
+  {
+   "name": "Kalyani Nagar metro station",
+   "kind": "landmark",
+   "walkMinutes": 26,
+   "lat": 18.544367,
+   "lon": 73.905732
+  },
+  {
+   "name": "National War Memorial Southern Command",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 18.522,
+   "lon": 73.891
+  },
+  {
+   "name": "Kalyani Nagar",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 18.5481,
+   "lon": 73.9033
+  },
+  {
+   "name": "Ruby Hall Clinic metro station",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 18.53263,
+   "lon": 73.8778
+  },
+  {
+   "name": "Ruby Hall Clinic",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 18.5334,
+   "lon": 73.8772
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

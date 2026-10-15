@@ -1,0 +1,240 @@
+{
+ "query": "Kollur",
+ "found": "Kollur Mookambika Devi Temple, Kalakaumudi Road, Devi Nagar, Pattoor, Thiruvananthapuram, Kerala, 695001, India",
+ "lat": 8.501646,
+ "lon": 76.9340585,
+ "fetchedAt": "2026-10-12T19:17:15.945Z",
+ "locality": {
+  "id": "pattoor-thiruvananthapuram-kerala",
+  "name": "Pattoor",
+  "area": "Thiruvananthapuram, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "University of Kerala": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/University_of_Kerala_Emblem.svg/1280px-University_of_Kerala_Emblem.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "University of Kerala",
+   "credit": "Photo: https://www.keralauniversity.ac.in/, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:University_of_Kerala_Emblem.svg"
+  },
+  "St. Joseph's Higher Secondary School, Thiruvananthapuram": {
+   "url": "https://upload.wikimedia.org/wikipedia/en/0/0f/St.JosephsHS9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "St. Joseph's Higher Secondary School, Thiruvananthapuram",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St.JosephsHS9.jpg"
+  },
+  "St. Mary, Queen of Peace Basilica": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Queenofpeacebasilica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "St. Mary, Queen of Peace Basilica",
+   "credit": "Photo: Simon Cheakkanal (talk), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queenofpeacebasilica.jpg"
+  },
+  "Government Law College, Thiruvananthapuram": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Government_Law_College_Thiruvananthapuram_Emblem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Government Law College, Thiruvananthapuram",
+   "credit": "Photo: Government Law College Thiruvananthapuram, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Government_Law_College_Thiruvananthapuram_Emblem.png"
+  },
+  "Niyamasabha Mandiram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kerala_Niyamasabha.jpg/1280px-Kerala_Niyamasabha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Niyamasabha Mandiram",
+   "credit": "Photo: sabu-mampallil-kottayam, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerala_Niyamasabha.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "University of Kerala",
+   "text": "University of Kerala, commonly referred to as Kerala University (KU, ISO: Kēraḷa Sarvakālāśāla) and formerly known as University of Travancore, is a public state university in Thiruvananthapuram, the capital of Kerala, India. It was established in 1937 by a promulgation of the Maharajah of Travancore, Chithira Thirunal Balarama Varma who was also the first Chancellor of the university. C. P. Ramaswamy Iyer, the then Diwan (Prime Minister) of the State was the first Vice-Chancellor. It was the first university in Kerala, and among the first in the country. It is accredited by NAAC with highest grade of 'A++' and scored 3.67 points out of 4.\nThe university has over 150 affiliated colleges and has sixteen faculties and 43 Departments of teaching and research. The Governor of Kerala serves as the Chancellor of university.",
+   "url": "https://en.wikipedia.org/wiki/University_of_Kerala"
+  },
+  {
+   "title": "International Film Festival of Kerala",
+   "text": "The International Film Festival of Kerala (IFFK) is a film festival held annually in Thiruvananthapuram, the capital city of Kerala, India. This film festival started in 1996 and is hosted by the Kerala State Chalachitra Academy on behalf of Department of Cultural Affairs, Government of Kerala. The festival is held in November or December every year and is acknowledged as one of the leading cultural events in India.\nSeveral national and international films have their premiers at the IFFK each year. Competition section is limited to 14 selected films produced in Asia, Africa or Latin America. The festival also has a section devoted to Malayalam cinema. On the lines of the IFFK, the Chalachitra Academy also organises the International Documentary and Short Film Festival of Kerala. The Academy also organized a regional film festival in 2022, Regional International Film Festival of Kerala held in Kochi.",
+   "url": "https://en.wikipedia.org/wiki/International_Film_Festival_of_Kerala"
+  },
+  {
+   "title": "St. Joseph's Higher Secondary School, Thiruvananthapuram",
+   "text": "St Joseph's Higher Secondary School (informally St Joseph's or SJHSS) is a government aided boys school in Thiruvananthapuram, Kerala, India, which was established in 1857.",
+   "url": "https://en.wikipedia.org/wiki/St._Joseph%27s_Higher_Secondary_School,_Thiruvananthapuram"
+  },
+  {
+   "title": "Holy Angels' Convent Trivandrum",
+   "text": "The Holy Angels' Convent Higher Secondary School is one of the oldest educational institutions in the city of Thiruvananthapuram, the capital of the Kerala state in India.",
+   "url": "https://en.wikipedia.org/wiki/Holy_Angels%27_Convent_Trivandrum"
+  },
+  {
+   "title": "St. Mary, Queen of Peace Basilica",
+   "text": "The St. Mary, Queen of Peace Basilica, located in the Palayam/Cantonment area of the city of Thiruvananthapuram, in the state of Kerala, India, is the first Syro-Malankara Catholic Church to be elevated to the rank of a Catholic basilica.  It is the fifth basilica in Kerala.\nOn 10 November 2008, at the St. Mary's Cathedral, Pattom, Trivandrum, Leonardo Sandri, Papal representative and Cardinal Prefect of the Congregation for the Oriental Churches, announced the designation of the Queen of Peace Pro-Cathedral in Thiruvananthapuram as a basilica. Major Archbishop Moran Mor Baselios Cleemis Catholicos dedicated the church as the St. Mary, Queen of Peace Basilica on 7 December 2008. Kerala Minister for Law, Sports and Youth Affairs M. Vijayakumar presided over a meeting that followed.\n\n",
+   "url": "https://en.wikipedia.org/wiki/St._Mary,_Queen_of_Peace_Basilica"
+  },
+  {
+   "title": "Kannammoola",
+   "text": "Kannammoola is an urban neighborhood of Thiruvananthapuram, Kerala, India. The Aakkulam lake that forms a part of the Kerala backwaters is situated in Kannammoola.\nKannammoola was the birthplace of Chattampi Swamikal, who is considered to be one of the greatest religious scholars and reformer of Kerala. The mortal remains of Velu Thampi Dalawa, who had committed suicide to avoid capture when surrounded by the soldiers of the new Dalawa, were gibbetted by the British at Kannammoola.\nThiruvananthapuram International Airport is located nearby and the closest railway stations are Pettah and Thiruvananthapuram Central.",
+   "url": "https://en.wikipedia.org/wiki/Kannammoola"
+  },
+  {
+   "title": "Pettah, Thiruvananthapuram",
+   "text": "Pettah is an urban neighbourhood of Thiruvananthapuram, the capital of the Indian state of Kerala. Strategically located near the Thiruvananthapuram International Airport and along the main road connecting key city areas, Pettah has historically served as a gateway to the city. Its proximity to the renowned Padmanabhaswamy Temple made it a favored destination for traders and pilgrims alike.",
+   "url": "https://en.wikipedia.org/wiki/Pettah,_Thiruvananthapuram"
+  },
+  {
+   "title": "Government Law College, Thiruvananthapuram",
+   "text": "Government Law College, Thiruvananthapuram is an institution for legal education at graduate and post-graduate levels in Kerala, India. Established by the then Maharaja of Travancore in 1875, it is one of the oldest law colleges in India. Affiliated to the Faculty of Law of University of Kerala and the Bar Council of India, the college is supervised and controlled by the Government of Kerala.\nThe campus is housed in the Highland Bungalow situated in Barton Hill, which is a green space in the heart of city. An eminent centre of research in Law, the college has one of the oldest and largest law libraries in India.\nThe college offers an undergraduate five-year integrated Bachelor of Arts–Bachelor of Laws (B.A. LL.B.) program along with three-year LL.B. program, both of which qualify the student to sit for the bar to practice law in India. Post-graduate law degrees (LL.M.) are offered in two lines of specialization: Constitution Law & Criminal Law.\nAlumni of the college include judges of the Supreme Court of India such as Justice Fathima Beevi, judges of various High Courts, statesmen and academicians like N. R. Madhava Menon.",
+   "url": "https://en.wikipedia.org/wiki/Government_Law_College,_Thiruvananthapuram"
+  },
+  {
+   "title": "Government Engineering College, Barton Hill",
+   "text": "Government Engineering College, Barton Hill (GEC-BH) is a public engineering college situated in Barton Hill, Thiruvananthapuram, India. Founded in 1999 by the Government of Kerala, it provides engineering programmes under the APJ Abdul Kalam Technological University, accredited to the National Board of Accreditation.\nThe institute has five major departments: Mechanical Engineering, Information Technology, Electrical and Electronics Engineering, Civil Engineering and Electronics and Communication Engineering. All these departments have obtained an NBA accreditation.\nTwo of its former principals, Dr. M. S. Rajasree and Dr. Ciza Thomas, were appointed as Vice Chancellors of Kerala Technological University. However, Dr. M. S. Rajasree’s appointment was later declared void ab initio by the Supreme Court of India. Dr. Ciza Thomas first served as the Interim Vice Chancellor of KTU, then moved to Digital University, and later returned as the permanent Vice Chancellor of Kerala Technological University in 2025 December.\nThe college is currently ranked second among the 138 colleges affiliated to APJ Abdul Kalam Technological University according to Academic Performance Index (API) report published...",
+   "url": "https://en.wikipedia.org/wiki/Government_Engineering_College,_Barton_Hill"
+  },
+  {
+   "title": "Niyamasabha Mandiram",
+   "text": "The Niyamasabha Mandiram, located in Palayam, Thiruvananthapuram, is the seat of the Kerala State Legislative Assembly or the Niyamasabha. Built primarily in the classical style of Architecture of Kerala, with strong influences of many contemporary styles, it is a structure with grand staircase, gardens, water bodies and a large Central Assembly Hall. Located in a high security zone, the complex accommodates the residence of the Speaker of the Niyamasabha, legislature offices of all MLAs and offices of independent commissions and bodies. The assembly was opened on 22 May 1998, by the President of India, K. R. Narayanan.",
+   "url": "https://en.wikipedia.org/wiki/Niyamasabha_Mandiram"
+  },
+  {
+   "title": "Palkulangara Devi Temple",
+   "text": "Palkulangara Devi Temple (Malayalam: പാല്‍കുളങ്ങര ദേവി ക്ഷേത്രം) is a Hindu temple in Palkulangara, Thiruvananthapuram, Kerala, India. This place is around 1 km from  Pettah junction, 700 m from West Fort junction and 1.5 km from Chakka bypass junction. It is about 1.5 km to the west of Sree Padmanabhaswamy Temple. The temple is under the control of Sree Palkulangara Devi Temple Trust. The temple is an excellent example of Kerala Vasthu Vidya. The abode of Sree Palkulangara Devi is one of the most ancient temples in Kerala. There is also a kavu in the temple.",
+   "url": "https://en.wikipedia.org/wiki/Palkulangara_Devi_Temple"
+  },
+  {
+   "title": "Palkulangara",
+   "text": "Palkulangara is an urban neighbourhood of Thiruvananthapuram, the capital of the Indian state of Kerala.",
+   "url": "https://en.wikipedia.org/wiki/Palkulangara"
+  },
+  {
+   "title": "Perunthanni",
+   "text": "Perunthanni is a suburb of Thiruvananthapuram, the capital of the Indian state of Kerala. This place is situated on Vetti Muricha Kotta-Westfort-Enchakkal Road.",
+   "url": "https://en.wikipedia.org/wiki/Perunthanni"
+  },
+  {
+   "title": "Regional Institute of Ophthalmology, Thiruvananthapuram",
+   "text": "The Regional Institute of Ophthalmology, Thiruvananthapuram is a government eye hospital located in Thiruvananthapuram, Kerala. It is the highest government level referral hospital in the field of ophthalmology in Kerala state. In 1995, it was upgraded to Regional Institute of Ophthalmology.",
+   "url": "https://en.wikipedia.org/wiki/Regional_Institute_of_Ophthalmology,_Thiruvananthapuram"
+  },
+  {
+   "title": "Sri Padmanabha Theatre",
+   "text": "Sri Padmanabha Theatre is a cinema theatre in the South Indian city of Thiruvananthapuram, Kerala. Located in  Chalai, it was opened in 1936 and is one of the oldest theatres in Kerala. Sri Padmanabha is known among the filmfest delegates as one of the venue for the International Film Festival of Kerala. It is considered as part of cinema culture of Thiruvananthapuram.",
+   "url": "https://en.wikipedia.org/wiki/Sri_Padmanabha_Theatre"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Thiruvananthapuram",
+  "text": "Near the southern tip of mainland India, Thiruvananthapuram (Malayalam: തിരുവനന്തപുരം Tiruvanantapuraṁ), formerly and often still known as Trivandrum, is the capital city of Kerala in Southern India. It is the headquarters of the district with the same name, which is one of the 14 districts of Kerala. Referred to by Mahatma Gandhi as the \"Evergreen City of India\", the city is characterised by its undulating terrain of low coastal hills and busy commercial alleys.\nThiruvananthapuram is built on hills by the seashore and sandwiched between the Western Ghats and the Arabian Sea, Thiruvananthapuram is ranked first in the number of foreign tourists visiting Kerala and is a fascinating destination for holidaymakers.\n\n\n== See ==\n\nThiruvananthapuram is a historical city, dotted with many historical structures, parks, museums, tourist centers and palaces. It's also famous for its distinctive greenery, present all over, a rare site in any bustling Indian city. Most ticketed museums are closed on Mondays, so do check online/by phone before visiting. Visit the official website of Kerala Tourism for more details.\n\n Attingal Palace. The headquarters of Travancore Queens who ruled the small province of Attingal. The large palace also houses one of the royal family temples. Much of the palace is off-limits to public, however its durbar hall and public areas are open to the public. \n Kerala Art College. Affiliated with Kerala University and easy to find, it is directly opposite the unmissable Chandrasekharan Nair (Football) Stadium. It is housed in an old colonial building with sprawling grounds behind. There are occasional art shows (e.g. after graduation, circa early June) held upstairs, and the downstairs offers a large library with world art books. The grounds have many impressive sculptures from students who are friendly and may be keen to show you around the workshops. \n1 Koyikkal Palace, Nedumangad. This palace was built in the 16th century and showcases the traditional palace architectural style of Kerala. It features a folklore museum and a numismatics (Coins and currency) museum. \n2 Neyyar Dam. A surprising scenic local, the Neyyar Dam is an excellent picnic spot. There is also a yoga center and several temples near this dam, if you are interested in making a day-trip of it. \n3 Ponmudi. A hill station nestled within a tropical forest. It offers hiking and trekking opportunities. \n4 Thiruvananthapuram Zoo. 10AM–5PM (closed Mon). This is the first zoo India opened in 1843, as a concept of Palace for wildlife. Situated in the Museum compound, this area has a rich botanical garden. There are a wide variety of animals, plants and birds. It has a separate reptile park and butterfly garden. \n5 Vikram Sarabhai Space Centre (VSSC), Thumba. One of the main space research and development establishments in India. It is home to Thumba Equatorial Rocket Launching Station (TERLS), which is used to launch sounding rockets for meteorological and upper atmospheric research. It has a space museum. (updated Oct 2023)\n\n\n=== Monuments and museums ===\n\n Chacha Nehru Children's Museum. A good children's museum with a large collection of dolls, masks, and paintings. A mini aquarium and water play area is set here. Located in Thycuad, in the heart of city, it is a good evening spot for families. \n6 East Fort. An old fort around Sree Padmanabhaswamy temple. Today most of fortifications have been dismantled, except the Eastern side. The fort will sometimes be referred to as the East Fort because of this. The Fort Gate opens directly before Sree Padmanabha Temple and is designed in a European style. The illumination of the East Fort Gate in the evenings is a major attraction. \n7 HH Uthradam Thirunal Marthanda Varma Chithralayam (Royal art gallery) (same entrance as Kuthiramalika and one ticket counter for both (but separate tickets)). 9:00-12:30 and 14:00-16:45. Has an exhibition of portrais and pictures of memorable scenes from the life of the last Maharaja of Travancore. Adults ₹30, foreigners ₹75. (updated Feb 2023)\n8 Kanaka Kunnu Palace (Golden Hill Palace in Malayalam). The cultural hotspot of ancient Thiruvananthapuram. The large palace and its sprawling gardens was once the banquet palace for visiting State guests of Travancore. Today, it has engaging galleries and the grand lawns serve as open-air auditoriums for regular concerts and evening dance programs. \n Kerala Science and Technology Museum (near Priyadarshini Planetarium). This large science museum features a timeline of various technologies. On display are galleries on Electrical Engineering, Biomedical, and Mechanical Engineering. It has a collection of electronic equipments and a 3D theatre with regular shows. \n9 Keralan Museum (Opposite of Napier Museum's garden-complex, south of Museum Rd). Housed in a beautiful colonial building, this newly developed museum (circa 2008 vintage) presents a periodised history of Kerala. It's the first 'interactive' museum in the country, featuring touchscreen terminals. Like so many museums and historical texts in India, there are no maps inside to provide visual aid to the topics. Regardless, the museum is very pleasant, clean, modern and well presented when compared to others. Displays begin in the stone age and advance through rock art and stone tools to pottery, bronze sculptures, folk art and architecture, with a few latter-day items to boot. A small canteen behind the museum for staff of the adjacent tourist department offers good value fish or vegetable curry. Entry is ₹200 for foreigners, extra for a camera. \n10 Kowdiar Palace. In Kowdiar, this is the current, official residence of the Travancore Maharajas and royal family. It is off-the-limits for public. However, a friendly guard may let you inside to have a glimpse of this large architectural wonder built in mixture of Saxon-Travancore styles. The public however can enter into Panchavadi, the resting place of Late HH Maharaja Chitra Thirunal, the last and popular king of Travancore. \n11 Kuthiramalika Palace (Puthen Maliga Palace) (close to Padmanabhaswamy temple). 9:00-12:30 and 14:00-16:45. A unique palace designed by Maharaja Swathi Thirunal (a famous musical genius Maharaja of Travancore), this palace is famous for its horse shaped windows and decor. Has a good collection of many antique items from the Travancore era kings. Thrones, paintings and many belongings are kept in a very good condition, housed in an erstwhile royal building. This palace is the location of the Swathi Thirunal Music Festival and other musical concerts patronized by the Royal family. Adults ₹50, foreigners ₹150. (updated Feb 2023)\n12 Legislature Museum (Adjacent to Legislature). This museum depicts the history of South Asian Legislature assemblies. The building was once the headquarters of Travancore Royal Nair Brigade (Travancore Army). Today its galleries can give a detailed look into history of South Asian legislature activities and process. \n13 Napier Museum (Art Gallery). Tue Thu-Sun 10AM-5PM, Wed noon-5PM. Named after former Madras governor, Lord Napier (Francis Napier, 10th Lord Napier and 1st Baron Ettrick), this museum is a beautiful building in the museum (read: park) compound. This masterpiece was designed by Madras Government architect Robert Chisholm in Indo-Saracenic style. The museum displays rare archaeological and historical artifacts including bronze idols, ceramics, an impressive carved wooden cart, Buddhist statues from various parts of the country and neighbouring places, ivory carvings, chests, Balinese shadow puppets, various old coins, Hindu puja items, and more. Quite a few objects are foreign, and of those quite a few are Chinese. Unfortunately most are lacking labels, have labels only in Malayalam, or are very vague. Look up at the impressive roof when you enter! No photography is allowed. There is no sign saying \"Napier Museum\", just \"Art Gallery\" and it's the big building in the park to the north of Museum Road. ₹5 for tickets. \n14 Sree Chithra Art Gallery. closed Mon. An art gallery in the Museum compound and displays a rare collection of mainly Indian paintings. The main attractions are paintings by Kerala painter Raja Ravi Varma and other famous painters Raja raja Varma and Nicholas Roerich. Also featured are miniature paintings from around the world, Kerala mural paintings, and Tanjore miniature paintings. \n\n\n=== Government buildings ===\n\n15 Kerala Government Secretariat (കേരള സംസ്ഥാന ഭരണ സിരാ കേന്ദ്രം Saṁsthāna Sarkkār Sirākēndraṁ). Built as Huzur Kacheri (Secretarial Offices in Malayalam) in 1860 to serve as the Royal Durbar Hall of Travancore Kingdom, this building has an imposing structure. The building was designed by the British Royal Engineers Corps combining international architectural styles and is a testimony to past influences from Roman, Dutch and English styles on Kerala. The old Legislature Assembly Hall inside the complex (Asia's first native legislative assembly) has a good mus",
+  "url": "https://en.wikivoyage.org/wiki/Thiruvananthapuram"
+ },
+ "sights": [
+  {
+   "name": "Kannammoola",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 8.503333333333334,
+   "lon": 76.93166666666667
+  },
+  {
+   "name": "Regional Institute of Ophthalmology, Thiruvananthapuram",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 8.498888888888889,
+   "lon": 76.94
+  },
+  {
+   "name": "Government Engineering College, Barton Hill",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 8.5052,
+   "lon": 76.9408
+  },
+  {
+   "name": "Perunthanni",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 8.495,
+   "lon": 76.92916666666667
+  },
+  {
+   "name": "Pettah, Thiruvananthapuram",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 8.495,
+   "lon": 76.92916666666667
+  },
+  {
+   "name": "Palkulangara",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 8.495,
+   "lon": 76.92916666666667
+  },
+  {
+   "name": "Holy Angels' Convent Trivandrum",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 8.4981,
+   "lon": 76.9431
+  },
+  {
+   "name": "Government Law College, Thiruvananthapuram",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 8.5085,
+   "lon": 76.9427
+  },
+  {
+   "name": "St. Joseph's Higher Secondary School, Thiruvananthapuram",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 8.4997,
+   "lon": 76.9454
+  },
+  {
+   "name": "University of Kerala",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 8.503333333333334,
+   "lon": 76.94722222222222
+  },
+  {
+   "name": "Palkulangara Devi Temple",
+   "kind": "landmark",
+   "walkMinutes": 26,
+   "lat": 8.487499999999999,
+   "lon": 76.93388888888889
+  },
+  {
+   "name": "Sri Padmanabha Theatre",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 8.516666666666666,
+   "lon": 76.93333333333334
+  },
+  {
+   "name": "International Film Festival of Kerala",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 8.516666666666666,
+   "lon": 76.93333333333334
+  },
+  {
+   "name": "Niyamasabha Mandiram",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 8.5067,
+   "lon": 76.9487
+  },
+  {
+   "name": "St. Mary, Queen of Peace Basilica",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 8.503,
+   "lon": 76.95
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

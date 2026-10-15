@@ -1,0 +1,45 @@
+{
+ "query": "Point Calimere",
+ "found": "Point Calimere WLS, Kodiyakkarai, Vedaranyam, Nagapattinam, Tamil Nadu, India",
+ "lat": 10.3062769,
+ "lon": 79.8515227,
+ "fetchedAt": "2026-10-12T19:22:54.550Z",
+ "locality": {
+  "id": "kodiyakkarai-nagapattinam-district-tamil-nadu",
+  "name": "Kodiyakkarai",
+  "area": "Vedaranyam, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Point Calimere": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Point_Calimere_aerial.jpg/1280px-Point_Calimere_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Point Calimere",
+   "credit": "Photo: This Image was created by User:PlaneMad. If you are using the image under the creative commons share alike license please credit the photo CC-by-sa PlaneMad/Wikimedia and include a link to this page. No explicit permission is needed from me, but id appreciate an email if my work has been of help to you. If you dont want to release your work under a creative commons license, please mail me at arun.planemad@gmail.com or catch me at my Website to negotiate a custom license as per your needs., CC BY-SA 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Point_Calimere_aerial.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Point Calimere",
+   "text": "Point Calimere, also called Cape Calimere or Kodiakkarai, is a low headland of the Coromandel Coast, in the Nagapattinam district of the Indian state of Tamil Nadu. The Cape is located about 9 kilometres (5.6 mi) south of Vedaranyam in the Kaveri delta, and marks a nearly right-angle turn in the coastline. The antiquity of the area is evidenced by the Kodi Kuzhagar temple built during the Chola period, and a Chola lighthouse, which was destroyed in the 2004 Indian Ocean tsunami.\nKodiakkarai has been designated as a Ramsar site since August 2002. Point Calimere is also associated with the mythological Hindu epic, The Ramayana. The highest point of the cape, at an elevation of 4 metres (13 ft), is Ramarpatham, meaning \"Rama's feet\" in Tamil. A stone slab on the Cape bears the impressions of two feet and is said to be the place where Rama stood and reconnoitered Ravana's kingdom in Sri Lanka, which is 48 kilometres (30 mi) to the south of the Point. It is also mentioned by Kalki in his historical novel Ponniyin Selvan.\n\n\n== Etymology and names ==\nThe name Point Calimere has been historically associated with the Tamil name Kallimēdu (கள்ளிமேடு). The Great Trigonometrical Survey of India,...",
+   "url": "https://en.wikipedia.org/wiki/Point_Calimere"
+  },
+  {
+   "title": "Point Calimere Wildlife and Bird Sanctuary",
+   "text": "Point Calimere Wildlife and Bird Sanctuary is a protected area in Tamil Nadu, South India, covering 21.47 km2 (8.29 sq mi) along the Palk Strait where it meets the Bay of Bengal at Point Calimere at the southeastern tip of Nagapattinam District. It was created in 1967 for the conservation of the blackbuck and also hosts large congregations of waterbirds, especially greater flamingos. It has been classified as an Important Bird Area.",
+   "url": "https://en.wikipedia.org/wiki/Point_Calimere_Wildlife_and_Bird_Sanctuary"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Point Calimere Wildlife and Bird Sanctuary",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 10.31,
+   "lon": 79.86
+  }
+ ],
+ "food": [],
+ "errors": []
+}

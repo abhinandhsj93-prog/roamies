@@ -1,0 +1,71 @@
+{
+ "query": "Kudremukh",
+ "region": "karnataka",
+ "name": "Kudremukh",
+ "draft": {
+  "briefing": "Hey, you're in Kudremukh! The name means \"horse-faced\" in Kannada, after one side of the mountain that looks just like a horse's face.",
+  "hungryLine": "Kudremukh is a small hill and mining town, so eat at a local spot and save your energy for the views.",
+  "moodReplies": {
+   "show-me-around": "There's a temple about 10 minutes' walk away, and the Kudremukha peak itself is the big sight around here.",
+   "somewhere-to-chill": "Just find a spot with a view of the mountain and try to spot the horse's face.",
+   "surprise-me": "Kudremukha is Karnataka's second highest peak after Mullayanagiri, and the 26th highest in the Western Ghats."
+  },
+  "seeFirst": {
+   "caption": "Around Kudremukh",
+   "spots": [
+    {
+     "name": "Kudremukha",
+     "detail": "The peak · Karnataka's second highest",
+     "status": {
+      "text": "Check conditions locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Temple",
+     "detail": "10 min walk · A local place of worship",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Fly into Mangalore.",
+    "body": "The nearest international airport is at Mangalore, about 99 km away."
+   },
+   {
+    "icon": "tag",
+    "title": "Tread lightly in the park.",
+    "body": "Kudremukha National Park is a protected area of tropical wet evergreen forest, so leave nothing behind."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Samseparvata",
+    "body": "The mountain was once called Samseparvata, because people approached it from Samse village.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Mining days",
+    "title": "An iron ore town",
+    "body": "A small hill station and iron ore mining town grew up near the mountain, about 20 km from Kalasa.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A biodiversity hotspot",
+    "body": "Kudremukha National Park covers 600.32 square km and is part of a UNESCO World Heritage Site, one of the world's 38 hottest hotspots of biodiversity.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

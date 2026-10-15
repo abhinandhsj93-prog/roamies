@@ -1,0 +1,97 @@
+{
+ "query": "Vythiri, Wayanad",
+ "region": "kerala",
+ "name": "Vythiri",
+ "draft": {
+  "briefing": "Hey, you're in Vythiri! It's one of only three taluks in Wayanad, a mountainous, mostly forested district up on the Western Ghats. Just down the road is Pookode Lake, the smallest and highest freshwater lake in Kerala.",
+  "hungryLine": "Look out for bamboo rice, called Mulayari here, and wash it down with local Wayanad tea or coffee.",
+  "moodReplies": {
+   "show-me-around": "Vythiri town is about a 12 min walk, and Pookode Lake is a short drive away. Save a day for Edakkal Caves over in the Sultan Bathery area.",
+   "somewhere-to-chill": "Head to Pookode Lake, 770 metres up and ringed by evergreen forest and mountain slopes, and just sit by the water.",
+   "surprise-me": "Bamboo rice is actually bamboo seed, richer in protein than rice or wheat, but it tastes like rice."
+  },
+  "seeFirst": {
+   "caption": "Around Vythiri",
+   "spots": [
+    {
+     "name": "Vythiri",
+     "detail": "12 min walk · The town itself",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Pookode Lake",
+     "detail": "Short drive · Kerala's smallest and highest freshwater lake",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Edakkal Caves",
+     "detail": "In the Sultan Bathery area · Look for bamboo rice payasam on the walkway",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "All over Wayanad",
+    "title": "A once-in-a-lifetime harvest",
+    "body": "Bamboo is said to seed only after a very long span. That's why people here say harvesting bamboo rice is a once-in-a-lifetime experience."
+   },
+   {
+    "where": "Pookode Lake",
+    "title": "Kerala's little lake in the sky",
+    "body": "Locals are proud that Pookode is both the smallest and the highest freshwater lake in Kerala. It sits 770 metres up, wrapped in evergreen forest."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Give it 3-4 days.",
+    "body": "That's enough to cover all or most of Wayanad's sights across the Kalpetta, Sultan Bathery and Mananthavady areas."
+   },
+   {
+    "icon": "tag",
+    "title": "Stick to beer or wine.",
+    "body": "Beer and wine are easy to find in Wayanad, but stronger drinks are prohibited."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Forest hills",
+    "body": "Wayanad sits on the Western Ghats at around 700 metres, rising to 2,100 at its highest. Most of the land is still forest.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Through the years",
+    "title": "Temples and heritage",
+    "body": "The district gathered temples and heritage spots, from the Jain Temple and Edakkal Caves near Sultan Bathery to the Pazhassi Raja Museum and Thirunelli Temple near Mananthavady.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Plantation country",
+    "title": "Tea in the hills",
+    "body": "Tea estates spread over the slopes, and Wayanad tea and coffee are now sold all over the district.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "Weekend escape",
+    "body": "Wayanad is a favourite weekend trip from Bangalore and Mysore, and Vythiri is one of its three taluks. Tell me what you thought of the bamboo rice.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

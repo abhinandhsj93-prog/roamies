@@ -1,0 +1,263 @@
+{
+ "query": "George Town, Chennai",
+ "found": "George Town, Zone 5 Royapuram, Chennai, Chennai Metropolitan Area, Chennai District, Tamil Nadu, 600079, India",
+ "lat": 13.0920917,
+ "lon": 80.2822426,
+ "fetchedAt": "2026-10-12T19:14:01.014Z",
+ "locality": {
+  "id": "zone-5-royapuram-chennai-district-tamil-nadu",
+  "name": "Zone 5 Royapuram",
+  "area": "Chennai, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Dr. Ambedkar Government Law College, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Inside_madras_law_college_old_building%2C_Sep_2013.jpg/1280px-Inside_madras_law_college_old_building%2C_Sep_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dr. Ambedkar Government Law College, Chennai",
+   "credit": "Photo: Darkxblade1, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_madras_law_college_old_building,_Sep_2013.jpg"
+  },
+  "Armenian Church, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Armenian_Church_Madras.jpg/1280px-Armenian_Church_Madras.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Armenian Church, Chennai",
+   "credit": "Photo: Svs99n, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Armenian_Church_Madras.jpg"
+  },
+  "Sowcarpet": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jain_Mandir%2C%28BHAGWAN_SHRI_PARSVANATHJI%29_Mint_Street%2C_Chennai_-_panoramio_%281%29.jpg/1280px-Jain_Mandir%2C%28BHAGWAN_SHRI_PARSVANATHJI%29_Mint_Street%2C_Chennai_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sowcarpet",
+   "credit": "Photo: RAJUKHAN SR RAJESH, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jain_Mandir,(BHAGWAN_SHRI_PARSVANATHJI)_Mint_Street,_Chennai_-_panoramio_(1).jpg"
+  },
+  "George Town, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Chennai_High_Court.jpg/1280px-Chennai_High_Court.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "George Town, Chennai",
+   "credit": "Photo: Yoga Balaji, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chennai_High_Court.jpg"
+  },
+  "Ekambareswarar Temple, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Chennai_Ekambareswarar_Kovil.jpg/1280px-Chennai_Ekambareswarar_Kovil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ekambareswarar Temple, Chennai",
+   "credit": "Photo: Rsmn, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chennai_Ekambareswarar_Kovil.jpg"
+  },
+  "Kachchaleswarar Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Front_view_of_Kacchaaleeshwarar_Koil%2C_Chennai.jpg/1280px-Front_view_of_Kacchaaleeshwarar_Koil%2C_Chennai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kachchaleswarar Temple",
+   "credit": "Photo: Rasnaboy, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_Kacchaaleeshwarar_Koil,_Chennai.jpg"
+  },
+  "St. Mary's Co-Cathedral, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/St._Mary%27s_Co-cathedral_Church%2C_Chennai%2C_Tamil_Nadu%2C_in_India.jpg/1280px-St._Mary%27s_Co-cathedral_Church%2C_Chennai%2C_Tamil_Nadu%2C_in_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Mary's Co-Cathedral, Chennai",
+   "credit": "Photo: Helppublic, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Mary%27s_Co-cathedral_Church,_Chennai,_Tamil_Nadu,_in_India.jpg"
+  },
+  "Armenian Street, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/ArmenianStreet_GeorgeTown_Chennai.jpg/1280px-ArmenianStreet_GeorgeTown_Chennai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Armenian Street, Chennai",
+   "credit": "Photo: Rasnaboy, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ArmenianStreet_GeorgeTown_Chennai.jpg"
+  },
+  "Anderson Church, Chennai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Anderson_Church%2C_Chennai.JPG/1280px-Anderson_Church%2C_Chennai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Anderson Church, Chennai",
+   "credit": "Photo: L.vivian.richard, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anderson_Church,_Chennai.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Dr. Ambedkar Government Law College, Chennai",
+   "text": "Dr. Ambedkar Government Law College, commonly known by its former name Madras Law College, is a law school, located in Chennai (Madras), Tamil Nadu, India. It is also referred to as Government Law College or GLC, Chennai. It was established in 1855. It was renamed in 1990, as Dr. Ambedkar Government Law College, by the Government of Tamil Nadu in commemoration of the birth centenary of B. R. Ambedkar. In 1997, the Government of Tamil Nadu passed an Act which transferred the college from the University of Madras to the newly established Tamil Nadu Dr. Ambedkar Law University.",
+   "url": "https://en.wikipedia.org/wiki/Dr._Ambedkar_Government_Law_College,_Chennai"
+  },
+  {
+   "title": "Armenian Church, Chennai",
+   "text": "Saint Mary Church of Chennai (Armenian: Սուրբ Աստվածածին Եկեղեցի), constructed in 1712  and reconstructed in 1772, is one of the oldest churches of the Indian subcontinent, located in Chennai. It is famous for its belfry of six. The Church, also called the Armenian Church of Virgin Mary, is located on the Armenian Street in the neighbourhood of George Town.\nTrevor Alexander was the caretaker of the Church until 2014; as on 2019, Jude Johnson, who is a relative of Trevor Alexander, is the care taker.",
+   "url": "https://en.wikipedia.org/wiki/Armenian_Church,_Chennai"
+  },
+  {
+   "title": "Sowcarpet",
+   "text": "Sowcarpet is a neighborhood in the northern part of Chennai, India. Sowcarpet is one of the oldest neighborhoods of the city with narrow streets and vintage buildings. It is a bustling commercial area of the city, and a range of wholesale markets are located here. The locality is known as the North Indian hub of Chennai owing to the presence of the North Indian community here. Sowcarpet is home to the largest Marwadi community in South India.",
+   "url": "https://en.wikipedia.org/wiki/Sowcarpet"
+  },
+  {
+   "title": "Gokhale Hall",
+   "text": "The Gopal Krishna Gokhale Hall is a public hall situated in Armenian Street, Georgetown, Chennai. It was constructed by Annie Besant in  1915 as the headquarters of the Young Men's Indian Association.",
+   "url": "https://en.wikipedia.org/wiki/Gokhale_Hall"
+  },
+  {
+   "title": "Broadway bus terminus",
+   "text": "Broadway Bus Terminus is the largest city bus terminus of the Metropolitan Transport Corporation (Chennai), Chennai, Tamil Nadu, India. It is located in the downtown area of the city, namely, Parry's corner and Chennai Fort. It lies opposite the Madras High Court along the Esplanade in George Town. It is a connecting point to several areas in the city. The bus terminus is located at the southern end of Broadway and is near the Chennai Fort suburban railway station.",
+   "url": "https://en.wikipedia.org/wiki/Broadway_bus_terminus"
+  },
+  {
+   "title": "George Town, Chennai",
+   "text": "George Town, also known as Muthialpet, Parry's Corner and Broadway, is a neighbourhood in Chennai, Tamil Nadu, India. It is near the Fort St. George and is a historical area of Madras city from where its expansion began in the 1640s. It extends from the Bay of Bengal in the east to Park town on the west, The Fort St. George on the south to Royapuram in the north. The Fort St. George houses the Tamil Nadu Legislative Assembly and the Secretariat. The High court of Tamil Nadu at Chennai, Dr. Ambedkar Law College, Stanley Medical College and Hospital are located here.",
+   "url": "https://en.wikipedia.org/wiki/George_Town,_Chennai"
+  },
+  {
+   "title": "Raja Annamalai Chettiar Hall",
+   "text": "The Raja Annamalai Chettiar Hall is an auditorium situated in Chennai, India. It is considered to be one of the city's oldest venues for Carnatic music concerts apart from the T. T. Krishnamachari Auditorium in Mylapore. The \nauditorium is the venue for concerts organised by the Tamil Isai Sangam.",
+   "url": "https://en.wikipedia.org/wiki/Raja_Annamalai_Chettiar_Hall"
+  },
+  {
+   "title": "Ekambareswarar Temple, Chennai",
+   "text": "Ekambareswarar Temple, Chennai is a Hindu temple situated in the neighbourhood of Parry's corner (George Town), Chennai, India dedicated to Shiva. It was constructed by Alanganatha Pillai, chief merchant of the Madras factory of the British East India Company.",
+   "url": "https://en.wikipedia.org/wiki/Ekambareswarar_Temple,_Chennai"
+  },
+  {
+   "title": "Kandaswami Temple, Georgetown",
+   "text": "Kandaswami Temple (Tamil: கந்த சுவாமி  கோவில்)  is a Hindu temple dedicated to Murugan, located in the Parry's corner (Old: George Town) neighbourhood of Chennai city, in Tamil Nadu, India. It is also called  'Mutthu Kumāra Swāmi deva sthānam' (Tamil: முத்து குமார சுவாமி ஸ்தானம்) and popularly known as Kandha kottam (Tamil: கந்த கோட்டம்). It is managed by the Tamil Nadu Hindu religious and charitable endowments department of the government of Tamil Nadu. The Kandha kottam temple has associated educational institutions for music and dance classes; primary and high schools; and a college, in various locations. The Kandha kottam temple also performs social welfare initiatives like free medical clinics and free pharmacies.",
+   "url": "https://en.wikipedia.org/wiki/Kandaswami_Temple,_Georgetown"
+  },
+  {
+   "title": "Kachchaleswarar Temple",
+   "text": "Kachchaleswarar Temple, also known as the Great Kachali Pagoda, is a Hindu temple located in Armenian Street, in the neighbourhood of Parry's corner (Old: George Town) in Chennai city, Tamil Nadu, India. Constructed on land belonging to dubash Kalavai Chetty in 1725, the temple belonged to the left-hand castes and was the site of the first major conflict between left and right-handed castes in the then Madras city.\nThe temple is modelled on the Kachaaleshwarar temple at Kancheepuram. Kachaaleshwarar (Shiva) is the main deity and Soundaraambika (Parvathi), the consort deity.",
+   "url": "https://en.wikipedia.org/wiki/Kachchaleswarar_Temple"
+  },
+  {
+   "title": "St. Mary's Co-Cathedral, Chennai",
+   "text": "St. Mary's Co-Cathedral is a Roman Catholic co-cathedral in Armenian Street, Parrys corner, Chennai, Tamil Nadu, India. Constructed by Capuchins in 1658, it is one of the oldest churches in the former British India. For a long time Cathedral of the diocese it received the title of co-cathedral when the seat of the Roman Catholic Archdiocese of Madras and Mylapore was transferred to San Thome Basilica.",
+   "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Co-Cathedral,_Chennai"
+  },
+  {
+   "title": "Armenian Street, Chennai",
+   "text": "Armenian Street, locally known as Aranmanaikaran Street, is one of the historical streets of the commercial centre of George Town in Chennai, India. The road runs north–south and connects Mannady Street in the north with the China Bazaar Road (NSC Bose Road) in the south. The street is dotted with several century-old historical structures.\nThe street is named for the Armenians, who were some of the early settlers in the city of Madras. Several moved to the long street of the commercial neighbourhood of George Town in the 1750s, eventually making the street bear their name. The locals, however, corrupted the name to Aranmanaikaran Street, which means the 'street of the palace people'.",
+   "url": "https://en.wikipedia.org/wiki/Armenian_Street,_Chennai"
+  },
+  {
+   "title": "Anderson Church, Chennai",
+   "text": "Anderson Church is one of the oldest churches in Parry's Corner area of Chennai, the capital of the South Indian state of Tamil Nadu. The original structure was built in 1845 by Anderson as an educational institution. The church is named after Anderson, a Scottish missionary who founded the mission of the Free Church of Scotland at Madras, India.\nAnderson Church is a working church with hourly prayer and daily services and follows Protestant sect of Christianity. The church also celebrates Harvest festival every year during the month of November. In modern times, it is under the dominion of Diocese of Madras of the Church of South India. It is one of the most prominent landmarks of Parry's Corner.",
+   "url": "https://en.wikipedia.org/wiki/Anderson_Church,_Chennai"
+  },
+  {
+   "title": "Seven Wells",
+   "text": "Seven Wells is a neighbourhood in Chennai district of Tamil Nadu State in peninsular India. Its name was derived from the seven number of wells, dug out for clean drinking water and supplied to Fort, during the British period in Chennai. The seven wells were ordered to dig by Francis Whyte Ellis, an Englishman, who was an official of the East India Company, later became Collector of 'Madras' (renamed and called as Chennai nowadays). Seven Wells constitute Seven Wells North [Seven Wells North is located at an altitude of 33 m above the mean sea level with the geographical coordinates of 13°06'11.5\"N 80.16'53.8\"E (i.e. 13.103200°N 80.281600°E)] and Seven Wells South [Seven Wells South is located at an altitude of 33 m above the mean sea level with the geographical coordinates of 13°05'46.0\"N 80°16'53.8\"E (i.e. 13.096100°N 80.281600°E)]. Out of the seven wells dug, only two are in use nowadays. This place was earlier called as Peddanaikenpet. Seven Wells is a crowded place of residents and businesses.",
+   "url": "https://en.wikipedia.org/wiki/Seven_Wells"
+  },
+  {
+   "title": "Elephant Gate",
+   "text": "Elephant Gate is a neighbourhood in Chennai district of Tamil Nadu state in the peninsular India. It is located at an altitude of about 33 m above the mean sea level with the geographical coordinates of 13°05′28.8″N 80°16′42.5″E (i.e., 13.091345°N, 80.278475°E). George Town, Royapuram, Kondithope, Mannadi Vannarapettai, Tondiarpet, Sowcarpet, Vallalar Nagar, Basin bridge and Kasimedu are some of the important neighbourhoods of Elephant Gate. Elephant Gate is one of the areas where the former Chief Minister of Tamil Nadu, K. Kamaraj, delivered a speech in the year 1959.\n There is a police station in Elephant Gate.\nThere existed a bridge named Elephant Gate bridge, 89 years old, in between Basin Bridge railway station and Chennai Central railway station above the railway tracks. Near about 10,000 vehicles, during peak hours, crossed this bridge. Due to the weakness of the bridge and to decongest the traffic, the bridge was demolished; and a new bridge, with the length of about 156.12 m is being constructed. The construction works are carried out by the Greater Chennai Corporation and Southern Railway, Chennai division. The cost of the project is about ₹30 crore and is equally shared by...",
+   "url": "https://en.wikipedia.org/wiki/Elephant_Gate"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Chennai",
+  "text": "Chennai (Tamil: சென்னை), formerly Madras (மெட்ராஸ் Meḍrās), is the largest coastal city in southern India and the capital of the state of Tamil Nadu. It is on the east coast of peninsular India. Though Chennai traces its history to Fort St George and the adjoining village of Madrasapattinam founded by the British East India Company in 1640, some residential districts of the city are older. With a metropolitan population of over 11 million (2025), Chennai is the fifth-largest city in India, and the second-largest in southern India after Bengaluru.\nChennai is well-connected by road, rail and air and is a staging point for tours to the 7th century Pallava temple of Mamallapuram, a  UNESCO World Heritage Site, the Hindu temples of Kanchipuram, Sriperumbudur and Tirupati, the bird sanctuary of Vedanthangal and the Pondicherry ashram.\nChennai has an extremely hot and humid climate, especially in the month of May, and has heavy rains during monsoons (July to November). The worst of the heat can be avoided by visiting from November to February.\n\n\n== See ==\nIndividual listings can be found in Chennai's district articlesChennai is a diverse mix of cultures, with over 15,000 temples and a couple of mosques and churches.\n\n\n== Do ==\nChennai has several well-known beaches. The Marina Beach in Central Chennai is the second-longest beach in the world after Cox's Bazar in Bangladesh. Chennai is home to Guindy National Park, the smallest national park in India.\n\n\n=== Others ===\nDuring summers it becomes too hot and humid to venture out during the day. So go out for a stroll during the night (7-9PM) on the Marina beach and Elliots Beach (Besant Nagar). It's a nice idea to pack dinner and have a picnic on the beach as most locals do. If you happen to drive a car you can also consider taking along a few foldable chairs. Beyond 10PM, no one is permitted to be on the beach. There are policemen on the beach to ensure people follow this rule, and on some occasions they tend to shoo people out by 9PM. However, if you are an early riser, you might consider visiting the beaches early morning around 6 to 8AM The sunrise is wonderful and there is a slight breeze as well. However, be warned that there are dogs lying all over the place and you have a high chance of getting hit by a cricket ball if you aren't looking.\nStroll along the over crowded Pondy Bazaar and Ranganathan Street and try your skills in bargaining for knick-knacks. Be warned that it is an intensely crowded place, where you have to elbow your way through.\nTake a bus or an auto to Mylapore Tank and take a walk around Mylapore especially in and around the Kapaleeshwarar Temple. The crowds, sounds, fragrances of temple incense and flowers and the tiny shops are to be definitely experienced though keep away on Fridays. It gets too hectic even for experienced Mylaporeans.\n\n\n=== Music and dance ===\nChennai is a major centre of Bharatanatyam with over 1,000 dance performances a year. More dance forms are now encouraged and taught like Kuchipudi (Tr\n== Eat ==\nChennai has numerous restaurants, offering an assortment of cuisine. The beach restaurants are well-maintained and serve great food during the evenings. The eat-outs in Chennai range from budget, midrange and to up-market. There are swanky star-quality restaurants, plain open traditional vegetarian or non-vegetarian restaurants- where you share a table with strangers, street stalls, tea kadais, Indian fast food centres, western fast food centres, food courts, coffee shops, bakeries to exclusive specialty establishments. Vegetarian restaurants serve tiffin and vegetarian meals. There are also a number of restaurants that serve a variety of Tamil, Andhra and Kerala vegetarian and non-vegetarian fare. Many of these restaurants have nowadays diversified and offer other Indian and Indianized Chinese dishes as well. Usually, the check includes a service charge, written next to 'S.C.' If no service charge is added, it is customary to leave a moderate tip.\nThe East Coast Road abounds with restaurants and eating spots, which offer a wide range of cuisines and a tasteful ambience. And you can plan your dinner or lunch in one of these hotels.\n\n\n== Drink ==\nChennai is a difficult place to drink. Government rule states that only establishments with a minimum of 21 rooms can obtain a bar or liquor license. All the bars that are around are (at least on paper) part of some hotel or the other and in general overpriced.\nGovernment-run liquor stores called TASMAC are all over the place but in general not at all a pleasant experience. They usually have unpleasant staff and environment and usually will have local brands. Also, they always tend to mark up each bottle by ₹5-10 over the listed price. Go for it if you want a one-time war-like experience in order to obtain some booze!\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Chennai"
+ },
+ "sights": [
+  {
+   "name": "George Town, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 13.0939,
+   "lon": 80.2839
+  },
+  {
+   "name": "Kandaswami Temple, Georgetown",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 13.0939,
+   "lon": 80.2839
+  },
+  {
+   "name": "Elephant Gate",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 13.091333333333333,
+   "lon": 80.27847222222222
+  },
+  {
+   "name": "Seven Wells",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 13.096111111111112,
+   "lon": 80.2816111111111
+  },
+  {
+   "name": "Sowcarpet",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 13.0895,
+   "lon": 80.27897
+  },
+  {
+   "name": "Broadway bus terminus",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 13.0874,
+   "lon": 80.2838
+  },
+  {
+   "name": "Ekambareswarar Temple, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.08817,
+   "lon": 80.2784
+  },
+  {
+   "name": "Kachchaleswarar Temple",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.093293,
+   "lon": 80.287712
+  },
+  {
+   "name": "Gokhale Hall",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.091564,
+   "lon": 80.287861
+  },
+  {
+   "name": "St. Mary's Co-Cathedral, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.0897,
+   "lon": 80.2874
+  },
+  {
+   "name": "Dr. Ambedkar Government Law College, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.087547222222224,
+   "lon": 80.28563055555556
+  },
+  {
+   "name": "Armenian Church, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 13.0891,
+   "lon": 80.2873
+  },
+  {
+   "name": "Armenian Street, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 13.0927,
+   "lon": 80.2883
+  },
+  {
+   "name": "Raja Annamalai Chettiar Hall",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 13.085853,
+   "lon": 80.284258
+  },
+  {
+   "name": "Anderson Church, Chennai",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 13.088611111111112,
+   "lon": 80.28833333333333
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

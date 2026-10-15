@@ -1,0 +1,139 @@
+{
+ "query": "Varkala Beach, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "Varkala Beach",
+ "draft": {
+  "briefing": "Hey, you're at Varkala Beach! Laterite cliffs drop sharply into the sea here, with just a small strip of sand at the bottom. The cliffs run for 7.5 km and are a National Geological Monument.",
+  "hungryLine": "Up on the cliff, fishermen's catch is laid out in front of the restaurants, so pick your fish, have it done in the tandoor and eat it watching the sunset.",
+  "moodReplies": {
+   "show-me-around": "Janardanaswamy Temple is a 9 min walk, and Kurakkanni, with the helipad and Varkala Palace, is about 19 min. Sivagiri, where Sree Narayana Guru's samadhi is, makes a good next stop.",
+   "somewhere-to-chill": "Walk the cliff path past Black beach to Odayam beach, the least crowded in Varkala, and float in the gentle waves.",
+   "surprise-me": "These cliffs were carved by erosion between 23 and 2.58 million years ago, which is why the Geological Survey of India protects them."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Janardanaswamy Temple",
+     "detail": "9 min walk · Vishnu temple said to be 2000 years old",
+     "status": {
+      "text": "Non-Hindus can't enter the inner sanctum",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Kurakkanni",
+     "detail": "19 min walk · Helipad, Varkala Palace and the aquarium",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sivagiri",
+     "detail": "In Varkala · Sree Narayana Guru's mutt and samadhi",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Janardanaswamy Temple",
+    "title": "The Southern Kasi",
+    "body": "The hilltop temple to Vishnu and Hanuman gave Varkala its nickname, Southern Kasi, after holy Benares. Locals call its god Varkaleswara, the lord of Varkala."
+   },
+   {
+    "where": "Sivagiri",
+    "title": "One Caste, One Religion, One God",
+    "body": "Sree Narayana Guru made Varkala his base and spread his idea of One Caste, One Religion, One God. Decades after he died here in 1928, thousands still come to his samadhi."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come from late November.",
+    "body": "Most cliff restaurants are seasonal and spring up when the tourist season starts."
+   },
+   {
+    "icon": "tag",
+    "title": "Pick a registered Ayurveda centre.",
+    "body": "There are lots of spas here, so look for registered practitioners and watch out for fraudsters."
+   }
+  ],
+  "story": [
+   {
+    "era": "Millions of years ago",
+    "title": "The cliffs form",
+    "body": "Erosion during the Miocene and Pliocene shaped the Varkala cliffs along 7.5 km of coast. Today they're a National Geological Monument.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1100s",
+    "title": "A pilgrim town",
+    "body": "Varkala has been a Hindu pilgrimage site since the 12th century, when the Janardhana Temple was built in this period. Pilgrims still come for the same reason.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1880",
+    "title": "The tunnel",
+    "body": "The British built the Varkala Tunnel in 1880. It's still on the list of things to see in town.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Until 1928",
+    "title": "The Guru's home",
+    "body": "Sree Narayana Guru, saint and social reformer, made Varkala his headquarters and founded Sivagiri Mutt. He died here in 1928.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "Cliffs and cafés",
+    "body": "The beach is quieter than Kovalam, and the cliff top is lined with cafés. Tell me which one you'd come back to.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Little Tibet",
+    "detail": "Momos with soup, the Chapati Roll, and a fresh pineapple juice",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Abba Restaurant German Bakery",
+    "detail": "On North Cliff · Own-baked bread and big breakfast combos",
+    "status": {
+     "text": "Great for breakfast",
+     "tone": "open"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Rock n Roll Cafe",
+    "detail": "On the cliff towards Black beach · Fresh fish, crab curry and sunset cocktails",
+    "status": {
+     "text": "Open all day and night",
+     "tone": "open"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

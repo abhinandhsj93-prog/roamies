@@ -1,0 +1,60 @@
+name: Android APK
+
+# Builds an installable APK in the cloud and publishes it as the latest GitHub release.
+# It is signed with the React Native template debug keystore (SHA-1 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25),
+# which is registered in Firebase so Google sign-in works. Not for the Play Store.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [expo-scaffold, main]
+    paths-ignore: ['worker/**', '.github/workflows/worker.yml', 'docs/**', '**.md']
+
+concurrency:
+  group: android-apk-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v4
+      - run: npm ci
+      - name: App config
+        # The live places API URL is a repository variable (Settings → Secrets and variables → Actions → Variables).
+        run: echo "EXPO_PUBLIC_ROAMIES_API_URL=${{ vars.ROAMIES_API_URL }}" >> .env
+      - run: npx expo prebuild --platform android --no-install
+      - name: Build release APK
+        working-directory: android
+        run: ./gradlew assembleRelease --no-daemon -PreactNativeArchitectures=arm64-v8a
+      - run: cp android/app/build/outputs/apk/release/app-release.apk roamies.apk
+      - uses: actions/upload-artifact@v4
+        with:
+          name: roamies-apk
+          path: roamies.apk
+      - name: Publish APK
+        # A new release per build, marked latest, so this link always serves the newest APK:
+        # https://github.com/<owner>/<repo>/releases/latest/download/roamies.apk
+        # (Deleting and re-creating one fixed tag was refused by GitHub.)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="apk-${GITHUB_RUN_NUMBER}-${GITHUB_RUN_ATTEMPT}"
+          gh release create "$tag" roamies.apk --latest --target "$GITHUB_SHA" \
+            --title "Test APK ${GITHUB_SHA::7}" --notes "Built from ${GITHUB_REF_NAME} at ${GITHUB_SHA::7}."
+          # Keep only the newest 5 APK releases.
+          gh release list --limit 50 --json tagName --jq '.[].tagName' | grep '^apk-' | tail -n +6 |
+            xargs -r -I{} gh release delete {} --yes --cleanup-tag || true

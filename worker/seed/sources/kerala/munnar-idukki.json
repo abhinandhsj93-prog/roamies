@@ -1,0 +1,125 @@
+{
+ "query": "Munnar, Idukki",
+ "found": "Munnar, Devikulam, Idukki, Kerala, 685612, India",
+ "lat": 10.0869959,
+ "lon": 77.0600915,
+ "fetchedAt": "2026-10-12T17:47:22.654Z",
+ "locality": {
+  "id": "munnar-bazaar-idukki-kerala",
+  "name": "Munnar Bazaar",
+  "area": "Munnar, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Munnar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Munnar_Overview.jpg/1280px-Munnar_Overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Munnar",
+   "credit": "Photo: Kondephy, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munnar_Overview.jpg"
+  },
+  "Subramanya Temple, Munnar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Munnar_Temple_-_Om_Saravana_Bhavan_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_-_%E0%B4%93%E0%B4%82_%E0%B4%B6%E0%B4%B0%E0%B4%B5%E0%B4%A3_%E0%B4%AD%E0%B4%B5%E0%B5%BB.JPG/1280px-Munnar_Temple_-_Om_Saravana_Bhavan_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_-_%E0%B4%93%E0%B4%82_%E0%B4%B6%E0%B4%B0%E0%B4%B5%E0%B4%A3_%E0%B4%AD%E0%B4%B5%E0%B5%BB.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Subramanya Temple, Munnar",
+   "credit": "Photo: കാക്കര, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munnar_Temple_-_Om_Saravana_Bhavan_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_-_%E0%B4%93%E0%B4%82_%E0%B4%B6%E0%B4%B0%E0%B4%B5%E0%B4%A3_%E0%B4%AD%E0%B4%B5%E0%B5%BB.JPG"
+  },
+  "Mount Carmel Church, Munnar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Munnar_Mount_Carmel_Church_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_%E0%B4%AE%E0%B5%97%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B5%8D_%E0%B4%95%E0%B4%BE%E0%B5%BC%E0%B4%AE%E0%B5%BD_%E0%B4%AA%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%BF-3.JPG/1280px-Munnar_Mount_Carmel_Church_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_%E0%B4%AE%E0%B5%97%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B5%8D_%E0%B4%95%E0%B4%BE%E0%B5%BC%E0%B4%AE%E0%B5%BD_%E0%B4%AA%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%BF-3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mount Carmel Church, Munnar",
+   "credit": "Photo: കാക്കര, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munnar_Mount_Carmel_Church_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_%E0%B4%AE%E0%B5%97%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B5%8D_%E0%B4%95%E0%B4%BE%E0%B5%BC%E0%B4%AE%E0%B5%BD_%E0%B4%AA%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%BF-3.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Munnar",
+   "text": "Munnar (Malayalam pronunciation: [muːn̪ːɐːr]) is a town located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200 ft) above mean sea level, in the Western Ghats mountain range. This ancient plantation settlement, dominated by its tea industry, is also a growing modern hill station.",
+   "url": "https://en.wikipedia.org/wiki/Munnar"
+  },
+  {
+   "title": "Subramanya Temple, Munnar",
+   "text": "Sri Subramanya Temple is a Hindu temple located in Munnar in Idukki district in the Indian state of Kerala. Lord Muruga is the principal deity.",
+   "url": "https://en.wikipedia.org/wiki/Subramanya_Temple,_Munnar"
+  },
+  {
+   "title": "Mount Carmel Church, Munnar",
+   "text": "The Mount Carmel Basilica of Munnar is a Catholic basilica and pilgrimage centre in the plantation town of Munnar, in the southern Indian state of Kerala. The church is known for its wood-framed windows and a statue of Christ and the Virgin Mary.",
+   "url": "https://en.wikipedia.org/wiki/Mount_Carmel_Church,_Munnar"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Munnar",
+  "text": "Munnar is a hill station in the Indian state of Kerala. Tourists come here to see the vast tea plantations of the area. This town and the surrounding region usually offer the most pleasant temperatures in Kerala. Munnar is also a popular place for Indian honeymooners.\n\n\n== See ==\nSome of these sites are more popular for Indian tourists than Western tourists.\n\n\n=== Near Munnar Town ===\n1 Kathakali and Kalarippayattu performances, Thirumeni Cultural Centre in Temple Road (close to EastEnd Hotel), ☏ +91 8548516719, +91 9447827696. 16:00-22:00. In this cultural centre you can see the local art of Kathakali, which is a drama showcasing thick face make up and face gestures. Also, there are Kalarippayattu performances, which is an ancient Martial Art that was used to train soldiers already before the Common Era started. ~₹300 per performance. (updated Jan 2023)\n2 Atukkad Waterfalls (you can find a road leading to Atukkad Waterfalls on Kochi road, just about 5 km from Munnar); this road is very narrow and needs a lot of experience to drive on). A scenic waterfall amidst hills and jungles. \n3 Blossom Park (Also known as Hydel Park) (1 km from Munnar).  \n4 Chithirapuram (around 10 km from Munnar). Chithirapuram has old playgrounds and courts, bungalows and sleepy little cottages which all give this place an old world charm. This town is also famous for its tea plantations. \n5 Pothamedu View Point. A small village 1 km away from headworks dam. Coffee and Cardamom plantation are sights to behold. \n\n\n=== Mattuppetty Direction ===\n6 Floriculture Centre. Daily 08:00-18:00. Run by the Kerala Forest Development Corporation. A well-kept garden with a large variety of flowers and some herbal/ foliage plants, all against the backdrop of the tea plantations. Nice for taking pictures with pretty flowers. ₹50 adults, ₹25 children. (updated Jan 2023)\n7 Kundala Lake (23 km from Munnar). This lake is very beautiful amidst lush jungles. Hiring a pedal boat and exploring the lake and its surroundings is an awesome experience. Except at the place you hired the boat, don't expect to find humans around the lake as it is surrounded by scenic jungles and hills. Unless you know how to row a boat, prefer a pedal boat, each trip lasts around 30 min and will be closed at 4:30PM \nMattupetty (12 km) - Mattupetty houses plenty of fascinating places to relish. Apart from rolling grasslands and lush green tea plantations, Shola forest of Mattupetty is habitat of range of birds. It is also an ideal spot for trekking.\n8 Mattupetty Dam (10 km from Munnar). This popular picnic spot offers activities like boating and horse riding and is a great place to spend the day, especially if visiting with children. You could take the speed boat ride which is fantastic. It costs ₹300 if you have to hire a boat for you alone. The ride is for 15 min. The maximum capacity is 5 persons and you could save some money if you are a group of 4-5. \n9 Mattupetty Indo-Swiss Farm (also known as Mattupetty cattle village). Once upon a time, Tamil migrant labourers reared cattle here. The cool climate and abundance of fodder made it the ideal location for the Indo-Swiss dairy farm. Established in 1961, the Kerala Livestock Development Board (KLDB) manages this highly specialised dairy farm. The dairy farm is a unique one of its kind with more than 100 varieties of high-yielding cattle being reared. Tourists are not allowed to enter the farm. \n\n10 Munnar Echo Point (15 km from Munnar on the way to top station). A small lake set amidst rolling hills. Every loud call made from a spot on the lake embankment is returned manifold by the echo from the surrounding hills. Young tourists throng to this place to listen to the echoes of their friendship calls. \n Photo Point (2 km from Munnar). It is a small place filled with woods and a small stream. Good location to take photos. \n11 Top Station (37 km from Munnar on the Kerala and Tamil Nadu border). Great views of the Western Ghats. Top station is the \"top\"-tourist attraction. This place gives a real 'above the clouds' experience. Regular buses go from Munnar (1h). A jeep costs ₹400. The area is known for the Neelakurunji plant, which flowers only once every 12 years. The flower is violet. \n\n\n=== Thekkady Direction ===\nSignal Point is a view point from where the Munnar Valley can be seen. It is a nice relaxing place. This is otherwise called Cigarette Point, from the early days when junior managers of the plantation gathered to smoke there. From here one can see Chokarmudy Hill and Anamudy Hill.\nIdly Hill View Point\nDevikulam Sri Ayyappan Temple\nMunnar Heritage Tour, Lockhart Tea Factory\nLockhart Tea Museum is a tourism destination which is giving a guided factory tour about orthodox tea manufacturing and can be visited their tea museum which briefs about the history of plantation.\nLockhart Tea Park\nChokarmudy Trekking\nThangaiah Cave\nLockhart Gap View Point\nPeriyakanel Water Falls\nAnayirangal Dam / Boating Center\n\n\n=== Coimbatore Direction ===\n Anamudi Peak (inside Eravikulam National Park). The highest peak (2,695 m) south of the Himalayas, towers over the sanctuary in majestic pride. The slopes of the hills abound in all kinds of rare flora and fauna. The Atlas moth, the largest of its kind in the world, is a unique inhabitant of the park. Other rare species of fauna found here are the Nilgiri Langur, the lion-tailed macaque, leopards, tigers. An ideal place for trekking, facilities are provided here and tourists are allowed to go on foot up to 2 km from Anamudi. Going up to the peak is no longer permissible unless you have special permissions from forest department. \n12 Chinnar Wildlife Sanctuary, Udumalpet Road, ☏ +91 83010 24187. Chinnar wildlife sanctuary is in the Western Ghats of Kerala. This wildlife sanctuary has a large number of plants and animals. This wildlife sanctuary is spread in around 90² km of area. This sanctuary is one of the protected areas in the western ghats because of the significance of its flora, geomorphologic features, ecology and local cultural. \n13 Eravikulam (Rajamalai) National Park (45 min from Munnar). See Nilgiri Thar (Hemitragas hylocres) - an endangered species of mountain goats, rolling grasslands and sholas, spread over 97² km in the Rajamalai hills, rare flora and fauna, Atlas moth (largest in the world), lion-tailed macaque, leopards, tigers, The Kurichi or Neelakurinji Flowers turn the hills of Rajamalai blue every 12 years. The next bloom will be in 2018. One can actually debate if going to the high peak just to see some goats is worth all the effort or not. However, the walk along the park is very romantic and has some breath taking view. Please be aware that this park remains closed every year around February–March due to the breeding program of the Nilgiri Thar. Before visiting Munnar please check if the park is open or not. Tickets can be bought from the counter or online. Please be warned that if you do not reach the counter before 8:30AM, the queue can get so long that it may take a couple of hours to get the tickets. The visit to the park is arranged by buses. While coming back after the visit, you'd again have to wait in queue. The entire process of buying tickets, visiting park and coming back may take 4-5 hours. Indian: ₹120, Foreigner: ₹400, Camera: ₹40. \n14 Lakkam Water Falls. (24 km from Munnar). A small waterfall. \nMarayoor - (Around 40 km from Munnar). It is the only place in Kerala with natural growth of sandalwood trees, natural caves with murals, and relics from late Stone Age civilisation. There is a sandalwood factory of the Forestry department of Kerala and a children's park extending across one hectare of land under the canopy of a single Banyan tree, all of which attract tourists in large numbers.\n Naimakkadu Water Falls. \n15 KDHP Tea Museum (formerly Tata Tea Museum) (Around 2 km from Munnar on the Nallathany road towards north west). Tue-Sun 09:00-17:00. Tourists can see a collection of odd bits from the colonial era. A very enthusiastic 30-minute film is screened, and visitors are then taken around the factory to understand how tea is processed. If you are not a tea connoisseur you can skip visiting this museum. ₹125 adults, ₹40 children. (updated Jan 2023)\n\n\n=== Other places to visit ===\n\nKalvarimount, Situated at a distance of 5 km from Idukki, it is one of the famous hill stations and one can see the view of the reservoir from Idukki to Ayyappancovil.\nKolukkumalai Tea Estate, At a height of about 2,175 m (7,130 ft), this orthodox tea factory lays claim to being one of the highest in the world. The view of the Western Ghats is absolutely enchanting.\n16 Mathikettan national park (Poopara) (34 km from Munnar on Munnar Thekkadi route.).  \n17 Thattekkad Bird Sanctuary (Dr. Salim Ali Bird Sanctuary), ☏ +91 485 258 8302. There are woodpeckers, Malabar gray hornbills, Ceylon frogmouths, parakeets, and rose-billed rollers. This sanctuary is located 20 km from Kothamangalam on the road between Er",
+  "url": "https://en.wikivoyage.org/wiki/Munnar"
+ },
+ "sights": [
+  {
+   "name": "Part of Mount Carmel Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 10.0874023,
+   "lon": 77.0599266
+  },
+  {
+   "name": "Mount Carmel Basilica",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 10.0879391,
+   "lon": 77.0597366
+  },
+  {
+   "name": "Munnar Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 10.0892061,
+   "lon": 77.0608969
+  },
+  {
+   "name": "Munnar Juma Masjid Munnar",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 10.0899227,
+   "lon": 77.0597793
+  },
+  {
+   "name": "CSI church",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 10.0820669,
+   "lon": 77.0616038
+  },
+  {
+   "name": "C.S.I Christ Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 10.0809203,
+   "lon": 77.0615613
+  },
+  {
+   "name": "Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 10.0774512,
+   "lon": 77.0583355
+  },
+  {
+   "name": "St Mary's Orthodox Church Munnar",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 10.0830597,
+   "lon": 77.069855
+  },
+  {
+   "name": "LFGHS Munnar",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 10.0927881,
+   "lon": 77.0515162
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

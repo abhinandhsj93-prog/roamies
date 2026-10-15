@@ -1,0 +1,83 @@
+{
+  "query": "Assagao",
+  "region": "goa",
+  "name": "Assagao",
+  "draft": {
+    "briefing": "Hey, you're in Assagao! This hill-ringed village 4 km west of Mapusa is called the 'Land of Flowers'. People also call it the 'Artist's village', 'Goa's Tuscany' and even 'The Beverly Hills of Goa'.",
+    "hungryLine": "Assagao is more village lanes than restaurant row, so ask around for home-style Goan cooking.",
+    "moodReplies": {
+      "show-me-around": "Wander 9 minutes to neighbouring Ponolem, or walk about 20 minutes to St. Michael's Church in Anjuna, one of Goa's oldest standing churches.",
+      "somewhere-to-chill": "Take the leafy road that heads downhill past St. Cajetan Church towards Anjuna, the beaches of Anjuna and Vagator lie just west.",
+      "surprise-me": "Long before the Portuguese, Assagao's early residents were Saraswat Brahmins of the Atri gotra, and Ravalnath was the village's presiding deity."
+    },
+    "seeFirst": {
+      "caption": "Walks from the village",
+      "spots": [
+        {
+          "name": "Ponolem",
+          "detail": "9 min walk · A small neighbouring Bardez village",
+          "status": {
+            "text": "Best early morning",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "St. Michael's Church",
+          "detail": "20 min walk · Built in 1613, one of the oldest churches still standing in Goa",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Siolim",
+        "title": "Zagor, the night vigil",
+        "body": "Next door in Siolim, people celebrate Zagor, a nocturnal vigil. It's a festival of dance, drama and music that runs through the night."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Pick the right fork.",
+        "body": "Coming from Mapusa the road splits in two, one way runs past St. Cajetan Church to Anjuna and the other past the Panchayat Office to Badem."
+      },
+      {
+        "icon": "sun",
+        "title": "Skip museums on Mondays.",
+        "body": "The Houses of Goa Museum elsewhere in Bardez opens Tuesday to Sunday."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "Ravalnath's village",
+        "body": "Assagao's early inhabitants were Saraswat Brahmins of the Atri gotra. All were Hindu, with Ravalnath as the presiding deity.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Portuguese era",
+        "title": "Under Portuguese rule",
+        "body": "Like the rest of Goa, Assagao was long held by the Portuguese. Churches like St. Cajetan's still mark the village roads.",
+        "illustration": "synagogue"
+      },
+      {
+        "era": "Later years",
+        "title": "A village of schools",
+        "body": "Assagao grew into an education hub. It's home to Agnel Institute of Technology and Design, DMC College and Assagao Union High School.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Today",
+        "title": "Land of Flowers",
+        "body": "Today Assagao wears many nicknames, from 'Land of Flowers' to 'Goa's Tuscany'. Football and cricket are the village's favourite games.",
+        "illustration": "pepper"
+      }
+    ],
+    "food": []
+  }
+}

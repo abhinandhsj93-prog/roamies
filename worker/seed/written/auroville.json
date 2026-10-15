@@ -1,0 +1,135 @@
+{
+ "query": "Auroville",
+ "region": "tamilnadu",
+ "name": "Auroville",
+ "draft": {
+  "briefing": "Hey, you're in Auroville! The City of Dawn is an experimental township founded in 1968 by Mirra Alfassa, known as the Mother, where she pictured people from everywhere living in unity. Right at its heart sits the gold-clad Matrimandir, the Soul of the City.",
+  "hungryLine": "Auroville eats well and mostly organic, from the shared-price lunches at the Solar Kitchen to fresh fish at a French spot by the Town Hall.",
+  "moodReplies": {
+   "show-me-around": "The Matrimandir is just a 1 min walk, with the Matrimandir Viewpoint and the Banyan Tree about 5 to 6 minutes away. The Auroville Visitors Centre is a 17 min walk if you want passes and maps.",
+   "somewhere-to-chill": "Sit by the Banyan Tree that the Mother marked as the heart of the city, or head to Auro Beach, walkable from the Auroville bus stop on ECR.",
+   "surprise-me": "The Matrimandir's foundation stone was laid at sunrise on the Mother's 93rd birthday, 21 February 1971."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Matrimandir",
+     "detail": "1 min walk · A golden sphere with a white marble chamber and a giant crystal inside",
+     "status": {
+      "text": "Inside visits need a pass, ask at the Visitors Centre",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Banyan Tree",
+     "detail": "6 min walk · The lone tree the Mother picked as the city's centre",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Auroville Visitors Centre",
+     "detail": "17 min walk · Get your visitors pass, guest card and the Auroville Handbook",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Matrimandir",
+    "title": "A place to find one's consciousness",
+    "body": "Aurovilians call the white marble chamber at the top of the spiralling ramp a place to find one's consciousness. When the sun is down, a solar-powered light takes over the sunray on the globe."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Plan the Matrimandir in two days.",
+    "body": "You first need a visitors pass for a guided tour of a meditation chamber, then you can go inside the main temple the next day, with no bags, phones or cameras."
+   },
+   {
+    "icon": "sun",
+    "title": "Come between December and March.",
+    "body": "That's the visitors' season, when the range of yoga, Tai-Chi, healing and other courses is widest."
+   }
+  ],
+  "story": [
+   {
+    "era": "1965",
+    "title": "A sphere and twelve gardens",
+    "body": "The Mother conceived the Matrimandir as a gleaming sphere rising among twelve gardens. She marked a lone banyan tree as the heart of the future city.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1968",
+    "title": "City of Dawn",
+    "body": "Auroville was founded by Mirra Alfassa of the Sri Aurobindo Ashram, and designed by architect Roger Anger. It sits mostly in Tamil Nadu's Viluppuram district, with bits in Puducherry.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1971 to 1973",
+    "title": "Stone and pillars",
+    "body": "The foundation stone went down at sunrise on 21 February 1971, her 93rd birthday. The four supporting pillars were concreted on 17 November 1973, and she died that same evening.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1994 to 2008",
+    "title": "The gold goes on",
+    "body": "After decades of work by Aurovilians and craftsmen, the Inner Chamber opened in 1994. The gold-clad sphere was finally completed in May 2008.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "People from everywhere",
+    "body": "By July 2010, about 2200 people from 43 countries lived here, around 40% of them Indian. There are at least 14 farms, and many take daily volunteers.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Le Morgan",
+    "detail": "Right at the Town Hall · French food, often with fresh fish",
+    "status": {
+     "text": "Lunch, some dinners, check first",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "The Solar Kitchen",
+    "detail": "Crown Road · The main cafeteria, everyone pays the same, and La Terrace is upstairs",
+    "status": {
+     "text": "No cash, pay with a guest card",
+     "tone": "warning"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Ganesh Bakery",
+    "detail": "Kottakarai Road · Meals, baked goods, vegan food and fresh juices",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+# state: Tamil Nadu
+# Major Tamil Nadu places. One Nominatim search query per line, grouped by region.
+# Chennai
+Mylapore, Chennai
+Marina Beach, Chennai
+George Town, Chennai
+Triplicane, Chennai
+Egmore, Chennai
+T. Nagar, Chennai
+Besant Nagar, Chennai
+Adyar, Chennai
+Guindy, Chennai
+Mahabalipuram
+Kovalam, Chengalpattu
+Kanchipuram
+Vedanthangal
+Pulicat
+# North and central
+Vellore
+Tiruvannamalai
+Gingee
+Puducherry
+Auroville
+Chidambaram
+Pichavaram
+Thanjavur @ 10.7828,79.1318
+Kumbakonam
+Darasuram
+Gangaikonda Cholapuram
+Swamimalai
+Tiruchirappalli
+Srirangam
+Velankanni
+Nagapattinam
+Tharangambadi
+Point Calimere
+Chettinad
+Karaikudi
+# South
+Madurai
+Rameswaram
+Dhanushkodi
+Tuticorin
+Tiruchendur
+Tirunelveli
+Courtallam
+Kanyakumari
+Suchindram
+Padmanabhapuram
+# Western Ghats and Kongu
+Ooty
+Coonoor
+Kotagiri
+Mudumalai
+Masinagudi
+Kodaikanal
+Palani
+Valparai
+Topslip
+Coimbatore
+Isha Yoga Center
+Yercaud
+Salem
+Hogenakkal
+Yelagiri
+Kolli Hills @ 11.2485,78.3387
+Erode

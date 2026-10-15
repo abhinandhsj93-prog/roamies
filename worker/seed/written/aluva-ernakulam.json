@@ -1,0 +1,136 @@
+{
+ "query": "Aluva, Ernakulam",
+ "region": "kerala",
+ "name": "Aluva",
+ "draft": {
+  "briefing": "Hey, you're in Aluva! This town on the Periyar hosts Aluva Sivarathri, one of Kerala's biggest religious gatherings, right on the sandbanks of the river. Sree Narayana Guru also founded his Advaita Ashram here in 1913.",
+  "hungryLine": "Aluva has some old favourites, from a 100 year old dosa shop to a vintage spot known for crisp parottas.",
+  "moodReplies": {
+   "show-me-around": "Aluva Palace and the Advaita Ashram are both about a 10 minute walk, and the Marthanda Varma Bridge over the Periyar is the town's icon.",
+   "somewhere-to-chill": "Head to the Aluva Palace gardens and verandas, which have one of the best views of the river.",
+   "surprise-me": "At the Aluva Mahadeva Temple the Shiva linga isn't inside a shrine. It rises straight out of the sandbanks of the Periyar."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Aluva Palace",
+     "detail": "11 min walk · Old Travancore summer palace with big river views",
+     "status": {
+      "text": "Part of it is a government guesthouse",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Adwaithasramam",
+     "detail": "9 min walk · The ashram Sree Narayana Guru founded in 1913",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Marthanda Varma Bridge",
+     "detail": "Short drive · The arch bridge over the Periyar, the town's landmark",
+     "status": {
+      "text": "Busy highway traffic",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Aluva Manal Puram",
+    "title": "The linga from the sand",
+    "body": "Legend says the Shiva lingam rose out of the river sand on its own. For years it sat in the river channel and stayed underwater most of the year."
+   },
+   {
+    "where": "Aluva Mahadeva Temple",
+    "title": "Parashurama's idol",
+    "body": "Folklore says the sage Parashurama installed the idol here. The temple counts as one of the 108 Shiva temples of Kerala."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Skip the monsoon for the riverbank temple.",
+    "body": "From May to September the Periyar rises and the lingam on the sandbank goes under the water."
+   },
+   {
+    "icon": "tag",
+    "title": "Ride the metro into Kochi.",
+    "body": "Aluva is the northern end of the Kochi Metro, with the station right by the river."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A town on the Periyar",
+    "body": "Aluva grew up as a settlement along the Periyar River. It became a centre for trade, education and industry.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1913",
+    "title": "Sree Narayana Guru arrives",
+    "body": "Sree Narayana Guru founded the Advaita Ashram here. Aluva became an important centre of social reform and spiritual thought.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1940",
+    "title": "The bridge opens",
+    "body": "The Marthanda Varma Bridge opened across the Periyar in June 1940. It helped Aluva grow into an industrial town and has turned up in many Malayalam films.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2017",
+    "title": "The metro reaches town",
+    "body": "Aluva metro station opened in June 2017 as the northern terminal of the Kochi Metro. Its floors are designed around the Periyar river.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Muthalali Dosa Shop",
+    "detail": "On the Aluva Paravur Road · 100 year old place for dosa, kappa and onion chammanthi",
+    "status": {
+     "text": "Breakfast and dinner, closed at lunch",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "The Grand Restaurant",
+    "detail": "Grand Junction · Vintage spot known for crisp parottas",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Indian Coffee House",
+    "detail": "Sub Jail Road · Classic coffee and South Indian snacks",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

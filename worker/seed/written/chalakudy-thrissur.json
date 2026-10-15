@@ -1,0 +1,103 @@
+{
+ "query": "Chalakudy, Thrissur",
+ "region": "kerala",
+ "name": "Chalakudy",
+ "draft": {
+  "briefing": "Hey, you're in Chalakudy! This town on the Chalakudy River is the base camp for Athirappilly and Vazhachal Falls. Right in town there's a Holy Land, with statues of scenes from the Bible.",
+  "hungryLine": "Chalakudy is a handy stop on the highway, so grab a simple Kerala meal in town before heading out to the falls.",
+  "moodReplies": {
+   "show-me-around": "St. Mary's Forane Church and the Holy Land beside it are just a 5 minute walk, and the Regional Science Centre is about 15 minutes away.",
+   "somewhere-to-chill": "Kalabhavan Mani Memorial Park has playgrounds and paths to walk, best in the early morning or late afternoon.",
+   "surprise-me": "The Pietà is one of the big draws at Holy Land Chalakudy, which is also a Marian pilgrimage centre."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Holy Land Chalakudy",
+     "detail": "5 min walk · Bible scenes in statues, from the Nativity to the Resurrection",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "St. Mary's Syro-Malabar Forane Church, Chalakudy",
+     "detail": "5 min walk · Head church of 16 parishes in the area",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Regional Science Centre, Chalakudy",
+     "detail": "15 min walk · Science museum, great with kids",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Perambra",
+    "title": "St. Sebastian's feast",
+    "body": "Every year on January 29 and 30, Perambra just north of town celebrates St. Sebastian's feast. Crowds come from all around."
+   },
+   {
+    "where": "Perambra",
+    "title": "St. Antony's feast",
+    "body": "Perambra also keeps St. Antony's feast every June. It's one of the traditions the little town is known for."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Hit the park early or late.",
+    "body": "Kalabhavan Mani Memorial Park is best visited in the early morning or late afternoon."
+   },
+   {
+    "icon": "tag",
+    "title": "Use town as your base.",
+    "body": "Chalakudy is the base camp for Athirappilly and Vazhachal Falls, so stock up here before you head out."
+   }
+  ],
+  "story": [
+   {
+    "era": "1950s",
+    "title": "Retreats begin",
+    "body": "The Vincentian Congregation started running retreats in parishes across Kerala. It later led to the Divine Retreat Centre at Muringoor.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1972",
+    "title": "Farming research",
+    "body": "The Agronomic Research Station was set up in Chalakudy and taken over by Kerala Agricultural University. It now works on organic fertigation.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1978 to 1987",
+    "title": "A church centre",
+    "body": "Chalakudy became a forane of the new Irinjalakuda diocese in 1978. The Divine Retreat Centre at Muringoor opened in 1987.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "2021",
+    "title": "Science for everyone",
+    "body": "The Regional Science Centre opened to bring science to the public, especially children.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Gateway to the falls",
+    "body": "Chalakudy sits on National Highway 544, about 47 km north of Kochi. Most visitors pass through on the way to the waterfalls.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

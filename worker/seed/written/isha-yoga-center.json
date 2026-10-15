@@ -1,0 +1,71 @@
+{
+ "query": "Isha Yoga Center",
+ "region": "tamilnadu",
+ "name": "Isha Yoga Center",
+ "draft": {
+  "briefing": "Hey, you're at Isha Yoga Center! The giant Adiyogi Shiva bust here is 34 metres tall and made of steel, and Guinness World Records lists it as the largest bust sculpture in the world.",
+  "hungryLine": "Food options around here are simple, so ask at the centre or in Booluvampatti village what's cooking today.",
+  "moodReplies": {
+   "show-me-around": "The Adiyogi Shiva bust is a 10 min walk, and Booluvampatti village is about 5 minutes away.",
+   "somewhere-to-chill": "Sit quietly in front of Adiyogi for a while. It was put up to nudge people towards yoga and inner well-being.",
+   "surprise-me": "Adiyogi weighs around 500 tonnes, and the name means Shiva as the first yogi."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Adiyogi Shiva bust",
+     "detail": "10 min walk · The world's largest bust sculpture, designed by Sadhguru",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Booluvampatti",
+     "detail": "5 min walk · Small farming village right at the forest edge",
+     "status": {
+      "text": "Watch for wild elephants",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Mind the elephants.",
+    "body": "This area is right on the forest boundary and wild elephants often raid the farms, so don't wander off into the fields at dusk."
+   },
+   {
+    "icon": "tag",
+    "title": "Plan your ride back.",
+    "body": "Booluvampatti is about 30 km from Coimbatore, so sort out transport before you head out."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A village by the forest",
+    "body": "Booluvampatti is a small village in Coimbatore district, close to the forest boundary. Wild elephants have long wandered into its farmland.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Later",
+    "title": "Isha comes here",
+    "body": "Sadhguru, founder and head of the Isha Foundation, designed a huge steel bust of Shiva for this spot. Adiyogi means Shiva as the first yogi.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A world record",
+    "body": "The Adiyogi bust stands 34 metres tall and 45 metres long and weighs around 500 tonnes. Guinness World Records recognises it as the largest bust sculpture in the world.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

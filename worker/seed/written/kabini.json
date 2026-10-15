@@ -1,0 +1,62 @@
+{
+ "query": "Kabini",
+ "region": "karnataka",
+ "name": "Kabini",
+ "draft": {
+  "briefing": "Hey, you're at Kabini! The backwaters of the Kabini reservoir are very rich in wildlife, especially in summer when the water drops and leaves grassy meadows behind.",
+  "hungryLine": "I don't have named food spots out here, so stock up before you leave Mysuru.",
+  "moodReplies": {
+   "show-me-around": "The Kabini Forest Reserve forms the south-eastern part of Nagarahole National Park, known for herds of elephants and tigers.",
+   "somewhere-to-chill": "Sit by the big Kabini reservoir and watch the backwaters, the grassy banks pull in wildlife.",
+   "surprise-me": "The Kabini starts in Wayanad, Kerala, where the Panamaram and Mananthavady rivers meet, before flowing east into Karnataka."
+  },
+  "seeFirst": {
+   "caption": "Right here",
+   "spots": [
+    {
+     "name": "Kabini River",
+     "detail": "Right here · Backwaters that turn into grassy meadows in summer",
+     "status": {
+      "text": "Keep your distance from wildlife",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in summer for wildlife.",
+    "body": "That's when the water recedes and the meadows along the backwaters fill with animals."
+   },
+   {
+    "icon": "tag",
+    "title": "Plan the drive.",
+    "body": "Kabini is 61 km from Mysuru and 205 km from Bengaluru."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A river from Wayanad",
+    "body": "The Kabini rises in Wayanad, Kerala, flows east into Mysore district and joins the Kaveri.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Dam days",
+    "title": "The Kabini Dam",
+    "body": "Near Sargur the river forms the huge Kabini Reservoir behind a dam 2,284 ft long, between the villages of Bichanahalli and Bidarahalli.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Wildlife favourite",
+    "body": "The Kabini Forest Reserve is one of Karnataka's most popular wildlife spots, loved for its green landscape, big lake, elephants and tigers.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

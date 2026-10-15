@@ -1,0 +1,292 @@
+{
+ "query": "Marine Drive, Mumbai",
+ "found": "Marine Drive, Nariman Point, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400023, India",
+ "lat": 18.9296036,
+ "lon": 72.8217599,
+ "fetchedAt": "2026-10-12T18:46:49.405Z",
+ "locality": {
+  "id": "fort-mumbai-city-district-maharashtra",
+  "name": "Fort",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg/1280px-Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fortification",
+   "credit": "Photo: John Scofield, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg"
+  },
+  "Fortification": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg/1280px-Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fortification",
+   "credit": "Photo: John Scofield, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg"
+  },
+  "Churchgate": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Churchgate_Bombay_1863.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Churchgate",
+   "credit": "Photo: The British Library, No restrictions, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Churchgate_Bombay_1863.jpg"
+  },
+  "Brabourne Stadium": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cricket_Club_Of_India_Bombay.jpg/1280px-Cricket_Club_Of_India_Bombay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Brabourne Stadium",
+   "credit": "Photo: Ajay Goyal, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cricket_Club_Of_India_Bombay.jpg"
+  },
+  "Cowasji Jehangir Hall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sir_Cowasji_Jhangir_Pub%3Bic_Hall.jpg/1280px-Sir_Cowasji_Jhangir_Pub%3Bic_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cowasji Jehangir Hall",
+   "credit": "Photo: Ramesh lalwani, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Cowasji_Jhangir_Pub;ic_Hall.jpg"
+  },
+  "National Centre for the Performing Arts (India)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Campus_of_National_Centre_for_the_Performing_Arts_in_Mumbai.jpg/1280px-Campus_of_National_Centre_for_the_Performing_Arts_in_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "National Centre for the Performing Arts (India)",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campus_of_National_Centre_for_the_Performing_Arts_in_Mumbai.jpg"
+  },
+  "Tata Theatre": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Tata_theatre_mumbai_foyer.jpg/1280px-Tata_theatre_mumbai_foyer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tata Theatre",
+   "credit": "Photo: Rajendra Biswas, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tata_theatre_mumbai_foyer.jpg"
+  },
+  "Government Law College, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Government_Law_College%2C_Mumbai.jpg/1280px-Government_Law_College%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Government Law College, Mumbai",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Government_Law_College,_Mumbai.jpg"
+  },
+  "K. C. Law College, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/en/8/83/KCLawCollege.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "K. C. Law College, Mumbai",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KCLawCollege.jpg"
+  },
+  "Express Towers": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Completed_facade.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Express Towers",
+   "credit": "Photo: Gahlowt, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Completed_facade.JPG"
+  },
+  "Trident Hotel, Nariman Point": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Oberoi-Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Trident Hotel, Nariman Point",
+   "credit": "Photo: No machine-readable author provided. Nichalp assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oberoi-Hotel.jpg"
+  },
+  "Air India Building": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Marine_Drive%2C_Mumbai_%282007%29.jpg/1280px-Marine_Drive%2C_Mumbai_%282007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Air India Building",
+   "credit": "Photo: Indianhilbilly, Wikipedia user Nikkul, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Drive,_Mumbai_(2007).jpg"
+  },
+  "Experimental Theatre (NCPA)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/NCPA_building%2C_Nariman_Point%2C_Mumbai.JPG/1280px-NCPA_building%2C_Nariman_Point%2C_Mumbai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Experimental Theatre (NCPA)",
+   "credit": "Photo: Ekabhishek, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:NCPA_building,_Nariman_Point,_Mumbai.JPG"
+  },
+  "Maharashtra Economic Development Council": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/MEDC_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Maharashtra Economic Development Council",
+   "credit": "Photo: A6.mtr, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MEDC_.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Fortification",
+   "text": "A fortification (also called a fort, fortress, fastness, or stronghold) is a military construction designed for the defense of territories in warfare, and is used to establish rule in a region during peacetime. The term is derived from Latin fortis (\"strong\") and facere (\"to make\").\n\nFrom very early history to modern times, defensive walls have often been necessary for cities to survive in an ever-changing world of invasion and conquest. Some settlements in the Indus Valley Civilization were the first small cities to be fortified. In ancient Greece, large cyclopean stone walls fitted without mortar had been built in Mycenaean Greece, such as the ancient site of Mycenae. A Greek phrourion was a fortified collection of buildings used as a military garrison, and is the equivalent of the Roman castellum or fortress. These constructions mainly served the purpose of a watch tower, to guard certain roads, passes, and borders. Though smaller than a real fortress, they acted as a border guard rather than a real strongpoint to watch and maintain the border.\nThe art of setting out a military camp or constructing a fortification traditionally has been called \"castrametation\" since the time of the...",
+   "url": "https://en.wikipedia.org/wiki/Fortification"
+  },
+  {
+   "title": "Churchgate",
+   "text": "Churchgate (Marathi pronunciation: [t͡ʃəɾt͡ʃɡeːʈ]) is an area in the southern part of Mumbai, close to the Arabian Sea. The area is known for its unique architecture consisting of art deco style residential buildings, access to sporting venues, and the business area of Nariman Point.",
+   "url": "https://en.wikipedia.org/wiki/Churchgate"
+  },
+  {
+   "title": "Brabourne Stadium",
+   "text": "The Brabourne Stadium is an international cricket stadium in Mumbai in Western India, built in the British Bombay era. It is the home ground of the Mumbai men's and women's cricket teams. It can accommodate 50,000 people for sports matches. The ground is owned by the Cricket Club of India (CCI). The North Stand of the Brabourne had housed the Board of Control for Cricket in India (BCCI) headquarters and the 1983 Cricket World Cup trophy until 2006, when both were moved to the newly built Cricket Centre at the nearby Wankhede Stadium.\nThe Brabourne Stadium hosted test matches from 1948 to 1972 and it was the venue for Bombay Pentangular matches from 1937 until 1946. After disputes over ticketing arrangements with the CCI, the Bombay Cricket Association (BCA) built the larger Wankhede Stadium north of Brabourne. It was no longer used for tests, although visiting teams played a few first-class matches at the ground. Apart from cricket, the ground has also played host to tennis and association football matches, as well as music shows and concerts.\nIn the 21st century, international cricket has returned to the Brabourne; it played host to the ICC Champions Trophy in 2006 and was the venue...",
+   "url": "https://en.wikipedia.org/wiki/Brabourne_Stadium"
+  },
+  {
+   "title": "Cowasji Jehangir Hall",
+   "text": "Sir Cowasji Jehangir Public Hall is a museum of modern art and was part of the Institute of Science prior to 1996. The hall was built in 1911 by George Wittet and funded by Cowasji Jehangir. It is located in Colaba area of Mumbai, India.",
+   "url": "https://en.wikipedia.org/wiki/Cowasji_Jehangir_Hall"
+  },
+  {
+   "title": "Jai Hind College",
+   "text": "Jai Hind College is a public college in Mumbai, Maharashtra, India, affiliated to the University of Mumbai. It was established in 1948.\nIn 2000, India Today included the college in its list of top colleges in Mumbai city for arts, sciences and commerce.\nIt was established just after independence, by a small group of teachers who were displaced from D. J. Science College of Karachi, Sindh, Pakistan under the supervision of Dr. Mohinder-Miles Morton.",
+   "url": "https://en.wikipedia.org/wiki/Jai_Hind_College"
+  },
+  {
+   "title": "National Centre for the Performing Arts (India)",
+   "text": "The National Centre for the Performing Arts (NCPA) is a multi-venue, multi-purpose cultural centre in Mumbai, India, which aims to promote and preserve India's heritage of music, dance, theatre, film, literature and photography. It also offers training in Indian classical music through a teacher-in-residence, Western classical music and dance. It also presents new and innovative work in the performing arts field.\nThe centre was founded in 1969 by J. R. D. Tata and Dr. Jamshed Bhabha, brother of nuclear physicist Homi Jehangir Bhabha.\nThe NCPA is also the home of the Symphony Orchestra of India, which was established by NCPA in 2006. In 2010 the orchestra performed Beethoven's 9th Symphony in Moscow at the 5th World Symphony Orchestra Festival - the first time an orchestra from India had performed there.\nOn 29 December 2018 NCPA entered its golden jubilee year. It is to undergo renovations to improve the acoustics and overall experience in 2019.",
+   "url": "https://en.wikipedia.org/wiki/National_Centre_for_the_Performing_Arts_(India)"
+  },
+  {
+   "title": "Tata Theatre",
+   "text": "The Tata Theatre is a 1010-seat premier staging facility for music, dance and drama at The National Centre for the Performing Arts complex in the city of Mumbai, India. It is India’s first theatre designed and built keeping in mind the unique acoustic and visual requirements for the staging of Indian music, dance and related art forms, and was constructed by Larsen & Toubro Limited. The theatre was inaugurated by the then Prime Minister of India, Indira Gandhi on the 11 of October 1980.\nKeeping in mind the traditional seating requirements at Indian classical musical concerts and performances, the Tata Theatre stage is built in the almost semi-circular thrust shape. The alternate concave and convex triangular forms on the overhead and the wall panelings ensure even distribution of acoustics over the entire auditorium. The acoustic forms of high-density compressed plaster were handmade and lifted manually up into their positions. The architects  ensured that every musical instrument played in the orchestra could individually be heard and appreciated in every corner of the auditorium.\nThe external structure of the Tata Theatre complex has been acoustically insulated from outside interference...",
+   "url": "https://en.wikipedia.org/wiki/Tata_Theatre"
+  },
+  {
+   "title": "Kishinchand Chellaram College",
+   "text": "Kishinchand Chellaram College (ISO: Kiśinacaṁda Cēllārāma Kôlēja), commonly known as KC College, is a higher educational Autonomous institution in Mumbai, Maharashtra, India. It is affiliated to the HSNC University.It was the first college to be awarded an \"A\" grade by The National Assessment and Accreditation Council (NAAC) in Mumbai (and Maharashtra).",
+   "url": "https://en.wikipedia.org/wiki/Kishinchand_Chellaram_College"
+  },
+  {
+   "title": "Government Law College, Mumbai",
+   "text": "The Government Law College, Mumbai, (GLC Mumbai), India, is a public law school located in Churchgate, Mumbai in Maharashtra. Founded in 1855, it is the oldest law school in Asia.  The college, affiliated to the University of Mumbai, is run by the Government of Maharashtra.\nThe college offers the five-years integrated undergraduate law degree i.e., the B.A. LL.B., a three-years post-graduate law course i.e., the LL.B., a post-graduate law degree i.e., the LL.M., and a Ph.D. in Law through its Research Centre. The college also delivers post-graduate diplomas and certificate courses.\nBal Gangadhar Tilak, Pratibha Patil, the former President of India, and six Chief Justices of India, as well as several judges of the Supreme Court of India and other High Courts of the country are alumni of the college. Dr. B.R. Ambedkar, served as the Principal of the College from 1935, until 1937.",
+   "url": "https://en.wikipedia.org/wiki/Government_Law_College,_Mumbai"
+  },
+  {
+   "title": "K. C. Law College, Mumbai",
+   "text": "Kishinchand Chellaram Law College, popularly known as KC Law College, is a law institution located at Churchgate, Mumbai. The institution was established in 1955 by Hyderabad (Sind) National Collegiate Board (HSNC Board). It is affiliated with the University of Mumbai.\nThe college is located in the same campus as Kishinchand Chellaram College and the H.R. College of Commerce and Economics.",
+   "url": "https://en.wikipedia.org/wiki/K._C._Law_College,_Mumbai"
+  },
+  {
+   "title": "Express Towers",
+   "text": "The Express Towers is a 25-storey building located on Marine Drive in Nariman Point, Mumbai, India. Upon its completion in 1972, the 105 metres (344 ft) building was the tallest building in South Asia for about two years. The building serves as the corporate headquarters of Indian Express Limited, On 19 November 2013, Blackstone Group along with Pune-based Panchshil Realty reached a deal to buy the iconic South Mumbai building for Rupees 900 crore (US$144 million).",
+   "url": "https://en.wikipedia.org/wiki/Express_Towers"
+  },
+  {
+   "title": "Trident Hotel, Nariman Point",
+   "text": "The Trident Nariman Point is a luxury hotel on Marine Drive in Nariman Point, Mumbai, India. It is owned and operated by the Trident Hotels division of The Oberoi Group.\nIt has 35 floors, on completion in 1973, it was the tallest building in South Asia, surpassing the 105 metres (344 ft) Express Towers, located next door.  It stayed the tallest building in South Asia until 1980, when Phiroze Jeejeebhoy Towers were completed in downtown Mumbai .",
+   "url": "https://en.wikipedia.org/wiki/Trident_Hotel,_Nariman_Point"
+  },
+  {
+   "title": "Air India Building",
+   "text": "The Air India Building is a 23-storey commercial tower in Mumbai, India. The building served as the corporate headquarters for the Indian airline, Air India, up to 2013. There are at least 10,800 square feet (1,000 m2) of space on each floor of the building. In February 2013, Air India officially vacated the building as part of its asset-monetisation plan, and shifted its corporate office to New Delhi.\nThe Indian Airlines House was chosen as the airline's new headquarters. However, the airline still retains the 21st, 22nd and 23rd floors in the building.",
+   "url": "https://en.wikipedia.org/wiki/Air_India_Building"
+  },
+  {
+   "title": "Experimental Theatre (NCPA)",
+   "text": "The Experimental Theatre is a 300-seat theatre at the National Centre for the Performing Arts in Mumbai, India. It was inaugurated in April 1986 as a black box theatre venue with modular seating and staging units.",
+   "url": "https://en.wikipedia.org/wiki/Experimental_Theatre_(NCPA)"
+  },
+  {
+   "title": "1987 Opera House heist",
+   "text": "On 19 March 1987, a group posing\nas Central Bureau of Investigation officers executed a fake raid on the Opera House branch of Tribhovandas Bhimji Zaveri & Sons Jewellers in Bombay (present-day Mumbai), Maharashtra, India. The raid was led by an unknown man who had assembled the group by inviting the candidates for fake recruitment interview. The unknown man disappeared with the spoils of the raid. The case remains unsolved.",
+   "url": "https://en.wikipedia.org/wiki/1987_Opera_House_heist"
+  },
+  {
+   "title": "Maharashtra Economic Development Council",
+   "text": "The Maharashtra Economic Development Council (MEDC) is a private research organisation based in Nariman Point, Mumbai. It was established in 1957 with the participation of prominent chambers of commerce, businesses, and industry associations from Maharashtra to \"facilitate rapid and balanced economic development of Maharashtra\". The Council acts as an economic think-tank for business & industry as also for the Government of Maharashtra. It is an apolitical and autonomous organisation working proactively with the State Government, business and industry, professionals, bankers and economists on issues relating to development of the state.",
+   "url": "https://en.wikipedia.org/wiki/Maharashtra_Economic_Development_Council"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Mahatma Gandhi",
+   "kind": "memorial",
+   "walkMinutes": 6,
+   "lat": 18.9283598,
+   "lon": 72.8249692
+  },
+  {
+   "name": "art gallery",
+   "kind": "gallery",
+   "walkMinutes": 8,
+   "lat": 18.9255095,
+   "lon": 72.8199423
+  },
+  {
+   "name": "Nariman Point",
+   "kind": "attraction",
+   "openingHours": "24/7",
+   "walkMinutes": 10,
+   "lat": 18.9253433,
+   "lon": 72.8180282
+  },
+  {
+   "name": "Bhimrao Ramji Ambedkar memorial",
+   "kind": "memorial",
+   "walkMinutes": 15,
+   "lat": 18.9262387,
+   "lon": 72.829652
+  },
+  {
+   "name": "Bhikha Behram Well",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 18.9329422,
+   "lon": 72.8298744
+  },
+  {
+   "name": "Central Telegraph Office",
+   "kind": "building",
+   "walkMinutes": 16,
+   "lat": 18.9330883,
+   "lon": 72.8306366
+  },
+  {
+   "name": "Allana Center Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 18.9295703,
+   "lon": 72.8316916
+  },
+  {
+   "name": "Naval Uprising Memorial",
+   "kind": "monument",
+   "walkMinutes": 17,
+   "lat": 18.9227815,
+   "lon": 72.8289554
+  },
+  {
+   "name": "Flora Fountain",
+   "kind": "monument",
+   "walkMinutes": 17,
+   "lat": 18.9324913,
+   "lon": 72.8315008
+  },
+  {
+   "name": "National Gallery of Modern Art",
+   "kind": "museum",
+   "walkMinutes": 18,
+   "lat": 18.9258376,
+   "lon": 72.8313854
+  },
+  {
+   "name": "Delhi Art Gallery",
+   "kind": "gallery",
+   "walkMinutes": 18,
+   "lat": 18.9282503,
+   "lon": 72.8322605
+  },
+  {
+   "name": "Jehangir Art Gallery",
+   "kind": "gallery",
+   "walkMinutes": 18,
+   "lat": 18.9272846,
+   "lon": 72.8317177
+  },
+  {
+   "name": "Armenian Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 18.9296065,
+   "lon": 72.8324383
+  },
+  {
+   "name": "Artisans' Center for Art, Craft & Design",
+   "kind": "gallery",
+   "walkMinutes": 19,
+   "lat": 18.92824,
+   "lon": 72.8325781
+  },
+  {
+   "name": "Keneseth Eliyahoo Synagogue",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 18.9281087,
+   "lon": 72.8326078
+  }
+ ],
+ "food": [],
+ "errors": []
+}

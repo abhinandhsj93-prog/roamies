@@ -1,0 +1,114 @@
+{
+ "query": "Vyttila, Ernakulam",
+ "region": "kerala",
+ "name": "Vyttila",
+ "draft": {
+  "briefing": "Hey, you're in Vyttila! The Vyttila junction is the busiest and largest road intersection in Kerala. Not long ago this was all paddy fields, and the name is said to come from 'Vayal Thala', the main part of the paddy field.",
+  "hungryLine": "Try something different at Aruvi in Chambakkara, where they serve Jappi, a herbal drink, instead of tea or coffee.",
+  "moodReplies": {
+   "show-me-around": "Walk 7 min to the Vyttila Mobility Hub and hop on the Water Metro next door.",
+   "somewhere-to-chill": "Take the Water Metro from Vyttila and enjoy the backwaters from the boat.",
+   "surprise-me": "Gold Souk Grande was Kerala's largest mall when it opened in 2011. By 2025 it was almost empty, with only a KFC left."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Vyttila Mobility Hub",
+     "detail": "7 min walk · Buses, metro and boats in one place",
+     "status": {
+      "text": "Busy all day",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vyttila water metro station",
+     "detail": "7 min walk · Ride the Kochi Water Metro",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Gold Souk Grande",
+     "detail": "19 min walk · Once Kerala's biggest mall",
+     "status": {
+      "text": "Largely deserted now",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Vyttila",
+    "title": "The head of the paddy field",
+    "body": "People say the name grew from 'Vayal Thala', the main part of the paddy field. Rice fields once ran all the way from Ernakulam to here."
+   },
+   {
+    "where": "Vyttila",
+    "title": "The road of robbers",
+    "body": "Others say a gang of dacoits once robbed and killed travellers here. So the name came from 'Vazhithala'."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Ride the Water Metro.",
+    "body": "Vyttila's water metro station sits right next to the metro station and the mobility hub."
+   },
+   {
+    "icon": "sun",
+    "title": "Take a sunset cruise.",
+    "body": "Sunset cruises on the backwaters at Marine Drive are popular."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Paddy fields",
+    "body": "Rice fields stretched from Ernakulam across this area. The Puthenpalam bridge was once the only link from here to Ernakulam.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2010 to 2011",
+    "title": "The Mobility Hub",
+    "body": "The hub's foundation stone was laid on 7 June 2010, and its first phase opened on 26 February 2011.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "March 2011",
+    "title": "A giant mall",
+    "body": "Gold Souk Grande opened as Kerala's largest mall, with over 200 brands.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2023",
+    "title": "Boats join the mix",
+    "body": "The Vyttila water metro station opened to the public on 27 April 2023.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Kerala's busiest junction",
+    "body": "Vyttila is where the Kochi Bypass meets three city roads, and it's the busiest crossing in the state.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Aruvi Restaurant",
+    "detail": "Order Jappi, an ayurvedic herbal drink served instead of tea or coffee",
+    "status": {
+     "text": "At Chambakkara, Vyttila",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

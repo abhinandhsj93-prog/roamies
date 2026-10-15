@@ -1,0 +1,86 @@
+{
+ "query": "Mobor",
+ "region": "goa",
+ "name": "Mobor",
+ "draft": {
+  "briefing": "Hey, you're in Mobor! This is the far end of the Sal river, which drains into the Arabian Sea near Betul, a coastal village known for its beach, lighthouse and fort.",
+  "hungryLine": "Next door at Cutbona sits South Goa's largest fishing hub, so fresh fish is the thing to look for around here.",
+  "moodReplies": {
+   "show-me-around": "The Holy Cross Chapel at Baradi is about a 17 min walk, and Betul with its beach, lighthouse and fort is close by.",
+   "somewhere-to-chill": "Head over to Betul's beach and sit where the Sal river meets the sea.",
+   "surprise-me": "Cutbona fishing jetty, right by Betul, has over 300 trawlers working out of it."
+  },
+  "seeFirst": {
+   "caption": "Close by",
+   "spots": [
+    {
+     "name": "Holy Cross Chapel-Baradi",
+     "detail": "17 min walk · The hilltop Miraculous Cross of Baradi",
+     "status": {
+      "text": "Busy on 3 May",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Betul",
+     "detail": "Close by · A coastal village with a beach, lighthouse and fort",
+     "status": {
+      "text": "Check access locally",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Cutbona",
+     "detail": "Next to Betul · South Goa's biggest fishing jetty with over 300 trawlers",
+     "status": {
+      "text": "Working jetty, stay clear of boats",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Baradi",
+    "title": "The Miraculous Cross",
+    "body": "Up on the hill at Baradi stands what locals call the Miraculous Cross. Its feast is celebrated every year on 3 May."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around 3 May.",
+    "body": "That's the yearly feast of the Baradi Holy Cross on the hill nearby."
+   },
+   {
+    "icon": "tag",
+    "title": "Call it the Sal.",
+    "body": "The river here is the Sal, though people sometimes wrongly call it the Betul River because it meets the sea at Betul."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Where the river ends",
+    "body": "The Sal river winds down through South Goa and drains into the Arabian Sea near Betul, the southernmost village of Quepem.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2025",
+    "title": "Saying no to a port",
+    "body": "As of November 2025, the Betul village panchayat opposed a satellite port proposed by the Mormugao Port Authority. Opponents said it would threaten fish breeding and local fishing livelihoods.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Fishing country",
+    "body": "Cutbona jetty next to Betul is South Goa's largest fishing hub, with over 300 trawlers. Margao is about an hour north of Betul.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "query": "Raigad Fort",
+ "region": "maharashtra",
+ "name": "Raigad Fort",
+ "draft": {
+  "briefing": "Hey, you're at Raigad Fort! After his coronation in 1674, Chhatrapati Shivaji Maharaj made this hilltop the capital of his Hindavi Swaraj. At 1,200 acres it's called the largest fort in Asia, sitting 820 metres up in the Sahyadris.",
+  "hungryLine": "I don't have a named place to eat up on the fort, so carry water and snacks for the climb and eat properly down near Mahad.",
+  "moodReplies": {
+   "show-me-around": "The Meghadambari, the spot of Shivaji Maharaj's royal throne, is an 11 min walk, and Nagarkhana is the same distance. Takmak Tok is about 13 minutes away.",
+   "somewhere-to-chill": "Find a quiet corner of the fort and take in the panoramic views over the Sahyadri range, it's worth the climb.",
+   "surprise-me": "About 1,550 people once lived up here on the fort, in families of about five on average."
+  },
+  "seeFirst": {
+   "caption": "Short walks on the fort",
+   "spots": [
+    {
+     "name": "Chhatrapati Shivaji Maharaj Raj Sinhasan Meghadambari",
+     "detail": "11 min walk · The throne spot at the heart of Shivaji Maharaj's capital",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Nagarkhana",
+     "detail": "11 min walk · One of the named old structures up on the fort",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Takmak Tok",
+     "detail": "13 min walk · A named point on the fort, worth the walk out",
+     "status": {
+      "text": "Watch your step",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Take the ropeway if the steps are too much.",
+    "body": "Walking up means about 1,737 steps, while the Raigad Ropeway gets you to the fort in about four minutes."
+   },
+   {
+    "icon": "sun",
+    "title": "Start the climb early.",
+    "body": "The fort sits 820 metres up and is spread over 1,200 acres, so give yourself plenty of daylight to walk around."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Rairee",
+    "body": "The fort near Mahad was once known as Rairee or Rairy Fort. It's counted among the strongest fortresses on the Deccan Plateau.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1600s",
+    "title": "Built for a king",
+    "body": "Chhatrapati Shivaji Maharaj and his chief engineer Hiroji Indulkar oversaw the buildings and structures on the fort. About 1,550 people lived up here.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1674",
+    "title": "Capital of Swaraj",
+    "body": "After his coronation as king in 1674, Shivaji Maharaj chose Raigad as the capital of his Hindavi Swaraj.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Steps or ropeway",
+    "body": "Visitors climb about 1,737 steps or ride the 750 metre Raigad Ropeway. Either way, the views over the Sahyadris are the reward.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

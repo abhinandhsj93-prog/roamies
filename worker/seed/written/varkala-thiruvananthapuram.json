@@ -1,0 +1,136 @@
+{
+ "query": "Varkala, Thiruvananthapuram",
+ "region": "kerala",
+ "name": "Varkala",
+ "draft": {
+  "briefing": "Hey, you're in Varkala town! It's called the \"Varanasi of the South\" because of the Janardana Swami Temple, which local lore says is about 2,000 years old. The cliffs on its coast are a National Geological Monument.",
+  "hungryLine": "In town, there are good places by the railway station, from cakes to all-veg meals.",
+  "moodReplies": {
+   "show-me-around": "Visit Sivagiri, where Sree Narayana Guru rests, then head to the Janardanaswamy Temple.",
+   "somewhere-to-chill": "Sit quietly at Sivagiri hill, a peaceful pilgrim spot in the middle of town.",
+   "surprise-me": "The Varkala cliffs formed between 23 and 2.58 million years ago, through erosion."
+  },
+  "seeFirst": {
+   "caption": "Around Varkala town",
+   "spots": [
+    {
+     "name": "Sivagiri",
+     "detail": "In town · Samadhi of Sree Narayana Guru",
+     "status": {
+      "text": "Busy 30 Dec to 1 Jan",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Janardanaswamy Temple",
+     "detail": "In Janardhanapuram · Ancient Vishnu temple",
+     "status": {
+      "text": "Inner sanctum for Hindus only",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Varkala Tunnel",
+     "detail": "In Varkala · Built by the British in 1880",
+     "status": {
+      "text": "Daytime visit",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Varkala",
+    "title": "Where the cloth fell",
+    "body": "Nine prajapatis asked sage Narada how to wash away their sins. He threw his garment, the valkalam, and told them to pray where it landed, which became Varkala."
+   },
+   {
+    "where": "Janardanaswamy Temple",
+    "title": "A king's penance",
+    "body": "Local lore says Brahma told a Pandyan king to build a Vishnu temple to make up for his sins. He built the Janardana Swami Temple here."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around the pilgrimage.",
+    "body": "The Sivagiri Pilgrimage draws huge crowds from 30 December to 1 January."
+   },
+   {
+    "icon": "tag",
+    "title": "Respect temple rules.",
+    "body": "Non-Hindus can't enter the Janardhana temple's inner sanctum, but can look around the temple."
+   }
+  ],
+  "story": [
+   {
+    "era": "Millions of years ago",
+    "title": "Cliffs from the sea",
+    "body": "Erosion carved the Varkala cliffs between 23 and 2.58 million years ago. They now stretch 7.5 km along the coast.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2,000 years ago",
+    "title": "The temple",
+    "body": "Local lore says a Pandyan king built the Janardana Swami Temple here. Varkala has been a Hindu pilgrimage site since the 12th century.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1880",
+    "title": "The tunnel",
+    "body": "The British built the Varkala Tunnel.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1904",
+    "title": "Sivagiri Matha",
+    "body": "The Sivagiri Matha was built on Sivagiri hill. Sree Narayana Guru made Varkala his headquarters.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "The Guru's resting place",
+    "body": "Guru died here in 1928, and thousands of pilgrims still visit his samadhi every year.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": [
+   {
+    "name": "Reena Bakers",
+    "detail": "Very good pastries and cakes, opposite the railway station",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Suprabhatham",
+    "detail": "Vegetarian meals. It's the only all-veg restaurant in Varkala",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Varkala Park Hotel",
+    "detail": "Restaurant and bar near the railway station",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

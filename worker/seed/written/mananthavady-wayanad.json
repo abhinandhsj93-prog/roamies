@@ -1,0 +1,138 @@
+{
+ "query": "Mananthavady, Wayanad",
+ "region": "kerala",
+ "name": "Mananthavady",
+ "draft": {
+  "briefing": "Hey, you're in Mananthavady! This little town feels like a maze, but walk it early in the morning and you'll see it's laid out like a giant number 8. The big loop circles the Latin Church Hill, the small one circles the Government Offices Hill, and a Gandhi statue stands where they meet.",
+  "hungryLine": "Look out for Wayanad's bamboo rice, local tea and coffee, and a good plate of palappam with mutton curry.",
+  "moodReplies": {
+   "show-me-around": "Start at the Pazhassi Museum and Garden near the bus station, climb to the Latin Church, then head 3 km out to Valliyoorkkavu Temple.",
+   "somewhere-to-chill": "Pack a picnic for V.C. Road near Valliyoorkkavu, where the whole area looks like a green lawn by the river.",
+   "surprise-me": "Mananthavady Park by the river is known for its bat colony, and attempts to get rid of the bats sparked protests."
+  },
+  "seeFirst": {
+   "caption": "In and around town",
+   "spots": [
+    {
+     "name": "Pazhassi Museum and Garden",
+     "detail": "Walkable from the bus station · Memorial to the Lion of Kerala",
+     "status": {
+      "text": "Closed Mondays",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Latin Church",
+     "detail": "In the middle of town · On the hilltop at the heart of the 8",
+     "status": {
+      "text": "Free",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Valliyoorkkavu Temple",
+     "detail": "3 km away · The most important shrine for Wayanad's tribal communities",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Wayanad",
+    "title": "Once-in-a-lifetime rice",
+    "body": "Bamboo is said to yield seeds only after a very long time. So harvesting bamboo rice, or mulayari, is said to be a once-in-a-lifetime thing."
+   },
+   {
+    "where": "Boys Town, Thalappuzha",
+    "title": "The place called 42",
+    "body": "Locals call Boys Town just '42'. It's the distance in miles from there to Kannur."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Walk the town early.",
+    "body": "Evening traffic packs the sidewalks, but an early morning walk shows you the figure-eight layout."
+   },
+   {
+    "icon": "tag",
+    "title": "Call before Kuruva Dweep.",
+    "body": "The islands sometimes close when water levels run high in the rains, and you shouldn't stay on them after dusk."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "The Mother Goddess",
+    "body": "Valliyoorkkavu Temple honours the Mother Goddess as Vana Durga, Bhadrakali and Jala Durga. In darker times, slaves were traded during its festival.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Colonial era",
+    "title": "The Lion of Kerala",
+    "body": "Veera Pazhassi Raja led a guerrilla war against the British East India Company. His museum and garden sit near the bus station.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1973",
+    "title": "A sanctuary is born",
+    "body": "The Wayanad (Muthanga) Wildlife Sanctuary was established, part of the Nilgiri Biosphere Reserve, India's first UNESCO biosphere reserve.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "The tribal gathering",
+    "body": "Valliyoorkkavu's 15-day festival in March or April is the grandest in the district, and still the largest gathering of Wayanad's tribal communities.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Your turn",
+    "title": "Trace the 8",
+    "body": "Walk both loops of town before breakfast, then ride the 6:10 AM bus to Kutta through the forest. Tell me what you saw from the window.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Rolex Restaurant",
+    "detail": "Mysore Road, 1 km · Go for palappam and mutton curry",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Matha Restaurant",
+    "detail": "Opp. bus station · Cheap meat and fish dishes and biriyani",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Riveria Udupi Vegetarian",
+    "detail": "Post Office Road, 1 km · Vegetarian meals",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

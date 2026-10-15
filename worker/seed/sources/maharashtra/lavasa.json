@@ -1,0 +1,52 @@
+{
+ "query": "Lavasa",
+ "found": "Lavasa, Mulshi Subdistrict, Pune, Maharashtra, 412112, India",
+ "lat": 18.4045968,
+ "lon": 73.5041748,
+ "fetchedAt": "2026-10-12T19:00:32.561Z",
+ "locality": {
+  "id": "lavasa-pune-district-maharashtra",
+  "name": "Lavasa",
+  "area": "Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Lavasa": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lavasahills.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Lavasa",
+   "credit": "Photo: Arjun Singh Kulkarni, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lavasahills.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Lavasa",
+   "text": "Lavasa (Marathi: लवासा, lavāsā) is a private, planned city in the state of Maharashtra in India built near Pune. It is stylistically based on the Italian town Portofino, with a street and several buildings bearing the name of that town.\nA 100-square-kilometre (39 sq mi) or 32-square-kilometre (12 sq mi) project being developed by HCC, this as-yet-incomplete city has been controversial for multiple reasons including procurement of land, harm to the environment, and loans acquired through political corruption.\nIn late 2010, the Indian Environment and Forests Ministry ordered that construction cease because the project violated environmental laws. In 2011, this order was rescinded. In 2023, a resolution plan was approved by the National Company Law Tribunal, with Darwin Platform Infrastructure Ltd declared as the successful bidder responsible for the city's construction. The project has been abandoned due to debt, environmental issues, and poor planning, which triggered legal backlash.\n\n\n== History ==\n\nBilled as India's first hill station since independence, the plans for this private grand township were unveiled by Ajit Gulabchand in 2006. The architectural team responsible for the design...",
+   "url": "https://en.wikipedia.org/wiki/Lavasa"
+  },
+  {
+   "title": "Dasave",
+   "text": "Dasave is a village in Mulshi taluka of Pune District in the state of Maharashtra, India. Talukas surrounding the village are Karjat taluka, Talegaon Dabhade Taluka, Mawal taluka and Khalapur taluka. Districts closest to the village are Raigad district, Thane district, Mumbai City district and Mumbai Suburban district.  Nearest railway stations around the village are  Vadgaon railway station, Begdewadi railway station, Lonavala railway station, Talegaon railway station and Kamshet railway station",
+   "url": "https://en.wikipedia.org/wiki/Dasave"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Lavasa",
+  "text": "Lavasa (लवासा Lavāsā) is a privately-owned city along the Mutha River, in the Pune district of Maharashtra. Resembling the Italian city of Portofino, the city has been in headlines for wrong reasons, including bribery and environmental damage due to the city's construction. Despite this, Lavasa is sometimes considered a hidden gem of the Western Ghats, although environmentally conscious visitors may avoid it for ethical reasons.\n\n\n== See and do ==\n1 Lavasa Lake. An inlet of the Mutha River, and the central waterbody of the city. (updated Aug 2025)\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Lavasa"
+ },
+ "sights": [
+  {
+   "name": "Dasave",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 18.4,
+   "lon": 73.5
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

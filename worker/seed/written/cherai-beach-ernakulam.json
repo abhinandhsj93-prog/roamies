@@ -1,0 +1,77 @@
+{
+ "query": "Cherai Beach, Ernakulam",
+ "region": "kerala",
+ "name": "Cherai Beach",
+ "draft": {
+  "briefing": "Hey, you're at Cherai Beach! It's one of the most visited beaches in Kerala, up on the northern side of Vypin Island, about 25 km from downtown Kochi.",
+  "hungryLine": "This is seafood country, so look for prawns, squid, fish molly and Kochi's famous Meen Molagitta Curry.",
+  "moodReplies": {
+   "show-me-around": "The beach is a 3 min walk. Up the road at Munambam you'll find a big fishing harbour and lots of boat-making yards.",
+   "somewhere-to-chill": "Grab a spot on the sand and watch the locals play beach volleyball. Cherai is famous for it.",
+   "surprise-me": "From Munambam Muziris beach, just north of here, you can see the mouth of the Periyar, the district's major river."
+  },
+  "seeFirst": {
+   "caption": "Close by",
+   "spots": [
+    {
+     "name": "Cherai Beach",
+     "detail": "3 min walk · One of Kerala's most visited beaches",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Munambam",
+     "detail": "All around you · Fishing harbour and boat-making yards",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come for Onam.",
+    "body": "Kerala's ten-day state festival runs somewhere between mid-August and mid-September."
+   },
+   {
+    "icon": "tag",
+    "title": "Join a volleyball game.",
+    "body": "Cherai is a favourite with locals for beach volleyball, and beach football is popular too."
+   }
+  ],
+  "story": [
+   {
+    "era": "Over 600 years",
+    "title": "A meeting place",
+    "body": "Arabs, Chinese, Portuguese, Dutch, English and more have all come through Kochi. You can taste the mix in the food today.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1582",
+    "title": "Carnival begins",
+    "body": "The Cochin Carnival started as part of Portuguese New Year celebrations. It still runs from December 20 to January 2.",
+    "illustration": "palace"
+   },
+   {
+    "era": "For generations",
+    "title": "Fishing families",
+    "body": "Munambam, at the north end of Vypin Island, lives mostly by fishing. It has a major government fishing harbour and many boat-making yards.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Kochi's beach",
+    "body": "Cherai is one of the most visited beaches in the state, about 20 km from Cochin International Airport.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

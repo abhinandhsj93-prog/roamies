@@ -1,0 +1,132 @@
+{
+ "query": "Vadakara, Kozhikode",
+ "region": "kerala",
+ "name": "Vadakara",
+ "draft": {
+  "briefing": "Hey, you're in Vadakara! Lokanarkavu temple here is about 1,500 years old, with rock-cut caves and murals, and it was made famous by the Vadakkan Pattukal, the ballads of North Malabar. The French once called the town Bargaret.",
+  "hungryLine": "Vadakara has easy, no-fuss places to eat near the bus and railway stations.",
+  "moodReplies": {
+   "show-me-around": "Drive 5 km to Lokanarkavu Temple for its caves and murals, and stop at Chennamangalam Temple on the way.",
+   "somewhere-to-chill": "Catch the sunset at Silent Beach, opposite Sandbanks Bungalow.",
+   "surprise-me": "A new species of tardigrade, or water bear, found on the Vadakara coast was named Stygarctus keralensis, after Kerala."
+  },
+  "seeFirst": {
+   "caption": "Short drives from town",
+   "spots": [
+    {
+     "name": "Chennamangalam Temple",
+     "detail": "2 km · Famous for its Dhwaja Prathishta",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Lokanarkavu Temple",
+     "detail": "5 km · Rock-cut caves, murals and carvings",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Silent Beach",
+     "detail": "7 km · Quiet beach for sunsets",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Lokanarkavu Temple",
+    "title": "The goddess ready for war",
+    "body": "At Lokanarkavu, Durga is believed to sit in a war form, waiting for the battle cry. Many myths and stories surround the temple."
+   },
+   {
+    "where": "Lokanarkavu Temple",
+    "title": "The ballad heroes",
+    "body": "The temple is tied to the Vadakkan Pattukal ballads and the brave deeds of the Thacholi family of knights. Those songs made it famous across Malabar."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Waterfall season is Jun to Dec.",
+    "body": "Thirikkakkayam waterfalls near Vanimel drop 50 metres and draw crowds from June to December."
+   },
+   {
+    "icon": "tag",
+    "title": "Shop for crafts at Iringal.",
+    "body": "Sargaalaya Arts & Crafts Village, 22 km away, sells goods made of banana fibre, coir, bamboo and coconut shells."
+   }
+  ],
+  "story": [
+   {
+    "era": "1,500 years ago",
+    "title": "Caves and murals",
+    "body": "Lokanarkavu Temple took shape with rock-cut caves, murals and carvings that still stand today.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Kolathiri and Zamorin era",
+    "title": "Kadathanadu",
+    "body": "Under the Kolathiris and Zamorins, the area around Vadakara was known as Kadathanadu.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1800s",
+    "title": "Malabar under the British",
+    "body": "Vadakara became part of the North Malabar region of Malabar District, in Madras. The Basel Evangelical Church opened on the Moorad river in 1864.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "A busy taluk town",
+    "body": "Vadakara is a municipality and taluk headquarters, bordered by Mahé to the north and Payyoli to the south.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "New Aryabhavan Vegetarian",
+    "detail": "Vegetarian meals near the bus station",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Indian Coffee House",
+    "detail": "Classic coffee and snacks on Nut Street",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Rinsha Hotel",
+    "detail": "Local meals near the railway station",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

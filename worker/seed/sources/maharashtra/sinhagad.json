@@ -1,0 +1,42 @@
+{
+ "query": "Sinhagad",
+ "found": "Sinhagad, Kalyan Gaon, Haveli Subdistrict, Pune, Maharashtra, 415115, India",
+ "lat": 18.3651861,
+ "lon": 73.7549869,
+ "fetchedAt": "2026-10-12T19:00:12.736Z",
+ "locality": {
+  "id": "kalyan-gaon-pune-district-maharashtra",
+  "name": "Kalyan Gaon",
+  "area": "Haveli Subdistrict, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Sinhagad": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Sinhagad.jpg/1280px-Sinhagad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sinhagad",
+   "credit": "Photo: Amit mitkar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinhagad.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Sinhagad",
+   "text": "Sinhagad (also known as the Lion's Fort) is an ancient hill fortress located at around 28 kilometres southwest of Pune, India. Previously known as Kondhana, the fort has been the site of many battles, most notably the Battle of Sinhagad in 1670.This is the highest peaks of Pune.\nThe fort is a popular weekend destination for the residents of Pune. A road directly leads up to the summit of the fort. Hikers can get access to the summit from the base of the fort, with the trek involving a one-way walk of 2.7 km (1.6 miles), gaining approximately 600 metres (1950 feet) in elevation. Shared taxi services to the base as well as the summit are also available.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Sinhagad"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Sinhagad",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 18.36566388888889,
+   "lon": 73.75526944444445
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

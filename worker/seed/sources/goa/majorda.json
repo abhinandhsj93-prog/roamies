@@ -1,0 +1,92 @@
+{
+ "query": "Majorda",
+ "found": "Majorda, Salcete, South Goa, Goa, 403713, India",
+ "lat": 15.3132484,
+ "lon": 73.9103868,
+ "fetchedAt": "2026-10-12T19:42:52.961Z",
+ "locality": {
+  "id": "majorda-south-goa-goa",
+  "name": "Majorda",
+  "area": "Salcete, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Majorda": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Majorda_Beach..JPG/1280px-Majorda_Beach..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Majorda",
+   "credit": "Photo: Stacey2591, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Majorda_Beach..JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Majorda",
+   "text": "Majorda is a village in Salcete, Goa. It is located in South Goa district, north-west of Margão. The village is famous for its beaches.\n\n\n== Demographics ==\nAs of 2011 Indian census, Majorda had a population of 2,813. Males constitute 46% of the population and females 54%. Majorda has a literacy rate of 93.23%, higher than state average of 88.70%. Male literacy rate is 93.78%, and female literacy rate is 92.77%. In Majorda, 10.20% of the population is under 6 years of age.\n\n\n== Landmarks ==\nMajorda has a railway station. The parish church of the village is Mãe de Deus (Mother Of God) Church.\n\n\n== Notable people ==\nAnthony Gonsalves, (1927 – 2012) Bollywood music composer\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Majorda"
+  },
+  {
+   "title": "Planet Hollywood Goa",
+   "text": "Planet Hollywood Beach Resort, (stylized as planet hollywood) is a luxury 5 star hotel based in Goa, India inspired by the popular Las Vegas casino hotel Planet Hollywood and it was launched in Goa December 2014, it is India's first Hollywood themed Beach Resort in Goa. Sachiin Joshi is the founder and Vice Chairman of this beach resort, who is an Indian film actor, producer and son of JMJ Group owner Jagdish Mohanlal Joshi\n.",
+   "url": "https://en.wikipedia.org/wiki/Planet_Hollywood_Goa"
+  },
+  {
+   "title": "Majorda Junction railway station",
+   "text": "Majorda Junction Railway Station (Station code: MJO) a small Junction station in South Goa district, Goa. It is located near Majorda village. The station consists of two platforms.",
+   "url": "https://en.wikipedia.org/wiki/Majorda_Junction_railway_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Salcete",
+  "text": "Salcete or Salcette is a taluka in South Goa with the business capital Margao as its centre.\n\n\n== See ==\n\n Ashvek Vintage World, 12/B, Goulloy, NH17, Nuvem, ☏ +91-832-2731312, +91-9822100339. \"dedicated to restore and preserve motoring and motorcycling gems of historical interest in Goa\". You can find cars ranging from Mercedes Benz, to Peugeot, Morris, Chevrolet and Volkswagen. ₹50. \n Ancestral Goa, Big Foot, Loutolim, Goa, India., ☏ +91 832 2777034. Big Foot is an attempt to illustrate and recreate Goa's traditional past. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Salcete"
+ },
+ "sights": [
+  {
+   "name": "Eden Gardens",
+   "kind": "attraction",
+   "walkMinutes": 5,
+   "lat": 15.31028,
+   "lon": 73.91052
+  },
+  {
+   "name": "Christ Rei Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 15.308122,
+   "lon": 73.91147
+  },
+  {
+   "name": "Perpetual Gardens",
+   "kind": "attraction",
+   "walkMinutes": 13,
+   "lat": 15.3087004,
+   "lon": 73.9048479
+  },
+  {
+   "name": "Holy Cross (Vollant)",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 15.307054,
+   "lon": 73.917244
+  },
+  {
+   "name": "Capela de Nossa Senhora da Piedade",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 15.305422,
+   "lon": 73.9169
+  },
+  {
+   "name": "Mother of God Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 15.3169874,
+   "lon": 73.9205995
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "query": "Madikeri",
+ "region": "karnataka",
+ "name": "Madikeri",
+ "draft": {
+  "briefing": "Hey, you're in Madikeri! The capital of Kodagu, once called Mercara, was ranked first in India for clean air in 2024.",
+  "hungryLine": "Madikeri is famous for pork, one of the few places in India where it's a real delicacy.",
+  "moodReplies": {
+   "show-me-around": "The Madikeri Fort and its museum are a 2 minute walk, and Raja's Seat is about 13 minutes on foot.",
+   "somewhere-to-chill": "Raja's Seat has a garden and a wide view over the valley, best at sunrise or sunset.",
+   "surprise-me": "Tipu Sultan captured Madikeri Fort, rebuilt it in granite and renamed it Jaffarabad."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Madikeri Fort",
+     "detail": "2 min walk · Hilltop fort with a museum in the old St. Mark's Church",
+     "status": {
+      "text": "No photos in the museum",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Raja's Seat",
+     "detail": "13 min walk · Where the Kodagu kings watched the valley",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Omkareshwara Temple",
+     "detail": "In the middle of town · Two temples and a pond",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Raja's Seat",
+    "title": "The kings' sunset spot",
+    "body": "Legend says the local rajas came here to watch the sun set over the cliffs and valleys to the west. It was their favourite place to unwind."
+   },
+   {
+    "where": "Raja's Seat",
+    "title": "Gandhi's ashes",
+    "body": "Every 30 January, an urn with Mahatma Gandhi's ashes is carried in procession to Raja's Seat. Verses from the Gita, the Koran and the Bible are read, followed by a few minutes of silence."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go to Raja's Seat at sunset.",
+    "body": "It's in the middle of town and the view over the valley is fantastic at sunrise or sunset."
+   },
+   {
+    "icon": "tag",
+    "title": "Leave the camera in your bag at the fort museum.",
+    "body": "Photography isn't allowed inside the museum in the old church."
+   }
+  ],
+  "story": [
+   {
+    "era": "1600s",
+    "title": "Mudduraja's town",
+    "body": "Haleri king Mudduraja founded the town in 1681 and built a mud fort and palace. It was named Muddu Raja Keri after him.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Late 1700s",
+    "title": "Tipu's granite fort",
+    "body": "Tipu Sultan captured the fort, rebuilt it in granite and named it Jaffarabad. Doddaveer Rajendra took it back in 1790.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1834",
+    "title": "British Mercara",
+    "body": "The British took the fort in April 1834, and the town became known as Mercara.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1950",
+    "title": "Capital of Coorg State",
+    "body": "When India's Constitution came in, Mercara became the capital of the new Coorg State.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1956",
+    "title": "Into Mysore",
+    "body": "Coorg State was merged into Mysore State on 1 November 1956, and Kodagu is now a district of Karnataka.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Red Fern Restaurant",
+    "detail": "Near Omkareshwara Temple · Handy after temple visits",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Coorg Cuisine",
+    "detail": "Near the Post Office · Try the local food",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Popular Woodlands Vegetarian",
+    "detail": "Near KSRTC · An easy veg stop",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

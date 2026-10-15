@@ -1,0 +1,73 @@
+# state: Maharashtra
+# Major Maharashtra places. One Nominatim search query per line, grouped by region.
+# Mumbai
+Colaba, Mumbai
+Gateway of India, Mumbai
+Fort, Mumbai
+Marine Drive, Mumbai
+Girgaon Chowpatty, Mumbai
+Malabar Hill, Mumbai
+Kala Ghoda, Mumbai @ 18.9285,72.8318
+Crawford Market, Mumbai
+Byculla, Mumbai
+Worli, Mumbai
+Dadar, Mumbai
+Mahim, Mumbai
+Bandra West, Mumbai
+Juhu, Mumbai
+Andheri, Mumbai
+Borivali, Mumbai
+Elephanta Caves @ 18.9633,72.9315
+Navi Mumbai
+Thane @ 19.1931,72.9736
+# Konkan
+Alibag
+Murud-Janjira
+Kashid
+Diveagar
+Harihareshwar
+Dapoli
+Ganpatipule
+Ratnagiri @ 16.9902,73.3120
+Malvan
+Tarkarli
+Sindhudurg Fort
+Vengurla
+# Hill stations and Western Ghats
+Lonavala
+Khandala
+Karjat
+Matheran
+Mahabaleshwar
+Panchgani
+Pratapgad @ 17.9363,73.5781
+Raigad Fort
+Bhimashankar
+Malshej Ghat @ 19.3355,73.7720
+Igatpuri
+Bhandardara
+Amboli @ 15.9580,73.9990
+# Pune region
+Shaniwar Wada, Pune
+Koregaon Park, Pune
+Deccan Gymkhana, Pune
+Sinhagad
+Lavasa
+Satara @ 17.6805,74.0183
+Kaas Plateau @ 17.7206,73.8232
+Kolhapur
+Pandharpur @ 17.6767,75.3307
+Shirdi
+Nashik
+Trimbakeshwar
+# Marathwada and Vidarbha
+Aurangabad
+Ellora Caves
+Ajanta Caves
+Daulatabad
+Lonar
+Nanded @ 19.1517,77.3063
+Nagpur
+Tadoba
+Chikhaldara @ 21.4000,77.3270
+Sevagram

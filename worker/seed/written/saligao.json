@@ -1,0 +1,86 @@
+{
+ "query": "Saligao",
+ "region": "goa",
+ "name": "Saligao",
+ "draft": {
+  "briefing": "Hey, you're in Saligao! This Bardez village is home to Mater Dei, one of Goa's first English language schools, which started out as St. Mary's back in 1900.",
+  "hungryLine": "Saligao is a quiet village, so for more choice head 3 km to Calangute, the former fishing village turned tourist spot.",
+  "moodReplies": {
+   "show-me-around": "Mae de Deus Church and St. Anne's Chapel are both about a 7 min walk, and Salmona Chapel is around 16 min away.",
+   "somewhere-to-chill": "Calangute beach is just 3 km away if you want sand and sea.",
+   "surprise-me": "Back in 2001 Saligao's literacy rate was 82 percent, well above the national average of 59.5 percent."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Mae de Deus Church",
+     "detail": "7 min walk · The parish church, built in 1873",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "St. Anne’s Chapel",
+     "detail": "7 min walk · A small village chapel",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Salmona Chapel",
+     "detail": "16 min walk · Another of Saligao's chapels",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly at the churches.",
+    "body": "Saligao's churches and chapels are working places of worship."
+   },
+   {
+    "icon": "tag",
+    "title": "Add the Houses of Goa Museum.",
+    "body": "Architect Gerard da Cunha's museum at Salvador-do-Mundo in Bardez shows how eastern and western building styles blended, and opens Tuesday to Sunday."
+   }
+  ],
+  "story": [
+   {
+    "era": "1873",
+    "title": "Mae de Deus",
+    "body": "Saligao's Mãe de Deus Parish Church was built in 1873.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1900",
+    "title": "An early English school",
+    "body": "St. Mary's opened at Bairo Alto in 1900 as one of Goa's first English language schools. It was renamed Mater Dei in 1909.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2001",
+    "title": "A well read village",
+    "body": "The 2001 census counted 5,553 people in Saligao, with a literacy rate of 82 percent.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Between towns",
+    "body": "Saligao sits 10 km from Panjim, 6 km from Mapusa and 3 km from Calangute beach, surrounded by villages like Porvorim, Parra, Candolim and Nagoa.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

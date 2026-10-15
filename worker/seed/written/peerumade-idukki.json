@@ -1,0 +1,98 @@
+{
+ "query": "Peerumade, Idukki",
+ "region": "kerala",
+ "name": "Peermade",
+ "draft": {
+  "briefing": "Hey, you're in Peermade! The name is traditionally linked to Pir Muhammed Waliullah, a Sufi saint said to have meditated in these hills, so Peerumedu means hill of the Peer.",
+  "hungryLine": "Do what everyone does at Valanjanganam Falls, stop for a cup of tea and watch the water.",
+  "moodReplies": {
+   "show-me-around": "Ammachi Kottaram is a 4 min walk, and Valanjanganam Waterfalls is about 17 min away on foot.",
+   "somewhere-to-chill": "Valanjanganam Falls is about 75 ft high and usually wrapped in mist, a perfect spot for a slow tea break.",
+   "surprise-me": "There was once only a footpath up here, so the British started Aerial Ropeway Ltd, Travancore state's first public limited company."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Ammachi Kottaram",
+     "detail": "4 min walk · Ruins right around the corner",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Valanjanganam Waterfalls",
+     "detail": "17 min walk · A 75 ft fall, often covered in mist",
+     "status": {
+      "text": "Rocks can be slippery",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Peeru Hills",
+     "detail": "1 km away · Rolling hills close to town",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Peermade",
+    "title": "Hill of guavas",
+    "body": "Another local story says the name comes from guava trees, pera, that once grew all over here. The place was called Peramedu, which slowly became Peerumedu."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Stop at Valanjanganam.",
+    "body": "It's right on the Kottayam-Kumily road, an easy place to stretch your legs on a long drive."
+   },
+   {
+    "icon": "tag",
+    "title": "Carry change for Panchalimedu.",
+    "body": "The viewpoint charges a small entry fee, listed by Wikivoyage as 10 INR per person."
+   }
+  ],
+  "story": [
+   {
+    "era": "1500s",
+    "title": "Empty hills",
+    "body": "In the 16th century this land was under the Changanacherry kings and nobody lived here.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1756",
+    "title": "Travancore takes over",
+    "body": "The King of Travancore conquered Changanacherry in 1756 and brought these hills under his rule.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Plantation days",
+    "title": "Coffee to tea",
+    "body": "Missionary Henry Baker started coffee plantations here, and under Sri Moolam Thirunal they became tea estates. The Travancore kings also had their summer palace in Kuttikkanam.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "British Raj",
+    "title": "An up-market resort",
+    "body": "Kuttikkanam became a fancy resort, and workers were brought in from across Kerala and Tamil Nadu.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Estate families",
+    "body": "The descendants of those migrant workers make up most of Kuttikkanam's population today.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

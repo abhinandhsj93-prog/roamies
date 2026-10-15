@@ -1,0 +1,103 @@
+{
+ "query": "Kanyakumari",
+ "region": "tamilnadu",
+ "name": "Kanyakumari",
+ "draft": {
+  "briefing": "Hey, you're in Kanyakumari! This is the southernmost tip of mainland India, the Land's End, where the Bay of Bengal, the Arabian Sea and the Indian Ocean meet. It's one of the rare places where you can watch both sunrise and sunset over the sea.",
+  "hungryLine": "Food here is classic South Indian and mostly vegetarian, think idli, dosa and sambar, sometimes on a banana leaf, and don't skip the orange tender coconuts, which are tastier than the green ones.",
+  "moodReplies": {
+   "show-me-around": "The Thiruvalluvar Statue is an 8 min walk and the Vivekananda Rock Memorial is about 10 minutes, with a ferry from the jetty out to the rock.",
+   "somewhere-to-chill": "Escape the crowds at Vivekanandapuram, run by the Ramakrishna Mission. Its beach is the recommended spot for sunrise and sunset.",
+   "surprise-me": "The Thiruvalluvar Statue was unveiled on the millennium day, 1 January 2000, and in 2025 it was declared the Statue of Wisdom."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Thiruvalluvar Statue",
+     "detail": "8 min walk · A 133 ft stone statue of the poet who wrote the Thirukkural",
+     "status": {
+      "text": "Reached by boat",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Vivekananda Rock Memorial",
+     "detail": "10 min walk · Memorial on a rock off the shore, with a silent meditation hall",
+     "status": {
+      "text": "07:30-16:00",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Our Lady of Ransom Church",
+     "detail": "12 min walk · Catholic church right by the sea",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Vivekananda Rock",
+    "title": "The goddess's footprint",
+    "body": "Locals say Goddess Kumari stood on this rock on one leg doing penance for Lord Shiva. A foot-shaped carving there, the Holy Foot, is believed to be her footprint."
+   },
+   {
+    "where": "Kanyakumari Beach",
+    "title": "Sacred water",
+    "body": "People wet their feet in the ocean before going into the Kumari temple, because the water here is considered sacred."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Skip December and January.",
+    "body": "Crowds are at their peak in those months, so come another time if you can."
+   },
+   {
+    "icon": "tag",
+    "title": "Go shirtless at the Kumari temple.",
+    "body": "Men are expected to enter the temple with bare torsos as a mark of respect to the Devi, and keep an eye out for touts."
+   }
+  ],
+  "story": [
+   {
+    "era": "Sangam period",
+    "title": "An ancient town",
+    "body": "Kanyakumari has been a town since the Sangam period. It's named after the goddess Kanya Kumari, the unmarried goddess, whose temple stands on the shore.",
+    "illustration": "palace"
+   },
+   {
+    "era": "British era",
+    "title": "Cape Comorin",
+    "body": "For a long time the tip of India was known as Cape Comorin. Its official name today is Kanniyakumari.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1970",
+    "title": "A memorial on the rock",
+    "body": "The Vivekananda Rock Memorial was built in 1970 on a rock where Swami Vivekananda is said to have attained enlightenment. Its meditation hall mixes temple styles from all over India.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2000",
+    "title": "Valluvar rises",
+    "body": "Sculptor V. Ganapati Sthapati carved a 133 ft statue of Thiruvalluvar on a small island. It was unveiled on 1 January 2000.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Statue of Wisdom",
+    "body": "At its silver jubilee on 1 January 2025, Tamil Nadu declared the Valluvar statue the Statue of Wisdom. The town is now a big tourist and pilgrimage stop.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

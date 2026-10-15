@@ -1,0 +1,112 @@
+{
+ "query": "Malleshwaram, Bengaluru",
+ "region": "karnataka",
+ "name": "Malleshwaram",
+ "draft": {
+  "briefing": "Hey, you're in Malleshwaram! One of Bangalore's oldest neighbourhoods, it was laid out by the Wadiyars of Mysore and gets called the city's cultural heart.",
+  "hungryLine": "Kanti Sweets has a branch at Malleswaram Circle, and it's known for samosas, kachoris and North Indian sweets like rasmalai.",
+  "moodReplies": {
+   "show-me-around": "Sri Gangamma Devi Temple is a 3 minute walk, and the Nandi Tirtha temple is 7 minutes away on 2nd Temple Street.",
+   "somewhere-to-chill": "Stroll 2nd Temple Street, where the Gangamma temple, Nandi Tirtha and Kadu Malleshwara temple sit close together.",
+   "surprise-me": "A 10th century hero stone commemorating a tiger hunt was found on the grounds of the Indian Institute of Science, right here in Malleshwaram."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Sri Gangamma Devi Temple",
+     "detail": "3 min walk · Temple to the goddess Ganga",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sri Dakshinamukha Nandi Tirtha Kalyani Kshetra",
+     "detail": "7 min walk · Shiva temple opposite Kadu Malleshwara",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mantri Square",
+     "detail": "19 min walk · One of the biggest malls in the country",
+     "status": {
+      "text": "Linked to the metro",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Nandi Tirtha",
+    "title": "A temple under the ground",
+    "body": "Locals call it Malleswaram Nandi gudi. It was rediscovered in 1997 after being buried for 400 years, and it's revered as the holy source of the Vrishabhavati river."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Take the metro in.",
+    "body": "Mantri Square Sampige Road station has a bridge straight into the mall, the first of its kind in India."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly on Temple Street.",
+    "body": "Several old temples line 2nd Temple Street, including Kadu Malleshwara, which gives the area its name."
+   }
+  ],
+  "story": [
+   {
+    "era": "10th century",
+    "title": "A tiger hunt",
+    "body": "A hero stone found at IISc remembers a tiger hunt from the 10th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1669",
+    "title": "Ekoji's gift",
+    "body": "Maratha king Ekoji I gave the village of Medaraninganahalli to the Mallapura Mallikarjuna temple.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Late 1800s",
+    "title": "A planned layout",
+    "body": "The Wadiyars of Mysore laid out Malleshwaram as a new residential area after a plague epidemic.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1997",
+    "title": "Nandi Tirtha found",
+    "body": "The buried Nandi Tirtha temple was rediscovered after about 400 years.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2014",
+    "title": "Metro and mall",
+    "body": "Sampige Road metro station opened in March 2014, and its bridge into Mantri Square opened that August.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Kanti Sweets",
+    "detail": "Malleswaram Circle · Samosas, kachoris and rasmalai",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

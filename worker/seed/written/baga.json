@@ -1,0 +1,123 @@
+{
+  "query": "Baga",
+  "region": "goa",
+  "name": "Baga",
+  "draft": {
+    "briefing": "Hey, you're in Baga! Together with Calangute just 2 km south, this is where Goa's tourism all started, when the flower-children arrived from the late 1960s. Nobody's quite sure where Baga ends and Calangute begins.",
+    "hungryLine": "Baga eats everything from cheap shacks to multi-course feasts, and some shacks throw barbeque nights with freshly caught seafood.",
+    "moodReplies": {
+      "show-me-around": "Baga Beach is a 7 minute walk, then wander over to Baga Creek, the little tidal estuary at the north end.",
+      "somewhere-to-chill": "Pop into Our Lady of Candelaria Chapel, a minute away, or find a beach shack and settle in for the afternoon.",
+      "surprise-me": "Tito's, right by the beach, opened in 1971 and has hosted the likes of the Beatles, Dire Straits and Kate Moss."
+    },
+    "seeFirst": {
+      "caption": "Around Baga and Calangute",
+      "spots": [
+        {
+          "name": "Baga Beach",
+          "detail": "7 min walk · Shallow water, no waves, lifeguards on watch",
+          "status": {
+            "text": "Busy on weekends",
+            "tone": "warning"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Baga Creek",
+          "detail": "In Baga · Tidal estuary where two streams meet the sea",
+          "status": {
+            "text": "Lovely at sunset",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Calangute Beach",
+          "detail": "2 km south · The largest beach in North Goa",
+          "status": {
+            "text": "Peak crowds at Christmas",
+            "tone": "warning"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Know the peak seasons.",
+        "body": "Calangute's peak season is Christmas and New Year, plus the summer in May, so expect crowds then."
+      },
+      {
+        "icon": "tag",
+        "title": "Bring the kids to Baga.",
+        "body": "The beach has no waves, a shallow entry and lifeguards, which makes it great for families."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "A fishing coast",
+        "body": "Calangute was a fishing village before it was a resort. Baga Creek, formed by two streams meeting at Arpora, drains into the sea here.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Late 1960s",
+        "title": "The flower-children",
+        "body": "From the late 1960s the hippies descended on Calangute, Baga and Candolim. This stretch is where Goa's tourism began.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "1971 to 1987",
+        "title": "Clubs and hotels",
+        "body": "An expat opened Tito's in 1971, and it went on to draw celebrities from around the world. Around 1987 the Ronil Royale opened, one of the first Goan-style hotels in Calangute Baga.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "2025",
+        "title": "A hard lesson",
+        "body": "On 6 December 2025 a fire at a nightclub in nearby Arpora killed 25 people, most of them club staff. The government ordered audits of all the night clubs in the area.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": [
+      {
+        "name": "Danny's Grill Kebabs and Curries",
+        "detail": "On Baga Creek, try the lobster tandoori or pork chops, then bebinca with ice cream",
+        "status": {
+          "text": "Next to Baga Bridge",
+          "tone": "neutral"
+        },
+        "tags": [
+          "seafood"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Brito's",
+        "detail": "Known for its mixed meat platter and good desserts",
+        "status": {
+          "text": "Check timings locally",
+          "tone": "neutral"
+        },
+        "tags": [
+          "mild"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "J & A's Little Italy",
+        "detail": "Superb Italian food in a relaxed setting",
+        "status": {
+          "text": "Across the Baga River",
+          "tone": "neutral"
+        },
+        "tags": [
+          "mild"
+        ],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

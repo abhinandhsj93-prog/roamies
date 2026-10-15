@@ -1,0 +1,54 @@
+{
+ "query": "Anegundi",
+ "found": "Anegundi, Gangavati taluku, Koppal, Karnataka, India",
+ "lat": 15.3511368,
+ "lon": 76.4921443,
+ "fetchedAt": "2026-10-12T18:41:14.739Z",
+ "locality": {
+  "id": "anegundi-koppal-karnataka",
+  "name": "Anegundi",
+  "area": "Gangavati taluku, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Anegundi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gagan_Mahal_palace%2C_Anegundi.jpg/1280px-Gagan_Mahal_palace%2C_Anegundi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Anegundi",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gagan_Mahal_palace,_Anegundi.jpg"
+  },
+  "Pampa Sarovar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pampa_Sarovar_from_the_hill.jpg/1280px-Pampa_Sarovar_from_the_hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Pampa Sarovar",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pampa_Sarovar_from_the_hill.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Anegundi",
+   "text": "Anegundi, previously called Kishkindha, is a village in Gangavathi, Koppal district, in the Indian state of Karnataka. It is older than Hampi, situated on the northern bank of the Tungabhadra River. Nimvapuram, a nearby village, has a mount of ash believed to be the cremated remains of the king Vali.\n\n\n== History ==\n\nAnegundi (ಆನೆಗುಂದಿ) was believed to be the monkey kingdom of Kishkindha, with Kishkinta meaning a forest where the monkeys lived. The epic of Ramayana is at a distance of 5 kilometres (3.1 mi) from the historical site of Hampi. Anjanadri Hill, the birthplace of the god Hanuman, and the mountain Rishimuka are places near and affiliated with Ramayana. It is said to have one of the oldest plateaus on the planet, estimated to be 3,000 million years old. Only local story-tellers refer to Anegundi as the maternal home of Bhoodevi (Mother Earth).\nThe village, located on the northern bank of River Tungabhadra, was said to be the legendary Kishkindha, a kingdom of the  prince Sugriva as well as the historic site of the Krishnadevaraya dynasty in the Vijayanagar Empire.\n\n\n=== Prehistoric ===\n\nNeolithic history is represented in this region by Mourya Mane, an ancient Stone Age Colony. Several...",
+   "url": "https://en.wikipedia.org/wiki/Anegundi"
+  },
+  {
+   "title": "Pampa Sarovar",
+   "text": "Pampa Sarovara is a lake in Koppal district near Hampi in Karnataka. It is located south of the Tungabhadra River and is considered sacred by Hindus. It is one of the five sacred sarovars, or lakes in India. According to Hindu theology, the five sacred lakes are collectively called Panch Sarovar and includes Mansarovar, Bindu Sarovar, Narayan Sarovar, Pampa Sarovar and Pushkar Sarovar. They are also mentioned in Shrimad Bhagavata Purana. In Hindu scriptures, Pampa Sarovar is regarded as the place where Pampa, a form of Shiva's consort Parvati, performed penance to show her devotion to Shiva. Pampa Sarovar is also mentioned in the Hindu epic Ramayana as the place where Rama was advised to go to by Shabari to meet Sugreev who would help him in his search of Sita.",
+   "url": "https://en.wikipedia.org/wiki/Pampa_Sarovar"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Pampa Sarovar",
+   "kind": "landmark",
+   "walkMinutes": 26,
+   "lat": 15.353763888888889,
+   "lon": 76.477375
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

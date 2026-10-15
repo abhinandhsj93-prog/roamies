@@ -1,0 +1,304 @@
+{
+ "query": "Fort, Mumbai",
+ "found": "Mantralaya, Madame Cama Road, Mantralaya, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400032, India",
+ "lat": 18.9276624,
+ "lon": 72.8270393,
+ "fetchedAt": "2026-10-12T18:46:37.815Z",
+ "locality": {
+  "id": "fort-mumbai-city-district-maharashtra",
+  "name": "Fort",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg/1280px-Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fortification",
+   "credit": "Photo: John Scofield, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg"
+  },
+  "Fortification": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg/1280px-Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fortification",
+   "credit": "Photo: John Scofield, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg"
+  },
+  "Bombay High Court": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mumbai_03-2016_41_Bombay_High_Court.jpg/1280px-Mumbai_03-2016_41_Bombay_High_Court.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bombay High Court",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_41_Bombay_High_Court.jpg"
+  },
+  "Jehangir Art Gallery": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/JAG_From_Outside.jpg/1280px-JAG_From_Outside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jehangir Art Gallery",
+   "credit": "Photo: Thatsrichie6, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:JAG_From_Outside.jpg"
+  },
+  "Cowasji Jehangir Hall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sir_Cowasji_Jhangir_Pub%3Bic_Hall.jpg/1280px-Sir_Cowasji_Jhangir_Pub%3Bic_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cowasji Jehangir Hall",
+   "credit": "Photo: Ramesh lalwani, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Cowasji_Jhangir_Pub;ic_Hall.jpg"
+  },
+  "David Sassoon Library": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/David_Sassoon_Library_in_May_2023.jpg/1280px-David_Sassoon_Library_in_May_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "David Sassoon Library",
+   "credit": "Photo: JSW Group, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Sassoon_Library_in_May_2023.jpg"
+  },
+  "Cooperage Ground": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kunal_Sawant_%284%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Cooperage Ground",
+   "credit": "Photo: Gsaldanha, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunal_Sawant_(4).JPG"
+  },
+  "Campion School, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Campion_School_Mumbai.jpg/1280px-Campion_School_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Campion School, Mumbai",
+   "credit": "Photo: AroundTheGlobe, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Campion_School_Mumbai.jpg"
+  },
+  "Elphinstone High School": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Old-vintage-photo-of-elphinstone-high-school-mumbai-maharashtra-india-DH1E3K.jpg/1280px-Old-vintage-photo-of-elphinstone-high-school-mumbai-maharashtra-india-DH1E3K.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Elphinstone High School",
+   "credit": "Photo: AnshumanKumar 97, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old-vintage-photo-of-elphinstone-high-school-mumbai-maharashtra-india-DH1E3K.jpg"
+  },
+  "K. C. Law College, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/en/8/83/KCLawCollege.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "K. C. Law College, Mumbai",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KCLawCollege.jpg"
+  },
+  "Express Towers": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Completed_facade.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Express Towers",
+   "credit": "Photo: Gahlowt, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Completed_facade.JPG"
+  },
+  "Siddharth College of Law, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Oriental_building_and_Siddharth_College%2C_Mumbai.jpg/1280px-Oriental_building_and_Siddharth_College%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Siddharth College of Law, Mumbai",
+   "credit": "Photo: Aleksandr Zykov from Russia, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oriental_building_and_Siddharth_College,_Mumbai.jpg"
+  },
+  "National Gallery of Modern Art, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/National_Gallery_of_modern_art.jpg/1280px-National_Gallery_of_modern_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "National Gallery of Modern Art, Mumbai",
+   "credit": "Photo: Balajijagadesh, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_modern_art.jpg"
+  },
+  "Victorian Gothic and Art Deco Ensembles of Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mumbai_03-2016_41_Bombay_High_Court.jpg/1280px-Mumbai_03-2016_41_Bombay_High_Court.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_41_Bombay_High_Court.jpg"
+  },
+  "Maharashtra Economic Development Council": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/MEDC_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Maharashtra Economic Development Council",
+   "credit": "Photo: A6.mtr, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MEDC_.jpg"
+  },
+  "Siddharth College of Arts, Science and Commerce": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Siddharth_College%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Siddharth College of Arts, Science and Commerce",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siddharth_College,_Mumbai.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Fortification",
+   "text": "A fortification (also called a fort, fortress, fastness, or stronghold) is a military construction designed for the defense of territories in warfare, and is used to establish rule in a region during peacetime. The term is derived from Latin fortis (\"strong\") and facere (\"to make\").\n\nFrom very early history to modern times, defensive walls have often been necessary for cities to survive in an ever-changing world of invasion and conquest. Some settlements in the Indus Valley Civilization were the first small cities to be fortified. In ancient Greece, large cyclopean stone walls fitted without mortar had been built in Mycenaean Greece, such as the ancient site of Mycenae. A Greek phrourion was a fortified collection of buildings used as a military garrison, and is the equivalent of the Roman castellum or fortress. These constructions mainly served the purpose of a watch tower, to guard certain roads, passes, and borders. Though smaller than a real fortress, they acted as a border guard rather than a real strongpoint to watch and maintain the border.\nThe art of setting out a military camp or constructing a fortification traditionally has been called \"castrametation\" since the time of the...",
+   "url": "https://en.wikipedia.org/wiki/Fortification"
+  },
+  {
+   "title": "Bombay High Court",
+   "text": "The Bombay High Court is the high court of the states of Maharashtra and Goa in India, and the union territory of Dadra and Nagar Haveli and Daman and Diu. It is seated primarily at Mumbai, also known as Bombay, and is one of the oldest high courts in India. The High Court has circuit benches at Nagpur, Aurangabad and Kolhapur in Maharashtra and at Porvorim in Goa.\nThe first Chief Justice, the Attorney General and the Solicitor General of independent India were from this court. Since India's independence, 27 judges from this court have been elevated to the Supreme Court and 10 have been appointed to the office of Chief Justice of India.\nThe court has original jurisdiction in addition to its appellate jurisdiction. Judgments issued by this court can be appealed only to the Supreme Court of India. The Bombay High Court has a sanctioned strength of 94 judges (71 permanent, 23 additional). The building is part of The Victorian and Art Deco Ensemble of Mumbai, which was added to the list of World Heritage Sites in 2018.",
+   "url": "https://en.wikipedia.org/wiki/Bombay_High_Court"
+  },
+  {
+   "title": "Jehangir Art Gallery",
+   "text": "Jehangir Art Gallery is an art gallery in Mumbai (India). It was founded by Sir Cowasji Jehangir at the urging of K. K. Hebbar and Homi J. Bhabha. It was built in 1952. Managed by the Committee of Management, the entire cost of this mansion was donated by Cowasji Jehangir. This gallery is situated at Kala Ghoda, behind the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, in South Mumbai near the Gateway of India, and has four exhibition halls. The gallery was designed by G.M. Bhuta for G.M. Bhuta & Associates. The gallery closed for 11 months as a part of the COVID-19 lockdown in India and was partially re-opened on 16 February 2021. It has since been fully re-opened.",
+   "url": "https://en.wikipedia.org/wiki/Jehangir_Art_Gallery"
+  },
+  {
+   "title": "Cowasji Jehangir Hall",
+   "text": "Sir Cowasji Jehangir Public Hall is a museum of modern art and was part of the Institute of Science prior to 1996. The hall was built in 1911 by George Wittet and funded by Cowasji Jehangir. It is located in Colaba area of Mumbai, India.",
+   "url": "https://en.wikipedia.org/wiki/Cowasji_Jehangir_Hall"
+  },
+  {
+   "title": "David Sassoon Library",
+   "text": "The David Sassoon Library and Reading Room is a famous library and heritage structure in Mumbai, India. The idea for a library to be situated in the center of the city came from Albert Sassoon, son of the famous Baghdadi Jewish philanthropist and businessman of the Sino-Indian opium trade, David Sassoon.",
+   "url": "https://en.wikipedia.org/wiki/David_Sassoon_Library"
+  },
+  {
+   "title": "Cooperage Ground",
+   "text": "The Cooperage Football Ground is a football stadium located in Nariman Point, Mumbai, Maharashtra. It is predominantly home to multiple Mumbai Football League clubs.\nThe Western India Football Association has operated from the Cooperage Ground since 1969, and the Mumbai District Football Association holds a small office. It was a venue for one of India's premier national leagues, the I-League. Mahindra United FC, Kenkre FC, and Mumbai FC used the stadium as home ground in both the NFL and the I-League, while Ambernath United Atlanta FC hosted its I-League 2nd Division games.",
+   "url": "https://en.wikipedia.org/wiki/Cooperage_Ground"
+  },
+  {
+   "title": "Campion School, Mumbai",
+   "text": "Campion School is a private Catholic primary and secondary school  located at 13 Cooperage Road, Mumbai, in the state of Maharashtra, India. Established in 1943 by Jesuit Fr. Joseph Savall, the school is named in honour of Saint Edmund Campion, a 16th-century English Roman Catholic martyr. From 1943 till 2025 the school was only for boys. In 2025 when the School transitioned from the ICSE Curriculum to the IGCSE Curriculum, even girls were given admission.\nThe school is housed in Wellesley House on Cooperage Road in the Fort neighbourhood of South west Mumbai. The school is across the street from Cooperage Ground, which is a major soccer stadium in Mumbai, as well as Oval Maidan a city landmark. The school has over 800 students and offers classes at elementary and secondary levels, ranging from preparatory to grade 10. It was affiliated with the ICSE school syllabus and has English as its primary language of instruction.\nCampion School has been taking part in most of the inter-school events organized by the Government, and often has prevailed. In a 2009 pan-India survey of day boys schools, conducted by Education World magazine, Campion School was ranked first in the country, and in...",
+   "url": "https://en.wikipedia.org/wiki/Campion_School,_Mumbai"
+  },
+  {
+   "title": "Kishinchand Chellaram College",
+   "text": "Kishinchand Chellaram College (ISO: Kiśinacaṁda Cēllārāma Kôlēja), commonly known as KC College, is a higher educational Autonomous institution in Mumbai, Maharashtra, India. It is affiliated to the HSNC University.It was the first college to be awarded an \"A\" grade by The National Assessment and Accreditation Council (NAAC) in Mumbai (and Maharashtra).",
+   "url": "https://en.wikipedia.org/wiki/Kishinchand_Chellaram_College"
+  },
+  {
+   "title": "Elphinstone High School",
+   "text": "Elphinstone High School was an English-medium school established in 1824 in Bombay, India in honour of Mountstuart Elphinstone, the then Governor of Bombay (1819–1827). In 1836 the Elphinstone Institute was founded, which started the Elphinstone College. \nShah Mahmoud Hanifi, in his book Mountstuart Elphinstone in South Asia: Pioneer of British Colonial Rule mentions that the relationship between Elphinstone High School and the Elphinstone College was unclear until 1856, when both were formally separated. \nEconomist and politician B. R. Ambedkar attended Elphinstone High School from 1904 to 1907, becoming the first person from the Dalit caste in India to attain this achievement. The author P.C. Wren was principal of the school from 1915 to 1917.",
+   "url": "https://en.wikipedia.org/wiki/Elphinstone_High_School"
+  },
+  {
+   "title": "K. C. Law College, Mumbai",
+   "text": "Kishinchand Chellaram Law College, popularly known as KC Law College, is a law institution located at Churchgate, Mumbai. The institution was established in 1955 by Hyderabad (Sind) National Collegiate Board (HSNC Board). It is affiliated with the University of Mumbai.\nThe college is located in the same campus as Kishinchand Chellaram College and the H.R. College of Commerce and Economics.",
+   "url": "https://en.wikipedia.org/wiki/K._C._Law_College,_Mumbai"
+  },
+  {
+   "title": "Express Towers",
+   "text": "The Express Towers is a 25-storey building located on Marine Drive in Nariman Point, Mumbai, India. Upon its completion in 1972, the 105 metres (344 ft) building was the tallest building in South Asia for about two years. The building serves as the corporate headquarters of Indian Express Limited, On 19 November 2013, Blackstone Group along with Pune-based Panchshil Realty reached a deal to buy the iconic South Mumbai building for Rupees 900 crore (US$144 million).",
+   "url": "https://en.wikipedia.org/wiki/Express_Towers"
+  },
+  {
+   "title": "Siddharth College of Law, Mumbai",
+   "text": "Siddharth College of Law was founded in Mumbai in 1956. It is run by the People's Education Society which was formed by Dr. Babasaheb Ambedkar on 8 July 1945. The college is affiliated to the University of Mumbai.  The college was formed with a vision to spread legal education amongst all sections of society. The college is housed at the Anand Bhavan which has been declared as a heritage structure by the Heritage society of the MMRDA.",
+   "url": "https://en.wikipedia.org/wiki/Siddharth_College_of_Law,_Mumbai"
+  },
+  {
+   "title": "National Gallery of Modern Art, Mumbai",
+   "text": "National Gallery of Modern Art, Mumbai was opened to the public in 1996. It hosts various exhibitions and art collections of famous artists, sculptors and different civilizations. It is situated in the Cowasji Jehangir Hall, near Regal Cinema in Colaba.",
+   "url": "https://en.wikipedia.org/wiki/National_Gallery_of_Modern_Art,_Mumbai"
+  },
+  {
+   "title": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+   "text": "The Victorian Gothic and Art Deco Ensembles of Mumbai is a collection of 19th-century Victorian Revival public and 20th-century Mumbai Art Deco private buildings in the Fort precinct of Mumbai. This ensemble was declared a UNESCO World Heritage Site in 2018.\nThese buildings are set around the Oval Maidan, a large recreational ground that was once known as the Esplanade. The east of the Oval is flanked by the Victorian Gothic public buildings and the western side is flanked by the Art Deco buildings of Back bay Reclamation and Marine Drive. This nomination aims to safeguard a total of 94 buildings.\n\nThe 19th century Victorian Gothic buildings that lie to the east of the Oval are mainly the Bombay High Court, The University of Mumbai (Fort Campus) and The City Civil and Sessions Court (Housed in the Old Secretariat Building). This stretch also houses one of the landmarks of Mumbai, the Rajabai Clock Tower. The 20th century Art Deco buildings flank the western stretch of the Oval and consist mainly of privately owned residential buildings and the Eros Cinema among others.\nThis ensemble of Victorian Gothic and Art Deco buildings was added to the list of United Nations Educational, Scientific...",
+   "url": "https://en.wikipedia.org/wiki/Victorian_Gothic_and_Art_Deco_Ensembles_of_Mumbai"
+  },
+  {
+   "title": "Maharashtra Economic Development Council",
+   "text": "The Maharashtra Economic Development Council (MEDC) is a private research organisation based in Nariman Point, Mumbai. It was established in 1957 with the participation of prominent chambers of commerce, businesses, and industry associations from Maharashtra to \"facilitate rapid and balanced economic development of Maharashtra\". The Council acts as an economic think-tank for business & industry as also for the Government of Maharashtra. It is an apolitical and autonomous organisation working proactively with the State Government, business and industry, professionals, bankers and economists on issues relating to development of the state.",
+   "url": "https://en.wikipedia.org/wiki/Maharashtra_Economic_Development_Council"
+  },
+  {
+   "title": "Siddharth College of Arts, Science and Commerce",
+   "text": "Siddharth College of Arts, Science and Commerce is a college in Mumbai offering undergraduate and postgraduate courses in Arts, Science, and Commerce fields. The college is affiliated with the University of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Siddharth_College_of_Arts,_Science_and_Commerce"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Mahatma Gandhi",
+   "kind": "memorial",
+   "walkMinutes": 4,
+   "lat": 18.9283598,
+   "lon": 72.8249692
+  },
+  {
+   "name": "Bhimrao Ramji Ambedkar memorial",
+   "kind": "memorial",
+   "walkMinutes": 5,
+   "lat": 18.9262387,
+   "lon": 72.829652
+  },
+  {
+   "name": "National Gallery of Modern Art",
+   "kind": "museum",
+   "walkMinutes": 8,
+   "lat": 18.9258376,
+   "lon": 72.8313854
+  },
+  {
+   "name": "Jehangir Art Gallery",
+   "kind": "gallery",
+   "walkMinutes": 8,
+   "lat": 18.9272846,
+   "lon": 72.8317177
+  },
+  {
+   "name": "Delhi Art Gallery",
+   "kind": "gallery",
+   "walkMinutes": 9,
+   "lat": 18.9282503,
+   "lon": 72.8322605
+  },
+  {
+   "name": "Allana Center Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 18.9295703,
+   "lon": 72.8316916
+  },
+  {
+   "name": "Naval Uprising Memorial",
+   "kind": "monument",
+   "walkMinutes": 9,
+   "lat": 18.9227815,
+   "lon": 72.8289554
+  },
+  {
+   "name": "Moksh",
+   "kind": "gallery",
+   "walkMinutes": 9,
+   "lat": 18.9286397,
+   "lon": 72.832281
+  },
+  {
+   "name": "Artisans' Center for Art, Craft & Design",
+   "kind": "gallery",
+   "walkMinutes": 10,
+   "lat": 18.92824,
+   "lon": 72.8325781
+  },
+  {
+   "name": "Keneseth Eliyahoo Synagogue",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 18.9281087,
+   "lon": 72.8326078
+  },
+  {
+   "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+   "kind": "museum",
+   "openingHours": "Tu-Su 10:15-18:00",
+   "walkMinutes": 10,
+   "lat": 18.9268827,
+   "lon": 72.8326589
+  },
+  {
+   "name": "Armenian Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 18.9296065,
+   "lon": 72.8324383
+  },
+  {
+   "name": "INS Vikrant Memorial",
+   "kind": "memorial",
+   "walkMinutes": 10,
+   "lat": 18.9255759,
+   "lon": 72.8327135
+  },
+  {
+   "name": "Church of St Andrew and St Columba",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 18.92705,
+   "lon": 72.8334866
+  },
+  {
+   "name": "CSMVS Children’s Museum",
+   "kind": "museum",
+   "walkMinutes": 11,
+   "lat": 18.9260723,
+   "lon": 72.8330638
+  }
+ ],
+ "food": [],
+ "errors": []
+}

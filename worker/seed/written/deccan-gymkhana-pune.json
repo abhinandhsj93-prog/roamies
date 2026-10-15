@@ -1,0 +1,117 @@
+{
+ "query": "Deccan Gymkhana, Pune",
+ "region": "maharashtra",
+ "name": "Deccan Gymkhana",
+ "draft": {
+  "briefing": "Hey, you're in Deccan Gymkhana! This whole area is named after the Deccan Gymkhana sports club, founded in 1906, whose grounds have hosted Davis Cup tennis matches.",
+  "hungryLine": "FC Road and JM Road are lined with budget eateries serving hot food, and while you're in Pune, try a misal if you can take the spice.",
+  "moodReplies": {
+   "show-me-around": "The Deccan Gymkhana Ground is 2 minutes away, the old Ranade Institute is 6 minutes on foot, and Fergusson College is about 15 minutes away.",
+   "somewhere-to-chill": "Walk 12 minutes to Kamala Nehru Park, 10 acres of lawns with a fountain, a jogging track and even an old HF-24 Marut jet parked on the grass.",
+   "surprise-me": "The Deccan Gymkhana metro station's design is inspired by the Mavala Pagadi, the turban of Shivaji Maharaj."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Deccan Gymkhana Ground",
+     "detail": "2 min walk · The 1906 club that gave the area its name, with 11 tennis courts and a cricket ground",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Vaishali",
+     "detail": "9 min walk · A Pune favourite for South Indian food on Fergusson College Road",
+     "status": {
+      "text": "Can get busy",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Fergusson College",
+     "detail": "15 min walk · Founded in 1885 by Tilak, Agarkar and friends",
+     "status": {
+      "text": "Campus, check access",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around Ganeshotsav.",
+    "body": "Around September the city celebrates Ganeshotsav for ten days and the city interiors are almost blocked, so expect crowds."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the metro.",
+    "body": "The Aqua Line stops at Deccan Gymkhana, and a skywalk from the J. M. Road bus stop takes you straight up to the station."
+   }
+  ],
+  "story": [
+   {
+    "era": "Peshwa era",
+    "title": "Sadashiv Peth is laid out",
+    "body": "Next door, Madhavrao I founded Sadashiv Peth in honour of Sadashivrao Bhau. It was first planned for the military, in squares with broad streets.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1885",
+    "title": "Fergusson College",
+    "body": "Bal Gangadhar Tilak, Gopal Ganesh Agarkar and others founded the college, naming it after Sir James Fergusson, the Governor of Bombay.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1906",
+    "title": "The Gymkhana is born",
+    "body": "Balkrishna Narayan Bhajekar led the founding of the Deccan Gymkhana and its grounds in October 1906. The club later hosted Davis Cup matches.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1954",
+    "title": "Madras Cafe opens",
+    "body": "Jagannath B Shetty started a restaurant on Fergusson College Road as Madras Cafe. Today it's Vaishali, and hundreds of people eat there every day.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2023",
+    "title": "Metro by the river",
+    "body": "The Deccan Gymkhana metro station opened on 1 August 2023 on the banks of the Mutha River, part of the Aqua Line.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Hindavi Swarajya Fruits & Juices",
+    "detail": "Fresh juices on JM Road, opposite JM mandir",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Shree Uphar Gruha",
+    "detail": "A small joint at Tulsi Baug in the Peth areas, go for the misal and fritters",
+    "status": {
+     "text": "Short drive, spicy",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

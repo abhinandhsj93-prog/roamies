@@ -1,0 +1,97 @@
+{
+ "query": "Sasthamcotta, Kollam",
+ "region": "kerala",
+ "name": "Sasthamcotta",
+ "draft": {
+  "briefing": "Hey, you're in Sasthamcotta! The lake here is the largest freshwater lake in Kerala, and its water is famously pure because tiny larvae called cavaborus eat the bacteria. It has been a Ramsar wetland of international importance since November 2002.",
+  "hungryLine": "The lake supports local fishing, so fresh fish is the thing to ask for around Sasthamcotta.",
+  "moodReplies": {
+   "show-me-around": "Walk to the Sree Dharma Sastha Temple, which has the lake wrapped around three sides, then carry on to the lake shore.",
+   "somewhere-to-chill": "Sit by Sasthamcotta Lake and watch the still water. Half a million people drink from it.",
+   "surprise-me": "The temple monkeys have their own trust fund, set up in 1996 so they keep getting fed even when natural food runs short."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Sasthamcotta Sree Dharma Sastha Temple",
+     "detail": "16 min walk · Lake on three sides and holy monkeys",
+     "status": {
+      "text": "Visit respectfully",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Sasthamcotta Lake",
+     "detail": "Short drive · Kerala's largest freshwater lake",
+     "status": {
+      "text": "Keep it clean",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Poruvazhy",
+     "detail": "Short drive · Home to the Peruviruthy Malanada Temple",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Sasthamcotta Sree Dharma Sastha Temple",
+    "title": "The holy monkeys",
+    "body": "Monkeys live all over the temple grounds, and they are believed to be holy. People care for them so much that a trust fund feeds them."
+   },
+   {
+    "where": "Sasthamcotta Sree Dharma Sastha Temple",
+    "title": "Sastha and his family",
+    "body": "The temple's deity is Shri Dharma Sastha, with his consort Prabha and son Sathyaka. Sastha is seen as a meeting of Vaishnava and Saiva beliefs."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Keep the lake clean.",
+    "body": "Sasthamcotta Lake is drinking water for half a million people in Kollam district."
+   },
+   {
+    "icon": "tag",
+    "title": "See the lake from the temple.",
+    "body": "The Sastha temple is surrounded on three sides by the lake, so it's the easiest lake view."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient times",
+    "title": "A temple by the water",
+    "body": "The ancient Sastha temple stood on the lake bank, and the lake took its name from it. It is one of five ancient Sastha temples in Kerala, along with Sabarimala.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1996",
+    "title": "Looking after the monkeys",
+    "body": "A trust fund was set up so the temple monkeys would always be fed, even when natural food dwindled.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "November 2002",
+    "title": "A wetland the world noticed",
+    "body": "Sasthamcotta Lake was named a wetland of international importance under the Ramsar Convention.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Water for half a million",
+    "body": "The lake meets the drinking water needs of about half a million people in Kollam district and still supports fishing. Sasthamkotta is the headquarters of Kunnathur taluk.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

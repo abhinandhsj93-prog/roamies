@@ -1,0 +1,246 @@
+{
+ "query": "Dadar, Mumbai",
+ "found": "Dadar, Ranade Road Extension, Dadar West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400028, India",
+ "lat": 19.0192269,
+ "lon": 72.8428479,
+ "fetchedAt": "2026-10-12T18:49:01.174Z",
+ "locality": {
+  "id": "dadar-west-mumbai-city-district-maharashtra",
+  "name": "Dadar West",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Dadar West": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kabooter_Khana_Dadar.jpg/1280px-Kabooter_Khana_Dadar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dadar",
+   "credit": "Photo: Swaminathan, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kabooter_Khana_Dadar.jpg"
+  },
+  "Dadar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kabooter_Khana_Dadar.jpg/1280px-Kabooter_Khana_Dadar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dadar",
+   "credit": "Photo: Swaminathan, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kabooter_Khana_Dadar.jpg"
+  },
+  "Shivaji Park": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Shivaji_Park_Dadar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Shivaji Park",
+   "credit": "Photo: Sumeet Rege, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shivaji_Park_Dadar.jpg"
+  },
+  "Hindu Colony": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/View_of_a_street_in_Hindu_Colony_locality_of_Dadar%2C_Mumbai.jpg/1280px-View_of_a_street_in_Hindu_Colony_locality_of_Dadar%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Hindu Colony",
+   "credit": "Photo: Deccantrap, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_a_street_in_Hindu_Colony_locality_of_Dadar,_Mumbai.jpg"
+  },
+  "Shivaji Park Residential Zone": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mahim_bay_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Shivaji Park Residential Zone",
+   "credit": "Photo: Mehulsg, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahim_bay_skyline.jpg"
+  },
+  "Portuguese Church, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Portuguese_church_dadar_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Portuguese Church, Mumbai",
+   "credit": "Photo: Shabbir Siraj, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portuguese_church_dadar_3.jpg"
+  },
+  "Rajgruha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Rajgruh%2C_the_residence_of_Babasaheb_Ambedkar_in_Dadar%2C_Mumbai.jpg/1280px-Rajgruh%2C_the_residence_of_Babasaheb_Ambedkar_in_Dadar%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Rajgruha",
+   "credit": "Photo: Shishirdasika, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajgruh,_the_residence_of_Babasaheb_Ambedkar_in_Dadar,_Mumbai.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Dadar",
+   "text": "Dadar ([d̪aːd̪əɾ]) is a densely populated residential and shopping neighbourhood in Mumbai. It is also a prominent railway and bus service hub with local and national connectivity. It is Mumbai's first planned area and is a hub for the city's Marathi culture.\n\n\n== History ==\n\n\n=== Origins ===\n\nIn the 16th century, the area was known as Lower Mahim, as it was located on the island of Mahim, one of the Seven Islands of Mumbai, which, after the Bombay Island, was the most important during the whole of the Portuguese period. The Portuguese Franciscans built a church here in 1596 called Nossa Senhora de Salvação, which is popularly known today as the Portuguese Church, and is a familiar Dadar landmark.\n\n\n=== 19th and 20th century ===\nThe Dadar-Matunga-Wadala-Sion scheme of 1899-1900 was the first planned scheme in Mumbai. The Bombay Improvement Trust devised the plan to relieve congestion in the centre of the town, following the plague epidemics of the 1890s. According to the survey plan, 60,000 people were to be housed at Dadar-Matunga, and an equal number in Sion-Matunga. 85,000 people were to be accommodated in the developments in Sewri-Wadala.\nAmong the institutions moved to Dadar under the City...",
+   "url": "https://en.wikipedia.org/wiki/Dadar"
+  },
+  {
+   "title": "Matunga",
+   "text": "Matunga (Marathi pronunciation: [maːʈuŋɡaː]) is a neighbourhood in the city of Mumbai, India. It is accessible from the Matunga Road station on the Western line, Matunga station on the Central Line and King's Circle station on the Harbour Line.\nGeographically, Matunga is surrounded by the Mahim to the West, Sion to the North, Dadar to the South, Wadala to the East\n\n",
+   "url": "https://en.wikipedia.org/wiki/Matunga"
+  },
+  {
+   "title": "Shivaji Park",
+   "text": "Shivaji Park, officially Chhatrapati Shivaji Maharaj Park, is a public park situated in Dadar, Mumbai. It is the largest park in the island city. Similar but bigger in size to Azad Maidan and August Kranti Maidan (formerly Gowalia Tank Grounds), it is of historical and cultural value because of the political and social gatherings it has witnessed, both in pre- and post-independence Mumbai. The 113,000 square metres (28 acres) of open space is renowned as having been a cradle of the game of cricket in India. The park has a variety of sports facilities including cricket nets, Tennis court, a Mallakhamba area and a football pitch amongst others.",
+   "url": "https://en.wikipedia.org/wiki/Shivaji_Park"
+  },
+  {
+   "title": "D. G. Ruparel College of Arts, Science and Commerce",
+   "text": "Doongasree Gangji Ruparel College of Arts, Science and Commerce, known as Ruparel College, is an undergraduate college in Matunga, Mumbai, Maharashtra, India. It is run by the Modern Education Society, Pune and is affiliated with the University of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/D._G._Ruparel_College_of_Arts,_Science_and_Commerce"
+  },
+  {
+   "title": "Hindu Colony",
+   "text": "Hindu Colony is an old locality situated in the Dadar area of Mumbai, India. The locality falls in between Dadar and Matunga on the east side of the Central Railway Line. Traditionally, the area had been a locality of Maharashtrians, Catholics, Jews and Gujaratis, though Maharashtrians are the highest by numbers.\nThe buildings were designed in a style which was prevalent in the pre independence era. British styled Buildings with service staircases and glimpses of Victorian architecture can still be seen. Redevelopment has lent a new look to most of the colony. \n\nThe Colony extends from the Dadar TT Circle, more specifically from the Eastern End of the Tilak Bridge (which connects Dadar East and West) to Ruia College. The Colony is typically designed with roads being identified as Lanes, totaling to 6.\nThe Dadar T.T. Circle is a traffic convergence area, and an important junction as well as a landmark.\nThe term T.T. Originates from the tram terminus, which was located here, in the British Era\n\nB. R. Ambedkar's home, \"Rajgruha\", which he built in the 1930s, is in this area. Hemant Karkare, Chief of the Mumbai Anti-Terrorist Squad, also lived in the colony. After he was killed during 2008...",
+   "url": "https://en.wikipedia.org/wiki/Hindu_Colony"
+  },
+  {
+   "title": "Shivaji Park Residential Zone",
+   "text": "The Shivaji Park Residential Zone is a precinct consisting of 187 residential buildings that were built as part of the Shivaji Park scheme in Dadar, Mumbai. Most of the buildings in this residential locality were constructed in the early 1900s during British colonial rule in India, as a result of which many buildings here exhibit aspects of British architecture.\nPark is considered an upscale real estate cluster in Mumbai, and for long has been considered to be a desirable locality particularly among the Maharashtrian community, with numerous prominent Marathi personalities such as Madhav Manohar, Vinayak Damodar Savarkar and Bal Thackeray having resided here. It is also home to the Kataria Colony, locally known as Sindhi colony, which houses Bhagnari people of Baloch descent.",
+   "url": "https://en.wikipedia.org/wiki/Shivaji_Park_Residential_Zone"
+  },
+  {
+   "title": "Portuguese Church, Mumbai",
+   "text": "The Church of Our Lady of Salvation, popularly referred to as Portuguese Church, is one of the oldest churches in Mumbai, India. It is located on S. K. Bole Road in Dadar. The church was originally built by the Portuguese Franciscans who called it Nossa Senhora da Salvação (Our Lady of Salvation). The present structure, designed by famous Indian architect Charles Correa, was constructed between 1974 and 1977.",
+   "url": "https://en.wikipedia.org/wiki/Portuguese_Church,_Mumbai"
+  },
+  {
+   "title": "Dr. Antonio Da Silva High School and Junior College of Commerce",
+   "text": "Dr. Antonio Da Silva High School (A.D.H.S) and Jr. College of Commerce (A.D.H.S.J.C.C) (Popularly known as A.D.H.S. or nicknamed Antonians) is a semi-private Government, Boys, day school located at Dadar in Mumbai, India. The institution was established in 1851 by Dr Antonio Da Silva and Reverend John Braz Fernandees under the name St. Johna high school. The school caters to pupils from kindergarten up to class 12. The medium of instruction is English. The school houses more than 6,000 pupils aged 3 to 18.\nThe school is affiliated to the Maharashtra State Board of Secondary and Higher Secondary Education, Pune, which conducts the SSC examinations at the close of class 10 and the HSC examinations at the close of class 12.\nAlumni are commonly known as Antonians Alumnus. They include India politicians, government officials and business leaders.  The Sister school of A.D.H.S Dr. Antonio da Silva Technical High School and Junior College of Science located at the Shivaji Park was established in June 1963.",
+   "url": "https://en.wikipedia.org/wiki/Dr._Antonio_Da_Silva_High_School_and_Junior_College_of_Commerce"
+  },
+  {
+   "title": "Dadar Assembly constituency",
+   "text": "Dadar Vidhan Sabha seat was one of the constituencies of Maharashtra Vidhan Sabha, in India. It was a segment of Mumbai South Central Lok Sabha constituency. Dadar seat existed until the 2004 elections after which it was merged into Mahim seat in 2008.",
+   "url": "https://en.wikipedia.org/wiki/Dadar_Assembly_constituency"
+  },
+  {
+   "title": "Rajgruha",
+   "text": "Rajgruha (alternative spelling: Rajgraha and Rajgriha) is a memorial and house of the leader B. R. Ambedkar at Hindu colony of Dadar in Mumbai, India. It was named after Rajgriha (now Rajgir), in reference to the ancient Hindu-Buddhist kingdom. The ground floor of the three-story building hosts a heritage museum, as a memorial to the Indian leader. \nThis place is a popular site for Ambedkarite Buddhists and Dalits\n. Ambedkar lived at Rajgruha for 15-20 years. Millions of people visit the site before the Chaitya Bhoomi in Shivaji Park on 6 December. Ambedkar collected more than 50,000 books during his time at Rajgruha, which made it one of the largest personal libraries in the world at the time of his death. Plans to designate the building as a national monument fell through due to legal and technical issues, but in 2013 the mansion became a heritage monument.",
+   "url": "https://en.wikipedia.org/wiki/Rajgruha"
+  },
+  {
+   "title": "Kolhapur Assembly constituency",
+   "text": "Kolhapur Vidhan Sabha seat was one of the constituencies of Maharashtra Vidhan Sabha, in India. It was a segment of Kolhapur Lok Sabha constituency. Kolhapur seat existed until the 2004 elections after which it was bifurcated into Kolhapur North & Kolhapur South seat in 2008.",
+   "url": "https://en.wikipedia.org/wiki/Kolhapur_Assembly_constituency"
+  },
+  {
+   "title": "Kusumba Assembly constituency",
+   "text": "Kusumba Vidhan Sabha seat was one of the constituencies of Maharashtra Vidhan Sabha, in India. It was a segment of Dhule Lok Sabha constituency. Kusumba seat existed until the 2004 elections after which it was succeeded by Dhule Rural Assembly constituency seat in 2008.",
+   "url": "https://en.wikipedia.org/wiki/Kusumba_Assembly_constituency"
+  },
+  {
+   "title": "Chandur Assembly constituency",
+   "text": "Chandur Vidhan Sabha seat was one of the constituencies of Maharashtra Vidhan Sabha, in India. It was a segment of Amravati Lok Sabha constituency. Chandur seat existed until the 2004 elections after which it was succeeded by Dhamangaon Railway Assembly constituency seat in 2008.",
+   "url": "https://en.wikipedia.org/wiki/Chandur_Assembly_constituency"
+  },
+  {
+   "title": "Bhilwadi Wangi Assembly constituency",
+   "text": "Bhilwadi Wangi Vidhan Sabha seat was one of the constituencies of Maharashtra Vidhan Sabha, in India. It was a segment of Sangli Lok Sabha constituency. Bhilwadi Wangi seat existed until the 2004 elections after which it was succeeded by Palus-Kadegaon Assembly constituency seat in 2008.",
+   "url": "https://en.wikipedia.org/wiki/Bhilwadi_Wangi_Assembly_constituency"
+  },
+  {
+   "title": "Kavathe Mahankal Assembly constituency",
+   "text": "Kavathe Mahankal Vidhan Sabha seat was one of the constituencies of Maharashtra Vidhan Sabha, in India. It was a segment of Sangli Lok Sabha constituency. Kavathe Mahankal seat existed until the 2004 elections after which it was succeeded by Tasgaon-Kavathe Mahankal Assembly constituency seat in 2008.",
+   "url": "https://en.wikipedia.org/wiki/Kavathe_Mahankal_Assembly_constituency"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Kavathe Mahankal Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 19.02,
+   "lon": 72.843
+  },
+  {
+   "name": "Kusumba Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 19.02,
+   "lon": 72.843
+  },
+  {
+   "name": "Chandur Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 19.02,
+   "lon": 72.843
+  },
+  {
+   "name": "Bhilwadi Wangi Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 19.02,
+   "lon": 72.843
+  },
+  {
+   "name": "Dadar Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 19.02,
+   "lon": 72.843
+  },
+  {
+   "name": "Kolhapur Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 19.02,
+   "lon": 72.843
+  },
+  {
+   "name": "Matunga",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 19.01798,
+   "lon": 72.844763
+  },
+  {
+   "name": "Dadar",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 19.021,
+   "lon": 72.841
+  },
+  {
+   "name": "Dr. Antonio Da Silva High School and Junior College of Commerce",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 19.019945,
+   "lon": 72.840011
+  },
+  {
+   "name": "Rajgruha",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 19.0214,
+   "lon": 72.8476
+  },
+  {
+   "name": "Hindu Colony",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 19.020841,
+   "lon": 72.848647
+  },
+  {
+   "name": "Portuguese Church, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 19.01833333333333,
+   "lon": 72.83638888888889
+  },
+  {
+   "name": "Shivaji Park",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 19.026724,
+   "lon": 72.838047
+  },
+  {
+   "name": "Shivaji Park Residential Zone",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 19.026724,
+   "lon": 72.838047
+  },
+  {
+   "name": "D. G. Ruparel College of Arts, Science and Commerce",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 19.028042,
+   "lon": 72.845149
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

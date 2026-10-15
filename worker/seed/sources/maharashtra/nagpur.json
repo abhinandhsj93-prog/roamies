@@ -1,0 +1,294 @@
+{
+ "query": "Nagpur",
+ "found": "Nagpur City, Nagpur Urban Taluka, Nagpur, Maharashtra, India",
+ "lat": 21.1498134,
+ "lon": 79.0820556,
+ "fetchedAt": "2026-10-12T19:04:46.210Z",
+ "locality": {
+  "id": "ramdaspeth-nagpur-maharashtra",
+  "name": "Ramdaspeth",
+  "area": "Nagpur, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Central Provinces and Berar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/British_Raj_Red_Ensign.svg/1280px-British_Raj_Red_Ensign.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Central Provinces and Berar",
+   "credit": "Photo: Barryob, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Raj_Red_Ensign.svg"
+  },
+  "Vidarbha Cricket Association Ground": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/VCA_India_v_England_2006.jpg/1280px-VCA_India_v_England_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vidarbha Cricket Association Ground",
+   "credit": "Photo: The original uploader was Arun.arumugam at English Wikipedia., Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:VCA_India_v_England_2006.jpg"
+  },
+  "Nagpur Province": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/British_Raj_Red_Ensign.svg/1280px-British_Raj_Red_Ensign.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nagpur Province",
+   "credit": "Photo: Barryob, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Raj_Red_Ensign.svg"
+  },
+  "Central Provinces": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/British_Raj_Red_Ensign.svg/1280px-British_Raj_Red_Ensign.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Central Provinces",
+   "credit": "Photo: Barryob, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Raj_Red_Ensign.svg"
+  },
+  "Kingdom of Nagpur": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bhonsle_kingdom_of_Nagpur.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kingdom of Nagpur",
+   "credit": "Photo: Joseph E. Schwartzberg, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhonsle_kingdom_of_Nagpur.png"
+  },
+  "Nagpur Junction railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Nagpur_Railway_Station_Stitch.jpg/1280px-Nagpur_Railway_Station_Stitch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nagpur Junction railway station",
+   "credit": "Photo: Ganesh Dhamodkar, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagpur_Railway_Station_Stitch.jpg"
+  },
+  "Sitabuldi Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Sitabuldi_fort_gate.JPG/1280px-Sitabuldi_fort_gate.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sitabuldi Fort",
+   "credit": "Photo: Gppande, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sitabuldi_fort_gate.JPG"
+  },
+  "Zero Mile Stone (Nagpur)": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zero_mile_nagpur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Zero Mile Stone (Nagpur)",
+   "credit": "Photo: Dr. Tarique Sani, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zero_mile_nagpur.jpg"
+  },
+  "Nagpur Central Museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Nagpur_Central_Museum%2C_Painting_Gallery%2C_Oct_2019.jpg/1280px-Nagpur_Central_Museum%2C_Painting_Gallery%2C_Oct_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nagpur Central Museum",
+   "credit": "Photo: SafarNama, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagpur_Central_Museum,_Painting_Gallery,_Oct_2019.jpg"
+  },
+  "Nagpur Central Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/55-Nagpur_Central.svg/1280px-55-Nagpur_Central.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nagpur Central Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:55-Nagpur_Central.svg"
+  },
+  "Sitabuldi metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sitabuldi_metro_station.jpg/1280px-Sitabuldi_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sitabuldi metro station",
+   "credit": "Photo: Santosh4118, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sitabuldi_metro_station.jpg"
+  },
+  "Ram Jhula, Nagpur": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ram_Jhoola_Bridge_in_Nagpur.jpg/1280px-Ram_Jhoola_Bridge_in_Nagpur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ram Jhula, Nagpur",
+   "credit": "Photo: Azhar Khan, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ram_Jhoola_Bridge_in_Nagpur.jpg"
+  },
+  "Meetha Neem Dargah": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Meetha_Neem_Dargah.jpg/1280px-Meetha_Neem_Dargah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Meetha Neem Dargah",
+   "credit": "Photo: Ganesh Dhamodkar, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meetha_Neem_Dargah.jpg"
+  },
+  "Kasturchand Park metro station": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Kasturchand_Park_metro_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kasturchand Park metro station",
+   "credit": "Photo: Santosh4118, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasturchand_Park_metro_station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Central Provinces and Berar",
+   "text": "The Central Provinces and Berar was a province of British Raj and later the Dominion of India which existed from 1903 to 1950. It was formed by the merger of the Central Provinces with the province of Berar, which was territory leased by the British from the Hyderabad State. Through an agreement signed on 5 November 1902, 6th Nizam Mahbub Ali Khan, Asaf Jah VI leased Berar permanently to the British for an annual payment of 25 lakhs rupees. Lord Curzon decided to merge Berar with the Central Provinces, and this was proclaimed on 17 September 1903.\nThe Central Provinces was formed in 1861 by the merger of the Saugor and Nerbudda Territories and Nagpur Province. Administration of the Berar region of the Hyderabad princely state was assigned to the Chief Commissioner of the Central Provinces in 1903, and for administrative purposes, Berar was merged with the Central Provinces to form the Central Provinces and Berar on 24 October 1936. After Indian Independence in 1947, a number of princely states were merged into the Central Provinces and Berar, which, when the Constitution of India went into effect in 1950, became the new Indian state of Madhya Bharat, merged with Madhya Pradesh in 1956...",
+   "url": "https://en.wikipedia.org/wiki/Central_Provinces_and_Berar"
+  },
+  {
+   "title": "Vidarbha Cricket Association Ground",
+   "text": "The Vidarbha Cricket Association Ground is a cricket ground located in the city of Nagpur.\nThe ground is known as the VCA Ground and is located in Central Zone. Its first match was played in October 1969. As of 19 August 2017, it has hosted nine Tests and 14 ODIs.\nIts role as an international venue has been succeeded by the Vidarbha Cricket Association Stadium, but it continues to be used as a domestic cricket ground by the Vidarbha and Uttar Pradesh cricket teams.\nIn 1995, during the 5th ODI between India and New Zealand, a wall in the East Stand collapsed, killing 9 people and injuring 70 others.",
+   "url": "https://en.wikipedia.org/wiki/Vidarbha_Cricket_Association_Ground"
+  },
+  {
+   "title": "Nagpur Province",
+   "text": "Nagpur Province was a province of British India that covered parts of the present-day states of Madhya Pradesh, Maharashtra, and Chhattisgarh. The city of Nagpur was the capital of the province.\nIn 1861, Nagpur Province was merged into the Central Provinces together with the Saugor and Nerbudda Territories.",
+   "url": "https://en.wikipedia.org/wiki/Nagpur_Province"
+  },
+  {
+   "title": "Central Provinces",
+   "text": "The Central Provinces was a province of British India. It comprised British conquests from the Marathas in central India, and covered parts of present-day Madhya Pradesh, Chhattisgarh and Maharashtra states. Nagpur was the primary winter capital while Pachmarhi served as the regular summer retreat. It became the Central Provinces and Berar in 1903.\nThe Central Provinces was formed in 1861 by the merger of the Saugor and Nerbudda Territories and Nagpur Province. The district of Nimar which was administered by the Central India Agency was added in 1864. It was almost an island encircled by a sea of \"native States\" such as Bhopal State and Rewa State to the north, the Chota Nagpur States and Kalahandi State to the east, and the Nizam's territories of Hyderabad to the south and Berar to the west.",
+   "url": "https://en.wikipedia.org/wiki/Central_Provinces"
+  },
+  {
+   "title": "Kingdom of Nagpur",
+   "text": "The Kingdom of Nagpur was a kingdom within the Maratha Empire in the 18th and 19th centuries. It was ruled by the Maratha Bhonsle dynasty in the mid-18th century. The city of Nagpur was the capital of the state.\nAfter the Third Anglo-Maratha War, it became a princely state of the British Empire in 1818, and was annexed to British India in 1853 becoming Nagpur Province.",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Nagpur"
+  },
+  {
+   "title": "Nagpur Junction railway station",
+   "text": "Nagpur Junction (station code: NGP) is a railway station in Nagpur, in the Indian state of Maharashtra. It is an important junction station on the Howrah–Mumbai and Delhi–Chennai trunk line of the Indian Railways. It belongs to the A1 category of railway stations and is one of the top 100 stations of the Indian Railways system in terms of total bookings.",
+   "url": "https://en.wikipedia.org/wiki/Nagpur_Junction_railway_station"
+  },
+  {
+   "title": "Sitabuldi Fort",
+   "text": "Sitabuldi Fort, site of the Battle of Sitabuldi in 1817, is located atop a hillock in central Nagpur, in the Indian state of Maharashtra. The fort was built by the British after they won this area. Mudhoji II Senasaheb Subha was allowed to continue ruling Nagpur after the British had won the battles of Sitaburdi, Sakkardara, and Nagpur. Richard Jenkins entered into a treaty with Mudhoji on 6 January 1818, which was later ratified by the Governor General. Article 7 of the treaty stated: \"The two hills of Seetabuldee with the bazaars and land adjoining, to a distance to be hereafter specified, shall be henceforth included in the British boundary, and such Military works erected as may be deemed necessary.\" By this treaty, the British occupied the Sitaburdi hills and large areas on all four sides. However no major construction work was erected on it for next two years. The area surrounding the hillock, now known as Sitabuldi, is an important commercial hub for Nagpur. To the south is Nagpur Railway Station and behind it is Tekdi Ganapati, a temple of Ganesha. The fort was a home to the Indian Army's 118th infantry battalion (Territorial Army) Grenadiers till 2019.",
+   "url": "https://en.wikipedia.org/wiki/Sitabuldi_Fort"
+  },
+  {
+   "title": "Zero Mile Stone (Nagpur)",
+   "text": "Zero Mile Stone (ISO: Śūnya Mailācā Dagaḍa) is a monument built by the British during the Great Trigonometrical Survey of India in 1907 in Nagpur, Maharashtra. The Zero Mile Stone consists of a pillar made up of sandstone and another small stone representing the GTS Standard Bench Mark, and four stucco horses that were added later. The height of the top of the pillar is 310.948 m (1,020.17 ft) above mean sea level. In 2008, The Times of India undertook to maintain the monument for the next 5 years.\nThe city of Nagpur lies geographically at the center of all the nine major metros of India, viz. Ahmedabad, Bangalore, Chennai, Hyderabad, Kochi, Mumbai, Kolkata, New Delhi, and Pune.\nThe following table gives the distances from Zero Mile in Nagpur to nearby places, which is marked on the hexagonal base of the pillar in miles.\n\nAlthough Nagpur's Zero Mile Stone is considered to be the geographical centre of India through the Great Trigonometrical Survey, two villages in Madhya Pradesh also claim this distinction—Karaundi and Barsali.",
+   "url": "https://en.wikipedia.org/wiki/Zero_Mile_Stone_(Nagpur)"
+  },
+  {
+   "title": "Nagpur Central Museum",
+   "text": "The Nagpur Central Museum, popularly known as Ajab Bangala, is located in Nagpur, Maharashtra, India. Established in 1863, Nagpur Central Museum is one of the oldest museums in India and Maharashtra. It holds important artifacts such as dinosaurs' fossils, coins, ancient inscriptions, sculptures, arms, tribal artifacts from per-historic to the modern time. The Nagpur Central Museum is the oldest and largest museum in the Central India region.",
+   "url": "https://en.wikipedia.org/wiki/Nagpur_Central_Museum"
+  },
+  {
+   "title": "Nagpur Central Assembly constituency",
+   "text": "Nagpur Central Assembly constituency is one of the 288 Vidhan Sabha (legislative assembly) constituencies of Maharashtra state, western India. It is one of the six assembly seats which make up Nagpur Lok Sabha constituency. The Constituency Number is 55. This constituency is located in Nagpur district. The delimitation of the constituency happened in 2008. It comprises parts of Nagpur Taluka, and Ward No. 66, 92 to 98, 109 to 119 and 121 to 129.  of Nagpur Municipal Corporation.",
+   "url": "https://en.wikipedia.org/wiki/Nagpur_Central_Assembly_constituency"
+  },
+  {
+   "title": "Sitabuldi metro station",
+   "text": "Sitabuldi is an elevated metro interchange station on the North-South corridor of the Orange Line and East-West corridor of the Aqua Line of Nagpur Metro in the city of Nagpur, Maharashtra, India which allows passengers to transfer between the Orange Line and the Aqua Line. It was opened to the public on 8 March 2019. Aqua Line services commenced on 28 January 2020. The station covers a total area of 250,000 square feet.\nSitabuldi is a central location of Nagpur, the Intra City bus stop is located near to metro station, while the Inter City bus stand at Ganeshpeth can be reached by autorickshaw or local bus.",
+   "url": "https://en.wikipedia.org/wiki/Sitabuldi_metro_station"
+  },
+  {
+   "title": "Ram Jhula, Nagpur",
+   "text": "The Ram Jhula consists of two parallel cable-stayed railway over-bridges in Nagpur, India. The 606.74 metres (1,990.6 ft) long bridge crosses the railway tracks north of Nagpur Junction railway station. The Blue Line of the Nagpur Metro runs along the centre of the bridge on the eastern side.",
+   "url": "https://en.wikipedia.org/wiki/Ram_Jhula,_Nagpur"
+  },
+  {
+   "title": "Meetha Neem Dargah",
+   "text": "Meetha-Neem Dargah also known as Meetha-Neem Sharif is the resting place of Aala Hazrat Sufi Saint Sayyad Jalaluddin Meer Surkh. It is located at civil lines region of Nagpur. Sources say Sufi saint Sayyad Jalaluddin Meer Surkh was the disciple of Tajuddin Baba of Nagpur.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Meetha_Neem_Dargah"
+  },
+  {
+   "title": "Kasturchand Park metro station",
+   "text": "Kasturchand Park is an elevated metro station on the North-South corridor of the Orange Line of Nagpur Metro in the city of Nagpur, Maharashtra. This serves the Kasturchand Park area. It was opened on 21 August 2021.",
+   "url": "https://en.wikipedia.org/wiki/Kasturchand_Park_metro_station"
+  },
+  {
+   "title": "Nagpur Railway Station metro station",
+   "text": "Nagpur Railway Station is an important elevated metro station on the East-West Corridor of the Aqua Line of Nagpur Metro in Nagpur, India. This metro stations holds the main Nagpur Junction railway station. This metro station was inaugurated on 11 December 2022 by Prime Minister Narendra Modi and was opened to the public on 12 December 2022.",
+   "url": "https://en.wikipedia.org/wiki/Nagpur_Railway_Station_metro_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Nagpur",
+  "text": "Nagpur (Marathi: नागपूर Nāgpūr), a major city in the Indian state of Maharashtra, is famous for its Nagpur oranges and also widely considered to be the city at the center of India. Nagpur is also the state's winter capital, as the winter session of the Maharashtra Legislature is held here, along with some administrative functions.\n\n\n== See ==\n1 Bishop Cotton School (metro: Kasturchand Park  Orange ). A heritage building from the British era. It is in the heart of city and pride of Nagpur. (updated Mar 2026)\n2 Diamond Crossing. A unique marvel of engineering that exists in a very few places of the world. The double lines crossing from the north to the south and those from east to west form a square shape and is called the diamond crossing. It is crucial and is used widely. (updated Jun 2023)\n\n\n=== Gardens ===\n3 Satpuda Botanical Garden, Seminary Hills (near Phutala Lake). The botanical garden of Nagpur with several rare plant species. The garden is also popular among bird enthusiasts. (updated Mar 2026)\n4 Japanese Garden (Japanese Rose Garden).  \n5 Taj Bagh.  \n6 Telankhedi Garden.  (updated Mar 2026)\n\n\n=== Government buildings ===\n7 Lok Bhavan (लोक भवन Lok Bhavan). The winter residence of the Governor of Maharashtra. (updated Mar 2026)\n8 Vidhan Bhavan (विधान भवन Vidhān Bhavan). The seat of the winter sessions of the Maharashtra Legislature. It was built in 1912 to house the government of the Central Provinces of Berar, as Nagpur was its capital. The province was later incorporated into Madhya Pradesh in 1952 after India's independence, and Nagpur remained the capital of the Indian state. However, the Vidarbha region of Madhya Pradesh was later incorporated into Maharashtra in 1960, and Nagpur became the winter capital of the then-new state under the Nagpur Pact to protect the interests and equal development of Vidarbha. (updated Mar 2026)\n\n\n=== Monuments and memorials ===\n\n9 Hedgewar Smruti Mandir.  (updated Mar 2026)\n10 Namantar Shahid Smarak.  (updated Mar 2026)\n11 Zero Mile Stone (शून्य मैलाचा दगड Śūnya Mailācā Dagaḍ). A monument marking the geographical centre of colonial India. It was built by British during the 1907 Great Trigonometrical Survey of India in Nagpur. The Zero Mile Stone consists of a pillar made up of sandstone and another small stone representing the GTS Standard Bench Mark, and four stucco horses that were added later. The height of the top of the pillar is 1,020.171 ft (310.948 m) above mean sea level. (updated Jun 2023)\n\n\n=== Museums ===\n12 Nagpur Central Museum (Ajab Bangala). One of the oldest museums in India, founded in 1863. Its collection includes artefacts like dinosaurs' fossils, coins, ancient inscriptions, sculptures, arms and tribal artefacts. It has QR codes in display galleries, which provide information about artefacts in Marathi, Hindi and English, as well as 13 other languages. (updated Mar 2026)\n13 Narrow Gauge Rail Museum, Kadbi Chowk, Kamptee Road. A railway museum with old & heritage articles from Indian Railways: old steam engines, coaches, saloons and many more things related to narrow gauge Indian Railway. A very good garden with a toy train. \n14 Raman Science Centre (Raman Science Centre and Raman Planetarium Complex). An interactive science centre, similar to Mumbai's Nehru Science Centre. Named after Nobel laureate C. V. Raman, the centre was developed to promote a scientific attitude, portray the growth of science and technology and their applications in industry and human welfare, and hold science exhibits. (updated Jun 2023)\n\n\n=== Places of worship ===\n\n15 Bohra Masjid, Itwari. It is very big and beautiful mosque. \n16 Deekshabhoomi (Dhamma Chakra Stupa). Buddhist temple. (updated Mar 2026)\n\n\n== Do ==\n1 Ramdham, Ramtek (national Highway 7), ☏ +91 9860840000. Central India's largest spiritual - cultural tourism park which houses all Hindu deities under one roof. There are cultural shows like folk dances, magic and puppet shows every evening and tourists can look forward for a comfortable stay at the resort. \n\n\n=== Parks and lakes ===\n\n2 Ambazari Lake, 27, N Ambazari Rd, Ambazari.  (updated Mar 2026)\n3 Gorewada Lake. A lake created by a dam. (updated Jun 2023)\n4 Kasturchand Park (metro: Kasturchand Park  Orange ).  (updated Mar 2026)\n5 Khindsi Lake, Ramtek, khindsi, ☏ +91 9860840000. Khindsi is a picturesque lake 40 km from Nagpur city and is famous for the natural beauty and water-sports. The lake is in a valley covered by thick forest and is a very popular tourist destination of Central India. There are cottages for accommodation too. (updated Mar 2026)\n6 Phutala Lake. Evening host for food in exotic lake view. (updated Mar 2026)\n7 Shukrawari Lake (Gandhisagar Lake, Jumma Talao).  (updated Mar 2026)\n8 Sonegaon Lake, Khamla Road (South). Migratory birds can be seen in winters. (updated Mar 2026)\n\n\n=== Sports ===\n\n9 Vidarbha Cricket Association Stadium, Wardha Rd, Jamtha, ☏ +91 712 254 1908. One of India's largest cricket grounds by area, with a capacity of 45,000. It hosts Vidarbha in the Ranji Trophy. (updated Mar 2026)\n10 Vivekananda Nagar Indoor Sports Complex.  (updated Mar 2026)\n11 Yashwant Stadium. A football stadium. (updated Mar 2026)\n\n\n=== Zoos ===\n12 Gorewada Zoo (Balasaheb Thackeray Gorewada International Zoological Park), SH 248. A zoological park named after Shiv Sena founder Bal Thackeray. Visitors can avail online booking through the official website. (updated Mar 2026)\n13 Maharajbagh Zoo. Another zoo in Nagpur, in the city centre. It is home to leopards, lions, tigers, peacocks and other animals. (updated Mar 2026)\n\n\n== Eat ==\n\nNagpur has a lot of good places to eat.\nDuring summers the best place is Khindsi lake with huts around the lake and serving veg and non veg food.\nFor Non-Veg, many restaurants in Momin pura (this neighbourhood is a must visit during the month of Ramzan) serve specialities like Biryani and other eats in places like M.L Canteen, Tanveer Hotel, Babbu's Hotel at old VCA Ground Sadar, Hotel Al-Zam-Zam on CA Road, Babbu's Hotel in Dharampeth. Many of these restaurants have branches in other places within Nagpur.\nThe best continental can be savoured at 10 Downing Street in Ramdas Peth while Fountain Sizzlers & Bistro serves amazing sizzlers.\nMount Road near Sadar is the best hang-out for foodies. Ashoka for continental or Indian, Nanking for Chinese, Barbecue for Punjabi (Indian Tandoori), Veeraswamy's and Kamat for South-Indian Food.\nZinq for Italian food, Masala for Indian, China for Chinese. V5, a group of 5 different restaurants including a bar, a family restaurant and a disco is a neat establishment. Village Tadka on outer ring road serves excellent Saoji cuisine and Saoji Chicken is a must try. And if you like Saoji taste, you can take home Saoji Curry of Actchawa, which can be used in easy one-step preparation of Saoji food. Pintu Saoji near Vidhan bhavan is also good.\nHaldiram's is also a good place to eat it also provides packed food for Air/Railway Passengers.\nSome of the restaurants of the hotels also offer a great dinner opportunity like Tuli's 'Frontier Post' for Afghani food (peshawari naan and frontier dal recommended) and LB's 'Drums of Heaven'. The Pride Hotel, a favourite amongst air-travelers due to its proximity to the airport, holds numerous food festivals throughout the year for food conneussiers.\nFor food on the run The Kathi Crossing near VCA Ground, Poonam Chambers Byramji Town, Pratap Nagar and LAD College offer amazing rolls which are a meal in themselves.\nFor street food, roadside carts are lined up with pani puri,  Chat, Pav Bhaji and the Indianised version of Chinese noodles and Manchurian at Bajaj Nagar and Yeshwant Stadium.You can also find them near Traffic Park and Futala Lake.\nIt has one of the biggest Grocery market in Central India near Shaheed Chowk. Shaheed chowk (square) is also very famous in the night for variety of street foods.\nThere is also a place for people who are on tight on budget namely \" Calcutta Rolls \" it is located in Sadar and one near Shankar Nagar Square.\n\n Indian Coffee House, West High Court Road.  (updated May 2015)\n\n\n== Drink ==\nThere are numerous places in Nagpur for variety of drinks. Almost, all the hotels in City are fully licensed.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Nagpur"
+ },
+ "sights": [
+  {
+   "name": "Zero Mile Stone",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 21.14985,
+   "lon": 79.080598
+  },
+  {
+   "name": "Sitabuldi Fort",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 21.148333333333333,
+   "lon": 79.085
+  },
+  {
+   "name": "Meetha Neem Dargah",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 21.15163,
+   "lon": 79.07857
+  },
+  {
+   "name": "Nagpur Central Museum",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 21.151,
+   "lon": 79.0782
+  },
+  {
+   "name": "Kasturchand Park metro station",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 21.15487,
+   "lon": 79.0815
+  },
+  {
+   "name": "Nagpur Central Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 21.155,
+   "lon": 79.081
+  },
+  {
+   "name": "Nagpur Junction railway station",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 21.1534,
+   "lon": 79.0889
+  },
+  {
+   "name": "Central Provinces",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 21.15,
+   "lon": 79.09
+  },
+  {
+   "name": "Nagpur Province",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 21.15,
+   "lon": 79.09
+  },
+  {
+   "name": "Central Provinces and Berar",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 21.15,
+   "lon": 79.09
+  },
+  {
+   "name": "Kingdom of Nagpur",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 21.15,
+   "lon": 79.09
+  },
+  {
+   "name": "Ram Jhula, Nagpur",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 21.1535,
+   "lon": 79.0894
+  },
+  {
+   "name": "Nagpur Railway Station metro station",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 21.15114,
+   "lon": 79.09044
+  },
+  {
+   "name": "Sitabuldi metro station",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 21.14152,
+   "lon": 79.08315
+  },
+  {
+   "name": "Vidarbha Cricket Association Ground",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 21.157277777777775,
+   "lon": 79.07652777777777
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

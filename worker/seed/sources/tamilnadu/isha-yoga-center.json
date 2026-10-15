@@ -1,0 +1,55 @@
+{
+ "query": "Isha Yoga Center",
+ "found": "Isha Yoga Information Center, 15, Lake Island, Muttathuvayal, Coimbatore South, Coimbatore, Tamil Nadu, 641005, India",
+ "lat": 10.9772391,
+ "lon": 76.7375048,
+ "fetchedAt": "2026-10-12T19:30:13.592Z",
+ "locality": {
+  "id": "narasipuram-coimbatore-tamil-nadu",
+  "name": "Narasipuram",
+  "area": "Coimbatore South, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Adiyogi Shiva bust": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Adiyogi_Shiva_steel_burst_2018.jpg/1280px-Adiyogi_Shiva_steel_burst_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Adiyogi Shiva bust",
+   "credit": "Photo: Prabhuthiru57, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adiyogi_Shiva_steel_burst_2018.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Adiyogi Shiva bust",
+   "text": "The Adiyogi Shiva bust is a 34-metre-tall (112 ft), 45-metre-long (147 ft) and 25-metre-wide (82 ft) steel bust of Shiva with Thirunamam at Coimbatore, Tamil Nadu. It is recognized by the Guinness World Records as the \"Largest Bust Sculpture” in the world. Designed by Sadhguru, the founder and head of the Isha Foundation, the statue weighs around 500 tonnes (490 long tons; 550 short tons).\nAdiyogi refers to Shiva as the first yogi. It was established to inspire people towards inner well-being through yoga.",
+   "url": "https://en.wikipedia.org/wiki/Adiyogi_Shiva_bust"
+  },
+  {
+   "title": "Booluvampatti",
+   "text": "Booluvampatti is a small village in Thondamuthur City located in south Taluka of Coimbatore district in Tamil Nadu, in India. It is 29.9 km from Coimbatore and 74.9 km from Palakkad. This village is near the forest boundary and its farm land often gets raided by wild elephants.",
+   "url": "https://en.wikipedia.org/wiki/Booluvampatti"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Booluvampatti",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 10.979444444444445,
+   "lon": 76.73555555555555
+  },
+  {
+   "name": "Adiyogi Shiva bust",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 10.972416,
+   "lon": 76.740602
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

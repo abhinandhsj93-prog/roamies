@@ -1,0 +1,60 @@
+{
+ "query": "Ponmudi, Thiruvananthapuram",
+ "found": "Ponmudi, Nedumangad, Thiruvananthapuram, Kerala, India",
+ "lat": 8.76,
+ "lon": 77.115,
+ "fetchedAt": "2026-10-12T17:38:02.157Z",
+ "locality": {
+  "id": "ponmudi-thiruvananthapuram-kerala",
+  "name": "Ponmudi",
+  "area": "Nedumangad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Ponmudi": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Morning_at_Ponmudi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Ponmudi",
+   "credit": "Photo: Arunelectra, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morning_at_Ponmudi.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Ponmudi",
+   "text": "Ponmudi (the Golden Peak) is a hill station in the Peringamala gramapanchayath  of Thiruvananthapuram district of Kerala in India. It is located 22km west of Vithura town, 53 km north-east of Thiruvananthapuram City, 78 km south-east of Varkala town and 69 km north-east of Kovalam Beach at an altitude of 1,100 m (3,600 ft).  Ponmudi (Varayadumotta) peak is a part of the Western Ghats mountain range that runs parallel to the Arabian Sea. Ponmudi is a popular honeymoon destination in South India. The normal temperature of Ponmudi is between 14 and 25 °C (57 and 77 °F). During the winter season, the temperature drops between 10 and 19 °C (50 and 66 °F) especially during the night time. The lowest temperature in Ponmudi ever recorded is  8°C.\n\n\n== Attractions ==\nPonmudi is connected to Thiruvananthapuram by a two-lane highway (SH2 & SH 45).  The last 18 km starting from Anapara has scenic views, as it winds through the mountains and tea gardens. The travel along this stretch provides a scenic experience, as drivers and riders must navigate 22 Hairpin turns.   Ponmudi is also a popular spot for backpacking and trekking. The climate is pleasant year-round.\nOther attractions near Ponmudi include...",
+   "url": "https://en.wikipedia.org/wiki/Ponmudi"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Ponmudi",
+  "text": "Ponmudi (Malayalam: പൊന്മുടി) (The Golden Peak) is a hill station in the Southern Travancore region of Kerala, 62 km north-east of Trivandrum City.\n\n\n== See ==\nFreshwater Springs of the river Kallar.\nA deer park is there at the mountain top.\nPeppara Wildlife Sanctuary\nLion Safari & Deer Park\nGolden Valley\nAgasthiya Biological Park\nPonmudi Crest\nMeenmutti falls lies close to the place.\n\n\n== Do ==\nTrekking and hiking in the lush mountains. Agasthyar Hills is close to it and passes are available in the month of January and February.\n\n\n== Eat ==\n\n KTDC Restaurant. Breakfast: ₹250,  Lunch: ₹450 (updated Jun 2015)\nThere is another restaurant present at the top of the hill will average prices.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Ponmudi"
+ },
+ "sights": [
+  {
+   "name": "Ponmudi Upper Sanatorium",
+   "kind": "attraction",
+   "walkMinutes": 11,
+   "lat": 8.7660115,
+   "lon": 77.113078
+  },
+  {
+   "name": "Ponmudi View Point",
+   "kind": "viewpoint",
+   "walkMinutes": 11,
+   "lat": 8.7656646,
+   "lon": 77.1129227
+  },
+  {
+   "name": "Ponmudi Hill Station",
+   "kind": "attraction",
+   "openingHours": "Mo-Su 08:00-16:00",
+   "walkMinutes": 16,
+   "lat": 8.7668888,
+   "lon": 77.109477
+  }
+ ],
+ "food": [],
+ "errors": []
+}

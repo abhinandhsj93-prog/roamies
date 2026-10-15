@@ -1,0 +1,53 @@
+{
+ "query": "Vellore",
+ "found": "Vellore, Tamil Nadu, India",
+ "lat": 12.9021849,
+ "lon": 79.061104,
+ "fetchedAt": "2026-10-12T19:17:47.855Z",
+ "locality": {
+  "id": "mottur-vellore-tamil-nadu",
+  "name": "Mottur",
+  "area": "Vellore, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Vellore": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Javadi_Hills.jpg/1280px-Javadi_Hills.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vellore",
+   "credit": "Photo: Karthik Easvur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Javadi_Hills.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Vellore",
+   "text": "Vellore (Tamil: ['ʋeːluːɾ] WAY-loor), also spelled Velur, is a city and municipal corporation in the Indian state of Tamil Nadu. It is the administrative headquarters of Vellore district. Located on the banks of the Palar River, it is surrounded by the Javadi Hills, an extension of the Eastern Ghats. The city covers an area of 76.09 km2 (29.38 sq mi), and is further sub-divided into 60 wards across four zones. It is administered by the Vellore Municipal Corporation, headed by a mayor, who is elected by the councilors of the respective wards. As of the 2011 census, the city had a population of 315,128. It is a part of the Vellore Lok Sabha constituency, which elects its Member of Parliament to the Lok Sabha, and the Vellore state assembly constituency that elects its member to the Tamil Nadu Legislative Assembly.\nThe early history of Vellore dates back to the Chola period in the 9th century CE. It was part of various empires during the Middle Ages. The Vellore Fort and the Jalakandeswarar Temple, were built during the reign of the Vijayanagara Empire in the 16th century CE. In the 18th century, Vellore was involved in the Carnatic Wars between the British and the French, and the Anglo...",
+   "url": "https://en.wikipedia.org/wiki/Vellore"
+  },
+  {
+   "title": "Vellore Airport",
+   "text": "Vellore Airport (ICAO: VOVR) is located in Vellore, Tamil Nadu, India. It serves Vellore and Adjoining districts such as Ranipettai, Thiruvannamalai and Tirupattur in Tamilnadu and also serves the parts of Chittoor District in Andhra pradesh. This airport exactly sits at a distance of 150 kilometres apart from Karnataka's Bangalore's International Airport. As of 2020, it is revived and under construction.",
+   "url": "https://en.wikipedia.org/wiki/Vellore_Airport"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Vellore",
+  "text": "Vellore is a city of 505,000 people (2011) in Tamil Nadu, India. Visitors are drawn by its large 16th-century fort, which is known for its grand ramparts, wide moat and robust masonry. Apart from Fort tourism, Christian Medical College due to its esteemed position in the country, both as a medical college and a hospital, invites many students, medical practitioners, and patients from around the country. Vellore Institute of Technology located at Katpadi in Vellore district also attracts visitors from around the country. \n\n\n== See ==\n1 Amirthi Forest (25 km from Vellore). A large forested area near Javathu mountain. Amirthi Falls and Amirthi Zoo can be found here. Animals at the park include spotted deer, mongoose, hedgehog, foxes, reason monkeys, red headed parrots, love birds, tortoises, peacock, crocodiles, wild cats, eagles, ducks, pigeons, wild parrots, rabbits, and pythons. \n2 Golden Temple, Sripuram (Thirupuram spiritual park). Dedicated to Sri Lakshmi Narayani or Maha Lakshmi, the goddess of wealth, in 2007. The temple has covered in intricate work done by artisans specialising in temple art using gold. Every detail was manually created and has significance from the Vedas. Sripuram's design features a star-shaped path (Sri chakra), positioned in the middle of the lush green landscape, with a length of over 1.8 km. You walk along a 'starpath' to reach the temple in the middle, past spiritual messages. \n3 Jalagandeswarar Temple. This temple to Lord Shiva is a fine example of Vijayanagaram Architecture. The temple has exquisite carvings on its gopuram (tower), richly carved stone pillars, large wooden gates and stunning monoliths and sculptures. \n4 Muthumandapam (Muthu Mandapam).  \n5 Theertagiri Murugan Temple. Temple dedicated to Lord Murugan with a huge statue of him also nearby (updated Nov 2025)\n6 Sajra and Gojra Forts. These are abandoned cliff top remains of forts built by Chhatrapati Shivaji Maharaj. This is recommended only for those with strength as it's accessible only via foot. You also need to be aware of when and how you plan to climb them. (updated Nov 2025)\n7 Palamathi Murugan Temple. Murugan Temple on Palamathi Hill (updated Nov 2025)\n\n\n== Do ==\n\n\n== Eat ==\nVellore is famous for biryani made from jeera sambha rice.\n\n1 The Vellore Kitchen, ☏ +91 89405 89405. Good place for South Indian chicken and mutton dishes. They also have seafood and other cuisines. (updated Nov 2025)\n2 Zaitoon Katpadi, 1st floor, Selvam Square, Tiruvalam Rd, Selvam Nagar, Katpadi, ☏ +91 9087 111 211. Good Middle Eastern style restaurant. (updated Nov 2025)\n\n\n== Drink ==\n1 Lexxus Bar in Benzz Park.  (updated Nov 2025)\n2 Dremus Alco Lounge in Rangalaya Royal.  (updated Nov 2025)\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Vellore"
+ },
+ "sights": [
+  {
+   "name": "Vellore Airport",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 12.908611111111112,
+   "lon": 79.06666666666666
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

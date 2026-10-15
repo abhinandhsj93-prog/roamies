@@ -1,0 +1,73 @@
+{
+ "query": "Morjim",
+ "found": "Morjim, Ashvem, Pernem, North Goa, Goa, 403512, India",
+ "lat": 15.6294635,
+ "lon": 73.7358315,
+ "fetchedAt": "2026-10-12T19:38:02.201Z",
+ "locality": {
+  "id": "morjim-north-goa-goa",
+  "name": "Morjim",
+  "area": "Pernem, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Morjim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Morjim_Goa_view.JPG/1280px-Morjim_Goa_view.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Morjim",
+   "credit": "Photo: Ssr, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morjim_Goa_view.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Morjim",
+   "text": "Morjim (pronounced Morji; the second m is silent) is a census town in Pernem, Goa, India. It is situated on the northern bank of the Chapora River estuary. It is home to a variety of birds and is a nesting site for Olive Ridley sea turtles. The village has become known as \"Little Russia\" because of the concentration of Russian immigrants living there.\n\n\n== Demographics ==\nAs of the 2011 India census, Morjim Census Town has population of 6,760 of which 3,356 are males while 3,404 are females.The population of children aged 0-6 is 609 which is 9.01% of total population of Morjim (CT). In Morjim Census Town, Female Sex Ratio is of 1014 against state average of 973. Moreover, the child sex ratio in Morjim is around 1010 compared to Goa state average of 942. The literacy rate of Morjim city is 89.90% higher than the state average of 88.70%. In Morjim, male literacy is around 94.69% while the female literacy rate is 85.18%\n\n\n=== Russian presence ===\nLocal politicians have condemned the Russian presence, claiming that Russian visitors are rude, associated with crime, and involved in running businesses in violation of the Foreign Exchange Management Act.\nThe boom of Russian tourists in Morjim village...",
+   "url": "https://en.wikipedia.org/wiki/Morjim"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Morjim",
+  "text": "Morjim is a village in North Goa in the Pernem district on the north bank of the Chapora River estuary. It is home to a variety of birds and to the Olive ridley sea turtle. \n\n\n== See ==\nFar from Goa's main population centers and resorts, Morjim is a relatively quiet and untraveled beach. Lifeguards are on duty from sunrise to sunset and, in season, the water is pleasant for wading and swimming.\n\n\n== Do ==\nThis place is popular among kitesurfers due shallow depth of the sea and very wide beach. Rentals are easily available at the beach itself. Kitesurfing Goa provides advance rentals and classes.\n\n\n== Eat ==\nNumerous restaurants offering pizzas, Goan, and North Indian cuisine dot the beaches along Morjim. There are also a few Russian joints. Eating borscht on a Goan beach is a strange experience, but not a bad one. \n\n\n== Drink ==\nNightlife is vibrant here.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Morjim"
+ },
+ "sights": [
+  {
+   "name": "simoes cross",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 15.6328232,
+   "lon": 73.7365121
+  },
+  {
+   "name": "Milagres Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 15.6275114,
+   "lon": 73.7407547
+  },
+  {
+   "name": "Santa Cruz Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 15.6252585,
+   "lon": 73.739965
+  },
+  {
+   "name": "Morje Kuladevta",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 15.6224134,
+   "lon": 73.7377467
+  },
+  {
+   "name": "Satpurush mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 15.6387319,
+   "lon": 73.7353274
+  }
+ ],
+ "food": [],
+ "errors": []
+}

@@ -1,0 +1,187 @@
+{
+ "query": "Aurangabad",
+ "found": "Chhatrapati Sambhajinagar, Maharashtra, 431002, India",
+ "lat": 19.877263,
+ "lon": 75.3390241,
+ "fetchedAt": "2026-10-12T19:02:55.406Z",
+ "locality": {
+  "id": "osmanpura-chhatrapati-sambhajinagar-district-maharashtra",
+  "name": "Osmanpura",
+  "area": "Chhatrapati Sambhajinagar, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Marathwada": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Aurangabad%2Cellora_kailash_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Marathwada",
+   "credit": "Photo: Sanket901, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurangabad,ellora_kailash_temple.jpg"
+  },
+  "Aurangabad district, Maharashtra": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ellora_caves_-_Kailasa_Temple_%28cave_16%29_vrvbajel0924_%28280%29.jpg/1280px-Ellora_caves_-_Kailasa_Temple_%28cave_16%29_vrvbajel0924_%28280%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aurangabad district, Maharashtra",
+   "credit": "Photo: Vinayaraj, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ellora_caves_-_Kailasa_Temple_(cave_16)_vrvbajel0924_(280).jpg"
+  },
+  "Aurangabad division": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Aurangabad_Division.png/1280px-Aurangabad_Division.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aurangabad division",
+   "credit": "Photo: Maharashtra_locator_map.svg: Cc-by-sa-3.0 derivative work: Abhijitsathe (talk), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurangabad_Division.png"
+  },
+  "Jawaharlal Nehru Engineering College": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mgm-u-logo.png/1280px-Mgm-u-logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jawaharlal Nehru Engineering College",
+   "credit": "Photo: mgm jnec, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mgm-u-logo.png"
+  },
+  "Aurangabad, Maharashtra Lok Sabha constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/19_Aurangabad_-_%E0%A4%94%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%A6_-_%D8%A7%D9%88%D8%B1%D9%86%DA%AF_%D8%A2%D8%A8%D8%A7%D8%AF.png/1280px-19_Aurangabad_-_%E0%A4%94%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%A6_-_%D8%A7%D9%88%D8%B1%D9%86%DA%AF_%D8%A2%D8%A8%D8%A7%D8%AF.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aurangabad, Maharashtra Lok Sabha constituency",
+   "credit": "Photo: Eaglespirit, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:19_Aurangabad_-_%E0%A4%94%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%A6_-_%D8%A7%D9%88%D8%B1%D9%86%DA%AF_%D8%A2%D8%A8%D8%A7%D8%AF.png"
+  },
+  "Gates in Aurangabad": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bhadkal_Gate.JPG/1280px-Bhadkal_Gate.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gates in Aurangabad",
+   "credit": "Photo: Nefirious, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhadkal_Gate.JPG"
+  },
+  "Neighborhoods of Aurangabad": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Aurangzebs_palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Neighborhoods of Aurangabad",
+   "credit": "Photo: William Purser, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurangzebs_palace.jpg"
+  },
+  "Aurangabad East Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/109-Aurangabad_East.svg/1280px-109-Aurangabad_East.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aurangabad East Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:109-Aurangabad_East.svg"
+  },
+  "Qila-e-Ark": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Alamgir_mosque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Qila-e-Ark",
+   "credit": "Photo: Lala Deen Dayal, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alamgir_mosque.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Marathwada",
+   "text": "Marathwada (Marathi pronunciation: [məɾaːʈʰʋaːɖa]) is a geographical region of the Indian state of Maharashtra. It was formed during the Nizam's rule and was part of the then Hyderabad State. The region coincides with the Aurangabad division of Maharashtra. It borders the states of Karnataka and Telangana, and it lies to the west of the Vidarbha and east of Uttar Maharashtra regions of Maharashtra. The largest city of Marathwada is Aurangabad. Its people speak Marathi and Deccani Urdu (Hyderabadi Urdu). \nMarathwada is known for its struggle for the integration into India, which is commemorated on 17 September as Marathwada Liberation Day.",
+   "url": "https://en.wikipedia.org/wiki/Marathwada"
+  },
+  {
+   "title": "Aurangabad district, Maharashtra",
+   "text": "Aurangabad district (Marathi pronunciation: [əu̯ɾəŋɡaːbaːd̪]), officially known as Chhatrapati Sambhajinagar district, is one of the 36 districts of the state of Maharashtra in western India. It borders the districts of Nashik to the west, Jalgaon to the north, Jalna to the east, and Ahmednagar to the south. The city of Aurangabad houses the district's administrative headquarters. The district has an area of 10,100 km2, of which 37.55% is urban and the rest is rural. Aurangabad District is a major tourism region in Marathwada, with attractions including the Ajanta Caves and Ellora Caves.",
+   "url": "https://en.wikipedia.org/wiki/Aurangabad_district,_Maharashtra"
+  },
+  {
+   "title": "Aurangabad division",
+   "text": "Aurangabad division, officially renamed as Chhatrapati Sambhajinagar division and also known as Marathwada division, is one of the six administrative divisions of the state of Maharashtra in India. It represents the Marathwada region of Maharashtra and is synonymous with it.",
+   "url": "https://en.wikipedia.org/wiki/Aurangabad_division"
+  },
+  {
+   "title": "Jawaharlal Nehru Engineering College",
+   "text": "The Jawaharlal Nehru Engineering College (JNEC) is an engineering college in Aurangabad CIDCO, India. It was established in 1983 and is affiliated with the Dr. Babasaheb Ambedkar Technological University in Maharashtra.\nJawaharlal Nehru Engineering College became affiliated with MGM University in 2019.\nThe school is financed and run by the Mahatma Gandhi Mission. Dr. H. H. Shinde is the Chief of Examination at MGM University, the parent organization of JNEC.\nDr. Vijaya Musande assumed charge as the Principal of Jawaharlal Nehru Engineering College (JNEC) on Friday, 27 December 2024, becoming the first female Principal in the institute’s history.",
+   "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Engineering_College"
+  },
+  {
+   "title": "Aurangabad, Maharashtra Lok Sabha constituency",
+   "text": "Aurangabad Lok Sabha constituency is one of the 48 Lok Sabha (parliamentary)  constituencies in Maharashtra state in western India.",
+   "url": "https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra_Lok_Sabha_constituency"
+  },
+  {
+   "title": "Gates in Aurangabad",
+   "text": "The Gates of Aurangabad distinguish it from several other medieval cities in India. Each of the 52 gates have a local history or had individuals linked with it.\nOut of the 52, only four main and nine subordinate gates have survived, the most famous, oldest and biggest of them being the Bhadkal Gate near the Naukhanda Palace of Nizams.",
+   "url": "https://en.wikipedia.org/wiki/Gates_in_Aurangabad"
+  },
+  {
+   "title": "Neighborhoods of Aurangabad",
+   "text": "When Aurangzeb made Aurangabad his capital, there were 54 suburbs which were walled in like the city itself, but the chief of these that were populated in the 19th century were Begampura and Aurang-pura.",
+   "url": "https://en.wikipedia.org/wiki/Neighborhoods_of_Aurangabad"
+  },
+  {
+   "title": "Aurangabad East Assembly constituency",
+   "text": "Aurangabad East Assembly constituency is one of the six constituencies of Maharashtra Vidhan Sabha located in Aurangabad district, Maharashtra.\nIt is a part of Aurangabad (Lok Sabha constituency) along with five other assembly constituencies viz Vaijapur, Gangapur, Aurangabad Central, Kannad and Aurangabad West (SC)",
+   "url": "https://en.wikipedia.org/wiki/Aurangabad_East_Assembly_constituency"
+  },
+  {
+   "title": "Qila-e-Ark",
+   "text": "Qila-e-Ark is a 17th-century palace/citadel complex in Aurangabad, Maharashtra. Built by the Mughal emperor Aurangzeb when he was a prince, it served as his royal residence during his subsequent reign as emperor. The site is currently ruined, and has no legal protected status; several modern-day buildings also on encroach the complex. Notable surviving structures include a royal mosque (today known as the Shahi mosque), and a palatial building.",
+   "url": "https://en.wikipedia.org/wiki/Qila-e-Ark"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Marathwada",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 19.8833,
+   "lon": 75.3333
+  },
+  {
+   "name": "Aurangabad East Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 19.87,
+   "lon": 75.33
+  },
+  {
+   "name": "Gates in Aurangabad",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19.88878611111111,
+   "lon": 75.3434361111111
+  },
+  {
+   "name": "Aurangabad division",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19.88878611111111,
+   "lon": 75.3434361111111
+  },
+  {
+   "name": "Qila-e-Ark",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19.88878611111111,
+   "lon": 75.3434361111111
+  },
+  {
+   "name": "Aurangabad district, Maharashtra",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19.88878611111111,
+   "lon": 75.3434361111111
+  },
+  {
+   "name": "Aurangabad, Maharashtra Lok Sabha constituency",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 19.88878611111111,
+   "lon": 75.3434361111111
+  },
+  {
+   "name": "Neighborhoods of Aurangabad",
+   "kind": "landmark",
+   "walkMinutes": 25,
+   "lat": 19.888302777777778,
+   "lon": 75.33009722222222
+  },
+  {
+   "name": "Jawaharlal Nehru Engineering College",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 19.8806,
+   "lon": 75.356
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

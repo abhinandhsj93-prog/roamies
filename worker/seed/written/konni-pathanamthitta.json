@@ -1,0 +1,120 @@
+{
+ "query": "Konni, Pathanamthitta",
+ "region": "kerala",
+ "name": "Konni",
+ "draft": {
+  "briefing": "Hey, you're in Konni! This hill town is the gateway to the forest, and wild elephants caught there used to be brought here and kept in wooden cages called Anakoodu while they were tamed. Just half a kilometre from the junction stands a Shiva temple that's over 1,000 years old.",
+  "hungryLine": "Konni has no famous food spots on my list, but there are a couple of places near the junction for a drink and a breather.",
+  "moodReplies": {
+   "show-me-around": "Walk to the Muringamangalam Sreemahadevar Temple, then go and see the old elephant cage.",
+   "somewhere-to-chill": "Head down to the Achen Kovil River and let the forest air slow you down.",
+   "surprise-me": "The Krishna shrine at the Muringamangalam temple is a recent addition, made after his presence was found in a Devaprasnam."
+  },
+  "seeFirst": {
+   "caption": "In and around Konni",
+   "spots": [
+    {
+     "name": "Muringamangalam Sreemahadevar Temple",
+     "detail": "14 min walk · The biggest Shiva temple in Pathanamthitta district",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Konni Elephant Cage",
+     "detail": "11 km from Pathanamthitta · Where wild elephants were tamed in wooden cages",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Achen Kovil River",
+     "detail": "Riverside · A slow, green break from town",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Muringamangalam Sreemahadevar Temple",
+    "title": "Krishna makes himself known",
+    "body": "After continuous Bhagavatha Sapthaham readings at the temple, a Devaprasnam found Lord Krishna's presence here. So a Krishna shrine was added beside Shiva, Ganapathi, Ayyappa and the Nagas."
+   },
+   {
+    "where": "Konni Elephant Cage",
+    "title": "The Anakoodu",
+    "body": "In the past, wild elephants caught in the nearby forests were walked into wooden cages called Anakoodu. There they were tamed and trained for work."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly at the temple.",
+    "body": "Muringamangalam is a big, working Shiva temple, so cover up before you go in."
+   },
+   {
+    "icon": "tag",
+    "title": "Go trekking.",
+    "body": "Konni has a lot of forest around it, and it's the gateway to the woods on the district's edge."
+   }
+  ],
+  "story": [
+   {
+    "era": "Over 1,000 years ago",
+    "title": "A Shiva temple rises",
+    "body": "The Muringamangalam Sreemahadevar Temple was built facing east, half a kilometre from what's now Konni Junction. It grew into the biggest temple east of Pathanamthitta.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Royal days",
+    "title": "Pandalam's temple",
+    "body": "The temple once belonged to the Pandalam Royal Family. It's still the biggest Shiva temple in the district.",
+    "illustration": "palace"
+   },
+   {
+    "era": "The elephant years",
+    "title": "Taming the wild ones",
+    "body": "Konni became the place where wild elephants from the forest were brought in. Kept in wooden Anakoodu cages, they were trained for work.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Visit the temple, see the elephant cage, then walk by the Achen Kovil River. Tell me which one surprised you most.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Surya",
+    "detail": "Opposite Konni Bus Stand · A cheap, no-fuss bar",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Kutty's",
+    "detail": "Across Konni Junction · A 3 star place for refreshment and a rest",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

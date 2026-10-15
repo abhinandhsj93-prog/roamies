@@ -1,0 +1,86 @@
+{
+ "query": "Kattappana, Idukki",
+ "region": "kerala",
+ "name": "Kattappana",
+ "draft": {
+  "briefing": "Hey, you're in Kattappana! Settlers from towns like Thodupuzha, Pala and Kanjirapally built this place up in the 1950s, and now it's the second largest town in Idukki district.",
+  "hungryLine": "I don't have a named spot here yet, so ask around the town centre, it's the commercial hub for the whole area.",
+  "moodReplies": {
+   "show-me-around": "Gandhi Square is a 4 min walk, the Amar Jawan War Memorial is about 9 min, and St George Forane Church is around 15 min.",
+   "somewhere-to-chill": "Gandhi Square, just a 4 min walk away, is an easy place to sit and watch the town go by.",
+   "surprise-me": "Kattappana only became a gram panchayat in 1962, and it waited until 2015 to become a municipality."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Gandhi Square",
+     "detail": "4 min walk · The town's central square",
+     "status": {
+      "text": "Busy by day",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Amar Jawan War Memorial",
+     "detail": "9 min walk · A memorial to soldiers",
+     "status": {
+      "text": "Be respectful",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "St George Forane Church",
+     "detail": "15 min walk · A big local church",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly.",
+    "body": "There are lots of churches and temples within a short walk of the centre."
+   },
+   {
+    "icon": "tag",
+    "title": "Use it as a base.",
+    "body": "Kattappana is the main market town for the area, 32 km from the district headquarters at Painavu."
+   }
+  ],
+  "story": [
+   {
+    "era": "1950s",
+    "title": "The settlers",
+    "body": "People from Thodupuzha, Pala, Kanjirapally, Kothamangalam, Muvattupuzha and Changanassery moved here and formed the town.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1962",
+    "title": "A panchayat",
+    "body": "Kattappana became a gram panchayat.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2015",
+    "title": "A municipality",
+    "body": "The town became a municipality, one of only two in Idukki district.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "A busy hill market town. Tell me what you found in the bazaar.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

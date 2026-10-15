@@ -1,0 +1,34 @@
+{
+ "query": "Tarkarli",
+ "found": "Tarkarli, Malvan Taluka, Sindhudurg, Maharashtra, 416523, India",
+ "lat": 16.006814,
+ "lon": 73.4918404,
+ "fetchedAt": "2026-10-12T18:54:35.144Z",
+ "locality": {
+  "id": "tarkarli-sindhudurg-maharashtra",
+  "name": "Tarkarli",
+  "area": "Malvan Taluka, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Tarkarli": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Tarkarli_Photo_by_Sandeep_Wairkar.jpg/1280px-Tarkarli_Photo_by_Sandeep_Wairkar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Tarkarli",
+   "credit": "Photo: Rohit Keluskar, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tarkarli_Photo_by_Sandeep_Wairkar.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Tarkarli",
+   "text": "Tarkarli is a village in Malvan taluka in Sindhudurg district in the Indian state of Maharashtra. It is a beach destination and remote place in southern Maharashtra. Tarkarli Beach was declared a Queen Beach of the Konkan region. \n\n\n== Geography ==\nTarkarli is 8 km (5.0 mi) south of  Malvan and 546 km (339 mi) from Mumbai and 410 km from Pune on the west coast of India, at the confluence of the Karli River and the Arabian Sea.\n\n\n== Education ==\nTarkarli has the following educational establishments:\n\nInternational Scuba Diving Training Centre\n\n\n== Travel ==\nThe nearest airport is Chipi Sindhudurg International Airport Dabolim Airport in Goa.\nBy rail, Tarkarli can be accessed from Sindhudurg and also from Kudal and Kankavli by the Konkan Railway.  Tarkarli is easily accessible by road from Malvan by bus and rickshaw. Tarkarli is 475 km (Panvel Kochi Road, NH 17) and 576 km (Mumbai Kohlapur Road NH 4) away from Mumbai. Daily private, luxury and State Transport bus services are available from various parts of Goa, Mumbai, Pune to Malvan.\nBuses from/to Panaji: direct buses run from bus bay #2 at the KTC bus stand in Panaji to Malvan, take 4.5 hours and cost 125 rupees. However, Malvan lies off...",
+   "url": "https://en.wikipedia.org/wiki/Tarkarli"
+  }
+ ],
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

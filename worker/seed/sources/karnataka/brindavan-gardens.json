@@ -1,0 +1,78 @@
+{
+ "query": "Brindavan Gardens",
+ "found": "Brindavan Gardens, Krishnarajasagara, Srirangapattana taluk, Mandya, Karnataka, India",
+ "lat": 12.4208333,
+ "lon": 76.5740996,
+ "fetchedAt": "2026-10-12T18:29:02.972Z",
+ "locality": {
+  "id": "krishnarajasagara-mandya-karnataka",
+  "name": "Krishnarajasagara",
+  "area": "Srirangapattana taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Krishna Raja Sagara": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Krishna_raja_sagara_dam.JPG/1280px-Krishna_raja_sagara_dam.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Krishna Raja Sagara",
+   "credit": "Photo: Vaishu2, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krishna_raja_sagara_dam.JPG"
+  },
+  "Brindavan Gardens": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Brindavan_Gardens.JPG/1280px-Brindavan_Gardens.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Brindavan Gardens",
+   "credit": "Photo: Joe Ravi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brindavan_Gardens.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Krishnarajasagara",
+   "text": "Krishnarajasagara is a town in Mandya district in the Indian state of Karnataka.\n\n\n== Geography ==\nKrishnarajasagara is located at 12.44°N 76.38°E﻿ / 12.44; 76.38. It has an average elevation of 791 metres (2595 feet).  The town of Krishnarajasagara is near the Krishna Raja Sagara dam and reservoir.\nKrishnarajasagara is about 18 km from Srirangapattana, 16 km from Mysore and 143 km from Bangalore. It is a reservoir constructed across the Kaveri river. A dam is constructed below the confluence of the three Rivers Kaveri, Hemavati and the Lakshmanathirta.  Length of the dam is about 8600 feet, and height being 130 feet above the River bed.\nThis place was formerly called as Kannambadi. Earlier to this, it was known as Kanvapuri, where the sage Kanva is said to have had his ashrama and worshipped Lord Shiva. The place was later called the Kanveshvara temple, now submerged in the reservoir.\nThe reservoir is named after Krishnaraja Wodeyar IV, during whose rule Sir M. Visvesvaraya built the dam as Chief Engineer. About 24 inscriptions are found in this place. One of them in Persian speaks of Tipu's efforts to build a dam at the same site. A jatra is held in honour of the Goddess Kalamma, whose...",
+   "url": "https://en.wikipedia.org/wiki/Krishnarajasagara"
+  },
+  {
+   "title": "Krishna Raja Sagara",
+   "text": "Krishna Raja Sagara, also known as KRS and, locally, as Kannambadi Katte, is a lake and the dam that forms it. Both sit near the settlement of Krishna Raja Sagara in the Indian State of Karnataka. The gravity dam, built of surki mortar, stands just below where the river Kaveri meets its tributaries Hemavati and Lakshmana Tirtha, in Mandya district.\nKrishna Raja Wadiyar IV, Maharaja of Mysore, sanctioned the dam's construction during a period of famine, when the state treasury was already under strain, and it was named after him. Getting the dam built, and agreeing on the terms under which it could be built, took decades of negotiation between the Kingdom of Mysore and the Madras Presidency over rights to the Kaveri's water. In a modified form, that dispute still runs between the successor states of Karnataka and Tamil Nadu today. An ornamental garden, Brindavan Gardens, adjoins the dam.",
+   "url": "https://en.wikipedia.org/wiki/Krishna_Raja_Sagara"
+  },
+  {
+   "title": "Brindavan Gardens",
+   "text": "The Brindavan Gardens is a garden located 12 k.ms from the city of Mysore in the Mandya District of the Indian State of Karnataka. It lies adjoining the Krishnarajasagara Dam which is built across the river Kaveri. The work on laying out this garden was started in the year 1927 and completed in 1932. Visited by close to 2 million tourists per year, the garden is one of the major attractions of Srirangapatna. Sir Mirza Ismail, the Deewan of Mysore, a man with a penchant for gardens, founded the Brindavan Gardens (Krishnaraja Sagar Dam in particular) and built the Cauvery River high-level canal to irrigate 120,000 acres (490 km2) in modern Mandya district. The gardens were designed by German botanist and landscape designer Gustav Hermann Krumbiegel.",
+   "url": "https://en.wikipedia.org/wiki/Brindavan_Gardens"
+  },
+  {
+   "title": "Hongahalli, Mandya",
+   "text": "Hongahalli  is a census town (as per Census 2011, its location code number is 614310) located at the southwestern border of Mandya district towards Mysuru district. It is famously known as Krishnaraja Sagara, due to KRS dam located here in this village. It is located about 20 kilometers northwest of Mysuru city in the Shrirangapattana taluk.\nIt can be reached by two roads; Yelwal - Srirangapattana Road and Pandavapura - KRS Road. Nearest railway station is Krishnarajasagar (Station Code:KJS), but Mysuru Junction railway station is the most feasible option.",
+   "url": "https://en.wikipedia.org/wiki/Hongahalli,_Mandya"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Krishna Raja Sagara",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.424722222222222,
+   "lon": 76.57222222222222
+  },
+  {
+   "name": "Brindavan Gardens",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.42611111111111,
+   "lon": 76.5761111111111
+  },
+  {
+   "name": "Hongahalli, Mandya",
+   "kind": "landmark",
+   "walkMinutes": 25,
+   "lat": 12.407342,
+   "lon": 76.576927
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

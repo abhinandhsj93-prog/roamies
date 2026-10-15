@@ -1,0 +1,141 @@
+{
+ "query": "Lighthouse Beach, Kovalam",
+ "region": "kerala",
+ "name": "Lighthouse Beach",
+ "draft": {
+  "briefing": "Hey, you're at Lighthouse Beach! It's the largest and southernmost of Kovalam's three crescent beaches, watched over by a 35 m lighthouse on Kurumkal hillock. In the early 1970s, hippies on their way to Ceylon turned this quiet fishing village into a famous holiday spot.",
+  "hungryLine": "In the evening the restaurants along the beach lay out the day's catch, so pick your fish and settle in, because nobody here rushes.",
+  "moodReplies": {
+   "show-me-around": "Climb the Vizhinjam Lighthouse above the beach, stroll to Hawa Beach in under five minutes, then walk about 18 min to Halcyon Castle.",
+   "somewhere-to-chill": "Hop on a traditional catamaran for a sunset cruise. The local fishermen row them with bamboo paddles.",
+   "surprise-me": "The sand here is partly black, thanks to the minerals ilmenite and monazite in it."
+  },
+  "seeFirst": {
+   "caption": "Along the beach",
+   "spots": [
+    {
+     "name": "Vizhinjam Lighthouse",
+     "detail": "On the beach · One of Kerala's oldest lighthouses",
+     "status": {
+      "text": "Open 3-5PM daily",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Hawa Beach",
+     "detail": "Under 5 min walk · Kovalam's second-largest beach",
+     "status": {
+      "text": "Lifeguards on duty",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Halcyon Castle",
+     "detail": "18 min walk · A royal retreat, now a heritage hotel",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Hawa Beach",
+    "title": "India's first topless beach",
+    "body": "Hawa Beach got its name from the topless European women who used to crowd it. It was the first topless beach in India, though that's banned now."
+   },
+   {
+    "where": "Lighthouse Beach",
+    "title": "The fruit ladies never forget",
+    "body": "The fruit ladies on the beach make a great fruit salad for next to nothing. But they'll remember you, and if you buy from someone else next time, they'll take it very personally."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Wear something on your feet.",
+    "body": "The dark sand heats up fiercely in the sun."
+   },
+   {
+    "icon": "tag",
+    "title": "Swim where the lifeguards are.",
+    "body": "Lighthouse and Hawa beaches have lifeguards, and strong currents can pull you out, so follow their instructions."
+   }
+  ],
+  "story": [
+   {
+    "era": "1932",
+    "title": "Halcyon Castle",
+    "body": "The consort of Maharani Sethu Lakshmi Bayi of Travancore built Halcyon Castle here as a family retreat. That's when Kovalam first got noticed.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1930s",
+    "title": "European guests",
+    "body": "Foreign guests of the Travancore kingdom spotted Kovalam's potential as a beach destination. Kovalam means 'coconut grove', after all the palms.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1964",
+    "title": "Palace to hotel",
+    "body": "The castle was sold to the Government of India and became a luxury hotel. Today it runs as a five-star hotel after a careful restoration.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Early 1970s",
+    "title": "The hippie trail",
+    "body": "Hippies passing through on their way to Ceylon found these beaches. The fishing village became a major tourist destination.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2025",
+    "title": "A deep-water port",
+    "body": "Next door in Vizhinjam, India's first deep water transshipment terminal was inaugurated on 2 May 2025.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Fusion restaurant",
+    "detail": "Lighthouse Beach, first floor · Great seafood with East-meets-West dishes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "The German Bakery",
+    "detail": "On the main beach · Date shake and banana pancake for breakfast",
+    "status": {
+     "text": "Best for breakfast",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Suprabatham",
+    "detail": "200 m from the beach · One of Kovalam's best vegetarian places",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

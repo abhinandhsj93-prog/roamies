@@ -1,0 +1,83 @@
+{
+ "query": "Cheruthoni, Idukki",
+ "region": "kerala",
+ "name": "Cheruthoni",
+ "draft": {
+  "briefing": "Hey, you're in Cheruthoni! The 138 metre Cheruthoni Dam here holds the spillway for the whole Idukki Reservoir, and Asia's tallest double curvature arch dam stands just 1 km away.",
+  "hungryLine": "This is a working hill town, so expect simple Kerala meals and tea shops rather than anything fancy.",
+  "moodReplies": {
+   "show-me-around": "Head to the Cheruthoni Dam, then go 1 km east to see the Idukki Arch Dam squeezed between two granite hills.",
+   "somewhere-to-chill": "Find a spot looking over the reservoir, which spreads over 60 square km up in the hills.",
+   "surprise-me": "This town only began in the 1940s, when farmers were allowed to clear land in these hills after a famine."
+  },
+  "seeFirst": {
+   "caption": "Around the dams",
+   "spots": [
+    {
+     "name": "Cheruthoni Dam",
+     "detail": "Short drive · 138 m concrete dam with the reservoir's spillway",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Idukki township",
+     "detail": "21 min walk · Home of the Idukki Arch Dam, with the Periyar running through",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The hills",
+    "title": "The first settlers",
+    "body": "People here tell how farmers came up into the empty hills in the 1940s after a famine. They cleared the land for farming, and the town grew from there."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack for rain.",
+    "body": "Kerala gets rain for at least seven to eight months a year, and these hills are no exception."
+   },
+   {
+    "icon": "tag",
+    "title": "Know your dams.",
+    "body": "Cheruthoni Dam is 1 km west of the Idukki Arch Dam, and together with Kulamavu they make one reservoir."
+   }
+  ],
+  "story": [
+   {
+    "era": "1940s",
+    "title": "Farmers in the hills",
+    "body": "After a famine, the government let farmers move to unoccupied land in these mountains. They cleared it for farming.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Later",
+    "title": "A spot for power",
+    "body": "The region was picked as an ideal place for a hydroelectric project. Hindustan Construction Company built the dams for the Kerala State Electricity Board.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1976",
+    "title": "The dams go up",
+    "body": "Cheruthoni Dam was finished as part of the Idukki Hydroelectric Project, with help from Canadian loans and grants. Three dams now hold back one big reservoir.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2014",
+    "title": "A medical college",
+    "body": "The Government Medical College, Idukki opened its campus in Cheruthoni.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

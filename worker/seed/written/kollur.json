@@ -1,0 +1,74 @@
+{
+ "query": "Kollur",
+ "region": "karnataka",
+ "name": "Kollur",
+ "draft": {
+  "briefing": "Hey, you're in Kollur! This little temple town is home to the Mookambika Temple, which sits at the foot of the Kodachadri hills on the southern bank of the Souparnika River.",
+  "hungryLine": "Kollur is a small temple town, so keep it simple and eat at a local place near the temple.",
+  "moodReplies": {
+   "show-me-around": "The Kollur Mookambika Temple is just a minute's walk away, and it's the reason everyone comes here.",
+   "somewhere-to-chill": "Find a quiet spot near the Souparnika River, right by the temple, and take in the Kodachadri foothills.",
+   "surprise-me": "The Mookambika Temple counts among both the 108 Durgalayas and the 108 Shivalayas, which is why it's considered so special."
+  },
+  "seeFirst": {
+   "caption": "Right here in town",
+   "spots": [
+    {
+     "name": "Kollur Mookambika Temple",
+     "detail": "1 min walk · Temple of the mother goddess Mookambika",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kollur Mookambika Temple",
+    "title": "Three goddesses in one",
+    "body": "Devotees see Mookambika as the union of Adi Parashakti and Parabramha. The Linga here is said to hold Maha Kali, Maha Lakshmi and Maha Saraswathi on its left side."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly for the temple.",
+    "body": "Kollur is a pilgrimage town and the Mookambika Temple is the heart of it."
+   },
+   {
+    "icon": "tag",
+    "title": "Walk down to the Souparnika.",
+    "body": "The temple stands on the river's southern bank, so it's an easy stroll from the shrine."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A coast made by Parashurama",
+    "body": "Kollur lies in the land between Gokarna and Kanyakumari, which is believed to have been created by the sage Parashurama.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Temple times",
+    "title": "Home of Mookambika",
+    "body": "The town grew around the Mookambika Temple, dedicated to the mother goddess and counted among the 108 Durgalayas and 108 Shivalayas.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2001",
+    "title": "A small town",
+    "body": "The 2001 census counted 3,863 people in Kolluru, with 1,900 men and 1,962 women.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Temple town of Byndoor",
+    "body": "Kollur is a temple town and village in Byndoor taluk of Udupi district, near Kundapur.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

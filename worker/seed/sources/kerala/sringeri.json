@@ -1,0 +1,290 @@
+{
+ "query": "Sringeri",
+ "found": "Sringeri Sarada Madom, South Fort, Fort, Thiruvananthapuram, Kerala, 695001, India",
+ "lat": 8.4806939,
+ "lon": 76.9432653,
+ "fetchedAt": "2026-10-12T19:19:26.542Z",
+ "locality": {
+  "id": "fort-thiruvananthapuram-kerala",
+  "name": "Fort",
+  "area": "Thiruvananthapuram, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg/1280px-Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fortification",
+   "credit": "Photo: John Scofield, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg"
+  },
+  "Fortification": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg/1280px-Castillo_San_Felipe_del_Morro_%2810_of_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Fortification",
+   "credit": "Photo: John Scofield, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castillo_San_Felipe_del_Morro_(10_of_1).jpg"
+  },
+  "Thiruvananthapuram district": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Poovar_Kerala.jpg/1280px-Poovar_Kerala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thiruvananthapuram district",
+   "credit": "Photo: Midhun Subhash, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poovar_Kerala.jpg"
+  },
+  "Padmanabhaswamy Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/1280px-Sree_Padmanabhaswamy_temple_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Padmanabhaswamy Temple",
+   "credit": "Photo: Rahulrnath001, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sree_Padmanabhaswamy_temple_01.jpg"
+  },
+  "Madras States Agency": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Madras_map_1913.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Madras States Agency",
+   "credit": "Photo: Edgar Thurston, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madras_map_1913.jpg"
+  },
+  "East Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/EastFort_BusyLight.jpg/1280px-EastFort_BusyLight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "East Fort",
+   "credit": "Photo: Santhosh Janardhanan, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EastFort_BusyLight.jpg"
+  },
+  "Methan mani": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Methan_Mani.JPG/1280px-Methan_Mani.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Methan mani",
+   "credit": "Photo: Kiran Gopi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Methan_Mani.JPG"
+  },
+  "Pazhaya Sreekanteswaram Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%E0%AE%AA%E0%AE%B4%E0%AF%88%E0%AE%AF_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%95%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AE%AE%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%B1%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8B%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%AE%E0%AF%8D.jpg/1280px-%E0%AE%AA%E0%AE%B4%E0%AF%88%E0%AE%AF_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%95%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AE%AE%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%B1%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8B%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%AE%E0%AF%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Pazhaya Sreekanteswaram Temple",
+   "credit": "Photo: Ramkumar Kalyani, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%AE%AA%E0%AE%B4%E0%AF%88%E0%AE%AF_%E0%AE%B8%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%95%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%87%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AE%AE%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%AE%E0%AF%81%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%B1%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8B%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%AE%E0%AF%8D.jpg"
+  },
+  "Pazhavangadi Ganapathy Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pazhavangadi_ganapathi_temple_01.JPG/1280px-Pazhavangadi_ganapathi_temple_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Pazhavangadi Ganapathy Temple",
+   "credit": "Photo: Jithindop, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pazhavangadi_ganapathi_temple_01.JPG"
+  },
+  "Sreevaraham Lakshmi Varaha Temple, Thiruvananthapuram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Sreevaraham_Lakshmi_Varaha_Temple%2C_Thiruvananthapuram.jpg/1280px-Sreevaraham_Lakshmi_Varaha_Temple%2C_Thiruvananthapuram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sreevaraham Lakshmi Varaha Temple, Thiruvananthapuram",
+   "credit": "Photo: Manukrishnan80, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sreevaraham_Lakshmi_Varaha_Temple,_Thiruvananthapuram.jpg"
+  },
+  "Palm Leaf Manuscript Museum, Thiruvananthapuram": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Palm_Leaf_Manuscript_Museum%2C_Thiruvananthapuram.jpg/1280px-Palm_Leaf_Manuscript_Museum%2C_Thiruvananthapuram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Palm Leaf Manuscript Museum, Thiruvananthapuram",
+   "credit": "Photo: Manukrishnan80, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palm_Leaf_Manuscript_Museum,_Thiruvananthapuram.jpg"
+  },
+  "Sringeri": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sringeritemple.jpg/1280px-Sringeritemple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sringeri",
+   "credit": "Photo: Irrigator, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sringeritemple.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Sringeri",
+   "text": "Sringeri (IAST: Śṛṅgerī; Kannada: [ʃriŋɡeːri]) also called Shringeri is a hill town and Taluk headquarters located in Chikmagalur district in the Indian state of Karnataka.\nSringeri is the site of Sri Sharadamba temple, a part of the Sringeri Sharada Peetham established by Adi Shankaracharya.\n\n\n== Etymology ==\nThe name Sringeri is derived from Rishyashringa-giri, a nearby hill that is believed to have contained the hermitage of Rishi Vibhandaka and his son Rishyashringa. In an episode in the Bala-Kanda of the Ramayana, Vasishtha narrates how Rishyashringa brought rains to the drought-stricken kingdom of Romapada. Later the place name was shortened to Shringagiri\nAccording to legend, Adi Shankaracharya is said to have selected the site as the place to stay and teach his disciples, because when he was walking by the Tunga River, he saw a cobra with a raised hood, providing shelter from the hot sun to a frog undergoing labour. Astonished by the place where natural enemies had gone beyond their instincts, he stayed here for twelve years. Sri Adi Shankaracharya also established Mathas in the subcontinent (the northern one at Jyotirmath, near Badrinath), eastern (at Puri) and western (at Dwaraka...",
+   "url": "https://en.wikipedia.org/wiki/Sringeri"
+  },
+  {
+   "title": "Fortification",
+   "text": "A fortification (also called a fort, fortress, fastness, or stronghold) is a military construction designed for the defense of territories in warfare, and is used to establish rule in a region during peacetime. The term is derived from Latin fortis (\"strong\") and facere (\"to make\").\n\nFrom very early history to modern times, defensive walls have often been necessary for cities to survive in an ever-changing world of invasion and conquest. Some settlements in the Indus Valley Civilization were the first small cities to be fortified. In ancient Greece, large cyclopean stone walls fitted without mortar had been built in Mycenaean Greece, such as the ancient site of Mycenae. A Greek phrourion was a fortified collection of buildings used as a military garrison, and is the equivalent of the Roman castellum or fortress. These constructions mainly served the purpose of a watch tower, to guard certain roads, passes, and borders. Though smaller than a real fortress, they acted as a border guard rather than a real strongpoint to watch and maintain the border.\nThe art of setting out a military camp or constructing a fortification traditionally has been called \"castrametation\" since the time of the...",
+   "url": "https://en.wikipedia.org/wiki/Fortification"
+  },
+  {
+   "title": "Thiruvananthapuram district",
+   "text": "Thiruvananthapuram district (Malayalam: [t̪iɾuʋɐnɐn̪d̪ɐpuɾɐm] ) is the southernmost district in the Indian state of Kerala. The district was created in 1949, with its headquarters in the city of Thiruvananthapuram, which is also Kerala's administrative centre. The present district was created in 1956 by separating the four southernmost Taluks of the erstwhile district to form Kanyakumari district. The city of Thiruvananthapuram is also known as the Information technology capital of the state, since it is home to the first and largest IT park in India, Technopark, established in 1990. The district is home to more than 9% of total population of the state.\nThe district covers an area of 2,192 square kilometres (541,655 acres). At the 2011 census, it had a population of 3,301,427, making it the second most populous district in Kerala after Malappuram district. Its population density is the highest in Kerala, with 1,509 inhabitants per square kilometre (3,910/sq mi). The district is divided into six subdistricts: Thiruvananthapuram, Chirayinkeezhu, Neyyattinkara, Nedumangadu, Varkala, and Kattakada. The urban bodies in the district are the Thiruvananthapuram Corporation, and the Varkala...",
+   "url": "https://en.wikipedia.org/wiki/Thiruvananthapuram_district"
+  },
+  {
+   "title": "Padmanabhaswamy Temple",
+   "text": "The Padmanabhaswamy Temple (Malayalam: [pɐd̪mɐnaːbʰɐswaːmi]) is a Hindu temple dedicated to Vishnu in Thiruvananthapuram, Keralam, India. It is one of the 108 Divya Desams which are considered the sacred sites of the Sri Vaishnava tradition.\nThe temple's principal deity is Anantha Padmanabhaswamy, a form of Vishnu depicted in yogic sleep, on his serpent mount named Shesha. Padmanabhaswamy is the tutelary deity of the Travancore royal family. The titular Maharaja of Travancore, Moolam Thirunal Rama Varma, is the current trustee of the temple.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple"
+  },
+  {
+   "title": "Madras States Agency",
+   "text": "The Madras States Agency was a colonial agency for the indirect rule of princely states associated with British India. Founded in 1923, it consisted of these five princely states (by precedence) :\n\nTravancore, ruled by a Maharaja with a hereditary salute of 19-guns;\nCochin, ruled by a Maharaja with a hereditary salute of 17-guns;\nPudukkottai, ruled by a Raja with a hereditary salute of 11-guns;\nBanganapalle, ruled by a Nawab with a hereditary salute of 9-guns;\nSandur, a non-salute state ruled by a Raja.",
+   "url": "https://en.wikipedia.org/wiki/Madras_States_Agency"
+  },
+  {
+   "title": "East Fort",
+   "text": "Kizhakke Kotta, also known by its English name East Fort, is a busy commercial street located at the heart of the central business district of Thiruvananthapuram city in Kerala. Since Thiruvananthapuram was the capital of the kingdom of Travancore, East Fort has been a commercial centre. It also has the city's main bus stand, multiple theatres and the famous Padmanabha Swamy Temple.",
+   "url": "https://en.wikipedia.org/wiki/East_Fort"
+  },
+  {
+   "title": "Manacaud",
+   "text": "Manacaud is a locality in Thiruvananthapuram, the capital of Kerala, India. This place is situated between Kamaleswaram and Attakulangara on East Fort - Kovalam - Vizhinjam Road. The United Arab Emirates embassy is also situated in Manacaud.",
+   "url": "https://en.wikipedia.org/wiki/Manacaud"
+  },
+  {
+   "title": "Venkatachalapathy Temple",
+   "text": "Sri Venkatachalapathy Temple is a  temple situated in Trivandrum, Kerala, about a minute walk from the southern gate of Sri Padmanabhaswamy Temple. It is also known as Srinivasar kovil, Perumal Kovil, Iyyengar Kovil or Desikar Sannidhi. The temple was built in 1898. The poojas in Kerala temples are based on the Namboodiri sampradayam, except a few like this.",
+   "url": "https://en.wikipedia.org/wiki/Venkatachalapathy_Temple"
+  },
+  {
+   "title": "Methan mani",
+   "text": "Methan Mani is a clock tower  which stands next to the Padmanabha Swamy Temple, East Fort, Thiruvananthapuram in the south west Indian state of Kerala. It is a historic landmark and a tourist attraction.",
+   "url": "https://en.wikipedia.org/wiki/Methan_mani"
+  },
+  {
+   "title": "Pazhaya Sreekanteswaram Temple",
+   "text": "Pazhaya Sreekanteswaram Temple or Old Sreekanteswaram Temple, located at Puthenchantha in Thiruvananthapuram, is an ancient Shiva & Vishnu temple in Kerala. According to historian Elamkulam Kunjan Pillai, the temple has existed since at least 1000 AD. This temple is the original abode of the Lord of the new Sreekanteswaram Mahadeva Temple. The new temple is situated just outside the \"North Fort\" in Thiruvananthapuram. According to M. G. Sasibhooshan, the old temple was on the route taken by the King of Travancore and his retinue in connection with the Pallivetta of the Sri Padmanabhaswamy Temple.",
+   "url": "https://en.wikipedia.org/wiki/Pazhaya_Sreekanteswaram_Temple"
+  },
+  {
+   "title": "Pazhavangadi Ganapathy Temple",
+   "text": "The Pazhavangadi Maha Ganapathy temple (Malayalam: ശ്രീ പഴവങ്ങാടി മഹാ ഗണപതി ക്ഷേത്രം) is situated at East Fort in the heart of Thiruvananthapuram City, Kerala, India. The main Deity of the temple is Sri Mahaganapathy (Ganesha). The main idol is installed in a seated posture with the right leg in a folded stance. The temple is situated in close proximity to the Sri Padmanabhaswamy temple. Other Deities worshiped at the temple include Dharmasasta, Goddess Durga and Nagaraja. The temple sculptures include 32 different forms of Lord Ganesha.",
+   "url": "https://en.wikipedia.org/wiki/Pazhavangadi_Ganapathy_Temple"
+  },
+  {
+   "title": "Mithrananthapuram Trimurti Temple",
+   "text": "The Mithrananthapuram Trimurti Temple is a Hindu temple complex in Thiruvananthapuram, Kerala, India. It is a temple in where devotees get to offer worship to all the three Trimurti deities, namely, (Brahma, Vishnu and Shiva). The Temple is located on the western side of Padmanabhaswamy temple in Thiruvananthapuram.",
+   "url": "https://en.wikipedia.org/wiki/Mithrananthapuram_Trimurti_Temple"
+  },
+  {
+   "title": "Attakulangara School",
+   "text": "Government Central High School, also known as Attakulangara Central School, was founded in 1889. It is located in Trivandrum, the capital of Kerala province in India. The school's curriculum is in the Malayalam and Tamil languages. As of 2019, the school had just 100 students and was in a dilapidated state, with planned renovations halted amidst reports of disagreements  over payments and construction details.\nIn 2020, the government started housing 223 homeless people on the school's campus. Since then, they have been actively clearing and grubbing the grounds, as well as cultivating vegetables.",
+   "url": "https://en.wikipedia.org/wiki/Attakulangara_School"
+  },
+  {
+   "title": "Paravankunnu",
+   "text": "Paravankunnu is a suburb of Thiruvananthapuram, the capital of Kerala, India. Paravankunnu is situated between Ambalathara, Thiruvananthapuram and Kallattumukku.",
+   "url": "https://en.wikipedia.org/wiki/Paravankunnu"
+  },
+  {
+   "title": "Sreekanteswaram Mahadeva Temple",
+   "text": "Sreekanteswaram Mahadeva Temple is a Hindu temple of the god Shiva situated in Thiruvananthapuram, in the Indian state of Kerala. Pazhaya Sreekanteswaram Temple is considered the original abode of the god.\nThis temple is more than 700 years old.",
+   "url": "https://en.wikipedia.org/wiki/Sreekanteswaram_Mahadeva_Temple"
+  },
+  {
+   "title": "Sreevaraham Lakshmi Varaha Temple, Thiruvananthapuram",
+   "text": "Sreevaraham Lakshmi Varaha Temple, locally known as Sreevaraham Temple, is a Hindu temple in Sreevaraham, Thiruvananthapuram, near to the Padmanabhaswamy Temple. The principal deity of the temple is Varaha, the third avatar of the god Vishnu.\nThe temple is administered by the Travancore Devaswom Board.",
+   "url": "https://en.wikipedia.org/wiki/Sreevaraham_Lakshmi_Varaha_Temple,_Thiruvananthapuram"
+  },
+  {
+   "title": "Palm Leaf Manuscript Museum, Thiruvananthapuram",
+   "text": "Palm Leaf Manuscript Museum, Thiruvananthapuram is museum dedicated to preserve and exhibit palm-leaf manuscripts from Kerala. It is considered as world's first and largest palm-leaf manuscript museum. The museum houses a rare collection of over one crore palm leaves held by the Kerala State Department of Archaeology, containing administrative records dating back to the Venad period and past political and social information from Travancore, Cochin and Malabar regions. The museum contains palm leaf manuscripts from 1249 to 1896.",
+   "url": "https://en.wikipedia.org/wiki/Palm_Leaf_Manuscript_Museum,_Thiruvananthapuram"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Thiruvananthapuram",
+  "text": "Near the southern tip of mainland India, Thiruvananthapuram (Malayalam: തിരുവനന്തപുരം Tiruvanantapuraṁ), formerly and often still known as Trivandrum, is the capital city of Kerala in Southern India. It is the headquarters of the district with the same name, which is one of the 14 districts of Kerala. Referred to by Mahatma Gandhi as the \"Evergreen City of India\", the city is characterised by its undulating terrain of low coastal hills and busy commercial alleys.\nThiruvananthapuram is built on hills by the seashore and sandwiched between the Western Ghats and the Arabian Sea, Thiruvananthapuram is ranked first in the number of foreign tourists visiting Kerala and is a fascinating destination for holidaymakers.\n\n\n== See ==\n\nThiruvananthapuram is a historical city, dotted with many historical structures, parks, museums, tourist centers and palaces. It's also famous for its distinctive greenery, present all over, a rare site in any bustling Indian city. Most ticketed museums are closed on Mondays, so do check online/by phone before visiting. Visit the official website of Kerala Tourism for more details.\n\n Attingal Palace. The headquarters of Travancore Queens who ruled the small province of Attingal. The large palace also houses one of the royal family temples. Much of the palace is off-limits to public, however its durbar hall and public areas are open to the public. \n Kerala Art College. Affiliated with Kerala University and easy to find, it is directly opposite the unmissable Chandrasekharan Nair (Football) Stadium. It is housed in an old colonial building with sprawling grounds behind. There are occasional art shows (e.g. after graduation, circa early June) held upstairs, and the downstairs offers a large library with world art books. The grounds have many impressive sculptures from students who are friendly and may be keen to show you around the workshops. \n1 Koyikkal Palace, Nedumangad. This palace was built in the 16th century and showcases the traditional palace architectural style of Kerala. It features a folklore museum and a numismatics (Coins and currency) museum. \n2 Neyyar Dam. A surprising scenic local, the Neyyar Dam is an excellent picnic spot. There is also a yoga center and several temples near this dam, if you are interested in making a day-trip of it. \n3 Ponmudi. A hill station nestled within a tropical forest. It offers hiking and trekking opportunities. \n4 Thiruvananthapuram Zoo. 10AM–5PM (closed Mon). This is the first zoo India opened in 1843, as a concept of Palace for wildlife. Situated in the Museum compound, this area has a rich botanical garden. There are a wide variety of animals, plants and birds. It has a separate reptile park and butterfly garden. \n5 Vikram Sarabhai Space Centre (VSSC), Thumba. One of the main space research and development establishments in India. It is home to Thumba Equatorial Rocket Launching Station (TERLS), which is used to launch sounding rockets for meteorological and upper atmospheric research. It has a space museum. (updated Oct 2023)\n\n\n=== Monuments and museums ===\n\n Chacha Nehru Children's Museum. A good children's museum with a large collection of dolls, masks, and paintings. A mini aquarium and water play area is set here. Located in Thycuad, in the heart of city, it is a good evening spot for families. \n6 East Fort. An old fort around Sree Padmanabhaswamy temple. Today most of fortifications have been dismantled, except the Eastern side. The fort will sometimes be referred to as the East Fort because of this. The Fort Gate opens directly before Sree Padmanabha Temple and is designed in a European style. The illumination of the East Fort Gate in the evenings is a major attraction. \n7 HH Uthradam Thirunal Marthanda Varma Chithralayam (Royal art gallery) (same entrance as Kuthiramalika and one ticket counter for both (but separate tickets)). 9:00-12:30 and 14:00-16:45. Has an exhibition of portrais and pictures of memorable scenes from the life of the last Maharaja of Travancore. Adults ₹30, foreigners ₹75. (updated Feb 2023)\n8 Kanaka Kunnu Palace (Golden Hill Palace in Malayalam). The cultural hotspot of ancient Thiruvananthapuram. The large palace and its sprawling gardens was once the banquet palace for visiting State guests of Travancore. Today, it has engaging galleries and the grand lawns serve as open-air auditoriums for regular concerts and evening dance programs. \n Kerala Science and Technology Museum (near Priyadarshini Planetarium). This large science museum features a timeline of various technologies. On display are galleries on Electrical Engineering, Biomedical, and Mechanical Engineering. It has a collection of electronic equipments and a 3D theatre with regular shows. \n9 Keralan Museum (Opposite of Napier Museum's garden-complex, south of Museum Rd). Housed in a beautiful colonial building, this newly developed museum (circa 2008 vintage) presents a periodised history of Kerala. It's the first 'interactive' museum in the country, featuring touchscreen terminals. Like so many museums and historical texts in India, there are no maps inside to provide visual aid to the topics. Regardless, the museum is very pleasant, clean, modern and well presented when compared to others. Displays begin in the stone age and advance through rock art and stone tools to pottery, bronze sculptures, folk art and architecture, with a few latter-day items to boot. A small canteen behind the museum for staff of the adjacent tourist department offers good value fish or vegetable curry. Entry is ₹200 for foreigners, extra for a camera. \n10 Kowdiar Palace. In Kowdiar, this is the current, official residence of the Travancore Maharajas and royal family. It is off-the-limits for public. However, a friendly guard may let you inside to have a glimpse of this large architectural wonder built in mixture of Saxon-Travancore styles. The public however can enter into Panchavadi, the resting place of Late HH Maharaja Chitra Thirunal, the last and popular king of Travancore. \n11 Kuthiramalika Palace (Puthen Maliga Palace) (close to Padmanabhaswamy temple). 9:00-12:30 and 14:00-16:45. A unique palace designed by Maharaja Swathi Thirunal (a famous musical genius Maharaja of Travancore), this palace is famous for its horse shaped windows and decor. Has a good collection of many antique items from the Travancore era kings. Thrones, paintings and many belongings are kept in a very good condition, housed in an erstwhile royal building. This palace is the location of the Swathi Thirunal Music Festival and other musical concerts patronized by the Royal family. Adults ₹50, foreigners ₹150. (updated Feb 2023)\n12 Legislature Museum (Adjacent to Legislature). This museum depicts the history of South Asian Legislature assemblies. The building was once the headquarters of Travancore Royal Nair Brigade (Travancore Army). Today its galleries can give a detailed look into history of South Asian legislature activities and process. \n13 Napier Museum (Art Gallery). Tue Thu-Sun 10AM-5PM, Wed noon-5PM. Named after former Madras governor, Lord Napier (Francis Napier, 10th Lord Napier and 1st Baron Ettrick), this museum is a beautiful building in the museum (read: park) compound. This masterpiece was designed by Madras Government architect Robert Chisholm in Indo-Saracenic style. The museum displays rare archaeological and historical artifacts including bronze idols, ceramics, an impressive carved wooden cart, Buddhist statues from various parts of the country and neighbouring places, ivory carvings, chests, Balinese shadow puppets, various old coins, Hindu puja items, and more. Quite a few objects are foreign, and of those quite a few are Chinese. Unfortunately most are lacking labels, have labels only in Malayalam, or are very vague. Look up at the impressive roof when you enter! No photography is allowed. There is no sign saying \"Napier Museum\", just \"Art Gallery\" and it's the big building in the park to the north of Museum Road. ₹5 for tickets. \n14 Sree Chithra Art Gallery. closed Mon. An art gallery in the Museum compound and displays a rare collection of mainly Indian paintings. The main attractions are paintings by Kerala painter Raja Ravi Varma and other famous painters Raja raja Varma and Nicholas Roerich. Also featured are miniature paintings from around the world, Kerala mural paintings, and Tanjore miniature paintings. \n\n\n=== Government buildings ===\n\n15 Kerala Government Secretariat (കേരള സംസ്ഥാന ഭരണ സിരാ കേന്ദ്രം Saṁsthāna Sarkkār Sirākēndraṁ). Built as Huzur Kacheri (Secretarial Offices in Malayalam) in 1860 to serve as the Royal Durbar Hall of Travancore Kingdom, this building has an imposing structure. The building was designed by the British Royal Engineers Corps combining international architectural styles and is a testimony to past influences from Roman, Dutch and English styles on Kerala. The old Legislature Assembly Hall inside the complex (Asia's first native legislative assembly) has a good mus",
+  "url": "https://en.wikivoyage.org/wiki/Thiruvananthapuram"
+ },
+ "sights": [
+  {
+   "name": "Sree Kulashekharaperumal Sree Venkitachalapathy Devasthanam Deshikar Sannidhi",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 8.4804009,
+   "lon": 76.9425714
+  },
+  {
+   "name": "Sree Mangaleshwara Subramonia Paripalitha Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 8.4801941,
+   "lon": 76.9443954
+  },
+  {
+   "name": "Sri Ayyappa Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 8.4805456,
+   "lon": 76.9419095
+  },
+  {
+   "name": "kallambally sree markandeya darma sastha temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 8.4803378,
+   "lon": 76.9422103
+  },
+  {
+   "name": "Sunil's Wax Museum",
+   "kind": "museum",
+   "openingHours": "09:00-20:00",
+   "walkMinutes": 3,
+   "lat": 8.4806144,
+   "lon": 76.9450562
+  },
+  {
+   "name": "Thekkekota Madan Kovil",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 8.4791129,
+   "lon": 76.9440853
+  },
+  {
+   "name": "Ananthavilasam Palace",
+   "kind": "castle",
+   "walkMinutes": 3,
+   "lat": 8.4809702,
+   "lon": 76.9447294
+  },
+  {
+   "name": "Thiruvambadi Sree Krishna Swami Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 8.4829739,
+   "lon": 76.9432811
+  },
+  {
+   "name": "Kuthira Maliga Palace",
+   "kind": "castle",
+   "walkMinutes": 4,
+   "lat": 8.4818381,
+   "lon": 76.9452232
+  },
+  {
+   "name": "Ananthankadu nagaraja temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 8.483404,
+   "lon": 76.9427847
+  },
+  {
+   "name": "Sree Agneeswara Mahadeva Kshetram",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 8.4780426,
+   "lon": 76.9446836
+  },
+  {
+   "name": "H.H Uthradam Thirunal Marthanda Varma Chithralayam",
+   "kind": "museum",
+   "walkMinutes": 5,
+   "lat": 8.4811361,
+   "lon": 76.9458389
+  },
+  {
+   "name": "Sri Panjandan Maha Ganapathy Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 8.4785566,
+   "lon": 76.9448804
+  },
+  {
+   "name": "Sree Padmam Palace",
+   "kind": "castle",
+   "walkMinutes": 6,
+   "lat": 8.4837688,
+   "lon": 76.943368
+  },
+  {
+   "name": "Sreevaraham Anjaneya Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 8.4773964,
+   "lon": 76.9438987
+  }
+ ],
+ "food": [],
+ "errors": []
+}

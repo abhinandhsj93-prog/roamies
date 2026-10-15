@@ -1,0 +1,123 @@
+{
+ "query": "Dharwad",
+ "region": "karnataka",
+ "name": "Hubballi-Dharwad",
+ "draft": {
+  "briefing": "Hey, you're in Hubballi-Dharwad! Just down the road at Unkal is an 11th-century Chalukyan Shiva temple built with a doorway facing each of the four directions.",
+  "hungryLine": "This is North Karnataka food country, so look for jowar rotti, badanikai palya and red chilli chutney at a local khanavali.",
+  "moodReplies": {
+   "show-me-around": "KLE Technological University is an 18 min walk, and the old Chandramauleshwara Temple at Unkal is a short drive away.",
+   "somewhere-to-chill": "Grab a coffee at Seven Beans in Vidyanagar, where the local youngsters hang out.",
+   "surprise-me": "Nearby Bengeri is home to the Khadi Gramodyog unit that's the only official, authorised maker of the Indian flag in the whole country."
+  },
+  "seeFirst": {
+   "caption": "Close by",
+   "spots": [
+    {
+     "name": "KLE Technological University",
+     "detail": "18 min walk · The main campus, once BVB College",
+     "status": {
+      "text": "A working campus",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Chandramauleshwara Temple",
+     "detail": "Short drive · 11th-century Shiva temple at Unkal",
+     "status": {
+      "text": "Protected monument, dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Nrupatunga Betta",
+     "detail": "Short drive · A hill with a panoramic view over Hubli city",
+     "status": {
+      "text": "Great views over the city",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Eat at a khanavali.",
+    "body": "These local eateries serve authentic North Karnataka meals, and there are plenty of them."
+   },
+   {
+    "icon": "sun",
+    "title": "Cool off with sugarcane juice.",
+    "body": "You can get it all over Hubli and Dharwad in every season."
+   }
+  ],
+  "story": [
+   {
+    "era": "1000s",
+    "title": "A four-door temple",
+    "body": "The Chandramauleshwara Temple at Unkal was built in the 11th century in the Chalukyan style. It once had a four-faced linga at the centre and blends Shaiva, Vaishnava, Shakta and Vedic art.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1947",
+    "title": "A college is born",
+    "body": "The KLE Society of Belagavi founded an engineering institute here in 1947. It was known as B.V. Bhoomraddi College of Engineering and Technology.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1965",
+    "title": "School under the hill",
+    "body": "Kendriya Vidyalaya No.1 opened in 1965 at the foot of Nrupatunga Betta. It was set up for the children of Central Government employees and others in Hubli.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2012",
+    "title": "A university at last",
+    "body": "The old BVB college was upgraded to KLE Technological University under a 2012 Act. The Hubballi campus is its main one.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A student neighbourhood",
+    "body": "Vidyanagar is packed with colleges and the big Karnataka Medical College and Research Institute, the largest multi-specialty hospital in North Karnataka. Expect cafes and lots of young people.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Seven Beans",
+    "detail": "Great coffee, free Wi-Fi and a little library",
+    "status": {
+     "text": "Popular with students",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Abhiman hotel",
+    "detail": "Opposite the KIMS main gate. Try the natti chicken or neer dosa",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "The Hans Hotel",
+    "detail": "Opposite BVB College. Indian, Continental and Chinese, plus a lounge bar",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

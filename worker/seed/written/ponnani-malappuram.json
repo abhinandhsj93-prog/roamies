@@ -1,0 +1,118 @@
+{
+ "query": "Ponnani, Malappuram",
+ "region": "kerala",
+ "name": "Ponnani",
+ "draft": {
+  "briefing": "Hey, you're in Ponnani! This town where the Bharathappuzha meets the Arabian Sea was once called the 'Little Mecca' of Malabar, a centre for people seeking knowledge.",
+  "hungryLine": "Haneena Restaurant, by the big pond near the old masjid, is famous for mutta pathiri and beef fry.",
+  "moodReplies": {
+   "show-me-around": "Misri Masjid is an 8 min walk and Valiya Juma Masjid about 9 min. Ponnani Lighthouse stands on the south bank of the river.",
+   "somewhere-to-chill": "Take the jankar ferry ride across to Tirur, or walk the hanging bridge at Biyyam Kayal.",
+   "surprise-me": "Misri Masjid means Egyptian Mosque. It was built in the 1500s for the army of Zainuddin Makhdoom, who came from Egypt to help the Zamorin fight the Portuguese."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Misri Masjid",
+     "detail": "8 min walk · 16th-century Egyptian Mosque",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Valiya Juma Masjid",
+     "detail": "9 min walk · Ponnani's big Friday mosque",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Ponnani Lighthouse",
+     "detail": "South bank of the Bharathappuzha · 30 m tower at the estuary",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thrikkavu Temple",
+    "title": "One of 108",
+    "body": "Thrikkavu is considered one of the 108 Durga temples consecrated by Lord Parasurama in Kerala. Its name is believed to come from 'Thrikkani Kaadu'."
+   },
+   {
+    "where": "Ponnani Juma Masjid",
+    "title": "Little Mecca",
+    "body": "Ponnani was once called the 'Little Mecca' of Malabar, and this mosque was the headquarters of those seeking knowledge. A madrasa still sits in its grounds."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly near mosques.",
+    "body": "The old town around you is full of mosques, so cover shoulders and knees."
+   },
+   {
+    "icon": "tag",
+    "title": "Ride the jankar.",
+    "body": "The Ponnani ferry crosses to Tirur and gives you the estuary from the water."
+   }
+  ],
+  "story": [
+   {
+    "era": "925 Hijri",
+    "title": "The big mosque",
+    "body": "Ponnani Juma Masjid was built in the year 925 of the Hijra calendar. Historian William Logan mentions it in his Malabar Manual.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s",
+    "title": "Help from Egypt",
+    "body": "Misri Masjid was built for Zainuddin Makhdoom's army, who came from Egypt to fight the Portuguese alongside the Zamorin. It's a remnant of old trade between Egypt and the Malabar coast.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Tipu's time",
+    "title": "A temple turned depot",
+    "body": "Tipu Sultan's army turned Thrikkavu Temple into an ammunition depot. The Zamorin later repaired it.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1937-1983",
+    "title": "Lights on the estuary",
+    "body": "A steel mast with an oil wick went up in 1937, then a gas flasher in 1948. The present 30 m lighthouse was commissioned on 17 April 1983.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Haneena Restaurant",
+    "detail": "By the big pond near the old masjid · Mutta pathiri and beef fry",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Bomaby Restaurant",
+    "detail": "In Ponnani town · A local stop",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

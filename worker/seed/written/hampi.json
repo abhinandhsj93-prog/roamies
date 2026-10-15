@@ -1,0 +1,103 @@
+{
+ "query": "Hampi",
+ "region": "karnataka",
+ "name": "Hampi",
+ "draft": {
+  "briefing": "Hey, you're in Hampi! By 1500 this was probably the world's second-largest city after Beijing, the grand capital of the Vijayanagara Empire, and today its ruins are a UNESCO World Heritage Site.",
+  "hungryLine": "I don't have a named place to eat in my notes for Hampi, so wander through Hampi Bazaar and see what's cooking.",
+  "moodReplies": {
+   "show-me-around": "The Virupaksha Temple is just a 4 min walk, and Sunset Point is about 6 minutes away. Hemakuta Hill with its temples is right by the bazaar too.",
+   "somewhere-to-chill": "Climb Matanga Hill late in the day, people say it has the most beautiful sunsets in Hampi.",
+   "surprise-me": "Rock climbers from all over have been coming to Hampi for more than 30 years just to scale its boulders."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Virupaksha Temple",
+     "detail": "4 min walk · A 7th-century Shiva temple that's still the heart of Hampi's worship",
+     "status": {
+      "text": "Leave your shoes at the gate",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sunset Point",
+     "detail": "6 min walk · Watch the sun drop over the boulders",
+     "status": {
+      "text": "Go late afternoon",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Temple Elephant Bathing",
+     "detail": "6 min walk · Where the temple elephant comes down for its bath",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Anjenaya Hill",
+    "title": "Hanuman's birthplace",
+    "body": "Across the river, the Hanuman Temple on Anjenaya Hill is believed to be where Hanuman was born. Getting there means climbing 572 steps."
+   },
+   {
+    "where": "Anegundi",
+    "title": "A Ramayana past",
+    "body": "Local legend takes the history of Anegundi, across the river, all the way back to the Ramayana. Hampi itself may have been the Kishkindha of that age."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Start early on a bicycle.",
+    "body": "Cover the southern temples in the cool morning, spend midday in the museum, and save the Vithala Temple for late afternoon."
+   },
+   {
+    "icon": "tag",
+    "title": "Plan around the combined ticket.",
+    "body": "One ticket covers the Vithala Temple, the Lotus Mahal area and the Archaeological Museum, and it's only valid for one day."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Pampa's holy place",
+    "body": "Hampi shows up in the Ramayana, the Puranas and Ashokan inscriptions as Pampa Devi Tirtha Kshetra. The Virupaksha Temple here was first built in the 7th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1336",
+    "title": "City of Victory",
+    "body": "After Delhi Sultanate armies plundered the Deccan, the Sangama brothers founded Vijayanagara from the ruins. Hampi was its capital from 1336.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s",
+    "title": "Richest city in India",
+    "body": "Persian and Portuguese travellers wrote about a wealthy city full of temples, farms and markets by the Tungabhadra. The Achyutaraya temple, finished in 1534, was the last one built before the fall.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1565",
+    "title": "The fall",
+    "body": "After the Battle of Talikota, a coalition of sultanates conquered and destroyed the capital. Hampi was abandoned.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Ruins and pilgrims",
+    "body": "Since the 19th century the ruins have drawn archaeologists and historians, and they're now a UNESCO World Heritage Site. Virupaksha is still a living temple and the main centre of pilgrimage here.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

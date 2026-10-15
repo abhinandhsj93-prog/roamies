@@ -1,0 +1,92 @@
+{
+ "query": "Pattadakal",
+ "region": "karnataka",
+ "name": "Pattadakal",
+ "draft": {
+  "briefing": "Hey, you're in Pattadakal! This cluster of 7th and 8th century temples on the Malaprabha River is a UNESCO World Heritage Site, praised as a blend of north and south Indian temple styles.",
+  "hungryLine": "My notes don't list any eateries in this small town, so carry water and snacks, especially in the hot months.",
+  "moodReplies": {
+   "show-me-around": "Virupaksha temple and Papanatha Temple are just a 2 min walk away, and Galaganatha Temple is about 3 min further.",
+   "somewhere-to-chill": "Wander down towards the Malaprabha River, the temples sit right on its west bank.",
+   "surprise-me": "Digs at nearby Bachinagudda found evidence of Iron Age megalithic habitation here for the first time."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Virupaksha temple",
+     "detail": "2 min walk · Part of the UNESCO-listed Chalukya group",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Galaganatha Temple",
+     "detail": "3 min walk · Another of the 7th and 8th century temples",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jain Narayana Temple",
+     "detail": "Away from the main group · A 9th century Jain temple",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Skip the April to June heat.",
+    "body": "Summer temperatures here peak over 40 C, while winter sits between 15 and 28 C."
+   },
+   {
+    "icon": "tag",
+    "title": "Pair it with Aihole and Badami.",
+    "body": "Aihole is about 9.7 km away and Badami about 23 km, both big Chalukya centres."
+   }
+  ],
+  "story": [
+   {
+    "era": "Prehistoric times",
+    "title": "First settlers",
+    "body": "Megalithic dolmens show people lived here in prehistoric times, drawn by the red soil and stone hills by the river.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Early medieval",
+    "title": "A brick temple",
+    "body": "At Bachinagudda, digs found an early brick temple from before the Chalukyas, with a 16-pillared hall and a four-faced Shiva head.",
+    "illustration": "palace"
+   },
+   {
+    "era": "600s to 700s",
+    "title": "The Chalukya temples",
+    "body": "The Chalukya dynasty built nine Hindu temples and one Jain temple here. Their friezes tell stories from the Ramayana, the Mahabharata and the Panchatantra.",
+    "illustration": "palace"
+   },
+   {
+    "era": "800s",
+    "title": "A Jain temple",
+    "body": "The Jain Narayana Temple went up in the 9th century under the Rashtrakuta king Krishna II.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "World heritage",
+    "body": "Pattadakal is a UNESCO World Heritage Site, protected and managed by the Archaeological Survey of India.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

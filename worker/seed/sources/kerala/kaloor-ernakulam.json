@@ -1,0 +1,269 @@
+{
+ "query": "Kaloor, Ernakulam",
+ "found": "Kaloor, Ernakulam, Kanayannur, Ernakulam, Kerala, 682017, India",
+ "lat": 9.9951217,
+ "lon": 76.2920393,
+ "fetchedAt": "2026-10-12T17:53:24.796Z",
+ "locality": {
+  "id": "kaloor-ernakulam-kerala",
+  "name": "Kaloor",
+  "area": "Ernakulam, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kaloor": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Kaloor_View_by_Augustus_Binu.jpg/1280px-Kaloor_View_by_Augustus_Binu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kaloor",
+   "credit": "Photo: Augustus Binu : flickr : Instagram, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaloor_View_by_Augustus_Binu.jpg"
+  },
+  "Jawaharlal Nehru Stadium (Kochi)": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jawaharlal_Nehru_Stadium_%28Kochi%29_in_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Jawaharlal Nehru Stadium (Kochi)",
+   "credit": "Photo: Thesixserra, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jawaharlal_Nehru_Stadium_(Kochi)_in_2022.jpg"
+  },
+  "Kerala": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/1280px-Boathouse_%287063399547%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kerala",
+   "credit": "Photo: Saad Faruque from Bangalore, India, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boathouse_(7063399547).jpg"
+  },
+  "Pachalam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/SRM_Road_by_Augustus_Binu.jpg/1280px-SRM_Road_by_Augustus_Binu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Pachalam",
+   "credit": "Photo: Augustus Binu : flickr : Instagram, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SRM_Road_by_Augustus_Binu.jpg"
+  },
+  "Model Technical Higher Secondary School, Kaloor": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Model_Technical_Higher_Secondary_School_-_panoramio.jpg/1280px-Model_Technical_Higher_Secondary_School_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Model Technical Higher Secondary School, Kaloor",
+   "credit": "Photo: Anil R.V, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Model_Technical_Higher_Secondary_School_-_panoramio.jpg"
+  },
+  "Ernakulam Lok Sabha constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hibi_Eden_W.jpg/1280px-Hibi_Eden_W.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ernakulam Lok Sabha constituency",
+   "credit": "Photo: Augustus Binu/ facebook, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hibi_Eden_W.jpg"
+  },
+  "Cyberpark, Kozhikode": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cyberparknew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Cyberpark, Kozhikode",
+   "credit": "Photo: Cyberparkkozhikode, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyberparknew.jpg"
+  },
+  "J. L. N. Stadium metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kochi_Metro.jpg/1280px-Kochi_Metro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "J. L. N. Stadium metro station",
+   "credit": "Photo: NidhinWiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kochi_Metro.jpg"
+  },
+  "Kaloor metro station": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Kaloor_Junction.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kaloor metro station",
+   "credit": "Photo: NidhinWiki, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaloor_Junction.png"
+  },
+  "Town Hall metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Town_Hall_metro_station_%2868167%29.jpg/1280px-Town_Hall_metro_station_%2868167%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Town Hall metro station",
+   "credit": "Photo: Dr. Chinchu C., CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Town_Hall_metro_station_(68167).jpg"
+  },
+  "M. G. Road metro station (Kochi)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/M_G_Road_Metro_Station.jpg/1280px-M_G_Road_Metro_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "M. G. Road metro station (Kochi)",
+   "credit": "Photo: Augustus Binu : flickr This image is not in the public domain. Do not copy illegally. If you use this photograph I'd appreciate it if you leave me a note on my talk page. This picture is not in the public domain If you wish to use it, please credit this with: \"Augustus Binu\" in a reasonable manner. An email to Mydreamsparrow would be very appreciated. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me Mydreamsparrow to negotiate terms., CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:M_G_Road_Metro_Station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kaloor",
+   "text": "Kaloor is a prominent residential and commercial neighborhood in the city of Kochi, in the Ernakulam district of Kerala. Situated near the geographic center of the city, the neighborhood is bounded by Ernakulam North to the west, Palarivattom to the east, and Edappally to the north.\nHistorically a residential locality, Kaloor developed into a major commercial and institutional center during the late 20th century as Kochi expanded. The neighborhood is best known as the location of Jawaharlal Nehru International Stadium, one of Kerala's largest sports venues and a major site for sporting, cultural, and entertainment events. Kaloor is also home to the Regional Centre of the Indira Gandhi National Open University (IGNOU). The suburb leads directly to the temple town suburb of Elamakkara and is the birthplace of Malayalam poet Vylopillil Sreedhara Menon. Mathrubhumi and Deshabhimani, two of Kerala's biggest media houses also have their offices in Kaloor.\n\n\n== Schools ==\nModel Technical Higher Secondary School, Kaloor\n\n\n== Location ==\n\n\n== Gallery ==\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Kaloor"
+  },
+  {
+   "title": "Jawaharlal Nehru Stadium (Kochi)",
+   "text": "The Jawaharlal Nehru Stadium, commonly known as Kaloor Stadium, is a multi-purpose stadium in Kochi, Kerala, India, currently used for association football. Opened in 1996, initially it had a capacity 100,000 spectators, gradually reduced to comply with operational safety, and now seating 41,000 spectators, although it got limited further during 2017 FIFA U-17 World Cup under FIFA security guidelines. It is the home ground of  Kerala Blasters FC of the Indian Super League (ISL) and Forca Kochi FC and hosts various exhibitions, cinema events and political rallies.\nThe stadium stands are built in a cricket serving configuration and allowed it to be known as the \"nosiest cricket stadium in the world\". The structure features a unique lighting towers system, the first of its kind in India, that provide 2 kW floodlighting, suitable for HD telecast. Between 1997 and 2014 it hosted a number of international cricket matches, of which 10 were One Day Internationals. While in 2014 the Kerala Cricket Association got a hold of a 30-year lease on the venue from the Greater Cochin Development Authority, the concurrent same-year move-in of Kerala Blasters saw football tenants becoming paramount. Their...",
+   "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium_(Kochi)"
+  },
+  {
+   "title": "Kerala",
+   "text": "Kerala, officially Keralam, is a state on the Malabar Coast of southern India. It was formed on 1 November 1956 under the States Reorganisation Act, which unified the country's Malayalam-speaking regions into a single state. Covering 38,863 km2 (15,005 sq mi), Kerala is primarily a strip of coastal plains sandwiched by the Western Ghats and the Laccadive Sea, bound by Karnataka to the northeast, Tamil Nadu to the east, and the Lakshadweep islands in the western vicinity. With 33 million inhabitants according to the 2011 census, Kerala is the 13th-most populous state in India. Thiruvananthapuram is the capital city while the Kochi metropolitan area is the state's most populated region. Malayalam is the most widely spoken language and, alongside English, serves as an official language of the state.\nKerala has been a prominent exporter of spices since 3000 BCE. The Chera dynasty, the first major kingdom in the region, rose to prominence through maritime commerce but often faced invasions from the neighbouring Chola and Pandya dynasties. In the 15th century, the spice trade attracted Portuguese traders to Kerala, initiating European colonisation in India. After Indian independence in 1947...",
+   "url": "https://en.wikipedia.org/wiki/Kerala"
+  },
+  {
+   "title": "Coconut Development Board",
+   "text": "Coconut Development Board (CDB) is a statutory body established under the Ministry of Agriculture and Farmers' Welfare of the Government of India for the integrated development of coconut and coconut-related products. Coconut Development Board is a statutory body established by the Government of India for the integrated development of coconut production and utilization in the country with focus on productivity increase and product diversification.",
+   "url": "https://en.wikipedia.org/wiki/Coconut_Development_Board"
+  },
+  {
+   "title": "Pachalam",
+   "text": "Pachalam is a region in the city of Kochi in Kerala, India.\nOne of the main attractions near Pachalam is the Queen's Walkway, which connects Pachalam to Goshree Bridge Road and Marine Drive. Although the roads are generally narrow (except for the wider Pottakuzhy Road, which is poorly maintained), traffic has increased as roads inside Pachalam provide an alternative route for motorists seeking to bypass Banerjee Road, especially during the Kochi Metro construction phase.\nA Kerala Institute of Tourism and Travel Studies (KITTS) study centre is located in Pachalam.",
+   "url": "https://en.wikipedia.org/wiki/Pachalam"
+  },
+  {
+   "title": "Lisie Hospital, Kochi",
+   "text": "The Lisie Hospital is a hospital near Kaloor, in Kochi, India. The Lisie Hospital, located near Kaloor in Kochi, India, was founded by Mar Joseph Parecattil in 1956. The hospital was named in honor of St. Thérèse of Lisieux, whose patronage it was entrusted to, from which the name 'Lisie' is derived. It is managed by the Archdiocese of Ernakulam-Angamaly.\nLisie Hospital is a tertiary referral hospital and one of the largest in kerala . The Lisie Heart Institute is a major interventional Cardiology and Cardiothoracic centre. It performed nearly 4000 interventional cardiac procedures and cardiac surgeries in 2006. Their team of doctors was reconstituted in 2008 with the joining of Jose Chacko Periappuram as the Head of Cardiac Surgery and Jacob Abraham as the head of Cardiac Anaesthesia. The present team was instrumental in performing the first total arterial bypass surgery on a beating heart and heart transplantation under Dr. Jose Chacko in the state of Kerala.",
+   "url": "https://en.wikipedia.org/wiki/Lisie_Hospital,_Kochi"
+  },
+  {
+   "title": "Muthoot Technopolis",
+   "text": "Muthoot Technopolis is an information technology park at Kochi, India. It has a built up space of 350,000 sq ft (33,000 m2) which has been fully occupied by Cognizant, Williams Lea and Sutherland Global Services. It is the Plot #1 in CSEZ\nMuthoot Pappachan Group is planning on expansion in Kochi with phase II of the project and further developments in the vicinity. Muthoot also  runs the Muthoot ceramics which is behind the Muthoot Technolpolis in Cochin Special Economic Zone, though CSEZ area is separated with Technopolis by wall.",
+   "url": "https://en.wikipedia.org/wiki/Muthoot_Technopolis"
+  },
+  {
+   "title": "Model Technical Higher Secondary School, Kaloor",
+   "text": "The Model Technical Higher Secondary School (MTHSS) is the pioneer in a group of Model Technical Higher Secondary Schools located in Kerala, India. These schools were established to provide education in the technological and hi-tech sectors.\nThe schools are managed by the IHRD (Institute of Human Resources Development) and promote scientific advancement, technological progress and economic growth. The instruction is conducted in English.",
+   "url": "https://en.wikipedia.org/wiki/Model_Technical_Higher_Secondary_School,_Kaloor"
+  },
+  {
+   "title": "Ernakulam Lok Sabha constituency",
+   "text": "Ernakulam Lok Sabha constituency is one of the 20 Lok Sabha (parliamentary) constituencies in Kerala state in southern India.\nIt comprises 7 legislative assembly constituencies. The constituency is dominated by Latin Catholics, making this seat a Congress stronghold. Eleven of the twelve legislatures were from this community, and the Left parties have only succeeded here by contesting independents, barring once.",
+   "url": "https://en.wikipedia.org/wiki/Ernakulam_Lok_Sabha_constituency"
+  },
+  {
+   "title": "Cyberpark, Kozhikode",
+   "text": "Cyberpark Kozhikode is a Government of Kerala owned business park for the promotion and development of investment in Information Technology (IT) and Information Technology Enabled Services (ITES) industries in the Malabar region of Kerala. It was registered under the Societies Act 1860 on January 28, 2009. In addition to this, it has a General Body and a Board of Governors, both of which include top officials of the government. Cyberpark, Kozhikode has been envisioned and conceptualized as a major IT hub catering to the northern part of Kerala for the development of IT/ITeS sector in the state. After a trail-blazing performance with the success of Technopark, Trivandrum and Infopark, Kochi under Kerala IT.\nCyberpark, Kozhikode the first IT park promoted by the state in the Malabar region was established under Cyberparks Kozhikode an autonomous society registered under the Society Registration Act 1860, on 28 January 2009. The ultimate objective was to facilitate state of the art infrastructure space with supporting facilities with an IT ecosystem which would enhance the development of information & communication technology, create direct and indirect job opportunities and parallelly...",
+   "url": "https://en.wikipedia.org/wiki/Cyberpark,_Kozhikode"
+  },
+  {
+   "title": "Kathrikadavu",
+   "text": "Kathrikadavu is a region in the city of Kochi, in the state of Kerala, India. It lies almost midway between the two major intersections (junctions) in Kochi, namely Kaloor and Kadavanthra. Kathrikadavu is mainly a residential area, though of late more and more commercial establishments are being set up here.\nKaloor-Kadavanthra Road, one of the three north–south arteries in the city of Kochi passes through Kathrikadavu. One of the main advantages of Kathrikadavu, is the ease of access to other areas of Kochi city from here. Kaloor and Kadavanthra are at the north and south ends of the Kaloor-Kadavanthra road, while Padma Junction and MG Road can be accessed easily by following the Pullepady road to the west side of Kathrikadavu. Thammanam and NH47 bypass can be accessed by following the Thamannam-Kathrikadavu road towards east.",
+   "url": "https://en.wikipedia.org/wiki/Kathrikadavu"
+  },
+  {
+   "title": "J. L. N. Stadium metro station",
+   "text": "J. L. N. Stadium is a station of Kochi Metro. It was opened on 3 October 2017 as a part of the extension of the metro system from Palarivattom to Maharaja's College. The station is located between Palarivattom and Kaloor. The name of the station is given because of the Jawaharlal Nehru Stadium. The 11.2 km extension to Infopark via Kakkanad as a part of Kochi Metro project phase two begins from J. L. N. Stadium station. The corporate office of Kochi Metro Rail Limited is also located at this station.",
+   "url": "https://en.wikipedia.org/wiki/J._L._N._Stadium_metro_station"
+  },
+  {
+   "title": "Kaloor metro station",
+   "text": "Kaloor is a station of Kochi Metro. It was opened on 3 October 2017 as a part of the extension of the metro system from Palarivattom to Maharaja's College. The station is located between J. L. N. Stadium and Town Hall. The name of the station refers to the region of Kaloor.",
+   "url": "https://en.wikipedia.org/wiki/Kaloor_metro_station"
+  },
+  {
+   "title": "Town Hall metro station",
+   "text": "Town Hall Metro Station is a station of Kochi Metro, formerly known as Lissie Metro Station. It was opened on 3 October 2017 as a part of the extension of the metro system from Palarivattom to Maharaja's College. The station is located between Kaloor and M. G. Road. The former name of the station refers to the name of the nearby Lissie Hospital, which, in turns, is derived from Thérèse of Lisieux. The station was renamed on 1 February 2020. Ernakulam Town railway station is located near to this metro station.",
+   "url": "https://en.wikipedia.org/wiki/Town_Hall_metro_station"
+  },
+  {
+   "title": "M. G. Road metro station (Kochi)",
+   "text": "M. G. Road is a station of Kochi Metro. It was opened on 3 October 2017 as a part of the extension of the metro system from Palarivattom to Maharaja's College. The station is located between Town Hall and Maharaja's College. The name of the station refers to Mahatma Gandhi Road. It is also located at a distance of 1.3 kilometres (0.81 mi) from the High Court water metro station.",
+   "url": "https://en.wikipedia.org/wiki/M._G._Road_metro_station_(Kochi)"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Kochi/Ernakulam",
+  "text": "Ernakulam (എറണാകുളം Eraṇākulam) is the modern heart of Kochi. It has three distinct parts: the \"Central Business District\" (CBD) which has Mahatma Gandhi Road (MG Road) as the main arterial road along with Marine Drive and Chittoor Road; \"Downtown\" with upscale residential areas and the business district at SA Road and Vytilla Junction and the \"Suburb\" which has many business and commercial areas.\n\n\n== See ==\n1 Durbar Hall Ground, DH Rd. The venue for many fairs during festivals and regular evening concerts and other programmes. Free. (updated Jun 2017)\n\n\n=== Museums and art galleries ===\n2 Kerala Folklore Museum, Folklore Junction, Thevara. A theatre with regular evening performances, a state-of-the-art museum and cultural gallery. (updated Sep 2025)\n3 Pareekshith Thampuran Durbar Hall Art Gallery, Dubar Hall Ground, DH Rd. Contains oil paintings, old coins, sculptures, Mughal paintings plus models of temples and traditional Kerala buildings. It was the official Durbar Hall of Kochi Maharajas, now converted into a large fine arts gallery. It is named after last Maharaja of Kochi, who was an oil painter. A small studio nearby promotes young artists. Free. (updated Jun 2017)\n\n\n=== Places of worship ===\n\n\n==== Churches ====\n4 CSI Immanuel Church.  (updated Sep 2025)\n5 Malayattoor Mount (26 km away). A major Christian pilgrimage centre believed to be the place where St Thomas performed his first miracle in AD 52. Today, it is famous for its annual Holy week-Easter pilgrimage. (updated Jan 2023)\n6 St. Antony's Shrine, Banerji Rd, Deshabhimani Junction, Kaloor (metro: JLN Stadium ), ☏ +91 484 253 0591. At this shrine that belongs to Archdiocese of Verapoly people of different faith and culture flock together day and night seeking blessings. (updated Nov 2023)\n7 St. George's Syro-Malabar Forane Church, Edappally, NH 47. A popular church, also amongst non-Christians. Famous for its poison cure treatments. (updated Sep 2025)\n8 St. Mary's Syro-Malabar Cathedral Basilica, High Court Junction, Marine Dr (behind Verapoly Archdiocese HQ), ☏ +91 484 235 1516. The cathedral is dedicated to \"Our Lady of Ports\". The cathedral was built in the early twentieth century under the direction of Mar Louis Pazheparambil. It is also a prominent Marian pilgrim centre in India. (updated Sep 2025)\n\n\n==== Mosques ====\n9 Kanjiramattom Mosque, Kanjiramattom Thalappara Rd, Millungal Junction, Kanjiramattom (30 km to the east), ☏ +91 484 274 5057. Major Muslim pilgrimage centre and venue of the Kudikkuthu Festival. Famous for the annual Urs festival. Imams of this mosque are famous for being leading scholars who were advisors to Kochi Rajas. This mosque is an example of antique beauty of mazhars and dargahs. This was recognised by Kochi Maharajas as official along with temples. The annual Chandanakudam in January attracts many pilgrims. During the festival, pilgrims carry pots smeared with sandalwood paste in a procession to the mosque, with caparisoned elephants and percussion musics – both found in temples – form essential parts of the Chandanakudam festival. (updated Jun 2017)\n\n\n==== Temples ====\n10 Ernakulam Shiva Temple (at the centre of town, near the Durbar Hall Ground, Ernakulam), ☏ +91-0484-2370, ernakulamsivatemple@gmail.com. Has three temples within its complex. \n11 Gurdwara Sri Guru Singh Sabha (in Perumanoor in Thevera, south end of MG Rd), ☏ +91 484 405 0813. It is the lone Sikh Gurudwara of Kerala, established by the Punjabi community of Kochi in 1955. Special rites and Guru ka Langar rituals are held every Saturday and Sunday. \n\n\n== Do ==\n1 Managalavanam, Tatapuram-Pachalam Rd (Behind High Court Complex), ☏ +91 484 246 8680. A thick 80-acre mangrove forest in the heart of Kochi and declared a flora sanctuary. More than 30 unique flora are found here and it is also a major bird sanctuary, where migratory birds feed and rest when they escape the cold northern winters. \n2 Marine Drive Walkway. A two-km-long promenade and no car is allowed to ply there. The backwaters are on one side and a busy shopping district is on the other side of the walk. The walkway starts from High Court  Water Metro , goes through two scenic bridges and ends at Rajendra Maidan. The total distance is less than a kilometre. Stroll along this calm stretch without motorised traffic and enjoy an ice cream or fruit juice. A few malls stand along the way. Chill off the heat while you walk with a Sharjah shake or ice-cream, or one of the local delicacies. There is a children's park in the middle and two hanging bridges. (updated Jan 2023)\n\n\n=== Parks ===\n\n3 Changampuzha Park, Edappally, ☏ +91 484 234 7591. A spacious place established in 1977, ideal for picnics and group discussions. \n4 Subhash Bose Park, Park Ave. One of the largest parks in Kochi. \n\n\n=== Performing arts ===\n5 Kerala Fine-Arts complex, Foreshore Rd. This is one of the oldest centres, with regular cultural performances. Many require prior booking, as they are organised by prestigious societies and groups. There are some performances that have free entry, and the monthly cultural programs of Bank Employees Union is one such. (updated Jun 2017)\n See India Foundation, ☏ +91 484 2376471. Kalathil Parambil Crossroad, nr Valanjambalam Temple, Chitoor Rd. An evening Kathakali theater, where daily performances take place from 6PM-8PM. This is the oldest and first evening Kathakali theater in India. The show is preceded by a detailed discourse of Kathakali history and philosophy, elaborate make-up performances and a demonstration of Kathakali techniques. \n\n\n=== Sports ===\n6 Jawaharlal Nehru International Stadium, Kaloor (metro: JLN Stadium ). Good open multipurpose stadium where locals play regularly, free of cost. Badminton and tennis courts next to this ground can be used on payment of fees at sports office of St. Albert's College which owns them. (updated Nov 2023)\nMaharaja's Stadium Grounds, at KPCC Jn in MG Road has large athletic grounds, a state-of-art synthetic track popular among athletic enthusiasts.\n7 Rajiv Gandhi Indoor Stadium, Kadavanthara. It has badminton, tennis, squash, volleyball and basketball courts. Rooms for chess, caroms, table-tennis and board games are also available. For an entrance fee payable at the indoor sports office, you can play here or join regular users. There is a state-of-art fitness complex and billiards-snooker pool inside this stadium. An Olympic-sized swimming pool is available outside. Large football and cricket pitches are available free-of-charge. Locals play regularly here and you can join them. (updated Nov 2023)\n\n\n=== Theme parks ===\n8 Wonderla, Kakkanad. 9:30AM-7PM. second largest theme park in South India. Spread over 50 acres of land with more than 50 Rides and various shows, it has well maintained gardens and five restaurants as well as small cafes \n9 Silverstorm Water Park (Near Athirapally Waterfalls area, this park is 50 km from Kochi City, 18 km from the airport). A good family theme park with 29 water and dry rides, a very large park and a Chinese village \n10 Dream World, Near Silver Storm (Near Silver Storm).  \n\n\n=== Boating ===\n\n Boating on the Kochi backwaters (at Marine Drive). Get the real feel of the Vembanad Lake through boating. There are many cruises offered by many private players as well as the Kerala State Inland Shipping Corp. Sunset cruises are popular. Many guesthouses offer the trip and in the centre you can arrange it by yourself as well. Speedboats also ply on the backwaters. Some premium hotels in Willingdon Island and Fort Kochi offer motorised watersports for its guests. Daily backwater tours can be organised directly through the state tourism office at Ernakulam Park Jetty. They cost ₹650 per person and must be booked at least the day before. The tour includes a stop at local small industries and food sites. (updated Jun 2017)\n\n\n== Eat ==\n1 Kayees Hotel, Durbar Hall Road (opp. Darbar Ground). \n2 The Grand Pavilion, Grand Hotel, Jewel Junction, MG Rd. Popular especially during evenings for its seafood, particularly karimeen pollichathu (smoked pearlspot fish) and Alleppey fish curry. \n3 Ojeen, By-lane after SBT towards Broadway, Marine Dr (From High Court junction, proceed toward SBT along Shanmugham Road. Right after SBT, on the left, there's a by-lane leading to Broadway.), ☏ +91 484 312-1591. 11AM-7PM. Variety of snacks from the Malabar region, juices and milkshakes. Ojeen is probably the only place in Kochi for the delectable, meat-rich Malabar snacks. ₹100. \n4 Woodland Junction, SRV Road. \n\n\n=== Indian cuisine ===\n\nAruvi Restaurant, Tea, coffee etc. are not available. Instead \"Jappi\" an ayurvedic herbal drink is offered. Aruvi is on I. S. Press Road (☏ +91 94 9604 4519 (mobile)), Kacherippady (☏ +91 94 9604 4519 (mobile)), and Chambakkara at Vyttiila (☏ +91 94 9604 4517 (mobile)).\n Arya Nivas, Chitoor Rd (opposite South Bus Stand). A chain of vegetarian restaurants run by Tamilians, famous for typical south Indian foods. \n Hotel Thali (opposi",
+  "url": "https://en.wikivoyage.org/wiki/Kochi/Ernakulam"
+ },
+ "sights": [
+  {
+   "name": "Kaloor metro station",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 9.994484,
+   "lon": 76.291669
+  },
+  {
+   "name": "Model Technical Higher Secondary School, Kaloor",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 9.995833333333332,
+   "lon": 76.29416666666667
+  },
+  {
+   "name": "Muthoot Technopolis",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 9.9930168,
+   "lon": 76.2906607
+  },
+  {
+   "name": "Town Hall metro station",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 9.991247,
+   "lon": 76.288035
+  },
+  {
+   "name": "Coconut Development Board",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 9.99733,
+   "lon": 76.285843
+  },
+  {
+   "name": "Lisie Hospital, Kochi",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 9.9884,
+   "lon": 76.288
+  },
+  {
+   "name": "J. L. N. Stadium metro station",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 10.000554,
+   "lon": 76.299535
+  },
+  {
+   "name": "Jawaharlal Nehru Stadium",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 9.997222222222222,
+   "lon": 76.30111111111111
+  },
+  {
+   "name": "Kerala",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 10,
+   "lon": 76.3
+  },
+  {
+   "name": "Ernakulam Lok Sabha constituency",
+   "kind": "landmark",
+   "walkMinutes": 17,
+   "lat": 9.99,
+   "lon": 76.3
+  },
+  {
+   "name": "Cyberpark, Kozhikode",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 10.0015282,
+   "lon": 76.3030518
+  },
+  {
+   "name": "Kathrikadavu",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 9.983,
+   "lon": 76.296
+  },
+  {
+   "name": "Pachalam",
+   "kind": "landmark",
+   "walkMinutes": 23,
+   "lat": 10,
+   "lon": 76.28
+  },
+  {
+   "name": "M. G. Road metro station",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 9.983395,
+   "lon": 76.282351
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

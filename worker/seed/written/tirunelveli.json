@@ -1,0 +1,68 @@
+{
+ "query": "Tirunelveli",
+ "region": "tamilnadu",
+ "name": "Tirunelveli",
+ "draft": {
+  "briefing": "Hey, you're in Tirunelveli, or Nellai as everyone calls it! This city on the west bank of the Thamirabarani has more than two thousand years of recorded history, and was a major town of the Early Pandyas back in the Sangam period.",
+  "hungryLine": "Ask anyone in Nellai where they eat, the locals always know the best plate in town.",
+  "moodReplies": {
+   "show-me-around": "Head down to the Thamirabarani River, the city grew up on its west bank.",
+   "somewhere-to-chill": "Find a quiet spot by the Thamirabarani in the evening and watch the river go by.",
+   "surprise-me": "Veerapandiya Kattabomman and his Palaiyakkarars fought the East India Company right on the outskirts of this city, from 1797 to 1801."
+  },
+  "seeFirst": {
+   "caption": "Start here",
+   "spots": [
+    {
+     "name": "Thamirabarani River",
+     "detail": "Right by the city · The river Tirunelveli grew up beside, on its west bank",
+     "status": {
+      "text": "Lovely at dusk",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Say Nellai.",
+    "body": "Tirunelveli is widely known as Nellai, and older British maps call the district Tinnevelly."
+   },
+   {
+    "icon": "tag",
+    "title": "Read up on the Polygar War.",
+    "body": "Kattabomman's fight against the Company happened around this city, and it makes the place come alive."
+   }
+  ],
+  "story": [
+   {
+    "era": "3rd century BCE to 3rd century CE",
+    "title": "A Pandya town",
+    "body": "Tirunelveli was a major town of the Early Pandyas in the Sangam period. Its recorded history goes back more than two thousand years.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1000s",
+    "title": "Cholas and beyond",
+    "body": "The Cholas took over in the 11th century CE. Later came the Later Pandyas, the Vijayanagara Empire and the Madurai Nayaks.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1790 to 1801",
+    "title": "The Polygar War",
+    "body": "Tinnevelly district was formed on 1 September 1790 under the East India Company. From 1797 to 1801, Kattabomman's Palaiyakkarars fought the Company on the city's outskirts.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Seventh largest city",
+    "body": "Nellai is the headquarters of Tirunelveli District. With 473,637 people in 2011, it was the seventh-largest city in Tamil Nadu.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

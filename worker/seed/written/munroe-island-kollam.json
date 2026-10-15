@@ -1,0 +1,103 @@
+{
+ "query": "Munroe Island, Kollam",
+ "region": "kerala",
+ "name": "Munroe Island",
+ "draft": {
+  "briefing": "Hey, you're in Munroe Island! It's actually eight small islets where Ashtamudi Lake meets the Kallada River, about 13.4 square km in all. People call it the Sinking Island of Kerala.",
+  "hungryLine": "My notes don't name anywhere to eat on the island itself, but Kollam, about 25 km away by road, is famous for its mutton and fish places.",
+  "moodReplies": {
+   "show-me-around": "Pulimoottil Devi Temple is a 10 min walk, and the red brick Dutch Church sits on the banks of Ashtamudi Lake. Then get in a canoe and go where the houseboats can't.",
+   "somewhere-to-chill": "Find a spot by the Dutch Church on the lake bank and just watch the water.",
+   "surprise-me": "The island is named after Colonel John Munro, a Resident of the old princely state of Travancore."
+  },
+  "seeFirst": {
+   "caption": "Around the island",
+   "spots": [
+    {
+     "name": "Dutch Church, Munroe Island",
+     "detail": "On the island · Red brick, Dutch-Kerala style, on the lake",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Pulimoottil Devi Temple",
+     "detail": "10 min walk · A village temple close by",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chirayil Sreekrishna Swamy Temple",
+     "detail": "15 min walk · Another local temple on a village stroll",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The island",
+    "title": "The Sinking Island",
+    "body": "Around Kerala, Munroe Island has a nickname, the Sinking Island of Kerala. Ask the people who live here what it means to them."
+   },
+   {
+    "where": "Dutch Church",
+    "title": "One family, a whole village",
+    "body": "Only one Christian family lives near the Dutch Church and looks after it. Its yearly festival happens with the help of the Hindu neighbours, a lovely bit of island harmony."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Take a canoe tour.",
+    "body": "Vijeesh runs canoe tours through the village for about ₹300 per person, and a rickshaw from Kollam is about ₹400."
+   },
+   {
+    "icon": "sun",
+    "title": "Climb the lighthouse in the afternoon.",
+    "body": "If you head into Kollam, Thangassery Lighthouse is open to climb from 3-5PM."
+   }
+  ],
+  "story": [
+   {
+    "era": "1614",
+    "title": "Portuguese Kollam",
+    "body": "Down the road in Kollam, the Portuguese set up the Infant Jesus Cathedral in 1614. Thangassery still has remnants of Portuguese and Dutch forts.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Travancore days",
+    "title": "A Resident's name",
+    "body": "The islands were named in honour of Colonel John Munro, Resident of the princely state of Travancore. Locally the village is Mundrothuruth.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1878",
+    "title": "The Dutch Church",
+    "body": "The Dutch built a red brick church on the banks of Ashtamudi Lake in 1878. It mixes Dutch and Kerala styles.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "2011",
+    "title": "A small community",
+    "body": "The 2011 census counted 9054 people in Mundrothuruth village. The island is reachable by road, rail and water.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "By canoe",
+    "body": "Canoe tours now take visitors right through the village to see island life up close. Tell me what you spotted from the water.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

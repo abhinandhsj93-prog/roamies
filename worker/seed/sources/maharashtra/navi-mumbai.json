@@ -1,0 +1,263 @@
+{
+ "query": "Navi Mumbai",
+ "found": "Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+ "lat": 19.0308262,
+ "lon": 73.0198537,
+ "fetchedAt": "2026-10-12T18:50:58.138Z",
+ "locality": {
+  "id": "seawoods-east-thane-maharashtra",
+  "name": "Seawoods East",
+  "area": "Navi Mumbai, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Nerul": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Nerul_Lake%2C_Navi_Mumbai_Photo_3.jpg/1280px-Nerul_Lake%2C_Navi_Mumbai_Photo_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nerul",
+   "credit": "Photo: Navi guy, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nerul_Lake,_Navi_Mumbai_Photo_3.jpg"
+  },
+  "Seawoods-Darave-Karave railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Seawoods-Darave.jpg/1280px-Seawoods-Darave.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Seawoods-Darave-Karave railway station",
+   "credit": "Photo: Merimumbai, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seawoods-Darave.jpg"
+  },
+  "Ramrao Adik Institute of Technology": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ramrao_Adik_Institute_of_Technology.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Ramrao Adik Institute of Technology",
+   "credit": "Photo: Unknown, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramrao_Adik_Institute_of_Technology.jpg"
+  },
+  "DY Patil Stadium": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/D_Y_Patil_Sports_Stadium.jpg/1280px-D_Y_Patil_Sports_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "DY Patil Stadium",
+   "credit": "Photo: Jeeteshvaishya, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:D_Y_Patil_Sports_Stadium.jpg"
+  },
+  "SIES Graduate School of Technology": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/SIES_GST_11.jpg/1280px-SIES_GST_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "SIES Graduate School of Technology",
+   "credit": "Photo: Wiki amn, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SIES_GST_11.jpg"
+  },
+  "Nerul railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nerul_railway_station.jpg/1280px-Nerul_railway_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nerul railway station",
+   "credit": "Photo: This Now, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nerul_railway_station.jpg"
+  },
+  "D. Y. Patil Hospital": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/D_Y_Patil_Hospital.jpg/1280px-D_Y_Patil_Hospital.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "D. Y. Patil Hospital",
+   "credit": "Photo: Ashayb7, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:D_Y_Patil_Hospital.jpg"
+  },
+  "Nexus Seawoods": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Seawoods_Grand_Central_4.jpg/1280px-Seawoods_Grand_Central_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nexus Seawoods",
+   "credit": "Photo: Merimumbai, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seawoods_Grand_Central_4.jpg"
+  },
+  "Jama Masjid, Nerul": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Jama_Masjid_Nerul%2C_Navi_Mumbai%2C_Maharashtra_%28Nerul_Aalami_Markaz%29_1.jpg/1280px-Jama_Masjid_Nerul%2C_Navi_Mumbai%2C_Maharashtra_%28Nerul_Aalami_Markaz%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jama Masjid, Nerul",
+   "credit": "Photo: Shaikh Zubair S, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jama_Masjid_Nerul,_Navi_Mumbai,_Maharashtra_(Nerul_Aalami_Markaz)_1.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Nerul",
+   "text": "Nerul (Pronunciation: [neɾuːɭ])  is a residential and commercial node in Navi Mumbai, Maharashtra, India. Nerul is located in the Harbour Line, Trans-Harbour Line and Port Line of Mumbai local train network where Kharghar and Vashi are the nearby stations. Nerul node is also famous for its parallel-running Palm Beach Road. Nerul is quite famous for its gardens like the Rock Garden and state of the art building structures.",
+   "url": "https://en.wikipedia.org/wiki/Nerul"
+  },
+  {
+   "title": "Seawoods-Darave-Karave railway station",
+   "text": "Seawoods-Darave-Karave is a railway station on the Harbour line of the Mumbai Suburban Railway and is located in Seawoods node of Navi Mumbai.\n\nStation complex has been redeveloped as a commercial complex with mall, shopping and entertainment with office spaces and huge three level basement parking Grand Central Mall by Larsen & Toubro.\n\nThe surrounding transit-oriented development sectors heavily incorporate multi-specialty clinical diagnostic hubs, outpatient care networks, and advanced medical diagnostics to accommodate regional public health needs.",
+   "url": "https://en.wikipedia.org/wiki/Seawoods-Darave-Karave_railway_station"
+  },
+  {
+   "title": "Ramrao Adik Institute of Technology",
+   "text": "Ramrao Adik Institute of Technology (RAIT) is a private engineering college located in Nerul, Navi Mumbai, India. It was established in the year 1983. The institute is recognized by the All India Council for Technical Education (AICTE). Since 2020–21, the institute under the ambit of D. Y. Patil Deemed to be University, Navi Mumbai. The Computer Engineering, Electronics Engineering, and Electronics and Telecommunications departments have been accredited by the National Board of Accreditation (NBA).",
+   "url": "https://en.wikipedia.org/wiki/Ramrao_Adik_Institute_of_Technology"
+  },
+  {
+   "title": "DY Patil Stadium",
+   "text": "The DY Patil Stadium is a multi-purpose sports arena in Navi Mumbai, Maharashtra, India. Owned by Dnyandeo Yashwantrao Patil, it is based in the DY Patil Sports Academy in Nerul. It is primarily a cricket stadium, though it is sometimes used for football, music concerts and other events.",
+   "url": "https://en.wikipedia.org/wiki/DY_Patil_Stadium"
+  },
+  {
+   "title": "SIES Graduate School of Technology",
+   "text": "SIES Graduate School of Technology (SIES GST) is an engineering college, an integral part of SIES, and was started in the year 2002. It is one of the Institutes in Navi Mumbai imparting Engineering Technical Education. The institute is approved by the AICTE New Delhi, DTE Mumbai and affiliated to the University of Mumbai. SIES GST is one of the premier engineering institutes in Mumbai area under the ambit of University of Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology"
+  },
+  {
+   "title": "SIES College of Management Studies",
+   "text": "SIES College of Management Studies (SIESCOMS) is a South Indian Education Society (SIES) campus located in Nerul, a node of Navi Mumbai. SIESCOMS was established in 1995 with the primary objective of providing quality management education and managing company.",
+   "url": "https://en.wikipedia.org/wiki/SIES_College_of_Management_Studies"
+  },
+  {
+   "title": "Mahatma Gandhi Mission's College of Engineering and Technology",
+   "text": "Mahatma Gandhi Mission's College of Engineering and Technology (MGMCET) is one of the chain of educational institutions set up by the Mahatma Gandhi Mission, a Charitable Trust Act 1950 and Societies Regulation Act 1860. It was founded in 1982 and is situated in Kamothe, Navi Mumbai, India.\nThe college is affiliated to the University of Mumbai and approved by AICTE, New Delhi.\nMGM is a chain of engineering, medical, nursing, management, dental, physiotherapy, science, journalism, and fine arts, computer science and information technology, schools spread over four educational centers in Navi Mumbai, Nanded, Aurangabad, and Noida.\nThe college provides hostel facilities and bus services to its students. It is one of the oldest colleges in Navi Mumbai. \nThe college also has a ground for sports like cricket, volleyball, and football.",
+   "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_Mission%27s_College_of_Engineering_and_Technology"
+  },
+  {
+   "title": "Nerul railway station",
+   "text": "Nerul is a railway station on the Harbour Line of the Mumbai Suburban Railway network. Around 1,00,000 people travel from Nerul towards Mumbai CSMT daily, and around 50,000 people travel in the Panvel direction every day. Nerul station is a terminus station for Port line and Trans-Harbour line, respectively.\nIt has 6 platforms. PF 1 is for trains going to Panvel or Terminating here. PF 2 is for trains going to Thane via Nerul. PF 3 is for trains Going towards CBD Belapur/Panvel. PF 4 is for trains Going towards CSMT/Goregaon. PF 5&6 are for Trains going to Uran.",
+   "url": "https://en.wikipedia.org/wiki/Nerul_railway_station"
+  },
+  {
+   "title": "South Indian Education Society",
+   "text": "South Indian Education Society (SIES), founded in 1932, is one of Mumbai's oldest and most esteemed educational institutions. SIES encompasses a high school, a diverse group of arts, science, and commerce colleges, as well as various academic and professional institutions of higher learning, serving over 18,000 students.",
+   "url": "https://en.wikipedia.org/wiki/South_Indian_Education_Society"
+  },
+  {
+   "title": "2008 Indian Premier League final",
+   "text": "The 2008 Indian Premier League final was a day/night Twenty20 cricket match played between the Rajasthan Royals and the Chennai Super Kings on 1 June 2008 at the DY Patil Stadium, Navi Mumbai to determine the winner of the 2008 Indian Premier League, a professional Twenty20 cricket league in India. It ended as the Royals defeated the Super Kings by three wickets.\nThe Royals, captained by Shane Warne, topped the group stage table, whereas the Super Kings, led by Mahendra Singh Dhoni, stood at the third position. They had defeated the Delhi Daredevils and the Kings XI Punjab respectively in the semi-finals.\nWinning the toss, Royals' captain Shane Warne opted to field first. The Super Kings scored 163 runs in 20 overs with a loss of 5 wickets. Batting at number three, Suresh Raina top scored for the Super Kings with 43 runs. Royals' bowler Yusuf Pathan took three wickets for 22 runs. The Royals failed to build a good opening partnership. However, due to contributions from the middle order, it reached the winning total in the last ball and earned the 2008 Indian Premier League title. Pathan, who was the best performer for the Royals with both bat and ball, was named the man of the match.",
+   "url": "https://en.wikipedia.org/wiki/2008_Indian_Premier_League_final"
+  },
+  {
+   "title": "Terna Medical College",
+   "text": "Terna Medical College is a medical college located in Navi Mumbai, Maharashtra operating under Terna Public Charitable Trust. \nIt has 150 undergraduate seats for MBBS course. It is associated with STRS.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Terna_Medical_College"
+  },
+  {
+   "title": "2010 Indian Premier League final",
+   "text": "The 2010 Indian Premier League final was a day/night Twenty20 cricket match played between the Chennai Super Kings and the Mumbai Indians on 25 April 2010 at the DY Patil Stadium, Navi Mumbai to determine the winner of the 2010 Indian Premier League, an annual professional Twenty20 cricket league in India. It ended as the Super Kings defeated the Indians by 22 runs.\nThe Indians, captained by Sachin Tendulkar, topped the group stage table with 10 wins in 14 matches, whereas the Super Kings, led by Mahendra Singh Dhoni, stood at the third position with seven wins in 14. They had defeated the Royal Challengers Bangalore and the Deccan Chargers respectively in the semi-finals.\nMumbai Indians qualified for the first time in their Indian Premier League history while it was the second time for Chennai Super Kings in three years. Super Kings qualified for the final at 2008 Indian Premier League where they lost to Rajasthan Royals by three wickets in a last ball thriller.",
+   "url": "https://en.wikipedia.org/wiki/2010_Indian_Premier_League_final"
+  },
+  {
+   "title": "D. Y. Patil Hospital",
+   "text": "D. Y. Patil Hospital or D.Y.P.H.R.C. (D. Y. Patil Hospital and Research Centre - Navi Mumbai) is a charitable hospital in Navi Mumbai, India. It was founded in 2004 by Shri Dnyandeo Yashwantrao Patil (Ex-Governor of Tripura, West Bengal and Bihar). It has 1500 beds dedicated to charity, a 300-bed ICU facility (the largest in Navi Mumbai), 15 operation theatres, a 24x7 charitable casualty and trauma centre. It has a blood bank that is accredited by NABH. The hospital is one of the largest charitable hospitals in India.",
+   "url": "https://en.wikipedia.org/wiki/D._Y._Patil_Hospital"
+  },
+  {
+   "title": "Nexus Seawoods",
+   "text": "Nexus Seawoods, formerly known as Seawoods Grand Central Mall, is a shopping mall located in Seawoods, Navi Mumbai. Launched in 2017 as Seawoods Grand Central, it was built as Transit Oriented Development, allowing seamless access to the mall from suburban railway. Spanning 40 acres, Nexus Seawoods has multiple shops including a multiplex (IMAX & 4DX), game arcade, fashion, accessories, cafes and restaurants. It has centralized air conditioning and a security and building management system.\nNexus Seawoods is also home to a large exhibition space with a wide selection of home-grown and local brands that exhibit their wares.",
+   "url": "https://en.wikipedia.org/wiki/Nexus_Seawoods"
+  },
+  {
+   "title": "Jama Masjid, Nerul",
+   "text": "Jama Masjid, also known as the Nerul Aalami Markaz and as the Masjid-E-Tabligh, is a Sunni Friday mosque, affiliated with the \"shura\" faction of the Tablighi Jamaat, located in East Nerul, in Navi Mumbai, in the state of Maharashtra, India. The mosque is the oldest and largest mosque in Nerul and one of the main mosques of Navi Mumbai.\nThe mosque serves as the headquarters for the shura faction of the Tablighi Jamaat and is led by scholars Ahmad Laat and Ebrahim Dewla.",
+   "url": "https://en.wikipedia.org/wiki/Jama_Masjid,_Nerul"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Navi Mumbai",
+  "text": "Navi Mumbai (Marathi: नवी मुंबई Navī Mumbaī), formerly New Bombay, is a planned city near Mumbai, India. It is a part of the Mumbai Metropolitan Region (MMR). It was founded in 1971, as a satellite township to take the pressure off the core city. Although it has been only partially successful in this sense, this has been changing with many IT and ITES industries setting up shop here.\nThis article also covers Panvel, a suburb of Navi Mumbai.\n\n\n== See ==\n\n1 Atal Setu. India's longest sea bridge, also known as Mumbai Trans-Harbour Link (MTHL). Named after former Prime Minister Atal Bihari Vajpayee, the bridge connects Sewri in Mumbai to Nhava Sheva in Navi Mumbai, across the Mumbai Harbour. (updated Mar 2026)\n Durga mata temple (santoshi & durga mata rajstani temple), Nawade Village, sec-45 Kharghar, NH4 (Thane-Panvel road (NH-4), from Kharghar station take Auto Riksha (4 km distance)), ☏ +91 9867776789, santrk@gmail.com. 6AM to 11PM. It has been rebuilt using Bansipahadpur marble. Architectural work design by Sompura. Carving work was done by famous Rajasthani temple workers. On the foundations, pure black stone is used, and for garbhagrah and kalas, pure sandstone. The temple's entrance is made by one of the famous garud design praveshdwar. The total height is 55 feet. Free entrance. (updated Aug 2015)\n Gadeshwar Reservoir.  (updated Jul 2023)\n Mango Garden, Belapur (opposite to the CBD Belapur bus depot). Mango Garden, a must-visit place for couples and children. It is a small garden for almost all age group people. \n Mini seashore, Juhu Chowpatty, Sector10A, Juhu Nagar. Boating, toy train and lot of fun, bhel puri, pani puri, gola etc. No entry free for gardens. \n2 Parsik Hill, Belapur (On the way to Kharghar, take a left on uphill as you leave the boundaries of CBD). A very cool place on hilltop. People prefer to come here for morning and evening walk. Youngsters come here to have fun and just chill out. It is closed most of the times in the rainy season because of the landslide. A must to visit this place in evening hours if you are around. It is best to visit this place when the monsoon just starts. During this time there is an enchanting dew and also a slow waterfall often called the Pandavakhada waterfall. (updated Jun 2023)\n Rajiv Gandhi Maidan. Lots of temples for doing Pooja and meditiation, and a good trek. \n Rain Tree Marg (Belapur). Has beautiful views of Navi Mumbai \nSagar Vihar, Vashi, A bridge connects Sagar Vihar to mini seashore Juhu Chowpatty. Very nice location for morning & evening joggers. Hawkers spoil the scene a bit, but overall a nice location to get stress free.\n Sarovar Vihar Garden (attached to the creek at 15 minutes distance by rickshaw near Vashi Station). Like a second marine drive, provides a beautiful view of the sea, a drive from Vashi via the Palm Beach Road ends at Belapur \n Seven Wonders, Sector 18, Nerul (Vashi to Nerul take a right from uran fata). Park for all ages, it has the Seven Wonder statues. It is a huge park with joy rides. Water pool and fountains to view. Fruit shape huts to seat and take photos. Cool hang out with kids. ₹35. \n3 Pandavkada Falls, Sector-8, Kharghar (on the way from Mumbai to Panvel). Monsoon tourist attraction for people from far and wide. Authorities are strict in not allowing people to visit this place in monsoon on account of accidental deaths in the waterfall. ₹50 per person. (updated Jun 2023)\n4 Utsav Chowk, Kharghar. One of the most famous landmarks in the area and it stands out for its eye catching architecture which is a humble reflection of the Roman and Greek architecture. (updated Jun 2023)\n\n\n=== Forts ===\n\n5 Belapur Fort ruins, ~113, Uran Rd, Sector 32, Seawoods, Belapur (suburban: Seawoods–Darave  Harbour  Trans-Harbour  Port  2 km N). The fort was built by the Siddis of Janjira. It was later conquered by the Portuguese, and then Marathas. In the early 19th century, the fort was captured by the British. The deliberate damage wrought led to a decline in the strategic importance of the fort. (updated Sep 2022)\n6 Dronagiri Fort. The ruins of the fortification are seen on the fort. There is a church Nossa Senhora da Penha in good condition, but without any idol or inscription. The church is in the inner fortification. The main gate to the fort is situated on the south of the church 50 m away. The arch of the gate is broken, yet the guards rooms are in good condition. The Ganapati carved on the key stone is placed in one of the guard room. From the main gate a path way leads south to the Village Karanja. In between a Vetal mandir in ruined state is located. The pathway starting from the back of the Vetal mandie leads to large water tank in good condition situated among the forest. The fort is accessible in all seasons. The trek to the fort is simple and safe. Being close to Uran and Karanja, the fort was strategic importance since old times. The entire hill is densely covered with forest. (updated Jun 2023)\n\n\n== Do ==\n1 Central Park, Kharghar. The project of Central Park is to make a public park with Navi Mumbai's ethos reflected into the future. It is under construction but is open to public. The large amphitheatre has hosted many public shows. An ISKCON temple is attached to this park. To the west of this park is Pandav Kada waterfall and CIDCO developed golf course. Free. (updated Jun 2023)\n2 DY Patil Stadium. The cricket stadium in the Navi Mumbai area hosts several international cricket matches and domestic championships such as the Mumbai T20 league and Times Cricket Shield. Wankhede matches in the Indian Premier League as well as Womens Premier League have been played at the stadium. The stadium also hosts international cricket tournaments and concerts. (updated Sep 2025)\n Rajiv Gandhi Joggers Park (Back Juhu Gaon Rd), Sector-10A Juhu Chowpatty. A hot-spot for joggers of all ages \n Sagar Vihar, sector 6 Vashi (near Vashi depot, 10 minutes from Vashi station). A cool place to chill out with friends; a must to visit during evening hours. \n\n\n== Eat ==\nThe food caters to all kinds of palates which includes Pan Indian (South, North, Central and Western Indian), of course Pizza Hut, Smokin Joes, Dominos and McDonalds, Chinese and other oriental and lots more. Some Indian food you could try includes Dosas, Idlis, Bhel, Sev Puri, Samosas, Ragda patties, Pulavs, Rajma Chawal and more. Indian food is really what food should be. There are more varieties of Indian food than probably any other cuisine in the world. After all that hot stuff you can try out the Indian slush called the ice gola in Kalakhatta flavor, which beats Pepsi and Coke hollow. You'll get those two in manned fountains at the food counters.\n\n Barbeque Nation, Nerul Palm Beach.  \n Bhagat Tarachand (Turbhe-Sanpada & Inorbit Mall). Pure veg restaurant. \n Flavours, Sanpada (opp. Sanpada railway station), ☏ +91 22 6510 1253. Intercontinental cuisine. You can sit at the counter and enjoy your drinks (including the Bartender's Special). \n Hot Cross Cafe, Nerul, Palm Beach/Kharghar (opp. Hiranandani Towers, near Utsav Chowk). A very relaxing coffee shop where they serve a variety of hukka (sheesha) at a very minimal rate. One of the best places in Navi Mumbai for hukka and mouth watering and fresh pastries. \n Hotel Ruchi, Koparkhairane. Possibly the best Keralite food you can find in the city. The restaurant itself is pretty small and unnoticeable but if you notice it, don't miss it. Try the Kerala Parotha with Chicken Masala and the idiyaappam and appams for breakfast \n Jaslok (at Nerul/Station). All sorts of snacks and sweets. Pani Puri, Vada Pav and Rasmalai, Jamun are the delicious items. \n Nanumal Bhojraj, Nerul-Sanpada Palm Beach Rd. Damn good restaurant for Sindhi and Punjabi food. \n Navaratna, Vashi, Sec-17, ☏ +91 22 2789 4816. One of the oldest restaurants in Vashi. It serves great food in the traditional Udipi style. \n Sri Krishna, Sector-11, CBD Belapur (Near K Stars Hotel), ☏ +91 22-6511162. Good vegetarian food. Great watermelon juice! Home delivery available. Try the gadbad ice cream. \n Tunga, Vashi. Good place to eat. Excellent ghee chapaties. \n Vasundhara, Sector 30A (opposite Vashi station), ☏ +91 22 2781 0027. Pure veg restaurant. \n Viscious circle, Sector 6, Vashi. Mouth watering kebabs and non veg dishes, good ambience, drinks and a large projector screen. \n Gupta's, Vashi, sec, 17,. Great range of toast sandwiches And pizzas. (updated Mar 2016)\n Snack Attack, Palm-beach road, Nerul-Sanpada. A cool place for snacks with a very different look and a very artistic architect. Wide ranges of snacks, and small cups of Oreo juice are also offered. (updated Mar 2016)\n\n\n== Drink ==\n Celebrations, Plot L 1, Sector19, Vashi (Palm Beach Road, Vashi.), ☏ +91 22 41023456. 7AM-3PM, 7PM-midnight. Business deluxe hotel with multi-cuisine restaurant, tycoon bar, and modern amenities. ₹500 onwards. \n Coral Lounge, Sector 17, Vashi (Above hotel Navratna).  \n Dusk (at The Park in C.B.D. Belapur), ☏ +",
+  "url": "https://en.wikivoyage.org/wiki/Navi_Mumbai"
+ },
+ "sights": [
+  {
+   "name": "Ganesh Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 19.028699,
+   "lon": 73.0161102
+  },
+  {
+   "name": "Jama Masjid Nerul",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 19.0346789,
+   "lon": 73.0205033
+  },
+  {
+   "name": "Gram Devata Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 19.0323551,
+   "lon": 73.0145907
+  },
+  {
+   "name": "Shree Swami Narayan Mandira, Nerul",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 19.0318842,
+   "lon": 73.0142053
+  },
+  {
+   "name": "Shree Narayana Mandira Samiti",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 19.0313605,
+   "lon": 73.0143013
+  },
+  {
+   "name": "Mata Amritanandamayi Math",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 19.0316113,
+   "lon": 73.0142517
+  },
+  {
+   "name": "Balaji Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 19.0324262,
+   "lon": 73.0142261
+  },
+  {
+   "name": "Little Flower Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 19.0310325,
+   "lon": 73.0142872
+  },
+  {
+   "name": "Jai Ambe Mata Madir",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 19.0369582,
+   "lon": 73.0202798
+  },
+  {
+   "name": "Shree Vitthal Rukhmini Temple, Nerul",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 19.0256555,
+   "lon": 73.0155017
+  },
+  {
+   "name": "Ayyappa Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 19.0364233,
+   "lon": 73.0242283
+  },
+  {
+   "name": "Shree Ganapati Ayyappa Durgadevi Kshetra",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 19.0387754,
+   "lon": 73.0191184
+  },
+  {
+   "name": "Murugan Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 19.0386319,
+   "lon": 73.0189002
+  },
+  {
+   "name": "Seawood Dargah & Sunni Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 19.0263008,
+   "lon": 73.0123343
+  },
+  {
+   "name": "Gramdevi Mandir, nerul gaon",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 19.0377328,
+   "lon": 73.0138698
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

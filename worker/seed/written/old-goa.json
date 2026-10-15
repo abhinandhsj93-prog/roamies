@@ -1,0 +1,98 @@
+{
+ "query": "Old Goa",
+ "region": "goa",
+ "name": "Old Goa",
+ "draft": {
+  "briefing": "Hey, you're in Old Goa! Between 1580 and 1630 this city rivalled London and Lisbon and grew to about 200,000 people, yet by the 1760s it was already deserted.",
+  "hungryLine": "Food options are limited in Old Goa itself, so look for the few restaurants around the area and along the highway.",
+  "moodReplies": {
+   "show-me-around": "The Church and Convent of St. Francis of Assisi is a 2 min walk, and the Basilica of Bom Jesus and Se Cathedral are both about 3 min away.",
+   "somewhere-to-chill": "Walk up to the Chapel of Our Lady of the Mount, about 21 min away, on a hill looking over the Mandovi river.",
+   "surprise-me": "The Church of St. Francis of Assisi stands on the site of the principal mosque of the old Adil Shahi city."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Basilica of Bom Jesus",
+     "detail": "3 min walk · Holds the body of St Francis Xavier, a UNESCO World Heritage Site",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Se Cathedral",
+     "detail": "3 min walk · Seat of the Patriarch of the East Indies",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Arch of the Viceroys",
+     "detail": "7 min walk · A 12 m laterite arch from 1599 with Vasco da Gama on top",
+     "status": {
+      "text": "Open air monument",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Pelourinho Novo",
+    "title": "The Hand-Cutting Pillar",
+    "body": "Locals call this black basalt pillory Hath Katro Khamb, the Hand-Cutting Pillar. It was where the authorities made announcements, settled legal matters and punished offenders, including whippings."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in November for music.",
+    "body": "Every November the courtyard of the Chapel of Our Lady of the Mount hosts the popular Monte Music Festival."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly.",
+    "body": "The Basilica of Bom Jesus is a working pilgrimage centre, so cover shoulders and knees inside the churches."
+   }
+  ],
+  "story": [
+   {
+    "era": "1400s",
+    "title": "A Bijapur city",
+    "body": "The city of Goa was set up by the Bijapur Sultanate in the 15th century on the southern bank of the Mandovi, on the island of Tiswadi.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1510",
+    "title": "The Portuguese arrive",
+    "body": "Afonso de Albuquerque conquered the city in 1510 and right away ordered the Chapel of Our Lady of the Mount, finished in 1519. Goa became the capital of the Portuguese East Indies.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1580 to 1630",
+    "title": "Golden age",
+    "body": "At its peak the city rivalled London and Lisbon. The Arch of the Viceroys went up in 1599, St Augustine's church in 1602, and St Cajetan's and St Francis of Assisi in 1661.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1600s to 1760s",
+    "title": "Plague and decline",
+    "body": "Plagues and epidemics struck all through the 17th century, and as Portuguese power faded the city decayed. It was deserted by the 1760s.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "World Heritage",
+    "body": "UNESCO listed the Churches and Convents of Goa as a World Heritage Site in 1986. The name Old Goa itself only came into use in the 1960s.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": []
+ }
+}

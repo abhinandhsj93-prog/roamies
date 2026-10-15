@@ -1,0 +1,97 @@
+{
+ "query": "Kalpetta, Wayanad",
+ "region": "kerala",
+ "name": "Kalpetta",
+ "draft": {
+  "briefing": "Hey, you're in Kalpetta! It's the headquarters of Wayanad, the only plateau in Kerala, and it sits at about 780 m among coffee and tea plantations.",
+  "hungryLine": "I don't have a named place to eat in Kalpetta, so ask a local, you're in coffee country after all.",
+  "moodReplies": {
+   "show-me-around": "Kalpetta Juma Masjid is a 2 min walk. Banasura Dam is 15 km northwest, and Pookote Lake is near Vythiri.",
+   "somewhere-to-chill": "Pookote Lake is a freshwater lake ringed by evergreen hills, with boating if you fancy it.",
+   "surprise-me": "Banasura is considered the second largest earth dam in Asia. When the reservoir filled, it left a set of islands behind."
+  },
+  "seeFirst": {
+   "caption": "Around Kalpetta",
+   "spots": [
+    {
+     "name": "Kalpetta Juma Masjid (Valiya Palli)",
+     "detail": "2 min walk · The town's big mosque",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Banasura Dam",
+     "detail": "15 km away · Earth dam with islands",
+     "status": {
+      "text": "Speed boats available",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Pookote Lake",
+     "detail": "Near Vythiri · Freshwater lake with boating",
+     "status": {
+      "text": "Boating available",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Lakkidi",
+    "title": "The Chain Tree",
+    "body": "A tribal youth showed an English engineer the route for the ghat road, and was killed for it. His angry spirit caused accidents until a priest chained it to a tree at Lakkidi."
+   },
+   {
+    "where": "Lakkidi",
+    "title": "The mahout's spirit",
+    "body": "Another telling says Adivasi mahouts led the British up the mountains and were killed so they couldn't guide the Portuguese. Drivers still pray at the tree for a safe trip."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Start treks at Banasura.",
+    "body": "The dam area is the starting point for treks up Banasura Peak."
+   },
+   {
+    "icon": "sun",
+    "title": "Go early to Lakkidi.",
+    "body": "The viewpoint can get busy and littered in peak season."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Hill people",
+    "body": "Many indigenous tribes have lived on the Wayanad plateau.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1980",
+    "title": "A new district",
+    "body": "Wayanad district was formed on 1 November 1980, carved out of Kozhikode and Kannur, with Kalpetta as its headquarters.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Always",
+    "title": "Where the Kabini begins",
+    "body": "The Kabini River, a tributary of the Kaveri, starts in Wayanad.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Plantations, a dam and a lake all within reach. Tell me which way you headed.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

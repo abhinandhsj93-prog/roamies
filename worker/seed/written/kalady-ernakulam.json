@@ -1,0 +1,124 @@
+{
+ "query": "Kalady, Ernakulam",
+ "region": "kerala",
+ "name": "Kalady",
+ "draft": {
+  "briefing": "Hey, you're in Kalady! This is the birthplace of Adi Shankara, the 9th century philosopher. Kalady means 'footprint' in Malayalam, and the village was once called Sasalam.",
+  "hungryLine": "Kalady has plenty of hotels serving both vegetarian and non-vegetarian food.",
+  "moodReplies": {
+   "show-me-around": "The Sanskrit university is a 7 min walk. In town, find Sringeri Math on the Periyar's bank and the pink 8-storey Keerthi Sthambam.",
+   "somewhere-to-chill": "Climb the Sri Adi Sankara Keerthi Sthambam for a view over palm-fringed green fields.",
+   "surprise-me": "At Nayathodu Sankara Narayana Temple, Shiva gets the first offerings, then everything is cleared and Vishnu is worshipped at the very same idol."
+  },
+  "seeFirst": {
+   "caption": "Around Kalady",
+   "spots": [
+    {
+     "name": "Sree Sankaracharya University of Sanskrit",
+     "detail": "7 min walk · Sanskrit university founded 1993",
+     "status": {
+      "text": "Campus",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sringeri Math",
+     "detail": "In Kalady · Shrines on the Periyar's bank",
+     "status": {
+      "text": "Open to all",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sri Adi Sankara Keerthi Sthambam",
+     "detail": "In Kalady · 8-storey memorial with a view",
+     "status": {
+      "text": "Climb for the view",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Muthala Kadavu",
+    "title": "The crocodile ghat",
+    "body": "Young Sankara wanted to become a monk, but his mother said no. When a crocodile caught him in the river, she agreed, and the crocodile let him go."
+   },
+   {
+    "where": "Sri Krishna temple",
+    "title": "The river that moved",
+    "body": "Sankara's mother struggled to walk to the river, so Krishna blessed that it would flow where the boy marked with his feet. The village took its name, Kalady, from those feet."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Everyone is welcome.",
+    "body": "Adi Sankara's shrines in Kalady are open to all pilgrims, whatever their religion or caste."
+   },
+   {
+    "icon": "sun",
+    "title": "Come for Navarathri.",
+    "body": "Sringeri Math holds a ten day festival with a temple chariot procession and classical music concerts."
+   }
+  ],
+  "story": [
+   {
+    "era": "9th century",
+    "title": "A philosopher is born",
+    "body": "Adi Shankara was born here and went on to preach Advaita philosophy.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Centuries after",
+    "title": "A lamp for his mother",
+    "body": "The Kappilly family lit a daily lamp at the cremation spot of Shankara's mother, Aryamba, for centuries.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1906",
+    "title": "Travancore steps in",
+    "body": "The Maharaja of Travancore acquired Shankara's family property and handed it to the Sringeri Mutt.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1993",
+    "title": "A Sanskrit university",
+    "body": "The Sree Sankaracharya University of Sanskrit opened in Kalady.",
+    "illustration": "palace"
+   },
+   {
+    "era": "May 2010",
+    "title": "A centenary",
+    "body": "Kalady celebrated a hundred years since its rediscovery.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Aryas",
+    "detail": "Near the bus station · An easy meal stop",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "K K Towers",
+    "detail": "Near the university on Malayattoor Road",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

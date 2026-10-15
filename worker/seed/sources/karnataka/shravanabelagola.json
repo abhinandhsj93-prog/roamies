@@ -1,0 +1,269 @@
+{
+ "query": "Shravanabelagola",
+ "found": "Shravanabelagola, Channarayapattana taluk, Hassan, Karnataka, 573135, India",
+ "lat": 12.858127,
+ "lon": 76.4870114,
+ "fetchedAt": "2026-10-12T18:36:18.395Z",
+ "locality": {
+  "id": "shravanabelagola-hassan-karnataka",
+  "name": "Shravanabelagola",
+  "area": "Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Shravanabelagola": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Shravanabelagola_Hillview.jpg/1280px-Shravanabelagola_Hillview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shravanabelagola",
+   "credit": "Photo: Ananth H V, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shravanabelagola_Hillview.jpg"
+  },
+  "Chandragiri Hill": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Old_Kannada_inscription_from_7th_century_at_Chandragiri_hill_in_Shravanabelagola.jpg/1280px-Old_Kannada_inscription_from_7th_century_at_Chandragiri_hill_in_Shravanabelagola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chandragiri Hill",
+   "credit": "Photo: Dineshkannambadi at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Kannada_inscription_from_7th_century_at_Chandragiri_hill_in_Shravanabelagola.jpg"
+  },
+  "Vindhyagiri Hill": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Shravanabelagola2007_-_01.jpg/1280px-Shravanabelagola2007_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vindhyagiri Hill",
+   "credit": "Photo: Ilya Mauter, CC BY-SA 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shravanabelagola2007_-_01.jpg"
+  },
+  "Chandragupta basadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/View_of_Chandragupta_Basadi_at_Chandragiri_hill_in_Shravanabelagola.jpg/1280px-View_of_Chandragupta_Basadi_at_Chandragiri_hill_in_Shravanabelagola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chandragupta basadi",
+   "credit": "Photo: Dineshkannambadi (talk) 01:06, 21 May 2008 (UTC), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Chandragupta_Basadi_at_Chandragiri_hill_in_Shravanabelagola.jpg"
+  },
+  "Akkana Basadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/View_of_Akkana_Basadi_from_northeastern_side_at_Shravanabelagola.jpg/1280px-View_of_Akkana_Basadi_from_northeastern_side_at_Shravanabelagola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Akkana Basadi",
+   "credit": "Photo: HoysalaPhotos, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Akkana_Basadi_from_northeastern_side_at_Shravanabelagola.jpg"
+  },
+  "Shantinatha Basadi, Jinanathapura": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Rear_view_of_Shantinatha_basadi_at_Jinanathapura.JPG/1280px-Rear_view_of_Shantinatha_basadi_at_Jinanathapura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shantinatha Basadi, Jinanathapura",
+   "credit": "Photo: Dineshkannambadi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rear_view_of_Shantinatha_basadi_at_Jinanathapura.JPG"
+  },
+  "Gommateshwara statue": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Gommateshwara%2C_Shravanabelagola.jpg/1280px-Gommateshwara%2C_Shravanabelagola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gommateshwara statue",
+   "credit": "Photo: Kuldeep S, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gommateshwara,_Shravanabelagola.jpg"
+  },
+  "Chavundaraya Basadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Chavundaraya_Basadi_on_Chandragiri_hill_at_Shravanabelagola.jpg/1280px-Chavundaraya_Basadi_on_Chandragiri_hill_at_Shravanabelagola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chavundaraya Basadi",
+   "credit": "Photo: Dineshkannambadi (talk) 00:48, 21 May 2008 (UTC), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chavundaraya_Basadi_on_Chandragiri_hill_at_Shravanabelagola.jpg"
+  },
+  "Odegal basadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Odegal_basadi_%28cropped%29.jpg/1280px-Odegal_basadi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Odegal basadi",
+   "credit": "Photo: Anks.manuja, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odegal_basadi_(cropped).jpg"
+  },
+  "Shravanabelagola Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/193-Shravanabelagola_constituency.svg/1280px-193-Shravanabelagola_constituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shravanabelagola Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:193-Shravanabelagola_constituency.svg"
+  },
+  "Parshvanatha basadi, Shravanabelgola": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/North_eastern_view_of_Parsvanatha_Basadi_at_Shravanabelgola.jpg/1280px-North_eastern_view_of_Parsvanatha_Basadi_at_Shravanabelgola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Parshvanatha basadi, Shravanabelgola",
+   "credit": "Photo: HoysalaPhotos, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_eastern_view_of_Parsvanatha_Basadi_at_Shravanabelgola.jpg"
+  },
+  "Bhandara Basadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Bhandara_Basadi_at_Jinanathapura.JPG/1280px-Bhandara_Basadi_at_Jinanathapura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bhandara Basadi",
+   "credit": "Photo: Dineshkannambadi, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhandara_Basadi_at_Jinanathapura.JPG"
+  },
+  "Jain Matha, Shravanabelgola": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jain_math.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Jain Matha, Shravanabelgola",
+   "credit": "Photo: chetan tg, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jain_math.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Shravanabelagola",
+   "text": "Shravanabelagola (pronunciation: [ɕɾɐ.ʋɐˈɳɐ bɛ.ɭɐ.go.ɭɐ]) is a town located near Channarayapatna taluk of Hassan district in the Indian state of Karnataka and is 144 km (89 mi) from Bengaluru. The Gommateshwara Bahubali statue at Shravanabelagola is one of the most important tirthas (pilgrimage destinations) in Jainism, one that reached a peak in architectural and sculptural activity under the patronage of Western Ganga dynasty of Talakad. Chandragupta Maurya is said to have died on the hill of Chandragiri, which is located in Shravanabelagola, in 298 BCE after he became a Jain monk and assumed an ascetic life style.\nGommateshwara statue, Akkana Basadi, Chandragupta basadi, Chamundaraya Basadi, Parshvanath Basadi and inscriptions of Shravanabelagola group of monuments are listed as Adarsh Smarak Monument by Archaeological Survey of India.\n\n\n== Location ==\nShravanabelagola is located at 11 km (6.8 mi) to the south-east of Channarayapatna in the Channarayapatna taluk of Hassan district of Karnataka. It is at a distance of 51 km (32 mi) south-east of Hassan, Karnataka, the district centre. It is situated at a distance of 12 km (7.5 mi) to the south from the Bengaluru-Mangaluru road (NH-75...",
+   "url": "https://en.wikipedia.org/wiki/Shravanabelagola"
+  },
+  {
+   "title": "Chandragiri Hill",
+   "text": "Chandragiri, also known as Chikka betta is one of the two hills in Shravanabelagola in the Indian state of Karnataka, the other one being Vindhyagiri. It is also designated as Indragiri.",
+   "url": "https://en.wikipedia.org/wiki/Chandragiri_Hill"
+  },
+  {
+   "title": "Vindhyagiri Hill",
+   "text": "Vindhyagiri, also known as Indragiri, Dodda betta is one of the two hills in Shravanabelagola in the Indian state of Karnataka. The other one being Chandragiri.",
+   "url": "https://en.wikipedia.org/wiki/Vindhyagiri_Hill"
+  },
+  {
+   "title": "Chandragupta basadi",
+   "text": "Chandragupta basadi (Kannada: ಚಂದ್ರಗುಪ್ತ ಬಸದಿ) is one of the smaller basadis (Jain temples) located on the Chandragiri Hill in Sravanabelagola in the Indian state of Karnataka. Archaeological Survey of India has listed the Chandragupta basadi in group of monuments in Shravanabelagola as Adarsh Smarak Monument.",
+   "url": "https://en.wikipedia.org/wiki/Chandragupta_basadi"
+  },
+  {
+   "title": "Akkana Basadi",
+   "text": "Akkana Basadi (lit, temple of the \"elder sister\", basadi is also pronounced basti) is a Jain temple (basadi) built in 1181 A.D., during the rule of Hoysala empire King Veera Ballala II. The basadi was constructed by the devout Jain lady Achiyakka (also called Achala Devi), wife of Chandramouli, a Brahmin minister in the court of the Hoysala king. The main deity of the temple is the twenty-third Jain Tirthankar Parshwanath. The temple is protected as a monument of national importance by the Archaeological Survey of India. It is part of an Archaeological Survey of India Adarsh Smarak Monument along with other temples in the Shravanabelagola group of monuments.",
+   "url": "https://en.wikipedia.org/wiki/Akkana_Basadi"
+  },
+  {
+   "title": "Shantinatha Basadi, Jinanathapura",
+   "text": "Shantinatha Basadi (or Shanteshvara basadi), a Jain temple dedicated to the sixteenth Tirthankar Shantinatha is located in the historically important temple town of Jinanathapura near Shravanabelagola (also spelt \"Jainanathapura\"). It is a village in Channarayapatna taluk in the Hassan district of Karnataka state, India.",
+   "url": "https://en.wikipedia.org/wiki/Shantinatha_Basadi,_Jinanathapura"
+  },
+  {
+   "title": "Gommateshwara statue",
+   "text": "The Gommateshwara statue is a 57-foot (17 m) high monolithic statue of lord Bahubali on Vindhyagiri, also known as Indra-giri in the town of Shravanbelagola in the Indian state of Karnataka. Carved of a single block of granite, it is one of the tallest monolithic statues in the ancient world and one of the holiest sites in Jainism.\nThe Gommateshwara statue is dedicated to the Jain figure Bahubali and symbolises the Jain precepts of peace, non-violence, sacrifice of worldly affairs, and simple living. It was built around 983 CE during the Western Ganga dynasty and is one of the largest free-standing statues in the world.  It was regarded the tallest Jain statue until 2016. The construction of the statue was commissioned by the Ganga dynasty minister and commander Chavundaraya. Neighbouring areas have Jain temples known as basadis and several images of the Tirthankaras. Vindyagiri Hill is one of the two hills in Shravanabelagola. The other is Chandragiri, which is also a seat of several ancient Jain centres, much older than Gommateshwara statue. Chandragiri is dedicated to the Jain figure Bharat, the brother of Bahubali and the son of the first Tirthankara  Rishabhnath.\nA Jain event known...",
+   "url": "https://en.wikipedia.org/wiki/Gommateshwara_statue"
+  },
+  {
+   "title": "Chavundaraya Basadi",
+   "text": "Chavundaraya basadi or Chamundaraya basadi or Boppa-Chaityalya is one of the fifteen basadis (Jain temples) located on the Chandragiri Hill in Shravanabelagola in the Indian state of Karnataka. Archaeological Survey of India has listed the Chavundaraya basadi in group of monuments in Shravanabelagola as Adarsh Smarak Monument.",
+   "url": "https://en.wikipedia.org/wiki/Chavundaraya_Basadi"
+  },
+  {
+   "title": "Odegal basadi",
+   "text": "Odegal basadi or Vadegal basadi is the largest basadi located on the Vindhyagiri Hill in Shravanabelagola in the Indian state of Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Odegal_basadi"
+  },
+  {
+   "title": "Shravanabelagola Assembly constituency",
+   "text": "Shravanabelagola Assembly constituency is one of the 224 Legislative Assembly constituencies of Karnataka in India. It is part of Hassan district.",
+   "url": "https://en.wikipedia.org/wiki/Shravanabelagola_Assembly_constituency"
+  },
+  {
+   "title": "Parshvanatha basadi, Shravanabelgola",
+   "text": "Parshvanatha Basadi or Kamatha Parshvanatha Basadi is a Jain temple (basadi) located on Chandragiri Hill in Shravanabelagola, a town in Karnataka, India.",
+   "url": "https://en.wikipedia.org/wiki/Parshvanatha_basadi,_Shravanabelgola"
+  },
+  {
+   "title": "Bhandara Basadi",
+   "text": "Bhandara Basadi or Chaturvimsati Tirthankar Basadi  is a Jain temple (basadi) built in located in Shravanabelagola, a town in Karnataka, India. The temple was constructed by Hulla, the treasurer and chief minister of the Hoysala king Narasimha I, and was dedicated to the twenty-four Tirthankaras.",
+   "url": "https://en.wikipedia.org/wiki/Bhandara_Basadi"
+  },
+  {
+   "title": "Channarayapatna Assembly constituency",
+   "text": "Channarayapatna Assembly constituency was one of the Vidhan Sabha constituencies in the state assembly of Mysore State, in India. It was part of Hassan Lok Sabha constituency.",
+   "url": "https://en.wikipedia.org/wiki/Channarayapatna_Assembly_constituency"
+  },
+  {
+   "title": "Jain Matha, Shravanabelgola",
+   "text": "Jain Matha, Shravanabelagola is a Digambara Matha (Jain monastic institution) and Bhattaraka seat located at Shravanabelagola in Hassan district, Karnataka, India. The institution developed into an important centre of Jain pontifical authority and religious learning in southern India.\nThe head of the matha traditionally bears the title Charukirti Bhattaraka. The institution has historically been associated with the Jain temples, religious establishments and manuscript tradition of Shravanabelagola.",
+   "url": "https://en.wikipedia.org/wiki/Jain_Matha,_Shravanabelgola"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Shravanabelagola",
+  "text": "Shravanabelagola is a village famous for its impressive Jain temple. It is located in Hassan District of Karnataka.\n\n\n== See ==\nThe town is small and you can easily walk between the major attractions. The biggest question is how much time you have, and how interested you are in history, the Jain religion, wandering or relaxing in nature. Many people seem to visit and only see Vindhyagiri, however Chandragiri is just as if not more interesting save the lack of a statue. It may be worth counting on one day for Vindhyagiri, one day for Chandragiri, and one day for the other temples and departure.\nThe temples in the town are inferior by comparison to those on the mountains, but probably worth seeing regardless. They are found on a north–south road one block east of the pond that dominates the town. If you are unclear how to get there, just turn left at the bottom of the main steps to Vindhyagiri or ask a local for 'Jain Math' which will take you to one end.\n\n\n=== Vindhyagiri ===\n\nThe hill is about 150 m (490 ft) above the ground and is one solid rock. It must be climbed barefoot. Most tourists use the 'main steps' from the town consisting of a dual flights of about 660 steps to the top, cutout in the rock. People of all ages climb these steps, however they are steep and it can be a hard climb.  In summer the rock can get hot, so you may wish to wear two pairs of socks to protect against the heat.  There are two sets of steps at this main stairway: one set to go up, and one set to come down. Palanquin bearers carry you up on a chair for ₹150 (one way). It will take about 2 hours to finish darshan and come back downhill.\nThe second, equally good but much less used (and therefore more peaceful) set of stairs are on the western side of the hill. If yoh want to circumambulate the hill prior to climbing, the suggested direction is clockwise. It is easy to find the road and impossible to get lost.\nThe 17 m (58 ft) high monolithic stone statue of the Lord Gommateshwara, also referred to as Bahubali is located above this hill which is called Vindhyagiri or Doddabetta or Indragiri hill. It is estimated to weigh approximately 80 tons. The stone statue was installed and consecrated by Chavundaraya, the Prime Minister and Commander-in-Chief who served under the successive rulers - King Marasimha II, Rachamalla IV and Rachamalla V of the Talakad Ganga Kingdom in 981 AD. The base of the statue has inscriptions in Kannada and Tamil, and the oldest evidence of written Marathi, dating back to 981 AD. The inscription praises the Ganga king who funded the effort, and his general Chavundaraya, who erected the statue for his mother.\n\nThis statue is considered to be the world's largest monolithic stone statue. It is carved beautifully from a single block of rock with accurate sense proportion and expression. Gommata has curly hair in ringlets on the head and long, large ears. His eyes are open as if viewing the world with detachment. His facial features are perfectly chiseled with a faint touch of a smile at the corner of his lips and embody calm vitality. His shoulders are broad, his arms stretch straight down and the figure has no support from the thigh upwards.\nThere is an anthill in the background which signifies his incessant penance. From this anthill emerge a snake and creepers which twine around both his legs and his arms culminating as a cluster of flowers and berries at the upper portion of the arms. The creepers encircling the arms and legs are artistic and beautiful.\nThe nude, north-facing, upright stone sculpture of Bahubali (Lord Gommateshwara) in the posture of meditation known as Kayotsarga, symbolizes renunciation, self-control and subjugation of ego as the first steps towards salvation. The digambara (nude) form of Bahubali represents the complete victory over earthly desires and needs that hamper spiritual ascent towards divinity. The entire figure stands on an open lotus signifying the totality attained in installing this unique statue. The statue is simple, stylish and splendid. \nOn either side of Gommata stand two tall and majestic chauri bearers in the service of the Lord. One of them is a yaksha and the other one is a yakshi.\n\nThese richly ornamented and beautifully carved figures complement the main figure. Carved on the rear side of the anthill is also a trough for collecting water and other ritual ingredients used for the sacred bath of the image. Around the statue is an enclosure of a pillared hall where one can find 43 images of Thirthankaras in different cloisters. There is also a figure of a woman called Gullakayajji sculpted with a good built and wearing exquisite ornamentation, typical of the sculptures of the Ganga period.\nThere is also the Brahmadevaru temple atop the hill. Besides these there are the Odegal Basadi, Chowwisa Thirthankara Basadi, Chennana Basadi, Tyagada Brahmadevaru Kambha, Akhanda Bagilu and Gullakayajji.\n\n\n=== Odegal Basti (Trikuta Basti) ===\n\nThe Odegal Basti is so called because of the odegal or stone props used for strengthening against its basement walls. In the literary works the temple is known as the “Trikuta Basti”. It's the only Trikutachala (triple shrine) at Shravanabelagola. This Basti or temple is also known as Trikuta Basti because it has three cells facing different directions. It has a fine granite structure of the Hoysala period with a plain exterior. It consists of three cells and three open sukhanasi with a common navaranga and a mukha mantapa.\nThe navaranga pillars are cylindrical in shape and the central ceiling has a lotus pendant. The main cell contains a fine figure of Adinatha with a well carved prabhavali, flanked by male Chamara bearers; the left cell has a figure of Neminatha and the right a figure of Shantinatha. Adinatha or Vrishabhanatha was the first among the twenty four Jinas. He is also known as Purudeva. He was the father of Gommata. In the three sanctums are beautiful images of Thirthankaras carved in schist. The Temple is datable to the 14th century.\n\n\n==== The legend ====\nAccording to Jain legend, Bahubali was the second of hundred sons of Rishabha, the first Tirthankara and king of Podanpur. When Bahubali's older brother Bharatha challenged Bahubali for his lands and wealth, the two ended up in a personal duel to settle the matter. Being much stronger, Bahubali could easily defeat or even kill his brother, but at the last moment he realized the futility of their fight and the unrighteousness of him fighting his brother for such material matters. Following the transformation of his mind, he renounced his kingdom and all other worldly pleasure, and took to a life of meditation. At first held back by his own ego and anger towards his brother, finally he gained \"Keval Jnana\", of Absolute Knowledge, the highest form of knowledge that a soul can attain. Bahubali thus became an example of the ideal man, who has overcome selfishness, pride,  jealousy, and anger. A chastened Chavundaraya then made it mandatory that Mahamastaka Abhisheka be performed every 12 years for Lord Bahubali.\nIt is conjectured by most people that Gommata was the other name of Chavundaraya, his deity or master (Eswara) was Bahubali. Therefore, Gommateshwara means Gommata's master (Gommata's Eswara).\n\n\n=== Mahamasthakabhisheka ===\nMahamasthakabhisheka, or the head anointing ceremony of the Lord Gommateshwara Bhagawan Bahubali, is performed once every 12 years in Jain dharmic cycle as part of ancient and Indian tradition. Today the ritual Mahamasthakabhisheka of Gommateshwara statue at Shravanabelagola is in memory of the first consecratory bath prathista abhisheka performed to the statue by the Ganga Prime Minister Chavundaraya and his guru Achaiya Sri Nemichandra Siddhantha Chakravarthi, under the inspiration of Chavundaraya's mother Kalala Devi. The last Mahamasthakabhisheka was held in 2018.\nOn the eve of the event, scaffolding is constructed to help the priests and devotees to go to offer worship. Worship is done in accordance to Jain Agama. Hundreds of people and tourists participate in the rituals held over a period of twelve days. The statue of Lord Gommateshwara gets poured by 1008 kalashas (painted earthen pots- coloured in ceremonious style) of water, milk, butter, ghee, curd, sugar, almonds, tender coconut, sugarcane juice, rice flour, turmeric paste, jaggery, banana paste, kashaya (herbal concoction), shrigandha (sandal paste), chandana (coloured sandal paste), ashtagandha (8 varieties of sandal paste), saffron, marigold flowers, and precious stones, culminating in a spectacular shower of flowers from a helicopter. The wealthy devotees offer bids for the kalashas, to obtain them and perform Abhisheka.\nIt has become customary to offer the first opportunity of worship to the ruler of Mysore who is held in great reverence. This ritual is rare and it is done for the peace and prosperity of mankind.\n\n\n=== Chandragiri ===\nShravanabelagola occupies a significant place in the Jain legacy of Karna",
+  "url": "https://en.wikivoyage.org/wiki/Shravanabelagola"
+ },
+ "sights": [
+  {
+   "name": "Akkana Basadi",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 12.858844444444443,
+   "lon": 76.48905833333333
+  },
+  {
+   "name": "Bhandara Basadi",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 12.856694444444445,
+   "lon": 76.48872222222222
+  },
+  {
+   "name": "Channarayapatna Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 12.857,
+   "lon": 76.489
+  },
+  {
+   "name": "Jain Matha, Shravanabelgola",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 12.8566,
+   "lon": 76.4893
+  },
+  {
+   "name": "Shantinatha Basadi, Jinanathapura",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.86136111111111,
+   "lon": 76.48655555555555
+  },
+  {
+   "name": "Chavundaraya Basadi",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.861719444444445,
+   "lon": 76.48677222222223
+  },
+  {
+   "name": "Chandragupta basadi",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.861719444444445,
+   "lon": 76.48677222222223
+  },
+  {
+   "name": "Chandragiri Hill",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.861666666666666,
+   "lon": 76.48777777777778
+  },
+  {
+   "name": "Odegal basadi",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.855,
+   "lon": 76.485
+  },
+  {
+   "name": "Parshvanatha basadi, Shravanabelgola",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.855,
+   "lon": 76.485
+  },
+  {
+   "name": "Vindhyagiri Hill",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.854166666666666,
+   "lon": 76.48527777777778
+  },
+  {
+   "name": "Gommateshwara statue",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.854026,
+   "lon": 76.484677
+  },
+  {
+   "name": "Shravanabelagola Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 19,
+   "lat": 12.85,
+   "lon": 76.48
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

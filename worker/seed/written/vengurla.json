@@ -1,0 +1,92 @@
+{
+ "query": "Vengurla",
+ "region": "maharashtra",
+ "name": "Vengurla",
+ "draft": {
+  "briefing": "Hey, you're in Vengurla! Dutch traders set up a commercial centre at this safe natural port in 1665, and you can still spot their old Dutch Wakhar, or warehouse, in town. Hills of cashew, mango and coconut wrap around it on three sides, with the Arabian Sea on the fourth.",
+  "hungryLine": "This is Konkan coast eating, so go for fresh fish, prawns and pomfret, with a glass of sol curry to cool down.",
+  "moodReplies": {
+   "show-me-around": "Visit Sagareshwar Temple, a Shiva temple built in the sands, and Rameshwar Temple, the town's gramdaivat. Shiroda is 8 km away towards Redi.",
+   "somewhere-to-chill": "Head down to Vengurla's clean, beautiful sea-shore and watch the Arabian Sea stretch all the way to the horizon.",
+   "surprise-me": "Shiroda, just 8 km away, was where the Salt Satyagraha of 1930 took place, and salt is still made there in plenty."
+  },
+  "seeFirst": {
+   "caption": "In and around Vengurla",
+   "spots": [
+    {
+     "name": "Sagareshwar Temple",
+     "detail": "In Vengurla · A Shiva temple built in the sands",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Shiroda",
+     "detail": "8 km away · Site of the 1930 Salt Satyagraha, with a beach close by",
+     "status": {
+      "text": "Sunday is market day",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Redi Ganesh Temple",
+     "detail": "Near Redi, 20 km away · A huge two-handed Ganesha found in the Redi mines",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Redi",
+    "title": "The Ganesha in the mine",
+    "body": "Locals say Ganesha came in a dream to a worker at the Redi mines and asked to be dug out. When the mine was dug, a huge two-handed Ganesha idol was found, with a big mouse beside it."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go to Shiroda on a Sunday.",
+    "body": "Sunday is the special market day at Shiroda, the twin village of Aaravali."
+   },
+   {
+    "icon": "tag",
+    "title": "Drop by Crawford Market.",
+    "body": "The century-old market is one of the British-era buildings still standing in town."
+   }
+  ],
+  "story": [
+   {
+    "era": "1665",
+    "title": "Dutch traders",
+    "body": "Vengurla's safe natural port drew Dutch traders, who set up a commercial centre here in 1665. Their Dutch Wakhar, or warehouse, still stands.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "British era",
+    "title": "A planned town",
+    "body": "The British followed and laid out a planned town with roads, a market, offices, hospitals and parks. St. Luke's Hospital and Crawford Market date from this time.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1930",
+    "title": "Salt Satyagraha",
+    "body": "Just 8 km away at Shiroda, the Salt Satyagraha of 1930 took place. Salt is still produced there in plenty.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "An old municipal town",
+    "body": "Vengurla's municipal council is around 130 years old, one of the oldest in Maharashtra. The town is known for its beaches, temples and green hills.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

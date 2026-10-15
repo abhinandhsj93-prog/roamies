@@ -1,0 +1,91 @@
+{
+ "query": "Palani",
+ "region": "tamilnadu",
+ "name": "Palani",
+ "draft": {
+  "briefing": "Hey, you're in Palani! Up on the hill above town sits the Dhandayuthapani Swamy Temple, one of the Six Abodes of Murugan, and more than 7 million pilgrims climb up to it every year. It's even mentioned as Thiruaavinankudi in Sangam literature.",
+  "hungryLine": "Don't leave without trying Palani's Panchamirtam, a jam-like sweet made from five fruits that locals say you won't find anywhere else.",
+  "moodReplies": {
+   "show-me-around": "The hilltop Murugan temple is about a 24 min walk to the foot of the hill, then 670 steps up. Mariamman Kovil is only about 1 km from the bus stand.",
+   "somewhere-to-chill": "Slip into Periyanayaki Amman Kovil, one of Palani's oldest temples, carved from stone and usually not crowded. Then grab a tender coconut, they're everywhere here.",
+   "surprise-me": "The idol of Murugan in the hilltop temple is believed to have been consecrated by the sage Bogar."
+  },
+  "seeFirst": {
+   "caption": "In and around town",
+   "spots": [
+    {
+     "name": "Dhandayuthapani Swamy Temple",
+     "detail": "24 min walk · 670 steps up, with views over the whole town and farmland",
+     "status": {
+      "text": "Winch and rope car too",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mariamman Kovil",
+     "detail": "About 1 km from the bus stand · A famous temple of the area",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Periyanayaki Amman Kovil",
+     "detail": "In town · One of Palani's oldest temples, carved out of stone",
+     "status": {
+      "text": "Usually quiet",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Palani hill",
+    "title": "The hill that was carried",
+    "body": "The story goes that Idumban carried this hillock from Kailasha on the orders of sage Agastya. Murugan then had it set down right here at Palani."
+   },
+   {
+    "where": "Palani hill",
+    "title": "The fruit of knowledge",
+    "body": "Shiva offered a fruit of knowledge to whichever son circled the world three times first, and Ganesha won by simply walking around his parents. Murugan felt cheated and came to live as a hermit in the Palani hills."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Skip the steps if you need to.",
+    "body": "Besides the 670 steps, a small rope train called the Haulage Winch and a rope car go up to the temple."
+   },
+   {
+    "icon": "tag",
+    "title": "Stay hydrated.",
+    "body": "Fresh juice shops line the area around the temple and bus stand, and tender coconuts are plentiful."
+   }
+  ],
+  "story": [
+   {
+    "era": "Sangam era",
+    "title": "Thiruaavinankudi",
+    "body": "The temple is mentioned as Thiruaavinankudi in the Sangam work Tirumurukarruppadai. It's counted among the Six Abodes of Murugan.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Long ago",
+    "title": "Bogar's idol",
+    "body": "The Murugan idol in the sanctum is believed to have been consecrated by the sage Bogar. The temple has crowned the hillock in the Palani Hills ever since.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A pilgrim town",
+    "body": "Over 7 million pilgrims visit each year, and with about 70,467 people in 2011, Palani is the second largest town in Dindigul district. The temple is run by the state's Hindu Religious and Charitable Endowments Department.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

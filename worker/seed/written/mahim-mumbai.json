@@ -1,0 +1,92 @@
+{
+ "query": "Mahim, Mumbai",
+ "region": "maharashtra",
+ "name": "Mahim",
+ "draft": {
+  "briefing": "Hey, you're in Mahim! It was once one of the Seven Islands of Bombay, and today a Hindu temple, a church, a mosque and a Parsi fire-temple all stand within a few metres of each other here.",
+  "hungryLine": "I don't have a named place to eat in my notes for Mahim, so follow the crowds around the station and the church for a bite.",
+  "moodReplies": {
+   "show-me-around": "St. Michael's Church is a 2 minute walk and Mahim Fort just 3 minutes, and the Dargah Hazrat Qurban Shah is about 8 minutes away.",
+   "somewhere-to-chill": "Stroll over to the Mahim Causeway by St. Michael's and look across towards Bandra, the old island of Salsette.",
+   "surprise-me": "The Mahim Causeway got built because Avabai Jeejeebhoy offered to pay for it after ferry deaths in the 1840 monsoon, when the East India Company wouldn't."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "St. Michael's Church",
+     "detail": "2 min walk · One of Mahim's oldest Catholic churches, locals just call it Mahim Church",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Mahim Fort",
+     "detail": "3 min walk · An old fort from Mahim's island days",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mahim Causeway",
+     "detail": "By St. Michael's · The 1840s link that joined Mahim to Bandra",
+     "status": {
+      "text": "Busy traffic, cross carefully",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Mahim",
+    "title": "Pratap Bimb's capital",
+    "body": "An old Marathi text, the Mahikavatichi Bakhar, says Pratap Bimb set up his capital here and named it after his earlier capital, Mahikavati. Historians doubt the text, but it's the story Mahim has carried for centuries."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Ride the local train.",
+    "body": "Mahim Junction is on both the Western and Harbour lines, and it's the last station of the city before the suburbs begin at Bandra."
+   },
+   {
+    "icon": "tag",
+    "title": "Try the new metro.",
+    "body": "Shitaladevi Mandir station on Aqua Line 3 opened on 10 May 2025 and serves the Wanjawadi side of Mahim."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "An island of its own",
+    "body": "Mahim was one of the Seven Islands of Bombay. Land reclamation later joined them into today's Mumbai City district.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1840s",
+    "title": "A causeway to Salsette",
+    "body": "After ferry deaths in the 1840 monsoon, Jamsetjee Jejeebhoy donated Rs. 155,800 for a causeway to Salsette. It opened to the public in 1845.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1847",
+    "title": "A school for orphan girls",
+    "body": "Scottish missionaries opened the Scottish Female Orphanage here. Today it's the Bombay Scottish School, one of India's top schools.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "City meets suburb",
+    "body": "Mahim is the last town of Mumbai City district, with Bandra just across the Mithi. The metro reached it in 2025.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

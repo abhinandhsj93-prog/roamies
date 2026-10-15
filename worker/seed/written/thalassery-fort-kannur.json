@@ -1,0 +1,138 @@
+{
+ "query": "Thalassery Fort, Kannur",
+ "region": "kerala",
+ "name": "Thalassery Fort",
+ "draft": {
+  "briefing": "Hey, you're at Thalassery Fort! The British East India Company built it in 1708 on a rocky cliff over the Arabian Sea, and underneath are chambers and hidden tunnels that open straight out to the sea. Thalassery itself is where the first Malayalam newspapers, novels and short stories were born.",
+  "hungryLine": "This is biriyani town, so go for a Thalassery dum biriyani, or a fish biriyani if you're feeling bold.",
+  "moodReplies": {
+   "show-me-around": "The fort is a 1 min walk, Odathil Mosque about 6 min, and Thalassery Pier about 8 min. Further out, Gundert Bungalow is where the first Malayalam dictionary was written.",
+   "somewhere-to-chill": "Head to Thalassery Pier, the old Kadalpalam, for the sunset. You can't walk on it any more, but the view from the shore is the thing.",
+   "surprise-me": "India's first cricket club was formed right here in Tellicherry in 1850, later named the Town Cricket Club."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Tellicherry Fort",
+     "detail": "1 min walk · Cliff-top fort with tunnels to the sea and a lighthouse",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Odathil Mosque",
+     "detail": "6 min walk · A mosque built like a Kerala temple, no domes or minarets",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Thalassery Pier",
+     "detail": "8 min walk · A 500 foot pier from 1910, great at sunset",
+     "status": {
+      "text": "No walking on the pier",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thiruvangad Sree Ramaswami Temple",
+    "title": "The temple that survived",
+    "body": "Tipu Sultan's troops damaged part of this temple, known as the Brass Pagoda, in the 18th century. It's believed the temple itself was saved from destruction."
+   },
+   {
+    "where": "Thalassery Stadium",
+    "title": "How cricket came to Kerala",
+    "body": "Wellesley is believed to have brought cricket to Kerala in the 18th century, for British soldiers at the fort. Ranji Trophy matches are still played at the ground by the sea."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch sunset at the pier.",
+    "body": "Thalassery Pier is a favourite local sunset spot, just watch from the shore since entry is blocked."
+   },
+   {
+    "icon": "tag",
+    "title": "Ask before going to Dharmadam Island.",
+    "body": "It's privately owned, so you need permission, though at low tide you can walk across from Muzhappilangad beach."
+   }
+  ],
+  "story": [
+   {
+    "era": "1708",
+    "title": "Fort on the cliff",
+    "body": "The British set up a factory here in 1708 on land from the ruler of Kolathunad. After local chieftains attacked, they built a fort around the hills to protect their spice trade.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Second Anglo-Mysore War",
+    "title": "The siege",
+    "body": "Sirdar Ali of the Mysore army blockaded the British at Thalassery by land and sea for 18 months. Reinforcements from Bombay under Major Abington finally broke the siege.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1839",
+    "title": "Gundert arrives",
+    "body": "German missionary Hermann Gundert settled at his bungalow in 1839 and stayed two decades. He wrote the first Malayalam dictionary, and the first Malayalam newspapers came off his litho press.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1866",
+    "title": "A municipality",
+    "body": "Tellicherry became a municipality on 1 November 1866, the second oldest in the state. It was then the capital of North Malabar.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1910",
+    "title": "The pier",
+    "body": "The East India Company built the pier in 1910 because rocks and shallow water kept wrecking ships. Spices, coffee, fish, wood and pepper moved through it in Thalassery's busy days.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Paris Restaurant",
+    "detail": "On Logans Road · Famous for biriyani, samoosa and banana filling",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Raraavis Restaurant",
+    "detail": "In Narangapuram · Famous for fish biriyani",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Saroma Adhithya Vegetarian",
+    "detail": "Opposite the Fire Station · A vegetarian pick",
+    "status": {
+     "text": "8 AM to 9 PM",
+     "tone": "open"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

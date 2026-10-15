@@ -1,0 +1,54 @@
+{
+ "query": "Erumely, Kottayam",
+ "found": "Erumely, Kanjirappally, Kottayam, Kerala, 686509, India",
+ "lat": 9.4813743,
+ "lon": 76.8448927,
+ "fetchedAt": "2026-10-12T19:12:10.682Z",
+ "locality": {
+  "id": "karinkallummoozhi-kottayam-kerala",
+  "name": "Karinkallummoozhi",
+  "area": "Erumely, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Erumely Sree Dharmasastha Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Erumeli_Petta_Sastha_Temple.jpg/1280px-Erumeli_Petta_Sastha_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Erumely Sree Dharmasastha Temple",
+   "credit": "Photo: Akhilan, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erumeli_Petta_Sastha_Temple.jpg"
+  },
+  "Erumely": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Erumeli_Petta_Sastha_Temple.jpg/1280px-Erumeli_Petta_Sastha_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Erumely",
+   "credit": "Photo: Akhilan, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erumeli_Petta_Sastha_Temple.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Erumely",
+   "text": "Erumely, also spelled Erumeli, is a town and panchayat located in the south-eastern part of Kottayam district in Kerala, India. Erumely is situated 49 km (30 mi) east of Kottayam town and 133 km (83 mi) north of the state capital Thiruvananthapuram. The village is on the banks of the Manimala River.\n\n\n== Demographics ==\nAs of 2011 Indian census, Erumely had a population of 43,437, of whom 21,199 were males and 22,230 were females. The male to female ratio is 1,049 females per 1,000 males, which is lower than the state average of 1,084. The literacy rate for males is 97.53%, while for females, it is 95.71%.\n\n\n== Administration ==\nThe panchayath of Erumely was formed on 15 August 1953. It covers an area of 82.36 km2 with 40% forest cover. It is surrounded by Parathodu, Kanjirappally and Mundakkayam panchayaths in the north, Chittar Panchayath in the east and south, Manimala, and Chirakkadavu Panchayaths in west. The Panchayath is divided into 23 wards for its administrative convenience.\n\n\n=== Wards in Erumely panchayath ===\n\n\n== Climate ==\nThe climate of Erumely is classified under Köppen. The place remains humid throughout the year with an annual temperature of 31 °C. March and April are the hottest...",
+   "url": "https://en.wikipedia.org/wiki/Erumely"
+  },
+  {
+   "title": "Erumely Sree Dharmasastha Temple",
+   "text": "Erumely Sree Dharmasastha Temple is a Hindu temple located in the heart of Erumely town in Kottayam district in the  Indian state of Kerala. The temple is dedicated to Ayyappa or Dharmasastha. It is also an important meeting place of Sabarimala pilgrims.",
+   "url": "https://en.wikipedia.org/wiki/Erumely_Sree_Dharmasastha_Temple"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Erumely Sree Dharmasastha Temple",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 9.48011111111111,
+   "lon": 76.844
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

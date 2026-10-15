@@ -1,0 +1,249 @@
+{
+ "query": "Aluva, Ernakulam",
+ "found": "Aluva, Ernakulam, Kerala, 683101, India",
+ "lat": 10.1077682,
+ "lon": 76.3568532,
+ "fetchedAt": "2026-10-12T17:50:04.204Z",
+ "locality": {
+  "id": "thottakkattukara-ernakulam-kerala",
+  "name": "Thottakkattukara",
+  "area": "Aluva, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Nedumbassery": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Cochin_International_Airport_Limited.jpg/1280px-Cochin_International_Airport_Limited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nedumbassery",
+   "credit": "Photo: Ajaykumarkappukuttan001, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cochin_International_Airport_Limited.jpg"
+  },
+  "Aluva": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Aluva_manappuram_temple_-_panoramio.jpg/1280px-Aluva_manappuram_temple_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aluva",
+   "credit": "Photo: Suresh Babunair, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aluva_manappuram_temple_-_panoramio.jpg"
+  },
+  "Thrikkunnathu Seminary": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/St_Mary%27s_Church_Thrikkunnathu.jpg/1280px-St_Mary%27s_Church_Thrikkunnathu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Thrikkunnathu Seminary",
+   "credit": "Photo: Stalinsunnykvj, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Church_Thrikkunnathu.jpg"
+  },
+  "Aluva railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aluva_Railway_Station.JPG/1280px-Aluva_Railway_Station.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aluva railway station",
+   "credit": "Photo: RanjithSiji, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aluva_Railway_Station.JPG"
+  },
+  "Marthanda Varma Bridge": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Marthandavarma_bridge_aluva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Marthanda Varma Bridge",
+   "credit": "Photo: Challiyan at Malayalam Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marthandavarma_bridge_aluva.jpg"
+  },
+  "Pulinchodu metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pulinchodu_station_02.jpg/1280px-Pulinchodu_station_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Pulinchodu metro station",
+   "credit": "Photo: Forestowlet, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulinchodu_station_02.jpg"
+  },
+  "Aluva metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Aluva_metro_station%2C_Kerala%2C_India.jpg/1280px-Aluva_metro_station%2C_Kerala%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aluva metro station",
+   "credit": "Photo: Ranjithsiji, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aluva_metro_station,_Kerala,_India.jpg"
+  },
+  "Aluva Mahadeva Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Aluva_Manappuram_Siva_Temple_Main.JPG/1280px-Aluva_Manappuram_Siva_Temple_Main.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aluva Mahadeva Temple",
+   "credit": "Photo: Ranjithsiji, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aluva_Manappuram_Siva_Temple_Main.JPG"
+  },
+  "Aluva KSRTC bus station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Aluva_Bus_terminal.jpg/1280px-Aluva_Bus_terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aluva KSRTC bus station",
+   "credit": "Photo: Ronyrajan95, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aluva_Bus_terminal.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Thottakkattukara",
+   "text": "Thottakkattukara is a locality in the Aluva, Kerala, India. It is connected through all types of transportation. It is located on the banks of Aluva Puzha (Periyar River). It is just located near the Manappuram Mahadeva Temple at Manappuram, Aluva.\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Thottakkattukara"
+  },
+  {
+   "title": "Nedumbassery",
+   "text": "Nedumbassery (IPA: [n̪eɖumbɐːʃːeːɾi]) is suburb of the city of Kochi in Kerala, India and home to the Cochin International Airport. In administration, it comes under the Nedumbassery panchayat in the Aluva taluk of Ernakulam district. Situated between Angamaly and Aluva, it is home to Cochin International Airport.",
+   "url": "https://en.wikipedia.org/wiki/Nedumbassery"
+  },
+  {
+   "title": "Aluva",
+   "text": "Aluva (Malayalam pronunciation: [ɐːluʋɐ]), formerly known as Alwaye, is a  major town and municipality in the northern part of the Kochi metropolitan area in the Indian state of Kerala. Situated on the banks of the Periyar River, it serves as an important residential, commercial, and transportation hub in Ernakulam district and is the administrative headquarters of Aluva taluk. Located northeast of central Kochi, Aluva has long been recognized as a gateway between Kochi and central Kerala.\nAluva is noted for its cultural, religious, and historical significance. It is best known for the annual Aluva Sivarathri festival, one of Kerala’s largest religious gatherings, held on the sandbanks of the Periyar River. It is also closely associated with Sree Narayana Guru, who founded the Advaita Ashram in Aluva in 1913, establishing the town as an important centre of social reform and spiritual thought. Historically, Aluva developed as a prominent settlement along the Periyar River and grew into a centre for trade, education, and industry.\nAluva also serves as the administrative centre of the Aluva taluk. In 1956, the taluks of villages—including Mukundapuram, Kanayannur, Kunathunad, and North...",
+   "url": "https://en.wikipedia.org/wiki/Aluva"
+  },
+  {
+   "title": "Thrikkunnathu Seminary",
+   "text": "Thrikkunathu Seminary is a historic seminary under the ownership of Malankara Orthodox Syrian Church in Aluva, Ernakulam.Owing to an ownership dispute between the factions, the Methran Kakshi and the Bava Kashi, the seminary was closed in December 1977. The church is a pilgrimage site for Christians in India. It is the headquarters of Angamaly diocese of Malankara Orthodox Syrian Church.",
+   "url": "https://en.wikipedia.org/wiki/Thrikkunnathu_Seminary"
+  },
+  {
+   "title": "Aluva railway station",
+   "text": "Aluva railway station (station code: AWY) is an NSG–3 category Indian railway station in Thiruvananthapuram railway division of Southern Railway zone. It is a railway station mainly catering to the passengers from the northern part of the city of Kochi in the Indian state of Kerala. The station lies in the Shoranur–Cochin Harbour section of Thiruvananthapuram railway division. It is located right aside Aluva KSRTC bus stand, one of the main bus terminals in the city of Kochi, and a kilometre away from Aluva metro station of the Kochi Metro.\nAluva is an important halting stop for all passenger trains passing through the region except Rajadhani Express and a few super fast trains. It is a convenient station to alight for passengers traveling to Kalamassery, North Paravur, Idukki District, Kodungallur, Perumbavoor, Kakkanad, Kizhakkambalam, Kothamangalam and Muvattupuzha. It also serves passengers to and from Cochin International Airport. It is the third busiest railway station in Kochi, after Ernakulam Junction railway station and Ernakulam Town railway station. The station also handles the highest number of migrant labourers in the state since it is closest to Perumbavoor, a suburban...",
+   "url": "https://en.wikipedia.org/wiki/Aluva_railway_station"
+  },
+  {
+   "title": "Uliyannoor",
+   "text": "Uliyannoor (also known as Uliyannore) is a small village situated near Aluva within the Ernakulam district of Kerala, India. The village lies on the banks of the Periyar river (also known as \"Aluva puzha\"), close to Varapuzha and North Paravur. The villages  Uliyannoor and Kunjinikkara lying between two distributaries of the Periyar river that rejoin in Kayantikkara.",
+   "url": "https://en.wikipedia.org/wiki/Uliyannoor"
+  },
+  {
+   "title": "Edayappuram",
+   "text": "Edayappuram (Malayalam: എടയപ്പുറം) is a small village in Aluva Taluk, Ernakulam district in the Indian state of Keralam. and located at a distance of 3 km from Aluva town and 16 km from Perumbavoor. Due to its proximity to the commercial hubs of Kochi, Rajagiri Hospital (4 km away), and InfoPark Kochi (approx. 10–11 km away), Edayappuram has seen a boom in gated villas and residential plot developments.",
+   "url": "https://en.wikipedia.org/wiki/Edayappuram"
+  },
+  {
+   "title": "Marthanda Varma Bridge",
+   "text": "Marthanda Varma Bridge is a twin-bridge located in the city of Aluva, in the Ernakulam district, Kerala, India. The bridges lie on the NH 544 connecting the banks of the Periyar river. The old bridge opened in June 1940 is the second arch bridge in Asia, which was built in memory of Marthanda Varma, the sculptor of Travancore. A new bridge was built parallel to the old bridge to increase the traffic capabilities to four lanes, which was opened to the public in June 2002. The Marthanda Varma Bridge is regarded as one of the most important landmarks of Aluva and played a major role in its development into an industrial city. It has been featured in many Malayalam films and literary works.",
+   "url": "https://en.wikipedia.org/wiki/Marthanda_Varma_Bridge"
+  },
+  {
+   "title": "Pulinchodu metro station",
+   "text": "Pulinchodu is a station of Kochi Metro. The station is located between Aluva and Companypady.\nIt was inaugurated by the Prime Minister of India Narendra Modi on 17 June and opened for public on 19 June 2017 as a part of the first stretch of the metro system, between Aluva and Palarivattom.",
+   "url": "https://en.wikipedia.org/wiki/Pulinchodu_metro_station"
+  },
+  {
+   "title": "Aluva metro station",
+   "text": "Aluva is an elevated metro station serving as the northern terminal of the Kochi Metro. It is located besides the Aluva flyover near the Aluva market and the banks of the Periyar river. Spread over an area of 1.5 lakh square feet, it is Kochi Metro’s second biggest station after Vadakkekota. It was inaugurated by the Prime Minister of India Narendra Modi on 17 June and opened for public on 19 June 2017 as a part of the first stretch of the metro system, between Aluva and Palarivattom. Aluva Metro station has Periyar river as its theme. Along with images of rivers, the floors of the station are also designed to symbolize the river water resources.",
+   "url": "https://en.wikipedia.org/wiki/Aluva_metro_station"
+  },
+  {
+   "title": "Aluva Mahadeva Temple",
+   "text": "Aluva Mahadeva Temple  is an ancient Hindu temple dedicated to Shiva, and situated on the bank of the Periyar River at Aluva manappuram in suburban Kochi. The presiding deity of the temple is Lord Shiva, located in the main Sanctum Sanctorum, facing east. According to folklore, sage Parashurama had installed the idol. It is the part of the 108 Shiva Temples of Kerala. The temple is mostly known for the Aluva Sivarathri festival.\nThe Shiva linga is not enshrined in a Sreekovil; it rises out of the sand banks of the Periyar river. The land on which the sand banks are located is called the Aluva Manal Puram (Aluva Sand Banks).",
+   "url": "https://en.wikipedia.org/wiki/Aluva_Mahadeva_Temple"
+  },
+  {
+   "title": "Aluva KSRTC bus station",
+   "text": "Aluva KSRTC bus station is a transport hub in the Indian city of Aluva, owned and operated by the Kerala State Road Transport Corporation (KSRTC). An important transport hub in the state, the station is located left aside Aluva railway station, one of the busiest railway stations in the Ernakulam district, and a kilometre away from Aluva metro station of Kochi Metro.",
+   "url": "https://en.wikipedia.org/wiki/Aluva_KSRTC_bus_station"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Aluva",
+  "text": "Aluva (ആലുവ), formerly Alwaye, is the second largest town in Greater Kochi agglomeration and an important commercial town in Kerala. The town is famous for its festivals, large river banks and temples. Many of Kochinites (people of Kochi, as popularly known) do prefer to live in Aluva, while working in Ernakulam, considering quiet cityscape, waterfront facility and presence of large commercial areas.\n\n\n== See ==\n1 Aluva Palace (Kadavu Kottaram), Palace Rd. Once the summer palace of Travancore Royal family, today it's one of the largest archeological palaces in Kerala. Built in English-Travancore style, the palace offers one of the best views of river. The tranquility, offered by large palace gardens and verandas offers a unique romantic mood. A part of the palace is Government Guesthouse. \n Marthanada Varma Bridge (Aluva Palam), NH 47. The Marthanada Varma Bridge is considered as icon of the town. Though nothing special about this bridge, this bridge was the first bridge laid across the mighty Periyar. The design soon became model for several similar bridges in Kerala. \n Mangalassery Papal Seminary.  \n2 Shiva Temple (Manalpuram), Manalpuram Rd. The Shiva temple of Aluva is one of the most famous Shiva temples in south India. Legend says, the idol (Lingam) has risen out of the sand of the river bank, naturally. Thus the idol was located in the river channel, hence used to get submerged under the river most of the year, except during summer season. However for past few years, the volume of the river got reduced drastically, thus one can see the idol throughout the year, except during monsoon season (May-Sept), when volume in the river increases multi-fold. There is no formal temple structure, rather a make-shift structure made out of weaved palm leaves and bamboo sticks. The most celebrated event is the annual Shivarathri festival, when thousands all over Kerala and other parts of India rush to the temple. This season is famous for post funeral rites of Hindu known as Shraddhham or Tarpanam, done in banks of the river. \n Shivarathri Manalpura.  \n Uliyanoor Temple. Uliyanoor Temple is a historical Temple believed to have been built By Perunthachan \n\n\n== Do ==\nGo Karting @ Airport. A short karting circuit is at the city side of Cochin Airport, opposite the airline complex. Regular karting competitions are held on weekends and a few rallies are also organised.\n1 CIAL Golf Course and Country Club (On the way to Cochin Airport and very near it.), ☏ +91-484-2611117. A golf course managed by the Airport themselves. Not very amateur friendly but seasoned players can enjoy the place. A restaurant exists too (updated Jun 2023)\n\n\n== Eat ==\n\n Bambino Cafeteria, Hospital Junction (1 km), ☏ +91 98460 70608. Daily 1–11:30PM.  (updated May 2015)\n Chicking Restaurant, Thikavukochi, ☏ +91 484 322 8412. Daily 9AM–9PM.  (updated May 2015)\n Indian Coffee House, Sub Jail Road, ☏ +91 484 322 3213. Daily 9AM–9PM.  (updated May 2015)\n Kamath's Restaurant, Harihara, ☏ +91 98957 70775. Daily 8AM–9PM.  (updated May 2015)\n New Thalassery Roaster, Market, ☏ +91 484 262 2674. Daily 9AM–6PM.  (updated May 2015)\n Shenoys Restaurant, Kunnathery Thikavu (1 km), ☏ +91 98954 06573. Daily 7AM–8PM.  (updated May 2015)\n Surya Hotel, Pump Junction, Railway Road (1 km), toll-free:  +91 484 262 6390. Daily 9AM–10PM.  (updated May 2015)\n Swamy Vegetarian, Near Railway Station.  (updated Apr 2015)\n Muthalali Dosa Shop (On Aluva Paravur Road). 100 year old restaurant famous for Dosa, Kappa, Pappad, Tea and Onion Chammanthi. Breakfast and dinner is available. The shop remains closed during lunch time. ₹50 per plate. (updated Dec 2016)\n The Grand Restaurant, Grand Junction. Vintage restaurant popular for their crisp parottas. (updated Jan 2021)\n\n\n== Drink ==\nsoftdrinks\nThere are a lot of shops that offer different type of fruit juices and bottled soft drinks. You can find tea shops very easily. They offer snacks like banana fry (pazampori), vada like. Two or three vegetarian restaurants offers offers veg. meals with more than 5 or 6 curries and they serve you good south Indian masala dosa also.\n\n Premier Bar, Periyar Nagar.  (updated May 2015)\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Aluva"
+ },
+ "sights": [
+  {
+   "name": "The Pentecostal Mission",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 10.1053329,
+   "lon": 76.3589275
+  },
+  {
+   "name": "മഹാത്മാ ഗാന്ധി",
+   "kind": "memorial",
+   "walkMinutes": 7,
+   "lat": 10.1107846,
+   "lon": 76.3590614
+  },
+  {
+   "name": "John the Baptist CSI Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 10.1078065,
+   "lon": 76.3609966
+  },
+  {
+   "name": "A.G. Church Aluva",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 10.1040133,
+   "lon": 76.3579562
+  },
+  {
+   "name": "St. Francis Xavier Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 10.1121928,
+   "lon": 76.3583596
+  },
+  {
+   "name": "Masjid Al Ansar",
+   "kind": "place_of_worship",
+   "openingHours": "Mo-Su 04:30-21:00",
+   "walkMinutes": 8,
+   "lat": 10.1075493,
+   "lon": 76.3523101
+  },
+  {
+   "name": "Aluva Town Juma' Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 10.105341,
+   "lon": 76.3528586
+  },
+  {
+   "name": "St. Mary's Orthodox Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 10.103008,
+   "lon": 76.3571722
+  },
+  {
+   "name": "Adwaithasramam",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 10.1126241,
+   "lon": 76.3575018
+  },
+  {
+   "name": "st. Dominic Parish Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 10.1068573,
+   "lon": 76.3518689
+  },
+  {
+   "name": "St. Thomas Marthoma Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 10.1116076,
+   "lon": 76.3601233
+  },
+  {
+   "name": "Thrikkunnathu Seminary",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 10.1029302,
+   "lon": 76.3575967
+  },
+  {
+   "name": "St. Mary's Jacobite Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 10.102149,
+   "lon": 76.3569409
+  },
+  {
+   "name": "Aluva Sree Narayana Advaitha Ashram Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 10.1137087,
+   "lon": 76.3576359
+  },
+  {
+   "name": "Aluva Palace",
+   "kind": "castle",
+   "walkMinutes": 11,
+   "lat": 10.1135198,
+   "lon": 76.3557472
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

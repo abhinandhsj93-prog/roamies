@@ -1,0 +1,71 @@
+{
+ "query": "Jog Falls",
+ "region": "karnataka",
+ "name": "Jog Falls",
+ "draft": {
+  "briefing": "Hey, you're at Jog Falls! The Sharavati River plunges about 253 m here and splits into four cascades named Raja, Rani, Roarer and Rocket, making it the third-highest waterfall in India.",
+  "hungryLine": "I don't have named food spots for Jog, so ask around Jog-Kargal town for a simple meal.",
+  "moodReplies": {
+   "show-me-around": "Christ the King Church is a 2 min walk, and the front panoramic viewpoint in Jog-Kargal gives you the full view of the falls.",
+   "somewhere-to-chill": "Pick a spot at the front panoramic viewpoint and watch the four cascades for a while.",
+   "surprise-me": "Jog is ranked 36th in the list of the world's highest free-falling waterfalls."
+  },
+  "seeFirst": {
+   "caption": "Right here",
+   "spots": [
+    {
+     "name": "Jog Falls",
+     "detail": "Right here · Four cascades dropping about 253 m",
+     "status": {
+      "text": "Stay behind the railings",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Christ the King Church",
+     "detail": "2 min walk · A church here since 1959",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "The rain changes the show.",
+    "body": "Depending on rainfall and season, the segmented falls can turn into one big plunge."
+   },
+   {
+    "icon": "tag",
+    "title": "Try both viewpoints.",
+    "body": "There's the front panoramic viewpoint in Jog-Kargal, and the British Bungalow viewpoint right beside the falls in Siddapur taluk."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Many names",
+    "body": "The falls go by many names, Gerusoppa Falls, Joga Jalapata and Jogada Gundi among them. The Sharavati River drops a total of 253 m here.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1959",
+    "title": "A church by the falls",
+    "body": "Christ the King Church was established at Jog Falls in 1959.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "On the world list",
+    "body": "Jog is the third-highest waterfall in India and ranks 36th among the world's highest free-falling waterfalls on the World Waterfall Database.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

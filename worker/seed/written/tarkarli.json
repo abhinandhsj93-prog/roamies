@@ -1,0 +1,62 @@
+{
+ "query": "Tarkarli",
+ "region": "maharashtra",
+ "name": "Tarkarli",
+ "draft": {
+  "briefing": "Hey, you're in Tarkarli! This village sits right where the Karli River meets the Arabian Sea, and its beach was declared the Queen Beach of the Konkan. It's also home to an International Scuba Diving Training Centre.",
+  "hungryLine": "I don't have a named place to eat in Tarkarli itself, but Malvan is just 8 km north by bus or rickshaw if you want more choice.",
+  "moodReplies": {
+   "show-me-around": "Start with the beach right here, then head to the river mouth where the Karli meets the sea. Malvan town is 8 km north.",
+   "somewhere-to-chill": "Tarkarli Beach is made for it, it's a quiet, remote stretch of the southern Maharashtra coast.",
+   "surprise-me": "Tarkarli has its own International Scuba Diving Training Centre."
+  },
+  "seeFirst": {
+   "caption": "Right here",
+   "spots": [
+    {
+     "name": "Tarkarli",
+     "detail": "Right here · The Queen Beach of the Konkan, at the mouth of the Karli River",
+     "status": {
+      "text": "Remote, plan transport",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Come by Konkan Railway.",
+    "body": "Get off at Sindhudurg, Kudal or Kankavli, then take a bus or rickshaw via Malvan."
+   },
+   {
+    "icon": "tag",
+    "title": "Try a dive course.",
+    "body": "The International Scuba Diving Training Centre is right here in Tarkarli."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Where river meets sea",
+    "body": "Tarkarli grew up as a village in Malvan taluka, at the meeting point of the Karli River and the Arabian Sea.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Later",
+    "title": "Queen Beach",
+    "body": "Tarkarli Beach was declared the Queen Beach of the Konkan region, and it's now a beach destination in its own right.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Diving village",
+    "body": "Tarkarli now has an International Scuba Diving Training Centre. Buses run to nearby Malvan from Goa, Mumbai and Pune every day.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

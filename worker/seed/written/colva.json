@@ -1,0 +1,77 @@
+{
+  "query": "Colva",
+  "region": "goa",
+  "name": "Colva",
+  "draft": {
+    "briefing": "Hey, you're in Colva! Long before the crowds, Goa's elite came here for their mudanca, a change of air, on what was then the Roiz family's private beach. Today the 2.5 km stretch of sand is part of a 25 km coastline running from Bogmalo to Cabo de Rama.",
+    "hungryLine": "Head for the beach shacks near Colva resort, there are lots of them.",
+    "moodReplies": {
+      "show-me-around": "Walk the beach, then head into the village to see Colva Church and the old elite houses, some with ruins over 300 years old.",
+      "somewhere-to-chill": "Find a spot on the sand for sunset, it's what the weekend crowds come for.",
+      "surprise-me": "The crown on the statue of Our Lady at Colva Church carries the initials of the Roiz family, who founded the church in 1630."
+    },
+    "seeFirst": {
+      "caption": "Around Colva",
+      "spots": [
+        {
+          "name": "Colva Beach",
+          "detail": "In Colva · About 2.5 km of sand, best known for its sunsets",
+          "status": {
+            "text": "Busy on weekends",
+            "tone": "warning"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Colva Church",
+          "detail": "In Colva · The Church of Our Lady of Mercy, founded in 1630",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Colva",
+        "title": "A change of air",
+        "body": "Goa's aristocratic families used to come to Colva for their mudanca, a change of air by the sea. They stayed near the private beach of the Roiz family."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Stay for sunset.",
+        "body": "On weekends huge crowds gather on the beach just to watch the sun go down."
+      },
+      {
+        "icon": "sun",
+        "title": "Expect October crowds.",
+        "body": "The beach gets especially busy in October, when pilgrims come to visit Colva Church."
+      }
+    ],
+    "story": [
+      {
+        "era": "1630",
+        "title": "The Roiz church",
+        "body": "The Roiz family founded the Igreja de Nossa Senhora das Merces in 1630. Their initials are still on the crown of Our Lady's statue.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Portuguese era",
+        "title": "A retreat by the sea",
+        "body": "Colva mattered to the Portuguese and to local noble families. Goa's elite came here for a change of air on the Roiz family's private beach.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Today",
+        "title": "Old houses, big sunsets",
+        "body": "The old quarter mixes elite houses, modern villas and ruins more than 300 years old. Visitors from all over come for the beach and the sunsets.",
+        "illustration": "flood"
+      }
+    ],
+    "food": []
+  }
+}

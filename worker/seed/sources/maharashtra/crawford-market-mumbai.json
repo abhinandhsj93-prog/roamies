@@ -1,0 +1,287 @@
+{
+ "query": "Crawford Market, Mumbai",
+ "found": "Crawford Market, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India",
+ "lat": 18.9473499,
+ "lon": 72.8345108,
+ "fetchedAt": "2026-10-12T18:48:00.375Z",
+ "locality": {
+  "id": "masjid-bunder-mumbai-city-district-maharashtra",
+  "name": "Masjid Bunder",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Masjid Bunder": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Mumbai_03-2016_61_Masjid_station.jpg/1280px-Mumbai_03-2016_61_Masjid_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Masjid railway station",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_61_Masjid_station.jpg"
+  },
+  "Masjid railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Mumbai_03-2016_61_Masjid_station.jpg/1280px-Mumbai_03-2016_61_Masjid_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Masjid railway station",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_61_Masjid_station.jpg"
+  },
+  "Crawford Market": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Crawford_Market.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Crawford Market",
+   "credit": "Photo: Unknown, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crawford_Market.png"
+  },
+  "Sir J. J. Institute of Applied Art": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Sir._J.J_Institute_Of_Applied_Art%2C_Mumbai.JPG/1280px-Sir._J.J_Institute_Of_Applied_Art%2C_Mumbai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sir J. J. Institute of Applied Art",
+   "credit": "Photo: Vijaykothare, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir._J.J_Institute_Of_Applied_Art,_Mumbai.JPG"
+  },
+  "Sir J. J. School of Art": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Building_of_Sir_J._J._School_of_Art%2C_Mumbai.jpg/1280px-Building_of_Sir_J._J._School_of_Art%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sir J. J. School of Art",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_of_Sir_J._J._School_of_Art,_Mumbai.jpg"
+  },
+  "Jama Mosque, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mumbai_03-2016_62_Jama_Mosque.jpg/1280px-Mumbai_03-2016_62_Jama_Mosque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jama Mosque, Mumbai",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_62_Jama_Mosque.jpg"
+  },
+  "Haj House (Mumbai)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Haj_House%2C_from_CSMT.jpg/1280px-Haj_House%2C_from_CSMT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Haj House (Mumbai)",
+   "credit": "Photo: Pratishkhedekar, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haj_House,_from_CSMT.jpg"
+  },
+  "Sir J. J. College of Architecture": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Front_entrance_of_Sir_J._J._College_of_Architecture%2C_Mumbai.jpg/1280px-Front_entrance_of_Sir_J._J._College_of_Architecture%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sir J. J. College of Architecture",
+   "credit": "Photo: DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_entrance_of_Sir_J._J._College_of_Architecture,_Mumbai.jpg"
+  },
+  "St. Xavier's High School, Fort": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/St._Xaviers_High_School_Bombay_1908_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "St. Xavier's High School, Fort",
+   "credit": "Photo: Jesuitenorden, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Xaviers_High_School_Bombay_1908_3.jpg"
+  },
+  "Gokuldas Tejpal Hospital": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Gokuldas_Tejpal_Hospital.jpg/1280px-Gokuldas_Tejpal_Hospital.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gokuldas Tejpal Hospital",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gokuldas_Tejpal_Hospital.jpg"
+  },
+  "Mumba Devi Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mumbadevi_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mumba Devi Temple",
+   "credit": "Photo: Magiceye, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbadevi_temple.jpg"
+  },
+  "Bori Bunder railway station": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/W._H._Stanley%27s_Bori_Bunder_station%2C_1854.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Bori Bunder railway station",
+   "credit": "Photo: W. H. Stanley, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:W._H._Stanley%27s_Bori_Bunder_station,_1854.jpg"
+  },
+  "Crawford Market Fountain": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Old_fountain_in_Crawford_Market.jpg/1280px-Old_fountain_in_Crawford_Market.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Crawford Market Fountain",
+   "credit": "Photo: Bernard Gagnon, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_fountain_in_Crawford_Market.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Masjid railway station",
+   "text": "Masjid (station code: MSD) is a railway station in the Masjid Bunder area of South Mumbai on the Central and Harbour lines of the Mumbai Suburban Railway. It is the penultimate stop for all trains on those lines in the \"up\" direction. It was opened on 20 September 1875. The station is named after a Jewish synagogue, \"Shaar Harahamim The Gate of Mercy Synagogue\" which is about 200 mts. away from the railway station. In the local Marathi language, a synagogue is called a mashid (mosque) just like a Muslim mosque.\nThe station has four platforms (two for Harbour Line and two for Main Line). The volume of passengers on this station is very high due to different wholesale markets (i.e., Crawford Market) surrounding the station. These markets, referred to as bazaars, have various wholesale merchants, called stockists.\nStockists from the Iron Market (Lokhand Bazaar), situated on the Eastern side of the railway station and Diamond Traders situated on Western side make trades of millions of Rupees each day in the markets. The southern end towards CSMT leads to Yousuf Mehar Ali Road, Jama Masjid, Kalbadevi, Crawford Market, Mandvi and the surrounding area.\nDue to the docks, Masjid is a prominent...",
+   "url": "https://en.wikipedia.org/wiki/Masjid_railway_station"
+  },
+  {
+   "title": "Crawford Market",
+   "text": "Crawford Market (officially the Mahatma Jyotiba Phule Mandai) is one of South Mumbai's most famous markets. The building was completed in 1869, and donated to the city by Cowasji Jehangir. Originally named after Arthur Crawford, the first Municipal Commissioner of the city, the market was later renamed to honour the Indian social reformer Mahatma Jotirao Phule. The market is situated opposite the Mumbai Police headquarters, just north of Chhatrapati Shivaji Terminus railway station and west of the JJ flyover at a busy intersection. It was the main wholesale market for fruits in Mumbai until March 1996, when the wholesale traders were relocated to Navi Mumbai.\nIn 1882, the building was the first in India to be lit up by electricity.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Crawford_Market"
+  },
+  {
+   "title": "Sir J. J. Institute of Applied Art",
+   "text": "Sir J. J. Institute of Applied Art is an Indian applied art institution based in Mumbai. It is a state government college that was started through its sister school, the Sir J. J. School of Art. The \"Sir J. J.\" in the name stands for Sir Jamsetjee Jeejebhoy, a Parsi philanthropist, whose name is linked to numerous historical institutions of Mumbai, such as the Sir J. J. Hospital. The institute is well known for its legacy on Indian design and advertising, as well as its historic campus.\nIn 1958, Sir J. J. School of Art was divided, with the Departments of Architecture and Applied Art becoming the Sir J. J. College of Architecture and Sir J. J. Institute of Applied Art R\nRespectively.",
+   "url": "https://en.wikipedia.org/wiki/Sir_J._J._Institute_of_Applied_Art"
+  },
+  {
+   "title": "Sir J. J. School of Art",
+   "text": "The Sir Jamsetjee Jeejeebhoy School of Art (Sir J. J. School of Art) is the oldest art institution in Mumbai, India, and is deemed to be a university. The school grants bachelor's (B.F.A) degrees in Painting, ceramic, Metal work, Interior decoration, Textile design and Sculpture as well as master's degrees (M.F.A.) in Portraiture, Creative Painting, Murals, Sculpture, and Printmaking.",
+   "url": "https://en.wikipedia.org/wiki/Sir_J._J._School_of_Art"
+  },
+  {
+   "title": "Jama Mosque, Mumbai",
+   "text": "The Jama Masjid (Marathi: जामा मशीद) is a Sunni Mosque, located in the Kalbadevi, near Crawford Market South Mumbai, Maharashtra, India. The mosque was completed in stages during the 19th century, in the Indo-Islamic architecture.\nThe Muslim community of Mumbai possesses 89 mosques, of which eight are affiliated with the Bohra tradition, two with the Khoja tradition, one with the Mughals, and the remaining with the Sunni tradition.",
+   "url": "https://en.wikipedia.org/wiki/Jama_Mosque,_Mumbai"
+  },
+  {
+   "title": "Haj House (Mumbai)",
+   "text": "Haj House is a 19-storey building in Mumbai. It provides accommodation to the Haj bound Muslim people. It was constructed in 1987. A group named Sahyog Cultural Society gives training and hold orientation program for pilgrims in this house.",
+   "url": "https://en.wikipedia.org/wiki/Haj_House_(Mumbai)"
+  },
+  {
+   "title": "Indian Railways Institute of Civil Engineering",
+   "text": "Indian Railways Institute of Civil Engineering, Pune (IRCEN) is the training institute for the Civil engineers of the Indian Railways. The institute had a modest start in 1959 as the Permanent Way Training School for training entry level Civil engineers. It is now a Centralised Training Institute and trains officers of the IRSE cadre of the Indian Railways.\nLocated in the city of Pune, IRICEN imparts training to up to 100 engineers/ managers at a time. Engineers from railways of the developing countries as well as other government departments/private organisations are also trained. The training programmes are generally residential in nature. Available infrastructure for conducting various training programmes includes a well-stocked technical library, computer centre, material testing laboratory, model room/ museum, hostel, mess and recreational facilities for the trainee officers.\nThe institute also trains railway engineers for other agencies including RITES, IRCON, NTPC, MRVC etc.",
+   "url": "https://en.wikipedia.org/wiki/Indian_Railways_Institute_of_Civil_Engineering"
+  },
+  {
+   "title": "Sir J. J. College of Architecture",
+   "text": "Sir J. J. College of Architecture is an architecture school located in downtown Mumbai (Bombay), affiliated to University of Mumbai in the state of Maharashtra, India. Sharing its premises with Sir J. J. School of Art and Sir J.J. School of Applied Art (now known as Commercial Art), it is now rented from Government of Maharashtra as per the deed of Sir Jamsetjee Jejeebhoy. The college occupies two buildings (commonly known as \"Old Building\" and \"New Building\"), housing the teaching and non teaching departments along with a small workshop area and canteen space. The Old Building is one of the heritage buildings in the campus.\nIn 2008, it was recognised as a participant under the United States Agency for International Development (USAID) ECO (Energy Conservation and Commercialisation) III Project by the Bureau of Energy Efficiency (BEE) — India.\nIt offers two courses namely, Bachelor of Architecture (undergraduate, B.Arch – 5 years) and Master of Architecture (postgraduate, M.Arch – 2 years). The B.Arch course intake of seats for every academic year is approximately 70 students. Every academic year begins in the month of August and ends in the month of April.\nEvery year, the school publishes...",
+   "url": "https://en.wikipedia.org/wiki/Sir_J._J._College_of_Architecture"
+  },
+  {
+   "title": "Bhuleshwar",
+   "text": "Bhuleshwar (Old spelling Bholeśvar) is a neighbourhood in Mumbai. It is situated in South Mumbai and to the north of the Fort area. It is known for being home to over 100 temples  including Mumba Devi Temple of Mumbai, the patron goddess of the city of Mumbai and Swaminarayan Mandir. The area is also known for the Bhuleshwar Market for fruit and vegetable and is surrounded a number of old markets, like the Crawford Market for fruits and vegetables, Mangaldas Market for silk and cloth, Zaveri Bazaar, the famous jewellery and diamond market and Chor Bazaar, a noted market for antiques and furniture.\nIts near by areas are Kalbadevi, Girgaon, Princess Street \nThe guide and historical study book, Alice in Bhuleshwar about the locality was published in 2009.",
+   "url": "https://en.wikipedia.org/wiki/Bhuleshwar"
+  },
+  {
+   "title": "Dava Bazaar",
+   "text": "Dava Bazaar (also spelled Dawa Bazaar and Dava Bazar) is an area in South Mumbai famous for medical and scientific instruments, and lab chemicals. It is located near Lohar Chawl, Crawford Market and opens into Princess Street. Dava in Hindi means medicine.\nThe word Aushadhi Khana has generic usage as pharmaceutical trade markets in various parts of India.",
+   "url": "https://en.wikipedia.org/wiki/Dava_Bazaar"
+  },
+  {
+   "title": "Mandvi, Mumbai",
+   "text": "Mandvi is an area in South Mumbai near Masjid Bunder. It is located near Pydhone. It has a high Muslim population. In the eighteenth and nineteenth centuries it had a small, but thriving Jewish community. The 300-year-old Gate of Mercy Synagogue is located in this Umerkhadi area of South Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Mandvi,_Mumbai"
+  },
+  {
+   "title": "St. Xavier's High School, Fort",
+   "text": "St. Xavier's High School, Fort, is a private Catholic primary and secondary school for boys located in Fort, Mumbai, India. The English medium school was founded in 1869 and is run by the Society of Jesus.",
+   "url": "https://en.wikipedia.org/wiki/St._Xavier%27s_High_School,_Fort"
+  },
+  {
+   "title": "Gokuldas Tejpal Hospital",
+   "text": "Gokuldas Tejpal Hospital is a government of Maharashtra run free hospital in South Mumbai, India. It was built in 1875 thanks to the beneficence of Gokuldas Tejpal, a renowned Hindu businessman and philanthropist of Mumbai.\nRustomjee Jamsetjee Jeejeebhoy offered £15,000 for the construction of a native hospital in 1865 if the government would put in £10,000. A financial crisis however led to Rustomjee being unable to follow it. Arthur Crawford helped obtain the £15,000 from Gokuldas Tejpal and getting the government to build it. The building work began on 10 May 1870 and was completed on 8 April 1874. The original building was designed in early English Gothic style by Colonel Fuller. It used blue basalt facings with arches of Kurla stone, was paved with Minton's tiles and roofing with Taylor's patent tiles. Columns made of Kurla stone with caps of Porebunder stone.\nThe current Gokuldas Tejpal Hospital has its old and new buildings. A new hospital was being built to be privatised but the project ran into problems due to land ownership issues and is currently being contested with the building works being completely shut down.",
+   "url": "https://en.wikipedia.org/wiki/Gokuldas_Tejpal_Hospital"
+  },
+  {
+   "title": "Mumba Devi Temple",
+   "text": "Mumba Devi Temple is a Hindu temple in Mumbai, Maharashtra, India, dedicated to the goddess Mumbā, the local incarnation of the Parvati (Mother goddess). Mumba Devi is the goddess of the city of Mumbai. The name Mumbai is derived from Mumba Devi.\nThe creek and fort are now deteriorated to a point at which they are but derelict reminders of the city's past. The temple, on the other hand, is still active.\nThe goddess Mumba was the patron deity of the Marathi speaking Koli people, the original inhabitants of the Seven Islands of Bombay. She is depicted as a black stone sculpture in the temple. A popular etymology of Mumba is \"Maha Amba,\" or \"Great Mother,\" one of the many  well-known names for the Hindu Mother Goddess (Devi)in India. Located in the Bhuleshwar area in South Mumbai, the temple is in the heart of the steel and clothing markets. It is a sacred pilgrimage spot and place of worship for Hindus and is thus visited daily by hundreds of people. It is not uncommon for visitors to Mumbai to pay their respects at the temple and is one of the popular tourist attractions in Mumbai.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Mumba_Devi_Temple"
+  },
+  {
+   "title": "Bori Bunder railway station",
+   "text": "Bori Bunder \nwas a railway station, situated at Bori Bunder, Bombay, Bombay Presidency, in India. It was from here that first passenger train of the subcontinent ran to Thane in 1853. This station was rebuilt as Victoria Terminus later in 1888.\nThe GIP railway line opened formally in April 1853. The inauguration was done with the maiden run of the first train from Bori Bunder to Thane on the 16th of that month. A trial run of the journey in April was conducted on 18 November 1852, with the officials of the railway company.",
+   "url": "https://en.wikipedia.org/wiki/Bori_Bunder_railway_station"
+  },
+  {
+   "title": "Crawford Market Fountain",
+   "text": "Crawford Market Fountain or Lockwood Kipling Fountain is a listed heritage structure in Crawford Market, Mumbai that was erected in 1874, and was designed by William Emerson, the British architect who also designed the market. The style is a mix of Greek Revival and Neo-Gothic, and the four carvings depicting the Indian river goddesses and native birds were done by John Lockwood Kipling (father of novelist Rudyard Kipling), who was the principal at Sir Jamsetjee Jeejebhoy School of Art.\nOriginally, it was located in a garden courtyard setting and was meant to serve as a social space for merchants. The uncontrolled proliferation of shops around it led to a drastic change in setting, and today \nvegetable and fruit sellers often set up their stalls around it or use the structure to temporarily store their wares.\nIn 1985, the crown of the fountain was damaged when a canopy was being raised over it. The Kipling river goddesses frieze was also painted over by someone with the intention to restore their \"modesty\", as claimed in a note left by the conscientious painter on the fountain. In 2016–17, as part of a larger project, restoration work was carried out on the fountain by a team led by...",
+   "url": "https://en.wikipedia.org/wiki/Crawford_Market_Fountain"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Crawford Market",
+   "kind": "attraction",
+   "walkMinutes": 1,
+   "lat": 18.9473287,
+   "lon": 72.8345502
+  },
+  {
+   "name": "Abdus Salam Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 18.9482065,
+   "lon": 72.8335061
+  },
+  {
+   "name": "Mangaldas Market",
+   "kind": "attraction",
+   "walkMinutes": 4,
+   "lat": 18.9482039,
+   "lon": 72.8324053
+  },
+  {
+   "name": "Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 18.9490514,
+   "lon": 72.8322443
+  },
+  {
+   "name": "St Ignatius Church Mandvi",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 18.9492688,
+   "lon": 72.8371321
+  },
+  {
+   "name": "Shree Mumbadevi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 18.9519817,
+   "lon": 72.8307259
+  },
+  {
+   "name": "Ananthnath Jain Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 18.9530736,
+   "lon": 72.8373694
+  },
+  {
+   "name": "Zakaria Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 18.9532805,
+   "lon": 72.8346364
+  },
+  {
+   "name": "Shri Godiji Parshwanath Jinalay",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 18.9537884,
+   "lon": 72.8312085
+  },
+  {
+   "name": "Khoja Sunnat Jamat Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 18.9545682,
+   "lon": 72.8362586
+  },
+  {
+   "name": "Minara Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 18.9545033,
+   "lon": 72.8332495
+  },
+  {
+   "name": "Bombay Fort Wall Remnant",
+   "kind": "fort",
+   "walkMinutes": 13,
+   "lat": 18.9411898,
+   "lon": 72.8385062
+  },
+  {
+   "name": "Khatri Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 18.954378,
+   "lon": 72.8310272
+  },
+  {
+   "name": "Chhatrapati Shivaji Maharaj Terminus",
+   "kind": "attraction",
+   "walkMinutes": 14,
+   "lat": 18.9398631,
+   "lon": 72.8354028
+  },
+  {
+   "name": "Shaare Rason Synagogue",
+   "kind": "place_of_worship",
+   "walkMinutes": 14,
+   "lat": 18.9547906,
+   "lon": 72.8361509
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

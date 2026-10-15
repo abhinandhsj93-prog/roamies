@@ -1,0 +1,68 @@
+{
+ "query": "Erumely, Kottayam",
+ "region": "kerala",
+ "name": "Erumely",
+ "draft": {
+  "briefing": "Hey, you're in Erumely! This town on the banks of the Manimala River is an important meeting place for Sabarimala pilgrims, and they gather at the Sree Dharmasastha Temple right in the heart of town.",
+  "hungryLine": "I don't have a food list for Erumely, so ask around near the temple for a simple Kerala meal.",
+  "moodReplies": {
+   "show-me-around": "The Erumely Sree Dharmasastha Temple, dedicated to Ayyappa, is just a 3 min walk away.",
+   "somewhere-to-chill": "Head down to the Manimala River, the town sits right on its banks.",
+   "surprise-me": "About 40% of the Erumely panchayat's 82.36 km2 is forest."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Erumely Sree Dharmasastha Temple",
+     "detail": "3 min walk · Ayyappa temple and a meeting place for Sabarimala pilgrims",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go easy in March and April.",
+    "body": "Those are the hottest months here, and Erumely stays humid all year."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly for the temple.",
+    "body": "The Sree Dharmasastha Temple is a working Hindu temple and a pilgrim stop, so cover up and keep it respectful."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A river town",
+    "body": "Erumely grew up on the banks of the Manimala River, about 49 km east of Kottayam town.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1953",
+    "title": "A panchayat is born",
+    "body": "The Erumely panchayat was formed on 15 August 1953. Today it covers 82.36 km2 and is split into 23 wards.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2011",
+    "title": "Counting heads",
+    "body": "The 2011 census counted 43,437 people in Erumely, with literacy above 95% for both men and women.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrim crossroads",
+    "body": "The Sree Dharmasastha Temple in the town centre remains an important meeting place for pilgrims heading to Sabarimala.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

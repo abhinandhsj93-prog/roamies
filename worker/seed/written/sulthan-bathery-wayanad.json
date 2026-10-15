@@ -1,0 +1,83 @@
+{
+ "query": "Sulthan Bathery, Wayanad",
+ "region": "kerala",
+ "name": "Sulthan Bathery",
+ "draft": {
+  "briefing": "Hey, you're in Sulthan Bathery! The name comes from Tipu Sultan's army, which used a 13th-century Ganapathi Temple here to store ammunition. British records turned \"Sultan's Battery\" into Sultan Bathery.",
+  "hungryLine": "Bathery is the busiest commercial town in Wayanad, so you won't go hungry. Wander the town centre and eat where the locals queue.",
+  "moodReplies": {
+   "show-me-around": "Start at the old Ganapathi Temple, the one Tipu's army used as its battery, then walk the busy town centre.",
+   "somewhere-to-chill": "Slow down with a tea in town and watch Wayanad's busiest market go by.",
+   "surprise-me": "Before it was Tipu's battery, this was Kidanganad village, named after the Kidangan tribe who lived here."
+  },
+  "seeFirst": {
+   "caption": "In and around town",
+   "spots": [
+    {
+     "name": "Ganapathi Temple",
+     "detail": "In town · 13th-century temple that became Tipu's battery",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Sultan Bathery",
+     "detail": "Town centre · Wayanad's busiest market town",
+     "status": {
+      "text": "Busy by day",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Carry a rain layer.",
+    "body": "Kerala gets rain for at least seven to eight months a year."
+   },
+   {
+    "icon": "tag",
+    "title": "Onam is in Aug or Sep.",
+    "body": "Kerala's biggest festival falls in the Malayalam month of Chingam, and shops run big discounts."
+   }
+  ],
+  "story": [
+   {
+    "era": "930 AD",
+    "title": "The land of swamps",
+    "body": "Emperor Erayappa of the Ganga dynasty conquered this region and called it Bayalnad, the land of swamps.",
+    "illustration": "flood"
+   },
+   {
+    "era": "After Erayappa",
+    "title": "Brothers at war",
+    "body": "Erayappa's sons Rachamalla and Battunga fought over the kingdom. Rachamalla was killed and Battunga ruled Bayalnad.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1200s",
+    "title": "A temple is built",
+    "body": "A Ganapathi Temple was built in what was then Kidanganad village, named after the Kidangan tribe.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Tipu's invasion",
+    "title": "Sultan's Battery",
+    "body": "When Tipu Sultan of Mysore invaded Malabar, his army used the old temple to store ammunition. British records later wrote the name as Sultan Bathery.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Wayanad's market town",
+    "body": "Sulthan Bathery is the taluk headquarters and the most commercially active town in Wayanad district.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

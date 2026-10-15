@@ -1,0 +1,97 @@
+{
+ "query": "Changanassery, Kottayam",
+ "region": "kerala",
+ "name": "Changanassery",
+ "draft": {
+  "briefing": "Hey, you're in Changanassery! Out on the Vazhoor road there's a church that's the only one in Asia with St Maurus as its patron saint, and his relics were brought all the way from Italy.",
+  "hungryLine": "This is Central Travancore, a meat lover's region of spicy chicken, beef, mutton and pork dishes shaped by Nasrani Christian cooking.",
+  "moodReplies": {
+   "show-me-around": "Drive out along the Changanacherry-Vazhoor Road through Mammood to Karukachal and the church at Koothrapally.",
+   "somewhere-to-chill": "The villages around here, like Perumpanachy and Mammood, are all rubber, paddy fields, coconut trees and pepper.",
+   "surprise-me": "Karukachal gets its name from karuka grass, which grew in plenty, and chal, a small stream of flowing water."
+  },
+  "seeFirst": {
+   "caption": "Short drives from town",
+   "spots": [
+    {
+     "name": "St. Mary's Syro Malabar Catholic Church, Koothrapally",
+     "detail": "Short drive · Founded in 1876, home of the St Maurus statue",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Karukachal",
+     "detail": "14 km away · A fast-growing town on the Vazhoor road",
+     "status": {
+      "text": "Good stop on the way",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Perumpanachy",
+     "detail": "6 km away · Green village of rubber, paddy and pepper",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Koothrapally church",
+    "title": "The monk who saved a friend",
+    "body": "St Maurus, the first disciple of St Benedict, is famous for rescuing his fellow monk St Placidus from drowning. Devotees here call him Vishuda Maurus Muthapan."
+   },
+   {
+    "where": "Karukachal",
+    "title": "Named for grass and water",
+    "body": "Karukachal was named after the karuka grass that grew here in plenty and a small flowing stream. The name has stuck as the town grew."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch Muthappan Perunnal.",
+    "body": "The feast of St Maurus at Koothrapally falls in the week of the Epiphany season, with Pindikuthi Perunnal as part of it."
+   },
+   {
+    "icon": "tag",
+    "title": "Brace for spice.",
+    "body": "Central Travancore sits in the spice belt, so most dishes are extremely spicy."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Karuka grass by the stream",
+    "body": "Karukachal took its name from the grass that grew in plenty and a small body of flowing water.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1876",
+    "title": "Veliyachan's church",
+    "body": "Palakunnel Mathai Mariam Kathanar, known as Palakunnel Veliyachan, founded the church at Koothrapally. He is remembered for his struggles for the Dalit community in the 19th century.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Later",
+    "title": "Relics from Italy",
+    "body": "Veliyachan brought relics of St Maurus from Italy and installed his statue in the chapel. It is the only church in Asia with St Maurus as patron.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "Rubber and paddy country",
+    "body": "The villages around Changanassery are green with rubber plantations, paddy fields, coconut and pepper. The Changanacherry-Vazhoor Road, almost a century old, still links them.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": []
+ }
+}

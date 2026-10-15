@@ -1,0 +1,98 @@
+{
+ "query": "Girgaon Chowpatty, Mumbai",
+ "region": "maharashtra",
+ "name": "Girgaon Chowpatty",
+ "draft": {
+  "briefing": "Hey, you're at Girgaon Chowpatty! This public beach sits on a stretch of Marine Drive, and the new Chhatrapati Sambhaji Maharaj Coastal Road starts right nearby.",
+  "hungryLine": "My notes don't name a place to eat here, but Chira Bazaar nearby is known for its fish market.",
+  "moodReplies": {
+   "show-me-around": "Swami Samartha Math is 3 minutes away, St Francis Xavier Church is about 6 minutes on foot, and the Taraporewala Aquarium is out on Marine Drive.",
+   "somewhere-to-chill": "Wander into Khotachiwadi, a heritage village in Girgaon with old Portuguese-style houses.",
+   "surprise-me": "Old Bombay once got all its drinking water from tanks like CP Tank, built in 1776, and today all that's left of it is a plaque opposite Metro Cinema."
+  },
+  "seeFirst": {
+   "caption": "Around Girgaon",
+   "spots": [
+    {
+     "name": "Taraporewala Aquarium",
+     "detail": "On Marine Drive · India's oldest aquarium, with a 180-degree glass tunnel",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Khotachiwadi",
+     "detail": "In Girgaon · A heritage village of old Portuguese-style houses",
+     "status": {
+      "text": "Residents live here, be respectful",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Ambroli Church",
+     "detail": "In Girgaum · Started in 1831 by missionary John Wilson",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Fanas Wadi",
+    "title": "The jackfruit lane",
+    "body": "Fanas is Marathi for jackfruit, and the neighbourhood's name probably points to a time when jackfruit trees grew all over here. Locals call its Venkateshwara temple the Balaji mandir."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Mind the evening peak.",
+    "body": "Southbound fast locals skip Charni Road station between 17:00 and 20:00, so take a slow train then."
+   },
+   {
+    "icon": "tag",
+    "title": "Find the CP Tank plaque.",
+    "body": "Look for it on a wall opposite Metro Cinema, the last trace of an old city water tank."
+   }
+  ],
+  "story": [
+   {
+    "era": "1776",
+    "title": "A tank for water",
+    "body": "Cowasji Rustamjee Patel built CP Tank, one of the tanks that supplied Bombay's drinking water.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1831",
+    "title": "Ambroli Church",
+    "body": "Scottish missionary John Wilson started a church in his home, Ambroli House, with services in Hindustani, Marathi and English. It led to Wilson College.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1843",
+    "title": "St. Teresa's opens",
+    "body": "St. Teresa's High School was founded at Charni Road, and its present building went up in 1924.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1927",
+    "title": "Balaji of Fanas Wadi",
+    "body": "The temple to Sri Venkateshwara at Fanas Wadi was consecrated on 10 June 1927.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Beach and coastal road",
+    "body": "Girgaon Chowpatty and Marine Drive still draw crowds, and the coastal road now starts near the beach.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

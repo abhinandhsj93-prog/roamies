@@ -1,0 +1,275 @@
+{
+ "query": "Cubbon Park, Bengaluru",
+ "found": "Cubbon Park, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+ "lat": 12.9742535,
+ "lon": 77.5921906,
+ "fetchedAt": "2026-10-12T18:24:48.642Z",
+ "locality": {
+  "id": "sampangirama-nagar-bengaluru-urban-karnataka",
+  "name": "Sampangirama Nagar",
+  "area": "Bengaluru, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Visvesvaraya Industrial and Technological Museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Visvesvaraya_Industrial_and_Technological_Museum%2C_Bangalore_%282025%29_02.jpg/1280px-Visvesvaraya_Industrial_and_Technological_Museum%2C_Bangalore_%282025%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Visvesvaraya Industrial and Technological Museum",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Visvesvaraya_Industrial_and_Technological_Museum,_Bangalore_(2025)_02.jpg"
+  },
+  "Cubbon Park": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Cubbon_Park_W.jpg/1280px-Cubbon_Park_W.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Cubbon Park",
+   "credit": "Photo: Augustus Binu/ facebook, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cubbon_Park_W.jpg"
+  },
+  "Gas Turbine Research Establishment": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kaveri_aero_india.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Gas Turbine Research Establishment",
+   "credit": "Photo: Mmlabeeb at Malayalam Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaveri_aero_india.jpg"
+  },
+  "UB City": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/UBtowers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "UB City",
+   "credit": "Photo: No machine-readable author provided. Kailash Naik assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:UBtowers.jpg"
+  },
+  "Siege of Bangalore": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_Death_of_Colonel_Moorehouse_at_the_Storming_of_the_Pettah_Gate_of_Bangalore_7_March_1791.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Siege of Bangalore",
+   "credit": "Photo: Robert Home, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Death_of_Colonel_Moorehouse_at_the_Storming_of_the_Pettah_Gate_of_Bangalore_7_March_1791.jpg"
+  },
+  "Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg/1280px-View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bengaluru",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Visvesvaraya_Industrial_and_Technological_Museum_(2025)_02.jpg"
+  },
+  "Kasturba Road": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Minister_for_Excise%2C_BWSSB_and_Information%2C_Govt._of_Karnataka%2C_Shri_Katta_Subramanya_Naidu_inaugurating_the_Photo_exhibition_of_the_award_winning_and_selected_photographs_of_%E2%80%98Spirit_of_Independent_India%E2%80%99_from_20th.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kasturba Road",
+   "credit": "Photo: Ministry of Information and Broadcasting, GODL-India, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Minister_for_Excise,_BWSSB_and_Information,_Govt._of_Karnataka,_Shri_Katta_Subramanya_Naidu_inaugurating_the_Photo_exhibition_of_the_award_winning_and_selected_photographs_of_%E2%80%98Spirit_of_Independent_India%E2%80%99_from_20th.jpg"
+  },
+  "Venkatappa Art Gallery": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Venkatappa_Art_Gallery%2C_Bengaluru_%282026%29_05.jpg/1280px-Venkatappa_Art_Gallery%2C_Bengaluru_%282026%29_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Venkatappa Art Gallery",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venkatappa_Art_Gallery,_Bengaluru_(2026)_05.jpg"
+  },
+  "Museum of Art & Photography": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Museum_of_Art_and_Photography%2C_Bangalore_%282025%29_109.jpg/1280px-Museum_of_Art_and_Photography%2C_Bangalore_%282025%29_109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Museum of Art & Photography",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_Art_and_Photography,_Bangalore_(2025)_109.jpg"
+  },
+  "Agara inscriptions and hero stones": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Agara_Lake_%2825279546271%29.jpg/1280px-Agara_Lake_%2825279546271%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Agara inscriptions and hero stones",
+   "credit": "Photo: Ashwin Kumar from Bangalore, India, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agara_Lake_(25279546271).jpg"
+  },
+  "Katigenahalli inscription and hero stone": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Digital_Image_of_the_Katigenahalli_1348CE_Donation_Inscription.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Katigenahalli inscription and hero stone",
+   "credit": "Photo: Mythic Society Inscriptions 3D Scanning Project, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Digital_Image_of_the_Katigenahalli_1348CE_Donation_Inscription.png"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "text": "The Visvesvaraya Industrial and Technological Museum (VITM), Bangalore, India, a constituent unit of the National Council of Science Museums (NCSM), Ministry of Culture, Government of India, was established in memory of Sir M. Visvesvaraya. The 4,000 m2 (43,000 sq ft) building was constructed in Cubbon Park, and was inaugurated by the first Prime Minister of India, Pandit Jawaharlal Nehru, on July 14, 1962. The museum displays industrial products, scientific models and engines.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Visvesvaraya_Industrial_and_Technological_Museum"
+  },
+  {
+   "title": "Karnataka High Court",
+   "text": "The High Court of Karnataka (IAST: Karnāṭaka Ućća Nyāyālaya, commonly referred to as the Karnataka High Court and formerly known as the Mysore High Court, is the highest judicial authority of the Indian state of Karnataka. The court's principal bench is located in Bengaluru, the capital city of Karnataka, with additional benches in Hubballi-Dharwad and Kalaburagi. In Bengaluru, the High Court operates from a red-painted brick building known as the Attara Kacheri, located opposite the Vidhana Soudha, the seat of the Karnataka Legislature.",
+   "url": "https://en.wikipedia.org/wiki/Karnataka_High_Court"
+  },
+  {
+   "title": "Cubbon Park",
+   "text": "Sri Chamarajendra Park, formerly known as Cubbon Park is a landmark park in Bengaluru, located in the heart of the city in the Central Business District. Originally created in 1870 under Major General Richard Sankey, then British Chief Engineer of Mysore State, it covered an area of 100 acres (0.40 km2). Subsequent expansion has since taken place and the park's area is now reported to be 300 acres (1.2 km2). It has a rich recorded history of abundant flora and fauna plantations coupled with numerous impressive and aesthetically located buildings and statues of famous personages, in its precincts.\nThis public park was first named as Meade's Park after Sir John Meade, the acting commissioner of Mysuru in 1870 and subsequently renamed as Cubbon Park after the longest-serving commissioner of the time, Sir Mark Cubbon, when Meade left for a new assignment in Baroda in 1873. To commemorate the Silver Jubilee of Sri Krishnaraja Wodeyar's rule in Mysore State, in 1927, the park was again renamed as Sri. Chamarajendra Park, in memory of the 19th-century ruler of the state Sri Chamarajendra Wodeyar (1868–94), during whose rule the park came into existence.\nThe landscaping in the park creatively...",
+   "url": "https://en.wikipedia.org/wiki/Cubbon_Park"
+  },
+  {
+   "title": "Gas Turbine Research Establishment",
+   "text": "Gas Turbine Research Establishment (GTRE) is a laboratory of the Defence Research and Development Organisation (DRDO). Located in Bengaluru, its primary function is research and development of aero gas-turbines for military aircraft. As a spin-off effect, GTRE has also been developing marine gas-turbines  for the Indian Navy.\nIt was initially known as GTRC (Gas Turbine Research Centre), created in 1959 in No.4 BRD Air Force Station, Kanpur, Uttar Pradesh. In November 1961 it was brought under the DRDO, renamed to GTRE and moved to Bengaluru, Karnataka. The GTRE has consistently faced public criticism for failing to develop an indigenous jet engine for Indian fighter aircraft even after significant cost overruns and delays. \nAs of 2025, reports suggest that it has concluded work on the Kaveri Derivative Engine (KDE), and is awaiting dry thrust certification for an indigenous jet engine for the Ghatak UCAV.",
+   "url": "https://en.wikipedia.org/wiki/Gas_Turbine_Research_Establishment"
+  },
+  {
+   "title": "UB City",
+   "text": "UB City is a mixed-use high-rise complex in Bengaluru, India. It is a complex of 6 buildings with a total built up area of over 1.6 million sq ft. Established by the UB Group in a joint venture with Prestige Group, it is built on 13 acres (53,000 m2) of land and hosts 1,000,000 sq ft (93,000 m2) of high-end commercial, retail and service apartment space.\n\n",
+   "url": "https://en.wikipedia.org/wiki/UB_City"
+  },
+  {
+   "title": "Adagodi",
+   "text": "Adagodi is a village in Shimoga district, Karnataka, India. It is located in the Hosanagara taluk.",
+   "url": "https://en.wikipedia.org/wiki/Adagodi"
+  },
+  {
+   "title": "Siege of Bangalore",
+   "text": "The Siege of Bangalore was a siege of the town and fortifications of Bangalore during the Third Anglo-Mysore War by forces of the British East India Company, led by Charles, Earl Cornwallis against a Mysorean garrison, while Tipu Sultan, Mysore's ruler, harried the camps and positions of the besiegers.  Arriving before the town on 5 February 1791, Cornwallis captured the town by assault on 7 February, and after six weeks of siege, stormed the fortress on 21 March.",
+   "url": "https://en.wikipedia.org/wiki/Siege_of_Bangalore"
+  },
+  {
+   "title": "Karnataka Public Works Department",
+   "text": "Karnataka Public Works Department (also known as Karnataka Public Works, Ports and Inland Water Transport Department or KPWD) is a government ministry Government of Karnataka agency in charge of the public works in the state of Karnataka, India. It is entrusted with the responsibility of construction and maintenance of buildings for most of the Karnataka government departments and Public undertakings and maintenance of road works including the National Highways, State Highways and Major District roads.",
+   "url": "https://en.wikipedia.org/wiki/Karnataka_Public_Works_Department"
+  },
+  {
+   "title": "Bengaluru",
+   "text": "Bengaluru, also known as Bangalore (its official name until 1 November 2014), is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in South India. The Bengaluru metropolitan area had a population of around 8.5 million, making it the fifth most populous urban agglomeration in the country. It is located towards the southern end of the Deccan Plateau, at an altitude of 900 m (3,000 ft) above sea level. The city is known as India's \"Garden City\", due to its parks and greenery.\nArchaeological artefacts indicate that the human settlement in the region happened as early as 4000 BCE. The first mention of the name \"Bengaluru\" is from an old Kannada stone inscription from 890 CE found at the Nageshwara Temple in Begur. The region was ruled by the Western Ganga dynasty since 350 CE, and became part of the Chola Empire in the early eleventh century CE. In the late Middle Ages, it formed a part of the Hoysala kingdom and then the Vijayanagara Empire. In 1537 CE, Kempe Gowda I, a feudal ruler under the Vijayanagara Empire, established a mud...",
+   "url": "https://en.wikipedia.org/wiki/Bengaluru"
+  },
+  {
+   "title": "St. Paul's Church, Bengaluru",
+   "text": "St. Paul's Church is located in the corner of Old Poor House Road, and Bowring Hospital Road, next to the Bowring and Lady Curzon Hospital, Bangalore Cantonment, India. St. Paul's has the distinction of being the very first Tamil Anglican Church in the erstwhile Mysore State. St. Paul's celebrated its 175th anniversary in May 2014. Like most old churches of Bangalore, the congregation of St. Paul's is spread all across Bangalore.\n\n",
+   "url": "https://en.wikipedia.org/wiki/St._Paul%27s_Church,_Bengaluru"
+  },
+  {
+   "title": "Kasturba Road",
+   "text": "Kasturba Road, formerly Sidney Road is a street in Bangalore, the capital of Karnataka, India, which is connected to M G Road to the north and J C Road to the south. Some important landmarks situated along Kasturba Road are Sree Kanteerava Stadium, Kanteerava Indoor Stadium, Cubbon Park, Government Museum, Venkatappa Art Gallery, Visvesvaraya Industrial and Technological Museum and UB City. A 600-year-old Ganesha temple is also situated on Kasturba Road.\nIt was earlier known as Sydney Road.\nOther important landmarks close to the road are Karnataka High Court, Vidhana Soudha and Chinnaswamy Stadium.",
+   "url": "https://en.wikipedia.org/wiki/Kasturba_Road"
+  },
+  {
+   "title": "Venkatappa Art Gallery",
+   "text": "Venkatappa Art Gallery (VAG) is situated in Bangalore, India, in the vicinity of Cubbon Park and next to the Bangalore Museum as well as the  Visvesvaraya Industrial and Technological Museum. This art gallery showcases the artworks of artist K. Venkatappa. It attracts artists and art lovers from all over Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Venkatappa_Art_Gallery"
+  },
+  {
+   "title": "Museum of Art & Photography",
+   "text": "The Museum of Art and Photography (MAP) is a private Indian art museum based in Bangalore with a collection of Indian art, textiles, photography, craft, and design objects spanning from the twelfth century to the present.\nLaunched as a digital Museum in 2020, the museum opened its doors to the public on 18 February 2023 displaying the private collection donated by Abhishek Poddar, its founder.",
+   "url": "https://en.wikipedia.org/wiki/Museum_of_Art_%26_Photography"
+  },
+  {
+   "title": "Agara inscriptions and hero stones",
+   "text": "The Agara inscriptions and hero stones are three passages of Kannada text inscribed on memorial stones found in or around Agara, a Panchayat-village located on the Outer Ring Road near Koramangala and HSR Layout in Bengaluru, India. More generally, hero stones are memorial stones commemorating the honourable death of a hero in battle, and are located all over India.  \nThe Agara inscriptions date from the 9th to the 16th century CE and record donations made during the reigns of the Western Ganga dynasty and Karnataka (Vijayanagara) empire. One of them, the 9th-century Sriyamayya inscription, refers to the fixing of sluices for a tank, and although the inscription does not explicitly name the Agara Tank its documented location supports the conclusion that it does refer to the Agara Tank. As the inscription is approximately 1150–1200 years old, this makes it one of the earliest documented references to a tank in Bengaluru.\nAll three inscriptions and hero stones from the Agara area have been documented and published, and two are recorded in scholarly sources. However, the physical condition of two of them is unknown.",
+   "url": "https://en.wikipedia.org/wiki/Agara_inscriptions_and_hero_stones"
+  },
+  {
+   "title": "Katigenahalli inscription and hero stone",
+   "text": "The Katigenahalli inscription and hero stone is a passage of Kannada text inscribed on a standing stone discovered in Kattigenahalli, a locality in northern Bengaluru, India, near Yelahanka. The stone has been dated to the 14th century CE and the inscription on it is the first documentation of the name Kattigenahalli. More generally, hero stones are memorial stones commemorating the honourable death of a hero in battle, and are located all over India. \nDue to the deteriorating condition of the inscription, reported to government officials in 2017, the stone was moved to the Government Museum, Bengaluru.",
+   "url": "https://en.wikipedia.org/wiki/Katigenahalli_inscription_and_hero_stone"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bengaluru",
+  "text": "Bengaluru (Kannada: ಬೆಂಗಳೂರು Bengaḷūru), formerly Bangalore, is the largest city in southern India and the capital of the state of Karnataka. A cosmopolitan city, Bengaluru was developed around what was once a mud fort of a feudal lord. The city has a population of nearly 13 million (2025), making it India's fourth-largest city.\nKnown worldwide as the \"Silicon Valley of India\", Bengaluru is at the core of India's information technology (IT) industry. In addition, the city is nicknamed the \"Garden City\" for its large array of parks and greenery.\n\n\n== See ==\nIndividual listings can be found in Bengaluru's district articles\n\nThere are city tours that can show you the city efficiently if you are short on time. Typically, tours do not include entry fees into the attractions. Bengaluru, like the rest of India, has a habit of charging foreigners a lot more than locals for attractions. For example, Tipu Sultan's Summer Palace, which is on the half-day tour, charges ₹15 for Indians/SAARC and ₹200 for non-Indians.\n\n\n== Do ==\nIndividual listings can be found in Bengaluru's district articles\n\n\n=== Outdoor activities ===\nBengaluru is bestowed with rock climbers, aqua sportsmen and aero sportsmen. There are several clubs, including Nature Admire, Care, Spark, KMA, Capture, Mars, Angel, Wildcraft and Adventure Works.\nCamping facilities are available at Savandurga, Gunjoor Lake, Bhimeshwari, Rangaswamy betta.\nThe Art of Bicycle Trips organises bicycle tours in and around the city, which combine cycling with art and heritage.\nThe Koramangala Club in Koramangala, and the Swimming club at the National Games Village (NGV), have facilities such as swimming pools and tennis courts.\nBalahalli Reserved Forest is a  UNESCO World Heritage Site\nCricket\nBengaluru is also popular for playing cricket. Bengaluru also has the M Chinaswamy Stadium and is home to the Royal Challengers Bengaluru in the Indian Premier League and Women's Premier League. Chinaswamy Stadium also hosts international matches against teams. Chinaswamy Stadium is also known for its energetic crowd in cheering the Royal Challengers Bengaluru former captain Virat Kohli and the rest of the team, especially when they win. Book tickets early especially for IPL matches because when Royal Challengers Bengaluru is playing, the tickets get sold out within seconds. If you arrive in January or February, book tickets for the Women's Premier League as it takes place in those months and is often less crowded than the IPL matches. Always carry a water bottle while travelling to Chinaswamy Stadium. \n\n\n=== Movies ===\nTake in a movie at one of the innumerable theaters around the city. Some multiplexes:\n\n Cinemax (Bengaluru Central, Bellandur).   \n Cinepolis, Royal Meenakshi Mall, Bannerghatta Rd; ETA Mall, Binny Pete; Forum Shantiniketan, Whitefield.  \n Gopalan Cinemas, Arch Mall, Mysore Rd,. Gopalan Mall, Mysore Road; Gopalan Mall, Near Jayadeva Hospital, Bannerghatta Road ; Gopalan Mal;, Old Madras Road, Near Baiyappanhalli Metro Station \n Inox theatre, Bengaluru Central, JP Nagar, Fame Cinemas, MG Road, Forum Value Mall, Whitefield, Garuda Mall, Magrath Road, Lido Mall, Ulsoor, Mantri Square, Malleshwaram, Garuda Swagath Mall, Jayanagar.   \n PVR Cinemas, Nexus Mall, Koramangala, Orion Mall, Malleshwaram, The Phoenix Market City Mall, Whitefield; Vega Mall, JD Mara signal.   \n Bangalore Film Society. A club membership (around ₹500/year) is typically required for entrance. Foreign film series and cultural events. \n\n\n=== Spas ===\nSpas and massages are very much a part of Bengaluru's east-meets-west culture, new ones spring up across the city all the time. Beware that many of the \"massage\" classifieds in local newspapers may be fronts for prostitution. Prostitution is illegal and if caught in a raid, you may end up spending a night in the cooler before being eligible for bail. Most legitimate spas and massage parlours have detailed websites and are run professionally.\n\n\n== Eat ==\nIndividual listings can be found in Bengaluru's district articles\nBengaluru has a wide variety of food options. Foreigners will want to look for cleanliness in choosing a place to eat. Also don't expect the exterior to be too fancy, observe the cleanliness of the inside and the servers when choosing a place to eat! Eating options include high end restaurants to chains to temples to mom and pop shops and of course street vendors! Restaurants usually label if they serve only vegetarian (veg or pure veg) or both veg and non-veg cuisine. If you haven't been in India long, it is safer to take bottled water. But juices and other drinks are usually OK.\nThere are also hundreds of young coconut and sugarcane juice stands! A nice refresher as you go around town! Both are good for keeping cool and energized. A coconut goes for ₹25-30 (some stands may have smaller coconuts for ₹10-15). Sugar cane juice runs ₹10-15 per cup.\nBengaluru is far from the sea, and as such the quality of seafood can vary. Some of the higher end and popular seafood places manage this well, but foreign travellers may want to tread a bit carefully.\nForeigners might want to only drink bottled water and eat only chutneys that are made with bottled or filtered water. Also, beef is forbidden to be on the menu in Karnataka restaurants.\nThe 80 Feet Road is the Eat Street of Koramangala. Pizza Hut, Domino's, KFC, Taco Bell, Au Bon Pain are all found here. There are also many non-chains serving local Indian cuisine. Chandni Chowk is a great option if you want the rural Punjabi dhaba experience.\nWisdom Cafe, near the AlienWare showroom is a really cosy place to have some snacks or lunch. So is the Hole in the Wall cafe, on the back street behind Maharaja Hotel. Serves great coffee and English breakfast. So does Cafe Terra, near Wipro park crossing. Adjacent to it is a really popular food joint called Little Home. It serves nice North Indian food at a very reasonable price. It's really popular with the young working populace. Naturals Ice cream parlour is a hit with the hip crowd; on weekend nights you may find queues outside.\n\n\n=== Chains ===\n\n The Adiga's chain. Restaurants to the south of Bengaluru. Prominent among them are in: Jayanagar 4th Block, take the road facing BHS First Grade College, Basavanagudi. \n Beijing Bites. 11AM-3:30PM, 7PM-11PM. Chain restaurant inspired by Chinese & Thai cuisines, spread across Bengaluru. ₹200-₹400. \n Kamat Yatrinivas, Majestic; All around the city. Authentic Mangalorean meals. \n Mast Kalandar, All around the city. Very nice North India cuisine. It is very reasonably priced. \n Nagarjuna Chimney, Residency Rd; Jayanagar 3rd Block (near Old Galaxy Theatre; near ICICI Bank). Possibly have a few more branches elsewehere in Bengaluru. The biryani is great, as are their meals which are served ritually on a banana leaf. Reach early for lunch, for there are always hordes waiting. \n Upaahara Darshini, Jayanagar 3rd Block; DVG Road, Gandhi Bazaar. One of Bengaluru's oldest food joints. Amazing dosas. \n Corner House, Residency Rd, BTM Rd, Koramangala, Airport Rd, Whitefield Rd, Marthahalli and Shivananda Circle, ☏ +91 80 2558 3262. One of the best ice cream parlours offering a variety of treats. Their famed 'Death by Chocolate' (popularly known as DBC) is a must for all chocolate lovers and has attained a cult status. Can be tricky to find a spot during peak times and you may find yourself being 'encouraged' by the staff to leave quickly once you do. \n Kanti Sweets. KG Rd, Majestic, Malleswaram Circle, RT Nagar. Very good samosas, kachoris and North Indian sweets like rasmalai. Rapidly expanding chain, so there are plenty of branches all over the city now, which serve parathas and other food items as well. The main branch in Majestic is the best, and serves only samosas, kachoris and sweets. ₹10-50 per head. \n Nandini. The Andhra fast food chain serves some excellent biriyani and chicken dishes. \n New Shanti Sagar, 80 Foot Rd. This is a reasonably reliable chain of vegetarian south Indian restaurants. Branches scattered all over the city, notably in Koramangala Jayanagar, Domlur. ₹50-200. \n The Rameshwaram Cafe. A well-known restaurant chain famous for its extra crispy ghee dosas. Standing room only and hugely popular, all food is made to order so at peak meal times you may need to wait for an hour or longer. (updated Sep 2024)\n Savera Tea Shop. 24 hr tea shops near Russell Market in Shivajinagar and on MG Rd. Good place to go for a cup of tea in the dead of the night. Serves tea, Suleimani (honey+lemon) tea and a variety of biscuits. ₹3-15 \n Shezan, Lavelle Rd and Cunningham Rd, ☏ +91 80 2224 9319, +91 80 2224 9667. Indian, Chinese and Continental cuisines with a good menu choice where beef, fish, prawn, mutton and chicken meat are available. Excellent steaks. \n SLV chain. Prominent among them are in: Banashankari 2nd stage, opposite BDA park and the one in J.P.Nagar 2nd Phase near Ragigudda Temple \n Sree Krishna. Fast food a little further from the r",
+  "url": "https://en.wikivoyage.org/wiki/Bengaluru"
+ },
+ "sights": [
+  {
+   "name": "Cubbon Park",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 12.975,
+   "lon": 77.59333333333333
+  },
+  {
+   "name": "Kasturba Road",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 12.971907,
+   "lon": 77.593679
+  },
+  {
+   "name": "Katigenahalli inscription and hero stone",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.97503,
+   "lon": 77.59567
+  },
+  {
+   "name": "Agara inscriptions and hero stones",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.97477,
+   "lon": 77.59575
+  },
+  {
+   "name": "Adagodi",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.9715987,
+   "lon": 77.5945627
+  },
+  {
+   "name": "St. Paul's Church, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.9715987,
+   "lon": 77.5945627
+  },
+  {
+   "name": "Karnataka High Court",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.9779,
+   "lon": 77.5926
+  },
+  {
+   "name": "Venkatappa Art Gallery",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.974154,
+   "lon": 77.596148
+  },
+  {
+   "name": "Visvesvaraya Industrial and Technological Museum",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.9751,
+   "lon": 77.5964
+  },
+  {
+   "name": "UB City",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.97175,
+   "lon": 77.59583333333333
+  },
+  {
+   "name": "Karnataka Public Works Department",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.977833333333333,
+   "lon": 77.58952777777777
+  },
+  {
+   "name": "Museum of Art & Photography",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.9745,
+   "lon": 77.5969
+  },
+  {
+   "name": "Siege of Bangalore",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.97888888888889,
+   "lon": 77.59166666666667
+  },
+  {
+   "name": "Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.97888888888889,
+   "lon": 77.59166666666667
+  },
+  {
+   "name": "Gas Turbine Research Establishment",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.97888888888889,
+   "lon": 77.59166666666667
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

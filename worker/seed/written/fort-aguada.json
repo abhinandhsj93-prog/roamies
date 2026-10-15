@@ -1,0 +1,80 @@
+{
+  "query": "Fort Aguada",
+  "region": "goa",
+  "name": "Fort Aguada",
+  "draft": {
+    "briefing": "Hey, you're at Fort Aguada! The Portuguese built this fort in 1612, together with a lighthouse, right on Sinquerim Beach looking out over the Arabian Sea. It's now protected as a Monument of National Importance.",
+    "hungryLine": "No eateries in my notes around the fort, so ask nearby in Sinquerim what's fresh today.",
+    "moodReplies": {
+      "show-me-around": "The fort is about a 20 minute walk from here, and Sinquerim beach is about 22 minutes away.",
+      "somewhere-to-chill": "Head down to the crescent of sand at Sinquerim and watch the Arabian Sea.",
+      "surprise-me": "The Taj resort here was once called the Fort Aguada Beach Resort, and its 56-acre grounds even include cricket grounds."
+    },
+    "seeFirst": {
+      "caption": "Walks and drives from here",
+      "spots": [
+        {
+          "name": "Fort Aguada",
+          "detail": "20 min walk · A 1612 Portuguese fort and lighthouse above the sea",
+          "status": {
+            "text": "Protected monument",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        },
+        {
+          "name": "Sinquerim",
+          "detail": "22 min walk · The Bardez village and crescent beach below the fort",
+          "status": {
+            "text": "Best early morning",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Houses of Goa Museum",
+          "detail": "In Salvador-do-Mundo, Bardez · Gerard da Cunha's museum on how Goan homes mix East and West",
+          "status": {
+            "text": "Closed Mondays",
+            "tone": "warning"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Treat the fort gently.",
+        "body": "It's an ASI protected Monument of National Importance, so don't climb or scratch the walls."
+      },
+      {
+        "icon": "sun",
+        "title": "Plan for museum days.",
+        "body": "The Houses of Goa Museum opens Tuesday to Sunday, 10 AM to 7:30 PM."
+      }
+    ],
+    "story": [
+      {
+        "era": "1612",
+        "title": "A fort with a light",
+        "body": "The Portuguese built Fort Aguada and its lighthouse in 1612 on Sinquerim Beach, overlooking the Arabian Sea.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Later",
+        "title": "A resort on the crescent",
+        "body": "A beach resort grew up on the curve of the beach at Sinquerim. Once named the Fort Aguada Beach Resort, it's now the Taj Fort Aguada Resort & Spa.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Today",
+        "title": "A national monument",
+        "body": "The fort is protected by the Archaeological Survey of India as a Monument of National Importance.",
+        "illustration": "palace"
+      }
+    ],
+    "food": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+ "query": "Guruvayur Temple, Thrissur",
+ "region": "kerala",
+ "name": "Guruvayur",
+ "draft": {
+  "briefing": "Hey, you're in Guruvayur! The whole town grew up around its great Krishna temple, which draws 6 to 10 million devotees a year. The Lord here even owns his own herd of elephants, 65 of them, living in a palace fort just outside town.",
+  "hungryLine": "Breakfast, the afternoon feast and dinner are free for devotees at the Ottupura, the temple dining hall, and look out for offerings like paal payasam and unniappams.",
+  "moodReplies": {
+   "show-me-around": "The temple is a minute away, the Devaswom Museum by the east gate is 2 min, and Mammiyoor Temple is about 10 min on foot.",
+   "somewhere-to-chill": "Catch an evening Krishnaattam performance. It's done outside the temple, so anyone can watch.",
+   "surprise-me": "The big offering here is Thulabharam. You sit on a scale and give bananas, butter, ghee or sugar equal to your own body weight."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Guruvayur Temple",
+     "detail": "1 min walk · One of India's most sacred pilgrim temples",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Devaswom Museum",
+     "detail": "2 min walk · Offerings, murals and Guruvayur Kesavan's tusks",
+     "status": {
+      "text": "Free, open all days",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mammiyoor Temple",
+     "detail": "10 min walk · The Shiva temple every pilgrim visits too",
+     "status": {
+      "text": "Hindus only inside",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Mammiyoor Temple",
+    "title": "Shiva makes room",
+    "body": "People believe Shiva was the original owner of the Guruvayur site and moved over so the Vishnu idol could be placed there. That's why pilgrims always visit Mammiyoor before leaving town."
+   },
+   {
+    "where": "Guruvayur Temple",
+    "title": "Built by Parasurama",
+    "body": "The sanctum is believed to have been built by Lord Parasurama himself, at the gods' request. A Pandyan king is said to have added the inner ring and murals after being cured of a snake bite."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "See Krishnaattam in the evening.",
+    "body": "It's performed every evening through the year, except in the monsoon month of July."
+   },
+   {
+    "icon": "tag",
+    "title": "Eat at the Ottupura.",
+    "body": "Meals there are free to devotees, first come, first served."
+   }
+  ],
+  "story": [
+   {
+    "era": "AD 52",
+    "title": "Old foundations",
+    "body": "Tradition says the 4th Pandyan King commissioned the temple's inner ring and murals around this time. Nearby Palayur's church is also believed to have been founded by St Thomas in 52 AD.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1,000+ years ago",
+    "title": "The temple complex",
+    "body": "Archaeologists reckon the complex is at least 1000 years old. The sanctum has three layers inside, with the idol in the innermost one.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1300s",
+    "title": "Zamorin's art",
+    "body": "Zamorin Manadeva Varma of Kozhikode built the temple's outer ring and composed Krishnaattam, a dance-drama that later inspired Kathakali.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1989",
+    "title": "A school for murals",
+    "body": "The Institute of Mural Painting opened at the east gate, founded by mural master Mammiyoor Krishnankutty. Students still train here the gurukula way.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Temple town",
+    "body": "It's one of the richest temples in South India. Its 65 elephants, all gifts from devotees, live at Punathur Elephant Palace, 4 km from West Nada.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

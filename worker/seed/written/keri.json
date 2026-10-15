@@ -1,0 +1,92 @@
+{
+  "query": "Keri",
+  "region": "goa",
+  "name": "Keri",
+  "draft": {
+    "briefing": "Hey, you're in Keri! On this plateau in Ponda taluka, Goans fought off a giant nylon plant planned by Thapar DuPont, and won. The protests ended in January 1995 after the police shooting of Nilesh Naik, remembered as Goa's first environmental martyr.",
+    "hungryLine": "Ponda is known for Goan Hindu style cooking, and the fish dishes here are typical of the area.",
+    "moodReplies": {
+      "show-me-around": "Visit one of Keri's spice farms, like Tropical Spice Plantation or Parvati Madhav Plants Park Plantation, both in the village.",
+      "somewhere-to-chill": "Spend a slow afternoon on a spice estate, many of them give you a tour and a meal.",
+      "surprise-me": "Nilesh Naik was only 24, a farmworker from a scheduled tribe community, when he was shot during the Anti-Nylon 6,6 protests."
+    },
+    "seeFirst": {
+      "caption": "Around Keri",
+      "spots": [
+        {
+          "name": "Tropical Spice Plantation",
+          "detail": "In Keri village · Walk through a working spice farm",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Parvati Madhav Plants Park Plantation",
+          "detail": "In Keri village · A plant park and plantation about 30 km from Panjim",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Safa Masjid",
+          "detail": "Outskirts of Ponda · A mosque built in 1560 by Ibrahim Adil Shah",
+          "status": {
+            "text": "Dress modestly",
+            "tone": "neutral"
+          },
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Keri plateau",
+        "title": "Goa's first green martyr",
+        "body": "Locals remember Nilesh Naik as Goa's first environmental martyr. He was killed on the Keri plateau in January 1995 during the fight against the nylon plant."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Book a spice farm visit.",
+        "body": "Spice tourism is big around Ponda, with tours and food on real working estates."
+      },
+      {
+        "icon": "sun",
+        "title": "Come in December for music.",
+        "body": "The Samrat Club's Sangeet Sammelan is usually held around December at the Shantadurga Temple in Kavlem."
+      }
+    ],
+    "story": [
+      {
+        "era": "Late 1980s",
+        "title": "A factory planned",
+        "body": "Thapar Du Pont, a joint venture of DuPont and the Thapar Group, planned a Nylon 6,6 plant on the plateau at Querim in Ponda taluka.",
+        "illustration": "warehouses"
+      },
+      {
+        "era": "Early 1990s",
+        "title": "The people push back",
+        "body": "The Anti-Nylon 6,6 movement grew into a major environmental and social protest across Goa.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "January 1995",
+        "title": "A life lost",
+        "body": "After clashes and police firing, Nilesh Naik was killed on 23 January 1995. The project was moved out of Goa, and the movement ended.",
+        "illustration": "flood"
+      },
+      {
+        "era": "Today",
+        "title": "Spice country",
+        "body": "Keri is now known for spice plantations like Tropical Spice Plantation, part of Ponda's spice tourism.",
+        "illustration": "pepper"
+      }
+    ],
+    "food": []
+  }
+}

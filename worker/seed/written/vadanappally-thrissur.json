@@ -1,0 +1,114 @@
+{
+ "query": "Vadanappally, Thrissur",
+ "region": "kerala",
+ "name": "Vadanappally",
+ "draft": {
+  "briefing": "Hey, you're in Vadanappally! This small coastal town is the nearest point on NH 66 to Thrissur, and it sits right next to Kandassankadavu, an ancient trade centre. From here you can reach Kodungallur, Guruvayur and Thrissur directly.",
+  "hungryLine": "Up the road in Chavakkad, try Rottippathiri, a rice cake that goes perfectly with meat.",
+  "moodReplies": {
+   "show-me-around": "The Bhagavathi temple and St. Francis Xavier's Church are each a 5 min walk away, then head to Snehatheeram beach.",
+   "somewhere-to-chill": "Go to Snehatheeram at Talikulam, about 4 km away, and sit by the sea.",
+   "surprise-me": "Temples, mosques and a church all stand within a few minutes' walk of each other here."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Vadanapally Bhagavathi Temple",
+     "detail": "5 min walk · The town's Durga devi temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "St. Francis Xavier's Church",
+     "detail": "5 min walk · A town church",
+     "status": {
+      "text": "Visit quietly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Snehatheeram",
+     "detail": "4 km away · Beach at Talikulam, home of the Oruma festival",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Palayur",
+    "title": "St Thomas's church",
+    "body": "St. Thomas Church at Palayur is said to have been founded in 52 AD by St Thomas, one of Jesus's twelve disciples. It's called the oldest church in India."
+   },
+   {
+    "where": "Thirumangalam temple",
+    "title": "A self-born Shiva",
+    "body": "Thirumangalam temple is listed among the 108 swayambu Shiva temples. Swayambu means the deity is believed to have appeared on its own."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Climb the lighthouse in the afternoon.",
+    "body": "Chettuva Light House at Thottappu is open 3 to 5 PM and has 140 steps."
+   },
+   {
+    "icon": "tag",
+    "title": "Catch the beach festival.",
+    "body": "Every year Snehatheeram hosts a beach festival called Oruma."
+   }
+  ],
+  "story": [
+   {
+    "era": "52 AD",
+    "title": "A very early church",
+    "body": "St Thomas is credited with founding the church at nearby Palayur. It's considered the oldest church in India.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Trading days",
+    "title": "Kandassankadavu",
+    "body": "Right next door, Kandassankadavu was an ancient trade centre on this coast.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Today",
+    "title": "A crossroads town",
+    "body": "NH 66 runs straight through the heart of Vadanappally, linking it to Kodungallur, Guruvayur and Thrissur.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Rahmaniyya Restaurant",
+    "detail": "Order Rottippathiri, a rice cake that goes well with meat",
+    "status": {
+     "text": "In Chavakkad",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Kallayi Coffee Shop",
+    "detail": "Local snacks opposite the police station",
+    "status": {
+     "text": "In Chavakkad",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

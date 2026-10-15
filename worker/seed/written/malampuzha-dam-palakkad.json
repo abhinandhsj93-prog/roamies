@@ -1,0 +1,77 @@
+{
+ "query": "Malampuzha Dam, Palakkad",
+ "region": "kerala",
+ "name": "Malampuzha Dam",
+ "draft": {
+  "briefing": "Hey, you're at Malampuzha Dam! This is the largest dam and reservoir in Kerala, built after independence by what was then Madras state. Look behind it and you'll see the hills of the Western Ghats.",
+  "hungryLine": "My notes don't name any eateries out here, but if you're around for Onam, the big thing to eat is the Onasadya, the festival feast.",
+  "moodReplies": {
+   "show-me-around": "The dam wall is about a 5 min walk away, and the masonry part alone runs 1,849 metres. Then head 13 km east of Palakkad to Kanjikode if you want to see Kerala's other big industrial side.",
+   "somewhere-to-chill": "Find a spot looking over the reservoir with the Western Ghats hills behind it, and just sit.",
+   "surprise-me": "It's a masonry dam and an earthen dam joined together, 1,849 metres plus 220 metres, which makes it the longest dam in the state."
+  },
+  "seeFirst": {
+   "caption": "Around the dam",
+   "spots": [
+    {
+     "name": "Malampuzha Dam",
+     "detail": "5 min walk · Kerala's largest dam and reservoir",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kanjikode",
+     "detail": "13 km east of Palakkad · Kerala's second largest industrial hub",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack for rain.",
+    "body": "Kerala gets rain for at least 7-8 months a year, so an umbrella is never wasted."
+   },
+   {
+    "icon": "tag",
+    "title": "Plan around Onam.",
+    "body": "Onam falls in Chingam, around August to September, with state holidays on 4 days, so expect closures and crowds."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A river from the hills",
+    "body": "The Malampuzha River comes down from the Western Ghats and feeds the Bharathappuzha, Kerala's second-longest river. That water is what the dam would later hold back.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Before the Raj",
+    "title": "Forts of the region",
+    "body": "Palakkad is one of the places with a fort from before the British Raj. It's on the list of Kerala forts worth exploring.",
+    "illustration": "palace"
+   },
+   {
+    "era": "After 1947",
+    "title": "Madras builds a dam",
+    "body": "After independence, the then Madras state built Malampuzha Dam, 355 feet high. A network of two canal systems carries its water out.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Industry and IIT",
+    "body": "Just down the road, Kanjikode has grown into one of Kerala's biggest industrial areas. IIT Palakkad, Kerala's Indian Institute of Technology, was set up there.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

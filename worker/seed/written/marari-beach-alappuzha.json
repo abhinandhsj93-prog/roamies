@@ -1,0 +1,140 @@
+{
+ "query": "Marari Beach, Alappuzha",
+ "region": "kerala",
+ "name": "Marari Beach",
+ "draft": {
+  "briefing": "Hey, you're at Marari Beach! A National Geographic survey rated this one of the world's top five hammock beaches. It sits at Mararikulam village, 11 km from Alappuzha town, and lots of travellers now pick it over Kovalam.",
+  "hungryLine": "Cherthala around here is seafood country, think barbecue lobster, fish roast, and a sweet tender coconut cut open right in front of you.",
+  "moodReplies": {
+   "show-me-around": "The sand is a 1 min walk away, and Mararikkulam Church is about 14 min on foot. Arthunkal Basilica in Cherthala is the big must-see, with its own beach right in front.",
+   "somewhere-to-chill": "It's a hammock beach, so take the hint and string one up. For something even quieter, Chethi, Thykkal and Ottamassery beaches are rarely crowded.",
+   "surprise-me": "Mararikulam was once an assembly seat, and in 1996 VS Achuthanandan lost here in a shock defeat that kept him from becoming Chief Minister for another decade."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Marari Beach",
+     "detail": "1 min walk · A top five hammock beach",
+     "status": {
+      "text": "Free to visit",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mararikkulam Church",
+     "detail": "14 min walk · The village church",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Arthunkal Basilica",
+     "detail": "In Cherthala · One of 6 basilicas in Kerala, with a beach in front",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Thankey Church",
+    "title": "The miraculous statue",
+    "body": "Every year thousands come to Thankey for a statue of the Passion of Our Lord that people call miraculous. It's a pilgrimage of repentance, about starting a new life."
+   },
+   {
+    "where": "Pathiramanal",
+    "title": "The midnight sands",
+    "body": "Pathiramanal means the midnight sands, an island near Cherthala that nobody lives on. It's left to the plants and birds, and boats can take you across."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch the sunset at Andhakaranazhy.",
+    "body": "It's just 10 km from Cherthala town and the best sunset spot around."
+   },
+   {
+    "icon": "tag",
+    "title": "Mind temple etiquette.",
+    "body": "The local temples are lovely places to sit, but take care not to break any cultural practices."
+   }
+  ],
+  "story": [
+   {
+    "era": "Portuguese times",
+    "title": "Arthunkal's shrine",
+    "body": "The Portuguese made the shrine at Arthunkal, and it's still kept intact. Today it's one of six basilicas in Kerala.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1957",
+    "title": "A seat is born",
+    "body": "Mararikulam became a constituency in the Kerala Legislative Assembly. It was part of the Alleppey Lok Sabha seat.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1996",
+    "title": "A shock defeat",
+    "body": "Communist leader VS Achuthanandan, who held the seat from 1991, lost here in 1996. He finally became Chief Minister in 2006, elected from Malampuzha instead.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2008",
+    "title": "The seat goes",
+    "body": "The constituency was dropped in the 2008 delimitation. Mararikulam stayed a village, home to volleyball player K. Udayakumar.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Hammock beach",
+    "body": "National Geographic rated Marari one of the world's top five hammock beaches. Travellers now end their Kerala trips here before flying out of Cochin.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Vasundhara Sarovar",
+    "detail": "Go for the live barbecue lobsters",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Vinoos Park",
+    "detail": "Locally famous for its fish roast",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Meeshakkaran Dileepettans Restaurant",
+    "detail": "In Mayithara, Cherthala · One of the most sought after seafood spots",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

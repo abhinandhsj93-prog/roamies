@@ -1,0 +1,54 @@
+{
+ "query": "Kushalnagar",
+ "found": "Kushalanagar, Kushalanagar taluku, Kodagu, Karnataka, 571234, India",
+ "lat": 12.4585525,
+ "lon": 75.961437,
+ "fetchedAt": "2026-10-12T18:32:03.104Z",
+ "locality": {
+  "id": "baichanahalli-coorg-karnataka",
+  "name": "Baichanahalli",
+  "area": "Kushalanagara, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Kushalanagar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Kushalnagar_Taluk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kushalanagar",
+   "credit": "Photo: Zilla Panchayat, Kodagu, GODL-India, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kushalnagar_Taluk.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kushalanagar",
+   "text": "Kushalanagar or Kushālanagara is a city located in the Kodagu district of the Indian state of Karnataka. Surrounded by Kaveri river, it is the gateway to Kodagu district. It also serves as the headquarters of Kushalanagar Taluk. By population, Kushalanagar is the second largest town in Kodagu district after Madikeri and the fastest developing town in the district. Kushalnagar is an important commercial centre in Kodagu.",
+   "url": "https://en.wikipedia.org/wiki/Kushalanagar"
+  },
+  {
+   "title": "Kushalnagar Assembly constituency",
+   "text": "Kushalnagar Assembly constituency (also known as Fraserpet) was a constituency of the Mysore Legislative Assembly (part of Coorg Legislative Assembly till 31 October 1956). The lone election to this constituency was conducted in 1952 to the legislature of the Coorg State (Kodagu) in India. The constituency included Kushalanagar. This seat was included to Mysore Legislative Assembly in 1956 during the reorganisation of the Indian States based along linguistic lines, the state of Coorg (Kodagu) was merged with Mysore State.",
+   "url": "https://en.wikipedia.org/wiki/Kushalnagar_Assembly_constituency"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Ganapathi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 12.4574594,
+   "lon": 75.9601557
+  },
+  {
+   "name": "Thaqwa Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 12.4537375,
+   "lon": 75.9534824
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

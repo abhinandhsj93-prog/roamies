@@ -1,0 +1,125 @@
+{
+ "query": "Chikmagalur",
+ "region": "karnataka",
+ "name": "Chikmagalur",
+ "draft": {
+  "briefing": "Hey, you're in Chikmagalur! This is where coffee was first grown in India, and the hills around you are still covered in plantations. Karnataka's highest peak, Mullayanagiri, is in this district too.",
+  "hungryLine": "Masala dosa is the move here, and Town Canteen's is so good people say it can beat Vidyarthi Bhavan in Bengaluru.",
+  "moodReplies": {
+   "show-me-around": "Take the minibus up to B.B.Hills for big views, or head about 30 km out to the Veera Narayana Temple at Belavadi.",
+   "somewhere-to-chill": "Do the 5 km Chikmagalur Walk from the checkpost on Kadur road out to Aldur village, past very scenic countryside.",
+   "surprise-me": "Chikmagalur district was called Kadur district until 1947."
+  },
+  "seeFirst": {
+   "caption": "Trips from town",
+   "spots": [
+    {
+     "name": "B.B.Hills",
+     "detail": "Minibus from the private bus stand · Bababudangiri's terrific hill views",
+     "status": {
+      "text": "Bus back by 5PM",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Veera Narayana Temple",
+     "detail": "30 km away · Well-known temple in Belavadi village",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Amrutapura Temple",
+     "detail": "67 km away · Village temple north of Chikmagalur",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan the B.B.Hills bus.",
+    "body": "The minibus leaves the private bus stand around 12:30PM and heads back by 5PM, so you only get about an hour up top."
+   },
+   {
+    "icon": "tag",
+    "title": "Carry snacks to the hills.",
+    "body": "There's only one tea shop at B.B.Hills, so don't count on a proper meal up there."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "River source",
+    "body": "Chikmagalur's hills are part of the Western Ghats in the Malnad region. The Tunga and Bhadra rivers start here.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Coffee begins",
+    "title": "India's first coffee",
+    "body": "Coffee was first cultivated in India right here in Chikmagalur. It's still famous for its coffee plantations.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Until 1947",
+    "title": "Kadur district",
+    "body": "The district went by the name Kadur, or Cuddoor, until 1947. Today its official name is Chikkamagaluru.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Hills and treks",
+    "body": "Visitors come for the Bababudan Giri ranges, Mullayanagiri, camping, kayaking and trekking. The Sringeri Mutt in the district is also a big pilgrim draw.",
+    "illustration": "pepper"
+   }
+  ],
+  "food": [
+   {
+    "name": "Town Canteen",
+    "detail": "Ratnagiri Rd, opposite DACG Polytechnic · Don't miss the masala dosa, go easy on extra butter",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Mayura Vegetarian",
+    "detail": "Near the Head Post Office · Good for masala dosai",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Food Palace",
+    "detail": "R.G Rd · Clean fast-food joint, ideal for breakfast",
+    "status": {
+     "text": "Good for breakfast",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

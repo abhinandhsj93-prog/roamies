@@ -1,0 +1,251 @@
+{
+ "query": "Juhu, Mumbai",
+ "found": "Juhu, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400058, India",
+ "lat": 19.1070215,
+ "lon": 72.8275275,
+ "fetchedAt": "2026-10-12T18:49:57.570Z",
+ "locality": {
+  "id": "juhu-mumbai-suburban-district-maharashtra",
+  "name": "Juhu",
+  "area": "Mumbai, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Juhu": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Juhu_beach_%28Arial%29.jpg/1280px-Juhu_beach_%28Arial%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Juhu",
+   "credit": "Photo: Ranga27 (talk), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juhu_beach_(Arial).jpg"
+  },
+  "Juhu Aerodrome": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Juhu_Aerodrome.jpg/1280px-Juhu_Aerodrome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Juhu Aerodrome",
+   "credit": "Photo: Himmat Rathore, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juhu_Aerodrome.jpg"
+  },
+  "Versova, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Versova_beach.JPG/1280px-Versova_beach.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Versova, Mumbai",
+   "credit": "Photo: Utcursch, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Versova_beach.JPG"
+  },
+  "Nanavati hospital": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Nanavati_Super_Speciality_Hospital%2C_Mumbai%2C_Maharashtra%2C_India.jpg/1280px-Nanavati_Super_Speciality_Hospital%2C_Mumbai%2C_Maharashtra%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nanavati hospital",
+   "credit": "Photo: Nanavati Hospital, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nanavati_Super_Speciality_Hospital,_Mumbai,_Maharashtra,_India.jpg"
+  },
+  "Rajiv Gandhi Institute of Technology, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rajiv_Gandhi_Institute_of_Technology%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Rajiv Gandhi Institute of Technology, Mumbai",
+   "credit": "Photo: Abhayantony, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajiv_Gandhi_Institute_of_Technology,_Mumbai.jpg"
+  },
+  "D.N. Nagar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/D.N._Nagar_Metro_Station_-_Main.jpg/1280px-D.N._Nagar_Metro_Station_-_Main.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "D.N. Nagar",
+   "credit": "Photo: Superfast1111, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:D.N._Nagar_Metro_Station_-_Main.jpg"
+  },
+  "Japan Air Lines Flight 472 (1972)": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/JA8013_Douglas_DC-8-53_Tokyo_Haneda_1969_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Japan Air Lines Flight 472 (1972)",
+   "credit": "Photo: Toshiro Hara, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:JA8013_Douglas_DC-8-53_Tokyo_Haneda_1969_(cropped).jpg"
+  },
+  "Vile Parle railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mumbai_03-2016_01_Vile_Parle_station.jpg/1280px-Mumbai_03-2016_01_Vile_Parle_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vile Parle railway station",
+   "credit": "Photo: A.Savin, FAL, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_01_Vile_Parle_station.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Juhu",
+   "text": "Juhu (pronunciation: [d͡ʒuɦuː]) is a coastal suburb in the Mumbai Suburban district, located on the western coast of Salsette Island. It is known for its sprawling Juhu Beach. It is surrounded by the Arabian Sea to the west, Versova to the north, Vile Parle to the east, and Santacruz to the south. Juhu is among the most expensive and affluent areas of the metropolitan region and is home to many Bollywood celebrities. The nearest railway stations are Santacruz, Andheri, and Vile Parle on the Western and Harbour lines of the Mumbai Suburban Railway. The nearest metro stations are D. N. Nagar and Andheri West. There are two minor B.E.S.T. bus depots in Juhu.\nJ. R. D. Tata, the father of civil aviation in India, made his maiden voyage to Juhu Airport from Drigh Road Airstrip, Karachi, via Ahmedabad, on 15 October 1932, carrying mail in a Puss Moth aircraft.\n\n\n== History ==\nJuhu is mentioned in the 15th-17th century Marathi-language text Mahikavatichi Bakhar, which states that it was captured by king Pratap Bimb's general Balkrishnrao Somvanshi in the 12th century.\nIn the nineteenth century, Juhu was an island: a long, narrow sand bar rising above sea level by a metre or two, just off the...",
+   "url": "https://en.wikipedia.org/wiki/Juhu"
+  },
+  {
+   "title": "Vile Parle",
+   "text": "Vile Parle (Marathi pronunciation: [ʋile paːɾle], also known as Parla) is a suburb and also the name of the railway station in the Western suburb of Mumbai. Vile Parle has a significantly strong base of Marathi and Gujarati population. It serves as the location of the first Parle factory.",
+   "url": "https://en.wikipedia.org/wiki/Vile_Parle"
+  },
+  {
+   "title": "Juhu Aerodrome",
+   "text": "Juhu Aerodrome (ICAO: VAJJ) is located in Juhu, an upmarket residential suburb of Mumbai, Maharashtra, India. It is served primarily by general aviation aircraft and helicopters. It was founded in 1928 as one of India's first civil aviation airport, 4 years after the Netaji Subhash Chandra Bose International Airport (CCU) was opened\nIn 1932, JRD Tata landed at the Juhu Aerodrome, inaugurating India's first scheduled commercial mail service. Juhu served as the city's primary airport during and up to World War II. In 1948, commercial operations were moved to the much larger RAF Santa Cruz (now Chhatrapati Shivaji Maharaj International Airport; CSMIA) which was built 2 km (1.2 mi) east of Juhu aerodrome during the war.\nToday, the aerodrome handles all helicopter operations out of Mumbai. It also hosts the Bombay Flying Club and several executive and light aircraft and gliders. In 2010, the Airports Authority of India (AAI), which runs the airport, proposed to extend the runway 08/26 into the sea to allow larger aircraft to land, however permission for this was denied by the Ministry of Environment and Forests. With the New Coastal Regulation Zone (CRZ) rules of 2011 permitting roads on...",
+   "url": "https://en.wikipedia.org/wiki/Juhu_Aerodrome"
+  },
+  {
+   "title": "Jamnabai Narsee School",
+   "text": "Jamnabai Narsee School is a private school in the affluent area of Juhu, Mumbai, Maharashtra, India. It was founded on 17 January 1971 and is managed by the Narsee Monjee Education Trust. The school building has three clusters of hexagonal classrooms, each with a hexagonal central foyer. The school is attended by children mostly from Andheri and Juhu.",
+   "url": "https://en.wikipedia.org/wiki/Jamnabai_Narsee_School"
+  },
+  {
+   "title": "Hinduhridaysamrat Balasaheb Thackeray Medical College and Dr. R. N. Cooper Municipal General Hospital",
+   "text": "The Hinduhridaysamrat Balasaheb Thackeray Medical College, also known as HBT Medical College, is a public medical college located in Juhu, Mumbai, India. It is owned and operated by the Brihanmumbai Municipal Corporation. The medical college is attached with Dr. R.N. Cooper Municipal General Hospital.\nThis is one of the five government medical colleges in the city of Mumbai, out of which four (GSMC, LTMMC, TNMC & HBTMC) come under jurisdiction of Brihanmumbai Municipal Corporation, and GGMC comes under the jurisdiction of the Government of Maharashtra. Being one of the five government medical colleges in the city of Mumbai, HBTMC requires UG and PG students to have a very high score in NEET UG & NEET PG.\nIt was started in 1969 as a maternity home before it was converted into a full-fledged general hospital in 1970. The hospital underwent massive reconstruction after the original building was declared unfit for use in 1999. The first building was created that still stands in the compound that held a 5 story hospital with all new equipment and staff. In 2013, the entire area of the hospital (300+ acres) was converted into the new hospital complex with the leverage of advancement in technology...",
+   "url": "https://en.wikipedia.org/wiki/Hinduhridaysamrat_Balasaheb_Thackeray_Medical_College_and_Dr._R._N._Cooper_Municipal_General_Hospital"
+  },
+  {
+   "title": "Versova, Mumbai",
+   "text": "Versova (ISO: Varsovā, pronounced [ʋəɾsoːʋaː]) is an upmarket neighborhood in north-western Mumbai. It is known for its beach and the Versova Fort. The beach of Versova underwent a massive clean-up effort in 2016, labeled as the largest-ever beach clean-up.",
+   "url": "https://en.wikipedia.org/wiki/Versova,_Mumbai"
+  },
+  {
+   "title": "Nanavati hospital",
+   "text": "Nanavati Max Super Speciality Hospital formerly known as Dr. Balabhai Nanavati Hospital is a private hospital located in Vile Parle, Mumbai, India, which was inaugurated by Jawaharlal Nehru in November 1950 and opened in May 1951. Lately, Dr. Balabhai Nanavati Hospital was taken over by Radiant Group.",
+   "url": "https://en.wikipedia.org/wiki/Nanavati_hospital"
+  },
+  {
+   "title": "Irla",
+   "text": "Irla is a neighborhood in suburban Mumbai, part of Vile Parle. It is located near the upmarket Juhu area.\nThere is a Jain temple of the first Tirthankar of Jains, Adinath.\nIt also contains a famous chain of shops called \"Alfa\". \nAlso Located in Irla is the very famous homeopathic college, Smt. Chandaben Mohanbhai Patel Homeopathic Medical College.\nIrla is also home to one of Mumbai's popular Catholic shrines, Our Lady of Velankanni Church.",
+   "url": "https://en.wikipedia.org/wiki/Irla"
+  },
+  {
+   "title": "Rajiv Gandhi Institute of Technology, Mumbai",
+   "text": "The Rajiv Gandhi Institute of Technology (RGIT) is a private engineering college affiliated to the University of Mumbai. Founded in 1992, the institute is located in Andheri (west), Mumbai, India. The college is run by the Manjara Charitable Trust and was accredited by the All India Council for Technical Education (AICTE). It is recognised by the Directorate of Technical Education in Maharashtra and the UGC.",
+   "url": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_Institute_of_Technology,_Mumbai"
+  },
+  {
+   "title": "D.N. Nagar",
+   "text": "D N Nagar is named after Dadabhai Naoroji. It is located within the triangle of Lokhandwala Complex, Seven Bungalows and Juhu Vile Parle Development Scheme (JVPD).\nIts educational establishments include Bhavan's College, Bhavan's A H Wadia High School, Bhavan's Sardar Patel College of Engineering, Bhavan's S P Jain Institute of Management, S C D Barfivala High School, Valia College and Pragat Vidya Mandir.\nD N Nagar is now accessible with Mumbai Metro which has an elevated station with the same name, located at India Oil Junction.",
+   "url": "https://en.wikipedia.org/wiki/D.N._Nagar"
+  },
+  {
+   "title": "Utpal Shanghvi Global School",
+   "text": "Utpal Shanghvi Global School (USGS) is a private school in J.V.P.D Scheme area of, Juhu, Mumbai, India. The school follows the SSC state board syllabus, Cambridge University certified IGCSE syllabus and the International Baccalaureate PYP programme. In 1994, the school was first in India to get ISO 9001 certification.",
+   "url": "https://en.wikipedia.org/wiki/Utpal_Shanghvi_Global_School"
+  },
+  {
+   "title": "Japan Air Lines Flight 472 (1972)",
+   "text": "Japan Air Lines Flight 472 was a flight from London to Tokyo via Frankfurt, Rome, Beirut, Tehran, Bombay, Bangkok and Hong Kong. On September 24, 1972, the Douglas DC-8 landed at Juhu Aerodrome near Bombay, India instead of the city's much larger Santacruz Airport (now Chhatrapati Shivaji International Airport) and overran the runway, resulting in the aircraft being written off after being damaged beyond economic repair. All 122 on board survived, although nine passengers and two crew members were injured.",
+   "url": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_472_(1972)"
+  },
+  {
+   "title": "St. Xavier's High School, Vile Parle",
+   "text": "St. Xavier's High School & Junior College, formerly called St. Xavier's High School, is a Catholic school located in the Mumbai Suburban district in Vile Parle West.\nThe school & Junior College caters to pupils from kindergarten up to class 12 and the medium of instruction is the English language. The school is affiliated to the Maharashtra State Board of Secondary and Higher Secondary Education, Pune, which conducts the annual Board Exams namely the Secondary School Certificate (SSC) examinations and the Higher Secondary School Certificate (HSC) examinations at the close of class 10 and class 12 respectively.",
+   "url": "https://en.wikipedia.org/wiki/St._Xavier%27s_High_School,_Vile_Parle"
+  },
+  {
+   "title": "Vile Parle railway station",
+   "text": "Vile Parle (station code: VLP) is a railway station on the Western line and Harbour line, of the Mumbai Suburban Railway network. It serves the Vile Parle locality of Mumbai.\nIn July 2013, Vile Parle became the first station on the Western line, and the second on the Mumbai Suburban Railway (after Thane railway station), to have an escalator. It cost ₹5 million (US$52,000).",
+   "url": "https://en.wikipedia.org/wiki/Vile_Parle_railway_station"
+  },
+  {
+   "title": "St. Joseph's Church, Juhu",
+   "text": "St. Joseph's Church, Juhu is a Catholic church located in Juhu, Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/St._Joseph%27s_Church,_Juhu"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Mumbai",
+  "text": "Mumbai (Marathi and Hindi: मुंबई Mumbaī), formerly known as Bombay, is the largest city in western India and the capital of the state of Maharashtra. A cosmopolitan metropolis, Mumbai was built on seven islands on the Konkan coastline which over time were joined to form the island city of Bombay. The island was in turn joined with the neighbouring island of Salsette to form \"Greater Bombay\". The city has a metropolitan population of over 20 million (2025).\n\nOften called the \"New York of India\", Mumbai is undoubtedly the country's commercial capital and one of the predominant port cities. Mumbai's nature as the most eclectic and cosmopolitan Indian city is symbolised in the presence of Bollywood within the city, the centre of the globally-influential Hindi film and TV industries. It is also home to India's largest slum population, as well as the iconic Gateway of India built on the waterfront of Mumbai Harbour during the British Raj.\nThe name Bombay comes from Bom Bahia (\"the good bay\" in Portuguese), a name given by explorer Francis Almeida. Mumbai is named after the goddess Mumbadevi of the Koli fishing community.\n\n\n== See ==\nIndividual listings can be found in Mumbai's district articles\n\nThere is a lot to see in Mumbai, but the typical \"tourist\" sights are concentrated in South Mumbai.\nBy Indian standards, Mumbai is a young city and much of the land comprising the city did not exist until it was claimed from the sea over three centuries ago. It is therefore a pleasant surprise to find rock cut caves such as the Elephanta, Kanheri, and Mahakali within city limits.\n\n\n=== Colonial buildings ===\n\nThe British built a magnificent city within the walls of Fort St. George, which lies at the southern extremity of the city. Some fine examples of the Gothic revival, Neo-classical style and Indo-Saracenic style are seen within this area. To get the best experience of the city centre, stroll around the wide streets of the area right from Churchgate to Colaba. These areas are all beautifully planned and have wide and clean pavements, unlike the rest of the city. Famous monuments to be seen in this area are the Gateway of India, the Chhatrapati Shivaji Maharaj Terminus (CSMT, previously Victoria Terminus), the Municipal Corporation and Police Headquarters and the Chhatrapati Shivaji Vastu Sanghralaya (formerly, the Prince Of Wales Museum). The famous Taj Mahal Palace Hotel is opposite the Gateway of India. The Mumbai University buildings and the High Court are also excellent examples of colonial architecture in the city.\nThere are a lot of other modern structures to look at in this area. The area known as Marine Drive (right from Girgaon Chowpatty to NCPA) is home to a large number of buildings built in the Art Deco style. Mumbai is second only to Miami in the number of Art Deco buildings. some famous buildings in this style are the Eros and Regal cinemas. The Art Deco and Gothic buildings were added to the UNESCO World Heritage List in 2018.\n\n\n=== Museums and galleries ===\n\nSome of the India's most famous museums and art galleries are found here. The Kala Ghoda area in South Mumbai teems with them, particularly the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (Prince of Wales Museum), and the National Gallery of Modern Art. Once again, most of them are concentrated in South Mumbai. Also worth planning a visit is Jehangir Art Gallery, also at Kala Ghoda, displays changing exhibits by notable artists. The plaza next to the gallery also regularly displays exhibits of various artists.\nIn Nehru Complex in Worli is Nehru Centre Art Gallery at Worli is a gallery dedicated to young and promising talent along with established artists. Also within the complex is a permanent exposition, Discovery of India, which attempts to cover every aspect of artistic, intellectual and philosophical attainment of India through ages. The exposition spreads across 14 galleries and reflects true identity of the country. On the other end of the complex, Nehru Science Centre - which has a separate entrance from Mahalaxmi race course road, has a permanent exhibition on 'interactive and exciting' science related exhibits highlighting science principles in fun yet educational way.\n\n\n=== Beaches ===\n\nMumbai isn't known for beaches because they have immensely filthy water! Mumbai has a few beaches, including one in the southern districts. But they aren't that great and the water off Mumbai's coast is extraordinarily dirty. The relatively better ones are in North Mumbai. However, they are a great place to see how the locals spend their Sunday evenings, with various food and game stalls.\nThere are other beaches to be found such as the Girgaon Chowpatty (the cleanest one) in South Mumbai, Juhu Beach in the Western Suburbs and Aksa Beach in North Mumbai. The currents don't seem strong, but particularly in the rains, lots of people die from drowning, so avoid getting in the water (especially at Aksa Beach). A word of advice to women: Mumbai beaches are not the kind you can wear swimsuits to, particularly two-pieces.\n\n\n=== Zoos, parks and gardens ===\n\nMumbai has a justified reputation as a concrete jungle, but there are some nice pockets of greenery within the city. It is also one of the rare megacities to have an entire national park within its borders (Sanjay Gandhi National Park). You may not visit Mumbai for them, but if you are already here, they make a nice escape from the din and bustle. It also houses the ancient Kanheri Caves crafted out of rocky cliffs, which dates back 2,400 years.\nThe city zoo (Jijamata Udyan) in Byculla is a colonial relic and it is surprisingly well-preserved. The animals may look rather emaciated, but the sheer diversity of trees on this lush zoo is worth a trip.\nSome city parks are very well-maintained and combine history as well. The Hanging Gardens on the Malabar Hill offers stunning vistas of the Marine Drive. Opposite the Hanging Gardens, there is another park which is known as Kamala Nehru Park, famous for the striking shoe-shaped structure which has been filmed in various Bollywood movies\nFurther in South Mumbai, the Mumbai Port Trust Garden, is another hidden gem. This is set off a small side street off the Colaba Causeway 2–3 km (1.2–1.9 mi) south of the main section. Attractive views of the port, the naval yards and sunset.\nIn North Central Mumbai, there is Mancherji Joshi Five Gardens. Mainly used by walkers in the morning, it is a mess in the evenings. But the gardens encircle some historic, art deco residences.\n\n\n=== Markets and crowds ===\n\nMumbai is probably worth visiting just for its street markets, the hustle of vendors, and the madness of the crowds. Good places are Bandra, Khar and Andheri. If you came to Mumbai and didn't give visit to the highly dense and crowded markets, it means you didn't meet the real Mumbai.\nHawkers and street shoppers don't ask for any legal permission and then set their stalls at the places where they see maximum footfall. From electronics items to fresh food, you can get everything at railway platforms, subway and mains streets.\n\n\n=== Modern buildings and malls ===\nOnce the British left, the zeal to wipe away the traces of colonial rule was, unfortunately, not matched by the enthusiasm to build a new city that matched the grandeur of the British-era buildings. Now, while the shabbiness of the socialist era is thankfully being replaced by architecture with an eye on aesthetics, the new malls, multiplexes, and office buildings that are coming up are indistinguishable from those anywhere else in the world. Still, they are worth a look, especially if you want to have a look at India's success story. Skyscrapers exceeding 60 stories now dominate the skyline.\nFor long, Inorbit Mall was the only mall offering a lot of variety for shoppers. Palladium, built within the High Street Phoenix, broke the monopoly of Inorbit Mall. From state of the art interiors to international brands, the Palladium has everything. The new Infiniti Mall (Infinity 2) in Malad also has lots of foreign brands and is one of the biggest malls in the suburbs.\nNirmal Lifestyles Mall in Mulund and Metro Junction Mall in Kalyan are two of the largest malls in Mumbai. In the central suburbs, they are quite popular in the city. The Phoenix Marketcity Mall is the largest in the city, located in Kurla. There is also the R CITY Mall in Ghatkopar.\nPowai is a modern central Mumbai suburb with European looks. Powai houses the Indian Institute of Technology and is built around fabulous lake. Most of the construction is in a township format and is privately built. It houses twenty top of the line restaurants, two large convenience stores, a handful of coffee shops and entertainment areas. Initially built as an upmarket self-contained township, Powai has now grown into a business process outsourcing hub in Mumbai. The township reflects both characteristics; you will often find families shopping and twenty somethings hanging out in tables next to each o",
+  "url": "https://en.wikivoyage.org/wiki/Mumbai"
+ },
+ "sights": [
+  {
+   "name": "St. Joseph's Church, Juhu",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 19.107222222222223,
+   "lon": 72.82638888888889
+  },
+  {
+   "name": "Jamnabai Narsee School",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 19.1056,
+   "lon": 72.8322
+  },
+  {
+   "name": "Utpal Shanghvi Global School",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 19.1121237,
+   "lon": 72.8285123
+  },
+  {
+   "name": "Vile Parle",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 19.1,
+   "lon": 72.83
+  },
+  {
+   "name": "Hinduhridaysamrat Balasaheb Thackeray Medical College and Dr. R. N. Cooper Municipal General Hospital",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 19.107838,
+   "lon": 72.83623
+  },
+  {
+   "name": "Irla",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 19.108055555555556,
+   "lon": 72.83805555555556
+  },
+  {
+   "name": "Juhu Aerodrome",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 19.098055555555554,
+   "lon": 72.83388888888888
+  },
+  {
+   "name": "Japan Air Lines Flight 472",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 19.099166666666665,
+   "lon": 72.83888888888889
+  },
+  {
+   "name": "Versova, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 27,
+   "lat": 19.12,
+   "lon": 72.82
+  },
+  {
+   "name": "St. Xavier's High School, Vile Parle",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 19.099377,
+   "lon": 72.842586
+  },
+  {
+   "name": "Nanavati hospital",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 19.095786,
+   "lon": 72.839986
+  },
+  {
+   "name": "Rajiv Gandhi Institute of Technology, Mumbai",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 19.123,
+   "lon": 72.8237
+  },
+  {
+   "name": "Vile Parle railway station",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 19.099532,
+   "lon": 72.843964
+  },
+  {
+   "name": "D.N. Nagar",
+   "kind": "landmark",
+   "walkMinutes": 32,
+   "lat": 19.124085,
+   "lon": 72.831373
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

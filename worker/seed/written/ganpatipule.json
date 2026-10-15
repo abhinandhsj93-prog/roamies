@@ -1,0 +1,97 @@
+{
+ "query": "Ganpatipule",
+ "region": "maharashtra",
+ "name": "Ganpatipule",
+ "draft": {
+  "briefing": "Hey, you're in Ganpatipule! This little town of about 100 houses is home to a 400-year-old Ganpati idol that's said to have sprung up from the soil itself, and it faces west toward the sea.",
+  "hungryLine": "I don't have a named place to eat in Ganpatipule in my notes, so ask around near the temple.",
+  "moodReplies": {
+   "show-me-around": "Start at the Ganpati Temple right on the beach, then head 2 km to Malgund, the birthplace of the Marathi poet Keshavsut.",
+   "somewhere-to-chill": "Try the Aare-Ware twin beaches or Malgund beach on either side of Ganpatipule beach.",
+   "surprise-me": "Prachin Konkan is a life-size museum that recreates the old Konkan way of life, with houses, costumes and livelihoods."
+  },
+  "seeFirst": {
+   "caption": "Short walks and drives from town",
+   "spots": [
+    {
+     "name": "Ganpati Temple",
+     "detail": "On the beach · The swayambhu Ganpati that draws thousands of pilgrims",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Malgund",
+     "detail": "2 km away · Poet Keshavsut's birthplace and memorial",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jaigad fort",
+     "detail": "15 km away · 17th-century ruins over the sea, and a lovely coastal drive",
+     "status": {
+      "text": "Best late afternoon",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Ganpatipule",
+    "title": "Ganpati moves forward",
+    "body": "Local folklore says Ganpati took offence at something a local woman said and moved from his old home at Gule to Pule, meaning forward. That's how the place got the name Ganpati-pule."
+   },
+   {
+    "where": "Ganpati Temple",
+    "title": "An idol from the earth",
+    "body": "The temple's idol is a swayambhu murti, said to have risen up out of the soil on its own about 400 years ago."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Expect warm but not scorching days.",
+    "body": "After March it gets warmer here, though the temperature rarely crosses 30 °C."
+   },
+   {
+    "icon": "tag",
+    "title": "Make time for Prachin Konkan.",
+    "body": "This museum shows how people in old Konkan lived, worked and dressed."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "From Gule to Pule",
+    "body": "Folklore says Ganpati moved here from his original home at Gule, giving the town its name.",
+    "illustration": "palace"
+   },
+   {
+    "era": "400 years ago",
+    "title": "The swayambhu idol",
+    "body": "The Ganpati idol here is said to have sprung up from the soil about four centuries ago.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1600s",
+    "title": "Jaigad on guard",
+    "body": "Jaigad fort was built in the 17th century, overlooking the point where the Sangameshwar river meets the Arabian Sea.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Pilgrims and beach lovers",
+    "body": "Thousands of devotees from across Maharashtra visit every year, and the beaches nearby make it a holiday spot too.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

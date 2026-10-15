@@ -1,0 +1,83 @@
+{
+ "query": "Ambalavayal, Wayanad",
+ "found": "Ambalavayal, Sulthanbathery, Wayanad, Kerala, 633593, India",
+ "lat": 11.6192026,
+ "lon": 76.2120176,
+ "fetchedAt": "2026-10-12T18:04:49.185Z",
+ "locality": {
+  "id": "ambalavayal-wayanad-kerala",
+  "name": "Ambalavayal",
+  "area": "Sulthanbathery, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Ambalavayal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Phantom_Rock%2C_Ambalayavayal_%284650457407%29.jpg/1280px-Phantom_Rock%2C_Ambalayavayal_%284650457407%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ambalavayal",
+   "credit": "Photo: Shareef Taliparamba, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phantom_Rock,_Ambalayavayal_(4650457407).jpg"
+  },
+  "Edakkal": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Edakkal_Caves.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Edakkal",
+   "credit": "Photo: Rahul Ramdas, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edakkal_Caves.jpg"
+  },
+  "Wayanad Heritage Museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Waynad_Heritage_Museum.jpg/1280px-Waynad_Heritage_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Wayanad Heritage Museum",
+   "credit": "Photo: Original uploaded by നിരക്ഷരൻ., Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waynad_Heritage_Museum.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Ambalavayal",
+   "text": "Ambalavayal is a town in Wayanad district in the state of Kerala, India. The Wayanad Heritage Museum is located in the village.\n\n\n== Demographics ==\nAs of the 2011 Census of India, Ambalavayal had a population of 16,988 with 8,290 males and 8,698 females.\n\n\n== Villages and Suburbs ==\nChulliyod\nThekkankolly\nNenmeni\nMalika\n\n\n== Image gallery ==\n\n\n== References ==",
+   "url": "https://en.wikipedia.org/wiki/Ambalavayal"
+  },
+  {
+   "title": "Edakkal",
+   "text": "Edakkal is a remote location in Wayanad district of Kerala, India, the site of the Edakkal Caves. The tallest mountain in the district, Ambukuthi mala, is located here.\nAbove the caves are views of the mountainous junction of the states of Kerala, Tamil Nadu and Karnataka. The nearest major town is Sulthan Bathery that is around 12 km away, while the closest urban centre is Ambalavayal that is located at a distance of 4 km.",
+   "url": "https://en.wikipedia.org/wiki/Edakkal"
+  },
+  {
+   "title": "Wayanad Heritage Museum",
+   "text": "Wayanad Heritage Museum, also known as Ambalavayal Heritage Museum is a museum at Ambalavayal, 12 km (7.5 mi) south of Sultan Bathery, in Wayanad district, Kerala, India. It is managed by the District Tourism Promotion Council. It has one of Kerala's largest collections of remnants, dating back to the second century. The museum houses various interesting artifacts revealing the history, culture and heritage of the Wayanad region.\nThe museum displays tribal relics and artifacts. Four sectors of the museum—the Veerasmruthi, the Gothrasmruthi, the Devasmruthi, and the Jeevanasmruthi—house different types of items ranging from the Neolithic age to the 17th century, including artifacts from ordinary tribal life, decorated memorial grave stones once used to adorn the graves of heroes, and terracotta figures.",
+   "url": "https://en.wikipedia.org/wiki/Wayanad_Heritage_Museum"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Ambalavayal",
+  "text": "Ambalavayal is a town in Wayanad District.\n\n\n== See ==\n\n1 Wayanad Heritage Museum (Ambalavayal Heritage Museum), Govt Hospital Road, Ambalavayal, ☏ +91 9605 635409 (mobile), +91 4936 260 127. Tue-Sun 9AM – 5PM. The heritage museum gives a short and sweet experience of about half an hour, showcasing a rich collection of historical artifacts. The artifacts are almost fully from Wayanad. It showcases Wayanad’s ancient history and culture, especially on its tribal population and their customs, via four galleries with four different themes: Veerasmruthi (war-related), Jeevasmrithi (lifestyle, agriculture and culture), Gothrasmrithi (people and tribes) and Devasmrithi (Religion). More are under construction. The hero stones found in the Veerasmruthi gallery date back to olden times even before the oldest Tamil scripts, which even refer to these stones. Several agricultural implements can be found in the Jeevasmrithi gallery. The Devasmrithi gallery showcases a very rich collection of figurines of gods and goddesses. ₹20. (updated Apr 2026)\n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Ambalavayal"
+ },
+ "sights": [
+  {
+   "name": "St. Martin De Pores Church, Ambalavayal",
+   "kind": "place_of_worship",
+   "walkMinutes": 7,
+   "lat": 11.6230477,
+   "lon": 76.2113456
+  },
+  {
+   "name": "Sacred Heart Church , Ambalavayal",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 11.6248272,
+   "lon": 76.2102907
+  },
+  {
+   "name": "Sacred Heart Church Ambalavayal",
+   "kind": "place_of_worship",
+   "walkMinutes": 11,
+   "lat": 11.6247854,
+   "lon": 76.210177
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "query": "Mahim, Mumbai",
+ "found": "Mahim, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400016, India",
+ "lat": 19.0423145,
+ "lon": 72.8398344,
+ "fetchedAt": "2026-10-12T18:49:21.406Z",
+ "locality": {
+  "id": "mahim-mumbai-city-district-maharashtra",
+  "name": "Mahim",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Mahim": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mahim_bay_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Mahim",
+   "credit": "Photo: Mehulsg, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahim_bay_skyline.jpg"
+  },
+  "Bandra": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bandra_Worli_Sea_Link_at_night.jpg/1280px-Bandra_Worli_Sea_Link_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bandra",
+   "credit": "Photo: Navin Thakur, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bandra_Worli_Sea_Link_at_night.jpg"
+  },
+  "Dharavi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Dharavi_India.jpg/1280px-Dharavi_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dharavi",
+   "credit": "Photo: YGLvoices, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharavi_India.jpg"
+  },
+  "Mumbai Suburban district": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/ICICI_Towers%2C_BKC_%28289443859%29.jpg/1280px-ICICI_Towers%2C_BKC_%28289443859%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mumbai Suburban district",
+   "credit": "Photo: Rakesh from Bangalore, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICICI_Towers,_BKC_(289443859).jpg"
+  },
+  "Mahim Causeway": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Mahim_Causeway_2.jpg/1280px-Mahim_Causeway_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mahim Causeway",
+   "credit": "Photo: Nicholas (Nichalp), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahim_Causeway_2.jpg"
+  },
+  "Bombay Scottish School, Mahim": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bombay_Scottish_School_1878.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Bombay Scottish School, Mahim",
+   "credit": "Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombay_Scottish_School_1878.jpg"
+  },
+  "St. Michael's Church, Mumbai": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/St._Michael%27s_Church%2C_Mahim_4.jpg/1280px-St._Michael%27s_Church%2C_Mahim_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Michael's Church, Mumbai",
+   "credit": "Photo: Nicholas (Nichalp), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Michael%27s_Church,_Mahim_4.jpg"
+  },
+  "Mahim Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/181-Mahim.svg/1280px-181-Mahim.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mahim Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:181-Mahim.svg"
+  },
+  "Lilavati Hospital and Research Centre": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Lilavati_Hospital%2C_Bandra.jpg/1280px-Lilavati_Hospital%2C_Bandra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Lilavati Hospital and Research Centre",
+   "credit": "Photo: Nicholas (Nichalp), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lilavati_Hospital,_Bandra.jpg"
+  },
+  "P. D. Hinduja Hospital and Medical Research Centre": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hinduja_Hospital%2C_Mahim%2C_Mumbai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "P. D. Hinduja Hospital and Medical Research Centre",
+   "credit": "Photo: Jkl0101, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hinduja_Hospital,_Mahim,_Mumbai.jpg"
+  },
+  "Mahim Junction railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Mahim_railway_station.jpg/1280px-Mahim_railway_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mahim Junction railway station",
+   "credit": "Photo: Superfast1111, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahim_railway_station.jpg"
+  },
+  "Church of Our Lady of Mount Carmel, Bandra": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mount_Carmel_Church_Facade.jpg/1280px-Mount_Carmel_Church_Facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Church of Our Lady of Mount Carmel, Bandra",
+   "credit": "Photo: Trinidade, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Carmel_Church_Facade.jpg"
+  },
+  "Shitaladevi Mandir metro station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Shitala_Devi_Mandir_metro_station_entrance_A2.jpg/1280px-Shitala_Devi_Mandir_metro_station_entrance_A2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Shitaladevi Mandir metro station",
+   "credit": "Photo: Rupturestriker, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shitala_Devi_Mandir_metro_station_entrance_A2.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mahim",
+   "text": "Mahim, pronounced [maːˈɦiːm]) is a neighborhood in Mumbai, Maharashtra, India. The Mahim Junction railway station on the Western Railway and Harbour Railway of the Mumbai Suburban Railway network is the last station of the city, as neighboring Bandra is part of the Mumbai Suburb. Mahim is an ethnically and religiously diverse town and has a Hindu temple, church, mosque, and Parsi fire-temple, existing within a few meters of each other.\n\n\n== History ==\nMahim was one of the Seven Islands of Bombay that were later joined through land reclamation projects to form the present-day Mumbai City district.\nMahikavatichi Bakhar, a 15th-17th century Marathi text of doubtful authenticity, describes the history of Mahim as follows: Pratap Bimb, a brother of the king of Champaner, established his capital at a place called Mahikavati, the present-day Mahim village near Kelve (now commonly known as Kelve-Mahim). After losing control of this place, Pratap Bimb established his new capital at present-day Mahim, which he named after his former capital. After one of his successors died heirless, Nagar-shah, the ruler of Ghandivi (Gandevi), conquered the area. In the 14th century, Prince Bimb-dev (Bhima) of...",
+   "url": "https://en.wikipedia.org/wiki/Mahim"
+  },
+  {
+   "title": "Bandra",
+   "text": "Bandra ([bæːɳɖɾa]) is a coastal suburb located in Mumbai, the largest city of the Konkan division in Maharashtra, India. The area is located to the immediate north of the Mithi River, which separates Bandra from the Mumbai City district. It is the third-largest commercial hub in Maharashtra, after the Mumbai City and Pune, primarily aided by the Bandra Kurla Complex.\nBefore the opening of Khar Road railway station on 1 July 1924, Bandra was a larger area and included the present-day Khar neighbourhood. It was considered too large a suburb to be served by one railway station, and a railway station was established to give the northern part of Bandra closer access to the Western Railway line. This eventually led to Khar being considered a separate suburb. However, to this day, the two adjoined suburbs make up one homogeneous zone. A number of prominent residents of Bandra are celebrities or VIPs who are or have been active in Hindi cinema, media, cricket, or politics.",
+   "url": "https://en.wikipedia.org/wiki/Bandra"
+  },
+  {
+   "title": "Dharavi",
+   "text": "Dharavi is a residential area in Mumbai, Maharashtra, India. It has often been considered one of the world's largest slums. It has an area of just over 2.39 square kilometres (0.92 sq mi; 590 acres) and a population of about 1,000,000. With a population density of over 418,410/km2 (1,083,677/sq mi), it is one of the most densely populated areas in the world.\nThe Dharavi slum was founded in 1884, during the British colonial era, and grew due to the expulsion of factories and residents from the peninsular city centre by the colonial government and the migration of rural Indians into urban Mumbai. For this reason, Dharavi is a highly diverse settlement, religiously and ethnically.\nDharavi has an active informal economy, in which household enterprises employ slum residents—leather, textiles, and pottery products are among the goods produced there. The total annual turnover was estimated to be over US$1 billion in 2009.\nDharavi has suffered from many epidemics and other disasters, including a widespread plague in 1896, which killed over half of the population of Mumbai. Sanitation in the slum remains poor.",
+   "url": "https://en.wikipedia.org/wiki/Dharavi"
+  },
+  {
+   "title": "Mumbai Suburban district",
+   "text": "Mumbai Suburban district (Marathi: Mumbai Upanagar Jilhā) is the second most populous district of Maharashtra in the Konkan Division. With its administrative headquarters in Bandra, the district consists of three subdivisions or tehsils (townships): Kurla, Andheri, and Borivali. The district along with Mumbai City district and other suburban localities make up Greater Mumbai. The district occupies an area of 446 km2 on Salsette Island.\nThis is the second smallest district of Maharashtra, and the jurisdiction of Mumbai Suburban district extends from Bandra to Dahisar, from Kurla to Mulund, and from Kurla up to Trombay creek. The district is one of the largest in the country by population. The current population is 9,356,962, according to the 2011 census of India, making it the fifth most populous district in India (out of 672). The Mithi River is the main river in the district.",
+   "url": "https://en.wikipedia.org/wiki/Mumbai_Suburban_district"
+  },
+  {
+   "title": "Mahim Causeway",
+   "text": "The Mahim Causeway is a vital link road connecting Mumbai City district/South Mumbai (Churchgate to Mahim) with its northern and western Suburbs (Bandra to Dahisar). The causeway links the neighbourhoods of Mahim to the south with Bandra to the north.\nThe Mahim Causeway was built between 1841 and 1846 to connect the former islands of Mahim and Salsette, before the land around them was reclaimed. The swampy area between the two islands made travel dangerous and thus a need for a causeway arose. The British East India Company, which governed Bombay at that time, refused to fund the project. After several ferry-related deaths during the monsoon of 1840, Avabai Jeejeebhoy offered to fund the construction of a bridge connecting Salsette and Mahim. After some negotiations between the Jeejeebhoy family and the Government, her husband Jamsetjee Jejeebhoy donated Rs. 155,800 for the causeway, which opened to the public in 1845.\nThe Mahim causeway forms the link between Swami Vivekanand Road and L.J. Road, being the stretch between Bandra masjid and Mahim church (St. Michael's). It is not to be confused with the Bandra–Worli Sea Link, a major infrastructural project opened on 30 June 2009 which...",
+   "url": "https://en.wikipedia.org/wiki/Mahim_Causeway"
+  },
+  {
+   "title": "Bombay Scottish School, Mahim",
+   "text": "The Bombay Scottish School, Mahim, popularly known as Scottish, is a private, Christian co-educational day school located at Mahim West in Mumbai, India. The institution was established in 1847 by Scottish Christian missionaries under the name Scottish Female Orphanage. Bombay Scottish School, Powai is an affiliate of this institution.\nThe school caters to pupils from junior kindergarten up to class 12 and the medium of instruction is English. The school is affiliated with the Council for the Indian School Certificate Examinations, New Delhi, which conducts the ICSE examinations at the close of class 10 and the ISC examinations at the close of class 12. The school has been among the top 10 schools in India for the past few decades.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Bombay_Scottish_School,_Mahim"
+  },
+  {
+   "title": "St. Michael's Church, Mumbai",
+   "text": "St. Michael's Church is one of the oldest Catholic churches in the Mahim suburb of Mumbai (Bombay), India.\nBecause the church is at the junction of Lady Jamshetjee Road and Mahim Causeway it is sometimes referred to as Mahim Church.\nAs of 2023 the Parish priest was Bernard Lancy Pinto.\n\n",
+   "url": "https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Mumbai"
+  },
+  {
+   "title": "Mahim Assembly constituency",
+   "text": "Mahim Assembly constituency is a part of Maharashtra Vidhan Sabha, in Western India; it is a segment of Mumbai South Central (Lok Sabha constituency).",
+   "url": "https://en.wikipedia.org/wiki/Mahim_Assembly_constituency"
+  },
+  {
+   "title": "Lilavati Hospital and Research Centre",
+   "text": "The Lilavati Hospital and Research Centre is a private hospital located in Bandra, Mumbai, India.  The hospital was established in 1978 by the Lilavati Kirtilal Mehta Medical Trust.",
+   "url": "https://en.wikipedia.org/wiki/Lilavati_Hospital_and_Research_Centre"
+  },
+  {
+   "title": "P. D. Hinduja Hospital and Medical Research Centre",
+   "text": "The P. D. Hinduja Hospital and Medical Research Centre is a multi-speciality, tertiary-care hospital in Mumbai, India. It was founded in 1951 by Parmanand Deepchand Hinduja, in collaboration with the Massachusetts General Hospital, the main teaching hospital of Harvard Medical School, Boston.  \nThe hospital is owned and operated by the London-based Hinduja Group, through Hinduja Healthcare Limited, which also operates Hinduja Healthcare Surgical at Khar, Mumbai. Its chief executive officer is Gautam Khanna.\nHinduja Hospital is ranked the 6th-best hospital in India, 3rd-best among the private hospitals in India, best in Western India, best multi-speciality hospital in metros, and the cleanest hospital in Mumbai.\nIt has strategic partnerships with King's College London, Guy's and St Thomas' NHS Foundation Trust, Geneva University Hospitals, Stanford University, Henry Ford Health Systems to advance training, education and research.",
+   "url": "https://en.wikipedia.org/wiki/P._D._Hinduja_Hospital_and_Medical_Research_Centre"
+  },
+  {
+   "title": "Xavier Institute of Engineering",
+   "text": "The Xavier Institute of Engineering (XIE), a sister institution of St. Xavier's College, Mumbai, is an engineering college in central Mumbai, established in the year 2005 to deliver technical education to all, with a preferential option for economically disadvantaged and Christian students. The institute is managed by Jesuits and is affiliated to Mumbai University, approved by AICTE New Delhi, and recognized by Directorate of Technical Education, Government of Maharashtra. XIE is a member of the Association of Jesuit Institutes of Technology and the(International Association of Jesuit Engineering Schools. It is accredited by National Assessment and Accreditation Council of India. Since XIE is affiliated to Mumbai University, it follows its syllabus and examination system.\nXIE began in the early 1930s as a technical institute on the premises of St. Xavier College, Mumbai, providing basic professional courses. In 2005, it became a polytechnic and was moved to Mahim, near what was called \"Fishermen's Colony\", a fifteen-minute walk from the Mahim Junction Railroad Station.\nXIE offers undergraduate degree courses in Electronics and Telecommunication Engineering (60 seats), Computer Engineering...",
+   "url": "https://en.wikipedia.org/wiki/Xavier_Institute_of_Engineering"
+  },
+  {
+   "title": "Indian School of Media",
+   "text": "Indian School of Media (also known as ISM) is a vocational training institute in Mumbai, India.",
+   "url": "https://en.wikipedia.org/wiki/Indian_School_of_Media"
+  },
+  {
+   "title": "Mahim Junction railway station",
+   "text": "Mahim Junction (Marathi pronunciation: [maːˈɦiːm]; station code: MM) is an Indian railway station on the Western line and Harbour Line of the Mumbai Suburban Railway network. It serves the last town of the Mumbai City district, Mahim.",
+   "url": "https://en.wikipedia.org/wiki/Mahim_Junction_railway_station"
+  },
+  {
+   "title": "Church of Our Lady of Mount Carmel, Bandra",
+   "text": "The Church of Our Lady of Mount Carmel, Bandra is a Roman Catholic church in Bandra, Mumbai. It was built in 1894 by Jesuit Missionaries. As the catholic population in Bandra increased in the latter half of the 20th century, a new modern structure was constructed in its place. The new church was blessed and inaugurated on 11 February 1981 by Archbishop Simon Pimenta, Archbishop of Bombay.",
+   "url": "https://en.wikipedia.org/wiki/Church_of_Our_Lady_of_Mount_Carmel,_Bandra"
+  },
+  {
+   "title": "Shitaladevi Mandir metro station",
+   "text": "Shitaladevi Mandir is an underground metro station serving area Wanjawadi area of Mahim in Mumbai on the north–south corridor of the Aqua Line 3 of Mumbai Metro in Mumbai, India. It was opened to public on 10 May 2025.",
+   "url": "https://en.wikipedia.org/wiki/Shitaladevi_Mandir_metro_station"
+  }
+ ],
+ "sights": [
+  {
+   "name": "St, Michael's Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 19.042772,
+   "lon": 72.8407926
+  },
+  {
+   "name": "Mahim Fort",
+   "kind": "attraction",
+   "walkMinutes": 3,
+   "lat": 19.0420113,
+   "lon": 72.8381267
+  },
+  {
+   "name": "Dargah Hazrat Qurban Shah",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 19.0409822,
+   "lon": 72.8442734
+  },
+  {
+   "name": "Hanuman Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 19.0374647,
+   "lon": 72.8412326
+  },
+  {
+   "name": "Moiniya Jama Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 19.0444947,
+   "lon": 72.8464459
+  },
+  {
+   "name": "Good News Methodist Kannada Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 19.0447192,
+   "lon": 72.8465161
+  },
+  {
+   "name": "Ahl e Hadid",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 19.043734,
+   "lon": 72.8469626
+  },
+  {
+   "name": "Jama Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 19.0517779,
+   "lon": 72.8385854
+  },
+  {
+   "name": "Dattatreya Mandir",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 19.0316693,
+   "lon": 72.8392724
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

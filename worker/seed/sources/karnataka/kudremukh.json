@@ -1,0 +1,40 @@
+{
+ "query": "Kudremukh",
+ "found": "Kudremukha, Kalasa taluk, Chikkamagaluru, Karnataka, India",
+ "lat": 13.2190695,
+ "lon": 75.2510322,
+ "fetchedAt": "2026-10-12T18:33:23.498Z",
+ "locality": {
+  "id": "kudremukha-chikkamagaluru-karnataka",
+  "name": "Kudremukha",
+  "area": "Kalasa taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Kudremukha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Shola_Grasslands_and_forests_in_the_Kudremukh_National_Park%2C_Western_Ghats%2C_Karnataka.jpg/1280px-Shola_Grasslands_and_forests_in_the_Kudremukh_National_Park%2C_Western_Ghats%2C_Karnataka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kudremukha",
+   "credit": "Photo: Karunakar Rayker, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shola_Grasslands_and_forests_in_the_Kudremukh_National_Park,_Western_Ghats,_Karnataka.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kudremukha",
+   "text": "Kudremukha is the name of a mountain range and an individual mountain peak located in Chikmagalur district,  in Karnataka, India. It is also the name of a small hill station and iron ore-mining town situated near the mountain, about 20 kilometres from Kalasa in Kalasa Taluk. The name Kuduremukha literally means \"horse-faced\" in Kannada and refers to a particular picturesque view of a side of the mountain that resembles a horse's face. It was also referred to as 'Samseparvata', historically since it was approached from Samse village. Kuduremukha is Karnataka's 2nd highest peak after Mullayanagiri and 26th highest peak in western ghats. The nearest International Airport is at Mangalore which is at a distance of 99 kilometres.\nThe Kudremukha National Park in the Western Ghats is a part of the world's 38 ‘hottest hotspots’ of biological diversity, a UNESCO World Heritage Site.\n\n\n== Location ==\nThe Kudremukha National Park (latitude 13°01'00\" to 13°29'17\" N, longitude 75°00'55' to 75°25'00\" E) is the second-largest Wildlife Protected Area (600.32  km2) belonging to a tropical wet evergreen type of forest in the Western Ghats. Kudremukha National Park is located at the tri-junction of Dakshina...",
+   "url": "https://en.wikipedia.org/wiki/Kudremukha"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 10,
+   "lat": 13.2186665,
+   "lon": 75.2568832
+  }
+ ],
+ "food": [],
+ "errors": []
+}

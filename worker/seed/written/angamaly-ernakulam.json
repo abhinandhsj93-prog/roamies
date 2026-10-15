@@ -1,0 +1,98 @@
+{
+ "query": "Angamaly, Ernakulam",
+ "region": "kerala",
+ "name": "Angamaly",
+ "draft": {
+  "briefing": "Hey, you're in Angamaly! This town was once the seat of Mar Abraham, the last East Syriac bishop to reach the Malabar Coast, and its old churches go back to the 1500s.",
+  "hungryLine": "Angamaly is a busy junction town, so you'll find simple Kerala meals and tea shops all around the centre.",
+  "moodReplies": {
+   "show-me-around": "Three historic churches are within an 8 minute walk: Mar Hormizd Cathedral, St. Mary's Cheriyapally and St. George Basilica.",
+   "somewhere-to-chill": "Step into the quiet of Mar Hormizd Cathedral, just 4 minutes away, and look around a church built in 1578.",
+   "surprise-me": "Old coins and other finds show this area was mostly Buddhist and Jain long before its famous churches."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Mar Hormizd Syro-Malabar Cathedral, Angamaly",
+     "detail": "4 min walk · Built in 1578 by Mar Abraham",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "St. Mary's Jacobite Soonoro Cathedral, Angamaly",
+     "detail": "8 min walk · Founded in 1564, known locally as Cheriyapally",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "St. George Syro-Malabar Basilica, Angamaly",
+     "detail": "8 min walk · Made a minor basilica in 2009",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Angamaly",
+    "title": "The Apostle's visit",
+    "body": "Tradition says Thomas the Apostle came to this region from the port of Kodungaloor in AD 52. Angamaly grew into a centre of Saint Thomas Christians."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Keep an umbrella handy.",
+    "body": "Kerala gets rain for at least seven to eight months a year."
+   },
+   {
+    "icon": "tag",
+    "title": "Use the station for the airport.",
+    "body": "Angamaly railway station is the closest one to Cochin International Airport, about 5 km away."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Buddhist and Jain roots",
+    "body": "Old coins and other artifacts show the region was mostly Buddhist and Jain. Churches followed, with evidence of some built as early as AD 409 and AD 822.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1564 to 1578",
+    "title": "A bishop's seat",
+    "body": "Cheriyapally was founded in 1564. Mar Abraham, once imprisoned by the Portuguese in Goa, made Angamaly his see and built Mar Hormizd Cathedral in 1578.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1600s",
+    "title": "The archdeacon's home",
+    "body": "Archdeacon Thomas Parambil lived at Cheriyapally. After the Coonan Cross Oath in 1653 he was consecrated as bishop Mar Thoma I.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1959",
+    "title": "The police firing",
+    "body": "On 13 June 1959 police fired on protesters demonstrating against Kerala's communist government. The event is still tied to the town's name.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "A Kochi gateway",
+    "body": "Angamaly became a municipality in 1978 and is now part of the Kochi metropolitan area. In 2009 Pope Benedict XVI made St George's a minor basilica.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,220 @@
+{
+ "query": "Bidar",
+ "found": "Bidar (pinned)",
+ "lat": 17.923,
+ "lon": 77.5274,
+ "fetchedAt": "2026-10-12T18:55:19.114Z",
+ "locality": {
+  "id": "old-city-bidar-karnataka",
+  "name": "Old City",
+  "area": "Bidar, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Bidar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Guru_Nanak_Jhira_Sahib_gurdwara_in_Bidar%2C_Jul_2017.jpg/1280px-Guru_Nanak_Jhira_Sahib_gurdwara_in_Bidar%2C_Jul_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bidar",
+   "credit": "Photo: Sunnya343, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guru_Nanak_Jhira_Sahib_gurdwara_in_Bidar,_Jul_2017.jpg"
+  },
+  "Bidar Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gumbaz_Darwaza_of_the_Bidar_fort_%28cropped%29.jpg/1280px-Gumbaz_Darwaza_of_the_Bidar_fort_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bidar Fort",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gumbaz_Darwaza_of_the_Bidar_fort_(cropped).jpg"
+  },
+  "Bidar railway station": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bidar_railway_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Bidar railway station",
+   "credit": "Photo: Kushal Kumar Jain, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bidar_railway_station.jpg"
+  },
+  "Mahmud Gawan Madrasa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Complete_view_of_Mahumad_Gawan.JPG/1280px-Complete_view_of_Mahumad_Gawan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mahmud Gawan Madrasa",
+   "credit": "Photo: Prasannasindol, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Complete_view_of_Mahumad_Gawan.JPG"
+  },
+  "Gajapati invasion of Bidar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gateway_to_Bidar_fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Gajapati invasion of Bidar",
+   "credit": "Photo: Vamsi Rimmalapudi, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gateway_to_Bidar_fort.jpg"
+  },
+  "Chaubara (watchtower)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Choubara-Bidar-Karnataka-PhotoOne.jpg/1280px-Choubara-Bidar-Karnataka-PhotoOne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chaubara (watchtower)",
+   "credit": "Photo: Sngmsh8666, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Choubara-Bidar-Karnataka-PhotoOne.jpg"
+  },
+  "Solah Khamba Mosque": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Solah_Khamba.jpg/1280px-Solah_Khamba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Solah Khamba Mosque",
+   "credit": "Photo: S N Barid, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solah_Khamba.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Old City",
+   "text": "Old City often refers to old town, the historic or original core of a city or town.\nOld City may refer to several places:\n\n\n== Historical cities or regions of cities ==\n\n\n=== Africa ===\nOld City (Cairo), Egypt\n\n\n=== Asia ===\nOld City (Baku), Azerbaijan\nOld City (Dhaka), Bangladesh, also called Old Dhaka\nOld City (Shanghai), China\nOld City (Hyderabad, India)\nOld City (Jaffa), Israel\nOld City (Jerusalem)\nOld City (Hyderabad, Sindh), Pakistan\nOld City, Lahore, Pakistan\nOld City of Gaza, Palestine\nOld City of Zuoying, Taiwan\nEskişehir (Old City), Turkey\nOld City District, a district of the Amanat Al Asimah Governorate, Yemen\n\n\n=== Europe ===\nOld City, Bristol, England\nOld City of Freiburg, Germany\nOld Town, Oslo, Norway\nOld City (Zamość), Poland\nOld town, Stockholm, Sweden\nOld City (Bern), Switzerland\n\n\n=== North America ===\nOld Montreal, Canada\nOld Quebec, Canada, also called Old City\nOld Toronto, Canada\nNear Northeast, Washington, D.C., United States, historically called Old City\nOld City, Knoxville, Tennessee, United States\nOld City, Philadelphia, Pennsylvania, United States\n\n\n== Other ==\nOld City Cemetery (disambiguation)\nOld City Gaol, Bristol, England\nOld City Hall (disambiguation)\nOld City Waterworks...",
+   "url": "https://en.wikipedia.org/wiki/Old_City"
+  },
+  {
+   "title": "Bidar",
+   "text": "Bidar ( Kannada: [biːd̪əɾ] ) is a city and the headquarters of the Bidar district in Karnataka state of India. Bidar is a prominent place on the archaeological map of India. It is well known for architectural, historical religious and rich heritage sites. Picturesquely perched on the Deccan Plateau, the Bidar fort (Bidar Kote) is more than 500 years old and still standing strong. According to the book \"Bidar Heritage\" published by the state Department of Archaeology, Museums and Heritage, of the 61 monuments listed by the department, about 30 are tombs located in and around Bidar city., hence its nickname, \"City of Whispering Monuments\". The heritage sites in and around Bidar have become the major attraction for film shooting in recent years, with Bollywood making visits apart from Kannada film industry.\nBidar is home for the second biggest Indian Air Force training centre in the country. The IAF Station Bidar is used for advanced jet training of prospective fighter pilots on BAe Hawk aircraft.\nBidar city is known for its Bidri handicraft products, and its rich history. Bidar is also considered one of the holiest place for Sikh pilgrimage. Unlike other places in the region, Bidar is...",
+   "url": "https://en.wikipedia.org/wiki/Bidar"
+  },
+  {
+   "title": "District courts of India",
+   "text": "The district courts of India are the district courts of the state governments in India for every district or for one or more districts together taking into account of the number of cases, population distribution in the district. They administer justice in India at a district level.\n\nThe civil court/district court is judged by the district and sessions judge who is the judicial head of a district with a limited control over administration also. It is the principal court of original civil jurisdiction besides the high court of the state and which derives its jurisdiction in civil matters primarily from the Code of Civil Procedure. The district court is also a court of sessions when it exercises its jurisdiction on criminal matters under the Bharatiya Nagarik Suraksha Sanhita. The district court is presided over by a district judge appointed by the governor of the state with on the advice of chief justice of that high court. In addition to the district judge there may be a number of additional district judges and assistant district judges depending on the workload. The additional district judge and the court presided have equivalent jurisdiction as the district judge and their district...",
+   "url": "https://en.wikipedia.org/wiki/District_courts_of_India"
+  },
+  {
+   "title": "Bagdal",
+   "text": "Bagdal is a small town in Bidar taluka of Bidar district in the Indian state of Karnataka.",
+   "url": "https://en.wikipedia.org/wiki/Bagdal"
+  },
+  {
+   "title": "Kamthana",
+   "text": "Kamthana is a village in Bidar taluka of Bidar district, in the Indian state of Karnataka. Kamthana's ancient village, Jain Tirtha (pilgrimage), is about 10 km from Bidar, famous for the historical Parshavanth Tirthankara Jain temple. The annual three-day car festival is usually held in February.",
+   "url": "https://en.wikipedia.org/wiki/Kamthana"
+  },
+  {
+   "title": "Manhalli",
+   "text": "Manhalli, or Manalli, is a small town in Bidar taluka of Bidar district in the Indian state of Karnataka. It is located 20 km from Bidar.",
+   "url": "https://en.wikipedia.org/wiki/Manhalli"
+  },
+  {
+   "title": "Bidar Fort",
+   "text": "Bidar Fort is located in the old city area, Bidar, Karnataka, India. The fort, the city and the district are all affixed with the name Bidar. Sultan Ahmad Shah I of the Bahmanid dynasty shifted his capital from Gulbarga to Bidar in 1427 and built his fort along with a number of Islamic monuments. There are over 30 monuments inside Bidar fort.\nThe complex was placed by UNESCO on its \"tentative list\" to become a World Heritage Site in 2014, with others in the region, under the name Monuments and Forts of the Deccan Sultanate. The Bidar Fort has witnessed many historical milestones – the rise and fall of Bahmani dynasty, rise and separation of the five Deccan Sultans, capture by the Barid Shahi and Adil Shahi dynasties, and finally being won by the Mughal emperor Aurangzeb in the blockade of Bidar in 1657.\nBidar was the capital of the Bahmani Kingdom in the 14th century. This fort was built by Ahmed Shah Wali Bahmani. The Fort was renovated in the 15th century by Sultan Ahmad Shah-I as he shifted his capital from Kalaburagi (Gulbarga) to Bidar.",
+   "url": "https://en.wikipedia.org/wiki/Bidar_Fort"
+  },
+  {
+   "title": "Bidar railway station",
+   "text": "Bidar railway station (Station code: BIDR) is located in Bidar district in the Indian state of Karnataka and serves Bidar.",
+   "url": "https://en.wikipedia.org/wiki/Bidar_railway_station"
+  },
+  {
+   "title": "Mahmud Gawan Madrasa",
+   "text": "The Mahmud Gawan Madrasa is a former madrasa, now mosque, in partial ruins, located in Bidar, in the state of Karnataka, India. It was completed in 876 AH (1471/1472 CE) and is an example of the regional style of Indo-Islamic architecture under the Bahmani Sultanate. Founded by the prime-minister of the sultanate in the late 15th century, it bears testimony to the scholarly genius of Mahmud Gawan, who first came to Delhi, in exile, as a Persian trader from Gilan in Iran and moved to Bidar in 1453.\nMahmud reportedly built the madrasa with his own money and it functioned like a residential university which was built and maintained on the lines of Madrasa of Khurasan. The imposing and spacious building of the institution is considered as an architectural gem and an important landmark of Bidar.\nThe structure is a Monument of National Importance, administered by the Archaeological Survey of India (ASI) since 1914. In 2014, UNESCO placed the building on its \"tentative list\" to become a World Heritage Site, under the name Monuments and Forts of the Deccan Sultanate.",
+   "url": "https://en.wikipedia.org/wiki/Mahmud_Gawan_Madrasa"
+  },
+  {
+   "title": "Bidar Institute of Medical Sciences",
+   "text": "Bidar Institute of Medical Sciences, better and abbreviated as, BRIMS is a district Government Hospital and medical college in Bidar, Karnataka with a status of autonomous institute under Government of Karnataka. The college is recognised by National Medical Commission and is affiliated to Rajiv Gandhi University of Health Sciences.\nInitially was tagged to district hospital of Bidar, which was of 300 beds strength and was later upgraded to new BRIMS teaching hospital of 750 beds. The new building has eight stories with various departmental OTs, central lab, upgraded equipments, which was inaugurated in 2017.\nThe Institution runs UG and PG courses in various specialities. Intake for MBBS was initially 100 annually and had been increased to 150 per annum since 2017. Admissions are through NEET UG.\nPG seats are in the department of Anatomy, Physiology, Biochemistry, Pharmacology, Forensic medicine and Community medicine. Seats for clinical departments are expected to start from 2018 onwards in Medicine, Surgery, Ophthal, ENT and Pediatrics. Admissions are through NEET PG.\nThe institute is tagged with zonal pharmacovigilance centre and NODAL reference lab under NTCP (National Tuberculosis...",
+   "url": "https://en.wikipedia.org/wiki/Bidar_Institute_of_Medical_Sciences"
+  },
+  {
+   "title": "Gajapati invasion of Bidar",
+   "text": "The Gajapati invasion of Bidar in 1461 was a significant military expedition by Kapilendra Deva of the Gajapati Empire against the Bahmani Sultanate. This event unfolded in the aftermath of Humayun Shah Bahmani's demise and the subsequent ascent of Nizam Shah Bahmani to the throne. The primary objective of the campaign was to seize Bidar, the present-day region of Karnataka. Backed by Kakatiya chiefs, the Gajapati forces engaged in a decisive conflict with the Bahmani forces led by Muhibullah. The outcome saw the defeat of the Gajapatis, compelling the submission of Kapilendra.",
+   "url": "https://en.wikipedia.org/wiki/Gajapati_invasion_of_Bidar"
+  },
+  {
+   "title": "Chaubara (watchtower)",
+   "text": "Chaubara, also spelt Choubara, is a historic watchtower located in Bidar, in the Indian state of Karnataka. It is listed as a state protected monument.",
+   "url": "https://en.wikipedia.org/wiki/Chaubara_(watchtower)"
+  },
+  {
+   "title": "Solah Khamba Mosque",
+   "text": "The Solah Khamba Mosque is a mosque within the Bidar Fort in Bidar, in the state of Karnataka, India.",
+   "url": "https://en.wikipedia.org/wiki/Solah_Khamba_Mosque"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bidar",
+  "text": "Bidar (Kannada: ಬೀದರ, Urdu: بیدار) is a city in the Indian state of Karnataka, west of Hyderabad. Once a citadel of Badri Shahi and Bahmani empire Bidar still houses the remains of a gigantic fort along with a couple of tomb complexes. \n\n\n== See ==\n\nThe following are the major places of interest: Guru Nanak Jhira Gurudwara, Place where Guru Nanak Dev ji has produced the spring of drinking water by touching a rock with his Toe. Another well known place is Hazrath Shamsuddin Quadri Shrine popularly known as Multani Badshah. Another well known place of visit is Choukhandi.The popular barid shahi tombs and a Jail made by the British before independence. Narasimha Zarna (Lord Narasimha Temple), Papnash (Shiva Temple), Bidar fort at Bidar, the great Friday mosque at Bidar, Nayee kamaan (fell down – so no more), Madarsa (university) of Mehmood Gawan, choubara (watch tower)at Bidar, several dargahs (mausoleums) of local Islamic saints, Basvesvara Temple, Barid shahi garden, Tomb of Mehmood Gawan, Kalyani shariff, 12th Century Cave, Kalyan shariff, Kalyan Fort, Kalyan shairff, Bidri Art Materials at Old City.\n\n1 Bidar Fort. Built in 1427 when Sultan Alla-Ud Din Bahman of the Bahmanid Dynasty shifted his capital from Gulbarga to Bidar. There are over 30 monuments inside fort. The fort was one of the largest and strongest forts in India.It was built in 15th century. (updated Aug 2021)\n2 Mahmud Gawan Madrasa. An ancient madrasa (Islamic college) built by the Bahamani empire around 1460 AD. It bears testimony to the scholarly genius of Mahmud Gawan, who first came to Delhi as a Persian trader from Gilan in Iran and moved to Bidar in 1453. The madrasa is a prime example of Indo-Islamic architecture and has been declared as a monument of national importance by the Indian government. (updated Aug 2021)\n3 Barid Shahi tombs.  (updated Aug 2021)\n4 Tomb of Qasim Barid.  (updated May 2023)\n5 Tomb of Qasim Barid II.  (updated May 2023)\n6 Tomb of Amir Barid (incomplete).  (updated May 2023)\n7 Tomb of Chand Sultana.  (updated May 2023)\n8 Barid Shahi Park.  (updated Mar 2023)\n9 Tomb of Ali Barid.  (updated May 2023)\n10 Tomb of Ibrahim Barid.  (updated May 2023)\n11 Bahmani Tombs.  (updated Aug 2021)\n12 Tomb of Ahmad Shah-al-wali.  (updated May 2023)\n13 Tomb of Allaudin Shah II.  (updated May 2023)\n14 Tomb of Humayun Zalim Shah.  (updated May 2023)\n15 Tomb of Nizam Shah.  (updated May 2023)\n16 Tomb of Muhammad Shah III.  (updated May 2023)\n17 Tomb of Mahmood Shah Bahmani II.  (updated May 2023)\n18 Tomb of Waliullah Shah Bahmani.  (updated May 2023)\n19 Tomb of Kaleemullah Shah Bahmani.  (updated May 2023)\n20 Tomb of Ahmed Shah Bahmani II.  (updated May 2023)\n21 Tomb of Malika E Jahan Bida.  (updated May 2023)\n22 Unknown Tomb.  (updated May 2023)\n23 Tomb of a unknown queen.  (updated May 2023)\n24 Dargah Hazrat Khalil Ullah Kirmani.  (updated Mar 2023)\n25 Choubara (Clock Tower).  (updated Mar 2023)\n26 Papnash Temple (ಪಾಪನಾಶ ಮಹಾದೇವ್ ಗುಡಿ). It is believed that Lord Sri Rama, on the way to Ayodhya from Lanka after defeating Ravana, visited this place and that resulted in the temple which would wash off his act of killing Ravana who is a Shiva Bhakt. (updated Aug 2021)\n27 Narasimha Zarna. The temple virtually runs into a cave waterbody and is one of the unique in the world. The water in the cave will guide the pilgrims to the idol. \n28 Gurdwara Nanak Jhira Sahib. This is a Sikh historical shrine. One of the most popular south Indian historical gurudwaras amongst the Sikh community all over India. \n Manik Prabhu Temple. Situated 53 km away from the city of Bidar, Manik Prabhu Temple is a unique architectural beauty and a major spiritual and religious centre. The Manik Prabhu temple is built over a Sanjeevani Samaadhi of a Saint- Shri Sadguru Manik Prabhu Maharaj and his spiritual stature and holy presence is still maintained by his 6th successor Shri Sadguru Dnyanraj Manik Prabhu Maharaj. The temple attracts both Hindu and Muslim devotees. The temple administration is carried out by Shri Manik Prabhu Samsthan which runs a number of social and charitable institutions since 140 years. \n Girija B Kudre's Farm House. B. S. Kudre a great visionary & a social reformer from Bidar had developed an Organic Mangoes / Amla plantation in about 65 acres (260,000 m2) of land at Andura. Having developed a cold storage along with it, exporting the Mangoes & Grapes to US, UK & Middle Eastern Countries. By adopting the primitive method of Agriculture / Horticulture, showing the importance of Indian Breed Cow's, their Medicinal values in day to day life, made a benchmark for all the researcher's to visit at least once in lifetime \nGates: The citadel has mulitple gateways\n29 Dulhan Darwaza.  (updated Mar 2023)\n30 Fateh Darwaza.  (updated Mar 2023)\n31 Chanda Shah Kaman.  (updated Mar 2023)\n32 Shah Gunj Darwaza.  (updated Mar 2023)\n\n\n== Do ==\n\n\n== Eat ==\nGhanada unde, a Bidari sweet, is a healthy laddu made with sugarcane juice, jaggery, groundnuts, cashews, almonds, etc.\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bidar"
+ },
+ "sights": [
+  {
+   "name": "Bidar Fort",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 17.924444444444447,
+   "lon": 77.52666666666667
+  },
+  {
+   "name": "Solah Khamba Mosque",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 17.9208,
+   "lon": 77.5281
+  },
+  {
+   "name": "Mahmud Gawan Madrasa",
+   "kind": "landmark",
+   "walkMinutes": 16,
+   "lat": 17.91476,
+   "lon": 77.5301
+  },
+  {
+   "name": "Bidar Institute of Medical Sciences",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 17.920555555555556,
+   "lon": 77.51555555555555
+  },
+  {
+   "name": "Chaubara",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 17.91165,
+   "lon": 77.5302
+  },
+  {
+   "name": "District courts of India",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 17.912,
+   "lon": 77.52
+  },
+  {
+   "name": "Gajapati invasion of Bidar",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 17.912,
+   "lon": 77.52
+  },
+  {
+   "name": "Bidar",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 17.912,
+   "lon": 77.52
+  },
+  {
+   "name": "Kamthana",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 17.91,
+   "lon": 77.53
+  },
+  {
+   "name": "Manhalli",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 17.91,
+   "lon": 77.53
+  },
+  {
+   "name": "Bagdal",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 17.91,
+   "lon": 77.53
+  },
+  {
+   "name": "Bidar railway station",
+   "kind": "landmark",
+   "walkMinutes": 29,
+   "lat": 17.911788,
+   "lon": 77.515281
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

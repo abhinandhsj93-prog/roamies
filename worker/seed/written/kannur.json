@@ -1,0 +1,133 @@
+{
+ "query": "Kannur",
+ "region": "kerala",
+ "name": "Kannur",
+ "draft": {
+  "briefing": "Hey, you're in Kannur! It's called the Land of Looms and Lore, thanks to its fabric industry and its many Theyyam temple festivals.",
+  "hungryLine": "Kannur eats Malabar style, biriyanis, puttu, appam and seafood, and look out for stuffed mussels, called arikkadukka, from local vendors.",
+  "moodReplies": {
+   "show-me-around": "Talap's Sundareshwara Temple is close by, and St. Angelo's Fort and Payyambalam Beach are a short drive.",
+   "somewhere-to-chill": "At Payyambalam Beach, sit in the little park and watch the sunset. The ticketed park is quieter than the sand.",
+   "surprise-me": "In 2012 Diego Maradona showed off some magical moves with the ball at Kannur's Jawahar Municipal Stadium."
+  },
+  "seeFirst": {
+   "caption": "Around Kannur",
+   "spots": [
+    {
+     "name": "Sundareshwara Temple",
+     "detail": "In Talap · The neighbourhood's best known temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "St. Angelo's Fort",
+     "detail": "3 km from town · Built by the Portuguese in 1505",
+     "status": {
+      "text": "Great sea views",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Payyambalam Beach",
+     "detail": "2 km from town · Sunset park and cliff walk",
+     "status": {
+      "text": "Often very crowded",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Parassinikkadavu",
+    "title": "A temple with no idol",
+    "body": "At the Muthappan Temple there's no idol. People worship through the Muttappan Theyyam ritual, and Muthappan is believed to be a form of Shiva."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Go see a Theyyam.",
+    "body": "Theyyam temple festivals are a big part of Kannur life, and the Muthappan Temple holds regular performances."
+   },
+   {
+    "icon": "sun",
+    "title": "Head to Payyambalam at sunset.",
+    "body": "The park by the beach is the best seat in town for it."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Seat of Kolathunadu",
+    "body": "Kannur was the headquarters of Kolathunadu, one of the four great dynasties of the Malabar Coast.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Late medieval",
+    "title": "The Arakkal kingdom",
+    "body": "The Arakkal kingdom held rights over Kannur city and the Laccadive Islands.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1505",
+    "title": "The Portuguese fort",
+    "body": "The Portuguese built St. Angelo's Fort by the sea.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1790",
+    "title": "British capture",
+    "body": "British forces under General Robert Abercromby besieged Cannanore and took it on 17 December 1790.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1866",
+    "title": "A municipality",
+    "body": "Kannur municipality was formed on 1 November 1866.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Thiruvathira Vegetarian",
+    "detail": "In Talap · A crowded local favourite",
+    "status": {
+     "text": "Usually crowded",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Brownies Coffee shop",
+    "detail": "In Talap · A favourite couples' hangout",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Dakshin Vegetarian",
+    "detail": "In South Bazar · Good dosai and idlis",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

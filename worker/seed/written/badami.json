@@ -1,0 +1,130 @@
+{
+ "query": "Badami",
+ "region": "karnataka",
+ "name": "Badami",
+ "draft": {
+  "briefing": "Hey, you're in Badami! This red sandstone town used to be Vatapi, the capital of the Badami Chalukyas from 540 to 757. Its cave temples, cut right into the cliff above Agastya lake, are some of the earliest Hindu temples in the Deccan.",
+  "hungryLine": "Station Road has the easy picks, from cheap veg meals near the bus stand to tandoori chicken a little out of town, and wash it down with buttermilk or roadside tea.",
+  "moodReplies": {
+   "show-me-around": "The Badami Cave Temples are a 7 min walk, and the Lower Shivalaya is just 5 minutes away. The museum is close too, and the 300 stairs up to the Shivalayas start right beside it.",
+   "somewhere-to-chill": "Climb up to the Upper Shivalaya plateau for sunset over Badami, just get back down before the museum gate is locked at 6PM.",
+   "surprise-me": "The Upper Shivalaya isn't actually a Shiva temple. Despite the name, it's a Vaishnava temple."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Badami Cave Temples",
+     "detail": "7 min walk · Four caves, the first one dug out by the Chalukyas around 550 AD",
+     "status": {
+      "text": "Ticketed entry",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Lower Shivalaya",
+     "detail": "5 min walk · On the stair path up the hill, with the granaries and Upper Shivalaya above",
+     "status": {
+      "text": "Gate locks at 6PM",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Bhutanatha Temple",
+     "detail": "12 min walk · Sandstone shrines on the east side of the lake",
+     "status": {
+      "text": "Lovely in early light",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time your sunset climb.",
+    "body": "The Upper Shivalaya plateau is great for sunset, but the metal gate at the museum is locked at 6PM."
+   },
+   {
+    "icon": "tag",
+    "title": "Check climbing gear carefully.",
+    "body": "You can hire ropes and quickdraws in town for the sandstone cliffs, but make sure the rope is still in good shape."
+   }
+  ],
+  "story": [
+   {
+    "era": "400s to 600s",
+    "title": "A lake in a ravine",
+    "body": "Agastya lake was made by people around the 5th to 7th century, ringed by an earthen wall with stone steps. It's also called Vatapi lake, after the town's old name.",
+    "illustration": "flood"
+   },
+   {
+    "era": "540 to 757",
+    "title": "Chalukya capital",
+    "body": "Vatapi was the royal capital of the Badami Chalukyas, who ruled much of Karnataka. The hill fort above town was their seat.",
+    "illustration": "palace"
+   },
+   {
+    "era": "550 AD",
+    "title": "Caves in the cliff",
+    "body": "The first cave temple, for Shiva, was carved around 550 AD. Two more for Vishnu and one with Jain carvings followed, and with Aihole they turned this river valley into a cradle of temple design.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Later centuries",
+    "title": "Many rulers",
+    "body": "The fort was changed again and again by the Vijayanagara Empire, the Bahmani and Adil Shahi sultans and Tipu Sultan before it fell into ruin.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Heritage city",
+    "body": "The fort is now looked after by the Archaeological Survey of India, with a museum of recovered sculptures and inscriptions next door. Badami was picked as one of the heritage cities under the HRIDAY scheme.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Udupi Shri Banashri Restaurant",
+    "detail": "Station Road, opposite the bus stand · Very good veg-only dhaba food",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Geeta Darshini",
+    "detail": "Station Road, 100 m after the bus stand · A nice veg restaurant",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Paradise",
+    "detail": "About 2 km north of the bus stand · Known for very good tandoori chicken",
+    "status": {
+     "text": "11:30AM-3:30PM, 7PM-midnight",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

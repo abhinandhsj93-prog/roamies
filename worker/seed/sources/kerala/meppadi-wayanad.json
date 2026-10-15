@@ -1,0 +1,69 @@
+{
+ "query": "Meppadi, Wayanad",
+ "found": "Meppadi, Vythiri, Wayanad, Kerala, 673577, India",
+ "lat": 11.5529455,
+ "lon": 76.1320079,
+ "fetchedAt": "2026-10-12T19:13:45.517Z",
+ "locality": {
+  "id": "kunnamangalamvayal-wayanad-kerala",
+  "name": "Kunnamangalamvayal",
+  "area": "Wayanad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Meppadi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Meppadi_Wayanad_%28197939084%29.jpg/1280px-Meppadi_Wayanad_%28197939084%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Meppadi",
+   "credit": "Photo: Dhruvaraj S from India, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meppadi_Wayanad_(197939084).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Meppadi",
+   "text": "Meppadi is a small town in the Indian state of Kerala. It is a scenic hill station on the State Highway between Kozhikode and Ooty.  The nearest city is Kalpetta, which is the headquarters of the Wayanad revenue district.\n\n\n== History ==\n\n\n=== 2024 Landslides ===\n\nIn July 2024, Meppadi was one of the villages in Wayanad district most affected by deadly landslides.    \n\n\n== Economy ==\nTea cultivation is the main economic activity of Meppadi village.  There are also some vegetable cultivation on small scale.  Most of the people living in Meppadi are workers in various tea estates where they cultivate cardamom too.  There is a small town catering to locals and the tourists. The tourists come to enjoy the salubrious climate of the place.\n\n\n== Distance ==\nMeppadi is 12 km from Kalpetta town in the Wayanad District. It is 78 km from Kozhikode (Calicut), 81 km from Nilambur, and 106 km from Ooty, and 281 km from Bangalore.\n\n\n== Tourist attractions ==\nKanthanpara Water falls\n900 Kandi\nSoochipara Falls\nMeenmutty Falls, Wayanad\nEdakkal Caves\nPookot Lake\nChembra Peak\nKarapuzha Dam\nVellarimala\nSunrise valley\nKarapuzha Dam\nThanhilode\n\n\n== Image gallery ==\n\n\n== See also ==\nChundale town\nKalpetta town\nMango Orange...",
+   "url": "https://en.wikipedia.org/wiki/Meppadi"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Wayanad",
+  "text": "Wayanad  is a beautiful mountainous district in the Malabar region of  Kerala located on the western ghats. It is sparsely populated and rural, with most of the land area covered with forests. The district abounds with hill stations, wildlife sanctuaries, rivers, dams, tea estates and trekking opportunities, with temples and heritage locations thrown in for good measure. Spread over 2,132 square kilometres, the district lies at an elevation of 700 metres, with its highest point reaching 2,100. \nWayanad borders Karnataka to its east and Tamil Nadu to its southeast. The districts of Kozhikode, Kannur and Malappuram form its eastern, northern and southern borders respectively. Wayanad is a popular weekend destination for travellers from Bangalore and Mysore. \n\n\n== See ==\nThe attractions in this region can be broadly categorized into three based on proximity. A 3-4 day tour allows covering all or most of these attractions. For further info, refer details on each town.\n\n\n=== Kalpetta area ===\nBanasura Sagar Dam\nChembra Hills.\nKarappuzha Dam\nMeenmutty Falls\nPookode Lake\nMeppadi Hills\n\n\n=== Sultan Bathery area ===\nJain Temple\nTholpetty Sanctuary\nAgricultural University\nPazhassi's Cave, Cherambadi\nEdakkal Caves\nWayanad (Muthanga) wildlife sanctuary\n\n\n=== Mananthavady area ===\nKuruva Islands\nLatin Church\nPakshipathalam\nPazhassi Raja Museum\nThirunelli Temple\nKutta Forest\nNagarhole National Park\nPulpally - Bathery forest road\n\n\n== Do ==\nHiking in the hills\nWalking in the tea estates\nEnjoying lakes and rivers\nWatching the Wildlife\nWalking in the serene villages\n\n\n== Eat ==\n\nKerala food is available in restaurants.  European food is available in resorts and home stays only.\nBamboo rice (called Mulayari by locals) can be found in Wayanad. These are seeds of the Bamboo plant, richer in protein than rice and wheat, but tasting like rice. Bamboo rice payasam stalls can be spotted near Edakkal caves walkway. Bamboo is said to yield seeds after a long span, so it is said that harvesting bamboo rice is a 'once-in-a-lifetime' experience.\nHome-made chocolates and local Wayanad tea and coffee are also sold in many places. Shops near Edakkal caves offer many options such as spiced versions.\n\n\n== Drink ==\nBeer and wine are easily available.  Stronger drinks are prohibited. Kambalakkad though does not have beer- you'd have to get it from Kalpetta or a neighboring town.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Wayanad"
+ },
+ "sights": [
+  {
+   "name": "Juma Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 11.5531554,
+   "lon": 76.1334602
+  },
+  {
+   "name": "Meppadi mosque",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 11.5549496,
+   "lon": 76.130307
+  },
+  {
+   "name": "CSI Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 11.5532295,
+   "lon": 76.1363287
+  },
+  {
+   "name": "St Joseph's church",
+   "kind": "place_of_worship",
+   "openingHours": "24/7",
+   "walkMinutes": 19,
+   "lat": 11.5570985,
+   "lon": 76.1420965
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

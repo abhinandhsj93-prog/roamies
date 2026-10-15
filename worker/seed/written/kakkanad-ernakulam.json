@@ -1,0 +1,86 @@
+{
+ "query": "Kakkanad, Ernakulam",
+ "region": "kerala",
+ "name": "Kakkanad",
+ "draft": {
+  "briefing": "Hey, you're in Kakkanad! This was a cluster of villages among paddy fields and wetlands not that long ago. Now it's the headquarters of Ernakulam district and home to Infopark and SmartCity Kochi.",
+  "hungryLine": "If you're heading to Wonderla, it has five restaurants and small cafes inside the park.",
+  "moodReplies": {
+   "show-me-around": "St. Francis Assisi church is a 5 min walk, and Wonderla, the second largest theme park in South India, is right here in Kakkanad.",
+   "somewhere-to-chill": "Wonderla has well kept gardens alongside its rides if you want a slower afternoon.",
+   "surprise-me": "The Naval Physical and Oceanographic Laboratory in nearby Thrikkakara is a DRDO lab that develops sonar systems for underwater surveillance."
+  },
+  "seeFirst": {
+   "caption": "Around Kakkanad",
+   "spots": [
+    {
+     "name": "St.Francis Assisi syro malabar Church",
+     "detail": "5 min walk · Neighbourhood church",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "St. John The Baptist Orthodox Syrian Church",
+     "detail": "16 min walk · Orthodox church",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Wonderla",
+     "detail": "In Kakkanad · 50+ rides over 50 acres",
+     "status": {
+      "text": "9:30AM-7PM",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Give Wonderla a full day.",
+    "body": "It opens 9:30AM to 7PM and has more than 50 rides and shows."
+   },
+   {
+    "icon": "tag",
+    "title": "Expect office traffic.",
+    "body": "Kakkanad holds the Civil Station, Infopark and the Cochin Special Economic Zone, so roads get busy."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Paddy and wetlands",
+    "body": "Kakkanad was a cluster of villages surrounded by paddy fields and wetlands.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Late 1900s",
+    "title": "Offices arrive",
+    "body": "Government offices moved in, then the IT sector, and Kakkanad became one of the fastest-growing parts of Kochi.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2003",
+    "title": "Special Economic Zone",
+    "body": "One of India's first Export Processing Zones, here in Kakkanad, became the Cochin Special Economic Zone.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Tech parks, the district Collectorate and a theme park, all in one suburb. Tell me which one you visited.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,109 @@
+// Roamies API (Cloudflare Worker).
+//
+// GET /debug?lat=..&lng=..   source summary for a spot (no AI call, nothing stored)
+// GET /index                 every pre-written guide: { places: [{ id, name, area, lat, lon }] }
+// GET /place?lat=9.95&lng=76.26
+//   200 { status: "ready", place }       guide for the user's locality (cached in Firestore)
+//   202 { status: "generating", name }   someone else is generating it right now; ask again shortly
+//   404 { status: "unknown" }            no locality or no open data for this spot
+//
+// The first request for a locality gathers open data, has the AI write the guide once,
+// stores it, and returns it. Every later request is served from Firestore.
+
+import { getPlaceJson, nearestSeededJson, seededIndex, releaseLock, savePlace, takeLock, type FirestoreEnv } from './firestore.ts';
+import { generatePlace, type Env as AiEnv } from './generate.ts';
+import { gatherSources, reverseGeocode } from './sources.ts';
+
+type Env = AiEnv & FirestoreEnv;
+
+const json = (body: unknown, status = 200) =>
+  new Response(JSON.stringify(body), {
+    status,
+    headers: { 'content-type': 'application/json', 'access-control-allow-origin': '*' },
+  });
+
+const ready = (placeJson: string) =>
+  new Response(`{"status":"ready","place":${placeJson}}`, {
+    headers: { 'content-type': 'application/json', 'access-control-allow-origin': '*' },
+  });
+
+// What the open-data sources return for a spot, without calling the AI or touching Firestore.
+async function debugSources(lat: number, lng: number) {
+  const locality = await reverseGeocode(lat, lng);
+  if (!locality) return { locality: null };
+  const s = await gatherSources(lat, lng, locality);
+  return {
+    locality,
+    wikipedia: s.wikipedia.map((a) => a.title),
+    wikivoyage: s.wikivoyage?.title ?? null,
+    sights: s.sights.map((p) => `${p.name} (${p.walkMinutes} min)`),
+    food: s.food.map((p) => `${p.name} (${p.walkMinutes} min)`),
+    errors: s.errors,
+  };
+}
+
+const SEEDED_RADIUS_KM = 4;
+
+// The search list changes only when guides are seeded, so it is cached at the edge for an hour.
+async function placeIndex(env: Env, request: Request) {
+  const cache = (globalThis as unknown as { caches?: { default?: Cache } }).caches?.default;
+  const key = new Request(new URL('/index', request.url).toString());
+  const hit = await cache?.match(key);
+  if (hit) return hit;
+  const res = new Response(JSON.stringify({ places: await seededIndex(env) }), {
+    headers: { 'content-type': 'application/json', 'access-control-allow-origin': '*', 'cache-control': 'public, max-age=3600' },
+  });
+  await cache?.put(key, res.clone());
+  return res;
+}
+
+async function handlePlace(env: Env, lat: number, lng: number) {
+  const locality = await reverseGeocode(lat, lng);
+  if (!locality) return json({ status: 'unknown' }, 404);
+
+  const cached = await getPlaceJson(env, locality.id);
+  if (cached) return ready(cached);
+  // A pre-written guide for the town or sight nearby beats writing a new one.
+  const seeded = await nearestSeededJson(env, lat, lng, SEEDED_RADIUS_KM).catch(() => null);
+  if (seeded) return ready(seeded);
+
+  if (!(await takeLock(env, locality.id))) return json({ status: 'generating', name: locality.name }, 202);
+  try {
+    // Another request may have finished between our read and taking the lock.
+    const again = await getPlaceJson(env, locality.id);
+    if (again) return ready(again);
+
+    const sources = await gatherSources(lat, lng, locality);
+    if (!sources.wikipedia.length && !sources.wikivoyage && !sources.sights.length) {
+      return json({ status: 'unknown', name: locality.name }, 404);
+    }
+    const place = await generatePlace(env, sources, lat, lng);
+    const placeJson = JSON.stringify(place);
+    await savePlace(env, locality.id, placeJson, { name: place.name, model: place.model, lat, lon: lng });
+    return ready(placeJson);
+  } finally {
+    await releaseLock(env, locality.id);
+  }
+}
+
+export default {
+  async fetch(request: Request, env: Env): Promise<Response> {
+    const url = new URL(request.url);
+    if (request.method === 'OPTIONS') return json({});
+    if (url.pathname === '/index' && request.method === 'GET') return placeIndex(env, request);
+    if (!['/place', '/debug'].includes(url.pathname) || request.method !== 'GET') return json({ error: 'not found' }, 404);
+
+    const lat = Number(url.searchParams.get('lat'));
+    const lng = Number(url.searchParams.get('lng'));
+    if (!Number.isFinite(lat) || !Number.isFinite(lng) || Math.abs(lat) > 90 || Math.abs(lng) > 180) {
+      return json({ error: 'lat and lng are required' }, 400);
+    }
+    try {
+      if (url.pathname === '/debug') return json(await debugSources(lat, lng));
+      return await handlePlace(env, lat, lng);
+    } catch (e) {
+      console.error(e);
+      return json({ status: 'error', error: e instanceof Error ? e.message : String(e) }, 500);
+    }
+  },
+};

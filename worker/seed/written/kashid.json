@@ -1,0 +1,80 @@
+{
+ "query": "Kashid",
+ "region": "maharashtra",
+ "name": "Kashid",
+ "draft": {
+  "briefing": "Hey, you're in Kashid! This beach sits wedged between two rocky hills in a semicircular arch, and it's also called the poor man's Goa.",
+  "hungryLine": "Beach stalls do omelettes and poha from 8 AM till dusk, and about 1 km toward Murud you'll find places serving sea fish.",
+  "moodReplies": {
+   "show-me-around": "The beach is the star, but Phansad Bird sanctuary, Korlai fort and the Datta Mandir at Revdanda are all in the area.",
+   "somewhere-to-chill": "Find a deserted stretch of beach in the evening, it's quiet and safe to walk.",
+   "surprise-me": "You can drive to Kashid on a ship, the Ro-Ro ferry carries cars from Ferry Wharf to Mandwa."
+  },
+  "seeFirst": {
+   "caption": "Short drives from the beach",
+   "spots": [
+    {
+     "name": "Phansad Bird sanctuary",
+     "detail": "Short drive · Birdwatching near Kashid",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Korlai fort",
+     "detail": "Short drive · A fort near Kashid on the Konkan coast",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Nagaon",
+     "detail": "Short drive · A clean 3 km beach near Alibag with water sports",
+     "status": {
+      "text": "Busy on weekends",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Cycle in the early morning.",
+    "body": "Rent a bicycle and ride the long road at dawn, with lush green on either side."
+   },
+   {
+    "icon": "tag",
+    "title": "Book the Ro-Ro ferry ahead.",
+    "body": "Reservations for the ferry to Mandwa are a must, especially on weekends."
+   }
+  ],
+  "story": [
+   {
+    "era": "The coast",
+    "title": "Between two hills",
+    "body": "Kashid lies on the North Konkan stretch between Mandwa and Murud-Janjira, 15 km from Murud and 135 km from Mumbai.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Getaway",
+    "title": "Poor man's Goa",
+    "body": "Its long, empty beaches made Kashid a favourite escape from the hustle of Mumbai and Pune.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Ferries and water sports",
+    "body": "Hotels and homestays line the highway by the beach, water sports run at peak hours, and the Ro-Ro ferry lets you drive in by sea.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

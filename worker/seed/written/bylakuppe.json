@@ -1,0 +1,114 @@
+{
+ "query": "Bylakuppe",
+ "region": "karnataka",
+ "name": "Bylakuppe",
+ "draft": {
+  "briefing": "Hey, you're in Bylakuppe! People call it Indian Tibet, because this is where the very first Tibetan exile settlement was set up in 1961. Today it's home to huge monasteries, including Sera, with almost 5,000 monks.",
+  "hungryLine": "Eat near the Namdroling Monastery gate, or join the monks at their meal times for a simple, cheap plate.",
+  "moodReplies": {
+   "show-me-around": "Start at Namdroling Monastery in Camp 4 with its giant golden Buddhas, then head to Sera to watch the monks debate.",
+   "somewhere-to-chill": "Stroll the Namdroling grounds and turn the prayer wheels slowly as you walk around the stupas.",
+   "surprise-me": "Tourists, not monks, gave Namdroling its nickname, the Golden Temple. Its main Buddha statue is 60 ft tall, flanked by two more at 58 ft."
+  },
+  "seeFirst": {
+   "caption": "Around the settlements",
+   "spots": [
+    {
+     "name": "Namdroling Monastery",
+     "detail": "Camp 4 · Largest Nyingma monastery outside Tibet, with three gold-plated Buddhas",
+     "status": {
+      "text": "Visitors welcome",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sera",
+     "detail": "Sera Jey and Sera Mey · Catch the lively debate sessions in the courtyard",
+     "status": {
+      "text": "Debates around 9:30 AM",
+      "tone": "open"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Namdroling Monastery",
+    "title": "Prayers on the wind",
+    "body": "Tibetans here believe turning a prayer wheel sends the prayers out to the five directions. The prayer flags, called wind horses, do the same job."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Watch the morning debates.",
+    "body": "Monks at Sera hold debate sessions twice a day, with the morning one around 9:30 AM, and the clapping is something to see."
+   },
+   {
+    "icon": "tag",
+    "title": "Turn prayer wheels clockwise.",
+    "body": "That's the custom here, and visitors are welcome to join in."
+   }
+  ],
+  "story": [
+   {
+    "era": "1960",
+    "title": "Land for refugees",
+    "body": "The Government of Mysore, as Karnataka was then called, set aside nearly 3,000 acres at Bylakuppe for Tibetans.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1961",
+    "title": "The first settlement",
+    "body": "Lugsum Samdupling was set up here, the first Tibetan exile settlement ever.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1969",
+    "title": "Dickyi Larsoe",
+    "body": "A second settlement, Dickyi Larsoe, followed. Monasteries from the major Tibetan Buddhist traditions grew up around them.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1998",
+    "title": "A big community",
+    "body": "A survey by the Central Tibetan Administration counted 50,727 Tibetans living in the area.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Monastery towns",
+    "body": "Namdroling has around 3,000 monks and Sera close to 5,000. There are Buddhist universities here too, plus a science center at Sera Jey.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Olive Restaurant",
+    "detail": "Camp 3, a few hundred metres from the Namdroling gate · Friendly owner who'll suggest what to order",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Namdroling Monastery Restaurant",
+    "detail": "Where the monks usually eat · Great for light wallets",
+    "status": {
+     "text": "Monk meal times",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

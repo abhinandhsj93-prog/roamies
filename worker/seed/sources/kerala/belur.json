@@ -1,0 +1,42 @@
+{
+ "query": "Belur",
+ "found": "Kodom-Belur, Attakandam, Vellarikkundu, Kasaragod, Kerala, India",
+ "lat": 12.3724909,
+ "lon": 75.1787615,
+ "fetchedAt": "2026-10-12T19:15:21.417Z",
+ "locality": {
+  "id": "porkalam-kasaragod-kerala",
+  "name": "Porkalam",
+  "area": "Vellarikkundu, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kodom": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kasargod_trip_IMG_7050.JPG/1280px-Kasargod_trip_IMG_7050.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kodom",
+   "credit": "Photo: Manojk, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasargod_trip_IMG_7050.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kodom",
+   "text": "Kodom is a village in Kasaragod district in the state of Kerala, India.",
+   "url": "https://en.wikipedia.org/wiki/Kodom"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Porkalam Mosque",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 12.3819246,
+   "lon": 75.1831079
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

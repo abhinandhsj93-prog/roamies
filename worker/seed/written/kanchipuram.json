@@ -1,0 +1,83 @@
+{
+ "query": "Kanchipuram",
+ "region": "tamilnadu",
+ "name": "Kanchipuram",
+ "draft": {
+  "briefing": "Hey, you're in Kanchipuram! They call it the City of Thousand Temples, full of huge temple towers and 1000-pillared halls. And yes, this is where the famous Kanjeevaram silk saris come from.",
+  "hungryLine": "Between temples, look for a simple local spot for a hot South Indian meal, and ask around for what the town is cooking today.",
+  "moodReplies": {
+   "show-me-around": "Start with the Kailasanathar Temple and the Vaikunta Perumal Temple, two of the city's big historic monuments.",
+   "somewhere-to-chill": "Wander the silk shops and watch the saris come out, it's a slower, cooler break from temple hopping.",
+   "surprise-me": "The name comes from kanchi and puram, meaning the city of kanchi flowers, because those flowers grew all over here."
+  },
+  "seeFirst": {
+   "caption": "Around town",
+   "spots": [
+    {
+     "name": "Kailasanathar Temple",
+     "detail": "In town · One of Kanchipuram's great historic temples",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Vaikunta Perumal Temple",
+     "detail": "In town · Another of the city's key historic monuments",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress for temples.",
+    "body": "This is a city of temples, so keep shoulders and knees covered and be ready to leave your shoes outside."
+   },
+   {
+    "icon": "tag",
+    "title": "Shop for silk here.",
+    "body": "Kanchipuram is famous for its silk saris, so this is the place to pick one up."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "City of kanchi flowers",
+    "body": "Kanchipuram grew up on the banks of the Vegavathy and Palar rivers. Its name means the city of kanchi flowers, which grew in plenty here.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Pallava times",
+    "title": "A Pallava city",
+    "body": "The Pallavas ruled here and the city became famous for its temple building. The Kailasanathar and Vaikunta Perumal temples are among its great monuments.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Medieval era",
+    "title": "Many dynasties",
+    "body": "After the Pallavas came the Medieval and Later Cholas, the Later Pandyas, the Vijayanagara Empire and the Carnatic kingdom.",
+    "illustration": "palace"
+   },
+   {
+    "era": "British era",
+    "title": "Conjeeveram",
+    "body": "The British ruled the city too and called it Conjeeveram. It also went by Kanjeevaram, the name the silk saris still carry.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Temples and silk",
+    "body": "Kanchipuram is the capital of its district and part of the Chennai metropolitan area. It draws visitors from India and abroad for its temples and saris.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

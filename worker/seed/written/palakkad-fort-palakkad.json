@@ -1,0 +1,136 @@
+{
+ "query": "Palakkad Fort, Palakkad",
+ "region": "kerala",
+ "name": "Palakkad Fort",
+ "draft": {
+  "briefing": "Hey, you're at Palakkad Fort! Hyder Ali captured and rebuilt this fort in 1766, and its sturdy battlements and moat are still right here in the heart of the city.",
+  "hungryLine": "Palakkad leans vegetarian, thanks to its Tamil Brahmin culture. Look for kalan, a dish unique to Palakkad, or dosa, idli and vada.",
+  "moodReplies": {
+   "show-me-around": "Palakkad Fort is a 1 min walk, and the Hanuman Temple on its grounds is 2 min. Martyr's Monument is about 6 min on foot.",
+   "somewhere-to-chill": "Walk out to the paddy fields at Azhchapparamba Junction on Thrissur Road.",
+   "surprise-me": "The fort changed hands fast. Hyder Ali rebuilt it in 1766, and by 1784 it had fallen to the Zamorin."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Palakkad Fort",
+     "detail": "1 min walk · Battlements and a moat from the 1700s",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Hanuman Temple",
+     "detail": "2 min walk · Temple on the fort grounds",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Fort Maidan",
+     "detail": "In the city · Ranji Trophy cricket ground since 2003",
+     "status": {
+      "text": "Busy on match days",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Yakkara",
+    "title": "The river of yagas",
+    "body": "It is said that in ancient times, yagas were performed on the banks of the Shokanasini, another name for the Bharathapuzha. So the area became Yaga-kara, which later turned into Yakkara."
+   },
+   {
+    "where": "Chittur",
+    "title": "Konganpada",
+    "body": "Every year, usually in March, Chittur's Konganpada remembers the victory of the Chittur Nairs over the Konganadu militia in 918 AD. At night, men in buffalo-head masks stage mock fights."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in mid-November.",
+    "body": "Kalpathy Rathotsavam lights up the village streets with a procession of temple chariots."
+   },
+   {
+    "icon": "tag",
+    "title": "Use the Stadium Bus Stand.",
+    "body": "It's the biggest private bus stand in Palakkad, with restaurants and shops close by."
+   }
+  ],
+  "story": [
+   {
+    "era": "1766",
+    "title": "Hyder Ali's fort",
+    "body": "Hyder Ali captured the fort and rebuilt it in 1766. In 1784 it fell into the hands of the Zamorin.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1866",
+    "title": "A municipality",
+    "body": "Under British rule the town, then called Palghat, became a municipality on 1 November 1866. It was part of the South Malabar region of Malabar District.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1957",
+    "title": "A district of its own",
+    "body": "Palakkad district was carved out of the old Malabar District on 1 January 1957. The same year, the music academy that became Chembai Memorial Government Music College opened.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2003",
+    "title": "Cricket at the fort",
+    "body": "Fort Maidan was a local cricket ground until 2002. The Ranji Trophy arrived in 2003, and it's now a regular first-class venue.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Tipu's Fort",
+    "body": "Many still call it Tipu's Fort. It sits in the heart of the city, with a Hanuman temple inside its grounds.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Fort Palace Hotel",
+    "detail": "Veg and non-veg",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Kapilavasthu",
+    "detail": "Vegetarian restaurant",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel NoorJehan",
+    "detail": "Authentic Kerala-style Muslim dishes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

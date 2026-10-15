@@ -1,0 +1,108 @@
+{
+ "query": "Perumbavoor, Ernakulam",
+ "region": "kerala",
+ "name": "Perumbavoor",
+ "draft": {
+  "briefing": "Hey, you're in Perumbavoor, Kerala's plywood capital! The state's largest centres for the timber trade and wood industries are right here on the Periyar basin.",
+  "hungryLine": "Perumbavoor is the place for dirt-cheap north Indian street food, and Apsara Restaurant is famous for its mutton biriyani.",
+  "moodReplies": {
+   "show-me-around": "Town Juma Masjid is a 2 min walk. For a half-day trip, Kodanad's elephant centre is about 11 km away.",
+   "somewhere-to-chill": "Head out to Panieli Poru Waterfalls near Perumbavoor.",
+   "surprise-me": "Kodanad, 11 km away, raises baby elephants. Four to six young ones are brought in and trained every year."
+  },
+  "seeFirst": {
+   "caption": "Near Perumbavoor",
+   "spots": [
+    {
+     "name": "Town Juma Masjid",
+     "detail": "2 min walk · Mosque in the town centre",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kodanad Elephant breeding Centre",
+     "detail": "11 km away · Rescue centre with baby elephants",
+     "status": {
+      "text": "Buses and taxis from Aluva",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Panieli Poru Waterfalls",
+     "detail": "Near Perumbavoor · Waterfalls on a day out",
+     "status": {
+      "text": "Check conditions locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kodanad",
+    "title": "When elephants were caught",
+    "body": "Elephants captured in the Malayatoor forests were once trained at Kodanad. The capturing ended in 1977, but the centre still trains young elephants."
+   },
+   {
+    "where": "Apsara Restaurant",
+    "title": "Biriyani without a fridge",
+    "body": "Apsara's mutton biriyani is called legendary. Locals say they don't use any refrigeration and everything is served fresh."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Pick busy street stalls.",
+    "body": "Street food here is dirt cheap, but hygiene can be a serious issue."
+   },
+   {
+    "icon": "tag",
+    "title": "Plan Kodanad as a half day.",
+    "body": "It's about 11 km from town, with direct buses or taxis from Aluva."
+   }
+  ],
+  "story": [
+   {
+    "era": "1924",
+    "title": "A mission begins",
+    "body": "The Evangelistic Association of the East was founded in 1924 as the first missionary association of the Syriac Orthodox Church. It's headquartered at Perumbavoor and was registered in 1949.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1977",
+    "title": "The last elephant capture",
+    "body": "Elephant capturing in the Malayatoor forests ended in 1977. Kodanad became a rescue and training centre for young elephants.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2011",
+    "title": "A growing town",
+    "body": "The 2011 census counted 28,110 people in Perumbavoor. It's the headquarters of Perumbavoor taluk.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Plywood capital",
+    "body": "Timber and wood industries made Perumbavoor Kerala's plywood capital. It's now one of the state's main destinations for workers from West Bengal, Assam, Bihar and Odisha.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Apsara Restaurant",
+    "detail": "Order the mutton biriyani, made fresh with no refrigeration",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

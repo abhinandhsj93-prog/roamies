@@ -1,0 +1,74 @@
+{
+ "query": "Somanathapura",
+ "region": "karnataka",
+ "name": "Somanathapura",
+ "draft": {
+  "briefing": "Hey, you're in Somanathapura! The Chennakeshava Temple here was consecrated in 1258 by a Hoysala general, and its walls, pillars and ceilings are covered in carvings.",
+  "hungryLine": "There aren't any very good restaurants here, so carry your own food.",
+  "moodReplies": {
+   "show-me-around": "The Chennakeshava Temple is just a 3 min walk. Look for the Ramayana friezes on the south side and the Mahabharata on the north.",
+   "somewhere-to-chill": "The temple is fairly quiet, with no poojas held, so it's a calm place to sit and take in the carvings.",
+   "surprise-me": "The temple stands on a high star-shaped platform with three sanctums for three forms of Vishnu, but the statue of Kesava in the western one is missing."
+  },
+  "seeFirst": {
+   "caption": "Right around the corner",
+   "spots": [
+    {
+     "name": "Chennakeshava Temple",
+     "detail": "3 min walk · A model of Hoysala architecture",
+     "status": {
+      "text": "Best light morning or evening",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Chennakeshava Temple",
+    "title": "The stolen idol",
+    "body": "Locals say the main idol was stolen during one of the invasions because it was so beautiful. A replica stands in its place, so no poojas are held."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time your photos.",
+    "body": "Morning light is best on the front entrance, and evening light on the carved back side."
+   },
+   {
+    "icon": "tag",
+    "title": "Pack your lunch.",
+    "body": "There are no very good restaurants here, so bring food with you."
+   }
+  ],
+  "story": [
+   {
+    "era": "1200s",
+    "title": "Hoysala lands",
+    "body": "The Hoysala dynasty ruled this area, and a minister named Somanatha planned a temple here on the bank of the Kaveri.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1258",
+    "title": "The temple is consecrated",
+    "body": "Somanatha Dandanayaka, a general of King Narasimha III, consecrated the Chennakeshava Temple in 1258.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Later",
+    "title": "Invasions",
+    "body": "The temple suffered several invasions, and during one of them the main idol is said to have been stolen.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2023",
+    "title": "World heritage",
+    "body": "The temple was recognised as a UNESCO World Heritage Site in 2023.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

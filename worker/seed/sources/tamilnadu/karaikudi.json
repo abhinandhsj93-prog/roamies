@@ -1,0 +1,102 @@
+{
+ "query": "Karaikudi",
+ "found": "Karaikudi, Karaikkudi, Sivagangai, Tamil Nadu, 623001, India",
+ "lat": 10.0728444,
+ "lon": 78.7795194,
+ "fetchedAt": "2026-10-12T19:23:35.547Z",
+ "locality": {
+  "id": "soodamanipuram-sivagangai-tamil-nadu",
+  "name": "Soodamanipuram",
+  "area": "Karaikudi, Tamil Nadu",
+  "state": "Tamil Nadu",
+  "country": "India"
+ },
+ "photos": {
+  "Karaikudi": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Alagappa_University_Facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Karaikudi",
+   "credit": "Photo: Santhoshofficialnetwork, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alagappa_University_Facade.jpg"
+  },
+  "Karaikudi Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Constitution-Karaikudi.svg/1280px-Constitution-Karaikudi.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Karaikudi Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Constitution-Karaikudi.svg"
+  },
+  "Karaikkudi Junction railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Karaikudi_Junction_Front_Elevation.jpg/1280px-Karaikudi_Junction_Front_Elevation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Karaikkudi Junction railway station",
+   "credit": "Photo: Kkdi63, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karaikudi_Junction_Front_Elevation.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Karaikudi",
+   "text": "Karaikudi is a city and municipal corporation in Sivaganga district in the Indian state of Tamil Nadu. It is the largest city in the district, and the centre of the Karaikudi Metropolitan Area, that forms part of the Chettinad region.\nKaraikudi is administered by the Karaikudi Municipal Corporation, which was established in 2024. It forms part of the Karaikudi Assembly constituency, which elects a member to the Tamil Nadu Legislative Assembly, and is a part of the Sivaganga Lok Sabha constituency, which elects its member to the Lok Sabha. It is one of the cities selected for development under the Atal Mission for Rejuvenation and Urban Transformation project of the Government of India in 2015.",
+   "url": "https://en.wikipedia.org/wiki/Karaikudi"
+  },
+  {
+   "title": "Kattuthalaivasal",
+   "text": "Kattuthalaivasal is located in Karaikudi municipality in the Sivaganga District in the Indian state of Tamil Nadu. This area comprises Ward 15, Ward 16 and Ward 10. The majority of the people Kattuthalaivasal are Muslims .\nJamia Masjid, recently renovated in 2005, is an important landmark in Kattuthalaivasal.\nThe Kattuthalivasal area gained momentum when the area acquired a lot of new facilities, particularly a new bus stand.",
+   "url": "https://en.wikipedia.org/wiki/Kattuthalaivasal"
+  },
+  {
+   "title": "Karaikudi Assembly constituency",
+   "text": "Karaikudi is a state assembly constituency in Sivaganga district in Tamil Nadu.\nMost successful party: INC (five times). It is one of the 234 State Legislative Assembly Constituencies in Tamil Nadu in India.",
+   "url": "https://en.wikipedia.org/wiki/Karaikudi_Assembly_constituency"
+  },
+  {
+   "title": "Karaikudi taluk",
+   "text": "Karaikudi taluk is a taluk of Sivagangai district of the Indian state of Tamil Nadu. The headquarters of the taluk is the city of Karaikudi",
+   "url": "https://en.wikipedia.org/wiki/Karaikudi_taluk"
+  },
+  {
+   "title": "Karaikkudi Junction railway station",
+   "text": "Karaikkudi Junction (station code: KKDI) is an NSG–4 category railway station located in south-eastern part of Karaikudi Municipal Corporation in the Indian state of Tamil Nadu. \nIt is the principle rail-head in the city that serves Karaikudi Metropolitan Area, falling under the jurisdiction of Madurai railway division of Southern Railway zone. It is the major junction of the Chettinad region and the surrounding areas of Sivaganga district. It is one of the 73 stations in Tamil Nadu to be named for upgradation under Amrit Bharat Station Scheme of Indian Railways. Along with this main junction, Karaikudi City has the following Suburban Stations around the city.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Karaikkudi_Junction_railway_station"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Karaikudi taluk",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 10.07,
+   "lon": 78.78
+  },
+  {
+   "name": "Karaikudi Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 10.07,
+   "lon": 78.78
+  },
+  {
+   "name": "Kattuthalaivasal",
+   "kind": "landmark",
+   "walkMinutes": 5,
+   "lat": 10.07,
+   "lon": 78.78
+  },
+  {
+   "name": "Karaikudi",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 10.0735,
+   "lon": 78.7732
+  },
+  {
+   "name": "Karaikkudi Junction railway station",
+   "kind": "landmark",
+   "walkMinutes": 25,
+   "lat": 10.0678,
+   "lon": 78.7924
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

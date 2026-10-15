@@ -1,0 +1,97 @@
+{
+ "query": "Rachol",
+ "region": "goa",
+ "name": "Rachol",
+ "draft": {
+  "briefing": "Hey, you're in Rachol! On the bank of the Zuari, its Church of Our Lady of Snows is said to be the first church of Salcete, the Mother church of Salcette, right by the famous Rachol Seminary.",
+  "hungryLine": "Rachol is a quiet village, so for a proper meal head towards Margao, the business capital of Salcete.",
+  "moodReplies": {
+   "show-me-around": "The old Rachol Fort Gate is a 6 min walk and Rachol Church is about 10 min away.",
+   "somewhere-to-chill": "Wander the village, which is full of heritage buildings, and look out for traces of the old fort's moat.",
+   "surprise-me": "Neighbouring Curtorim is called the granary of Salcete, and its name may come from the rooms, or kudds, built on the river bank to store crops."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Rachol Fort Gate",
+     "detail": "6 min walk · All that's left of the Portuguese fort, with traces of the moat",
+     "status": {
+      "text": "Open air ruin",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Rachol Church",
+     "detail": "10 min walk · Built in the 1560s, said to be Salcete's first church",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Igorchem Bandh",
+     "detail": "Behind the church, in Raia · The Church Road with spooky stories",
+     "status": {
+      "text": "Quiet road, go with company",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Igorchem Bandh",
+    "title": "Midday hauntings",
+    "body": "Igorchem Bandh means Church Road, and it runs behind the Church of Our Lady of Snows. Residents talk of footsteps and heavy breathing from the bushes, and people say strange things happen here even at midday."
+   },
+   {
+    "where": "D'Mello House",
+    "title": "The haunted mansion",
+    "body": "In Santimol, Raia, an abandoned Portuguese era mansion called D'Mello House is described as one of the most haunted places in Goa."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Dress modestly at the church.",
+    "body": "Rachol's church sits right by the seminary and is still a place of worship."
+   },
+   {
+    "icon": "tag",
+    "title": "Pair it with Ancestral Goa.",
+    "body": "Big Foot at Loutolim, also in Salcete, recreates Goa's traditional past and makes a nice add-on to a heritage day."
+   }
+  ],
+  "story": [
+   {
+    "era": "1049",
+    "title": "A Kadamba grant",
+    "body": "A copper plate of King Viramarmadeva of the Kadamba dynasty granted land in Kudtarika agrahara, today's Curtorim, next door. An agrahara was a centre of learning.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1560s",
+    "title": "Mother church",
+    "body": "The Church of Our Lady of the Snows was built in the 1560s, during the Goa Inquisition. It is said to be the first church of Salcete.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Portuguese era",
+    "title": "Rachol Fort",
+    "body": "The Portuguese built a fort at Rachol. It has since been completely erased, leaving only traces of the moat and its main gate.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A heritage village",
+    "body": "Rachol is home to the famous Rachol Seminary and many heritage structures, and is an important place to study the history of Salcete.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": []
+ }
+}

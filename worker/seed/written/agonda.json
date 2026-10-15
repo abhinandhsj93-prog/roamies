@@ -1,0 +1,59 @@
+{
+  "query": "Agonda",
+  "region": "goa",
+  "name": "Agonda",
+  "draft": {
+    "briefing": "Hey, you're in Agonda! This 3 km stretch of sand is one of only four beaches in the country designated as a turtle nesting site under the 2011 coastal rules. Olive ridley turtles come ashore here to nest, so the whole place stays wonderfully quiet.",
+    "hungryLine": "Agonda keeps it simple, think fish thalis at a local joint and fresh juices at a family-run cafe.",
+    "moodReplies": {
+      "show-me-around": "Pop into St. Anne Church, it's just a minute's walk, then go have a look at the abandoned Sina Hotel that locals call the Ghost Hotel.",
+      "somewhere-to-chill": "Just stay on the beach. It's simple and natural, and when the officials clear away the stray sunbeds it looks even better.",
+      "surprise-me": "In 2016 TripAdvisor's Travelers' Choice ranked Agonda Beach fourth in Asia and first in India."
+    },
+    "seeFirst": {
+      "caption": "Around Agonda",
+      "spots": [
+        {
+          "name": "St. Anne Church",
+          "detail": "1 min walk · The village church, right by the beach road",
+          "status": {"text": "Dress modestly", "tone": "neutral"},
+          "illustration": "palace"
+        },
+        {
+          "name": "Sina Hotel",
+          "detail": "In Agonda · A half-built five-star hotel, abandoned since the early 1990s",
+          "status": {"text": "Abandoned site, view with care", "tone": "warning"},
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Cabo de Rama",
+          "detail": "Short drive · Ruined fort named for Lord Rama, with a Portuguese-era chapel still in use",
+          "status": {"text": "Free entry", "tone": "open"},
+          "illustration": "palace"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Sina Hotel",
+        "title": "The Ghost Hotel",
+        "body": "Locals call the abandoned Sina Hotel the Ghost Hotel. Building stopped in the early 1990s, and the story got darker when one of its owners was murdered."
+      }
+    ],
+    "tips": [
+      {"icon": "tag", "title": "Keep it dark at night.", "body": "Turtles nest on this beach, so keep noise and lights down after dark to give them a chance."},
+      {"icon": "sun", "title": "Expect a quiet low season.", "body": "Most eateries open only in high season, though Dersey's at the south end stays open through the low season too."}
+    ],
+    "story": [
+      {"era": "Long ago", "title": "A king's fort", "body": "Up the coast, a Hindu king built the fort of Cabo de Rama, named for Lord Rama. After a few battles it was taken over by the Portuguese.", "illustration": "palace"},
+      {"era": "Early 1990s", "title": "The hotel that never opened", "body": "A group of Russians set out to build a five-star hotel in Agonda. Money ran out, legal trouble piled up and the structure was left to decay.", "illustration": "warehouses"},
+      {"era": "2011", "title": "A beach for turtles", "body": "The Coastal Regulation Zone notification of 2011 named Agonda one of only four turtle nesting beaches. Olive ridleys nest here, with September mentioned as a nesting month.", "illustration": "flood"},
+      {"era": "Today", "title": "Quiet on purpose", "body": "Agonda is a village of about 3,800 people that has stayed calm and natural. Yoga schools and a winter meditation ashram draw a gentle crowd.", "illustration": "pepper"}
+    ],
+    "food": [
+      {"name": "Dersey's", "detail": "Indian and local food at the south end of the beach", "status": {"text": "Open even in low season", "tone": "open"}, "tags": ["seafood"], "illustration": "warehouses"},
+      {"name": "Blue Planet Cafe", "detail": "Family-run organic vegetarian and vegan cafe, go for the juices, smoothies and vegan cakes", "status": {"text": "Off the Agonda to Palolem road", "tone": "neutral"}, "tags": ["vegetarian"], "illustration": "warehouses"},
+      {"name": "Niki bar", "detail": "Local eatery on the road to Chaudi, known for good fish thalis", "status": {"text": "Closes in the late afternoon", "tone": "neutral"}, "tags": ["seafood", "cheap"], "illustration": "warehouses"}
+    ]
+  }
+}

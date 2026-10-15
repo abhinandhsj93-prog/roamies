@@ -1,0 +1,59 @@
+{
+ "query": "Karunagappally, Kollam",
+ "found": "Karunagappally, Kollam, Kerala, India",
+ "lat": 9.0341924,
+ "lon": 76.5367765,
+ "fetchedAt": "2026-10-12T17:40:59.296Z",
+ "locality": {
+  "id": "vellanathuruthu-kollam-kerala",
+  "name": "Vellanathuruthu",
+  "area": "Karunagappally, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "H&J Mall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/H%26J_Mall_Kollam%2C_Feb_2016.jpg/1280px-H%26J_Mall_Kollam%2C_Feb_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "H&J Mall",
+   "credit": "Photo: Arunvrparavur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:H%26J_Mall_Kollam,_Feb_2016.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Vellanathuruthu",
+   "text": "Vellanathuruthu is a serene coastal area and island village located in the Alappadu Panchayat of the Kollam District in Kerala. It is known for its distinct geography, rich mineral deposits, and significant environmental challenges, primarily related to industrial sand mining. Vellanathuruthu is in the Kollam District along the southwest coast of India. It is situated in the environmentally sensitive Neendakara – Kayamkulam coastal stretch. The area is a micro-tidal coast. The shoreline orientation changes in this region, with noticeable dents and caving in of the beach at the Vellanathuruthu mining site due to high-energy waves and human activities.\nThe region is an important ecological habitat, particularly recognized as an bird hotspot that attracts various bird species, including migratory shorebirds like the endangered Great Knot, during their seasonal visits. The local environment is vital for maintaining the balance of the coastal ecosystem.\n\n\n== Black sand mining ==\nVellanathuruthu sits on a globally renowned stretch of the Chavara coast that contains rich placer deposits, or \"black sand,\" which are abundant in heavy minerals like ilmenite, zircon, rutile, monazite, garnet, and...",
+   "url": "https://en.wikipedia.org/wiki/Vellanathuruthu"
+  },
+  {
+   "title": "H&J Mall",
+   "text": "The H&J Mall is a shopping mall in Karunagappally in Kollam Metropolitan Area, India. The mall is owned by the NRI business man  from the Karunagappally, Mr. Hameed Kunju. The Mall is standing on the centre of the bustling trading town Karunagappally. It is the second shopping mall in Kollam Metropolitan Area. H&J Mall was inaugurated by film actor Mammootty on 29 March 2015. The 130,000 sq ft (12,000 m2) 10-story mall is one of the important shopping destinations in Karunagappally. It features a My Cinemas theater, dining area, escalator and two lifts.",
+   "url": "https://en.wikipedia.org/wiki/H%26J_Mall"
+  },
+  {
+   "title": "Kothukumukku railway bridge",
+   "text": "Kothukumukku railway bridge is a disused bridge, formerly part of the defunct Karunagappaly - KMML Chavara railway line. The bridge, which has a single broad-gauge track, has now become a local tourist attraction. This bridge crosses Kannetty backwater.",
+   "url": "https://en.wikipedia.org/wiki/Kothukumukku_railway_bridge"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Kothukumukku railway bridge",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 9.02746,
+   "lon": 76.5368
+  },
+  {
+   "name": "H&J Mall",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 9.049393,
+   "lon": 76.535552
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

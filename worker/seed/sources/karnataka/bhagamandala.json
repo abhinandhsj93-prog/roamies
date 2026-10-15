@@ -1,0 +1,47 @@
+{
+ "query": "Bhagamandala",
+ "found": "Bhagamandala, Madikeri taluku, Kodagu, Karnataka, 571247, India",
+ "lat": 12.3857285,
+ "lon": 75.5290234,
+ "fetchedAt": "2026-10-12T18:32:34.648Z",
+ "locality": {
+  "id": "bhagamandala-coorg-karnataka",
+  "name": "Bhagamandala",
+  "area": "Madikeri taluku, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Bhagamandala": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Bhagamandala_Birdseye_View_Coorg_Feb24_A7C_09524.jpg/1280px-Bhagamandala_Birdseye_View_Coorg_Feb24_A7C_09524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bhagamandala",
+   "credit": "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract., CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhagamandala_Birdseye_View_Coorg_Feb24_A7C_09524.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Bhagamandala",
+   "text": "Bhagamandala is a pilgrimage place in Kodagu district of the Indian state of Karnataka. \n\n\n== Location ==\nBhagamandala is situated on the river Kaveri in its upstream stretches. At this place, the Kaveri is joined by two tributaries, the Kannike and the mythical Sujyothi river. It is considered sacred as a river confluence (kudala or triveni sangama, in Kannada and Sanskrit respectively). Bhagamandala is located 133 km south-east of Mangalore. It has an average elevation of 898 m (2,946 ft).\n\n\n== Pilgrim centre – Bhagandeshwara Temple ==\nIt is a common practice for pilgrims to take a dip in the triveni sangama and perform rituals to their ancestors before proceeding to Talakaveri, the birthplace of Kaveri. \nA temple of Lord Supremo Shiva in the name of Bhagandeshwara embellishes the place. It is the local belief that Kaveri, revered as Dakshina Ganga, comes out of the matted hair locks of Shiva here.\nDuring Tula Sankramana which falls on 17 or 18 October, pilgrims assemble here in large numbers.\n\n\n== Three river meet ==\nA short distance from the triveni sangama, there is a famous temple known as Sri Bhagandeshwara Temple, where murti (sacred images) of Bhagandeshwara (Ishwara), Subramanya...",
+   "url": "https://en.wikipedia.org/wiki/Bhagamandala"
+  },
+  {
+   "title": "Bhagamandala Nad Assembly constituency",
+   "text": "Bhagamandala Nad Assembly constituency was a constituency of the Mysore Legislative Assembly (part of Coorg Legislative Assembly till 31 October 1956). Lone election to this Constituency was conducted in 1952 to the legislature of the Coorg State (Kodagu) in India. The constituency included Bhagamandala. This seat was included to Mysore Legislative Assembly in 1956 during the reorganisation of the Indian States based along linguistic lines, the state of Coorg (Kodagu) was merged with Mysore State. The economy of the area was dominated by export of honey and cardamom. The constituency was abolished in 1956 (on paper) and remained operation till 1957.",
+   "url": "https://en.wikipedia.org/wiki/Bhagamandala_Nad_Assembly_constituency"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Bhagamandala Nad Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 12.387,
+   "lon": 75.529
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

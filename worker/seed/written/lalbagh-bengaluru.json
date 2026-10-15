@@ -1,0 +1,122 @@
+{
+ "query": "Lalbagh, Bengaluru",
+ "region": "karnataka",
+ "name": "Lalbagh",
+ "draft": {
+  "briefing": "Hey, you're at Lalbagh! Hyder Ali started this botanical garden in 1760, and it sits on rock that's around 3,000 million years old.",
+  "hungryLine": "VV Puram Food Street is a 10 minute walk, with over 20 pure vegetarian stalls packed into less than 150 metres.",
+  "moodReplies": {
+   "show-me-around": "Lal Bagh is a 19 minute walk, Gandhi Bazaar is 16 minutes away, and Bugle Rock is about 20 minutes on foot.",
+   "somewhere-to-chill": "Find a bench by the lake in Lal Bagh, next to the big rock with Kempegowda II's watchtower.",
+   "surprise-me": "Lal Bagh has one of the best exposures of Peninsular Gneiss, and it was declared a National Geological Monument in 1975."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "VV Puram Food Street",
+     "detail": "10 min walk · Over 20 veg street food stalls",
+     "status": {
+      "text": "Busy after 6PM",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Gandhi Bazaar",
+     "detail": "16 min walk · Flowers, condiments and old shops",
+     "status": {
+      "text": "Busiest at festivals",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Lal Bagh",
+     "detail": "19 min walk · Botanical garden with a glass house from 1890",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Bugle Rock",
+    "title": "The sunset bugle",
+    "body": "It's said a sentry on Bugle Rock would blow a bugle at sunset and hold up a torch. The three other watchtowers could see it, so people knew the city was safe."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time it for a flower show.",
+    "body": "Lal Bagh holds flower shows in the weeks of Republic Day (26 January) and Independence Day (15 August)."
+   },
+   {
+    "icon": "tag",
+    "title": "Come back for the Avarekai Mela.",
+    "body": "Every December or January, VV Puram Food Street cooks up dishes with fresh hyacinth beans bought straight from farmers."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient",
+    "title": "Old as the earth",
+    "body": "Bugle Rock is a rise of peninsular gneiss with an assessed age of about 3,000 million years.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Late 1500s",
+    "title": "Kempegowda's towers",
+    "body": "Kempe Gowda II, who came to power in 1585, built four watchtowers to mark Bangalore's limits, including one on Bugle Rock in the south.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1760",
+    "title": "Hyder Ali's garden",
+    "body": "Hyder Ali laid out Lalbagh, the red garden, during the Sultanate of Mysore. British superintendents later ran it.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1890",
+    "title": "The glass house",
+    "body": "A central glass house went up in 1890 and was used for flower shows.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2017",
+    "title": "The metro arrives",
+    "body": "Lalbagh, South End Circle and National College metro stations all opened on 18 June 2017.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Upaahara Darshini",
+    "detail": "DVG Road, Gandhi Bazaar · One of Bengaluru's oldest food joints, go for the dosas",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "The Adiga's",
+    "detail": "Basavanagudi · A south Bengaluru chain",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

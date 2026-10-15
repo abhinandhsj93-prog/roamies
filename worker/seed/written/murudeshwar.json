@@ -1,0 +1,111 @@
+{
+ "query": "Murudeshwar",
+ "region": "karnataka",
+ "name": "Murudeshwar",
+ "draft": {
+  "briefing": "Hey, you're in Murudeshwar! This little headland pokes out into the Arabian Sea, with beaches on three sides. Towering over it is a 123-foot Shiva statue, painted gold and built to catch the sunlight.",
+  "hungryLine": "RNS Restaurant is right by the temple, and there are good places to eat all along the beach.",
+  "moodReplies": {
+   "show-me-around": "Murudeshwara Temple is a minute's walk, and the Statue of Shiva is just 2 minutes away. There's a little cave exhibition of epic stories right under the statue.",
+   "somewhere-to-chill": "Stroll the hard-sand beach, have a swim, and browse the handicraft stalls along the way.",
+   "surprise-me": "The Shiva statue was first made with four arms, but strong winds blew off the one holding the small drum, and rain washed away the gold paint."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Murudeshwara Temple",
+     "detail": "1 min walk · Shiva temple with a 249-foot, 21-floor Raja Gopura you can ride a lift up",
+     "status": {
+      "text": "6AM to 1PM, 3PM to 9PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Statue of Shiva",
+     "detail": "2 min walk · The giant 123-foot statue, with a cave exhibition beneath it",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Murdeshwar Fort",
+     "detail": "Behind the temple · A small fort said to have been renovated by Tipu Sultan",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Murudeshwara Temple",
+    "title": "Ravana and the Atma-Linga",
+    "body": "The town's name goes back to a Ramayana tale. Ravana won Shiva's Atma-Linga on the condition that it never touch the ground before he reached Lanka, but Vishnu, worried Ravana would become immortal, stepped in to stop him."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Mind the temple break.",
+    "body": "The temple complex is open 6AM to 1PM and again 3PM to 9PM, so plan around the afternoon closure."
+   },
+   {
+    "icon": "tag",
+    "title": "Check before you dive.",
+    "body": "Netrani is sometimes closed to scuba diving because of Navy training, so check with the dive centre in advance."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ramayana times",
+    "title": "A name from the epics",
+    "body": "The name Murudeshwar is traced to the Ramayana story of Ravana carrying Shiva's Atma-Linga home to Lanka.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Tipu Sultan's time",
+    "title": "The fort behind",
+    "body": "The small fort behind the temple is said to have been renovated by Tipu Sultan.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Recent decades",
+    "title": "The great statue",
+    "body": "Shivamogga's Kashinath and other sculptors spent about two years building the 123-foot Shiva, funded by businessman R.N. Shetty, who also rebuilt the whole temple complex.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2008",
+    "title": "The towering gopura",
+    "body": "The 249-foot Rajagopuram opened, with 21 floors and a lift to the top for views over the sea and the statue.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "On the Konkan line",
+    "body": "Murudeshwar has its own railway station on the Mangalore to Mumbai Konkan route, and is also known for its Murdeshwar Tiles factory.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "RNS Restaurant",
+    "detail": "Near the temple, an easy meal after your darshan",
+    "status": {
+     "text": "By the temple",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

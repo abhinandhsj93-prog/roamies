@@ -1,0 +1,62 @@
+{
+ "query": "Karjat",
+ "found": "Karjat, Karjat Taluka, Raigad, Maharashtra, 410201, India",
+ "lat": 18.9127655,
+ "lon": 73.3228202,
+ "fetchedAt": "2026-10-12T18:55:58.367Z",
+ "locality": {
+  "id": "karjat-raigad-maharashtra",
+  "name": "Karjat",
+  "area": "Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Karjat Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/189-Karjat.svg/1280px-189-Karjat.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Karjat Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:189-Karjat.svg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Karjat",
+   "text": "Karjat (Pronunciation: [kəɾd͡zət̪]) is a city administered under a Municipal Council in the Raigad district of Maharashtra, India. It forms a part of the Mumbai Metropolitan Region and is located approximately 100 km (62 mi) from both Mumbai and Pune. The city is served by Karjat railway station and the Ulhas River flows through it. The city falls under the189 Karjat Assembly constituency.\n\n\n== Demographics ==\nIn the 2011 Indian census, Karjat had a population of 29,663. Males constituted 51% of the population and females 49%. The literacy rate in Karjat was 88.38%, higher than the state average of 82.34%. In Karjat, male literacy is around 91.65% while the female literacy rate is 84.94%. Population of Children with an age of 0-6 is 3039 which is 10.25% of the total population.\n\n\n== References ==\n\n\n== External links ==\n\nKarjat, Government of Maharashtra",
+   "url": "https://en.wikipedia.org/wiki/Karjat"
+  },
+  {
+   "title": "Karjat Assembly constituency",
+   "text": "Karjat Assembly constituency is one of the 288 Vidhan Sabha (legislative assembly) constituencies in Maharashtra state in western India. This constituency is located in the Raigad district.",
+   "url": "https://en.wikipedia.org/wiki/Karjat_Assembly_constituency"
+  },
+  {
+   "title": "Karjat taluka, Raigad",
+   "text": "Karjat taluka is a subdistrict/upazila/tehsil in Raigad district of the Indian state of Maharashtra.",
+   "url": "https://en.wikipedia.org/wiki/Karjat_taluka,_Raigad"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Karjat",
+  "text": "Karjat is a village in Maharastra. The river Ulhas originates in Karjat and flows westward. If you want to visit Karjat then the rainy season is best for you as Karjat has got such wonderful & beautiful waterfalls. You can enjoy one of them.\n\n\n== See and do ==\nFarming is a major occupation here. You can visit these farming fields and can learn about the culture.\n\n\n=== Mountains ===\nKarjat has many mountains. The undulated green plains and the hilly terrains emerging from the Karjat plains make this place a much-sought destination for adventurous tourists trekking. Karjat is one of the starting points for various treks in the Western Ghats, one of which is Rajmachi. A rickshaw ride from Karjat Bridge will take you to Kondivde village or Khandpe village. From Kondivde it takes 15 minutes to walk to Kahndpe village. Khandpe village forms the base of the Rajmachi trek. It is a 7 km ascend to the Rajmachi village (about 2.5 hours). After about 45 minutes from the village one reaches Kondhane Caves. A beautiful waterfall covers the caves; it is an experience to see the huge waterfall from within the caves. Rajmachi village forms the base to trek to two forts - Manarajan (also known as Manoranjan) and Srivardhan, which are adorned by a beautiful lake and a temple. One can also view waterfalls from the small tableland of Rajmachi.\n\n\n== Eat and drink ==\nSmall eateries around the village and in the station.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Karjat"
+ },
+ "sights": [
+  {
+   "name": "Karjat Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 18.91,
+   "lon": 73.32
+  },
+  {
+   "name": "Karjat taluka, Raigad",
+   "kind": "landmark",
+   "walkMinutes": 14,
+   "lat": 18.9167,
+   "lon": 73.33
+  }
+ ],
+ "food": [],
+ "errors": []
+}

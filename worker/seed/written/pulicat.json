@@ -1,0 +1,83 @@
+{
+ "query": "Pulicat",
+ "region": "tamilnadu",
+ "name": "Pulicat",
+ "draft": {
+  "briefing": "Hey, you're in Pulicat! In the 1600s this fishing village was the capital of Dutch Coromandel, run from Fort Geldria, the Dutch Company's only fort in its whole Indian empire. Today it sits quietly on the shore of one of India's largest brackish-water lagoons.",
+  "hungryLine": "Pulicat is a fishing village on the lagoon, so ask around for what the local fishing families have brought in that day.",
+  "moodReplies": {
+   "show-me-around": "Fort Geldria and the Dutch Cemetery are both just a 3 min walk away. At the cemetery, look for the skeleton figures guarding the gateway.",
+   "somewhere-to-chill": "Wander down to Pulicat Lake and watch the boats and birds, since the Tamil Nadu side of the lagoon is a bird sanctuary of over 150 square km.",
+   "surprise-me": "The two skeletons on the Dutch Cemetery gate were copied from Vesalius's famous 1543 anatomy book. Historians call them the earliest known use of that imagery east of Istanbul."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Dutch Cemetery",
+     "detail": "3 min walk · Ornate 1600s graves, obelisks and that skeleton gateway",
+     "status": {
+      "text": "Protected monument, be respectful",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Fort Geldria",
+     "detail": "3 min walk · Seat of the first Dutch settlement in India",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Make it a day trip.",
+    "body": "Pulicat is only about 55 km north of Chennai, so it's an easy escape from the city."
+   },
+   {
+    "icon": "sun",
+    "title": "Bring sun cover.",
+    "body": "The village is low and open beside the lagoon, so a hat and water make the walk around far nicer."
+   }
+  ],
+  "story": [
+   {
+    "era": "1610s",
+    "title": "The Dutch arrive",
+    "body": "The Dutch took Pulicat from the Portuguese and made it their base on the Coromandel Coast. They built Fort Geldria in 1613, naming it after the home province of their director.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1644 to 1646",
+    "title": "Battles around the fort",
+    "body": "Vijayanagara troops beat back a Golconda army that was threatening the Dutch at Pulicat in 1644. A year later the Vijayanagara king tried to take the port himself, but gave up the siege after months.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1656",
+    "title": "The inner churchyard",
+    "body": "The Dutch set up a cemetery for their senior people near the fort. It holds 62 burials from 1651 to 1787.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1825",
+    "title": "Handed to the British",
+    "body": "After the Dutch Company folded in 1798, Coromandel stayed Dutch until 1825. It then passed to the British under the Anglo-Dutch Treaty of 1824.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "A protected past",
+    "body": "The Dutch Cemetery has been protected by the Archaeological Survey of India since 1921. Pulicat itself is known for its lagoon fishing communities and bird sanctuary.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

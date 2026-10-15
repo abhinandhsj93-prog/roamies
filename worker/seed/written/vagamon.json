@@ -1,0 +1,83 @@
+{
+ "query": "Vagamon",
+ "region": "kerala",
+ "name": "Vagamon",
+ "draft": {
+  "briefing": "Hey, you're in Vagamon! This hill station in the Western Ghats sat largely unexplored for centuries, until tea planters made it known in 1926. Now it even has the Vagamon glass bridge, the longest cantilever glass bridge in India.",
+  "hungryLine": "My notes don't name any eateries up here, but if you're in Kerala for Onam, look out for the Onasadya, the big festival feast.",
+  "moodReplies": {
+   "show-me-around": "Walk out on the Vagamon glass bridge, then go up to Kurisumala Ashram, the Trappist monastery founded here in 1955.",
+   "somewhere-to-chill": "Find a quiet slope among the tea plantations and enjoy the natural setting Vagamon is known for.",
+   "surprise-me": "In 1963, architect Laurie Baker and Dr. Elizabeth Baker set up a hospital at Kurishumala to care for tea-plantation workers in these hills."
+  },
+  "seeFirst": {
+   "caption": "Around Vagamon",
+   "spots": [
+    {
+     "name": "Vagamon glass bridge",
+     "detail": "In Vagamon · India's longest cantilever glass bridge",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Kurisumala Ashram",
+     "detail": "In Vagamon · A Trappist monastery from 1955",
+     "status": {
+      "text": "Visit quietly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Bring rain gear.",
+    "body": "Kerala gets rain for at least 7-8 months a year, so the hills here are often wet."
+   },
+   {
+    "icon": "tag",
+    "title": "Know your palli.",
+    "body": "In Kerala both mosques and churches are called palli, so ask which one if you're getting directions."
+   }
+  ],
+  "story": [
+   {
+    "era": "For centuries",
+    "title": "Unexplored hills",
+    "body": "Vagamon sat on the border of what are now Kottayam and Idukki districts, largely unexplored. The British had plantations here, but few people knew it.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1926",
+    "title": "Tea makes it known",
+    "body": "Walter Duncan and Company started tea plantations in 1926, and Vagamon became well known. More plantations followed in the 1930s.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "After 1940",
+    "title": "New settlers",
+    "body": "People from Travancore and Madras moved up to Vagamon. After Kerala State was formed, people came from all over Kerala too.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1955",
+    "title": "The monastery",
+    "body": "Kurisumala Ashram, a Trappist monastery, was founded in Vagamon in 1955.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1963",
+    "title": "A hospital for the hills",
+    "body": "Dr. Elizabeth Baker and architect Laurie Baker set up a hospital and rural service centre at Kurishumala. It served tea-plantation workers and rural families across the Idukki hills.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

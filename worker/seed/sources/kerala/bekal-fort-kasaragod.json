@@ -1,0 +1,59 @@
+{
+ "query": "Bekal Fort, Kasaragod",
+ "found": "Bekal Fort, Bekal Fort Road, Bekal, Hosdurg, Kasaragod, Kerala, 671316, India",
+ "lat": 12.3922238,
+ "lon": 75.0327651,
+ "fetchedAt": "2026-10-12T18:08:12.714Z",
+ "locality": {
+  "id": "bekal-kasaragod-kerala",
+  "name": "Bekal",
+  "area": "Hosdurg, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Bekal": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bekal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Bekal",
+   "credit": "Photo: Sindhuja0505, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bekal.jpg"
+  },
+  "Bekal Fort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bakel_Fort_Beach_Kasaragod7.jpg/1280px-Bakel_Fort_Beach_Kasaragod7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bekal Fort",
+   "credit": "Photo: Vinayaraj, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bakel_Fort_Beach_Kasaragod7.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Bekal",
+   "text": "Bekal (Malayalam: [beːkːɐl]) is a small town in the Kasaragod district on the West coast of the state of Kerala, India.\n\n\n== Location ==\nBekal is a town located 14 km (8.7 mi) south of Kasaragod town and 12 km (7.5 mi) north of Kanhangad on the State Highway 57. Bekal Fort is the largest fort in Kerala state situated adjacent to the beach. Shaped like a giant keyhole, the historic Bekal Fort offers a view of the Arabian Sea from its tall observation towers, which had huge cannons a couple centuries ago.\nThe state of Kerala is reviewing a plan to start seaplane services connecting Bekal with Kollam Ashtamudi, Kumarakom, Punnamada and famous Paravur backwaters. Bekal in Northern Kerala was one of the top ten travel destinations selected by Lonely Planet.\nLocal roads have access to NH 66 which connects to Mangalore in the north and Calicut in the south. The nearest railway station is Kanhangad on Mangalore-Palakkad line. There are airports at Mangalore, Calicut and Kannur.\n\n\n== Transportation ==\nKerala State Highway connects to Kasaragod in the north and Kanhangad in the south. The nearest railway station is Bekal Fort Railway Station, Kotikulam Railway Station and Kanhangad Railway Station...",
+   "url": "https://en.wikipedia.org/wiki/Bekal"
+  },
+  {
+   "title": "Bekal Fort",
+   "text": "Bekal Fort (Malayalam: [beːkːɐl]) is a medieval fort built by Shivappa Nayaka of Keladi in 1650 AD, at Bekal. It is the largest fort in Kerala, spreading over 40 acres (160,000 m2)",
+   "url": "https://en.wikipedia.org/wiki/Bekal_Fort"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bekal",
+  "text": "Bekal is a small town, known for the nearby seaside Bekal Fort, in Kasaragod District, Northern Kerala, India. \n\n\n== See ==\n\n1 Bekal Fort (ബേക്കൽ കോട്ട) (just off NH17), ☏ +91 467 231 0700. 8AM-5:30PM. Sprawling fortress offering sweeping sea views, preserved battlement walls, gates & tunnels. \n2 Mukhyaprana Hanuman Temple (inside the fort).  (updated May 2015)\n Tunnel to the south.  (updated May 2015)\n Water Tank with steps.  (updated May 2015)\n\n\n=== Beach ===\n3 Thrikkannatt Beach, Near Petrol Pump, Bakel. There are three beautiful temples in this area. (updated Oct 2017)\n4 Bekal Beach Park. A family entertainment park complete with amusement park, food court, DJ stage, gaming zone, etc. It also provides space for cultural events and destination weddings. (updated Apr 2026)\n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bekal"
+ },
+ "sights": [
+  {
+   "name": "Bekal Fort",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 12.392222222222221,
+   "lon": 75.0325
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

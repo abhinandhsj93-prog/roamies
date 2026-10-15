@@ -1,0 +1,95 @@
+{
+ "query": "Assagao",
+ "found": "Assagao, Bardez, North Goa, Goa, 403519, India",
+ "lat": 15.5981002,
+ "lon": 73.7721529,
+ "fetchedAt": "2026-10-12T19:40:02.762Z",
+ "locality": {
+  "id": "assagao-north-goa-goa",
+  "name": "Assagao",
+  "area": "Bardez, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Siolim": {
+   "url": "https://upload.wikimedia.org/wikipedia/en/3/32/St._Anthony%27s_Church%2C_Siolim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Siolim",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Anthony's_Church%2C_Siolim.jpg"
+  },
+  "St. Michael's Church, Anjuna": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/St._Michael%27s_church_facade_from_statue.jpg/1280px-St._Michael%27s_church_facade_from_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Michael's Church, Anjuna",
+   "credit": "Photo: Sarah Bremer, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Michael%27s_church_facade_from_statue.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Assagao",
+   "text": "Assagao is a village in Bardez, Goa, India located about 4 kilometres west of Mapusa. It is known as the \"Land of Flowers\" as well as several other nicknames – \"Goa’s South Extension\", \"Artist’s village\", \"The Beverly Hills of Goa\", \"Goa’s Tuscany\". The village is surrounded by hills. From Mapusa town, the road u-turns uphill and, while descending the pass in the small plateau, splits into two parallel roads: one which proceeds straight along the St. Cajetan Church, Assagao Union High School to Anjuna and the other, which passes by Pallottine Seminary and Panchayat Office straight to Badem. The popular beaches of Anjuna and Vagator are to the west of Assagao.\n\n\n== History ==\nLike all of Goa, Assagao was long held by the Portuguese. The early inhabitants of Assagao were Saraswat Brahmins of the Atri gotra. There must have been others too. But all were invariably Hindu with Ravalnath being the presiding deity.\n\n\n== Education ==\nAssagao is home to educational institutions including Agnel Institute of Technology and Design Engineering College, DMC College, Assagao Union High School and Government Primary Schools.\n\n\n== Sports ==\nFootball and cricket are popular sports in the village. During Monsoon...",
+   "url": "https://en.wikipedia.org/wiki/Assagao"
+  },
+  {
+   "title": "Siolim",
+   "text": "Siolim ([ʃiwoːlĩː]) is a village in Bardez taluka, and a census town on the central west coast of India, in the North Goa district of Goa. The 2001 population was 10,311, and 10,936 in 2011. Siolim is also the name of a constituency in the Goa assembly, which includes Assagao, Anjuna and Oxel, in addition to Siolim. A person from Siolim is known as a Siolcar or even as Shivalkar (Konkani: Xivolkar).",
+   "url": "https://en.wikipedia.org/wiki/Siolim"
+  },
+  {
+   "title": "St. Michael's Church, Anjuna",
+   "text": "St. Michael's Church is a historic Roman Catholic church located in Anjuna, Goa state, India. It is one of the oldest churches still standing in Goa.  It was built in 1613, to serve Goan Catholics in early colonial Portuguese India.\n\n",
+   "url": "https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Anjuna"
+  },
+  {
+   "title": "Zagor (folk drama)",
+   "text": "Zagor (Konkani: जागर), (nocturnal vigil), mainly celebrated in Siolim, in Bardez taluka of Goa is a festival including dance, drama and music.",
+   "url": "https://en.wikipedia.org/wiki/Zagor_(folk_drama)"
+  },
+  {
+   "title": "Ponolem",
+   "text": "Ponolem (or Punolem) is a village in North Goa's Bardez taluka (sub-district), India.  It lies in the Goa Assembly constituency of Aldona.",
+   "url": "https://en.wikipedia.org/wiki/Ponolem"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bardez",
+  "text": "Bardez is a municipality of 237,000 people (2011) in North Goa.\n\n\n== See ==\nChapora Beach\n1 Houses of Goa Museum (Salvador-do-Mundo village of Bardez). Tue-Sun 10AM-7:30PM. An architectural museum by reputed architect Gerard da Cunha, that \"encapsulates for posterity the phenomenal outcome of the amalgamation of eastern and western architectural styles\" \n2 Xavier Centre of Historical Research, B B Borkar Road, Alto-Porvorim, ☏ +91-832-2417772. Mon-Fri 9:30AM-7PM (lunch break: 1-2PM), Sat 9:30AM-1PM. It has a gallery on Christian art named the Xavier Xandev Museum art. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bardez"
+ },
+ "sights": [
+  {
+   "name": "Ponolem",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 15.5975,
+   "lon": 73.77722222222222
+  },
+  {
+   "name": "St. Michael's Church, Anjuna",
+   "kind": "landmark",
+   "walkMinutes": 20,
+   "lat": 15.59,
+   "lon": 73.764
+  },
+  {
+   "name": "Siolim",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 15.614537,
+   "lon": 73.770447
+  },
+  {
+   "name": "Zagor",
+   "kind": "landmark",
+   "walkMinutes": 30,
+   "lat": 15.614537,
+   "lon": 73.770447
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

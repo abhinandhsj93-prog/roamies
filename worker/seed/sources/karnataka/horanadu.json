@@ -1,0 +1,81 @@
+{
+ "query": "Horanadu",
+ "found": "Horanadu, Kalasa taluk, Chikkamagaluru, Karnataka, 577181, India",
+ "lat": 13.2765976,
+ "lon": 75.3452403,
+ "fetchedAt": "2026-10-12T18:34:02.105Z",
+ "locality": {
+  "id": "horanadu-chikkamagaluru-karnataka",
+  "name": "Horanadu",
+  "area": "Kalasa taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Horanadu": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Horanadu_Temple_Entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Hornadu",
+   "credit": "Photo: Gnanapiti at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horanadu_Temple_Entrance.jpg"
+  },
+  "Hornadu": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Horanadu_Temple_Entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Hornadu",
+   "credit": "Photo: Gnanapiti at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horanadu_Temple_Entrance.jpg"
+  },
+  "Annapoorneshwari Temple": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HoranaduAnnapurneswariTemple1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Annapoorneshwari Temple",
+   "credit": "Photo: Wind4wings (talk), CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HoranaduAnnapurneswariTemple1.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Hornadu",
+   "text": "Horanadu, also known as Sri Kshetra Horanadu, is a Panchayat village in Kalasa taluk of Chikkamagaluru district, Karnataka, India. It is the site of the Annapoorneshwari Temple. Horanadu has an elevation of 831 m (2,726 ft).\n\n\n== References ==\n\n\n== External links ==",
+   "url": "https://en.wikipedia.org/wiki/Hornadu"
+  },
+  {
+   "title": "Annapoorneshwari Temple",
+   "text": "The Annapoorneshwari Temple is a Hindu temple dedicated to the goddess Annapoorneshwari (Annapoorna), located at Horanadu, Karnataka, India, 100 km from Chikmagalur in the thick forests and valleys of the Western Ghats of Karnataka. It is situated on the banks of river Bhadra.",
+   "url": "https://en.wikipedia.org/wiki/Annapoorneshwari_Temple"
+  },
+  {
+   "title": "Sri Parashakthi Kshetra",
+   "text": "Sri Parashakthi Kshetra (Kannada: ಶ್ರೀ ಪರಾಶಕ್ತಿ ಕ್ಷೇತ್ರ, ಮಡ್ಯಾರು), a temple complex at Madyar, Kotekar. Madyar, located around 20 km from Mangalore, the port city of Karnataka, India where the Hindu goddess Vaishnavi is worshiped as the presiding deity.",
+   "url": "https://en.wikipedia.org/wiki/Sri_Parashakthi_Kshetra"
+  },
+  {
+   "title": "University of Agricultural and Horticultural Sciences, Shimoga",
+   "text": "The Keladi Shivappa Nayaka University of Agricultural and Horticultural Sciences, Shivamogga (KSNUAHS) is a university in the Indian state of Karnataka. It is the state's first integrated university to have both agricultural and horticultural sciences under its purview.",
+   "url": "https://en.wikipedia.org/wiki/University_of_Agricultural_and_Horticultural_Sciences,_Shimoga"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Horanadu",
+  "text": "Horanadu, or Hornadu, is a small village in Mudigere Taluk of Chikmagalur District. It has a Hindu Holy Temple of Sri Adishaktyatmaka Annapurneshwari.\n\n\n== See ==\n\n Bhadra River. It's about 4 km on the way to Kalasa. \n Kalaseshwara Temple. 8 km in Kalasa \n Sri Adhishakthyathmaka Annapoorneshwari Temple (Horanadu Temple), ☏ +91 8263-269714-214614, shriaath@gmail.com. This is the main deity of Horanadu Temple. The main deity of goddess was put in place by Adi Shankaracharya; the new deity of goddess Annapurneshwari was consecrated in the temple in 1973. \n Sri Udbava Ganapathi Temple. It is about 3 km by road, and 1.5 km by trekking. \n\n\n== Do ==\nThere is dress code to enter inside the temple. Men are supposed to take off their shirt before entering. Even though women don't have any dress code, they are expected to wear either Saree or Salwar Kameez.\nWalk around the streets of Horanadu, it is a breathtakingly beautiful village. The mountains surround the village from all the three sides and you move in slowly in the U-shaped access to the temple. The view around the village is so spectacular that you need several minutes to look around and slowly absorb the beauty in. You can also visit the small waterfalls in the village.\nTrek to Kyathanamakki Hill station and Gaali gudda.\nVisit ancient Jain temples at Balige and Chikkanna Kodige and others around Horanadu.\n\n\n== Eat ==\nFree lunch is given inside the temple from noon to 3pm and free dinner is given from 7PM to 10PM.  If you are from the Brahmin caste, announce it first, as Brahmins are given special eating places.\nThere are 2–3 small budget restaurants around the temple street.\n\n\n== Drink ==\nPunarpuli/Kokam Juice is famous in Horanadu.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Horanadu"
+ },
+ "sights": [
+  {
+   "name": "Sri Annapurneshwari Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 13.2767116,
+   "lon": 75.3437901
+  },
+  {
+   "name": "Anjaneya Swamy Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 5,
+   "lat": 13.2743844,
+   "lon": 75.3436904
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "query": "Somanathapura",
+ "found": "Somanathapura, Tirumakudalu Narasipura taluk, Mysuru District, Karnataka, 571120, India",
+ "lat": 12.2761528,
+ "lon": 76.8833039,
+ "fetchedAt": "2026-10-12T18:29:43.128Z",
+ "locality": {
+  "id": "somanathapura-mysuru-district-karnataka",
+  "name": "Somanathapura",
+  "area": "Tirumakudalu Narasipura taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Somanathapura": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/13th_century_Keshava_Hindu_temple_site.jpg/1280px-13th_century_Keshava_Hindu_temple_site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Somanathapura",
+   "credit": "Photo: Ms Sarah Welch, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:13th_century_Keshava_Hindu_temple_site.jpg"
+  },
+  "Chennakeshava Temple, Somanathapura": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg/1280px-Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chennakeshava Temple, Somanathapura",
+   "credit": "Photo: Jean-Pierre Dalbéra from Paris, France, CC BY 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_temple_de_Chennakesava_(Somanathapura,_Inde)_(14465165685).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Somanathapura",
+   "text": "Somanathapura, also spelled Somnathpur  temple or Somanathpura  is a town in T Narasipura Taluk, Mysore district in the state of Karnataka in India. It is located 38 kilometres (24 mi) from the city of Mysuru and houses the Chennakeshava Temple (also called Keshava temple) built in 1258 AD. The temple was recognised as a UNESCO World Heritage Site in 2023. The town's name holds a strong connection to the Somnath Temple, in which it shares the name \"Somnath\" or \"Somanath.\"\n\n\n== Demographics ==\nAccording to the 2011 Indian Census, the town consists of 4,692 people. The town has a literacy rate of 86.11 percent which is higher than Karnataka's average of 75.36 percent.\n\n\n== References ==\n\n\n== External links ==\n\nSomnathpur.com\nSomanathapura description",
+   "url": "https://en.wikipedia.org/wiki/Somanathapura"
+  },
+  {
+   "title": "Chennakeshava Temple, Somanathapura",
+   "text": "The Chennakesava Temple, also referred to as Chennakeshava Temple and Keshava Temple, is a Vaishnava Hindu temple on the banks of River Kaveri at Somanathapura, Mysuru, Karnataka, India. The temple was consecrated in 1258 CE by Somanatha Dandanayaka, a general of the Hoysala King Narasimha III. It is located 38 kilometres (24 mi) east of Mysuru city.\nThe ornate temple is a model illustration of the Hoysala architecture. The temple is enclosed in a courtyard with a pillared corridor of small shrines (damaged). The main temple in the center is on a high star-shaped platform with three symmetrical sanctums (garbha-griha), set in a square matrix (89' x 89') oriented along the east–west and north–south axes. The western sanctum was for a statue of Kesava (missing), the northern sanctum of Janardhana and the southern sanctum of Venugopala, all forms of Vishnu. The sanctums share a common community hall (sabha-mandapa) with many pillars. The outer walls, the inner walls, the pillars and the ceiling of the temple are intricately carved with theological iconography of Hinduism and display extensive friezes of Hindu texts such as the Ramayana (southern section), the Mahabharata (northern section...",
+   "url": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Somanathapura"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Somnathapura",
+  "text": "Somnathapura (alternative spelling: Somanathapura or Somnathpur) is a town in Karnataka close to Tirumakudalu Narasipura Taluk. The area was ruled by the Hoysala Dynasty. A minister of the Hoysala dynasty, by name Somanath, planned to establish a temple here, based on the Hoysala architecture. As Hoysalas were mainly Lord Vishnu devotees, a temple, dedicated to Lord Chennakeshava, an incarnation of Lord Vishnu with a flute (Resembling Lord Krishna) was established here, on the left bank of River Cauvery\n\n\n== See ==\n1 Keshava Temple (Channakesava). 09:00-18:00. built by the Hoysala dynasty in 1268 CE. The Temple was subjected to various invasions, during one of which, the Main idol of the deity is supposed to be reportedly stolen, owing to its beauty. The main deity has therefore been replaced by a replica and hence, no sort of Poojas or activities take place for the Lord. Hence, it's relatively quiet and has not that many visitors. There are excellent soap stone sculptures covering the complete temple outside and showing of several Hindu gods and goddesses. Good light for photos is during low standing sun, i.e. in the morning (frontside with entrance has best light) or evening (sculptured backside has best light). Guides with governmental test will explain the temple for a fixed rate of ₹300 per 30mins. No separate charges for Focussing charges for sculptures inside the Temple levied. ₹100 for foreigner entrance, 5 for Indian, 25 for video. \n\n\n== Do ==\n\n\n== Eat ==\nFood has to be carried since there are no very good restaurants\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Somnathapura"
+ },
+ "sights": [
+  {
+   "name": "Chennakeshava Temple, Somanathapura",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 12.275691666666667,
+   "lon": 76.88165277777777
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

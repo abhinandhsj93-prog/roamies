@@ -1,0 +1,128 @@
+{
+ "query": "Ottapalam, Palakkad",
+ "region": "kerala",
+ "name": "Ottapalam",
+ "draft": {
+  "briefing": "Hey, you're in Ottapalam! This town on the Bharathapuzha, Kerala's second-longest river, is one of the state's big filming locations. The 2010 film Pokkiri Raja was shot here.",
+  "hungryLine": "Ottapalam has plenty of simple local restaurants. Try Sadhya Restaurant on Market line or Kayyalakkal Restaurant on Ali Akbar Road.",
+  "moodReplies": {
+   "show-me-around": "Vengeri Temple is a 6 min walk and Puzhikunnu Temple about 8 min. Chinakathoor Kavu Temple is the one to see at festival time.",
+   "somewhere-to-chill": "Walk down to the banks of the Bharathapuzha and watch the river go by.",
+   "surprise-me": "Ottapalam used to be called Ayirur Thekkummuri Desam."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Vengeri Temple",
+     "detail": "6 min walk · Local temple close by",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Puzhikunnu Temple",
+     "detail": "8 min walk · Another neighbourhood temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chinakathoor Kavu Temple",
+     "detail": "In Ottapalam · Home of the yearly Chinakathoor Pooram",
+     "status": {
+      "text": "Check festival dates locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Chinakathoor Kavu Temple",
+    "title": "A Pooram every year",
+    "body": "The Chinakathoor Pooram festival is held at this temple every year. At Sri Chinnakkathoor Bhagavathy Temple in Lakkidi, the famous festival runs 21 days, with costumes and animal shapes on show."
+   },
+   {
+    "where": "Chunangad",
+    "title": "A first for Kerala",
+    "body": "Chunangad, a village near Ottapalam, is where Chunangat Kunjikavamma was born. She became the first woman President of the Kerala Pradesh Congress Committee."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time it for Pooram.",
+    "body": "Chinakathoor Pooram happens every year, so check the dates locally before you come."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly at temples.",
+    "body": "Most sights within walking distance are temples, so cover shoulders and knees."
+   }
+  ],
+  "story": [
+   {
+    "era": "Medieval times",
+    "title": "The Nedunganad kingdom",
+    "body": "Ottapalam, Pattambi and Cherpulassery were part of the Nedunganad kingdom, led by the Nedunganathiripad. Its headquarters was at Makovilakam near Kodikunnu.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Nedunganad days",
+    "title": "Land of Thrikkadeeri Nair",
+    "body": "Nair chiefs ruled under the Nedunganathiripad, and Ottapalam was the administrative area of Thrikkadeeri Nair. Back then it was known as Ayirur Thekkummuri Desam.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Until 2009",
+    "title": "A seat of its own",
+    "body": "Ottapalam had its own Lok Sabha constituency, reserved for scheduled castes. In 2009 it was replaced by the Alathur constituency.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Lights, camera, Ottapalam",
+    "body": "It's the taluk headquarters and one of the district's main commercial centres. Film crews love it, and the 2010 film Pokkiri Raja was shot here.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Sadhya Restaurant",
+    "detail": "Market line · Local meals in the middle of town",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Kayyalakkal Restaurant",
+    "detail": "Ali Akbar Road · A local favourite",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Food Fusion Restaurant",
+    "detail": "Opposite the bus station · Handy between buses",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

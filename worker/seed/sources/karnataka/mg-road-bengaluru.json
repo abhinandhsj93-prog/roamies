@@ -1,0 +1,287 @@
+{
+ "query": "MG Road, Bengaluru",
+ "found": "Mahatma Gandhi Road, Shanthala Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+ "lat": 12.9755264,
+ "lon": 77.6067902,
+ "fetchedAt": "2026-10-12T18:24:28.051Z",
+ "locality": {
+  "id": "ashokanagar-bengaluru-urban-karnataka",
+  "name": "Ashokanagar",
+  "area": "Bengaluru, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "M G Road, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/MG_Road%2C_Bangalore_%282025%29.jpg/1280px-MG_Road%2C_Bangalore_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "M G Road, Bengaluru",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MG_Road,_Bangalore_(2025).jpg"
+  },
+  "St Joseph's Boys' High School, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/SJBHS_Bangalore.png/1280px-SJBHS_Bangalore.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St Joseph's Boys' High School, Bengaluru",
+   "credit": "Photo: Anonymous8010, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SJBHS_Bangalore.png"
+  },
+  "Bishop Cotton Girls' School": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Quadrangle_in_Bishop_Cotton%27s_Girls%27_High_School.jpg/1280px-Quadrangle_in_Bishop_Cotton%27s_Girls%27_High_School.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bishop Cotton Girls' School",
+   "credit": "Photo: Arunaparandhama, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quadrangle_in_Bishop_Cotton%27s_Girls%27_High_School.jpg"
+  },
+  "Brigade Road": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Brigade_Road_Bengaluru.jpg/1280px-Brigade_Road_Bengaluru.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Brigade Road",
+   "credit": "Photo: VGMax, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brigade_Road_Bengaluru.jpg"
+  },
+  "Bengaluru Central Business District": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/UB_City_Skyline.jpg/1280px-UB_City_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bengaluru Central Business District",
+   "credit": "Photo: Mykeljackson, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:UB_City_Skyline.jpg"
+  },
+  "Garuda Mall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bangalore_garuda_mall.jpg/1280px-Bangalore_garuda_mall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Garuda Mall",
+   "credit": "Photo: Unknown, CC BY-SA 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangalore_garuda_mall.jpg"
+  },
+  "Mayo Hall (Bengaluru)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mayo_Hall%2C_Bengaluru_2.jpg/1280px-Mayo_Hall%2C_Bengaluru_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mayo Hall (Bengaluru)",
+   "credit": "Photo: LittleT889, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mayo_Hall,_Bengaluru_2.jpg"
+  },
+  "Mahatma Gandhi Road metro station (Bengaluru)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/MG_Road_metro_station_%282024%29_01.jpg/1280px-MG_Road_metro_station_%282024%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mahatma Gandhi Road metro station (Bengaluru)",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MG_Road_metro_station_(2024)_01.jpg"
+  },
+  "St. Mark's Cathedral, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/St._Marks_Cathedral%2C_Bangalore._%28Old_Postcard_Re-print%29%2C_India_Post_%282014%29.jpg/1280px-St._Marks_Cathedral%2C_Bangalore._%28Old_Postcard_Re-print%29%2C_India_Post_%282014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Mark's Cathedral, Bengaluru",
+   "credit": "Photo: India Post, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Marks_Cathedral,_Bangalore._(Old_Postcard_Re-print),_India_Post_(2014).jpg"
+  },
+  "St. Andrew's Church, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/St._Andrew%27s_Church%2C_Cubbon_Road%2C_Bangalore.jpg/1280px-St._Andrew%27s_Church%2C_Cubbon_Road%2C_Bangalore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Andrew's Church, Bengaluru",
+   "credit": "Photo: Kanad Sanyal, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Andrew%27s_Church,_Cubbon_Road,_Bangalore.jpg"
+  },
+  "Commercial Street, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Commercial_Street%2C_Bangalore_%287870987476%29.jpg/1280px-Commercial_Street%2C_Bangalore_%287870987476%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Commercial Street, Bengaluru",
+   "credit": "Photo: Saad Faruque from Bangalore, India, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commercial_Street,_Bangalore_(7870987476).jpg"
+  },
+  "Church Street, Bengaluru": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Church_Street_name_board.jpg/1280px-Church_Street_name_board.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Church Street, Bengaluru",
+   "credit": "Photo: Saiphani02, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_Street_name_board.jpg"
+  },
+  "Koshy's": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Koshys.jpg/1280px-Koshys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Koshy's",
+   "credit": "Photo: Atr hugo, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koshys.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "M G Road, Bengaluru",
+   "text": "Mahatma Gandhi Road  also known as MG Road is a road in Bengaluru, India. It runs east from Trinity Circle at one end to Anil Kumble Circle at the other. Known as South Parade in pre-independence era, it was renamed as Mahatma Gandhi Road on 26 February 1948.\nM. G. Road is also one of the busiest roads in the city and is lined on one side with retail stores, food outlets, restaurants and many more. It has many office buildings, shops and theatres. It is also a home to many buildings and banks. There are two Metro stations on M. G. Road, the eponymous station and Trinity. \nPresently, the M.G Road Boulevard is being reconstructed after construction of the MG Road Metro station was completed and services launched on 20 October 2011. The Bengaluru Metro line that runs through MG Road, connects the eastern part of Bengaluru with the west.",
+   "url": "https://en.wikipedia.org/wiki/M_G_Road,_Bengaluru"
+  },
+  {
+   "title": "St Joseph's Boys' High School, Bengaluru",
+   "text": "St Joseph's Boys' High School (formerly St. Joseph's European High School) is a private Catholic primary and senior secondary school located on Museum Road in Bangalore, Karnataka, India. Founded by the MEP (French Missionaries) in 1858, the school caters to boys only from kindergarten to Grade 10 and is co-educational in Grades 11 and 12.\nThe school's Annual Old Boys Day draws alumni from around the globe. The school's history is detailed by alumnus Christopher Rego in the book Faith and Toil.",
+   "url": "https://en.wikipedia.org/wiki/St_Joseph%27s_Boys%27_High_School,_Bengaluru"
+  },
+  {
+   "title": "Bishop Cotton Girls' School",
+   "text": "Bishop Cotton Girls' School, or BCGS, is a private all-girls' school for boarders and day scholars in Bengaluru, Karnataka, India. It has been awarded the International School award by the British Council.\nThe school curriculum is based on the ICSE format of education, and has teaching facilities from Kindergarten, 1 to 10 (ICSE) and 11 and 12 (ISC).",
+   "url": "https://en.wikipedia.org/wiki/Bishop_Cotton_Girls%27_School"
+  },
+  {
+   "title": "Brigade Road",
+   "text": "Brigade Road is a large commercial centre and one of the busiest shopping areas in the heart of Bengaluru, the capital of Karnataka State, India. It is a one-way connecting road from M G Road to Hosur Road, also connecting Residency Road and Church Street on the way.",
+   "url": "https://en.wikipedia.org/wiki/Brigade_Road"
+  },
+  {
+   "title": "Bengaluru Central Business District",
+   "text": "The central business district of Bengaluru is the area within a 7 km radius around Vidhan Soudha. This is the center of Bangalore and was founded by Kempegowda of the Vijayanagara Empire. Most of the land is used by commercial establishments and the Indian Army with plans of skyscrapers under works. It has multiple high-rises including UB Tower. It also includes heritage properties like the Bangalore Fort and the Bangalore Pete.\nThe Collection in UB City is one of the first luxury shopping malls of South India. The land in CBD is expensive; Brigade Road and MG Road are amongst the most expensive in India. It also houses many other high streets including Commercial Street and Church Street as well as the Karnataka Film Chamber of Commerce. CBD is a tourist attraction as there are parks, government offices, educational institutions, business houses and hotels, shopping destinations, stadiums, museums, temples, mosques, churches, art galleries and entertainment zones. Since the 2010s, planning and transport studies have described the area as part of a wider urban corridor accommodating service-sector activities, including technology and corporate services, in the context of Bengaluru’s...",
+   "url": "https://en.wikipedia.org/wiki/Bengaluru_Central_Business_District"
+  },
+  {
+   "title": "Garuda Mall",
+   "text": "Garuda Mall is the premier shopping mall in the city of Bangalore, India, which is also home to the city's second oldest Shoppers Stop branch, and the oldest one in the city which is attached to a mall. It is situated on Magrath Road at the heart of the central business district in Bangalore, near Brigade Road. The mall has opened another branch in the Heritage City, Mysore near K. R. Circle. Another branch in Kochi with French cuisine and heritage.",
+   "url": "https://en.wikipedia.org/wiki/Garuda_Mall"
+  },
+  {
+   "title": "Mayo Hall (Bengaluru)",
+   "text": "Mayo Hall is a government building located in the center of Bangalore. It was built to honor the memory of Richard Bourke the 4th Viceroy of India. It offers a panoramic view of the city's Parade Grounds and Ulsoor Lake on one side, and the Bangalore Race Course and Brigade Grounds on the south.\nThis two-story structure is known for its ornate furniture and architecture. It is adorned by chandeliers, Greek cornices, Tuscan columns, stone arches, wooden floors and beautiful furnishings. It became a popular tourist attraction.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Mayo_Hall_(Bengaluru)"
+  },
+  {
+   "title": "Mahatma Gandhi Road metro station (Bengaluru)",
+   "text": "Mahatma Gandhi Road (commonly referred to as MG Road) is an elevated metro station on the East-West corridor of the Purple Line of Namma Metro in Bengaluru, India. Purple line station was constructed by Punj Lloyd and opened to the public on 20 October 2011. The station MG Road has a bicycle stand next to the Urban Square, from where commuters can rent cycles. This metro station will serve as Purple line's 2nd interchange station after Majestic metro station for the upcoming Pink Line, being constructed by Larsen & Toubro.\nAs per the latest updates, this metro station, under the second phase (Pink Line), covering the total distance of 13.8 km stretch (Dairy Circle - Nagawara) is expected to be operational around December 2026.",
+   "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_Road_metro_station_(Bengaluru)"
+  },
+  {
+   "title": "St. Mark's Cathedral, Bengaluru",
+   "text": "St. Mark's Cathedral, dedicated to Saint Mark the Evangelist, is the cathedral (Ecclesia Matar) of the Diocese of Central Karnataka of the Church of South India. The cathedral church, noted for its English Baroque architecture inspired by the 17th century St Paul's Cathedral, is located at the west end of Mahatma Gandhi Road, MacIver Town, Bangalore.\nFounded in 1808, the cathedral celebrated its 200 years bicentenary in 2007-8. The cathedral is open for all people irrespective of religion or faith.",
+   "url": "https://en.wikipedia.org/wiki/St._Mark%27s_Cathedral,_Bengaluru"
+  },
+  {
+   "title": "St. Andrew's Church, Bengaluru",
+   "text": "St. Andrew's Church [1], consecrated in 1866, is a Presbyterian church, located on Cubbon Road, Bangalore. Initially knows as St. Andrews's Kirk, it was a Church of Scotland church till 1959 when it became part of the Karnataka Central Diocese of the Church of South India. The church is named after Saint Andrew, the patron saint of Scotland. St Andrew's Church celebrated its 150 years anniversary on 20 November 2014.\nThe church was consecrated in memory of Mary Elizabeth McGoun (died 1867), wife of Col. Thomas McGoun of the 6th Madras Native Infantry (died 19 April 1868 at Marseille on the way back to Scotland, has a memorial stone at the St. Andrew's Kirk, Madras), it was once known as the martyr's church. The monument to the memory of Mary Elizabeth is located at the end of the church altar.",
+   "url": "https://en.wikipedia.org/wiki/St._Andrew%27s_Church,_Bengaluru"
+  },
+  {
+   "title": "Commercial Street, Bengaluru",
+   "text": "Commercial Street is a street in Bangalore, the state capital of Karnataka, India. One of the oldest and busiest shopping areas of the city, the street is famous for its trade in clothes, footwear, jewellery, electronics; and food joints. With only 75 parking slots available on the street for four-wheelers, the street is one of the most crowded in the city.\nIt's expands between OPH road and K Kamraj road. the shopping locations extend to its bylanes including Dispensary Road and Abrahim Sahab street. \n\nCommercial Street lies in the heart of the city in the Central Business District area in Tasker Town, close to M G Road, another popular shopping area, and Russell Market in Shivajinagar.",
+   "url": "https://en.wikipedia.org/wiki/Commercial_Street,_Bengaluru"
+  },
+  {
+   "title": "St Joseph's College of Law, Bengaluru",
+   "text": "St Joseph's College of Law is a Jesuit law school in Bangalore, in Karnataka, in south-western India. It was founded in 2017. It is part of St. Joseph's Institutions. It is affiliated to Karnataka State Law University, Hubballi, and approved by the Bar Council of India in New Delhi.",
+   "url": "https://en.wikipedia.org/wiki/St_Joseph%27s_College_of_Law,_Bengaluru"
+  },
+  {
+   "title": "Church Street, Bengaluru",
+   "text": "Church Street is a busy street in the Central Business District of Bengaluru, India. It is a 750-metre stretch from Brigade Road to St. Mark's Road, running parallel to M G Road. The street is named for St. Mark's Cathedral to which it leads.\nA tourist hotspot, Church Street is a major shopping and nightlife area. It is also a popular New Year's Eve celebration centre. \nIn 2017, redevelopment work began on Church Street at a cost of ₹9 crore, which made it the first street in the city to be paved from granite cobblestones. The cobblestones were laid in a Kasuti pattern to reflect Karnataka's cultural heritage. \nIn 2020, Church Street ran a pilot project called Clean Air Street during which the street was converted into a pedestrian zone with a complete ban on automobile traffic.\nThe pedestrian zone was a trial conducted with many interested stakeholders and  academic research organisations as a 'test-bed' for sustainable urban redesign and community wellness.\nThe experiment included open air seating, cultural events, and mobility support in the form of buggies and e-rickshaws for the disables and senior citizens.\nThe trial was closely monitored by Indian Institute of Science (IISc)...",
+   "url": "https://en.wikipedia.org/wiki/Church_Street,_Bengaluru"
+  },
+  {
+   "title": "Sandesh Museum of Communication",
+   "text": "Sandesh Museum of Communication is a museum in Bangalore and is dedicated to the postal history of India and different modes of communication. The museum opened its doors in 2019 and is located inside a 140-year-old post office, preserved and refurbished as a museum.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Sandesh_Museum_of_Communication"
+  },
+  {
+   "title": "Koshy's",
+   "text": "Koshy's Parade Café, popularly known as Koshy's, is a family-owned restaurant in Bangalore, India.\nJawaharlal Nehru, Queen Elizabeth II and Nikita Khruschev are among those who have dined at Koshy's.",
+   "url": "https://en.wikipedia.org/wiki/Koshy%27s"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bengaluru",
+  "text": "Bengaluru (Kannada: ಬೆಂಗಳೂರು Bengaḷūru), formerly Bangalore, is the largest city in southern India and the capital of the state of Karnataka. A cosmopolitan city, Bengaluru was developed around what was once a mud fort of a feudal lord. The city has a population of nearly 13 million (2025), making it India's fourth-largest city.\nKnown worldwide as the \"Silicon Valley of India\", Bengaluru is at the core of India's information technology (IT) industry. In addition, the city is nicknamed the \"Garden City\" for its large array of parks and greenery.\n\n\n== See ==\nIndividual listings can be found in Bengaluru's district articles\n\nThere are city tours that can show you the city efficiently if you are short on time. Typically, tours do not include entry fees into the attractions. Bengaluru, like the rest of India, has a habit of charging foreigners a lot more than locals for attractions. For example, Tipu Sultan's Summer Palace, which is on the half-day tour, charges ₹15 for Indians/SAARC and ₹200 for non-Indians.\n\n\n== Do ==\nIndividual listings can be found in Bengaluru's district articles\n\n\n=== Outdoor activities ===\nBengaluru is bestowed with rock climbers, aqua sportsmen and aero sportsmen. There are several clubs, including Nature Admire, Care, Spark, KMA, Capture, Mars, Angel, Wildcraft and Adventure Works.\nCamping facilities are available at Savandurga, Gunjoor Lake, Bhimeshwari, Rangaswamy betta.\nThe Art of Bicycle Trips organises bicycle tours in and around the city, which combine cycling with art and heritage.\nThe Koramangala Club in Koramangala, and the Swimming club at the National Games Village (NGV), have facilities such as swimming pools and tennis courts.\nBalahalli Reserved Forest is a  UNESCO World Heritage Site\nCricket\nBengaluru is also popular for playing cricket. Bengaluru also has the M Chinaswamy Stadium and is home to the Royal Challengers Bengaluru in the Indian Premier League and Women's Premier League. Chinaswamy Stadium also hosts international matches against teams. Chinaswamy Stadium is also known for its energetic crowd in cheering the Royal Challengers Bengaluru former captain Virat Kohli and the rest of the team, especially when they win. Book tickets early especially for IPL matches because when Royal Challengers Bengaluru is playing, the tickets get sold out within seconds. If you arrive in January or February, book tickets for the Women's Premier League as it takes place in those months and is often less crowded than the IPL matches. Always carry a water bottle while travelling to Chinaswamy Stadium. \n\n\n=== Movies ===\nTake in a movie at one of the innumerable theaters around the city. Some multiplexes:\n\n Cinemax (Bengaluru Central, Bellandur).   \n Cinepolis, Royal Meenakshi Mall, Bannerghatta Rd; ETA Mall, Binny Pete; Forum Shantiniketan, Whitefield.  \n Gopalan Cinemas, Arch Mall, Mysore Rd,. Gopalan Mall, Mysore Road; Gopalan Mall, Near Jayadeva Hospital, Bannerghatta Road ; Gopalan Mal;, Old Madras Road, Near Baiyappanhalli Metro Station \n Inox theatre, Bengaluru Central, JP Nagar, Fame Cinemas, MG Road, Forum Value Mall, Whitefield, Garuda Mall, Magrath Road, Lido Mall, Ulsoor, Mantri Square, Malleshwaram, Garuda Swagath Mall, Jayanagar.   \n PVR Cinemas, Nexus Mall, Koramangala, Orion Mall, Malleshwaram, The Phoenix Market City Mall, Whitefield; Vega Mall, JD Mara signal.   \n Bangalore Film Society. A club membership (around ₹500/year) is typically required for entrance. Foreign film series and cultural events. \n\n\n=== Spas ===\nSpas and massages are very much a part of Bengaluru's east-meets-west culture, new ones spring up across the city all the time. Beware that many of the \"massage\" classifieds in local newspapers may be fronts for prostitution. Prostitution is illegal and if caught in a raid, you may end up spending a night in the cooler before being eligible for bail. Most legitimate spas and massage parlours have detailed websites and are run professionally.\n\n\n== Eat ==\nIndividual listings can be found in Bengaluru's district articles\nBengaluru has a wide variety of food options. Foreigners will want to look for cleanliness in choosing a place to eat. Also don't expect the exterior to be too fancy, observe the cleanliness of the inside and the servers when choosing a place to eat! Eating options include high end restaurants to chains to temples to mom and pop shops and of course street vendors! Restaurants usually label if they serve only vegetarian (veg or pure veg) or both veg and non-veg cuisine. If you haven't been in India long, it is safer to take bottled water. But juices and other drinks are usually OK.\nThere are also hundreds of young coconut and sugarcane juice stands! A nice refresher as you go around town! Both are good for keeping cool and energized. A coconut goes for ₹25-30 (some stands may have smaller coconuts for ₹10-15). Sugar cane juice runs ₹10-15 per cup.\nBengaluru is far from the sea, and as such the quality of seafood can vary. Some of the higher end and popular seafood places manage this well, but foreign travellers may want to tread a bit carefully.\nForeigners might want to only drink bottled water and eat only chutneys that are made with bottled or filtered water. Also, beef is forbidden to be on the menu in Karnataka restaurants.\nThe 80 Feet Road is the Eat Street of Koramangala. Pizza Hut, Domino's, KFC, Taco Bell, Au Bon Pain are all found here. There are also many non-chains serving local Indian cuisine. Chandni Chowk is a great option if you want the rural Punjabi dhaba experience.\nWisdom Cafe, near the AlienWare showroom is a really cosy place to have some snacks or lunch. So is the Hole in the Wall cafe, on the back street behind Maharaja Hotel. Serves great coffee and English breakfast. So does Cafe Terra, near Wipro park crossing. Adjacent to it is a really popular food joint called Little Home. It serves nice North Indian food at a very reasonable price. It's really popular with the young working populace. Naturals Ice cream parlour is a hit with the hip crowd; on weekend nights you may find queues outside.\n\n\n=== Chains ===\n\n The Adiga's chain. Restaurants to the south of Bengaluru. Prominent among them are in: Jayanagar 4th Block, take the road facing BHS First Grade College, Basavanagudi. \n Beijing Bites. 11AM-3:30PM, 7PM-11PM. Chain restaurant inspired by Chinese & Thai cuisines, spread across Bengaluru. ₹200-₹400. \n Kamat Yatrinivas, Majestic; All around the city. Authentic Mangalorean meals. \n Mast Kalandar, All around the city. Very nice North India cuisine. It is very reasonably priced. \n Nagarjuna Chimney, Residency Rd; Jayanagar 3rd Block (near Old Galaxy Theatre; near ICICI Bank). Possibly have a few more branches elsewehere in Bengaluru. The biryani is great, as are their meals which are served ritually on a banana leaf. Reach early for lunch, for there are always hordes waiting. \n Upaahara Darshini, Jayanagar 3rd Block; DVG Road, Gandhi Bazaar. One of Bengaluru's oldest food joints. Amazing dosas. \n Corner House, Residency Rd, BTM Rd, Koramangala, Airport Rd, Whitefield Rd, Marthahalli and Shivananda Circle, ☏ +91 80 2558 3262. One of the best ice cream parlours offering a variety of treats. Their famed 'Death by Chocolate' (popularly known as DBC) is a must for all chocolate lovers and has attained a cult status. Can be tricky to find a spot during peak times and you may find yourself being 'encouraged' by the staff to leave quickly once you do. \n Kanti Sweets. KG Rd, Majestic, Malleswaram Circle, RT Nagar. Very good samosas, kachoris and North Indian sweets like rasmalai. Rapidly expanding chain, so there are plenty of branches all over the city now, which serve parathas and other food items as well. The main branch in Majestic is the best, and serves only samosas, kachoris and sweets. ₹10-50 per head. \n Nandini. The Andhra fast food chain serves some excellent biriyani and chicken dishes. \n New Shanti Sagar, 80 Foot Rd. This is a reasonably reliable chain of vegetarian south Indian restaurants. Branches scattered all over the city, notably in Koramangala Jayanagar, Domlur. ₹50-200. \n The Rameshwaram Cafe. A well-known restaurant chain famous for its extra crispy ghee dosas. Standing room only and hugely popular, all food is made to order so at peak meal times you may need to wait for an hour or longer. (updated Sep 2024)\n Savera Tea Shop. 24 hr tea shops near Russell Market in Shivajinagar and on MG Rd. Good place to go for a cup of tea in the dead of the night. Serves tea, Suleimani (honey+lemon) tea and a variety of biscuits. ₹3-15 \n Shezan, Lavelle Rd and Cunningham Rd, ☏ +91 80 2224 9319, +91 80 2224 9667. Indian, Chinese and Continental cuisines with a good menu choice where beef, fish, prawn, mutton and chicken meat are available. Excellent steaks. \n SLV chain. Prominent among them are in: Banashankari 2nd stage, opposite BDA park and the one in J.P.Nagar 2nd Phase near Ragigudda Temple \n Sree Krishna. Fast food a little further from the r",
+  "url": "https://en.wikivoyage.org/wiki/Bengaluru"
+ },
+ "sights": [
+  {
+   "name": "Mahatma Gandhi Road metro station",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 12.975536,
+   "lon": 77.60683
+  },
+  {
+   "name": "Brigade Road",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 12.973801,
+   "lon": 77.6075
+  },
+  {
+   "name": "Church Street, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 4,
+   "lat": 12.975006,
+   "lon": 77.604785
+  },
+  {
+   "name": "Bengaluru Central Business District",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 12.975,
+   "lon": 77.61
+  },
+  {
+   "name": "Sandesh Museum of Communication",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.97286,
+   "lon": 77.60379
+  },
+  {
+   "name": "Mayo Hall",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 12.974079,
+   "lon": 77.610632
+  },
+  {
+   "name": "St. Andrew's Church, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 12.979232,
+   "lon": 77.604188
+  },
+  {
+   "name": "Koshy's",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 12.976833604849636,
+   "lon": 77.60158093068758
+  },
+  {
+   "name": "M G Road, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.973801,
+   "lon": 77.611885
+  },
+  {
+   "name": "St Joseph's Boys' High School, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 12.970895,
+   "lon": 77.603559
+  },
+  {
+   "name": "Garuda Mall",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 12.970236,
+   "lon": 77.60975
+  },
+  {
+   "name": "St Joseph's College of Law, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 12.970533333333334,
+   "lon": 77.60313055555555
+  },
+  {
+   "name": "St. Mark's Cathedral, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 12.9760281,
+   "lon": 77.6001531
+  },
+  {
+   "name": "Commercial Street, Bengaluru",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 12.9821663,
+   "lon": 77.6083553
+  },
+  {
+   "name": "Bishop Cotton Girls' School",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 12.9704,
+   "lon": 77.6014
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

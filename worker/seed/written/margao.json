@@ -1,0 +1,141 @@
+{
+ "query": "Margao",
+ "region": "goa",
+ "name": "Margao",
+ "draft": {
+  "briefing": "Hey, you're in Margao! This is Goa's commercial capital, on the banks of the river Sal, and the whole town is said to have grown out from the site of the ancient Damodar Temple at Comba.",
+  "hungryLine": "Margao is a working town, not a tourist spot, so its restaurants stay open year-round, and locals swear by the Goan fish curry thali at Kandeel.",
+  "moodReplies": {
+   "show-me-around": "Gomant Vidya Niketan, South Goa's oldest socio-cultural institution, is a 4 min walk, and Comba with its Damodar Temple and Vithal Mandir is about 9 min away.",
+   "somewhere-to-chill": "Catch the musical fountain near Nanutel hotel on a weekend evening, then grab something from the bhel puri stands around the park.",
+   "surprise-me": "The northern half of Margao's municipal garden, Aga Khan's Children's Park, was developed by Abdul Javerbhai Mavany from the town's tiny Agakhani community after he lost two young sons to cancer."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Comba",
+     "detail": "9 min walk · The old heart of Margao, with the Damodar Temple, a Ram temple and the Vithal Mandir",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Holy Spirit Church",
+     "detail": "16 min walk · Built in 1564 and 1565, the second church ever put up in Salcete",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Gomant Vidya Niketan",
+     "detail": "4 min walk · Cultural centre for Konkani and Marathi heritage, going since 1912",
+     "status": {
+      "text": "Check events locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Navelim",
+    "title": "The merchant's thanks",
+    "body": "Locals say a merchant called Barreto heard he was about to lose a fortune, prayed to Our Lady of the Rosary and was saved from bankruptcy. He then paid to rebuild Navelim's church bigger, in laterite stone."
+   },
+   {
+    "where": "Comba",
+    "title": "The Dindi procession",
+    "body": "Since 1909, on the second day after Diwali, a palanquin carrying the deity leaves Shree Hari Mandir and moves slowly through the whole town. It ends at the Vithal Rakhumayi temple in Comba."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in May or June for the feast.",
+    "body": "The Holy Spirit Church feast brings a huge street sale near the KTC bus stand, where people from all over Goa stock up on spices and dried fish before the monsoon."
+   },
+   {
+    "icon": "tag",
+    "title": "Grab the heritage walk map.",
+    "body": "Look for the Margao Heritage Walk Map by architect Ashish K Sinai Rege, which lays out three heritage walks of 20, 35 and 45 minutes."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Born around a temple",
+    "body": "The first settlement of Margao grew up around the ancient Damodar Temple at Comba. The town sits on the banks of the river Sal.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1560s",
+    "title": "An early church",
+    "body": "Holy Spirit Church went up in 1564 and 1565, the second church built in the Salcete region.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1590s",
+    "title": "Navelim's mud church",
+    "body": "Jesuits built the first church in suburban Navelim in mud between 1594 and 1598, paid for by the villagers. Its first parish priest was a French Jesuit, Fr. John Sena.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1900s",
+    "title": "Festivals and culture",
+    "body": "The Dindi festival has been celebrated here since 1909, and Gomant Vidya Niketan began as a small library in 1912. It took its current name in 1962, after the annexation of Goa.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "South Goa's capital",
+    "body": "Margao is the district headquarters of South Goa and its commercial hub. Fatorda Stadium, opened in 1989, is Goa's only international stadium and home to FC Goa.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Kandeel",
+    "detail": "Plain looking but loved by locals, including retired couples, for an inexpensive Goan fish curry thali and cocktails",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Longuinhos",
+    "detail": "A mix of Goan, Indian and Chinese dishes",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Shahi Durbar",
+    "detail": "On FL Gomes (Old Station) Road for Mughlai and Indian food, in a busy area",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

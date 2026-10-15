@@ -1,0 +1,83 @@
+{
+  "query": "Loutolim",
+  "region": "goa",
+  "name": "Loutolim",
+  "draft": {
+    "briefing": "Hey, you're in Loutolim! Legend says this village was founded by Brahmins from northern India who came to Goa after the Saraswati River in their homeland dried up. Today it's home to Big Foot, a museum that recreates old rural Goa in miniature.",
+    "hungryLine": "No eateries in my notes for Loutolim, so plan a meal in Margao, about 10 km away.",
+    "moodReplies": {
+      "show-me-around": "Big Foot Museum is just a 3 minute walk away, a whole Goan village recreated in miniature.",
+      "somewhere-to-chill": "Head toward the Zuari, which flows along one side of the village.",
+      "surprise-me": "In 1567 the captain of Rachol Fort ordered the village temples destroyed, and some villagers carried the idol of Shri Ramnath across the Zuari to safety."
+    },
+    "seeFirst": {
+      "caption": "Around Loutolim",
+      "spots": [
+        {
+          "name": "Big Foot Museum",
+          "detail": "3 min walk · Artist Maendra Alvares's recreation of old Goan village life",
+          "status": {
+            "text": "Check timings locally",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Ashvek Vintage World",
+          "detail": "In Nuvem · Restored vintage cars, from Mercedes Benz to Morris and Volkswagen",
+          "status": {
+            "text": "Small entry fee",
+            "tone": "neutral"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [
+      {
+        "where": "Loutolim",
+        "title": "Settlers from the Saraswati",
+        "body": "The village story goes that Brahmins from northern India founded Loutolim. They moved to Goa after the Saraswati River in their homeland dried up."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "tag",
+        "title": "Pair it with Margao.",
+        "body": "Loutolim is only about 10 km from Margao, so it makes an easy half-day trip."
+      },
+      {
+        "icon": "tag",
+        "title": "Bring a little cash.",
+        "body": "Ashvek Vintage World in nearby Nuvem charges a small entry fee of about Rs 50."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "A village from the north",
+        "body": "According to legend, Brahmins from northern India founded Loutolim after the Saraswati River dried up.",
+        "illustration": "flood"
+      },
+      {
+        "era": "1567",
+        "title": "Temples destroyed",
+        "body": "Diogo Rodrigues, captain of Rachol Fort, ordered the village temples burnt. Some Hindus fled across the Zuari with their idols, including Shri Ramnath.",
+        "illustration": "palace"
+      },
+      {
+        "era": "1586",
+        "title": "A Jesuit church",
+        "body": "The Jesuits built the Salvador do Mundo church in 1586 for local converts.",
+        "illustration": "palace"
+      },
+      {
+        "era": "Today",
+        "title": "Old Goa in miniature",
+        "body": "Loutolim is a large Salcete village, and the Big Foot Museum keeps Goa's rural past alive.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": []
+  }
+}

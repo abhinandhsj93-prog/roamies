@@ -1,0 +1,141 @@
+{
+ "query": "Kumbakonam",
+ "region": "tamilnadu",
+ "name": "Kumbakonam",
+ "draft": {
+  "briefing": "Hey, you're in Kumbakonam! Squeezed between the Kaveri and the Arasalar rivers, it's called the temple city, and every 12 years it hosts the Mahamaham festival that pulls in pilgrims from all over India. In British times it was such a centre of learning that people called it the Cambridge of South India.",
+  "hungryLine": "Kumbakonam filter coffee is one of the best in India, so start there, then go for local meals at a simple mess or parottas where the locals eat.",
+  "moodReplies": {
+   "show-me-around": "Nageswaraswamy Temple and Kasi Viswanathar Temple are both a 7 min walk, and the Ramaswamy Temple is about 16 minutes away.",
+   "somewhere-to-chill": "Sit with a strong filter coffee and finish with a vettrilai cheeval, the betel leaf combination the town is famous for.",
+   "surprise-me": "Nageswaraswamy Temple, just 7 minutes away, is counted as the earliest of all Chola temples."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Nageswaraswamy Temple",
+     "detail": "7 min walk · Earliest of the Chola temples, with three gopurams",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kasi Viswanathar Temple",
+     "detail": "7 min walk · Shiva temple by the Mahamaham tank, with a 72 ft tower",
+     "status": {
+      "text": "Open 6AM to 9PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Ramaswamy Temple",
+     "detail": "16 min walk · Rama temple with the Ramayana carved and painted across its first precinct",
+     "status": {
+      "text": "Rituals 6:30AM to 9PM",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Banapuriswarar Temple",
+    "title": "Shiva's arrow",
+    "body": "Locals say this is the spot where Shiva took aim at a pot of amrita with his bow and arrow. The temple is just an 8 min walk from here."
+   },
+   {
+    "where": "Chakrapani Temple",
+    "title": "Humbling the Sun",
+    "body": "Here Vishnu appeared as a discus to put down the pride of Surya, the Sun, who then became his devotee. Like Shiva, the Chakrapani deity has a third eye on his forehead."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around Masi Magam.",
+    "body": "The Masi Magam festival in February to March is the biggest event at temples like Kasi Viswanathar and Someswarar, so expect crowds."
+   },
+   {
+    "icon": "tag",
+    "title": "Don't skip the coffee.",
+    "body": "Kumbakonam filter coffee is one of the best in India, and you'd be missing the point of the trip without it."
+   }
+  ],
+  "story": [
+   {
+    "era": "Sangam period",
+    "title": "An ancient town",
+    "body": "Kumbakonam, also called Kudanthai, goes back to the Sangam period. Early Cholas, Pallavas and Mutharaiyars all ruled here.",
+    "illustration": "palace"
+   },
+   {
+    "era": "600s to 800s",
+    "title": "Chola seat",
+    "body": "It was the seat of the medieval Cholas in the 7th and 8th centuries. The oldest parts of the Nageswaraswamy Temple date from the 9th century.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1500s to 1600s",
+    "title": "Nayak temples",
+    "body": "Under the Thanjavur Nayaks, temples like Someswarar and Kasi Viswanathar were rebuilt in stone. The Ramaswamy Temple was begun under Achuthappa Nayak and finished under Raghunatha Nayak.",
+    "illustration": "palace"
+   },
+   {
+    "era": "British era",
+    "title": "Cambridge of South India",
+    "body": "The town became a big centre for Hindu scholarship and Western education. It became a municipality in 1866.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Temple city",
+    "body": "Kumbakonam became a municipal corporation on 24 August 2021. It still hosts the Mahamaham festival every 12 years.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Taj Samudra Hotel & Restaurant",
+    "detail": "Nageswaran South Street, near Nageswaraswamy Temple · Simple lunch meals",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Mangalambiga Coffee & Tiffin Center",
+    "detail": "Kumbeswarar North Street · Good vegetarian tiffin and filter coffee",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Hotel Shanmuga",
+    "detail": "The locals' favourite for quality parottas and tasty non-veg",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

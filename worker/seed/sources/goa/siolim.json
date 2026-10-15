@@ -1,0 +1,94 @@
+{
+ "query": "Siolim",
+ "found": "Siolim, Oxel, Bardez, North Goa, Goa, 403517, India",
+ "lat": 15.6270222,
+ "lon": 73.7656851,
+ "fetchedAt": "2026-10-12T19:39:42.594Z",
+ "locality": {
+  "id": "siolim-north-goa-goa",
+  "name": "Siolim",
+  "area": "Bardez, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Siolim": {
+   "url": "https://upload.wikimedia.org/wikipedia/en/3/32/St._Anthony%27s_Church%2C_Siolim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Siolim",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Anthony's_Church%2C_Siolim.jpg"
+  },
+  "Siolim Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Siolim_constitution.svg/1280px-Siolim_constitution.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Siolim Assembly constituency",
+   "credit": "Photo: Furfur, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siolim_constitution.svg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Siolim",
+   "text": "Siolim ([ʃiwoːlĩː]) is a village in Bardez taluka, and a census town on the central west coast of India, in the North Goa district of Goa. The 2001 population was 10,311, and 10,936 in 2011. Siolim is also the name of a constituency in the Goa assembly, which includes Assagao, Anjuna and Oxel, in addition to Siolim. A person from Siolim is known as a Siolcar or even as Shivalkar (Konkani: Xivolkar).\n\n\n== Location ==\nSiolim is situated about 7 km (4.3 mi) from Mapusa. It is located around the Chapora River. There is a bridge over River Chapora, in place of the prior ferry.\nTo Siolim's north lies the quiet village of Oxel; green hillocks hedge it towards Assagao in the south and the east. Camurlim to lies to its east, and in the west flows the Chapora river with Morjim and its pine-wooded beach on the northern bank in Pernem.\n\n\n== Subdivisions ==\nSiolim has several different types of subdivisions, which are independent of one another. They include:\n\n\n=== Vadde ===\nThere are nine vadde (or village wards, subdivisions -- vaddo is singular and vadde is plural). These are: Igrez-Vaddo, Gaunsa-Vaddo, Bamon-Vaddo, Marna, Dcruz-Vaddo, Costa Vaddo. Porta-Vaddo, Tarchi Bhatt, Guddem, Aframent, Vaddi and...",
+   "url": "https://en.wikipedia.org/wiki/Siolim"
+  },
+  {
+   "title": "SFX High School, Goa",
+   "text": "St. Francis Xavier's High School (SFX) is a school in Siolim, Bardez, Goa.",
+   "url": "https://en.wikipedia.org/wiki/SFX_High_School,_Goa"
+  },
+  {
+   "title": "Zagor (folk drama)",
+   "text": "Zagor (Konkani: जागर), (nocturnal vigil), mainly celebrated in Siolim, in Bardez taluka of Goa is a festival including dance, drama and music.",
+   "url": "https://en.wikipedia.org/wiki/Zagor_(folk_drama)"
+  },
+  {
+   "title": "Siolim Assembly constituency",
+   "text": "Siolim Assembly constituency is one of the 40 assembly constituencies of Goa, a southern state of India. Siolim is also one of the 20  constituencies that comes under North Goa Lok Sabha constituency. It is part of North Goa district.",
+   "url": "https://en.wikipedia.org/wiki/Siolim_Assembly_constituency"
+  },
+  {
+   "title": "Oxel",
+   "text": "Oxel is a village in Bardez sub-district, North Goa, India. The nearest airport is Mopa Airport and railway station is at Tivim. Oxel has been described as a \"picturesque village\" and is located in North Goa's Bardez sub-district or taluka. Oxel is a small, green and water-surrounded village. It is located approximately 25 km (16 mi) away from the State capital Panjim or Panaji. Its panchayat puts down its area to around 2.8 km2 (1.1 sq mi).",
+   "url": "https://en.wikipedia.org/wiki/Oxel"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bardez",
+  "text": "Bardez is a municipality of 237,000 people (2011) in North Goa.\n\n\n== See ==\nChapora Beach\n1 Houses of Goa Museum (Salvador-do-Mundo village of Bardez). Tue-Sun 10AM-7:30PM. An architectural museum by reputed architect Gerard da Cunha, that \"encapsulates for posterity the phenomenal outcome of the amalgamation of eastern and western architectural styles\" \n2 Xavier Centre of Historical Research, B B Borkar Road, Alto-Porvorim, ☏ +91-832-2417772. Mon-Fri 9:30AM-7PM (lunch break: 1-2PM), Sat 9:30AM-1PM. It has a gallery on Christian art named the Xavier Xandev Museum art. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bardez"
+ },
+ "sights": [
+  {
+   "name": "SFX High School, Goa",
+   "kind": "landmark",
+   "walkMinutes": 11,
+   "lat": 15.6218492033249,
+   "lon": 73.76910739835245
+  },
+  {
+   "name": "Siolim Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 15,
+   "lat": 15.62,
+   "lon": 73.77
+  },
+  {
+   "name": "Oxel",
+   "kind": "landmark",
+   "walkMinutes": 18,
+   "lat": 15.633,
+   "lon": 73.774
+  },
+  {
+   "name": "Zagor",
+   "kind": "landmark",
+   "walkMinutes": 24,
+   "lat": 15.614537,
+   "lon": 73.770447
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

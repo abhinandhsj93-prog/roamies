@@ -1,0 +1,275 @@
+{
+ "query": "Old Goa",
+ "found": "Old Goa, Panaji, Tiswadi, North Goa, Goa, 403108, India",
+ "lat": 15.5023329,
+ "lon": 73.9117432,
+ "fetchedAt": "2026-10-12T19:34:32.950Z",
+ "locality": {
+  "id": "old-goa-north-goa-goa",
+  "name": "Old Goa",
+  "area": "Panaji, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Old Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/AMH-6577-KB_Bird%27s_eye_view_of_the_city_of_Goa.jpg/1280px-AMH-6577-KB_Bird%27s_eye_view_of_the_city_of_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Old Goa",
+   "credit": "Photo: Jan Huyghen van Linschoten / Cornelis Claesz, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AMH-6577-KB_Bird%27s_eye_view_of_the_city_of_Goa.jpg"
+  },
+  "Basilica of Bom Jesus": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Front_Elevation_of_Basilica_of_Bom_Jesus.jpg/1280px-Front_Elevation_of_Basilica_of_Bom_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Basilica of Bom Jesus",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg"
+  },
+  "Se Cathedral": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Se_Cathedral_from_Rua_Direita.jpg/1280px-Se_Cathedral_from_Rua_Direita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Se Cathedral",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Se_Cathedral_from_Rua_Direita.jpg"
+  },
+  "Roman Catholic Archdiocese of Goa and Daman": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Se_cathedral_goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Roman Catholic Archdiocese of Goa and Daman",
+   "credit": "Photo: Danny Burke, CC BY-SA 2.5, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Se_cathedral_goa.jpg"
+  },
+  "Church and Convent of St. Francis of Assisi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Church_of_St._Francis_of_Assisi.jpg/1280px-Church_of_St._Francis_of_Assisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Church and Convent of St. Francis of Assisi",
+   "credit": "Photo: Aaron C, CC BY-SA 2.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_St._Francis_of_Assisi.jpg"
+  },
+  "Museum of Christian Art": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Poster-museumofchristianart.jpg/1280px-Poster-museumofchristianart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Museum of Christian Art",
+   "credit": "Photo: Museum of Christian Art, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poster-museumofchristianart.jpg"
+  },
+  "Archaeological Museum and Portrait Gallery": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Archaeological_Museum_and_Church_of_St._Francis_of_Assisi_in_Goa_DSC02487.JPG/1280px-Archaeological_Museum_and_Church_of_St._Francis_of_Assisi_in_Goa_DSC02487.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Archaeological Museum and Portrait Gallery",
+   "credit": "Photo: Ranjithsiji, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archaeological_Museum_and_Church_of_St._Francis_of_Assisi_in_Goa_DSC02487.JPG"
+  },
+  "Churches and convents of Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Old_Goa%2C_Se_Cathedral%2C_Panoramic_view.jpg/1280px-Old_Goa%2C_Se_Cathedral%2C_Panoramic_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Churches and convents of Goa",
+   "credit": "Photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Goa,_Se_Cathedral,_Panoramic_view.jpg"
+  },
+  "Karmali railway station": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Karmali_Station_-_Panoramic_view_of_station.jpg/1280px-Karmali_Station_-_Panoramic_view_of_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Karmali railway station",
+   "credit": "Photo: Superfast1111, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karmali_Station_-_Panoramic_view_of_station.jpg"
+  },
+  "St. Cajetan Church": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Close_up_of_Front_Elevation_of_St._Cajetan_Church%2C_Goa.jpg/1280px-Close_up_of_Front_Elevation_of_St._Cajetan_Church%2C_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Cajetan Church",
+   "credit": "Photo: iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Close_up_of_Front_Elevation_of_St._Cajetan_Church,_Goa.jpg"
+  },
+  "Church of St. Augustine, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Churches_and_Convents_of_Goa-109264.jpg/1280px-Churches_and_Convents_of_Goa-109264.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Church of St. Augustine, Goa",
+   "credit": "Photo: Francesco Bandarin, CC BY-SA 3.0 igo, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Churches_and_Convents_of_Goa-109264.jpg"
+  },
+  "Chapel of Our Lady of the Mount": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Church_of_Our_Lady_of_the_Mount.jpg/1280px-Church_of_Our_Lady_of_the_Mount.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chapel of Our Lady of the Mount",
+   "credit": "Photo: Agtambe1969, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Our_Lady_of_the_Mount.jpg"
+  },
+  "Arch of the Viceroys": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Viceroy%27s_Arch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Arch of the Viceroys",
+   "credit": "Photo: Yulan Libram D'Costa, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viceroy%27s_Arch.jpg"
+  },
+  "Pelourinho Novo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pelourinho_Novo_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Pelourinho Novo",
+   "credit": "Photo: Rejoy2003, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pelourinho_Novo_2026.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Old Goa",
+   "text": "Old Goa (Originally 'Goa' or 'The city of Goa') was a historic city situated on the southern bank of the River Mandovi, on the island of Tiswadi.The city was established by the Bijapur Sultanate in the 15th century AD. Following its conquest by Afonso de Albuquerque in 1510, the city rapidly grew in importance and became the capital of the Portuguese East Indies, becoming a flourishing metropolitan city of 2,00,000 by the 17th century.Goa tremendiously influenced its surrounding territory and eventually gave the modern state of Goa its name. The city was remarked by numerous travellers as being one of the wealthiest cities in Asia, filled with splendor and pomp. The city reached its zenith during 1580–1630, rivalling the cities of London and Lisbon of that time.The city was struck by numerous plagues and epidemics all through the 17th century, and it rapidly decayed following the decline of Portuguese supremecy in the east. It was already deserted by the 1760's.\n\n\n== Etymology ==\n\nThe name \"Old Goa\" was first used in the 1960s in the address of the Romi Konkani monthly magazine, dedicated to spread the devotion of the Sacred Heart of Jesus, Dor Mhoineachi Rotti, which was shifted to the...",
+   "url": "https://en.wikipedia.org/wiki/Old_Goa"
+  },
+  {
+   "title": "Basilica of Bom Jesus",
+   "text": "The Basilica of Bom Jesus (Portuguese: Basílica do Bom Jesus; Goan Konkani: Borea Jezuchi Bajilika) is a Catholic basilica in Goa, in the Konkan region of India. The church is a pilgrimage centre and recognised by UNESCO as a World Heritage Site. The basilica is located in Old Goa, the former capital of Portuguese India, and holds the body of St Francis Xavier.\nBom Jesus (meaning, \"Good Jesus\" in Portuguese) is the name used for the Ecce Homo in Portuguese speaking countries. It is one of the Seven Wonders of Portuguese Origin in the World. It was made a basilica in the pontifical decree “Priscam Goae” on 20 March 1946.",
+   "url": "https://en.wikipedia.org/wiki/Basilica_of_Bom_Jesus"
+  },
+  {
+   "title": "Se Cathedral",
+   "text": "The Sé Catedral de Santa Catarina, known as Se Cathedral, is the cathedral of the Latin Church Archdiocese of Goa and Daman and the seat of the Patriarch of the East Indies. It is part of the World Heritage Site, Churches and convents of Goa located in Old Goa, India.",
+   "url": "https://en.wikipedia.org/wiki/Se_Cathedral"
+  },
+  {
+   "title": "Roman Catholic Archdiocese of Goa and Daman",
+   "text": "The Roman Catholic Metropolitan Archdiocese of Goa and Daman (Latin: Archidioecesis Goanae et Damanensis, Goan Konkani: Gõy ani Damanv Mha-Dhormprant, Portuguese: Arquidiocese de Goa e Damão, Gujarati: ગોવા અને દમણનું આર્કડાયોસીસ),  encompasses the Goa state and the Damaon territory in the Konkan region, by the west coast of India. The ecclesiastical province of Goa and Damaon includes a suffragan diocese, the Sindhudurg Diocese that comprises the Malvani areas of (central Konkan). The Archbishop of Goa also holds the titles of Primate of the East and Patriarch of the East Indies. The beginnings lie in the Padroado system of Portuguese Goa and Damaon, in the early 1900s the primatial see was transferred back to the Sacred Congregation for the Evangelisation of Peoples, as the Padroado system of the Indo-Portuguese era was being dismantled.\nIt is the oldest bishopric of the Latin Rite of worship in terms of activity in the East Indies, with its origins linked to the Portuguese discoveries, and their subsequent arrival at the St Mary's islands and Calicut, on the coast of the Malabar region.\nThe current Metropolitan Archbishop and Patriarch of the East Indies is Filipe Neri Ferrão.",
+   "url": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Goa_and_Daman"
+  },
+  {
+   "title": "Church and Convent of St. Francis of Assisi",
+   "text": "The Church of St. Francis of Assisi was built in 1661 by the Portuguese in the Portuguese Viceroyalty of India. The Church of St. Francis of Assisi, together with a convent, was established by eight Portuguese Franciscan friars who landed in Goa in 1517. It stands on the site of the principal mosque of the Adil Shahi city, later demolished. It is part of the UNESCO World Heritage Site, Churches and convents of Goa.",
+   "url": "https://en.wikipedia.org/wiki/Church_and_Convent_of_St._Francis_of_Assisi"
+  },
+  {
+   "title": "Museum of Christian Art",
+   "text": "The Museum of Christian Art is an Indian museum of Christian art, located in the Convent of Santa Monica in the former colonial capital of Old Goa, Goa.",
+   "url": "https://en.wikipedia.org/wiki/Museum_of_Christian_Art"
+  },
+  {
+   "title": "Archaeological Museum and Portrait Gallery",
+   "text": "Archaeological Museum and Portrait Gallery was set up in 1964, NS reorganised in 1981–82. It is run by the Government of India's Archaeological Survey of India and is situated in the former Portuguese colonial capital of Old Goa, a historic one-time city which now attracts a large number of tourists.",
+   "url": "https://en.wikipedia.org/wiki/Archaeological_Museum_and_Portrait_Gallery"
+  },
+  {
+   "title": "Churches and convents of Goa",
+   "text": "Churches and Convents of Goa is the name given by UNESCO to a set of religious monuments located in Goa Velha (or Old Goa), in the state of Goa, India, which were declared a World Heritage Site in 1986.\nGoa was the capital of Portuguese India and Asia and an evangelization center from the 16th century. The justifications for the inclusion of religious monuments in Goa in the World Heritage List are: 1) the influence of the monuments in the dissemination of Western art forms—the Manueline styles, Mannerist and Baroque—throughout Asia where Catholic missions were established; 2) the value of the set of monuments of Goa as an exceptional example that illustrates the work of evangelization and 3) the specific value of presence in the Basilica of Bom Jesus of the tomb of Francisco Xavier, which illustrates a major world event: the influence of the  Catholic religion in Asia in the modern era.",
+   "url": "https://en.wikipedia.org/wiki/Churches_and_convents_of_Goa"
+  },
+  {
+   "title": "Karmali railway station",
+   "text": "Karmali railway station (station code: KRMI) is the third station (after Pernem and Tivim) within Goa, when entering from the north, under the jurisdiction of Konkan Railway. Karmali railway station is closest railway station to the State capital Panjim or Panaji, which is the administrative capital of Goa, and is located in the central part of Goa also can enjoy Scenic view of Carmbolim lake.",
+   "url": "https://en.wikipedia.org/wiki/Karmali_railway_station"
+  },
+  {
+   "title": "St. Cajetan Church",
+   "text": "St. Cajetan Church, also known as the Church of Divine Providence, is a church of the Roman Catholic Archdiocese of Goa and Daman located in Old Goa. The church was completed in 1661 and is part of the World Heritage Site, Churches and convents of Goa.",
+   "url": "https://en.wikipedia.org/wiki/St._Cajetan_Church"
+  },
+  {
+   "title": "Church of St. Augustine, Goa",
+   "text": "Church of St. Augustine is a ruined church complex located in Old Goa. The church was completed in 1602 and is part of the World Heritage Site, Churches and convents of Goa.",
+   "url": "https://en.wikipedia.org/wiki/Church_of_St._Augustine,_Goa"
+  },
+  {
+   "title": "Chapel of Our Lady of the Mount",
+   "text": "The Chapel of Our Lady of the Mount is a Roman Catholic church dedicated to the Virgin Mary in Old Goa, India. It is one of the oldest churches in the city and was built between 1510 and 1519. The construction of the church was ordered by Afonso de Albuquerque, the governor of Portuguese India, immediately after the Portuguese conquest of Goa in 1510. The chapel was completed in 1519. After the fall of the city, the chapel fell into ruins and was only restored in the early 21st century by Fundação Oriente, a Portuguese organisation in Goa.\nThe chapel is located on a hill overlooking the Mandovi river, and is not easily accessible. It was built using laterite stone and the architectural style is Baroque with Mannerist influences. Every year in November, the chapel courtyard plays host to the popular Monte Music Festival.\nUntil 2001, the chapel was in ruins. A restoration project was then planned and funded by the Fundação Oriente, an organisation that maintains cultural links of Goa and Damaon with Portugal, in association with the state government.",
+   "url": "https://en.wikipedia.org/wiki/Chapel_of_Our_Lady_of_the_Mount"
+  },
+  {
+   "title": "Arch of the Viceroys",
+   "text": "The Arch of the Viceroys (Portuguese: Arco dos Vice-Reis), also known as Viceroy's Arch, was erected in 1599 in Goa, India, by Viceroy Francisco da Gama. It was erected to commemorate the discovery of the sea route to India by Vasco da Gama.  It was constructed with black laterite stone and stands at 12 meters tall with a statue of Vasco da Gama above the key stone. \nThe arch was built over one of the five principal gates to the ancient fortified City of Goa. On these fortifications was situated the Palace of the fortress or the Vice-Reis palace, a lofty edifice that lied directly above this arch. It was the seat of the government and the viceregal residence until 1695. The fortifications along with the palace fell into ruins following the abandonment of the city, and were demolished during the late 1820’s. Today nothing hints at the presence of that magnificent edifice, as is the case of most civil buildings in the city.\n\nThe arch collapsed in 1948 and was rebuilt in 1954. It is now guarded by the Archaeological Survey of India (ASI) as a national treasure and is located alongside Old Goa’s World Heritage Site with churches as part of Monument of National Importance in Goa.",
+   "url": "https://en.wikipedia.org/wiki/Arch_of_the_Viceroys"
+  },
+  {
+   "title": "Pelourinho Novo",
+   "text": "The Pelourinho Novo (lit. 'New Pillory'), also known as Hath Katro Khamb (lit. 'Hand-Cutting Pillar'), is a sixteenth-century black basalt pillory in Old Goa, located in the Indian coastal state of Goa. It acted as a symbolic civic marker and a focal point for official proceedings, where authorities handled legal matters, issued formal announcements, and enforced penalties, including corporal punishment such as the whipping of offenders.",
+   "url": "https://en.wikipedia.org/wiki/Pelourinho_Novo"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Old Goa",
+  "text": "Old Goa is 9 km east of Panaji, in Goa, a state of India.\n\n\n== See ==\n\n1 Archaeological Museum and Portrait Gallery.  \n2 Basilica of Bom Jesus. Home to the grave of St. Francis Xavier. \n3 Church of St. Cajetan.  \n4 Chapel of St. Catherine.  \n5 Church and Convent of St. Francis of Assisi.  \n6 Church of Lady of Rosary.  \n7 Church of St. Augustine.  \n8 Museum of Christian Art.  \n9 Pilar Seminary Museum.  \n10 Sé Cathedral Church.  \n Sound and Light Gallery Museum. You can get a Christian religious tour. Artistically done. \n\n\n== Do ==\nSpend time walking around the monuments and see how Old Goa fits into global history and the meeting points of cultures of another century.\n\n\n== Eat ==\nOptions for food and drink are limited in Old Goa. There are a few restaurants in the area, and along the highway that passes through the area.\n\n\n== Drink ==\nSee above comment.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Old_Goa"
+ },
+ "sights": [
+  {
+   "name": "Churches and convents of Goa",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 15.502222222222223,
+   "lon": 73.91166666666668
+  },
+  {
+   "name": "Roman Catholic Archdiocese of Goa and Daman",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 15.502222222222223,
+   "lon": 73.91166666666668
+  },
+  {
+   "name": "Archaeological Museum and Portrait Gallery",
+   "kind": "landmark",
+   "walkMinutes": 1,
+   "lat": 15.5024769,
+   "lon": 73.91151
+  },
+  {
+   "name": "Church and Convent of St. Francis of Assisi",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 15.503222222222222,
+   "lon": 73.91127777777778
+  },
+  {
+   "name": "Basilica of Bom Jesus",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 15.500872222222222,
+   "lon": 73.91151111111111
+  },
+  {
+   "name": "Se Cathedral",
+   "kind": "landmark",
+   "walkMinutes": 3,
+   "lat": 15.503772222222223,
+   "lon": 73.91233055555556
+  },
+  {
+   "name": "Pelourinho Novo",
+   "kind": "landmark",
+   "walkMinutes": 6,
+   "lat": 15.499194444444443,
+   "lon": 73.9135
+  },
+  {
+   "name": "Arch of the Viceroys",
+   "kind": "landmark",
+   "walkMinutes": 7,
+   "lat": 15.505811,
+   "lon": 73.913681
+  },
+  {
+   "name": "Museum of Christian Art",
+   "kind": "landmark",
+   "walkMinutes": 8,
+   "lat": 15.501346,
+   "lon": 73.907297
+  },
+  {
+   "name": "St. Cajetan Church",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 15.505694444444444,
+   "lon": 73.91533333333334
+  },
+  {
+   "name": "Church of St. Augustine, Goa",
+   "kind": "landmark",
+   "walkMinutes": 10,
+   "lat": 15.500416666666666,
+   "lon": 73.90661111111112
+  },
+  {
+   "name": "Chapel of Our Lady of the Mount",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 15.5045,
+   "lon": 73.9235
+  },
+  {
+   "name": "Karmali railway station",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 15.4907,
+   "lon": 73.9245
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

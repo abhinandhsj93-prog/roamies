@@ -1,0 +1,141 @@
+{
+ "query": "Alappuzha Beach, Alappuzha",
+ "region": "kerala",
+ "name": "Alappuzha Beach",
+ "draft": {
+  "briefing": "Hey, you're at Alappuzha Beach! The old pier running out into the sea here is over 150 years old, and back when it was used for trade it carried three railway lines. The town behind you is laced with canals, which is why people call it the Venice of the East.",
+  "hungryLine": "There's cheap South Indian food and coffee right on the beach, and good bakes a short ride into town.",
+  "moodReplies": {
+   "show-me-around": "Walk down to the beach and the old pier, then over to the 1862 lighthouse. Both are under 20 minutes on foot from here.",
+   "somewhere-to-chill": "Stroll the beach promenade with an ice cream or some peanuts from the stalls and watch the locals play frisbee and volleyball.",
+   "surprise-me": "Pliny the Elder mentioned this place way back in the 1st century AD, calling it Baraces."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Alappuzha Beach",
+     "detail": "16 min walk · Big, flat beach with the old trading pier",
+     "status": {
+      "text": "Don't swim, currents are strong",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Alappuzha Lighthouse",
+     "detail": "17 min walk · Built in 1862, the first on Kerala's Arabian Sea coast",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Maqam Masjid",
+     "detail": "16 min walk · Mid-1800s mosque by the Vadakanal canal",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Ambalappuzha",
+    "title": "The payasam nobody can copy",
+    "body": "The Sreekrishna Swamy Temple's paal-payasam recipe is a well guarded secret. People believe the same cooks can't make it taste the same anywhere else, because the Lord blessed his favourite kitchen."
+   },
+   {
+    "where": "Champakulam",
+    "title": "A church from St. Thomas",
+    "body": "St. Mary's Church at Champakulam is believed to be one of the seven churches St. Thomas set up. Alleppey still has a lot of Christians today."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Don't swim here.",
+    "body": "The water is deep and the currents are strong, even more so during and after the monsoon."
+   },
+   {
+    "icon": "tag",
+    "title": "Book houseboats with operators, not touts.",
+    "body": "Book online if you can, and don't leave it to the last minute in high season."
+   }
+  ],
+  "story": [
+   {
+    "era": "1st century AD",
+    "title": "Baraces",
+    "body": "Alappuzha goes back to the Sangam era. Pliny the Elder wrote about it as Baraces nearly 2,000 years ago.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1500s to 1600s",
+    "title": "Spice town",
+    "body": "The town grew into an important hub for trading spices. The Dutch and the Portuguese both came here to do business.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Raja Kesavadas",
+    "title": "Port and canals",
+    "body": "Under Raja Kesavadas, a port was built and canals were dug through the city for transport. The town grew fast. By the late 1700s it was under British rule and its trade began to fade.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1862",
+    "title": "A light on the coast",
+    "body": "The Alappuzha Lighthouse went up in 1862, the first of its kind on Kerala's Arabian Sea coast. It still draws visitors today.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1952",
+    "title": "Snake boats",
+    "body": "Jawaharlal Nehru opened the snake boat race in 1952, and it's named after him. It's held on the second Saturday of August, with around a hundred people in each boat.",
+    "illustration": "flood"
+   }
+  ],
+  "food": [
+   {
+    "name": "Indian Coffee House",
+    "detail": "Right on the beach · Cheap South Indian food, ice cream and their signature coffee",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Dreamers",
+    "detail": "On the beach front · Well-priced Indian food, grab a table on the bamboo terrace",
+    "status": {
+     "text": "Usually noon to 10PM",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Himalaya Bakery",
+    "detail": "Mullackal Road · Puffs, samosas and a lovely banana walnut cake",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap",
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

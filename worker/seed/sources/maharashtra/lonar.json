@@ -1,0 +1,76 @@
+{
+ "query": "Lonar",
+ "found": "Lonar, Buldhana, Maharashtra, India",
+ "lat": 19.9830917,
+ "lon": 76.4911448,
+ "fetchedAt": "2026-10-12T19:04:05.477Z",
+ "locality": {
+  "id": "saraswati-buldhana-district-maharashtra",
+  "name": "Saraswati",
+  "area": "Lonar, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Saraswati": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Saraswati.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Saraswati",
+   "credit": "Photo: Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saraswati.jpg"
+  },
+  "Lonar Lake": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lonar_Crater%2C_Panorama.jpg/1280px-Lonar_Crater%2C_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Lonar Lake",
+   "credit": "Photo: Aditya Laghate, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lonar_Crater,_Panorama.jpg"
+  },
+  "Lonar Wildlife Sanctuary": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Map_of_Lonar_Sanctuary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Lonar Wildlife Sanctuary",
+   "credit": "Photo: Ccmarathe, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Lonar_Sanctuary.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Saraswati",
+   "text": "Saraswati (Sanskrit: सरस्वती, IAST: Sarasvatī), also spelled as Sarasvati, is one of the principal goddesses in Hinduism, revered as the goddess of knowledge, education, learning, speech, arts, poetry, music, creativity, sciences, purification, language and culture. Together with the goddesses Lakshmi and Parvati, she forms the trinity of chief goddesses, known as the Tridevi. Saraswati is a pan-Indian deity, venerated not only in Hinduism but also in Jainism and Buddhism.\nShe is one of the prominent goddesses in the Vedic tradition (1500 to 500 BCE) who retains her significance in later Hinduism. In the Vedas, her characteristics and attributes are closely connected with the Saraswati River, making her one of the earliest examples of a river goddess in Indian tradition. As a deity associated with a river, Saraswati is revered for her dual abilities to purify and to nurture fertility. In later Vedic literature, particularly the Brahmanas, Saraswati is increasingly identified with the Vedic goddess of speech, Vac, and eventually, the two merge into the singular goddess known in later tradition. Over time, her connection to the river diminishes, while her association with speech, poetry...",
+   "url": "https://en.wikipedia.org/wiki/Saraswati"
+  },
+  {
+   "title": "Lonar Lake",
+   "text": "Lonar Lake is a saline, soda lake located near Lonar in Buldhana district of the Indian state of Maharashtra. It occupies an impact crater formed by a hypervelocity meteorite impact. It is the only crater lake of meteoritic origin in the country, and has been designated as a National Geological Monument and a Ramsar site.\nThe crater measures 1.8 km (1.1 mi) in diameter and is 150 m (490 ft) deep. While earlier analyses dated the structure to 52 ± 6 ka, subsequent argon-argon dating (40Ar/39Ar) yielded a much older age of 570 ± 47 ka. However, the 40Ar/39Ar age has been disputed, as inherited argon in the samples may have resulted in an overestimation of the crater's age. The crater lies on volcanic basalt of the Deccan Plateau, dating to about 66 Ma.",
+   "url": "https://en.wikipedia.org/wiki/Lonar_Lake"
+  },
+  {
+   "title": "Lonar Wildlife Sanctuary",
+   "text": "The Lona Wildlife Sanctuary is situated around a lagoon called Lonar Lake, which was created by a meteorite impact about 50,000 years ago. The diameter of the Lonar lake is 1.83 km. This sanctuary located in Lonar taluka of Buldhana district of Maharashtra. The sanctuary is spread over an area of 365.16 Hectares . It includes the 77.69 Ha Lonar lake. The forest around the lake is mainly Southern Tropical dry Deciduous Forest. In 2020 the Lonar lake was declared as Ramsar site. The foul smell of hydrogen sulfide gas is common near the lake water.",
+   "url": "https://en.wikipedia.org/wiki/Lonar_Wildlife_Sanctuary"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Lonar",
+  "text": "Lonar is a small town in Buldhana district of Maharashtra close to Aurangabad. Its claim to fame is a lake in a crater that formed when a meteorite hit some 50,000 years ago.\n\n\n== See ==\n1 Lonar Lake. The prehistoric site of a meteor that crashed on earth some 50,000 years ago and formed a large crater (a few hundred meters in diameter) in the ground. Though there are other impact craters in the world but this one is the only in basalt rocks. The pH value of water in the lake which has formed in the crater is 10.7 which points to its alkaline nature. There are no living organisms in the lake and even trees whose roots get into the lake water die. This site is a must-visit for the scientifically-inclined and for others just for curiosity's sake. The lake is beautiful and its first look will surely take your breath away. It is best enjoyed before sunset. One could go down up to water level and experience the water which is harmful. There is also a temple of Kamalja Devi at the edge of lake. (updated Feb 2017)\n Daityasudan Surya temple. A small ruin of Khajuraho like temple. (updated Feb 2017)\n Gaimukh. A perennial source of fresh water with some masonry work done by Peshwas to channelize the water. (updated Feb 2017)\n Motha Maruti. A Hanuman temple built around a magnetic rock supposedly formed from meteor effect. (updated Feb 2017)\n\n\n== Do ==\nHang out by the lake and explore the flora and fauna of this beautiful place.\n\n\n== Eat ==\nThere is a restaurant called gulmohar 10 minutes walking distance from the MTDC resort where you can get hygienic and delicious food for all the 3 times.\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Lonar"
+ },
+ "sights": [
+  {
+   "name": "Lonar Wildlife Sanctuary",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 19.974999999999998,
+   "lon": 76.5075
+  },
+  {
+   "name": "Lonar Lake",
+   "kind": "landmark",
+   "walkMinutes": 31,
+   "lat": 19.974999999999998,
+   "lon": 76.5075
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

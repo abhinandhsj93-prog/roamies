@@ -1,0 +1,118 @@
+{
+ "query": "Dona Paula",
+ "found": "Dona Paula, Panaji, Tiswadi, North Goa, Goa, 403004, India",
+ "lat": 15.4581997,
+ "lon": 73.8038671,
+ "fetchedAt": "2026-10-12T19:34:12.997Z",
+ "locality": {
+  "id": "dona-paula-north-goa-goa",
+  "name": "Dona Paula",
+  "area": "Panaji, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Dona Paula": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Fishing_Boats_anchored_at_Dona_Paula_%2C_Goa.jpg/1280px-Fishing_Boats_anchored_at_Dona_Paula_%2C_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dona Paula",
+   "credit": "Photo: SahilSahadevan, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fishing_Boats_anchored_at_Dona_Paula_,_Goa.jpg"
+  },
+  "Lok Bhavan, Panaji": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cabo_Raj_Bhavan_in_Goa.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Lok Bhavan, Panaji",
+   "credit": "Photo: Sahil200034, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabo_Raj_Bhavan_in_Goa.png"
+  },
+  "National Institute of Oceanography, India": {
+   "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Nio_arabian_sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "National Institute of Oceanography, India",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nio_arabian_sea.jpg"
+  },
+  "National Institute of Water Sports": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Water_sports_composite.jpg/1280px-Water_sports_composite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "National Institute of Water Sports",
+   "credit": "Photo: Synchronized_swimming_-_Russian_team.jpg: Jesus de Blas Reverse_5391.JPG: Me KingdomGames07_02.jpg: by Knurftendans Whitewater_kayaking_Isere.jpg: by Merops 22:43, 27 December 2005 (UTC)) (1991 Jörg Helbig) Dragon-boat-race_bhv_hg.jpg: Hannes Grobe, Hgrobe 19:31, 11 June 2006 (UTC) Czworka_podwojna-Pekin_2008.jpg: Rumcas 2010_mavericks_competition.jpg: Shalom Jacobovitz J-24_yacht_racing,_Sydney_Harbour.jpg: The original uploader was Rling at English Wikipedia. (Original text: Richard Ling) WaterPolo.JPG: Massimo Finizio derivative work: Sillyfolkboy (talk), CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_sports_composite.jpg"
+  },
+  "International Centre, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Publishing_Next_2011._Organised_at_the_International_Centre_Goa._07.jpg/1280px-Publishing_Next_2011._Organised_at_the_International_Centre_Goa._07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "International Centre, Goa",
+   "credit": "Photo: Fredericknoronha, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Publishing_Next_2011._Organised_at_the_International_Centre_Goa._07.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Dona Paula",
+   "text": "Dona Paula (Named after Dona Paula de Souto Maior) is a neighborhood and tourist destination in the city of Panaji, Goa, India. It is today home to the National Institute of Oceanography and the International Centre Goa.\n\n\n== History ==\nThe place is named after Dona Paula Amaral Antónia de Souto Maior, a historical figure in Portuguese Goa. She was related to the Portuguese Viceroy of Jaffnapatnam in Sri Lanka. She and her family arrived in Goa in 1744 and she married a hidalgo from Spain in 1756. Her father was Dom António Caetano de Menezes Souto Maior. They were an extremely affluent family, and the entire property from the present-day Cabo Raj Nivas all the way to Caranzalem belonged to the Souto Maior family. She died on 21 December 1782.\nDona Paula was a woman of charity, and is known to have helped the villagers and worked a lot for their betterment. Hence after her death, the villagers decided to rename the neighborhood as Dona Paula. Initially, the neighborhood was called Oddavell.\nThe Palacio do Cabo (present day Goa Raj Bhavan) is situated at a scenic spot in Dona Paula. The area is also the location of a historic British war-graves cemetery.\n\n\n== Tourism ==\nDona Paula is located...",
+   "url": "https://en.wikipedia.org/wiki/Dona_Paula"
+  },
+  {
+   "title": "Lok Bhavan, Panaji",
+   "text": "Lok Bhavan, formerly Raj Bhavan (Government House) is a residential palace and fort situated in Dona Paula, Goa, which serves as the official residence of the governor of Goa. The sprawling 88 acres estate is located on a cape in the Goan capital, Panaji. Known by the name \"Palácio do Cabo\" (Portuguese for \"Palace of the Cape\") until it gained official status as the residence of the governor of Goa, this palace is said to be built between the 16th and 17th centuries in the erstwhile Portuguese India. The fort is strategically positioned facing the Arabian sea opposite the well-preserved 17th century Forte Aguada.",
+   "url": "https://en.wikipedia.org/wiki/Lok_Bhavan,_Panaji"
+  },
+  {
+   "title": "National Institute of Oceanography, India",
+   "text": "The National Institute of Oceanography, founded on 1 January 1966 as one of 38 constituent laboratories of the CSIR, is a self-governing research organisation in India that conducts scientific research and studies on the unique oceanographic features of the northern Indian Ocean. It is headquartered in Goa and has regional offices in Kochi, Mumbai, and Visakhapatnam.\n\n",
+   "url": "https://en.wikipedia.org/wiki/National_Institute_of_Oceanography,_India"
+  },
+  {
+   "title": "Caranzalem",
+   "text": "Caranzalem (pronounced Caranzale) is a neighborhood located on the west side of the city of Panjim, the capital of the state of Goa. It is situated on the island of Tiswadi and is known for its beach with same name.\nThe neighborhood has a beach of the same name, the Caranzalem Beach, which is located at a distance of about 5 km. from the center of Panaji by Miramar and Caranzalem. The beach is 3.5 km long which has stretches of white sand and clear water. The beach is considered safe for swimming.\nThere are water sport facilities available and many hotels, restaurants and shacks in the area which serve Goan food and drinks.\nMiramar-Dona Paula road runs parallel to the beach. The principle wards are Aivao, Bazar Vaddo,  Borchem Bhat, Cavialvaddo, Dando, Dona Paula, Firgozvaddo and Quevnem.\nThe local church is named the Our Lady of the Rosary Church. It has an old chapel  which is called the Sanctuary for Christian worship. The property of the church  belongs to the \"Fabrica\" that looks after the affairs of the Church. There are several Christian groups recognised by the Church like the Society of St. Vincent De Paul (Rosary Conference), Couples For Christ and Living Waters. Our Lady...",
+   "url": "https://en.wikipedia.org/wiki/Caranzalem"
+  },
+  {
+   "title": "National Institute of Water Sports",
+   "text": "The National Institute of Water Sports (NIWS) is designated centre under Indian Institute of Tourism and Travel Management (IITTM) which run by  Tourism Ministry, India. The Institute, only one of its nature in South Asia, acts as the apex body for training, education, consultancy and research on areas related to recreational and leisure Watersports. The certification and licensing from this Institute are required for carrying out operations in water-bodies such as handling different watercraft for the tourists, swimming pools, water theme-parks etc. Some major disciplines for training and education are life saving, powerboat handling, sailing, windsurfing, water skiing, scuba diving, river rafting and kayaking. From Academic Year 2016, MBA- Tourism (Tourism & Travel) has been introduced & PhD in Tourism & Travel commenced in July 2018 at its state-of-the art campus.",
+   "url": "https://en.wikipedia.org/wiki/National_Institute_of_Water_Sports"
+  },
+  {
+   "title": "International Centre, Goa",
+   "text": "International Centre, Goa is a prominent conference centre,  seminars venue, and cultural space in the western Indian state of Goa. It is located at Dona Paula, outside Panjim (Panjim). Its setting up has been supported, among others, by the Ford Foundation.\nLaunched over a decade-and-half ago, it is seen as a prominent place for bringing \"thought leaders\" together for research and sharing of knowledge and ideas at a local, national and international level. It is known for its frequent lectures, talks and workshops.\nInternational Centre, Goa is a not-for-profit autonomous society founded in June 1987, though supported in part by the government. It was  inaugurated on 18 June 1996, and is located in Goa, India. It says its vision is to \"bring together thinkers, scholars, academics, achievers, sociologists, industrialists and creative people from India and around the world.\" It is patterned loosely on the India International Centre at New Delhi, a non-government institution that is considered one of India's premier cultural institutions and \"where statesmen, diplomats, policymakers, intellectuals, scientists, jurists, writers, artists and members of civil society meet\".",
+   "url": "https://en.wikipedia.org/wiki/International_Centre,_Goa"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Dona Paula",
+  "text": "Dona Paula is a city in India, where two of Goa's famous rivers meet the Arabian Sea. Named after Dona Paula de Menezes, it's also called the Lovers' Paradise. Dona Paula Beach is 7 km from Panaji.\n\n\n== See ==\nA picturesque spot, commanding a fine view of the Zuari river and Mormugao Harbour. The main attractions near Dona Paula Beach are Reis Magos Church and the Salim Ali Bird Sanctuary. Approximately 10 km from the beach is one of the oldest churches built in Goa, the Reis Magos Church. \n\n Reis Magos Church. It is dedicated to the three Magi (the wise men of the East)—Gaspar, Melchior, and Balthazar who, according to a legend, were guided by a star to Bethlehem to greet the newborn Jesus. This church was once the residence of all dignitaries and a mission center of the Franciscan order. (updated Jul 2015)\n National Oceanography Institute. Set up in the 1960s, the National Oceanography Institute delves not only upon marine biology, but incorporates almost all the major branches of coastal and marine oceanography. The major attraction of the institute is its Marine Biology Museum and Taxonomy Reference Center. (updated Jul 2015)\n Cabo Raj Niwas. The Cabo Raj Niwas (the Governor’s House) is half a kilometer away from the National Oceanography Institute. It houses the tomb of Dona Paula de Menzes in the Cabo Chapel. The Raj Bhawan offers an excellent view of the nearby coastline and the Aguada Fort. (updated Jul 2015)\n Salim Ali Bird Sanctuary. The Salim Ali Bird Sanctuary is situated on the western tip of the island of Choro, along the Mandovi River, about 9 km from Dona Paula Beach. Spread over 2 km², this sanctuary is a mangrove forest. Local and migratory birds are found here all through the year. However, permission of the Chief Wildlife Warden is required for visitors. (updated Jul 2015)\n\nTwo other beaches are also within the proximity of the Dona Paula Beach. These are the Miramar beach, which lies 4 km north of Dona Paula, and the Vainguinim Beach, which is s\n== Do ==\nDona Paula is an idyllic spot to relax and sunbathe. The most important attraction is the water sport facilities available here. The Dona Paula Sports Club offers water-scooter, cycle, and motorboat rides. Other water sports include windsurfing, parasailing, water-skiing, toboggan ski-biscuit, skibob, sports fishing, snorkeling, harpoon fishing, kayaking, and yachting. Water scooter facilities are also available here. \n\nThe festivals of Janmashtami and the Feast of St. Lawrence are particular to the Dona Paula Beach. In addition, the beach also has a colorful water sports festival in November. The highlights of this festival are the water scooter and cycle races and surfing competitions.\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Dona_Paula"
+ },
+ "sights": [
+  {
+   "name": "Dona Paula Chapel",
+   "kind": "place_of_worship",
+   "walkMinutes": 6,
+   "lat": 15.455168,
+   "lon": 73.80335
+  },
+  {
+   "name": "Our Lady Of Rosary Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 9,
+   "lat": 15.4628156,
+   "lon": 73.8060423
+  },
+  {
+   "name": "Caranzalem Bay View Point",
+   "kind": "viewpoint",
+   "openingHours": "24/7",
+   "walkMinutes": 11,
+   "lat": 15.4596344,
+   "lon": 73.7975788
+  },
+  {
+   "name": "Dona Paula Pier",
+   "kind": "attraction",
+   "walkMinutes": 13,
+   "lat": 15.4511643,
+   "lon": 73.8035179
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

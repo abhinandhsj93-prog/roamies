@@ -1,0 +1,98 @@
+{
+ "query": "Malabar Hill, Mumbai",
+ "region": "maharashtra",
+ "name": "Malabar Hill",
+ "draft": {
+  "briefing": "Hey, you're at Malabar Hill! It's one of Mumbai's most affluent neighbourhoods, and it all began when Governor Mountstuart Elphinstone built the first bungalow up here between 1819 and 1827.",
+  "hungryLine": "I don't have a named place to eat in my notes for Malabar Hill, so wander down towards Kemps Corner and see what tempts you.",
+  "moodReplies": {
+   "show-me-around": "The Hanging Gardens are just a 4 minute walk, Kamala Nehru Park is 6 minutes, and the old Babulnath Temple is about 9 minutes away.",
+   "somewhere-to-chill": "Find a bench in the Hanging Gardens for the sunset over the Arabian Sea, or look down at the Queen's Necklace from Kamala Nehru Park.",
+   "surprise-me": "Seen from the air, the walkway inside the Hanging Gardens spells out PMG, for Pherozeshah Mehta Gardens, in cursive."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Hanging Gardens of Mumbai",
+     "detail": "4 min walk · Terraced gardens with hedges clipped into animal shapes",
+     "status": {
+      "text": "Go for sunset",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Kamala Nehru Park",
+     "detail": "6 min walk · The Old Woman's Shoe and views of Marine Drive below",
+     "status": {
+      "text": "Great with kids",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mani Bhavan",
+     "detail": "14 min walk · Gandhi's Mumbai base from 1917 to 1934, now a museum",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Hanging Gardens",
+    "title": "A lid on the reservoir",
+    "body": "The gardens were laid out over Bombay's main reservoir. Some say it was done to shield the water from the nearby Towers of Silence."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Time it for sunset.",
+    "body": "The Hanging Gardens face west, so evening gives you the best views over the Arabian Sea."
+   },
+   {
+    "icon": "tag",
+    "title": "See Jinnah House from outside.",
+    "body": "South Court, Jinnah's old home, is closed to the public because of property disputes."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago to 1715",
+    "title": "Walkeshwar Temple",
+    "body": "The Silhara kings founded the Walkeshwar Temple here. The Portuguese destroyed it, and Rama Kamath rebuilt it in 1715.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1819 to 1827",
+    "title": "The first bungalow",
+    "body": "Governor Mountstuart Elphinstone built the first bungalow on Malabar Hill. Others followed, and it soon became the wealthy area it still is.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1881",
+    "title": "Gardens and a church",
+    "body": "The Hanging Gardens were laid out over the city's main reservoir. All Saints' Church was built the same year so locals didn't have to travel 8 km to Fort.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1917 to 1946",
+    "title": "Freedom struggle next door",
+    "body": "Gandhi worked from Mani Bhavan, and gave the Quit India speech at nearby Gowalia Tank on 8 August 1942. Jinnah lived at South Court until he left for Karachi in 1946.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Home of the powerful",
+    "body": "The Chief Minister's Varsha Bungalow and the Sahyadri guest house are here. Business tycoons and film stars live on the hill too.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

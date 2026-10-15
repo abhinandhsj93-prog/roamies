@@ -1,0 +1,103 @@
+{
+ "query": "Malappuram",
+ "region": "kerala",
+ "name": "Malappuram",
+ "draft": {
+  "briefing": "Hey, you're in Malappuram! You're at Muttippalam, just 3 km from Manjeri, the fourth most populous municipality in Kerala. This whole area was once Eranad, the biggest taluk in British Malabar.",
+  "hungryLine": "I don't have a named eatery to point you to here, so ask around Manjeri town for a good meal.",
+  "moodReplies": {
+   "show-me-around": "Walk to St Joseph Church Manjeri, then the Arukizhaya Shiva Temple and the thurakkal jumua masjid, all close together.",
+   "somewhere-to-chill": "Take an evening walk past the mosques, when people gather after prayers to talk over the day.",
+   "surprise-me": "Many books in the mosque libraries here are written in Arabi-Malayalam, Malayalam written in the Arabic script."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "St Joseph Church Manjeri",
+     "detail": "16 min walk · A church on the edge of Manjeri",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Arukizhaya Shiva Temple",
+     "detail": "17 min walk · A local Shiva temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "thurakkal jumua masjid",
+     "detail": "18 min walk · A neighbourhood mosque",
+     "status": {
+      "text": "Open 24/7",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Muttippalam",
+    "title": "The evening gatherings",
+    "body": "People here gather in the mosques for evening prayer and stay on to talk. Business and family matters are often sorted out right there."
+   },
+   {
+    "where": "Muttippalam",
+    "title": "Folk arts",
+    "body": "Duff Muttu, Kolkali and Aravanamuttu are the common folk arts of this area. They come from the local Muslim traditions."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go easy at prayer time.",
+    "body": "Evenings are when people fill the mosques for prayer and meetings, so keep it quiet nearby."
+   },
+   {
+    "icon": "tag",
+    "title": "Dress modestly.",
+    "body": "This is a traditional, mostly Muslim area with mosques, temples and churches close together."
+   }
+  ],
+  "story": [
+   {
+    "era": "Chera times",
+    "title": "Eranad's first capital",
+    "body": "Eranad was ruled by the Eradis, a Samanthan Nair clan. Under Chera rule its capital was Nediyiruppu in Kondotty.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Zamorin times",
+    "title": "A new capital",
+    "body": "When the Zamorin held sway, Eranad's capital moved to Kottappadi in Malappuram.",
+    "illustration": "palace"
+   },
+   {
+    "era": "British Malabar",
+    "title": "The biggest taluk",
+    "body": "Ernad Taluk stretched between the Chaliyar and Kadalundi rivers, and it was the largest taluk in Malabar District.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "2013",
+    "title": "A medical college",
+    "body": "Government Medical College, Manjeri, opened on 1 September 2013, the sixth government medical college in Kerala.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Walk Muttippalam's lanes, then head into Manjeri, now the headquarters of Eranad Taluk. Tell me what you find.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

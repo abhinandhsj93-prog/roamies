@@ -1,0 +1,77 @@
+{
+ "query": "Masinagudi",
+ "region": "tamilnadu",
+ "name": "Masinagudi",
+ "draft": {
+  "briefing": "Hey, you're in Masinagudi! About 85% of this village's land is forest, and it sits right in the buffer zone of the Mudumalai Tiger Reserve, just outside the national park. It's also the home of the Irula people, up on the Sigur Plateau.",
+  "hungryLine": "Masinagudi is a small forest village with a handful of resorts, so most meals happen where you stay, and Ooty's restaurants are about 30 km up the hill.",
+  "moodReplies": {
+   "show-me-around": "Mudumalai National Park starts right at the edge of the village, so the forest is the main sight here. Ooty is about 30 km away if you want the hill town.",
+   "somewhere-to-chill": "At 950 m the air stays mild, averaging around 22 °C through the year. Find a quiet spot at your resort and just listen to the forest around you.",
+   "surprise-me": "The name Masinagudi comes from Manasi Amman, a form of the goddess Shakti."
+  },
+  "seeFirst": {
+   "caption": "Around the village",
+   "spots": [
+    {
+     "name": "Mudumalai National Park",
+     "detail": "Right next door · Masinagudi sits in the reserve's buffer zone",
+     "status": {
+      "text": "Go with a guide",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Ooty",
+     "detail": "30 km away · The Nilgiris hill town on the MDR700 road",
+     "status": {
+      "text": "Steep hill drive",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Masinagudi",
+    "title": "The goddess in the name",
+    "body": "Locals trace the village's name to Manasi Amman, a manifestation of Maa Shakti. So every time you say Masinagudi, you're naming her."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Pack for summer rain.",
+    "body": "Unusually, Masinagudi gets much more of its rain in summer than in winter."
+   },
+   {
+    "icon": "tag",
+    "title": "Respect the forest.",
+    "body": "This is the tiger reserve's buffer zone, so keep to roads and stay quiet around wildlife."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "Land of the Irula",
+    "body": "Masinagudi has long been the home of the Irula tribe. The village's name comes from Manasi Amman, a form of the goddess Shakti.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "Geography",
+    "title": "On the Sigur Plateau",
+    "body": "The village sits at 950 m on the Sigur Plateau, on the road between Ooty and Theppakadu. Of its 134 square km, about 114 are forest.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "Life beside the reserve",
+    "body": "Masinagudi lies in the buffer zone of the Mudumalai Tiger Reserve. These days it has schools, amenities and a good number of resorts for visitors.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

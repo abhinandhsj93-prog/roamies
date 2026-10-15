@@ -1,0 +1,258 @@
+{
+ "query": "Byculla, Mumbai",
+ "found": "Byculla, N M Joshi Marg, Byculla West, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400027, India",
+ "lat": 18.9766219,
+ "lon": 72.8327936,
+ "fetchedAt": "2026-10-12T18:48:20.640Z",
+ "locality": {
+  "id": "byculla-west-mumbai-city-district-maharashtra",
+  "name": "Byculla West",
+  "area": "Mumbai City District, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Jijamata Udyaan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Raje_Shivaji_with_mother_Jijamata.jpg/1280px-Raje_Shivaji_with_mother_Jijamata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Jijamata Udyaan",
+   "credit": "Photo: Mayurhulsar, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raje_Shivaji_with_mother_Jijamata.jpg"
+  },
+  "Bombay State": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bombay_in_India_%281951%29.svg/1280px-Bombay_in_India_%281951%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Bombay State",
+   "credit": "Photo: India 1951 Bombay.svg: Superbenjamin this file: Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombay_in_India_(1951).svg"
+  },
+  "Central Railway zone": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Indian_Railway_zones.svg/1280px-Indian_Railway_zones.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Central Railway zone",
+   "credit": "Photo: Superbenjamin (original), Sbb1413 (derived work), CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Railway_zones.svg"
+  },
+  "Chinchpokli": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Chinchpokli_stationboard.jpg/1280px-Chinchpokli_stationboard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Chinchpokli",
+   "credit": "Photo: Superfast1111, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinchpokli_stationboard.jpg"
+  },
+  "Byculla Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/184-Byculla.svg/1280px-184-Byculla.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Byculla Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:184-Byculla.svg"
+  },
+  "Godiji": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Godiji_temple.jpg/1280px-Godiji_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Godiji",
+   "credit": "Photo: Pratyk321, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Godiji_temple.jpg"
+  },
+  "St. Agnes High School, Mumbai": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/St._Agnes_School_Mumbai_Emblem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "St. Agnes High School, Mumbai",
+   "credit": "Photo: Trinidade, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Agnes_School_Mumbai_Emblem.jpg"
+  },
+  "Aga Khan's Maqbara": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hasanabad%2C_Mazagaon.jpg/1280px-Hasanabad%2C_Mazagaon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Aga Khan's Maqbara",
+   "credit": "Photo: Priya 2887, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hasanabad,_Mazagaon.jpg"
+  },
+  "Khada Parsi": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Standing_Parsi_Statue_or_the_Khada_Parsi_and_the_Byculla_Hotel_-_Bombay%2C_Circa_1850-1870_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Khada Parsi",
+   "credit": "Photo: Francis Frith, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Standing_Parsi_Statue_or_the_Khada_Parsi_and_the_Byculla_Hotel_-_Bombay,_Circa_1850-1870_(cropped).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Jijamata Udyaan",
+   "text": "Jijamata Udyaan, also known as Victoria Gardens and the Byculla Zoo, is a zoo and garden covering 50 acres located at Byculla, in the heart of Mumbai, India. It is the oldest public garden in Mumbai. After Indian independence, it was officially renamed after Jijamata, the mother of Shivaji, the first Maratha emperor; the original name remains popular. \nIn 1835, the British administration granted a large plot of land in Sewri to the Agro Horticultural Society of Western India for a botanical garden known as Victoria Gardens, after Queen-Empress Victoria. That land was later acquired for a European burial ground. In 1861, construction of a new garden was commenced on 33 acres in the Mount Estate, Mazgaon (now included in Byculla). The flora from Sewri garden was transferred to this new garden named Jijamata Udyaan, which was formally opened to the public by Lady Frere on 19 November 1862. Agro Horticultural Society of Western India continued to maintain Victoria Gardens until 1873 when the society's end led to the municipal corporation taking over the garden's upkeep. In 1890 the garden was extended by 15 acres especially for the zoo.\nThe garden is the only green space in Mumbai that...",
+   "url": "https://en.wikipedia.org/wiki/Jijamata_Udyaan"
+  },
+  {
+   "title": "University of Mumbai",
+   "text": "University of Mumbai is a public state university in Mumbai. It is one of the largest university systems in the world with over 549,000 students on its campuses and affiliated colleges. As of 2013, the university had 711 affiliated colleges. \nIt was established in 1857 as the University of Bombay following a dispatch from Sir Charles Wood, President of the Board of Control, to Governor-General Lord Dalhousie. There are courses available covering science, commerce and the arts.",
+   "url": "https://en.wikipedia.org/wiki/University_of_Mumbai"
+  },
+  {
+   "title": "Bombay State",
+   "text": "Bombay State was a large Indian state created in 1950 from the erstwhile Bombay Province, with other regions being added to it in the succeeding years. Bombay Province (in British India roughly equating to the present-day Indian state of Maharashtra, excluding Marathwada and Vidarbha) was merged with the princely states of Baroda, Western India and Gujarat (the present-day Indian state of Gujarat) and the Deccan States (which included parts of the present-day Indian states of Maharashtra and Karnataka). \nOn 1 November 1956, Bombay State was reorganised under the States Reorganisation Act on linguistic lines, absorbing various territories including the Saurashtra and Kutch States, which ceased to exist. On 1 May 1960, Bombay State was dissolved and split on linguistic lines into the two states of Gujarat, with the Gujarati speaking population and Maharashtra, with Marathi speaking population.",
+   "url": "https://en.wikipedia.org/wiki/Bombay_State"
+  },
+  {
+   "title": "Byculla",
+   "text": "Byculla (ISO: Bhāykhaḷā; pronunciation: [bʱaːjkʰəɭaː]) is an area of South Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Byculla"
+  },
+  {
+   "title": "Central Railway zone",
+   "text": "The Central Railway (abbreviated CR) is one of the 18 zones of Indian Railways. Its headquarters are located at Mumbai. It has the distinction of operating the first passenger railway line in India, which opened from Mumbai to Thane on 16 April 1853 (1853-04-16).",
+   "url": "https://en.wikipedia.org/wiki/Central_Railway_zone"
+  },
+  {
+   "title": "Chinchpokli",
+   "text": "Chinchpokli (Marathi: चिंचपोकळी) is a neighbourhood in South Mumbai. It is also the name of a railway station on the Central line of the Mumbai suburban railway. Historical British era spellings include Chinchpugli and Chinchpooghly. The neighbourhood is named after the Marathi words for tamarind (chinch) and betel nut (pofali).\n\n",
+   "url": "https://en.wikipedia.org/wiki/Chinchpokli"
+  },
+  {
+   "title": "Dagdi Chawl",
+   "text": "Dagdi Chawl is a neighbourhood in Byculla, Mumbai, used to house mill workers from the nearby industries. Now it is known for the fortified home of mafia don turned politician Arun Gawli.",
+   "url": "https://en.wikipedia.org/wiki/Dagdi_Chawl"
+  },
+  {
+   "title": "Agripada",
+   "text": "Agripada is an area in South Mumbai. It is located between Byculla (West) and Mumbai Central (East). This area is connected with the Central Railway as well as the Western Railway. Agripada is also notable for its YMCA which has a swimming pool and various indoor and outdoor sports facilities. A large number of schools, including municipal schools, convents, Marathi, Hindi and English medium schools are located in this area.\nMaratha Mandir is the nearest cinema hall. The other surrounding areas are Mumbai Central, Byculla, Nagpada, Madanpura and Mahalaxmi. Agripada also has a large number of mosques, of which Arab Masjid Al-Madina Masjid and Jamai Ahl-e Hadees Masjid are the most famous.",
+   "url": "https://en.wikipedia.org/wiki/Agripada"
+  },
+  {
+   "title": "Byculla Assembly constituency",
+   "text": "Byculla Assembly constituency is one of the 288 Vidhan Sabha (legislative assembly) constituencies of Maharashtra state in western India.",
+   "url": "https://en.wikipedia.org/wiki/Byculla_Assembly_constituency"
+  },
+  {
+   "title": "Godiji",
+   "text": "Godiji Parshwanath (Hindi: श्री गोडीजी पार्श्वनाथ) is the name given to several images of the Tirthankara Parshvanantha in India, and to the temple where it is the main deity (mulanayaka). Parshwanath was the 23rd Tirthankara who attained nirvana in 777 BCE. All these images and temples belong to the Śvetāmbara sect of Jainism.\nThe original image, about 1.5 feet (0.46 m) high, was at Gori in Tharparkar district of Pakistan. The original temple still stands, but is empty. It is in village of Gori between Islamkot and Nagarparkar. \nOther Godiji temple is located in small village named Kosana in the Jodhpur District Rajasthan donated by the Nagarseth Sri Hastimal Ji Nahar.",
+   "url": "https://en.wikipedia.org/wiki/Godiji"
+  },
+  {
+   "title": "St. Agnes High School, Mumbai",
+   "text": "St. Agnes High School and Junior College of Commerce is a girls school and junior college located on Clare Road, Byculla in Mumbai, India. It is managed by the religious followers of the Convent of Jesus and Mary, affiliated to the Archdiocesan board of Education. This school is under the patronage of St.Agnes, after whom it is named. The school prepares students for S.S.C. examinations conducted by the Maharashtra State Board of Secondary and Higher Secondary Education.To make for more effective management, the school is divided into four house under the patronage of St. Matthew(Red), St. John(Yellow), St. Mark(Blue)and St. Luke(Green). Similarly, the primary section is divided under the patronage of St. Agnes(Red), St. Goretti(Blue), St.Theresa(Yellow) and St. Joan(Green).",
+   "url": "https://en.wikipedia.org/wiki/St._Agnes_High_School,_Mumbai"
+  },
+  {
+   "title": "St. Mary's High School SSC",
+   "text": "St. Mary’s High School SSC is a private Catholic junior secondary school for boys located in Mazgaon, Mumbai, in the state of Maharashtra, India. The Christian minority institution was founded by the Jesuits in 1864. In 1933, the Secondary School Certificate school split from the adjacent St. Mary's Anglo-Indian School ICSE, with separate buildings and staff. The school covers kindergarten, and grades one through ten.",
+   "url": "https://en.wikipedia.org/wiki/St._Mary%27s_High_School_SSC"
+  },
+  {
+   "title": "Aga Khan's Maqbara",
+   "text": "The Aga Khan's Maqbara or Aga Khan's Dargah is the mausoleum of Aga Khan I, located in Mazgaon, Mumbai, India. It is also known as the Hasanabad Monument since the personal name of Aga Khan I was Hasan.\nAga Khan I first visited the site in 1840. He was given a patch of land by Mukhi Ladakbhai Haji and stated his desire to be buried there when he died.\nThe construction of the mausoleum began in 1881 soon after the funeral of Aga Khan I; it was completed in 1884. The mausoleum is maintained by the jamaatkhana of the Khoja Muslims. It seems to have been inspired by the Taj Mahal.  There are three blue domes and two 90-foot high minarets.\nThe mausoleum was the temporary resting place of the mortal remains of Aga Khan II until they were moved to Najaf, Iraq. It was also the temporary resting place of the mortal remains of Pir Abu'l-Hasan Shah until they were moved to Karbala, Iraq.\nIn the crypt of the mausoleum are buried two faithful servants of the Nizari imams:\n\nWasir Rahim Basaria (January 1885 - February 15, 1927)\nCaptain Aga Majid Khan (died October 7, 1956)",
+   "url": "https://en.wikipedia.org/wiki/Aga_Khan%27s_Maqbara"
+  },
+  {
+   "title": "Jewish Cemetery, Chinchpokli",
+   "text": "Jewish Cemetery, Chinchpokli, is a cemetery in Chinchpokli, Bombay, laid out near the Chinchpokli railway station by Elias David Sassoon in 1878. Covering two acres, the burial ground now contains more than a thousand graves, and new burials continue to take place.",
+   "url": "https://en.wikipedia.org/wiki/Jewish_Cemetery,_Chinchpokli"
+  },
+  {
+   "title": "Khada Parsi",
+   "text": "Khada Parsi, Ubha Parsi (transl. Standing Parsi) or Cursetjee Fountain is a Grade 1 heritage monument located in Byculla, Mumbai, India. Installed in 1867, the monument features a life-sized cast iron statue of Cursetjee Manockjee (19 August 1763 — 7 May 1845), a prominent Parsi businessman and philanthropist, atop a pillar and surrounded by mermaid fountains. It is considered one of the oldest Parsi statues in Mumbai.",
+   "url": "https://en.wikipedia.org/wiki/Khada_Parsi"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Gloria Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 4,
+   "lat": 18.975125,
+   "lon": 72.8343268
+  },
+  {
+   "name": "Bhau Daji Lad Museum (Victoria & Albert Museum)",
+   "kind": "museum",
+   "walkMinutes": 6,
+   "lat": 18.9791636,
+   "lon": 72.8348012
+  },
+  {
+   "name": "Kala Ghoda",
+   "kind": "monument",
+   "walkMinutes": 6,
+   "lat": 18.9787476,
+   "lon": 72.8352916
+  },
+  {
+   "name": "Dr. Bhau Daji Lad Museum",
+   "kind": "museum",
+   "walkMinutes": 6,
+   "lat": 18.9791705,
+   "lon": 72.8348102
+  },
+  {
+   "name": "Veermata Jijabhai Sculpture",
+   "kind": "monument",
+   "walkMinutes": 7,
+   "lat": 18.9783197,
+   "lon": 72.8363818
+  },
+  {
+   "name": "Khada Parsi",
+   "kind": "monument",
+   "walkMinutes": 9,
+   "lat": 18.9715813,
+   "lon": 72.8324483
+  },
+  {
+   "name": "Frere Temple",
+   "kind": "monument",
+   "walkMinutes": 11,
+   "lat": 18.979434,
+   "lon": 72.8382815
+  },
+  {
+   "name": "St. Andrews Marathi Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 12,
+   "lat": 18.9737683,
+   "lon": 72.8267115
+  },
+  {
+   "name": "Hasnabad Dargah",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 18.9733498,
+   "lon": 72.8393449
+  },
+  {
+   "name": "St Anne's Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 13,
+   "lat": 18.9696459,
+   "lon": 72.8355355
+  },
+  {
+   "name": "Shri Kapreshwar Maharaj Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 15,
+   "lat": 18.9812958,
+   "lon": 72.8400465
+  },
+  {
+   "name": "Narialwadi Kabristan Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 18.9752654,
+   "lon": 72.8425597
+  },
+  {
+   "name": "Ahmadiyya Masjid",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 18.9716889,
+   "lon": 72.8235313
+  },
+  {
+   "name": "Magen David Synagogue",
+   "kind": "place_of_worship",
+   "walkMinutes": 18,
+   "lat": 18.9669496,
+   "lon": 72.8320783
+  },
+  {
+   "name": "Chintamani Ganesh Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 19,
+   "lat": 18.9848616,
+   "lon": 72.8398817
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

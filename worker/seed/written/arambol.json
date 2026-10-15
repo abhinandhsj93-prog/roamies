@@ -1,0 +1,108 @@
+{
+  "query": "Arambol",
+  "region": "goa",
+  "name": "Arambol",
+  "draft": {
+    "briefing": "Hey, you're in Arambol! It's a traditional fishing village up in Pernem, with a long beach that's part rocky, part sandy. Seasoned Anjuna regulars like to stay here for the quiet and only head south for parties and markets.",
+    "hungryLine": "Cafes and restaurants line the shore all the way from the little Sweet Water Lake beach down to Mandrem, so take your pick.",
+    "moodReplies": {
+      "show-me-around": "Climb the headland at the end of the beach for a lovely view and its small altars, then wander north to Keri Beach.",
+      "somewhere-to-chill": "Stroll south along the sand towards Mandrem Beach, this stretch is known for its relative quietude.",
+      "surprise-me": "The sea here is warmest from April to June, averaging around 29 °C."
+    },
+    "seeFirst": {
+      "caption": "Along the shore",
+      "spots": [
+        {
+          "name": "Keri Beach",
+          "detail": "Just north · The next beach up from Arambol",
+          "status": {
+            "text": "Best early morning",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        },
+        {
+          "name": "Mandrem Beach",
+          "detail": "Just south · Follow the cafe-lined shore down from Arambol",
+          "status": {
+            "text": "Lovely at sunset",
+            "tone": "open"
+          },
+          "illustration": "warehouses"
+        }
+      ]
+    },
+    "legends": [],
+    "tips": [
+      {
+        "icon": "sun",
+        "title": "Come in the dry season.",
+        "body": "The main tourist season runs through the dry months, roughly December to April, and the sunniest days get about 10 hours of sun."
+      },
+      {
+        "icon": "tag",
+        "title": "Try paragliding.",
+        "body": "Paragliding is one of Arambol's main draws, along with the nearby hot water springs."
+      }
+    ],
+    "story": [
+      {
+        "era": "Long ago",
+        "title": "A fishing village",
+        "body": "Arambol started as a traditional fishing village in Pernem, about 24.6 km north of Panaji. Its beach sits between Keri to the north and Mandrem to the south.",
+        "illustration": "flood"
+      },
+      {
+        "era": "2011",
+        "title": "A small village",
+        "body": "Around 5,300 people lived in Arambol in 2011. It still feels like a village, with open drains and tap water from a treated source.",
+        "illustration": "pepper"
+      },
+      {
+        "era": "Today",
+        "title": "Winter crowds",
+        "body": "International visitors come mainly between November and March. Cafes have mushroomed all along the shoreline to welcome them.",
+        "illustration": "warehouses"
+      }
+    ],
+    "food": [
+      {
+        "name": "Double Dutch",
+        "detail": "Steak and Western food",
+        "status": {
+          "text": "Check timings locally",
+          "tone": "neutral"
+        },
+        "tags": [
+          "mild"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Fellini",
+        "detail": "Go for the pizza",
+        "status": {
+          "text": "Check timings locally",
+          "tone": "neutral"
+        },
+        "tags": [
+          "mild"
+        ],
+        "illustration": "warehouses"
+      },
+      {
+        "name": "Pajis",
+        "detail": "Multi-cuisine menu, open all day",
+        "status": {
+          "text": "Open all day",
+          "tone": "open"
+        },
+        "tags": [
+          "cheap"
+        ],
+        "illustration": "warehouses"
+      }
+    ]
+  }
+}

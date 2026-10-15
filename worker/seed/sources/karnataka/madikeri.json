@@ -1,0 +1,143 @@
+{
+ "query": "Madikeri",
+ "found": "Madikeri, Madikeri taluku, Kodagu, Karnataka, 571201, India",
+ "lat": 12.42149,
+ "lon": 75.7387543,
+ "fetchedAt": "2026-10-12T18:31:42.748Z",
+ "locality": {
+  "id": "madikeri-coorg-karnataka",
+  "name": "Madikeri",
+  "area": "Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Madikeri": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Raja%27s_Seat_View_Point.jpg/1280px-Raja%27s_Seat_View_Point.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Madikeri",
+   "credit": "Photo: Pawanrao, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raja%27s_Seat_View_Point.jpg"
+  },
+  "Kodagu district": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tadiandamol_Valley%2C_Western_Ghats.jpg/1280px-Tadiandamol_Valley%2C_Western_Ghats.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kodagu district",
+   "credit": "Photo: Jyotirmoy, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tadiandamol_Valley,_Western_Ghats.jpg"
+  },
+  "Raja's Seat": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Raja_seat_madikeri.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Raja's Seat",
+   "credit": "Photo: Amarrg at English Wikipedia, Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raja_seat_madikeri.JPG"
+  },
+  "Coorg State": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Coorg_in_India_%281951%29.svg/1280px-Coorg_in_India_%281951%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Coorg State",
+   "credit": "Photo: Milenioscuro, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coorg_in_India_(1951).svg"
+  },
+  "St. Mark's Church, Mercara": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Government_museum%2C_Madikeri.jpg/1280px-Government_museum%2C_Madikeri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St. Mark's Church, Mercara",
+   "credit": "Photo: Vaishak Kallore (Vaishak Kallore), CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Government_museum,_Madikeri.jpg"
+  },
+  "Madikeri Assembly constituency": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/208-Madikeri_constituency.svg/1280px-208-Madikeri_constituency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Madikeri Assembly constituency",
+   "credit": "Photo: Own work based on User:Furfur, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:208-Madikeri_constituency.svg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Madikeri",
+   "text": "Madikeri (Kodava: [mɐɖikeːri]), earlier called as Mercara is city and  headquarters of Kodagu district in the Karnataka state of India. It is recognised as one of the world's eight \"hottest hotspots\" of biological diversity and is also a UNESCO World Heritage Site. The city is ranked 1st in India for clean air and air quality index in 2024.\n\n\n== Etymology ==\nMadikeri was known as Muddu Raja Keri, which meant Mudduraja's town, was named after the prominent Haleri king Mudduraja who ruled Kodagu from 1633 to 1687. From 1834, during the British Raj, it was called Mercara. It was later renamed to Madikeri by the Government of Mysore.\n\n\n== History ==\n\nThe history of Madikeri is related to the history of Kodagu. From the 2nd to the 6th century AD, the northern part of Kodagu was ruled by Kadambas. The southern part of Kodagu was ruled by Gangas from the 4th to the 11th century. After defeating the Gangas in the 11th century, Cholas became the rulers of Kodagu. In the 12th century, the Cholas lost Kodagu to the Hoysalas. Kodagu fell to the Vijayanagar kings in the 14th century.\nAfter their fall, the local chieftains from Kodava community (Palegars) started ruling their areas directly. They appointed...",
+   "url": "https://en.wikipedia.org/wiki/Madikeri"
+  },
+  {
+   "title": "Kodagu district",
+   "text": "Kodagu district (Kodava: [koɖɐɡɨ, -ʋɨ], also known by its former name Coorg, Kodava: koḍagï, koḍavï) is an administrative district in the Karnataka state of India. Before 1956, it was an administratively separate Coorg State at which point it was merged into an enlarged Mysore State.",
+   "url": "https://en.wikipedia.org/wiki/Kodagu_district"
+  },
+  {
+   "title": "Raja's Seat",
+   "text": "Raja's Seat (Seat of the King) is a culturally significant site and tourist attraction in Madikeri of Coorg District. It is 270km away from Bangalore, the capital of Karnataka.\nRaja's Seat is located in the middle of a garden called as Gandhi Mantap. It is a structure made of brick and mortar and consists of four pillars that are bridged by arches. This place was used by the Kings and the Queens of Kodagu who were the rulers of Karnataka for over 200 years from 1600 to 1834 CE. The garden is known for its scenery, and was a favourite place of recreation for the Rajas, and hence was permanently associated with them. It is built on a high level ground overlooking the cliffs and valleys to the west.\nThe Sarvodaya Diwas (also referred to as Martyrs' Day) is celebrated annually on 30 January in Coorg, the day of Gandhiji's assassination in 1948. During this day, a procession is arranged, and an urn containing Mahatma Gandhi's ashes are carried to the Raja's Seat. This procession is followed by reciting verses from the Bhagwad Gita, Koran and the Bible. Bhajans are sung, floral tributes are paid, and a few minutes of silence is observed to pay respects.",
+   "url": "https://en.wikipedia.org/wiki/Raja%27s_Seat"
+  },
+  {
+   "title": "Coorg State",
+   "text": "Coorg State was a Part-C state in India which existed from 1950 to 1956. When the Constitution of India came into force on 26 January 1950, most of the existing provinces were reconstituted into states. Thus, Coorg Province became Coorg State. Coorg State was ruled by a Chief Commissioner with Mercara as its capital. The head of the government was the Chief Minister. Coorg State was abolished on 1 November 1956 as per the States Reorganisation Act, 1956 and its territory was merged with Mysore State (later renamed as Karnataka in 1973). Currently, Coorg forms a district of Karnataka state.",
+   "url": "https://en.wikipedia.org/wiki/Coorg_State"
+  },
+  {
+   "title": "St. Mark's Church, Mercara",
+   "text": "The St. Mark's Church, is located within the Mercara Fort, Coorg, India and was raised in 1859, by the officers and men of the East India Company. The church building was funded by the Government of Madras, and placed under the Church of England in India, Diocese of Madras. The Church was closed after Indian independence, and taken over by the Government of Karnataka in 1971.  The building now houses the Madikeri Fort Museum, managed by the Karnataka State Archaeological Department.",
+   "url": "https://en.wikipedia.org/wiki/St._Mark%27s_Church,_Mercara"
+  },
+  {
+   "title": "Madikeri Assembly constituency",
+   "text": "Madikeri Assembly constituency is one of the 224 Legislative Assembly constituencies of Karnataka in India.\nIt is part of Kodagu district and is one among the two legislative assembly constituency from the district. \nMadekeri Mantar Gowda who won the 2023 Karnataka Legislative Assembly election is the current MLA from this constituency.",
+   "url": "https://en.wikipedia.org/wiki/Madikeri_Assembly_constituency"
+  },
+  {
+   "title": "Madikeri Town Assembly constituency",
+   "text": "Madikeri Town Assembly constituency (also known as Mercara Town) was a constituency of the Mysore Legislative Assembly (part of Coorg Legislative Assembly till 31 October 1956). The lone election to this constituency was conducted in 1952 to the legislature of the Coorg State (Kodagu) in India. The constituency included Madikeri. This seat was included to Mysore Legislative Assembly in 1956 during the reorganisation of the Indian States based along linguistic lines, the state of Coorg (Kodagu) was merged with Mysore State.",
+   "url": "https://en.wikipedia.org/wiki/Madikeri_Town_Assembly_constituency"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Madikeri",
+  "text": "Madikeri (also Mercara) is a beautiful hill station and capital of Kodagu region of Karnataka State, between Mangalore and Mysore. It has a population of over 33,000 people (2011).\n\n\n== See ==\n1 Abbey Falls. Beautiful falls 7-9 km from Madikeri (depends where you are). Abbey means \"falls\" in Kannda. The falls are inside a coffee plantation. Abbey Falls is a breathtaking waterfall where the Kaveri river cascades down a rockface. A hanging bridge has now been built across the gorge here offering a good view of the falls. You can take a rickshaw to the falls and back with half an hour stop. Negotiate the price beforehand. Bathing in the falls is not allowed as the water pours into the rocky steep valley. There are no toilets at the site. ₹10, parking ₹50. (updated Nov 2024)\n2 Dubbare Elephant camp (accessed from the road connecting Madikeri and Kushalnaga, turn off 3 km from Kushal Nagar and then travel 10 km on that deviation). The road in passes through scenic rice fields and coffee estates. Activities include boat rides, rafting and the cauvery. Crossing the river to take you to the camp is quite adventurous. \n Kushal Nagar. The largest Tibetan settlement in Southern India and monastery locally called \"Golden Temple\", in Bylakuppe, near Kushal Nagar. There are 2 monasteries nearby, one old and the other is new. Don't miss the new, on the way, while going towards old one. You can shop for Tibetan and Chinese handicrafts, decorative and religious items. \n3 Nisargadhama (3 km from Kushalnagar). A beautiful picnic spot called Nisargadhama. Park is not too great, has some bamboo \"machans\" on trees, but the best part of it is the river is on the back-side. If you want to go for elephant ride at Nisarga Dhama, please remember to buy ride-tickets along with your entry-ticket before you get in. They do not sell ride-tickets inside; it is a 0.5-km walk back to ticket counter if you forget. \n4 Omkareshwara Temple. A complex of two temples and a stunning pond in the middle of Medikeri. \n Raja's Seat. Legend says that the local rajas used to watch the sun set from here. There is a nice garden and a beautiful panoramic view to the valley. In the middle of Madikeri, ask for directions from the point you are in and walk (or take a rickshaw). It's a fantastic scene during sun rise or sunset. \n5 Talakaveri (Tala Kaveri) (42 km from Madikeri). The source of the Cauvery river. The river is famous for annually over flowing the banks here on 17 or 18 October. It is an important pilgrimage site for Hindu people. Cauvery river starts here. You can see a very beautiful view of western ghats by climbing the Brahmagiri Hill. Can be reached by bus. \n General Thimmayya Museum, Madikeri town (1 km.). 10AM-1:30PM and 3-6PM. One of the best war museums in India inaugurated by the President himself. Huge cement shoe and other attractions. Very good place for seeing a traditional Kodagu House with stunning interiors. Regular TV show. ₹15. (updated Feb 2021)\n\n\n=== Madikeri Fort ===\n6 Madikeri Fort.  This 19th century fort, in the centre of Madikeri, houses a Ganesha temple, a chapel, a district prison and a small museum. The fort offers a beautiful view of Madikeri. Mercara, the headquarters of Kodagu district, was founded by Prince Mudduraja of the Haleri Dynasty in 1681 CE, and was named after him as Muddurajanakeri -- which became \"Muddukayray\" and Madikeri over time. \nMudduraja built a mud fort and a palace inside the fort, in the last quarter of the 17th century. This fort was later rebuilt of granite masonry, after it was captured by the \"Tiger of Mysore\" Tipu Sultan. Tipu named it Jaffarabad. In 1790, Doddaveer Rajendra took possession of the fort, and in April 1834, the British took control of it.\nBuilt on an elevated area, the fort has been described as an \"irregular hexagon\" on plan, almost confirming to the shape of the hilltop. There are six circular bastions at the angles, the entrance on the east is intricate and circuitious and guarded by three successive gates.\nMajestically looking over the area are two life-sized elephants made of mortar in the north-east corner of the entrance. A small but imposing church at the south-east corner was built in 1855 and is home to an archaeological museum (photography prohibited inside). The palace, renovated by Lingarajendra Wodeyar II in 1812-1814, accommodates government offices.\n\n\n== Do ==\n Toy Train for Children, Near Rajadarshan Hotel (2 km).  (updated May 2015)\n Valley Watch, Raja Seat Mandap (2 km).  (updated May 2015)\n Massage at Ayurjeevan Ayurveda Hospital, Ayurjeevan, Kohinoor Road, Behind SBI, ☏ +91 82720224466, ayurjeevan@ayurjeevanayurvedahospital.com.  \n\n\n==== Trekking ====\nBrahmagiri. Wild life sanctuary near Nagarahole National Park. Trekking distance 24 km to and from (80 km from Madikeri).\nIgguthappa Kundu. Trekking distance 12 km to and from (40 km from Madikeri).\nKoteBetta (5400 ft). Trekking distance 14 km to and from (22 km from Madikeri).\nNishanimotte. Trekking distance 12 km to and from (6 km from Madikeri).\nPushpagiri (5626 ft). Trekkers can cross to Subramanya, in Dakshina Kannada district from Pushpagiri Range.\nThadiyandamole (5729 ft). Micro hotspot of bio-diversity in South India, the Trekkers paradise. Breathtaking views of Arabian sea and Kerala coast.\n\n\n== Eat ==\n\nMadikeri is famous for pork. It is one of the few places in India where pork is a delicacy.\nVegetarians may like Kanika International in Kushal Nagar. However it is at the foothills of Madikeri & one may not like it as there is no good view of the hills there.\n\n Athithi Pure Vegetarian, Near Police Station (1 km).  (updated May 2015)\n Coorg Cuisine, Near Post Office (1 km).  (updated May 2015)\n Popular Woodlands Vegetarian, Near KSRTC (0 km).  (updated May 2015)\n Pranam Restaurant, Junior College Road (1 km).  (updated May 2015)\n Raintree Restaurants, 13/41, Pension Ln (Behind Town hall), ☏ +91 9741047001. Multi-cuisine fine dining restaurant. \n Red Fern Restaurant, Near Omkareshwara Temple (1 km), ☏ +91 82722 29192.  (updated May 2015)\n Shanthi Bites, Opp Nisargadam, B.M. Road Kushal Nagar, Coorg (26 km), ☏ +91 9480674674. 10AM to 10AM. A variety of tasty dishes of south-north Indian, European, Chinese and Tibetan styles are available. \n Neel Sagar Restaurant, Madikeri Junction. Quality vegetarian food. (updated Nov 2016)\n Chinnamma Restaurant, Near Police Station. Vegetarian options. (updated Jul 2017)\n Fish Curry Rice, Kushalnagar, opp Government Engineering college, ☏ +91 9930002300. Daily 11AM-10PM. serves excellent Mangalorean cuisine, alongside north Indian and Chinese dishes. Must-try dishes are prawns ghee roast with neer dosa, tandoori chicken, schezwan fried rice, mushroom masala and paneer butter masala with naan. (updated Oct 2021)\n Khadeeja Cafe, Near Private Bus Station. Parottas, Pathiris, Fish fry, Biriyani and other Kerala items. (updated Jan 2022)\n Shanthi Sagar Restaurant, near Police Station. Opp. Fort. A/c family hall with viewsSpice shop at entrance. (updated Feb 2022)\n\n\n== Drink ==\nMost hotels come with attached bars. There are several liquor shops attached throughout the city.\n\n Church side bar, Near Police station (1 km).  (updated May 2015)\n West End Bar, Near KSRTC (0 km).  (updated May 2015)\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Madikeri"
+ },
+ "sights": [
+  {
+   "name": "Coorg State",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 12.4208,
+   "lon": 75.7397
+  },
+  {
+   "name": "Kodagu district",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 12.4208,
+   "lon": 75.7397
+  },
+  {
+   "name": "St. Mark's Church, Mercara",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 12.4203661,
+   "lon": 75.7392854
+  },
+  {
+   "name": "Madikeri Town Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 2,
+   "lat": 12.422857,
+   "lon": 75.738903
+  },
+  {
+   "name": "Raja's Seat",
+   "kind": "landmark",
+   "walkMinutes": 13,
+   "lat": 12.414427777777778,
+   "lon": 75.7369361111111
+  },
+  {
+   "name": "Madikeri Assembly constituency",
+   "kind": "landmark",
+   "walkMinutes": 22,
+   "lat": 12.43,
+   "lon": 75.73
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

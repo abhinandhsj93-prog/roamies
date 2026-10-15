@@ -1,0 +1,86 @@
+{
+ "query": "Jatayu Earth's Center, Kollam",
+ "region": "kerala",
+ "name": "Jatayu Earth's Center",
+ "draft": {
+  "briefing": "Hey, you're at Jatayu Earth's Center! The bird up on this rock is the largest bird sculpture in the world, 200 feet long and 70 feet tall, made of concrete and steel by Rajiv Anchal.",
+  "hungryLine": "I don't know a named place to eat up here, so ask around in Chadayamangalam town along the MC road.",
+  "moodReplies": {
+   "show-me-around": "The park entrance is a minute away. The Ram Footprint and Shree Rama Temple are both about a 10 min walk.",
+   "somewhere-to-chill": "Ride up to the top, 350 m above sea level, and just take in the view around the giant bird.",
+   "surprise-me": "The cable car that takes you to the top is the only cable car in Kerala."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Jatayu Earth's Center Nature Park",
+     "detail": "1 min walk · The world's largest bird sculpture",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Ram Footprint",
+     "detail": "10 min walk · A local spot near the temple",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Shree Rama Temple",
+     "detail": "10 min walk · Right by the Ram Footprint",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Be ready for rain.",
+    "body": "Kerala gets rain for at least 7 to 8 months a year, so carry something waterproof."
+   },
+   {
+    "icon": "tag",
+    "title": "Take the cable car.",
+    "body": "It's the way up to the top, and the only cable car in the state."
+   }
+  ],
+  "story": [
+   {
+    "era": "8th to 9th century",
+    "title": "An old town",
+    "body": "Historians trace Chadayamangalam back at least this far. It was Ay dynasty land, a buffer between the Pandyas and the Cheras.",
+    "illustration": "palace"
+   },
+   {
+    "era": "765 CE",
+    "title": "The Ay kingdom falls",
+    "body": "The Ay Kingdom was conquered, ending its swing between independence and Pandyan rule.",
+    "illustration": "palace"
+   },
+   {
+    "era": "17 August 2018",
+    "title": "The park opens",
+    "body": "Jatayu Earth's Center opened to visitors. It was Kerala's first public-private partnership tourism project under the BOT model.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Jatayumangalam",
+    "body": "The giant bird is so famous that people now call the place Jatayumangalam. The sculpture covers 15,000 square feet.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

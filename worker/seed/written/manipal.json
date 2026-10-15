@@ -1,0 +1,92 @@
+{
+ "query": "Manipal",
+ "region": "karnataka",
+ "name": "Manipal",
+ "draft": {
+  "briefing": "Hey, you're in Manipal! Locals call it Campus Town, since more than twenty-five thousand students come here every year to study at the Manipal Academy of Higher Education.",
+  "hungryLine": "You're next door to Udupi, home of the famous vegetarian cuisine cooked without onion or garlic, with subtle flavours.",
+  "moodReplies": {
+   "show-me-around": "Manipal Institute of Technology is a 10 minute walk, and the Sri Krishna Temple in Udupi is about 5 km away.",
+   "somewhere-to-chill": "Manipal End-point Park is a small cliff over the Suwarna river, with views of the sea and the mountains.",
+   "surprise-me": "Manipal's dental college, set up in 1965, was India's first private dental college."
+  },
+  "seeFirst": {
+   "caption": "Around Manipal",
+   "spots": [
+    {
+     "name": "Manipal End-point Park",
+     "detail": "In Manipal · Cliff views of the Suwarna river, sea and hills",
+     "status": {
+      "text": "Popular with students",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Manipal Institute of Technology",
+     "detail": "10 min walk · The campus that started as Manipal Engineering College",
+     "status": {
+      "text": "Check access locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Sri Krishna Temple and Mutt",
+     "detail": "In Udupi, about 5 km away · Free lunch for everyone",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Udupi Krishna Temple",
+    "title": "Kanaka's Window",
+    "body": "The Krishna statue faces west, away from devotees. It's said that when Kanakadasa was denied entry, he prayed at a small window outside and the Lord turned around to face him."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Eat lunch at the Krishna Temple.",
+    "body": "The temple in Udupi serves free lunch to everyone in its three dining halls."
+   },
+   {
+    "icon": "sun",
+    "title": "Plan for the monsoon.",
+    "body": "Manipal gets moderate to heavy rain in the monsoon, which keeps it green all year."
+   }
+  ],
+  "story": [
+   {
+    "era": "1957",
+    "title": "An engineering college",
+    "body": "Manipal Engineering College opened in 1957. Today it's the Manipal Institute of Technology.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1965",
+    "title": "A first for India",
+    "body": "Manipal College of Dental Sciences opened as India's first private dental college.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2008",
+    "title": "Formula Manipal races",
+    "body": "The student car team, started as an idea in 2007, made its debut at FSAE Italy in 2008.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2018",
+    "title": "Institute of Eminence",
+    "body": "The Government of India gave Manipal Academy of Higher Education the status of Institute of Eminence.",
+    "illustration": "palace"
+   }
+  ],
+  "food": []
+ }
+}

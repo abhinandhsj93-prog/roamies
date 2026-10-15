@@ -1,0 +1,40 @@
+{
+ "query": "Arambol",
+ "found": "Arambol, Pernem, North Goa, Goa, 403524, India",
+ "lat": 15.6878815,
+ "lon": 73.7055986,
+ "fetchedAt": "2026-10-12T19:39:02.561Z",
+ "locality": {
+  "id": "arambol-north-goa-goa",
+  "name": "Arambol",
+  "area": "Pernem, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Arambol": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Arambol_2022-01-04-2.jpg/1280px-Arambol_2022-01-04-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Arambol",
+   "credit": "Photo: Alexey Komarov, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arambol_2022-01-04-2.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Arambol",
+   "text": "Arambol is a traditional fisherman village in the Pernem administrative region of North Goa, India, located 24.6 km (15.3 mi) north of Goa's capital city of Panaji. As of 2011, it has a population of around 5,300.\nIts beach, bordering Keri Beach to the north and Mandrem Beach to the south, attracts many international tourists, mainly during the winter season between November and March.\n\n\n== Weather ==\nRainfall: 3,117 mm (122.7 in)\nMaximum temperature: 34 °C (93 °F)\nMinimum temperature: 23 °C (73 °F)\nArambol's warmest month of the year is usually April, with an average high of 34 °C (93 °F). The sunniest months are January, February, April, May, and December, with around 10 hours of sunshine per day. The dry period in Arambol corresponds with its main tourist season, from December to April. The warmest sea temperature is between April and June, with an average high of 29 °C (84 °F).\n\n\n== Utilities and services ==\n\n\n=== Sanitation and drinking water ===\nThe village has an open drainage system. Water is supplied from a service reservoir. The town gets it water as tap water from a treated source. The capacity of the water supply system is 650 kl (23,000 cu ft). The nearest fire fighting service...",
+   "url": "https://en.wikipedia.org/wiki/Arambol"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Arambol",
+  "text": "Arambol is a village in North Goa, India.\n\n\n== See ==\n\n\n== Do ==\nEnjoy the beach. Arambol has a long beach, both rocky and sandy, with a nice headland where you can climb and find a nice view, and small altars. Its main draws are the nearby hot water springs, paragliding and relative quietude. The experienced Anjuna travellers like to stay here and move to Anjuna area only for parties and markets.\n\n\n== Eat ==\nCafés and restaurants have mushroomed all along the shoreline, from the small \"Sweet Water Lake\" beach all the way to Mandrem.\n\n Double Dutch, Arambol. Steak and Western food. \n Fellini, Arambol. Pizza. \n Pajis, Arambol. All Day. Multi cuisine \n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Arambol"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

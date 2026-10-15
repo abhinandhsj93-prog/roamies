@@ -1,0 +1,62 @@
+{
+ "query": "Kappad, Kozhikode",
+ "region": "kerala",
+ "name": "Kappad",
+ "draft": {
+  "briefing": "Hey, you're in Kappad! A stone monument here reads 'Vasco da Gama landed here, Kappakadavu, in the year 1498', and today it's a Blue Flag beach.",
+  "hungryLine": "The beach park has its own restaurant, handy for a bite between sea breezes.",
+  "moodReplies": {
+   "show-me-around": "The Vasco da Gama memorial is a 12 min walk away, the stone that marks the 1498 landing.",
+   "somewhere-to-chill": "Grab a seat in the beachside park or stroll the corniche and watch the sea.",
+   "surprise-me": "The corniche and park came from a Rs. 1.5 crore beautification programme launched in 2007."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Vasco da Gama memorial",
+     "detail": "12 min walk · The stone marking the 1498 landing",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Take the train to Koyilandy.",
+    "body": "It's the nearest major railway station, about 10 km from Kappad."
+   },
+   {
+    "icon": "tag",
+    "title": "Hop off at Thiruvangoor.",
+    "body": "Buses on National Highway 66 between Kozhikode and Vadakara stop there, and you can reach the beach from it."
+   }
+  ],
+  "story": [
+   {
+    "era": "1498",
+    "title": "A famous landing",
+    "body": "A government stone monument at Kappakadavu commemorates the landing of Vasco da Gama in 1498.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2007",
+    "title": "A makeover",
+    "body": "Kerala's Tourism Minister Kodiyeri Balakrishnan launched a Rs. 1.5 crore programme to beautify the beach. It gave Kappad a corniche and a park with seating and a restaurant.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Blue Flag beach",
+    "body": "Kappad now holds Blue Flag status, a quiet beach and village near Koyilandy.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

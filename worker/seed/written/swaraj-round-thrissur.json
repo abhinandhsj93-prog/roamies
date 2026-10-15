@@ -1,0 +1,98 @@
+{
+ "query": "Swaraj Round, Thrissur",
+ "region": "kerala",
+ "name": "Swaraj Round",
+ "draft": {
+  "briefing": "Hey, you're at Swaraj Round! This roughly 2 km ring road circles the 65-acre Thekkinkadu Maidan, with the Vadakkunnathan Temple to Shiva on the hillock in the middle. It's one of the biggest roundabouts in South Asia, fed by seventeen roads.",
+  "hungryLine": "My notes don't cover Thrissur's eateries, so follow the crowds along the Round, it's the city's busiest shopping strip.",
+  "moodReplies": {
+   "show-me-around": "Thekkinkadu Maidan is a 5 min walk, Shakthan Thampuran Palace about 7 min, and Jos Theatre, Kerala's first permanent cinema, about 9 min.",
+   "somewhere-to-chill": "Wander onto Thekkinkadu Maidan, the big open ground around the temple, and slow down for a bit.",
+   "surprise-me": "The Basilica of Our Lady of Dolours here has the Bible tower, 79 metres high and called the tallest church tower in Asia."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Thekkinkadu Maidan",
+     "detail": "5 min walk · The 65-acre ground around Vadakkunnathan Temple",
+     "status": {
+      "text": "Non-Hindus can't enter the temple",
+      "tone": "warning"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Shakthan Thampuran Palace",
+     "detail": "7 min walk · Kerala-Dutch palace, now a museum",
+     "status": {
+      "text": "10AM to 4PM, no entry fee",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Jos Theatre",
+     "detail": "9 min walk · Kerala's first permanent cinema",
+     "status": {
+      "text": "Still screening films",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Vadakkunnathan Temple",
+    "title": "Feeding the elephants",
+    "body": "On the first day of Karkkidakam, around July, the temple holds Aanayoottu, a feast for elephants. It's a festival all of its own."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come for Pooram in April or May.",
+    "body": "Thrissur Pooram brings caparisoned elephants, parasol exchanges and midnight fireworks, all visible from the streets."
+   },
+   {
+    "icon": "tag",
+    "title": "Bring your passport for Pooram.",
+    "body": "Tourists can sometimes get free guest platform tickets at the tourist office, about 10 minutes north of the temple."
+   }
+  ],
+  "story": [
+   {
+    "era": "Ancient times",
+    "title": "A meeting point",
+    "body": "Thrissur, once called Thrissivaperur, was a point of contact for Assyrians, Greeks, Persians, Arabs and Romans, and later the Portuguese, Dutch and English. It was once the capital of the Kingdom of Cochin.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1795",
+    "title": "Sakthan Thampuran",
+    "body": "Ramavarma Thampuran, known as Sakthan Thampuran, rebuilt his palace in Kerala-Dutch style in 1795 and built the Vadakkechira pond. He also split the temples into Paramekkavu and Thiruvambady sides for Thrissur Pooram.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1836 to 1845",
+    "title": "Old schools",
+    "body": "The Government Model school for boys opened in 1836, the oldest in the district, and CMS missionaries started their school right by the Round in 1845.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1875",
+    "title": "Puthen Palli",
+    "body": "The Basilica of Our Lady of Dolours was built in 1875, and locals call it Puthen Palli. Its huge interior is covered in murals.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Today",
+    "title": "City of Celebrations",
+    "body": "Thrissur is called the cultural capital of Kerala, with its arts academies around the city centre. Walk the Round and tell me which spot you liked best.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": []
+ }
+}

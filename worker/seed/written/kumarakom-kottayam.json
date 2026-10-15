@@ -1,0 +1,103 @@
+{
+ "query": "Kumarakom, Kottayam",
+ "region": "kerala",
+ "name": "Kumarakom",
+ "draft": {
+  "briefing": "Hey, you're in Kumarakom! It's a cluster of small islands on Vembanad, the largest lake in Kerala. The old Baker family house here is the 'History House' from Arundhati Roy's The God of Small Things.",
+  "hungryLine": "Karimeen pollichathu, pearl spot fish grilled in banana leaf over coal, is the dish here, and the little toddy shops at R-block do great seafood if your boat stops there.",
+  "moodReplies": {
+   "show-me-around": "Start at the bird sanctuary on the banks of Vembanad Lake, then look in at the Bay Island Driftwood Museum.",
+   "somewhere-to-chill": "Take a backwater boathouse ride. It's what Kumarakom is most loved for, and it works for a couple or a big group.",
+   "surprise-me": "Four generations of the British Baker family lived here until 1962, speaking Malayalam and even wearing the mundu."
+  },
+  "seeFirst": {
+   "caption": "Around Kumarakom",
+   "spots": [
+    {
+     "name": "Bird Sanctuary",
+     "detail": "On Vembanad Lake · A favourite haunt of migratory birds",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "100-Acre Water Lily Flower Farms",
+     "detail": "Malarikkal · Fields of pink water lilies",
+     "status": {
+      "text": "August and September only",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Bay Island Driftwood Museum",
+     "detail": "In Kumarakom · Art from driftwood",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kumarakom",
+    "title": "Kari Saipu",
+    "body": "Locals called the missionary Alfred George Baker 'Kari Saipu', maybe a twist on 'Baker Sahib'. Arundhati Roy used the name in her novel too."
+   },
+   {
+    "where": "The toddy shops",
+    "title": "Take the thickest piece",
+    "body": "There's a local saying: 'If thou are in the land of rat snake stew, thou shalt choose the thickest piece.' Some toddy shops still serve frog legs and crane fry if you're brave."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "See the lilies at dawn.",
+    "body": "The water lily farms bloom only in August and September, and the flowers wilt once the sun gets on them."
+   },
+   {
+    "icon": "tag",
+    "title": "Ask for a good chef on your boat.",
+    "body": "Boat rentals aren't cheap, so book with a reliable company and ask for a chef who knows the local food."
+   }
+  ],
+  "story": [
+   {
+    "era": "Missionary days",
+    "title": "Kari Saipu's house",
+    "body": "British missionary Alfred George Baker built a house here. His family would stay for four generations.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1925",
+    "title": "A school",
+    "body": "One of the Baker daughters started the Baker Memorial School in Kottayam.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1962",
+    "title": "The Bakers leave",
+    "body": "The last Bakers moved out, and the house slowly fell into ruin.",
+    "illustration": "palace"
+   },
+   {
+    "era": "The novel",
+    "title": "The God of Small Things",
+    "body": "Arundhati Roy set her book in Ayemenem, right next door, and made the Baker house her 'History House'. The Taj group later restored it as a hotel, and the book's success brought more visitors.",
+    "illustration": "palace"
+   },
+   {
+    "era": "January 2023",
+    "title": "In the news",
+    "body": "The New York Times wrote about Kumarakom's backwater tourism.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

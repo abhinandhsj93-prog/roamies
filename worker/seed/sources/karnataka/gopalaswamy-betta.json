@@ -1,0 +1,53 @@
+{
+ "query": "Gopalaswamy Betta",
+ "found": "Gopalaswami Temple, Gopal Swami Betta road, Hangala, Gundlupet taluk, Chamarajanagar, Karnataka, India",
+ "lat": 11.7205885,
+ "lon": 76.5803795,
+ "fetchedAt": "2026-10-12T18:30:43.726Z",
+ "locality": {
+  "id": "hangala-chamarajanagar-karnataka",
+  "name": "Hangala",
+  "area": "Gundlupet taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Hangala": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mariamma_Temple%2C_Hangala%2C_Gundlupet.jpg/1280px-Mariamma_Temple%2C_Hangala%2C_Gundlupet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Hangala",
+   "credit": "Photo: Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mariamma_Temple,_Hangala,_Gundlupet.jpg"
+  },
+  "Gopalaswamy Hills": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Gopalswamy_Betta.jpg/1280px-Gopalswamy_Betta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Gopalaswamy Hills",
+   "credit": "Photo: KshitizBathwal, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gopalswamy_Betta.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Hangala",
+   "text": "Hangala  is a village in the southern state of Karnataka, India. It is located in the Gundlupet taluk of Chamarajanagar district.\n\n\n== Demographics ==\nAs of 2001 India census, Hangala had a population of 5,597 with 2,835 males and 2,762 females.\n\n\n== Country Code and STD Code ==\n+91 08229\n\n\n== Tourist attractions ==\nGopalaswamy Hills is 18 km from Hangala.\n\n\n== Image gallery ==\n\n\n== See also ==\nChamarajanagar\nDistricts of Karnataka\n\n\n== References ==\n\n\n== External links ==\nhttp://Chamarajanagar.nic.in/",
+   "url": "https://en.wikipedia.org/wiki/Hangala"
+  },
+  {
+   "title": "Gopalaswamy Hills",
+   "text": "Himavad Gopalaswamy Betta, is a hill (betta in Kannada) located in the Gundlupete Taluk, Chamarajanagar district of the state of Karnataka, India at a height of 1450m and is extensively wooded. It is also the highest peak in the Bandipur National Park. It lies in the core area of the Bandipur National Park and is frequented by wild life including elephants. Dense fog predominates and covers the hills round the year and thus gets the prefix Himavad (in the language of Kannada) and the temple of Venugopalaswamy (Krishna) gives the full name of Himavad Gopalaswamy Betta.\nIts geographic coordinates are: Latitude 12.97°Ne and longitude 77.56°E.",
+   "url": "https://en.wikipedia.org/wiki/Gopalaswamy_Hills"
+  }
+ ],
+ "sights": [
+  {
+   "name": "Gopalaswamy Hills",
+   "kind": "landmark",
+   "walkMinutes": 9,
+   "lat": 11.716666666666667,
+   "lon": 76.58333333333333
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504"
+ ]
+}

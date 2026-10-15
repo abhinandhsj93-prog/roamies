@@ -1,0 +1,92 @@
+{
+ "query": "Borivali, Mumbai",
+ "region": "maharashtra",
+ "name": "Borivali",
+ "draft": {
+  "briefing": "Hey, you're in Borivali! The station a minute away is the busiest on Mumbai's western suburban line, used by about 2.87 lakh people every day. Yet this suburb is also the doorway to Sanjay Gandhi National Park and the ancient Kanheri Caves.",
+  "hungryLine": "My notes don't name any eateries around here, so ask a local near the station where they like to eat.",
+  "moodReplies": {
+   "show-me-around": "Walk 14 min to Devipada and its popular Shree Gajanan Maharaj Mandir, or head out to the Mandapeshwar Caves near Mount Poinsur.",
+   "somewhere-to-chill": "Climb Hanuman Tekdi or visit Rushivan for views out over the suburbs.",
+   "surprise-me": "The Mandapeshwar Caves started out as Buddhist viharas before becoming a rock-cut shrine to Shiva."
+  },
+  "seeFirst": {
+   "caption": "Around Borivali",
+   "spots": [
+    {
+     "name": "Devipada",
+     "detail": "14 min walk · Busy neighbourhood with the much-loved Shree Gajanan Maharaj Mandir",
+     "status": {
+      "text": "Dress modestly at the temple",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Mandapeshwar Caves",
+     "detail": "Short drive · Old rock-cut Shiva shrine near Mount Poinsur",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Our Lady of Immaculate Conception Church",
+     "detail": "Short drive · Church in I.C. Colony with services dating back to 1547",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Grab a seat at the start.",
+    "body": "Borivali is a terminus for local trains, so you can board here for Churchgate or Virar."
+   },
+   {
+    "icon": "tag",
+    "title": "Expect a crowded station.",
+    "body": "Borivali is the busiest station on the western suburban line, so give yourself extra time."
+   }
+  ],
+  "story": [
+   {
+    "era": "6th to 8th century",
+    "title": "Caves become a shrine",
+    "body": "The Mandapeshwar Caves were cut into the rock as Buddhist viharas. Later they became a shrine dedicated to Shiva.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1544",
+    "title": "A Portuguese-era church",
+    "body": "Fr. Antonio Do Porto and a companion reportedly built the church in what's now I.C. Colony in 1544. Worship began in 1547 and the parish ran until 1739.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1912",
+    "title": "The parish returns",
+    "body": "Our Lady of the Immaculate Conception became a parish again in 1912. I.C. Colony around it takes its name from the church.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1933",
+    "title": "A three-language school",
+    "body": "Sheth Gopalji Hemraj High School opened in Borivali East, teaching in Gujarati, English and Marathi. It's one of the oldest schools in Mumbai.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "2022",
+    "title": "Metro arrives",
+    "body": "Metro stations like Devipada, Magathane and Rashtriya Udyan opened on 2 April 2022. They sit on the Red Line 7 north-south corridor.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "query": "Kozhikode Beach, Kozhikode",
+ "region": "kerala",
+ "name": "Kozhikode Beach",
+ "draft": {
+  "briefing": "Hey, you're at Kozhikode Beach! In medieval times this was one of the most important ports in the world, visited by everyone from Marco Polo and Ibn Batuta to Zheng He and Vasco da Gama. In 2023, UNESCO named Kozhikode India's first City of Literature.",
+  "hungryLine": "Head for S.M. Street, short for Sweetmeat Street, the busiest shopping street in Kerala, and follow your nose.",
+  "moodReplies": {
+   "show-me-around": "Calicut Beach is a 7 min walk, Mananchira Square about 20 min, and SM Street Market around 23 min on foot.",
+   "somewhere-to-chill": "Stroll the beach promenade south from All India Radio. It's paved and lit up in the evening.",
+   "surprise-me": "Tucked in among the shops on S.M. Street is a 160-year-old fire temple."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Calicut Beach",
+     "detail": "7 min walk · Paved, lit up, with a Lions Park and an aquarium",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mananchira Square",
+     "detail": "20 min walk · Spring-fed pond, statues and 250 colonial lamp posts",
+     "status": {
+      "text": "Free, opens after 2PM",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "SM Street Market",
+     "detail": "23 min walk · Pedestrian shopping street, Kerala's busiest",
+     "status": {
+      "text": "Very crowded",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Kozhikode port",
+    "title": "Gateway to the coast",
+    "body": "Locals love to tell you who came through here: Chinese, Persians, Arabs and finally Europeans. Marco Polo, Ibn Batuta, Zheng He and Vasco da Gama all made it to Kozhikode."
+   },
+   {
+    "where": "Gandhi Road",
+    "title": "The road that changed its name",
+    "body": "Gandhi visited Kozhikode in 1934, and the beach road was renamed Gandhi Road after him. The beach has been the city's spot for public meetings ever since."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Visit Mananchira after 2PM.",
+    "body": "The park gate only opens in the afternoon, and entry is free."
+   },
+   {
+    "icon": "tag",
+    "title": "Ask before entering Mishkal Mosque.",
+    "body": "Non-Muslims need special permission to go inside, but the view from across the pond is the best anyway."
+   }
+  ],
+  "story": [
+   {
+    "era": "Medieval times",
+    "title": "City of Spices",
+    "body": "Kozhikode was the major trading point for Indian spices. It was the capital of the Samoothiris, or Zamorins, the largest kingdom in Kerala before Travancore grew in the mid-1700s.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1793",
+    "title": "Kerala's oldest school",
+    "body": "St. Joseph's Boys' school opened in Kozhikode. It's the oldest school in Kerala.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1847",
+    "title": "A light on the coast",
+    "body": "The first lighthouse went up, 33 metres tall. The current one was built in 1907.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1934",
+    "title": "Gandhi comes to town",
+    "body": "After Gandhi's visit, the beach road was renamed Gandhi Road. The beach stayed the place for big public meetings.",
+    "illustration": "flood"
+   },
+   {
+    "era": "2023",
+    "title": "City of Literature",
+    "body": "UNESCO recognised Kozhikode as India's first City of Literature. Not bad for an old spice port.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

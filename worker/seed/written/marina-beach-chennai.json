@@ -1,0 +1,103 @@
+{
+ "query": "Marina Beach, Chennai",
+ "region": "tamilnadu",
+ "name": "Marina Beach",
+ "draft": {
+  "briefing": "Hey, you're at Marina Beach! This sandy stretch runs 6 km from near Fort St. George down to Foreshore Estate, and right behind it sit Triplicane and Mylapore, two neighbourhoods that are older than the city of Chennai itself. Triplicane even shows up in records from the Pallava period.",
+  "hungryLine": "Locals love packing dinner and having an evening picnic on the sand, and Chennai's tiffin and vegetarian meals places are never far away.",
+  "moodReplies": {
+   "show-me-around": "Vivekanandar Illam is a 9 min walk along the beach road, and the 6th-century Parthasarathy Temple in Triplicane is about 12 minutes away. Hop in an auto to Mylapore Tank for a wander around Kapaleeshwarar Temple.",
+   "somewhere-to-chill": "Come back to the sand between 7 and 9 in the evening, when the heat drops and families spread out with dinner. Early risers get a lovely sunrise and a breeze around 6 to 8 in the morning.",
+   "surprise-me": "Vivekanandar Illam was once an ice house, built in 1842 by Frederic Tudor. Swami Vivekananda stayed there in 1897 and it was later renamed after him."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Vivekanandar Illam",
+     "detail": "9 min walk · The old Ice House, now an exhibition on Vivekananda's life",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Parthasarathy Temple",
+     "detail": "12 min walk · One of Chennai's oldest structures, built by the Pallavas in the 6th century",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Chepauk Palace",
+     "detail": "19 min walk · Indo-Saracenic home of the Nawab of Arcot from 1768 to 1855",
+     "status": {
+      "text": "Best seen from outside",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Mylapore",
+    "title": "The peahen's town",
+    "body": "The story goes that Parvati worshipped Shiva here in the form of a peahen, mayil in Tamil. That's how the area around Kapaleeshwarar Temple got the name Mylai."
+   },
+   {
+    "where": "Mylapore",
+    "title": "Birthplace of poets and saints",
+    "body": "Mylapore is said to be where Valluvar, the great Tamil philosopher, and the Alvar saint Peyalvar were born. Christians also believe St. Thomas the Apostle was martyred here."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Don't swim here.",
+    "body": "Bathing and swimming at the Marina are banned because the undercurrent is very rough, so enjoy the waves from the sand."
+   },
+   {
+    "icon": "sun",
+    "title": "Go in the evening or at dawn.",
+    "body": "Daytime gets very hot and humid, and nobody is allowed on the beach after 10 PM, so aim for 7 to 9 PM or 6 to 8 AM."
+   }
+  ],
+  "story": [
+   {
+    "era": "500s",
+    "title": "A Pallava temple",
+    "body": "King Narasimhavarman I of the Pallavas built the Parthasarathy Temple in Triplicane. Its name means the charioteer of Arjuna, and it is counted among the 108 Divya Desams of Vishnu.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1523",
+    "title": "A church over a tomb",
+    "body": "The Portuguese built San Thome Church in Mylapore over what is believed to be the tomb of St. Thomas the Apostle. It was rebuilt in neo-Gothic style and consecrated in 1896.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1600s",
+    "title": "Madras grows",
+    "body": "Triplicane was the first village the English got to expand Madras beyond the White Town inside Fort St. George. Around the same time, the present Kapaleeshwarar Temple in Mylapore was built.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1700s to 1800s",
+    "title": "The Nawabs' quarter",
+    "body": "The Nawab of Arcot lived at Chepauk Palace from 1768 to 1855, and his family finished the granite Triplicane Big Mosque in 1795. In 1842 an ice house went up on the beach road, later renamed Vivekanandar Illam.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Chennai's front yard",
+    "body": "The Marina pulls about 30,000 people a day on weekdays and 50,000 on weekends and holidays. Next door, Chepauk Stadium, set up in 1916, is home ground for the Chennai Super Kings.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

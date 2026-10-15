@@ -1,0 +1,75 @@
+# state: Karnataka
+# Major Karnataka places. One Nominatim search query per line, grouped by region.
+# Bengaluru
+MG Road, Bengaluru
+Cubbon Park, Bengaluru
+Lalbagh, Bengaluru
+Bangalore Palace, Bengaluru
+Basavanagudi, Bengaluru
+Malleshwaram, Bengaluru
+Indiranagar, Bengaluru
+Koramangala, Bengaluru
+Jayanagar, Bengaluru
+Whitefield, Bengaluru
+Nandi Hills @ 13.3702,77.6835
+# Mysuru region
+Mysore Palace, Mysuru
+Chamundi Hills, Mysuru
+Srirangapatna
+Brindavan Gardens
+Ranganathittu Bird Sanctuary @ 12.4244,76.6568
+Somanathapura
+Talakadu
+Bandipur @ 11.6670,76.6340
+Gopalaswamy Betta
+Nagarhole
+Kabini @ 11.9407,76.3480
+# Kodagu and Malnad
+Madikeri
+Kushalnagar
+Bylakuppe
+Bhagamandala
+Chikmagalur
+Mullayanagiri
+Kudremukh
+Sringeri
+Horanadu
+Agumbe
+Shivamogga
+Jog Falls @ 14.2293,74.8129
+Sakleshpur
+Belur
+Halebidu @ 13.2130,75.9945
+Shravanabelagola
+Hassan @ 13.0068,76.0996
+# Coast
+Mangaluru
+Udupi @ 13.3409,74.7421
+Malpe
+Manipal
+Kollur
+Murudeshwar @ 14.0943,74.4848
+Gokarna
+Karwar
+Dandeli
+Yana
+Kundapura
+Dharmasthala
+Kukke Subramanya @ 12.6644,75.6150
+Sirsi
+# North Karnataka
+Hampi
+Hospet
+Anegundi
+Badami
+Aihole
+Pattadakal
+Bijapur
+Bidar @ 17.9230,77.5274
+Gulbarga
+Hubli
+Dharwad
+Belgaum
+Gokak Falls
+Chitradurga @ 14.2187,76.4019
+Raichur @ 16.2076,77.3463

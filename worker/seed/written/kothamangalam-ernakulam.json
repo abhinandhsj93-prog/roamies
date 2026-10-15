@@ -1,0 +1,103 @@
+{
+ "query": "Kothamangalam, Ernakulam",
+ "region": "kerala",
+ "name": "Kothamangalam",
+ "draft": {
+  "briefing": "Hey, you're in Kothamangalam! People call this mountain town the Entrance of High Range, and it's packed with a dozen churches, half a dozen ancient temples and a few old mosques. Out here in Kuttampuzha, one forest panchayat covers 17.7% of all of Ernakulam district.",
+  "hungryLine": "I don't have a named restaurant for you here, so follow the locals to a Kerala meals spot in Kothamangalam town.",
+  "moodReplies": {
+   "show-me-around": "Go birdwatching at the Salim Ali Wild Life Sanctuary in Thattekkad, then take a boat out at Bhoothathan Kettu.",
+   "somewhere-to-chill": "Catch a morning bus up to Mamalakandam, a very green mountain village on the Western Ghats.",
+   "surprise-me": "Kuttampuzha was part of Idukki until 1998. Moving it to Ernakulam gave Ernakulam its border with Tamil Nadu."
+  },
+  "seeFirst": {
+   "caption": "Short drives from town",
+   "spots": [
+    {
+     "name": "Salim Ali Wild Life Sanctuary",
+     "detail": "14 km from Kothamangalam · Rare birds at Thattekkad",
+     "status": {
+      "text": "Best early morning",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Bhoothathan Kettu",
+     "detail": "10 km from Kothamangalam · Dam, boating and a forest trek",
+     "status": {
+      "text": "Check boating timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mamalakandam Village",
+     "detail": "Bus from Kothamangalam · A green mountain village",
+     "status": {
+      "text": "Morning buses only",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Bhoothathan Kettu",
+    "title": "A dam built by a bhootham",
+    "body": "Legend says the old dam here was built out of rocks by a Bhootham, a spirit. That's where the name Bhoothathan Kettu comes from."
+   },
+   {
+    "where": "Kothamangalam",
+    "title": "Gateway to the hills",
+    "body": "Locals call Kothamangalam the Entrance of High Range, because the mountains start here. Its many churches, temples and mosques make it a big pilgrim centre too."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch the early bus.",
+    "body": "Buses to Mamalakandam leave Kothamangalam at 8.25 am and 10.05 am."
+   },
+   {
+    "icon": "tag",
+    "title": "Bring binoculars.",
+    "body": "Exotic birds flock to the Thattekkad sanctuary, so you'll want to get a closer look."
+   }
+  ],
+  "story": [
+   {
+    "era": "Before 1998",
+    "title": "An Idukki village",
+    "body": "Kuttampuzha, with its thick forests, belonged to Idukki district. A big part of its people, 17.2%, are tribal communities.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1998",
+    "title": "Borders redrawn",
+    "body": "District borders changed and Kuttampuzha moved to Ernakulam. That let Ernakulam touch Tamil Nadu and become part of the Anamalais.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2010",
+    "title": "A new panchayat",
+    "body": "Edamalakkudy panchayat was formed, splitting off part of Kuttampuzha.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2011",
+    "title": "A huge village",
+    "body": "The census found 24,799 people spread over 448 square kilometres, with literacy at 89.4%.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Watch birds at Thattekkad, boat at Bhoothathan Kettu, then ride up to Mamalakandam. Tell me which bird you spotted first.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

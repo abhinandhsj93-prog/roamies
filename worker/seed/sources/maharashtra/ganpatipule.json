@@ -1,0 +1,40 @@
+{
+ "query": "Ganpatipule",
+ "found": "Ganpatipule, Ratnagiri Taluka, Ratnagiri, Maharashtra, 415615, India",
+ "lat": 17.1466952,
+ "lon": 73.2697524,
+ "fetchedAt": "2026-10-12T18:53:35.190Z",
+ "locality": {
+  "id": "ganpatipule-ratnagiri-maharashtra",
+  "name": "Ganpatipule",
+  "area": "Ratnagiri Taluka, Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Ganpatipule": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/A_Beach_at_GanapatiPule.jpg/1280px-A_Beach_at_GanapatiPule.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Ganpatipule",
+   "credit": "Photo: Dmpendse (talk) (Uploads), Public domain, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Beach_at_GanapatiPule.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Ganpatipule",
+   "text": "Ganpatipule (Marathi: गणपतीपुळे) is a coastal town in  Ratnagiri district of Maharashtra. Due to its Ganpati mandir, the town is a popular Hindu pilgrimage and tourist destination. \nThe town is situated near Ratnagiri city, which is the seat of its namesake district. Chiplun town is located on its north side.\n\n\n== Etymology ==\nAccording to local folklore, the Hindu god Ganpati, taking umbrage at a remark made by a native lady, moved to Pulé पुळे ( transl. Forward) from his original abode of Gulé. Thus, the region was named Ganpati-pulé.\nThe 400-year-old Ganpati idol at Ganpatipule is said to have sprung up from the soil. \n\n\n== Ganpatipule mandir ==\n\nGanpatipule town is a small town with about 100 houses, situated approximately 375 km south of Mumbai city, along the Konkan Coast. The beach near the town is a popular tourist destination. \nThe Ganpatipule temple has a Swayambhu murti. Every year, thousands of devotees across Maharashtra visit the temple. The murti faces West. Ganapatipule town is rich in flora; it has plenty of mangroves and coconut trees.\nThe Ganapatipule Grampanchayat governs the town.\n\n\n== Climate ==\n\nAfter March, the temperature rises but rarely crosses 30 °C. May is the...",
+   "url": "https://en.wikipedia.org/wiki/Ganpatipule"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Ganpatipule",
+  "text": "Ganpatipule is in South Konkan.\n\n\n== See ==\n\nGanpati Temple, on the Ganapatipule beach itself is the primary attraction in Ganapatipule that draws thousands of pilgrims every year to this village.\nGanapatipule with a series of pristine beaches apart from the Ganapatipule beach itself makes Ganapatipule an ideal holiday destination for a beach lover. The twin beaches of Aare - Ware and The Malgund beach flanks either sides of the Ganapatipule beach. There are many other attraction apart from the beaches and the Ganapati temple in Ganapatipule.\nMalgund at a distance of 2 km from Ganapatipule is the birthplace of the famous Marathi poet Keshavsut and houses the memorial of the great poet. The Jaigad fort about 15 km from Ganapatipule offer some beautiful sea views and the drive to Jaigad is also a great experience with the sea on one side of the road for most part of the drive. Now in ruins, the bastions of this famous 17th century fort offers spectacular views of the village and the sea. Jaigad fort overlooks the confluence of River Sangameshwar and the Arabian sea.\nPrachin Konkan - a life size museum set up by Mr. Sardesai and aided by the government. It is a unique approach to show the old culture and customs from the Konkan area. This set up shows the houses, costumes, ways of livelihood and lifestyle in ancient Konkan.\n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Ganpatipule"
+ },
+ "sights": [],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,3 @@
+Puducherry -> Cuddalore: 3 wiki, voyage, 2 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504
+Thanjavur -> Arulananda Nagar: 13 wiki, voyage, 15 sights, 0 food, 8 photos, errors overpass food: overpass-api.de 504
+Kolli Hills -> Semmedu: 2 wiki, no voyage, 0 sights, 0 food, 2 photos, errors overpass sights: overpass-api.de 504/overpass food: overpass-api.de 504

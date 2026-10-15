@@ -1,0 +1,81 @@
+{
+ "query": "Dharmasthala",
+ "found": "Dharmasthala, Beltangadi taluk, Dakshina Kannada, Karnataka, 574216, India",
+ "lat": 12.9519571,
+ "lon": 75.3813122,
+ "fetchedAt": "2026-10-12T18:39:35.097Z",
+ "locality": {
+  "id": "dharmasthala-dakshina-kannada-karnataka",
+  "name": "Dharmasthala",
+  "area": "Beltangadi taluk, Karnataka",
+  "state": "Karnataka",
+  "country": "India"
+ },
+ "photos": {
+  "Dharmasthala": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Dharmasthala_Temple.jpg/1280px-Dharmasthala_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dharmasthala",
+   "credit": "Photo: Vedamurthy J, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharmasthala_Temple.jpg"
+  },
+  "Dharmasthala Temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Dharmasthala_1.jpg/1280px-Dharmasthala_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Dharmasthala Temple",
+   "credit": "Photo: Naveenbm at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharmasthala_1.jpg"
+  },
+  "Manjusha Museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Manjusha_Museum%2C_Dharmasthala_%282025%29_07.jpg/1280px-Manjusha_Museum%2C_Dharmasthala_%282025%29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Manjusha Museum",
+   "credit": "Photo: Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manjusha_Museum,_Dharmasthala_(2025)_07.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Dharmasthala",
+   "text": "Dharmasthala () (earlier known as Kuduma) is an Indian temple town on the banks of the Nethravathi River in the taluk of Belthangady of the Dakshina Kannada or southern district in Karnataka, India.  \nThe town is known for its centuries-old Dharmasthala Temple, devoted to the Hindu god Manjunatha. Some other temples and shrines are dedicated to Ammanavaru, Chandranath and the Dharma Daivas (guardian spirits of Dharma) — Kalarahu, Kalarkayi, Kumaraswamy and Kanyakumari. The temple is unusual, as it is a Hindu temple run by a Jain administration, and poojas are conducted by Hindu priests who follow the Vaishnava ideologies. Most Shiva temples are run by Shaivas as opposed to the Madhva Brahmins, devotees of Vishnu and his avatars. On average, the temple attracts around 2,000 pilgrims a day.\nIn July 2025, allegations were made of mass graves at Dharmasthala containing the bodies of several missing women and children. A Dalit caretaker said he was forced to bury hundreds of victims of rape and murder at the temple between 1996 and 2014.  However, the complainant was arrested for perjury on 23 August 2025 after the skull and bones alleged to be of a female were found upon forensic investigation...",
+   "url": "https://en.wikipedia.org/wiki/Dharmasthala"
+  },
+  {
+   "title": "Dharmasthala Temple",
+   "text": "Dharmasthala Temple (Shri Kṣhētra Dharmasthala) is an 800-year-old Hindu religious institution in the temple town of Dharmasthala in Dakshina Kannada, Karnataka, India. The deities of the temple are Hindu god Shiva, who is referred to as Mañjunatha, Hindu goddess Ammanavaru (meaning mother), the Tirthankara Chandraprabha and the protective gods of Jainism, Kalarahu, Kalarkayi, Kumarasvami and Kanyakumari. The temple was reconsecrated in 16th century by Hindu Dvaita saint Vadiraja Tirtha by the request of the then administrator of the temple, Devaraja Heggade. The temple is considered unique, since the priests in the temple are Madhwa Brahmins, who are Vaishnava, and the administration is run by a Jain Bunt family called the Pergades.",
+   "url": "https://en.wikipedia.org/wiki/Dharmasthala_Temple"
+  },
+  {
+   "title": "Manjusha Museum",
+   "text": "Manjusha Museum is in the town of Dharmasthala in Karnataka state, India. It houses antiques, paintings, artifacts, temple chariots, and vintage cars collected from temples across Karnataka. The  museum is south of the Dharmasthala Temple. It was founded by Veerendra Heggade.",
+   "url": "https://en.wikipedia.org/wiki/Manjusha_Museum"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Dharmasthala",
+  "text": "Dharmasthala (ಧರ್ಮಸ್ಥಳ), literally a \"religious place\", is a temple town in Dakshina Kannada, on the banks of the Netravati River. While the town has earned headlines in late 2025 due to the disturbing allegations of mass graves of raped women and children, Dharmasthala is otherwise home to a popular Hindu temple and two museums.\n\n\n== See ==\n1 Dharmasthala Temple. An 800-year-old Hindu-Jain temple with idols of Hindu deities Manjunatha (Shiva) and Ammanavaru, as well as Tirthankara Chandraprabha. While the priests in the temple are Vaishnavite Madhwa Brahmins, the administration is run by a Jain Bunt family called the Pergades. (updated Jun 2026)\n2 Manjusha Museum, manjushamuseum@gmail.com. Founded by temple head Veerenda Heggade, the museum houses antiques, paintings, artefacts and temple chariots, collected from temples across Karnataka. (updated Jun 2026)\n3 Manjusha Car Museum. Another museum founded by the same person, housing vintage cars. (updated Jun 2026)\n4 Lalithodyana Aquarium.  (updated Jun 2026)\n5 Bahubali Statue.  (updated Jun 2026)\n\n\n== Do ==\n1 Lalithodyana Park.  (updated Jun 2026)\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Dharmasthala"
+ },
+ "sights": [
+  {
+   "name": "Manjusha Museum",
+   "kind": "museum",
+   "walkMinutes": 2,
+   "lat": 12.9510623,
+   "lon": 75.3821411
+  },
+  {
+   "name": "Shri Kshetra Dharmasthala",
+   "kind": "place_of_worship",
+   "walkMinutes": 3,
+   "lat": 12.9503489,
+   "lon": 75.3805616
+  },
+  {
+   "name": "Baghavan Bahubali Statue",
+   "kind": "place_of_worship",
+   "walkMinutes": 8,
+   "lat": 12.9553045,
+   "lon": 75.3787059
+  }
+ ],
+ "food": [],
+ "errors": []
+}

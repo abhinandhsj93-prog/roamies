@@ -1,0 +1,66 @@
+{
+ "query": "Vythiri, Wayanad",
+ "found": "Vythiri, Wayanad, Kerala, India",
+ "lat": 11.5560885,
+ "lon": 76.038922,
+ "fetchedAt": "2026-10-12T18:04:28.595Z",
+ "locality": {
+  "id": "old-vythiri-wayanad-kerala",
+  "name": "Old Vythiri",
+  "area": "Wayanad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Pookode Lake": {
+   "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/PookodeLake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Pookode Lake",
+   "credit": "Photo: Unknown, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:PookodeLake.jpg"
+  },
+  "Vythiri": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Kerala_Veterinary_and_Animal_Sciences_University_05918.JPG/1280px-Kerala_Veterinary_and_Animal_Sciences_University_05918.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Vythiri",
+   "credit": "Photo: Vengolis, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerala_Veterinary_and_Animal_Sciences_University_05918.JPG"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Pookode Lake",
+   "text": "Pookode Lake is a scenic freshwater lake in the Wayanad district in Kerala, South India. A major tourist destination in the district, Pookode is a natural freshwater lake nestling amid evergreen forests and mountain slopes at an elevation of 770 meters above sea level. It is 15 km away from Kalpetta. It is the smallest and highest elevation freshwater lake in Kerala.",
+   "url": "https://en.wikipedia.org/wiki/Pookode_Lake"
+  },
+  {
+   "title": "Vythiri",
+   "text": "Vythiri is a town and a taluk located in Wayanad district in the Indian state of Kerala. Along with Mananthavady and Sulthan Bathery, it is one of the three taluks in the district. Vythiri spans a total area of 2.084 sq. km. and is a tourist destination.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Vythiri"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Wayanad",
+  "text": "Wayanad  is a beautiful mountainous district in the Malabar region of  Kerala located on the western ghats. It is sparsely populated and rural, with most of the land area covered with forests. The district abounds with hill stations, wildlife sanctuaries, rivers, dams, tea estates and trekking opportunities, with temples and heritage locations thrown in for good measure. Spread over 2,132 square kilometres, the district lies at an elevation of 700 metres, with its highest point reaching 2,100. \nWayanad borders Karnataka to its east and Tamil Nadu to its southeast. The districts of Kozhikode, Kannur and Malappuram form its eastern, northern and southern borders respectively. Wayanad is a popular weekend destination for travellers from Bangalore and Mysore. \n\n\n== See ==\nThe attractions in this region can be broadly categorized into three based on proximity. A 3-4 day tour allows covering all or most of these attractions. For further info, refer details on each town.\n\n\n=== Kalpetta area ===\nBanasura Sagar Dam\nChembra Hills.\nKarappuzha Dam\nMeenmutty Falls\nPookode Lake\nMeppadi Hills\n\n\n=== Sultan Bathery area ===\nJain Temple\nTholpetty Sanctuary\nAgricultural University\nPazhassi's Cave, Cherambadi\nEdakkal Caves\nWayanad (Muthanga) wildlife sanctuary\n\n\n=== Mananthavady area ===\nKuruva Islands\nLatin Church\nPakshipathalam\nPazhassi Raja Museum\nThirunelli Temple\nKutta Forest\nNagarhole National Park\nPulpally - Bathery forest road\n\n\n== Do ==\nHiking in the hills\nWalking in the tea estates\nEnjoying lakes and rivers\nWatching the Wildlife\nWalking in the serene villages\n\n\n== Eat ==\n\nKerala food is available in restaurants.  European food is available in resorts and home stays only.\nBamboo rice (called Mulayari by locals) can be found in Wayanad. These are seeds of the Bamboo plant, richer in protein than rice and wheat, but tasting like rice. Bamboo rice payasam stalls can be spotted near Edakkal caves walkway. Bamboo is said to yield seeds after a long span, so it is said that harvesting bamboo rice is a 'once-in-a-lifetime' experience.\nHome-made chocolates and local Wayanad tea and coffee are also sold in many places. Shops near Edakkal caves offer many options such as spiced versions.\n\n\n== Drink ==\nBeer and wine are easily available.  Stronger drinks are prohibited. Kambalakkad though does not have beer- you'd have to get it from Kalpetta or a neighboring town.\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Wayanad"
+ },
+ "sights": [
+  {
+   "name": "Vythiri",
+   "kind": "landmark",
+   "walkMinutes": 12,
+   "lat": 11.54966,
+   "lon": 76.03638
+  },
+  {
+   "name": "Pookode Lake",
+   "kind": "landmark",
+   "walkMinutes": 32,
+   "lat": 11.5424566,
+   "lon": 76.0272233
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

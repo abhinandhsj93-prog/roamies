@@ -1,0 +1,123 @@
+{
+ "query": "Bangalore Palace, Bengaluru",
+ "region": "karnataka",
+ "name": "Bangalore Palace",
+ "draft": {
+  "briefing": "Hey, you're at Bangalore Palace! The palace grounds here are surrounded by old money, and just a 10 min walk away is Jayamahal Palace, which started out around 1892 as Arni Hall, owned by the Jagirdar of Arni in Tamil Nadu. Today it's a heritage hotel.",
+  "hungryLine": "For a proper meal head to Cunningham Road, and for a late-night cup of tea there's a 24 hour tea shop near Russell Market in Shivajinagar.",
+  "moodReplies": {
+   "show-me-around": "Jayamahal Palace Hotel is a 10 min walk, and the National Military Memorial is about 24 minutes on foot. Art fans should take a short drive to the Karnataka Chitrakala Parishath.",
+   "somewhere-to-chill": "Walk over to the National Military Memorial, a quiet memorial park honouring soldiers who died serving the nation.",
+   "surprise-me": "Anugraha, the Chief Minister's official home about 15 minutes from here, is believed to have a vaastu fault, and several chief ministers have had it renovated before moving in."
+  },
+  "seeFirst": {
+   "caption": "Around the palace grounds",
+   "spots": [
+    {
+     "name": "Jayamahal Palace Hotel",
+     "detail": "10 min walk · The old Arni Hall from around 1892, now a heritage hotel",
+     "status": {
+      "text": "Working hotel, be respectful",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "National Military Memorial",
+     "detail": "24 min walk · Memorial park set up in 2013 for the nation's fallen soldiers",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Karnataka Chitrakala Parishath",
+     "detail": "Short drive · 18 galleries, with Mysore paintings and leather puppets",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Anugraha",
+    "title": "The house with a vaastu fault",
+    "body": "Bengaluru folks say the Chief Minister's official residence has a vaastu fault. That's why several chief ministers insisted on renovations before they moved in."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Come in January for art.",
+    "body": "Each January the Chitrakala Parishath holds Chitra Santhe, a festival of affordable art with the motto Art for All."
+   },
+   {
+    "icon": "tag",
+    "title": "Expect two ticket prices.",
+    "body": "Bengaluru attractions often charge foreigners a lot more than locals, so don't be surprised at the gate."
+   }
+  ],
+  "story": [
+   {
+    "era": "1864",
+    "title": "Trains arrive",
+    "body": "Bengaluru Cantonment railway station opened with trains to Jolarpettai, run by the Madras Railway. The 149 km broad-gauge line linked the Cantonment to Vellore district.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Around 1892",
+    "title": "Arni Hall",
+    "body": "Jayamahal Palace was first known as Arni Hall, owned by the Jagirdar of Arni from Tamil Nadu. It's now a 4-star heritage hotel.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1956",
+    "title": "Blackpally becomes Shivajinagar",
+    "body": "The old Blackpally, also called Tasker Town or Dandu, was renamed Shivajinagar after the Maratha Emperor Shivaji. Councillor N R Murthy pushed for the name in the city corporation.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1965",
+    "title": "Gandhi Bhavan",
+    "body": "President S. Radhakrishnan opened Gandhi Bhavan, a museum with rare photos and letters of Mahatma Gandhi. It still hosts meetings on Gandhian values.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2013",
+    "title": "Remembering soldiers",
+    "body": "The Government of Karnataka set up the National Military Memorial to honour soldiers who died serving the nation and their families.",
+    "illustration": "palace"
+   }
+  ],
+  "food": [
+   {
+    "name": "Shezan",
+    "detail": "Cunningham Rd · Indian, Chinese and Continental, known for excellent steaks",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Savera Tea Shop",
+    "detail": "Near Russell Market, Shivajinagar · 24 hour tea, Suleimani and biscuits",
+    "status": {
+     "text": "Open 24 hours",
+     "tone": "open"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "query": "Kainakary, Alappuzha",
+ "found": "Kainakary, Kuttanad, Alappuzha, Kerala, 688501, India",
+ "lat": 9.4785813,
+ "lon": 76.3868499,
+ "fetchedAt": "2026-10-12T17:43:20.541Z",
+ "locality": {
+  "id": "kainakary-alappuzha-kerala",
+  "name": "Kainakary",
+  "area": "Kuttanad, Kerala",
+  "state": "Kerala",
+  "country": "India"
+ },
+ "photos": {
+  "Kainakary": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Punchiri_Jetti_Kainakari_Panchayath.jpg/1280px-Punchiri_Jetti_Kainakari_Panchayath.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Kainakary",
+   "credit": "Photo: Vinayaraj, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Punchiri_Jetti_Kainakari_Panchayath.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Kainakary",
+   "text": "Kainakary is a village in Kuttanad Taluk in Alappuzha District of the Indian state of Kerala.\n\n\n== History ==\nKainakary was part of the Chembakassery Dynasty.\n\n\n== Geography ==\nFive rivers originating from the Western Ghats, including the sacred Pamba River, drain into the Vembanad lake in the tip of Kainakary. Once a communist bastion, its literacy rate is notably better than many of its counterparts. The village is close to more than five lakes, which are vast in area. Kainakary is a shooting location for movie/TV soaps/music videos, etc. The village itself has numerous small water bodies, rivers,  canals and ponds. People dwell near to canals and river banks mainly. \nBeing part of Kuttanad, vast paddy lands make up the major part of the village. These paddy lands are below sea water level. So the rice cultivation in this area is unique and well appreciated. \nFloods are another major calamity that can be seen in Kainakary's history. Floods in Kuttanad are expected during every heavy monsoon season in Kerala. And Kainakary is one of the worst affected during these floods. \nNative people are well accustomed to these hard times, the floods leading to the destroying of crops, damages to houses...",
+   "url": "https://en.wikipedia.org/wiki/Kainakary"
+  },
+  {
+   "title": "Kainakary South",
+   "text": "Kainakary South is a village in Alappuzha district in the Indian state of Kerala.",
+   "url": "https://en.wikipedia.org/wiki/Kainakary_South"
+  },
+  {
+   "title": "Chennamkary",
+   "text": "Chennamkary is a village in Kuttanad Taluk in Alappuzha District of Kerala state, India.",
+   "url": "https://en.wikipedia.org/wiki/Chennamkary"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Edathua",
+  "text": "Edathua is a place in Kuttanad which a low lying wetland located in the Alappuzha district, Kerala, India.\nIt is situated 14 km from Tiruvilla town.\n\n\n== See ==\n1 St. George Forane Church (എടത്വാപള്ളി). Celebrates its feast during the month of May is an important location for Christian pilgrims. (updated Jul 2023)\n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Edathua"
+ },
+ "sights": [
+  {
+   "name": "Mekkad Bhagavathi Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 1,
+   "lat": 9.47883,
+   "lon": 76.3869742
+  },
+  {
+   "name": "Pazhoor Mahadeva Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 9.4701387,
+   "lon": 76.3850117
+  },
+  {
+   "name": "Elenakavu Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 9.4694763,
+   "lon": 76.3866828
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "query": "Kayamkulam, Alappuzha",
+ "region": "kerala",
+ "name": "Kayamkulam",
+ "draft": {
+  "briefing": "Hey, you're in Kayamkulam! This was once the capital of the Kingdom of Onattukara, and it's an old maritime trading town almost halfway between Alappuzha and Kollam.",
+  "hungryLine": "Kayamkulam is known for good fish dishes, and for toddy from the village toddy shops.",
+  "moodReplies": {
+   "show-me-around": "Puthiyodom Sri Krishna Swamy Temple is a 6 min walk, the Town Mosque is about 9 min, and Krishnapuram Palace is out on the Oachira road.",
+   "somewhere-to-chill": "Watch coir and other coconut products being made at one of the local farms.",
+   "surprise-me": "Krishnapuram Palace was built in the 18th century by Travancore Maharaja Marthanda Varma, and now holds a museum on the kingdom."
+  },
+  "seeFirst": {
+   "caption": "Around Kayamkulam",
+   "spots": [
+    {
+     "name": "Puthiyodom Sri Krishna Swamy Temple",
+     "detail": "6 min walk · A town temple",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Town Mosque",
+     "detail": "9 min walk · In the town centre",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Krishnapuram Palace",
+     "detail": "On the Oachira road · Travancore palace and museum",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around festival season.",
+    "body": "Chettikulangara Kumbha Bharani falls in the Malayalam month of Kumbham, and the Oachira temple holds its Vrishchikam festival every year."
+   },
+   {
+    "icon": "tag",
+    "title": "Change trains here.",
+    "body": "Kayamkulam Junction splits three ways, toward Kollam, Alappuzha and Kottayam."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A trading port",
+    "body": "Kayamkulam grew as an ancient maritime trading centre on the coast.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Kingdom days",
+    "title": "Capital of Onattukara",
+    "body": "The town was the capital of the Kingdom of Onattukara, and it's still the region's largest town.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1700s",
+    "title": "Travancore's palace",
+    "body": "Maharaja Marthanda Varma built Krishnapuram Palace between Kayamkulam and Oachira.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Your turn",
+    "body": "Temples, a palace and a busy rail junction. Tell me where you ended up.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

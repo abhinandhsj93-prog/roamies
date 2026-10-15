@@ -1,0 +1,77 @@
+{
+ "query": "Nanded",
+ "found": "Nanded (pinned)",
+ "lat": 19.1517,
+ "lon": 77.3063,
+ "fetchedAt": "2026-10-12T19:08:15.503Z",
+ "locality": {
+  "id": "nanded-nanded-district-maharashtra",
+  "name": "Nanded",
+  "area": "Maharashtra",
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ "photos": {
+  "Nanded": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Vishnupuri_temple_-_panoramio.jpg/1280px-Vishnupuri_temple_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nanded",
+   "credit": "Photo: yagrawal07, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vishnupuri_temple_-_panoramio.jpg"
+  },
+  "Nanded district": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Indien2012_1253_Kandhar_Fort.jpg/1280px-Indien2012_1253_Kandhar_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Nanded district",
+   "credit": "Photo: Glasreifen, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indien2012_1253_Kandhar_Fort.jpg"
+  },
+  "Hazur Sahib": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Takht_Sri_Hazur_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Hazur Sahib",
+   "credit": "Photo: Punjabeditorji, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takht_Sri_Hazur_Sahib.jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Nanded",
+   "text": "Nanded is a city in Maharashtra state, India. It is the tenth largest city in the state and the seventy-ninth most populated city in India. It is the second largest city in Marathwada region. It is the district headquarters of Nanded district.\nGuru Gobind Singh established camp in Nanded and the Gurgaddi was transferred from him to Guru Granth Sahib. One of the  Panj Takhts of Sikhi, Hazur Sahib is located in the city of Nanded. It was here that Guru Gobind Singh initiated Madho Das whom became Banda Singh Bahadur one of the famous leaders of the Khalsa Panth whom played a role during the downfall of the Mughal Empire.\n\n\n== Location ==\nNanded is located on the banks of river Godavari in west-central India. Nanded district borders Latur district, Parbhani district and Hingoli district to the west and Yavatmal district to the north. The district is bordered by the Nizamabad, Kamareddy, Nirmal and Adilabad districts of Telangana state to the east and Bidar district of Karnataka state to the south.\nNanded has two parts: Old Nanded 20.62 square kilometres (7.96 sq mi) occupies the north bank of the Godavari river; New Nanded, to the south of the river, 31.14 square kilometres (12.02 sq mi...",
+   "url": "https://en.wikipedia.org/wiki/Nanded"
+  },
+  {
+   "title": "Nanded district",
+   "text": "Nanded district (Marathi pronunciation: [naːn̪d̪eɖ]) is a district of Maharashtra state in central India. The city of Nanded is the district headquarters.",
+   "url": "https://en.wikipedia.org/wiki/Nanded_district"
+  },
+  {
+   "title": "Hazur Sahib",
+   "text": "Hazur Sahib (Hazūrī Sāhib; lit. 'presence of the sahib/master'), officially Takht Sachkhand Sri Hazur Abchalnagar Sahib, is one of the five takhts (religious centres) in Sikhism. The gurdwara (Sikh house of worship) was built between 1832 and 1837 by  Maharaja Ranjit Singh (1780–1839). It is located on the banks of the Godavari River at the city of Nanded in the state of Maharashtra, India. \nThe structure is built at the place where Guru Gobind Singh Ji died. The gurdwara within the complex is known as Sach-Khand (Realm of Truth). The inner room of the gurdwara is called the Angitha Sahib and is built over the place where Gobind Singh was cremated in 1708.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Hazur_Sahib"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Nanded",
+  "text": "Nanded is a city in Marathwada.\n\n\n== See ==\n\n\n== Do ==\nGurudwara:\nEvery year thousands of Sikhs, from all over the country flock to Nanded to pay respects to Takht Sachkhand Shri Hazur Abchalnagar Sahib.\nThe Gurudwara trust is gearing up for the tercentenary celebrations, scheduled for October 2008. It's about 10 minutes away from the railway station.\nKaleshwar temple:\nIt's a Shiva temple, on the banks of river Godavari.\nYou can even get some primitive boating experience in a huge saucer-shaped vessel.\nIts actually in the village Vishnupuri, on the outskirts of Nanded.\nTreasure Bazar:\nEat, shop and watch movies. The biggest mall in the city. It is also has a three star restaurant.\n\n\n== Eat ==\nHotel City Pride\nIt is One of the two Three star restaurant in the city and the best one for Indian, continental and Chinese food and also best accommodation.\nHOTEL CITY PRIDE\nNear Hanumangadh Kaman,\nAirport Road,NANDED-431605\nMaharashtra\nPh:02462-222232/33/34\nTelefax:02462-222231\nMob:8805012388/85\nE-mail:hotelcitypride@hotmail.com\nweb:www.hotelcitypride.in\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Nanded"
+ },
+ "sights": [
+  {
+   "name": "Hazur Sahib",
+   "kind": "landmark",
+   "walkMinutes": 21,
+   "lat": 19.152777777777775,
+   "lon": 77.31861111111111
+  },
+  {
+   "name": "Nanded district",
+   "kind": "landmark",
+   "walkMinutes": 28,
+   "lat": 19.16,
+   "lon": 77.32
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass sights: overpass-api.de 504",
+  "overpass food: overpass-api.de 504"
+ ]
+}

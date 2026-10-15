@@ -1,0 +1,83 @@
+{
+ "query": "Kumbalangi, Ernakulam",
+ "region": "kerala",
+ "name": "Kumbalangi",
+ "draft": {
+  "briefing": "Hey, you're in Kumbalangi! Kerala Tourism calls this island village India's first eco-tourism village. On some nights the backwaters here glow with sea sparkle, which locals call Kavaru.",
+  "hungryLine": "You're in Kochi's backwater country, so think fresh prawns, fish molly and Kochi's own Meen Molagitta Curry.",
+  "moodReplies": {
+   "show-me-around": "Walk into Kumbalangi to see the Chinese fishing nets, then head over to Aroor, the fishing village across the water.",
+   "somewhere-to-chill": "Sit by the backwaters at dusk and watch the Chinese fishing nets go up and down.",
+   "surprise-me": "The Aroor-Kumbalam Bridge, right by these backwaters, is the second longest bridge in Kerala."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Kumbalangi",
+     "detail": "11 min walk · Chinese fishing nets and backwaters",
+     "status": {
+      "text": "Best at dusk",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Aroor",
+     "detail": "22 min walk · Fishing village and seafood export hub",
+     "status": {
+      "text": "Busy in the daytime",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Plan around the festivals.",
+    "body": "The Cochin Carnival runs from 20 December to 2 January, and Onam falls between mid-August and mid-September."
+   },
+   {
+    "icon": "tag",
+    "title": "Buy toddy from a local.",
+    "body": "Adulterated toddy is common, so your best bet is someone who taps their own coconut trees."
+   }
+  ],
+  "story": [
+   {
+    "era": "Centuries ago",
+    "title": "A city of visitors",
+    "body": "For about 600 years, Kochi has hosted Arabs, Chinese, Portuguese, Dutch, English and more. You can taste that mix in the food.",
+    "illustration": "pepper"
+   },
+   {
+    "era": "1582",
+    "title": "The carnival begins",
+    "body": "The Cochin Carnival started as part of Portuguese New Year celebrations. It's now one of the biggest parties in India.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "Village life",
+    "title": "Nets and backwaters",
+    "body": "Kumbalangi is an island village among the backwaters, about 12 km from Kochi city centre. It's famous for its Chinese fishing nets.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "India's first eco-tourism village",
+    "body": "Kerala Tourism names Kumbalangi as the first eco-tourism village in India. Next door, Aroor ships seafood out to the world.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Your turn",
+    "title": "Wait for the glow",
+    "body": "Stay by the water after dark and look for Kavaru. Tell me if you see it sparkle.",
+    "illustration": "flood"
+   }
+  ],
+  "food": []
+ }
+}

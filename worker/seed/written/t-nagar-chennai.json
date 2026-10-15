@@ -1,0 +1,92 @@
+{
+ "query": "T. Nagar, Chennai",
+ "region": "tamilnadu",
+ "name": "T. Nagar",
+ "draft": {
+  "briefing": "Hey, you're in T. Nagar! All these crowded shopping streets sit on what used to be the Long Tank, a huge reservoir west of old Madras that was drained in the 1920s to build a planned neighbourhood. Today it's one of the busiest shopping districts of its kind in Asia.",
+  "hungryLine": "Chennai's classic move is a plain vegetarian place for tiffin or a full meals plate, and around here you'll find plenty of them between the shops.",
+  "moodReplies": {
+   "show-me-around": "Ranganathan Street is a 5 min walk, and Panagal Park, the heart of the shopping district, is about 7 minutes away. Keep going and Pondy Bazaar is around 15 minutes on foot.",
+   "somewhere-to-chill": "Natesan Park on Venkatanarayana Road is an 8 min walk, a leafy 4 acre park where locals do their morning walks under neem, gulmohar and mahogany trees.",
+   "surprise-me": "Pondy Bazaar's official name is actually Soundarapandianar Angadi, and T. Nagar itself was historically called East Mambalam."
+  },
+  "seeFirst": {
+   "caption": "Short walks from here",
+   "spots": [
+    {
+     "name": "Ranganathan Street",
+     "detail": "5 min walk · Often called the most crowded street in Chennai, packed with clothes and jewellery shops",
+     "status": {
+      "text": "Be ready to elbow your way through",
+      "tone": "warning"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Panagal Park",
+     "detail": "7 min walk · The park at the centre of it all, named after the Raja of Panagal",
+     "status": {
+      "text": "A breather between shops",
+      "tone": "open"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Sri Venkateswara Swamy Temple, T. Nagar",
+     "detail": "9 min walk · Venkateswara and Alamelu Manga temple at the TTD Information Center",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Bargain with a smile.",
+    "body": "Pondy Bazaar and Ranganathan Street are the places to try your bargaining skills on knick-knacks, just expect serious crowds."
+   },
+   {
+    "icon": "sun",
+    "title": "Come between November and February.",
+    "body": "Chennai is extremely hot and humid, especially in May, and those cooler months dodge the worst of the heat."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "The Long Tank",
+    "body": "This whole area was once covered by the Long Tank, a vast reservoir west of Madras city. It was part of the zamindari of Mambalam.",
+    "illustration": "flood"
+   },
+   {
+    "era": "1600s",
+    "title": "An old Shiva temple",
+    "body": "The Kasi Viswanatha Temple in nearby West Mambalam was built in the 17th century. It's named after the Vishwanatha Temple at Varanasi.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1921 to 1925",
+    "title": "A planned town",
+    "body": "The Raja of Panagal's government drew up the Mambalam Town Planning Scheme to drain the Long Tank and build a planned neighbourhood. Panagal Park and the radial streets named after city officials and politicians date from then.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1950",
+    "title": "A park opens",
+    "body": "Natesan Park opened to the public on 13 September 1950. It's still the only Chennai Corporation park with a separate tennis court for coaching kids.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "Shopping central",
+    "body": "Ranganathan Street, Usman Road and Pondy Bazaar are lined with jewellery, clothes, utensils and toy shops. Mambalam railway station next door handles around 200,000 passengers a day.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "query": "Patnem",
+ "region": "goa",
+ "name": "Patnem",
+ "draft": {
+  "briefing": "Hey, you're in Patnem! You're in Canacona's beach belt at the far south of Goa, a stretch that was only really 'discovered' after the 1990s.",
+  "hungryLine": "Most of the eating happens along neighbouring Palolem beach, and Goan dishes are the favourites at the better spots.",
+  "moodReplies": {
+   "show-me-around": "The Mallikarjun Temple is 2.5 km from Chaudi on the road towards Karwar, and Cabo de Rama Fort is great for coast views if you have your own wheels.",
+   "somewhere-to-chill": "Canacona has nearly 20 lesser-known beaches beyond Palolem and Agonda, some reached only by a narrow track, perfect for escaping it all.",
+   "surprise-me": "King's beer is local to Goa and isn't sold outside the state, and plenty of locals swear by it."
+  },
+  "seeFirst": {
+   "caption": "Around Canacona",
+   "spots": [
+    {
+     "name": "Mallikarjun Temple",
+     "detail": "2.5 km from Chaudi · Devotees come for advice from oracles read in falling flower petals",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Parthagal math",
+     "detail": "Short drive · A monastery about five centuries old",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Cabo de Rama Fort",
+     "detail": "Own transport needed · A deserted fort with scenic coast views",
+     "status": {
+      "text": "Few buses go here",
+      "tone": "warning"
+     },
+     "illustration": "palace"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Mallikarjun Temple",
+    "title": "Flower petal oracles",
+    "body": "Devotees come here for advice from the oracles. The answer is read from where the flower petals drop."
+   },
+   {
+    "where": "Loliem",
+    "title": "The Betal statue",
+    "body": "Cultural historian Phaldessai says Loliem's statue of Betal, possibly a pre-Hindu deity, goes back to at least the seventh century. He counts four Betal deities in Canacona."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "tag",
+    "title": "Get your own wheels.",
+    "body": "Public buses are few and far between, so you need your own transport for Cabo de Rama and the quieter beaches."
+   },
+   {
+    "icon": "sun",
+    "title": "Come once the season starts.",
+    "body": "Extra beach shacks pop up along the coast when the foreign tourist season begins."
+   }
+  ],
+  "story": [
+   {
+    "era": "600s",
+    "title": "Betal of Loliem",
+    "body": "Nearby Loliem's statue of Betal may date to the seventh century or earlier. The village also has centuries-old hero stones recording events of the time.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1500s",
+    "title": "Parthagal math",
+    "body": "The monastery at Parthagal has stood for about five centuries.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "After the 1990s",
+    "title": "A beach belt found",
+    "body": "Canacona's beaches were only 'discovered' after the 1990s, and now rank among Goa's most scenic.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Today",
+    "title": "Still unhurried",
+    "body": "Palolem and Agonda are still not overdeveloped, and dolphin watching and fishing trips bring visitors to the area.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": [
+   {
+    "name": "Fernandes Restaurant",
+    "detail": "On Palolem beach · Goan food and fresh juices",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "seafood"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "German Bakery",
+    "detail": "On Palolem beach · Health food, German cakes, strudels, six-grain bread and croissants",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Draupadi",
+    "detail": "On Palolem beach by the main entrance · Try the fresh strawberry cocktail in winter",
+    "status": {
+     "text": "Strawberry cocktail is seasonal",
+     "tone": "neutral"
+    },
+    "tags": [
+     "mild"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

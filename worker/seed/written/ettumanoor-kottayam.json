@@ -1,0 +1,88 @@
+{
+ "query": "Ettumanoor, Kottayam",
+ "region": "kerala",
+ "name": "Ettumanoor",
+ "draft": {
+  "briefing": "Hey, you're in Ettumanoor! The great Shiva temple here is one of the major Shiva temples in Kerala, and temple tradition says the Pandavas and the sage Vyasa once worshipped in it.",
+  "hungryLine": "Next door in Athirampuzha the old chantha, the vegetable market, still runs, so it's a good place to see what's fresh around here.",
+  "moodReplies": {
+   "show-me-around": "Go to the Ettumanoor Mahadevar Temple first, then over to Athirampuzha, 3 km away, for its old market and St. Mary's Forane Church.",
+   "somewhere-to-chill": "Find a quiet corner in the temple grounds and take your time.",
+   "surprise-me": "Marco Polo wrote about a trading town called Athiramkari, and its description closely matches Athirampuzha, just 3 km from here."
+  },
+  "seeFirst": {
+   "caption": "Short drives from here",
+   "spots": [
+    {
+     "name": "Ettumanoor Mahadevar Temple",
+     "detail": "Short drive · One of Kerala's major Shiva temples",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "palace"
+    },
+    {
+     "name": "Athirampuzha",
+     "detail": "3 km from Ettumanoor · Old market town and home of Mahatma Gandhi University",
+     "status": {
+      "text": "Check timings locally",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Ettumanoor Mahadevar Temple",
+    "title": "Shiva in eight forms",
+    "body": "It is believed that Lord Siva appeared here in eight different forms, which gave Ettumanoor its name. Another story says the name means the place of deer."
+   },
+   {
+    "where": "Ettumanoor Mahadevar Temple",
+    "title": "Visitors from the epics",
+    "body": "Temple tradition says the Pandavas and the sage Vyasa worshipped here. Eight Brahmin families are remembered as the temple's original keepers."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch the feast in January.",
+    "body": "St. Mary's Forane Church in Athirampuzha celebrates the feast of St. Sebastian every year on January 24 and 25."
+   },
+   {
+    "icon": "tag",
+    "title": "Visit the old market.",
+    "body": "The chantha in Athirampuzha that Marco Polo may have described still exists today."
+   }
+  ],
+  "story": [
+   {
+    "era": "Around 1200 AD",
+    "title": "An old village",
+    "body": "Athirampuzha, just 3 km away, is believed to have been a well settled village even by 1200 AD.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Marco Polo's time",
+    "title": "A port called Athiramkari",
+    "body": "Marco Polo described a trade centre called Athiramkari, famous for pottery, cattle, a vegetable market and cloth. Boats docked at Chantha Kulam, the centre of trade.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "Through the ages",
+    "title": "The great Shiva temple",
+    "body": "Ettumanoor Mahadeva Temple became one of Kerala's major Shiva temples, named alongside Vaikom and Vadakkunathan. Its name carries stories of deer, eight families and eight forms of Shiva.",
+    "illustration": "palace"
+   },
+   {
+    "era": "Today",
+    "title": "A university town",
+    "body": "Mahatma Gandhi University sits in Athirampuzha, 10 km north of Kottayam. The January feast of St. Sebastian still draws big crowds.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

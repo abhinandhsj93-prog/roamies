@@ -1,0 +1,91 @@
+{
+ "query": "Bhoothathankettu, Ernakulam",
+ "region": "kerala",
+ "name": "Bhoothathankettu",
+ "draft": {
+  "briefing": "Hey, you're in Bhoothathankettu! The name means \"monster fort\", because people long ago believed a monster piled up the huge stones across the Periyar here. Today a modern dam sits alongside the old natural one.",
+  "hungryLine": "There's not much in the way of restaurants out here, so eat in Kothamangalam, about 10 km away, before or after.",
+  "moodReplies": {
+   "show-me-around": "Walk to the dam first, then trek through the forest to the old Bhoothathan Kettu, the original stone dam.",
+   "somewhere-to-chill": "Take a boat out on the reservoir and let the forest do the rest.",
+   "surprise-me": "The old dam isn't built the usual way. Large blocks of unshaped stone are piled on both sides of the Periyar."
+  },
+  "seeFirst": {
+   "caption": "Close by and a short drive",
+   "spots": [
+    {
+     "name": "Bhoothathankettu",
+     "detail": "2 min walk · The dam and reservoir, with boating",
+     "status": {
+      "text": "Daytime picnic spot",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Salim Ali Wild Life Sanctuary",
+     "detail": "Short drive · Bird sanctuary at Thattekkad with rare species",
+     "status": {
+      "text": "Best early morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    },
+    {
+     "name": "Mamalakandam Village",
+     "detail": "Short drive · Very green mountain village on the Western Ghats",
+     "status": {
+      "text": "Buses leave Kothamangalam in the morning",
+      "tone": "neutral"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "The old dam",
+    "title": "The monster's wall",
+    "body": "Legend says a Bhootham, a monster, built this dam out of rocks. That's where the name Bhoothathan Kettu comes from."
+   },
+   {
+    "where": "Kothamangalam",
+    "title": "An older name",
+    "body": "The Kothamangalam area nearby was once known as Malakhachira. It is a nice bit of local history to know."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Go early for the birds.",
+    "body": "Pair the dam with the Thattekkad bird sanctuary, where exotic birds flock and rare species turn up."
+   },
+   {
+    "icon": "tag",
+    "title": "Wear proper shoes for the trek.",
+    "body": "The walk through the forest to the old Bhoothathan Kettu is the best part, and it's a real trek."
+   }
+  ],
+  "story": [
+   {
+    "era": "Long ago",
+    "title": "A natural dam",
+    "body": "Huge unshaped stones blocked the Periyar here, forming a natural dam. Past generations believed a monster had built it.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Later",
+    "title": "Taming the Periyar",
+    "body": "Dams went up across the Periyar at Edamalayar, Lower Periyar and Bhoothathankettu for hydroelectricity and irrigation. A modern dam was added beside the old one.",
+    "illustration": "flood"
+   },
+   {
+    "era": "Today",
+    "title": "A picnic by the reservoir",
+    "body": "The Bhoothathankettu Reservoir, also called the Thattekad Reservoir, is a favourite picnic spot. You can go boating and trek in the forest around it.",
+    "illustration": "warehouses"
+   }
+  ],
+  "food": []
+ }
+}

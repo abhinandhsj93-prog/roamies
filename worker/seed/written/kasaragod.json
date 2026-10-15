@@ -1,0 +1,137 @@
+{
+ "query": "Kasaragod",
+ "region": "kerala",
+ "name": "Kasaragod",
+ "draft": {
+  "briefing": "Hey, you're in Kasaragod! It's known as the Land of Seven Languages, and the town sits right where the Chandragiri River runs into the Arabian Sea.",
+  "hungryLine": "Kasaragod is famous for sweets like holige, and steamed favourites such as puttu, idiyappam and kalthappam are everywhere.",
+  "moodReplies": {
+   "show-me-around": "Nellikunnu Muhyaddin Juma Masjid is a 14 min walk, and the Malik Dinar Mosque, one of the oldest in India, is a short drive away in Thalangara.",
+   "somewhere-to-chill": "Do the riverside walk at Pulikunnu where the road wraps around the Chandragiri River, or catch the sunset at Thalangara Wharf.",
+   "surprise-me": "Kasaragod district has 12 rivers, the most of any district in Kerala."
+  },
+  "seeFirst": {
+   "caption": "Walks and short drives",
+   "spots": [
+    {
+     "name": "Nellikunnu Muhyaddin Juma Masjid",
+     "detail": "14 min walk · Sunni Friday mosque and dargah",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Malik Dinar Mosque",
+     "detail": "Short drive · Believed completed around 642/643 CE",
+     "status": {
+      "text": "Dress modestly",
+      "tone": "neutral"
+     },
+     "illustration": "synagogue"
+    },
+    {
+     "name": "Nellikkunnu Beach",
+     "detail": "2 km from the KSRTC stand · Lighthouse and a 5 km beach road",
+     "status": {
+      "text": "Best at sunset",
+      "tone": "open"
+     },
+     "illustration": "warehouses"
+    }
+   ]
+  },
+  "legends": [
+   {
+    "where": "Nellikunnu",
+    "title": "The Uroos festival",
+    "body": "The Nellikunnu Uppappa Mosque, with its madrasa, dargah and big steps, is famous for its Uroos festival. Nellikunnu is also where the tomb of Thangal Uppapa is."
+   }
+  ],
+  "tips": [
+   {
+    "icon": "sun",
+    "title": "Catch sunset at Thalangara Wharf.",
+    "body": "Wikivoyage calls it the most beautiful spot in all of Kasaragod, about 5 km from town."
+   },
+   {
+    "icon": "tag",
+    "title": "Walk to Madhur Temple.",
+    "body": "A 7 km route starts at Karandakkatt junction near the new bus station and ends at the temple on the riverside."
+   }
+  ],
+  "story": [
+   {
+    "era": "640s",
+    "title": "An ancient mosque",
+    "body": "Malik Dinar is said to have founded the mosque at Thalangara, believed completed around 642/643 CE. That makes it one of the oldest mosques in India.",
+    "illustration": "synagogue"
+   },
+   {
+    "era": "1600s",
+    "title": "Forts on the coast",
+    "body": "Chandragiri Fort dates from the 17th century, one of several forts around here along with Arikady, Bekal and Hosdurg.",
+    "illustration": "palace"
+   },
+   {
+    "era": "1966",
+    "title": "A municipal town",
+    "body": "Kasaragod became a municipal town in 1966, the first in what is now the district.",
+    "illustration": "warehouses"
+   },
+   {
+    "era": "1984",
+    "title": "A district of its own",
+    "body": "Kasaragod was part of Kannur district until 24 May 1984, and it's still the last district Kerala has formed.",
+    "illustration": "palace"
+   },
+   {
+    "era": "2018",
+    "title": "A new look",
+    "body": "The Malik Dinar Mosque, built in the Kerala-Islamic style, was extensively remodelled in the Islamic style in 2018.",
+    "illustration": "synagogue"
+   }
+  ],
+  "food": [
+   {
+    "name": "Indian Coffee House",
+    "detail": "Old Bus Stand · Sit by the window for the sounds and smells of Kasaragod Market",
+    "status": {
+     "text": "Gets very crowded",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap",
+     "mild"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Udupi Vegetarian",
+    "detail": "Near Kasaragod Nursing Home · Mangalore buns, golly baji and Kerala lunch",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "vegetarian",
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   },
+   {
+    "name": "Pallam Charumuru",
+    "detail": "Thayalangadi, near the railway station · Crispy custom snacks like muttacharumuru",
+    "status": {
+     "text": "Check timings locally",
+     "tone": "neutral"
+    },
+    "tags": [
+     "cheap"
+    ],
+    "illustration": "warehouses"
+   }
+  ]
+ }
+}

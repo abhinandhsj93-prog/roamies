@@ -1,0 +1,200 @@
+{
+ "query": "Reis Magos",
+ "found": "Reis Magos, Bardez, North Goa, Goa, 403001, India",
+ "lat": 15.4966011,
+ "lon": 73.8095534,
+ "fetchedAt": "2026-10-12T19:41:12.202Z",
+ "locality": {
+  "id": "verem-north-goa-goa",
+  "name": "Verem",
+  "area": "Bardez, Goa",
+  "state": "Goa",
+  "country": "India"
+ },
+ "photos": {
+  "Mandovi River": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Panaji%2C_Goa%2C_India%2C_Sunset%2C_Mandovi_River.jpg/1280px-Panaji%2C_Goa%2C_India%2C_Sunset%2C_Mandovi_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Mandovi River",
+   "credit": "Photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panaji,_Goa,_India,_Sunset,_Mandovi_River.jpg"
+  },
+  "North Goa district": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/North_Goa_district.png/1280px-North_Goa_district.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "North Goa district",
+   "credit": "Photo: Vn14, CC0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_Goa_district.png"
+  },
+  "Reis Magos": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Reis_Magos_Fort_-_View_from_Mandovi_River.JPG/1280px-Reis_Magos_Fort_-_View_from_Mandovi_River.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Reis Magos",
+   "credit": "Photo: Rajib Ghosh, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reis_Magos_Fort_-_View_from_Mandovi_River.JPG"
+  },
+  "Miramar, Goa": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Miramar_24022016.jpg/1280px-Miramar_24022016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Miramar, Goa",
+   "credit": "Photo: Nikhilb239, CC BY 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miramar_24022016.jpg"
+  },
+  "St Inez Creek": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/St._Inez_Creek.jpg/1280px-St._Inez_Creek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "St Inez Creek",
+   "credit": "Photo: SerChevalerie, CC BY 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Inez_Creek.jpg"
+  },
+  "18th June Road": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/18th_june_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "18th June Road",
+   "credit": "Photo: Shyamsharai, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:18th_june_Road.jpg"
+  },
+  "Azad Maidan (public square)": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Martyrs%27_Memorial_at_Azad_Maidan.jpg/1280px-Martyrs%27_Memorial_at_Azad_Maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Azad Maidan (public square)",
+   "credit": "Photo: SerChevalerie, CC BY-SA 4.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martyrs%27_Memorial_at_Azad_Maidan.jpg"
+  },
+  "Sunaparanta, Goa Centre for the Arts": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sunaparanta%2C_Goa_Centre_for_the_Arts_09.JPG/1280px-Sunaparanta%2C_Goa_Centre_for_the_Arts_09.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "article": "Sunaparanta, Goa Centre for the Arts",
+   "credit": "Photo: Fredericknoronha, CC BY-SA 3.0, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunaparanta,_Goa_Centre_for_the_Arts_09.JPG"
+  },
+  "Kala Academy": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/A_view_of_Kala_Academy%2C_Goa%2C_the_main_venue_for_the_inaugural_ceremony_of_the_35th_International_Film_Festival_of_India-2004%2C_%28to_be_held_from_29th_November_to_9th_December%2C_2004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "article": "Kala Academy",
+   "credit": "Photo: Government of India, GODL-India, via Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Kala_Academy,_Goa,_the_main_venue_for_the_inaugural_ceremony_of_the_35th_International_Film_Festival_of_India-2004,_(to_be_held_from_29th_November_to_9th_December,_2004).jpg"
+  }
+ },
+ "wikipedia": [
+  {
+   "title": "Mandovi River",
+   "text": "The Mandovi (IPA: Konkani pronunciation: [maːɳɖɔwĩː]) or Mahadayi (IPA: Kannada pronunciation: [məɦəd̪ɑːji]),  formerly known as the Rio de Goa, is a river described as the lifeline of the Indian state of Goa. The Mandovi and the Zuari are the two principal rivers in the state of Goa. The Mandovi joins the Zuari at a common creek at Cabo Aguada, forming the Mormugao harbour. Panaji, the state capital, and Old Goa, the former capital of Goa, are both situated on the left bank of the Mandovi.",
+   "url": "https://en.wikipedia.org/wiki/Mandovi_River"
+  },
+  {
+   "title": "North Goa district",
+   "text": "North Goa district is one of the three districts that constitutes the state of Goa, India. The district has an area of 1,736 square kilometres (670 square miles), and is bounded by Kolhapur  and Sindhudurg districts of Maharashtra state to the north and by Belagavi district of Karnataka to the east, by South Goa district to the south, and by the Arabian Sea to the west.\n\n",
+   "url": "https://en.wikipedia.org/wiki/North_Goa_district"
+  },
+  {
+   "title": "Reis Magos",
+   "text": "Reis Magos is a village located on the northern bank of the Mandovi River in Bardez, Goa, opposite to the capital city of Panjim. The village is famous for two of Goa’s famous structures; the Reis Magos Fort, and the Reis Magos Church – the first church in Bardez. \"Reis Magos\" is the Portuguese name for the Three Wise Men from the Bible.",
+   "url": "https://en.wikipedia.org/wiki/Reis_Magos"
+  },
+  {
+   "title": "Sharada Mandir School",
+   "text": "Sharada Mandir School is a private co-educational school in Miramar, Panaji, Goa, India, serving students from nursery to higher secondary level. It was established in 1966 and affiliated to the Council for the Indian School Certificate Examinations.The school follows the Indian Certificate of Secondary Education (ICSE) up till Std.10 and is now affiliated with the Indian School Certificate for Std. 12. In the late 2000s, the school was acquired by the industrialist Dattaraj V. Salgaocar (son of Vasudev Salgaocar), who now heads the Board of Trustees as well as the Managing Committee along with his wife Dipti (daughter of Dhirubhai Ambani) and their daughter Isheta (sister-in-law of Nirav Modi).\nThe school has a wide range of equipment and facilities, ranging from playgrounds, sand pits and yoga rooms to auditoriums and special-education centres.",
+   "url": "https://en.wikipedia.org/wiki/Sharada_Mandir_School"
+  },
+  {
+   "title": "Miramar, Goa",
+   "text": "Miramar is the beach area of the Goan capital of Panjim, also known as Panaji and is one of the most visited beaches of Goa. It is one of the two only beaches in Panjim, other being Caranzalem beach. Many people, mostly tourists, come to this beach every day. Miramar Beach was the venue for Beach Volleyball events of the 2014 Lusofonia Games. Originally named Porta de Gaspar Dias by the Portuguese, the name was then changed to Miramar.\n\nSituated at the confluence of the Mandovi River and the Arabian Sea, it is a small beach that occasionally hosts some events. There are several educational institutions in the surrounding vicinity, including Dhempe College of Arts and Science, V. M. Salgaonkar College of Law and Sharada Mandir High School. Clube Gaspar de Dias and a popular café are nearby.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Miramar,_Goa"
+  },
+  {
+   "title": "St Inez Creek",
+   "text": "The Santa Inês creek is a creek located in Panjim, in the coastal state of Goa, India. The creek opens up into the Mandovi River. The creek is 3.7 kilometres (2 mi) in length, with a surface area of 65,750 square metres (707,700 sq ft) and an average width of 12.6 metres (41 ft). The creek begins at the paddy fields at Altinho hill at Taleigão, Caranzalem, and the Nagahali hills of Dona Paula. Caculo Island, is located in the creek. The creek has 12 culverts that originate from the old Goa Medical College complex leading to the Campal head, the Fire Brigade, the sewerage treatment plant at Tonca, the Tambdi Mati Cumrabhat, and the El Passo hotel.\nAccording to a Portuguese plaque on one of the culverts, the creek dates back to 1829, although historian Percival Noronha dates it back to 1647. The original Portuguese descendents were mostly settled around a small Ward named: Boca de Vaca, in and near Santa Inês, Altinho.",
+   "url": "https://en.wikipedia.org/wiki/St_Inez_Creek"
+  },
+  {
+   "title": "Bhausaheb Bandodkar Ground",
+   "text": "Bhausaheb Bandodkar Ground (also known as Campal Grounds and Panjim Gymkhana Grounds) is a cricket ground in Panaji, Goa, India.  The first recorded match held on the ground came in 1966 when Gujarat Governor's XI played Maharashtra Governor's XI.  The first first-class to be played there came in the 1986/87 Ranji Trophy when Goa played Tamil Nadu.  Between the 1986/87 season and the 2005/06 season, the ground held 26 first-class matches.  The first List A match played there came when Goa played Kerala in the 1993/94 Ranji Trophy one-day competition.  Fifteen further List A matches have been played on the ground, the last of which saw Andhra Pradesh play Hyderabad in the 2004/05 Ranji Trophy one-day competition.",
+   "url": "https://en.wikipedia.org/wiki/Bhausaheb_Bandodkar_Ground"
+  },
+  {
+   "title": "18th June Road",
+   "text": "18th June Road is one of the busiest streets in Panaji, Goa, India.  It is located in the heart of the city, and is a major shopping destination for the tourist folks.  Major businesses and restaurants line the street.  The street is named after the day in 1946 on which Ram Manohar Lohia had called a meeting to put an end to the Portuguese rule in India.",
+   "url": "https://en.wikipedia.org/wiki/18th_June_Road"
+  },
+  {
+   "title": "Azad Maidan (public square)",
+   "text": "Azad Maidan (formerly Square of the Seven Windows; Portuguese: Praça de Sete Janelas) is a public square in the Indian state of Panaji, Goa. It is located opposite the Goa Police headquarters on the Mahatma Gandhi Road, Panaji. It is located at 15°30′0″N 73°49′34″E.",
+   "url": "https://en.wikipedia.org/wiki/Azad_Maidan_(public_square)"
+  },
+  {
+   "title": "Sunaparanta, Goa Centre for the Arts",
+   "text": "Sunaparanta, Goa Centre for the Arts is a cultural centre in Altinho, Panjim, Goa. Its official website describes it as a \"non-profit, process-based initiative to encourage creation, learning, understanding, appreciation and enjoyment of the visual arts through education and dialogue in Goa\".\n\n",
+   "url": "https://en.wikipedia.org/wiki/Sunaparanta,_Goa_Centre_for_the_Arts"
+  },
+  {
+   "title": "Kala Academy",
+   "text": "Kala Academy, Goa (Academy of the Arts, Goa) is a prominent cultural centre located at Campal in Panjim, Goa.  Established on 28th February 1970 by the Government of Goa, the academy serves as an apex body to promote and develop music, dance, drama, fine art, folk art, literature. The building was designed by Charles Correa.",
+   "url": "https://en.wikipedia.org/wiki/Kala_Academy"
+  },
+  {
+   "title": "Campal Indoor Complex",
+   "text": "Campal Indoor Complex is a multi-purposed indoor stadium in Campal, Goa, India. The stadium is a main stadium in the town of Campal. The stadium was constructed for the 36 National Games for events of volleyball and basketball. It has various sports facilities like physical training for boys and ladies, indoor games, swimming pools, outdoor games etc. The stadium is a home of Sports Authority of Goa.\nFacilities includes air conditioning, player change rooms and lounge, dope control and medical rooms, media centre, state-of-the-art-acoustics and parking facilities and maple wood flooring at playing field. The stadium can also be used for many non sporting events and it can accommodate any indoor sporting event played at the Olympics.\nThe stadium will be host of boxing, table tennis, wrestling for 2020 National Games of India.",
+   "url": "https://en.wikipedia.org/wiki/Campal_Indoor_Complex"
+  },
+  {
+   "title": "Goa Public Service Commission",
+   "text": "The Goa Public Service Commission (GPSC) is a constitutional body of the government of Goa, India, responsible for recruiting through standardized examinations candidates for various state government jobs under the Government of Goa. It deals with matters relating to the appointment, rules of recruitment, transfer, promotion and disciplinary action of government officials. It reports directly to the Governor of Goa.\nThe chairman and other members are appointed by the Governor of Goa. In 2018, Jose Manuel Noronha was the chairman, Ameya Abhayankar was secretary and Seema V. Malkarnekar the deputy-secretary.",
+   "url": "https://en.wikipedia.org/wiki/Goa_Public_Service_Commission"
+  },
+  {
+   "title": "Calvim",
+   "text": "Calvim is an island village situated in the Bardez sub-district or taluka of Goa. It is in the vicinity of the prominent Aldona village.\n\n",
+   "url": "https://en.wikipedia.org/wiki/Calvim"
+  },
+  {
+   "title": "Centre for Post-Graduate Instruction and Research",
+   "text": "The Centre for Post-Graduate Instruction and Research (CPIR) was the lone educational institution which offered post-graduate education in Goa between the early 1960s and 1985. It was set up soon after the end of Portuguese rule in Goa and functioned under the University of Bombay. A few thousand students undertook their Masters education there, and some of whom went on to take up senior responsibilities in fields like education, journalism, law and science. The CPIR has been described as \"the first post-graduate campus of any state university in India [to function] outside its original jurisdiction\".",
+   "url": "https://en.wikipedia.org/wiki/Centre_for_Post-Graduate_Instruction_and_Research"
+  }
+ ],
+ "wikivoyage": {
+  "title": "Bardez",
+  "text": "Bardez is a municipality of 237,000 people (2011) in North Goa.\n\n\n== See ==\nChapora Beach\n1 Houses of Goa Museum (Salvador-do-Mundo village of Bardez). Tue-Sun 10AM-7:30PM. An architectural museum by reputed architect Gerard da Cunha, that \"encapsulates for posterity the phenomenal outcome of the amalgamation of eastern and western architectural styles\" \n2 Xavier Centre of Historical Research, B B Borkar Road, Alto-Porvorim, ☏ +91-832-2417772. Mon-Fri 9:30AM-7PM (lunch break: 1-2PM), Sat 9:30AM-1PM. It has a gallery on Christian art named the Xavier Xandev Museum art. \n\n\n== Do ==\n\n\n== Eat ==\n\n\n== Drink ==\n\n",
+  "url": "https://en.wikivoyage.org/wiki/Bardez"
+ },
+ "sights": [
+  {
+   "name": "Reis Magos Fort",
+   "kind": "attraction",
+   "walkMinutes": 1,
+   "lat": 15.4964846,
+   "lon": 73.8091247
+  },
+  {
+   "name": "Reis Magos Church",
+   "kind": "place_of_worship",
+   "walkMinutes": 2,
+   "lat": 15.4977992,
+   "lon": 73.8089305
+  },
+  {
+   "name": "Reis Magos Lighthouse",
+   "kind": "monument",
+   "walkMinutes": 8,
+   "lat": 15.5003953,
+   "lon": 73.8119131
+  },
+  {
+   "name": "Henry the Navigator Marker",
+   "kind": "monument",
+   "walkMinutes": 16,
+   "lat": 15.4939157,
+   "lon": 73.8184422
+  },
+  {
+   "name": "Shree Bal Ganesh Prasanna",
+   "kind": "place_of_worship",
+   "walkMinutes": 16,
+   "lat": 15.4893332,
+   "lon": 73.8146425
+  },
+  {
+   "name": "Krishna Temple",
+   "kind": "place_of_worship",
+   "walkMinutes": 17,
+   "lat": 15.5051937,
+   "lon": 73.8052224
+  }
+ ],
+ "food": [],
+ "errors": [
+  "overpass food: overpass-api.de 504"
+ ]
+}
