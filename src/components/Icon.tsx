@@ -16,7 +16,8 @@ export type IconName =
   | 'user'
   | 'pencil'
   | 'phone'
-  | 'back';
+  | 'back'
+  | 'locate';
 
 type Props = { name: IconName; size?: number; color: string; strokeWidth?: number };
 
@@ -79,6 +80,13 @@ export function Icon({ name, size = 22, color, strokeWidth = 2.2 }: Props) {
         <>
           <Path d="M4 20h4L19 9l-4-4L4 16z" {...stroke} />
           <Path d="M13 7l4 4" {...stroke} />
+        </>
+      )}
+      {name === 'locate' && (
+        <>
+          <Circle cx={12} cy={12} r={7} {...stroke} />
+          <Circle cx={12} cy={12} r={2.5} fill={color} />
+          <Path d="M12 2v3M12 19v3M2 12h3M19 12h3" {...stroke} />
         </>
       )}
       {name === 'phone' && (

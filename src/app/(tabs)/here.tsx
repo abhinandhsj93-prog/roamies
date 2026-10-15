@@ -1,6 +1,6 @@
 import { router } from 'expo-router';
 import { useState } from 'react';
-import { ActivityIndicator, Alert, Image, Linking, Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
+import { ActivityIndicator, Image, Linking, Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { Icon } from '@/components/Icon';
@@ -9,7 +9,8 @@ import { TAB_BAR_SPACE } from '@/components/TabBar';
 import { DirectionsButton, Pill, PrimaryButton, StatusText } from '@/components/ui';
 import type { Legend, Mood, Photo, Spot, Tip } from '@/content/types';
 import { Illustration } from '@/illustrations/Illustration';
-import { useCurrentPlace } from '@/lib/useCurrentPlace';
+import { backToMyLocation } from '@/lib/locationTarget';
+import { type CurrentPlace, useCurrentPlace } from '@/lib/useCurrentPlace';
 import { useTemperature } from '@/lib/useTemperature';
 import { cardShadow, colors, fonts, fontSizes, radii, sideMargin } from '@/theme/tokens';
 
@@ -28,7 +29,7 @@ const moods: { id: Mood; label: string }[] = [
 export default function Here() {
   const insets = useSafeAreaInsets();
   const { width } = useWindowDimensions();
-  const { place, loading, loadingName } = useCurrentPlace();
+  const { place, loading, loadingName, problem, picked } = useCurrentPlace();
   // loadingName is null or a name only while a new guide is being written by the API.
   const writingGuide = loading && loadingName !== undefined;
   const temperature = useTemperature(place.coords.latitude, place.coords.longitude);
@@ -72,15 +73,23 @@ export default function Here() {
           <Pressable
             style={styles.searchField}
             accessibilityRole="search"
-            onPress={() =>
-              Alert.alert('More places soon', "I'm still learning the rest of Kochi. Fort Kochi is next!")
-            }
+            onPress={() => router.push('/search')}
           >
             <Icon name="search" size={20} color={colors.ink} />
-            <Text style={styles.searchPlaceholder} numberOfLines={1}>
-              Search another place
+            <Text style={[styles.searchPlaceholder, picked && styles.searchPicked]} numberOfLines={1}>
+              {picked ?? 'Search another place'}
             </Text>
           </Pressable>
+          {picked && (
+            <Pressable
+              onPress={backToMyLocation}
+              accessibilityRole="button"
+              accessibilityLabel="Back to my location"
+              hitSlop={8}
+            >
+              <Icon name="locate" size={20} color={colors.ink} />
+            </Pressable>
+          )}
           <View style={styles.searchDivider} />
           <Pressable
             onPress={() => router.push('/essentials')}
@@ -97,7 +106,7 @@ export default function Here() {
         </View>
 
         <View style={styles.heroText}>
-          <Text style={styles.kicker}>You're in</Text>
+          <Text style={styles.kicker}>{picked ? 'Exploring' : loading && !writingGuide ? 'Finding you…' : "You're in"}</Text>
           <Text style={styles.placeName} accessibilityRole="header">
             {place.name}
           </Text>
@@ -111,6 +120,7 @@ export default function Here() {
       <View style={styles.main}>
         {/* Meera's briefing */}
         <View style={{ gap: 16 }}>
+          {problem && !loading && <ProblemCard problem={problem} picked={!!picked} />}
           {writingGuide && (
             <View style={[styles.card, styles.writing]}>
               <ActivityIndicator color={colors.ink} />
@@ -298,6 +308,27 @@ function LegendCard({ legend, dark }: { legend: Legend; dark: boolean }) {
   );
 }
 
+const problemText: Record<NonNullable<CurrentPlace['problem']>, string> = {
+  'no-permission': "Turn on location for Roamies and I'll brief you on wherever you are. You can still search for a place.",
+  'no-fix': "I couldn't get your location. Check that location is on, then try again.",
+  'no-guide': "I couldn't load a guide for that spot. Check your connection, then try again.",
+};
+
+function ProblemCard({ problem, picked }: { problem: NonNullable<CurrentPlace['problem']>; picked: boolean }) {
+  return (
+    <View style={[styles.card, styles.writing]}>
+      <Text style={styles.writingText}>{problemText[problem]}</Text>
+      <Pressable
+        onPress={problem === 'no-permission' ? () => Linking.openSettings() : backToMyLocation}
+        style={({ pressed }) => [styles.retry, pressed && { opacity: 0.8 }]}
+        accessibilityRole="button"
+      >
+        <Text style={styles.retryLabel}>{problem === 'no-permission' ? 'Settings' : picked ? 'My location' : 'Try again'}</Text>
+      </Pressable>
+    </View>
+  );
+}
+
 function TipRow({ tip }: { tip: Tip }) {
   const sun = tip.icon === 'sun';
   return (
@@ -346,6 +377,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   helpLabel: { fontFamily: fonts.bold, fontSize: fontSizes.caption, color: colors.ink },
+  searchPicked: { opacity: 1, fontFamily: fonts.bold },
+  retry: { paddingHorizontal: 14, height: 36, borderRadius: 18, backgroundColor: colors.ink, justifyContent: 'center' },
+  retryLabel: { fontFamily: fonts.bold, fontSize: fontSizes.caption, color: colors.white },
   searchPlaceholder: { flex: 1, fontFamily: fonts.medium, fontSize: fontSizes.body, color: colors.ink, opacity: 0.6 },
   heroShade: { position: 'absolute', left: 0, right: 0, bottom: 0, height: '60%', backgroundColor: 'rgba(18,48,44,0.45)' },
   heroText: { position: 'absolute', left: sideMargin, right: sideMargin, bottom: 56 },

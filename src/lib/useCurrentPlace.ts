@@ -3,17 +3,22 @@ import { useEffect, useState } from 'react';
 
 import { nearestWithDistance, places, registerPlace } from '@/content/places';
 import type { Place } from '@/content/types';
+import { useLocationTarget } from '@/lib/locationTarget';
 
 // Bundled places count as "here" within this distance; further away we ask the Roamies API.
 const BUNDLED_RADIUS_KM = 1.5;
 // Public URL of the Roamies places API (worker/), deployed to Cloudflare.
-const API_URL = process.env.EXPO_PUBLIC_ROAMIES_API_URL || 'https://roamies-api.abhinandhsj93.workers.dev';
+export const API_URL = process.env.EXPO_PUBLIC_ROAMIES_API_URL || 'https://roamies-api.abhinandhsj93.workers.dev';
 
 export type CurrentPlace = {
   place: Place;
   // Set while Meera is writing the guide for a place nobody has opened before.
   loadingName?: string | null;
   loading: boolean;
+  // Why we're showing a fallback place instead of where the user is.
+  problem?: 'no-permission' | 'no-fix' | 'no-guide';
+  // A searched-for place rather than the phone's location.
+  picked?: string;
 };
 
 const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -33,25 +38,46 @@ async function fetchLivePlace(latitude: number, longitude: number, onWaiting: (n
   return null;
 }
 
-// Picks the place for the user's location: a bundled one when close by, otherwise a live
-// guide from the API. Falls back to the first bundled place when location or the API fails.
+// A fresh fix when the phone can get one quickly, else the last known position.
+async function currentPosition() {
+  const fresh = Location.getCurrentPositionAsync({ accuracy: Location.Accuracy.Balanced });
+  const timeout = wait(12000).then(() => null);
+  return (await Promise.race([fresh, timeout])) ?? (await Location.getLastKnownPositionAsync());
+}
+
+// Picks the place for the user's location (or the place they searched for): a bundled one
+// when close by, otherwise a live guide from the API. Falls back to the first bundled place.
 export function useCurrentPlace(): CurrentPlace {
+  const target = useLocationTarget();
   const [state, setState] = useState<CurrentPlace>({ place: places[0], loading: true });
 
   useEffect(() => {
     let cancelled = false;
+    const picked = target.kind === 'picked' ? target.label : undefined;
     (async () => {
+      setState((s) => ({ place: s.place, loading: true, picked }));
       try {
-        const { granted } = await Location.requestForegroundPermissionsAsync();
-        if (!granted) return;
-        const pos =
-          (await Location.getLastKnownPositionAsync()) ??
-          (await Location.getCurrentPositionAsync({ accuracy: Location.Accuracy.Balanced }));
-        if (!pos || cancelled) return;
-        const { latitude, longitude } = pos.coords;
+        let latitude: number;
+        let longitude: number;
+        if (target.kind === 'picked') {
+          ({ latitude, longitude } = target);
+        } else {
+          const { granted } = await Location.requestForegroundPermissionsAsync();
+          if (!granted) {
+            if (!cancelled) setState((s) => ({ ...s, loading: false, problem: 'no-permission' }));
+            return;
+          }
+          const pos = await currentPosition();
+          if (cancelled) return;
+          if (!pos) {
+            setState((s) => ({ ...s, loading: false, problem: 'no-fix' }));
+            return;
+          }
+          ({ latitude, longitude } = pos.coords);
+        }
         const nearest = nearestWithDistance(latitude, longitude);
         if (nearest.km <= BUNDLED_RADIUS_KM || !API_URL) {
-          setState({ place: nearest.place, loading: false });
+          setState({ place: nearest.place, loading: false, picked });
           return;
         }
         setState((s) => ({ ...s, loading: true, loadingName: null }));
@@ -61,20 +87,18 @@ export function useCurrentPlace(): CurrentPlace {
         if (cancelled) return;
         if (live) {
           registerPlace(live);
-          setState({ place: live, loading: false });
+          setState({ place: live, loading: false, picked });
         } else {
-          setState({ place: nearest.place, loading: false });
+          setState((s) => ({ ...s, loading: false, problem: 'no-guide' }));
         }
       } catch {
-        // Keep the fallback place.
-      } finally {
-        if (!cancelled) setState((s) => (s.loading ? { ...s, loading: false } : s));
+        if (!cancelled) setState((s) => ({ ...s, loading: false, problem: 'no-guide' }));
       }
     })();
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [target]);
 
   return state;
 }

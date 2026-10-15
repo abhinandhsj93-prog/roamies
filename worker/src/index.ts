@@ -1,6 +1,7 @@
 // Roamies API (Cloudflare Worker).
 //
 // GET /debug?lat=..&lng=..   source summary for a spot (no AI call, nothing stored)
+// GET /index                 every pre-written guide: { places: [{ id, name, area, lat, lon }] }
 // GET /place?lat=9.95&lng=76.26
 //   200 { status: "ready", place }       guide for the user's locality (cached in Firestore)
 //   202 { status: "generating", name }   someone else is generating it right now; ask again shortly
@@ -9,7 +10,7 @@
 // The first request for a locality gathers open data, has the AI write the guide once,
 // stores it, and returns it. Every later request is served from Firestore.
 
-import { getPlaceJson, nearestSeededJson, releaseLock, savePlace, takeLock, type FirestoreEnv } from './firestore.ts';
+import { getPlaceJson, nearestSeededJson, seededIndex, releaseLock, savePlace, takeLock, type FirestoreEnv } from './firestore.ts';
 import { generatePlace, type Env as AiEnv } from './generate.ts';
 import { gatherSources, reverseGeocode } from './sources.ts';
 
@@ -42,6 +43,19 @@ async function debugSources(lat: number, lng: number) {
 }
 
 const SEEDED_RADIUS_KM = 4;
+
+// The search list changes only when guides are seeded, so it is cached at the edge for an hour.
+async function placeIndex(env: Env, request: Request) {
+  const cache = (globalThis as unknown as { caches?: { default?: Cache } }).caches?.default;
+  const key = new Request(new URL('/index', request.url).toString());
+  const hit = await cache?.match(key);
+  if (hit) return hit;
+  const res = new Response(JSON.stringify({ places: await seededIndex(env) }), {
+    headers: { 'content-type': 'application/json', 'access-control-allow-origin': '*', 'cache-control': 'public, max-age=3600' },
+  });
+  await cache?.put(key, res.clone());
+  return res;
+}
 
 async function handlePlace(env: Env, lat: number, lng: number) {
   const locality = await reverseGeocode(lat, lng);
@@ -76,6 +90,7 @@ export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
     if (request.method === 'OPTIONS') return json({});
+    if (url.pathname === '/index' && request.method === 'GET') return placeIndex(env, request);
     if (!['/place', '/debug'].includes(url.pathname) || request.method !== 'GET') return json({ error: 'not found' }, 404);
 
     const lat = Number(url.searchParams.get('lat'));

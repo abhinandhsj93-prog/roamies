@@ -127,6 +127,31 @@ export async function nearestSeededJson(env: FirestoreEnv, lat: number, lon: num
   return best?.json ?? null;
 }
 
+export type IndexEntry = { id: string; name: string; area: string; lat: number; lon: number };
+
+/** Every pre-written guide's name and location, for the app's place search. */
+export async function seededIndex(env: FirestoreEnv): Promise<IndexEntry[]> {
+  const res = await request(env, docUrl(env, '').replace(/\/$/, '') + ':runQuery', {
+    method: 'POST',
+    body: JSON.stringify({
+      structuredQuery: {
+        from: [{ collectionId: 'places' }],
+        where: { fieldFilter: { field: { fieldPath: 'seeded' }, op: 'EQUAL', value: { booleanValue: true } } },
+        select: { fields: [{ fieldPath: 'name' }, { fieldPath: 'lat' }, { fieldPath: 'lon' }, { fieldPath: 'json' }] },
+        limit: 5000,
+      },
+    }),
+  });
+  if (!res.ok) throw new Error(`firestore index ${res.status}`);
+  const rows = (await res.json()) as { document?: { name: string; fields?: Fields } }[];
+  return rows.flatMap(({ document: d }) => {
+    const f = d?.fields;
+    if (!f?.lat?.doubleValue || !f.lon?.doubleValue || !f.name?.stringValue) return [];
+    const area = (JSON.parse(f.json?.stringValue ?? '{}') as { area?: string }).area ?? '';
+    return [{ id: d!.name.split('/').pop()!.replace(/_en$/, ''), name: f.name.stringValue, area, lat: f.lat.doubleValue, lon: f.lon.doubleValue }];
+  });
+}
+
 const LOCK_SECONDS = 120;
 
 /**

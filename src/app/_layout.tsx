@@ -30,6 +30,7 @@ export default function RootLayout() {
         />
         <Stack.Screen name="story" options={{ presentation: 'fullScreenModal', animation: 'slide_from_bottom' }} />
         <Stack.Screen name="essentials" />
+        <Stack.Screen name="search" options={{ animation: 'fade_from_bottom' }} />
       </Stack>
     </AuthProvider>
   );
